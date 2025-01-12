@@ -18,6 +18,8 @@ Sec.
 
 1968. Civil investigative demand.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1990**—Pub. L. 101–647, title XXXV, §3559, Nov. 29, 1990, 104 Stat. 4927, struck out "racketeering" after "Prohibited" in item 1962.

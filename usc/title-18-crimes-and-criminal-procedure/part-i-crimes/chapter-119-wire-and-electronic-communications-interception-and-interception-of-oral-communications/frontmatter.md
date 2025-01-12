@@ -30,6 +30,8 @@ Sec.
 
 2523. Executive agreements on access to data by foreign governments.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2018**—Pub. L. 115–141, div. V, §105(b), Mar. 23, 2018, 132 Stat. 1224, added item 2523.

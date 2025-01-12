@@ -26,6 +26,8 @@ With the approval of the majority leader (in the case of a Member or Member-elec
 
 (Pub. L. 93–554, title I, ch. III, Dec. 27, 1974, 88 Stat. 1777; Pub. L. 104–186, title II, §202(4), Aug. 20, 1996, 110 Stat. 1725; Pub. L. 108–447, div. G, title I, §107(a), (b)(1), (c)(1), Dec. 8, 2004, 118 Stat. 3176.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section is based on section 202 of House Resolution No. 988, Ninety-third Congress, Oct. 8, 1974, which was enacted into permanent law by Pub. L. 93–554.
@@ -45,6 +47,8 @@ Subsec. (d). Pub. L. 108–447, §107(c)(1), added subsec. (d).
 **1996**—Subsec. (b)(2). Pub. L. 104–186, §202(4)(A), substituted "House Oversight" for "House Administration" in two places.
 
 Subsec. (c). Pub. L. 104–186, §202(4)(B), substituted "applicable accounts of the House of Representatives are" for "contingent fund of the House is".
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Change of Name ####
 

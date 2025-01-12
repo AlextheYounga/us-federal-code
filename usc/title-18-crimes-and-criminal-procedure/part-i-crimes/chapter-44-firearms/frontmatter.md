@@ -32,6 +32,8 @@ Sec.
 
 931. Prohibition on purchase, ownership, or possession of body armor by violent felons.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2004**—Pub. L. 108–277, §§2(b), 3(b), July 22, 2004, 118 Stat. 866, 867, added items 926B and 926C.
@@ -51,6 +53,8 @@ Sec.
 **1968**—Pub. L. 90–618, title I, §102, Oct. 22, 1968, 82 Stat. 1214, reenacted chapter analysis without change.
 
 Pub. L. 90–351, title IV, §902, June 19, 1968, 82 Stat. 226, added chapter 44 and items 921 to 928.
+
+#### **Executive Documents** ####
 
 #### Tracing of Firearms in Connection With Criminal Investigations ####
 

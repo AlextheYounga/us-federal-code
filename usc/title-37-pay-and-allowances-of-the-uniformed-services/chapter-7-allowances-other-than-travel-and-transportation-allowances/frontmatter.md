@@ -62,6 +62,8 @@ Sec.
 
 439. Special compensation: members of the uniformed services with catastrophic injuries or illnesses requiring assistance in everyday living.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2017**—Pub. L. 115–91, div. A, title VI, §604(a)(2), Dec. 12, 2017, 131 Stat. 1420, added item 403a.

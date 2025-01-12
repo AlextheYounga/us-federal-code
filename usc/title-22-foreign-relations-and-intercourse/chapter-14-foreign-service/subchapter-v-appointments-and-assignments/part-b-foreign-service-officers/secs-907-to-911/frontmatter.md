@@ -10,6 +10,8 @@ Section 910, acts Aug. 13, 1946, ch. 957, title V, §515, 60 Stat. 1008; Aug. 17
 
 Section 911, acts Aug. 13, 1946, ch. 957, title V, §516, 60 Stat. 1008; July 28, 1956, ch. 770, §5, 70 Stat. 704; Sept. 8, 1960, Pub. L. 86–723, §8, 74 Stat. 832; Aug. 17, 1977, Pub. L. 95–105, title IV, §405, 91 Stat. 853, related to admissions to class 6, 7, or 8 for Foreign Service officers.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Repeal effective Feb. 15, 1981, except as otherwise provided, see section 2403 of Pub. L. 96–465, set out as an Effective Date note under section 3901 of this title.

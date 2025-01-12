@@ -10,6 +10,8 @@ Shall be fined under this title, or imprisoned not more than six months, or both
 
 (Added Aug. 1, 1956, ch. 825, §1, 70 Stat. 797; amended Pub. L. 103–322, title XXXIII, §330016(1)(G), Sept. 13, 1994, 108 Stat. 2147.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1994**—Pub. L. 103–322 substituted "fined under this title" for "fined not more than $500".

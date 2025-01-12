@@ -12,6 +12,8 @@
 
 (Added Pub. L. 91–210, §1(1), Mar. 13, 1970, 84 Stat. 53, §406b; amended Pub. L. 93–170, Nov. 29, 1973, 87 Stat. 689; Pub. L. 96–513, title V, §516(11), Dec. 12, 1980, 94 Stat. 2938; Pub. L. 97–22, §11(b)(3)(A), July 10, 1981, 95 Stat. 138; Pub. L. 99–145, title VI, §616(a), (c)(1), Nov. 8, 1985, 99 Stat. 641; Pub. L. 100–26, §8(d)(7), Apr. 21, 1987, 101 Stat. 285; Pub. L. 100–180, div. A, title XII, §1233(a)(3), Dec. 4, 1987, 101 Stat. 1161; Pub. L. 101–189, div. A, title VI, §624(b), Nov. 29, 1989, 103 Stat. 1448; Pub. L. 102–484, div. A, title X, §1054(a)(5), Oct. 23, 1992, 106 Stat. 2502; renumbered §476b and amended Pub. L. 112–81, div. A, title VI, §631(d)(2), (e)(8), (f)(4)(A), Dec. 31, 2011, 125 Stat. 1460, 1462, 1465; Pub. L. 112–239, div. A, title X, §1076(a)(9), Jan. 2, 2013, 126 Stat. 1948.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Section 2634 of title 10, referred to in subsec. (c), was repealed by Pub. L. 113–66, div. A, title VI, §621(g)(1), Dec. 26, 2013, 127 Stat. 784.
@@ -41,6 +43,8 @@ Subsecs. (a) to (d). Pub. L. 99–145, §616(a), designated existing provisions 
 **1980**—Pub. L. 96–513 substituted "uniformed services" for "Uniformed Services", "title" for "chapter", and "later. However," for "later: *Provided, however*, That".
 
 **1973**—Pub. L. 93–170 substituted "overhauling or inactivating" for "overhauling" in section catchline, and "overhauled or inactivated" and "overhaul or inactivation" for "overhauled" and "overhaul" respectively, wherever appearing in text.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 2013 Amendment ####
 

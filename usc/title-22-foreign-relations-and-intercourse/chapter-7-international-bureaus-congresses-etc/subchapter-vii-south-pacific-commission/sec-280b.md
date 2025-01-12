@@ -8,6 +8,8 @@ There is hereby authorized to be appropriated to the Department of State, out of
 
 (Jan. 28, 1948, ch. 38, §3, 62 Stat. 15; Oct. 28, 1949, ch. 782, title II, §202(2), title XI, §1106(a), 63 Stat. 954, 972; Sept. 21, 1950, ch. 976, §1(c), 64 Stat. 902; Pub. L. 86–472, ch. VI, §603, May 14, 1960, 74 Stat. 141; Pub. L. 88–263, Jan. 31, 1964, 78 Stat. 7; Pub. L. 89–91, July 27, 1965, 79 Stat. 281; Pub. L. 91–632, Dec. 31, 1970, 84 Stat. 1876; Pub. L. 92–490, Oct. 13, 1972, 86 Stat. 808.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Subchapter XVII [§287m et seq.] of this chapter, referred to in subsec. (b), was in the original a reference to the Act of July 30, 1946 (Public Law 565, Seventy-ninth Congress).
@@ -35,6 +37,8 @@ In subsec. (b), "section 6101 of title 41" substituted for "section 3709 of the 
 **1950**—Subsec. (a). Joint Res. Sept. 21, 1950, substituted "$75,000" for "$20,000".
 
 **1949**—Subsec. (a). Act Oct. 28, 1949, substituted "Classification Act of 1949" for "Classification Act of 1923".
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Repeals ####
 

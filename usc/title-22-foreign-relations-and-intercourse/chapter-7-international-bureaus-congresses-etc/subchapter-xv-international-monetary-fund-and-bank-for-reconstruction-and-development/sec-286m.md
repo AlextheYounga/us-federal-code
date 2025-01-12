@@ -4,6 +4,8 @@ For the purpose of carrying out the agreement dated December 6, 1945, between th
 
 (July 15, 1946, ch. 577, §2, 60 Stat. 535.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Agreement dated December 6, 1945, between the United States and the United Kingdom, referred to in text, is set out as a note under section 286l of this title.

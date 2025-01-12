@@ -12,6 +12,8 @@ Section 995, acts Aug. 13, 1946, ch. 957, title VI, §625, 60 Stat. 1014; Sept. 
 
 Section 996, act Aug. 13, 1946, ch. 957, title VI, §626, as added Sept. 8, 1960, Pub. L. 86–723, §18, 74 Stat. 834, related to effect on promotion of functional and geographical area specialization.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Repeal effective Feb. 15, 1981, except as otherwise provided, see section 2403 of Pub. L. 96–465, set out as an Effective Date note under section 3901 of this title.

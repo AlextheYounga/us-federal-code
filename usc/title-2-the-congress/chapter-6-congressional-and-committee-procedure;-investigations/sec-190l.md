@@ -4,6 +4,8 @@ Any committee of either House of Congress before which any private claim against
 
 (Feb. 3, 1879, ch. 40, §1, 20 Stat. 278; Mar. 3, 1911, ch. 231, §291, 36 Stat. 1167; June 25, 1948, ch. 646, §1, 62 Stat. 909.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 This section and section 190m of this title were an act entitled "An act to provide for taking testimony, to be used before Congress, in cases of private claims against the United States."
@@ -11,6 +13,8 @@ This section and section 190m of this title were an act entitled "An act to prov
 The original text referred to "any standing master in chancery of the circuit of the United States within the judicial district where such testimony or evidence is to be taken." The words "of the circuit of the United States" were omitted as inappropriate since the abolition of circuit courts by act Mar. 3, 1911.
 
 Section was formerly classified to section 229 of Title 31 prior to the general revision and enactment of Title 31, Money and Finance, by Pub. L. 97–258, §1, Sept. 13, 1982, 96 Stat. 877.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Change of Name ####
 

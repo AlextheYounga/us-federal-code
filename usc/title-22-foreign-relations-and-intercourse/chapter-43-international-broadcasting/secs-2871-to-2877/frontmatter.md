@@ -14,6 +14,8 @@ Section 2876, Pub. L. 93–129, §7, Oct. 19, 1973, 87 Stat. 459; Pub. L. 99–5
 
 Section 2877, Pub. L. 93–129, §8, Oct. 19, 1973, 87 Stat. 460; Pub. L. 93–392, Aug. 28, 1974, 88 Stat. 781; Pub. L. 94–104, §1, Oct. 6, 1975, 89 Stat. 508; Pub. L. 94–350, title III, §301, July 12, 1976, 90 Stat. 832; Pub. L. 95–105, title III, §301, Aug. 17, 1977, 91 Stat. 851; Pub. L. 95–426, title III, §§301(a), 302, 306, Oct. 7, 1978, 92 Stat. 975, 976; Pub. L. 96–60, title III, §302, Aug. 15, 1979, 93 Stat. 402; Pub. L. 97–241, title I, §112(c), title IV, §402, Aug. 24, 1982, 96 Stat. 278, 296; Pub. L. 98–164, title III, §§302, 303, Nov. 22, 1983, 97 Stat. 1036; Pub. L. 99–93, title III, §§301(a), 302, Aug. 16, 1985, 99 Stat. 434; Pub. L. 100–204, title V, §§501(a), 502, Dec. 22, 1987, 101 Stat. 1383; Pub. L. 101–246, title III, §301(a), Feb. 16, 1990, 104 Stat. 63; Pub. L. 102–138, title II, §§241, 242, Oct. 28, 1991, 105 Stat. 704, authorized appropriations to carry out this chapter.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Repeal effective Aug. 11, 1995, see section 6209(e) of this title.

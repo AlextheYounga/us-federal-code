@@ -32,6 +32,8 @@ The word "Possession" was inserted to clarify scope of section.
 
 Minor changes were made in phraseology.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1996**—Subsec. (a). Pub. L. 104–132, §901(b)(1), inserted "or on, above, or below any portion of the territorial sea of the United States not within the jurisdiction of any State, Commonwealth, territory, possession, or district" after "section 7 of this title,".
@@ -44,9 +46,13 @@ Subsec. (c). Pub. L. 104–132, §901(b)(2), added subsec. (c).
 
 **1988**—Pub. L. 100–690 designated existing provisions as subsec. (a) and added subsec. (b).
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of 1996 Amendment ####
 
 Pub. L. 104–294, title VI, §604(d), Oct. 11, 1996, 110 Stat. 3509, provided that: "The amendments made by this section [amending this section, sections 36, 112, 113, 241, 242, 245, 351, 511, 542, 544, 545, 668, 704, 709, 794, 1014, 1030, 1112, 1169, 1512, 1515, 1516, 1751, 1956, 1961, 2114, 2311, 2339A, 2423, 2511, 2512, 2721, 3059A, 3561, 3582, 3592, and 5037 of this title, section 802 of Title 21, Food and Drugs, sections 540A and 991 of Title 28, Judiciary and Judicial Procedure, and sections 3631, 5633, 10604, and 14011 of Title 42, The Public Health and Welfare, and amending provisions set out as notes under sections 1001, 1169, and 2325 of this title and section 994 of Title 28] shall take effect on the date of enactment of Public Law 103–322 [Sept. 13, 1994]."
+
+#### **Executive Documents** ####
 
 #### Territorial Sea of United States ####
 

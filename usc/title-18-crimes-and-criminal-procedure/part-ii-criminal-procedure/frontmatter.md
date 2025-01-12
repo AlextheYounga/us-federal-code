@@ -64,6 +64,8 @@ Chap. Sec.
 
 238. Sexual assault survivors' rights 3772
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2016**—Pub. L. 114–316, §2(b)(1), Dec. 16, 2016, 130 Stat. 1593, struck out "trafficking in persons" before "offenses" in item for chapter 212A.
@@ -97,6 +99,8 @@ Pub. L. 98–473, title II, §§203(d), 212(b), 1209(a), 1406(b), Oct. 12, 1984,
 **1968**—Pub. L. 90–578, title III, §301(c), Oct. 17, 1968, 82 Stat. 1115, substituted "Trial by United States magistrates" for "Trial by commissioners" in item for chapter 219.
 
 **1966**—Pub. L. 89–465, §5(e)(2), June 22, 1966, 80 Stat. 217, substituted "Release" for "Bail" in item for chapter 207.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Change of Name ####
 

@@ -14,6 +14,8 @@ For the purposes of subsection (b), the Office of Management and Budget and the 
 
 (Pub. L. 93–344, title V, §506, as added Pub. L. 101–508, title XIII, §13201(a), Nov. 5, 1990, 104 Stat. 1388–614; amended Pub. L. 105–33, title X, §10117(d), Aug. 5, 1997, 111 Stat. 695.)
 
+#### **Editorial Notes** ####
+
 #### Prior Provisions ####
 
 A prior section 506 of Pub. L. 93–344, title V, July 12, 1974, 88 Stat. 322, amended section 105 of Title 1, General Provisions, and enacted provisions set out as a note under section 105 of Title 1, prior to the general revision of title V of Pub. L. 93–344 by Pub. L. 101–508.

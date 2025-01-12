@@ -11,6 +11,8 @@ Chap. Sec.
 
 3. Inter-American Convention on International Commercial Arbitration 301
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1990**—Pub. L. 101–369, §2, Aug. 15, 1990, 104 Stat. 450, added item for chapter 3.
@@ -38,6 +40,8 @@ Showing where former sections of Title 9 and the laws from which such former sec
 |           13            |Feb. 12, 1925, ch. 213, §13, 43 Stat. 886|          13          |
 |           14            |Feb. 12, 1925, ch. 213, §14, 43 Stat. 886|         Rep.         |
 |           15            |Feb. 12, 1925, ch. 213, §15, 43 Stat. 886|          14          |
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Positive Law; Citation ####
 

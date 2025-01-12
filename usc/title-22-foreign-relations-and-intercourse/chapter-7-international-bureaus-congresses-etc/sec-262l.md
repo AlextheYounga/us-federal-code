@@ -92,6 +92,8 @@ The Administrator of the Agency for International Development shall appoint a Co
 
 (Pub. L. 99–500, §101(f) [title V, §539], Oct. 18, 1986, 100 Stat. 1783–213, 1783–232, and Pub. L. 99–591, §101(f) [title V, §539], Oct. 30, 1986, 100 Stat. 3341–214, 3341–232.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section is from the Foreign Assistance and Related Programs Appropriations Act, 1987.
@@ -107,6 +109,8 @@ Another prior section 262l, Pub. L. 101–167, title V, §533, Nov. 21, 1989, 10
 Another prior section 262l, Pub. L. 100–461, title V, §535, Oct. 1, 1988, 102 Stat. 2268–28, which related to sustainable use of natural resources and use of agricultural and industrial chemicals, was transferred to section 262l–2 of this title.
 
 Another prior section 262l, Pub. L. 100–202, §101(e) [title V, §537], Dec. 22, 1987, 101 Stat. 1329–131, 1329–161; Pub. L. 101–240, title V, §541(d)(8), Dec. 19, 1989, 103 Stat. 2518, which related to sustainable economic growth and management of natural resources, environmental impact of loans, pest management, addition of trained professionals, and "early warning system", was transferred to section 262l–1 of this title.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Similar Provisions ####
 

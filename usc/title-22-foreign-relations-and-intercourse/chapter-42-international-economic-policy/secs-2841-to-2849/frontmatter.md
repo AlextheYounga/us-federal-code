@@ -1,5 +1,7 @@
 ### §§2841 to 2849. Omitted ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Sections 2841 to 2847, 2848, and 2849 expired Sept. 30, 1977, pursuant to section 2848 of this title.
@@ -24,6 +26,8 @@ Section 2848, Pub. L. 92–412, title II, §209, Aug. 29, 1972, 86 Stat. 649; Pu
 
 Section 2849, Pub. L. 92–412, title II, §210, Aug. 29, 1972, 86 Stat. 649; Pub. L. 93–121, §3, Oct. 4, 1973, 87 Stat. 448; Pub. L. 93–315, June 22, 1974, 88 Stat. 239; Pub. L. 94–87, §3, Aug. 9, 1975, 89 Stat. 432, related to authorization of appropriations.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Short Title ####
 
 Pub. L. 94–412, title II, §201, Aug. 29, 1972, 86 Stat. 646, provided that this chapter be cited as the International Economic Policy Act of 1972.
@@ -31,6 +35,8 @@ Pub. L. 94–412, title II, §201, Aug. 29, 1972, 86 Stat. 646, provided that th
 #### Discriminatory Trade Practices Affecting United States Foreign Relations; Report to Congress ####
 
 Pub. L. 95–426, title VI, §606, Oct. 7, 1978, 92 Stat. 987, provided that since those provisions of United States statutes which authorize or require suspension of or discrimination with respect to all trade between the United States and a particular foreign country and which effect, directly and significantly, the conduct of United States foreign relations should be periodically reevaluated by the President and Congress, and required the President, not later than Jan. 20, 1977, to transmit to the Speaker of the House of Representatives and to the chairman of the Committee on Foreign Relations and the chairmen of other appropriate committees of the Senate, a report which identifies all statutory provisions which provide for such discriminatory trade practices, evaluates each such practice, and recommends, in the form of draft legislation, amendments to those provisions the President certifies would in his judgment advance United States foreign policy interest.
+
+#### **Executive Documents** ####
 
 #### Executive Order No. 11789 ####
 

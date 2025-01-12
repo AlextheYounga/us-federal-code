@@ -6,9 +6,13 @@
 
 (Pub. L. 89–369, §23, as added Pub. L. 95–118, title V, §501, Oct. 3, 1977, 91 Stat. 1069; amended Pub. L. 97–35, title XIII, §1352(c), Aug. 13, 1981, 95 Stat. 745.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1981**—Subsec. (b). Pub. L. 97–35 inserted provision limiting amount of appropriations available for contributions for fiscal year 1982.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 1981 Amendment ####
 

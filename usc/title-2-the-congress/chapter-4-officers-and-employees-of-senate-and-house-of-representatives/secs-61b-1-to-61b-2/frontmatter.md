@@ -1,5 +1,7 @@
 ### §§61b–1 to 61b–2. Omitted ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Sections were omitted in view of section 6539 of this title which abolished all statutory positions in Office of Secretary of Senate, with specified exceptions, effective Oct. 1, 1981, and authorized Secretary of Senate to appoint and fix the compensation of such employees as appropriate.

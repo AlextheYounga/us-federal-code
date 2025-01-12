@@ -20,6 +20,8 @@ The use of the seal described in section 179m(a)(3) of this title shall be effec
 
 (Pub. L. 104–285, title I, §107, Oct. 11, 1996, 110 Stat. 3381; Pub. L. 109–9, title III, §302(d), Apr. 27, 2005, 119 Stat. 225.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2005**—Subsec. (a)(1). Pub. L. 109–9, §302(d)(1), inserted "in any format" after "or any copy" in introductory provisions.

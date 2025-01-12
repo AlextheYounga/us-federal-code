@@ -15,6 +15,8 @@ IV. Correction of Youthful Offenders 5001
 
 V. Immunity of Witnesses 6001
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1970**—Pub. L. 91–452, title II, §201(b), Oct. 15, 1970, 84 Stat. 928, added Part V.
@@ -663,6 +665,8 @@ V. Immunity of Witnesses 6001
 |                927                |                            5037                            |
 |                928                |                           Elim.                            |
 |                929                |                            Rep.                            |
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Positive Law; Citation ####
 

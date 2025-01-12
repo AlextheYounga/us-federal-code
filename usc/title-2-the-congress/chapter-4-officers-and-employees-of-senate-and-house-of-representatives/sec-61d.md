@@ -1,5 +1,7 @@
 ### §61d. Transferred ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section 61d was editorially reclassified as section 6651 of this title. Section 6651 of this title was subsequently repealed by Pub. L. 116–94, div. E, title II, §212(a)(3)(G), Dec. 20, 2019, 133 Stat. 2776.

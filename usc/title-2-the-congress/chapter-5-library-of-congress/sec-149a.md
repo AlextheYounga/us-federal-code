@@ -14,6 +14,8 @@ This section shall apply with respect to fiscal year 2012 and each succeeding fi
 
 (Pub. L. 112–74, div. G, title I, §1304, Dec. 23, 2011, 125 Stat. 1132.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section is from the Legislative Branch Appropriations Act, 2012, which is div. G of the Consolidated Appropriations Act, 2012.

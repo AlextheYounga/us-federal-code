@@ -4,6 +4,8 @@ There is hereby authorized to be appropriated annually to the Department of Stat
 
 (Dec. 20, 1945, ch. 583, §8, formerly §7, 59 Stat. 621, renumbered and amended Oct. 10, 1949, ch. 660, §6, 63 Stat. 736; Oct. 28, 1949, ch. 782, title II, §202(2), title XI, §1106(a), 63 Stat. 954, 972; Pub. L. 86–707, title III, §311(b), Sept. 6, 1960, 74 Stat. 797; Pub. L. 96–465, title II, §2206(a)(2)(B), Oct. 17, 1980, 94 Stat. 2161; Pub. L. 97–241, title I, §119, Aug. 24, 1982, 96 Stat. 280; Pub. L. 100–459, title III, §304(a), Oct. 1, 1988, 102 Stat. 2207.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Article 17 of the Charter, referred to in text, is article 17 of the United Nations Charter.
@@ -35,6 +37,8 @@ In text, "section 6101 of title 41" substituted for "section 3709 of the Revised
 **1949**—Act Oct. 28, 1949, substituted "Classification Act of 1949" for "Classification Act of 1923".
 
 Act Oct. 10, 1949, which renumbered section as section 8 of act Dec. 20, 1945, from section 7, authorized lease or rental, for periods not to exceed 10 years, of a residence for our representative to the United Nations, and clarified references to the civil service and classification laws, subsistence allowances, and travel expense.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 1988 Amendment ####
 
@@ -216,7 +220,7 @@ Pub. L. 98–164, title I, §114, Nov. 22, 1983, 97 Stat. 1020, as amended by Pu
 
 #### Annual Review for Projects Providing Political Benefits to Palestine Liberation Organization; Report to Congress on Withholding of Assessed Contribution ####
 
-Section 104(c) of Pub. L. 97–241 provided that: "The President shall annually review the budgets of the United Nations and its specialized agencies to determine which projects have the primary purpose of providing political benefit to the Palestine Liberation Organization. The President shall report to the Congress on any such project for which a portion of the United States assessed contribution is withheld and the amount withheld."
+Pub. L. 97–241, title I, §104(c), Aug. 24, 1982, 96 Stat. 274, provided that: "The President shall annually review the budgets of the United Nations and its specialized agencies to determine which projects have the primary purpose of providing political benefit to the Palestine Liberation Organization. The President shall report to the Congress on any such project for which a portion of the United States assessed contribution is withheld and the amount withheld."
 
 [Functions of the President under section 104(c) of Pub. L. 97–241, set out as a note above, delegated to the Secretary of State, see Ex. Ord. No. 12374, July 28, 1982, 47 F.R. 32903, as amended by Ex. Ord. No. 12408, Feb. 23, 1983, 48 F.R. 8035.]
 

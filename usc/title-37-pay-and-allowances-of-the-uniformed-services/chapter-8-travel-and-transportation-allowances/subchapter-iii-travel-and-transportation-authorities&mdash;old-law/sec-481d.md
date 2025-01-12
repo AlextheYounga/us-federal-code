@@ -22,6 +22,8 @@
 
 (Added Pub. L. 97–60, title I, §126(a), Oct. 14, 1981, 95 Stat. 1004, §411d; amended Pub. L. 98–525, title VI, §612(a)(1), Oct. 19, 1984, 98 Stat. 2538; Pub. L. 100–26, §8(e)(6), Apr. 21, 1987, 101 Stat. 286; Pub. L. 102–25, title VII, §702(b)(1), (2), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 103–337, div. A, title VI, §623, Oct. 5, 1994, 108 Stat. 2784; Pub. L. 106–65, div. A, title VI, §633, Oct. 5, 1999, 113 Stat. 661; Pub. L. 107–314, div. A, title VI, §654(b)(5), Dec. 2, 2002, 116 Stat. 2582; renumbered §481d and amended Pub. L. 112–81, div. A, title VI, §631(d)(2), (e)(18), Dec. 31, 2011, 125 Stat. 1460, 1463.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2011**—Pub. L. 112–81, §631(d)(2), renumbered section 411d of this title as this section.
@@ -51,6 +53,8 @@ Subsec. (b). Pub. L. 98–525 added subsec. (b). Former subsec. (b) redesignated
 Subsec. (c). Pub. L. 98–525 redesignated subsec. (b) as (c), substituted "Transportation under this section may be authorized only upon a determination that, considering the nature of the personal emergency involved, Government transportation is not reasonably available" for "Transportation under this section may be authorized only upon a determination that Government transportation is not reasonably available, considering the nature of the personal emergency involved", and substituted "The cost of transportation authorized under this section for a member, or the dependents of a member, may not exceed the cost of Government-procured commercial air travel between the applicable locations described in subsection (b) of this section" for "The cost of transportation authorized under this section may not exceed the cost of Government-procured commercial air travel from the member's place of temporary duty (or from his ship or unit) to the member's permanent duty station (or the home port of the ship or unit), and return (if applicable)".
 
 Subsec. (d). Pub. L. 98–525 added subsec. (d).
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 1984 Amendment ####
 

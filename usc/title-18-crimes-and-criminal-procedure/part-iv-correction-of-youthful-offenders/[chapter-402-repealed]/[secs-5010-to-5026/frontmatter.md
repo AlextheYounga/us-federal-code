@@ -34,6 +34,8 @@ Section 5025, added act Apr. 8, 1952, ch. 163, §3(a), 66 Stat. 46; amended Dec.
 
 Section 5026, added act Apr. 8, 1952, ch. 163, §3(a), 66 Stat. 46, provided that this chapter did not affect parole of other offenders.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Repeal effective Oct. 12, 1984, with sections 5017 to 5020 to remain in effect for five years as to an individual who committed an offense or an act of juvenile delinquency before Nov. 1, 1987, and as to a term of imprisonment during the period described in section 235(a)(1)(B) of Pub. L. 98–473, see section 235(a)(1)(A), (b)(1)(E) of Pub. L. 98–473, set out as an Effective Date note under section 3551 of this title.

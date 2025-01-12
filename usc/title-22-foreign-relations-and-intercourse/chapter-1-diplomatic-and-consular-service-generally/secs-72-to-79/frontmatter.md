@@ -1,5 +1,7 @@
 ### §§72 to 79. Transferred ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section 72, R.S. §4082, which related to solemnization of marriages, was transferred to section 4192 of this title and subsequently repealed.

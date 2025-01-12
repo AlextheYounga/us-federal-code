@@ -6,6 +6,8 @@ Section 2177, Pub. L. 87–195, pt. I, §217, as added Pub. L. 88–633, pt. I, 
 
 Section 2178, Pub. L. 87–195, pt. I, §218, as added Pub. L. 90–137, pt. I, §103(a), Nov. 14, 1967, 81 Stat. 450, related to the demonstration of the use of fish and other protein concentrates as a means of reducing nutritional deficiencies in less developed countries.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Repeal effective Oct. 1, 1978, see section 605 of Pub. L. 95–424, set out as an Effective Date of 1978 Amendment note under section 2151 of this title.

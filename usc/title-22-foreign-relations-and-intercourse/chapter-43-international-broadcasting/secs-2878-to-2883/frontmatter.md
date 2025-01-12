@@ -12,6 +12,8 @@ Section 2882, Pub. L. 93–129, §13, as added Pub. L. 98–164, title III, §30
 
 Section 2883, Pub. L. 93–129, §14, as added Pub. L. 99–93, title III, §303(b), Aug. 16, 1985, 99 Stat. 434, authorized use of funds for radio broadcasting to Afghanistan in the Dari and Pashto languages.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Repeal effective Aug. 11, 1995, see section 6209(e) of this title.

@@ -80,6 +80,8 @@ The Librarian shall establish rules and procedures to address any potential conf
 
 (Pub. L. 104–285, title I, §104, Oct. 11, 1996, 110 Stat. 3378; Pub. L. 109–9, title III, §302(b), Apr. 27, 2005, 119 Stat. 225; Pub. L. 110–336, §3(a)(3), Oct. 2, 2008, 122 Stat. 3727.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2008**—Subsec. (a)(1)(E). Pub. L. 110–336, §3(a)(3)(A), substituted "Cinema and Media" for "Cinema".

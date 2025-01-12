@@ -12,6 +12,8 @@ Section 2346h, Pub. L. 87–195, pt. II, §539, as added Pub. L. 97–113, title
 
 Section 2346i, Pub. L. 87–195, pt. II, §540, as added Pub. L. 97–113, title VII, §708(c), Dec. 29, 1981, 95 Stat. 1546, related to programs for Poland.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Repeal effective Oct. 1, 1985, see section 1301 of Pub. L. 99–83, set out as an Effective Date of 1985 Amendment note under section 2151–1 of this title.

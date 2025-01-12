@@ -26,9 +26,13 @@ The provisions of this section are enacted—
 
 (Pub. L. 95–521, title VII, §711, Oct. 26, 1978, 92 Stat. 1882.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 This chapter, referred to in subsec. (b), was in the original "this title", meaning title VII of Pub. L. 95–521, which enacted this chapter, section 5504 of this title, and section 1364 of Title 28, Judiciary and Judicial Procedure, and amended sections 3210, 3216, and 3219 of Title 39, Postal Service. For complete classification of title VII to the Code, see Tables.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date ####
 

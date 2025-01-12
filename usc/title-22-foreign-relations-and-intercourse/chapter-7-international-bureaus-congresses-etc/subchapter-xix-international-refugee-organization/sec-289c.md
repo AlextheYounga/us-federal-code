@@ -6,6 +6,8 @@
 
 (July 1, 1947, ch. 185, §4, 61 Stat. 215; Pub. L. 89–554, §8(a), Sept. 6, 1966, 80 Stat. 654.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 In subsec. (a), "section 3324(a) and (b) of title 31 and section 6101 of title 41" substituted for "sections 3709 and 3648 of the Revised Statutes, as amended (U.S.C., 1940 edition, title 41, sec. 5, and title 31, sec. 529)" on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, which Act enacted Title 31, Money and Finance, and Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.

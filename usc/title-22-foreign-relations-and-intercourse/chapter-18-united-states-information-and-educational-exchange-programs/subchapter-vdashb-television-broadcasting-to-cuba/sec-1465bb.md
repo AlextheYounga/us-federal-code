@@ -46,6 +46,8 @@ It is the sense of the Congress that the President should establish a task force
 
 Section repealed upon transmittal of determination by President under section 6063(c)(3) of this title that democratically elected government in Cuba is in power, see section 6037(c) of this title.
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Communications Act of 1934, referred to in subsec. (d)(1), is act June 19, 1934, ch. 652, 48 Stat. 1064, as amended, which is classified principally to chapter 5 (§151 et seq.) of Title 47, Telecommunications. For complete classification of this Act to the Code, see section 609 of Title 47 and Tables.
@@ -59,6 +61,8 @@ Section was enacted as part of the Television Broadcasting to Cuba Act which com
 **1998**—Subsec. (a). Pub. L. 105–277, §1325(1), substituted "Broadcasting Board of Governors" for "United States Information Agency".
 
 Subsec. (c). Pub. L. 105–277, §1325(2), in heading struck out "USIA" before "Television" and in text substituted "the 'Television" for " 'USIA Television".
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Change of Name ####
 

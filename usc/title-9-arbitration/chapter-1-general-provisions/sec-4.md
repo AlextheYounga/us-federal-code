@@ -8,6 +8,8 @@ A party aggrieved by the alleged failure, neglect, or refusal of another to arbi
 
 Act Feb. 12, 1925, ch. 213, §4, 43 Stat. 883.
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Federal Rules of Civil Procedure, referred to in text, are set out in Appendix to Title 28, Judiciary and Judicial Procedure.

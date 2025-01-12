@@ -1,5 +1,7 @@
 ### §§233 to 233g. Transferred ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section 233, act June 15, 1917, ch. 30, title VIII, §3, 40 Stat. 226, as amended, which related to acting as a foreign agent without notice to Secretary of State, was transferred to section 601 of this title and was subsequently repealed by act June 25, 1948, ch. 645, §21, 62 Stat. 862. See section 951 of Title 18, Crimes and Criminal Procedure.

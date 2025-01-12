@@ -1,5 +1,7 @@
 ### §§1613 to 1613d. Omitted ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Sections, acts Oct. 26, 1951, ch. 575, title III, §§301–305, 65 Stat. 647; Sept. 4, 1961, Pub. L. 87–195, pt. IV, §703(a), 75 Stat. 463; Oct. 19, 1980, Pub. L. 96–470, title I, §111(a), 94 Stat. 2239, were superseded, effective October 1, 1979, by former section 4619(e) of Title 50, War and National Defense.

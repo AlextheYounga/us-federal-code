@@ -1,5 +1,7 @@
 ### §§7531 to 7538. Omitted ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Sections 7531 to 7538 of this title were omitted pursuant to section 7538 of this title, which provided that the authority of this subchapter expired after Sept. 30, 2006.

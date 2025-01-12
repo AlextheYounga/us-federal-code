@@ -4,6 +4,8 @@ Section 2652, May 26, 1949, ch. 143, §1, 63 Stat. 111; Feb. 7, 1953. ch. 2, 67 
 
 Section 2652a, Pub. L. 95–426, title I, §115(a), Oct. 7, 1978, 92 Stat. 969, established position in Department of State of Assistant Secretary of State for International Narcotics Matters.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Repeal applicable with respect to officials, offices, and bureaus of Department of State when executive orders, regulations, or departmental directives implementing the amendments by sections 161 and 162 of Pub. L. 103–236 become effective, or 90 days after Apr. 30, 1994, whichever comes earlier, see section 161(b) of Pub. L. 103–236, as amended, set out as an Effective Date of 1994 Amendment note under section 2651a of this title.

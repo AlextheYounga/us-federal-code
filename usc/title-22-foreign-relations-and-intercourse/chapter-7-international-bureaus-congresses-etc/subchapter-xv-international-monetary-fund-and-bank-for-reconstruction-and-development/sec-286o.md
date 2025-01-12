@@ -10,6 +10,8 @@ The proceeds resulting from the use of Special Drawing Rights by the United Stat
 
 (Pub. L. 90–349, §3, June 19, 1968, 82 Stat. 188; Pub. L. 94–564, §5(1), (2), Oct. 19, 1976, 90 Stat. 2661.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 In subsec. (a), "section 5302 of title 31" substituted for "section 10 of the Gold Reserve Act of 1934, as amended (31 U.S.C. 822a)" on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
@@ -21,6 +23,8 @@ Section was not enacted as part of act July 31, 1945, ch. 339, 59 Stat. 512, kno
 **1976**—Subsec. (a). Pub. L. 94–564, §5(1), substituted "article XVIII" for "article XXIV".
 
 Subsec. (b). Pub. L. 94–564, §5(2), substituted "article XX, article XXIV, and XXV" for "article XXVI, article XXX, and article XXXI" wherever appearing.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 1976 Amendment ####
 

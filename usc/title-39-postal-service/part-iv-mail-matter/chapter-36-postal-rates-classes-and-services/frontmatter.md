@@ -76,6 +76,8 @@ Sec.
 
 3691. Establishment of modern service standards.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2006**—Pub. L. 109–435, title II, §206, Dec. 20, 2006, 120 Stat. 3217, added chapter heading and analysis and struck out former chapter heading "POSTAL RATES, CLASSES, AND SERVICES" and analysis consisting of items for subchapters I to V and items 3601 to 3604, 3621 to 3629, 3641 and 3642, 3661 to 3663, and 3681 to 3685.

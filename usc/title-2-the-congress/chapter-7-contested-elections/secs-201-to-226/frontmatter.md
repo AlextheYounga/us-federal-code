@@ -54,6 +54,8 @@ Section 225, R.S. §129, provided that each officer employed pursuant to this ch
 
 Section 226, R.S. §130; Mar. 3, 1879, ch. 182, §1, 20 Stat. 400, limited payments of expenses to contestee or contestant to $2,000, and then, only upon filing of a detailed account of expenses with Clerk of Committee on Elections.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Repeal applicable with respect to any general or special election for Representative in, or Resident Commissioner to, the Congress of the United States occurring after December 5, 1969, see section 19 of Pub. L. 91–138, set out as an Effective Date note under section 381 of this title.

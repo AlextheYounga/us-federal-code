@@ -4,9 +4,13 @@ The Congress declares it to be the policy of the United States, in connection wi
 
 (Pub. L. 95–118, title IX, §901, Oct. 3, 1977, 91 Stat. 1071; Pub. L. 97–35, title XIII, §1371(b)(2), Aug. 13, 1981, 95 Stat. 746.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1981**—Pub. L. 97–35 redesignated subsec. (a) as entire section and struck out subsec. (b) which related to an annual report to Congress on the progress towards achieving the goals of this section.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 1981 Amendment ####
 

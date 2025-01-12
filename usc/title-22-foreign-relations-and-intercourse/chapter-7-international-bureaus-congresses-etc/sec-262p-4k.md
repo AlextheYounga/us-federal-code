@@ -8,6 +8,8 @@ The Secretary of the Treasury shall instruct the United States Executive Directo
 
 (Pub. L. 95–118, title XVI, §1616, as added Pub. L. 101–240, title V, §512, Dec. 19, 1989, 103 Stat. 2510.)
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Definitions ####
 
 The definitions in section 262p–5 of this title apply to this section.

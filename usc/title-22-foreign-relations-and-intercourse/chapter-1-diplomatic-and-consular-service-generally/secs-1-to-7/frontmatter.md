@@ -18,6 +18,8 @@ Section 6, act May 24, 1924, ch. 182, §12, formerly §5, 43 Stat. 141; renumber
 
 Section 7, act May 24, 1924, ch. 182, §14, as added Feb. 23, 1931, ch. 276, §7, 46 Stat. 1208; amended May 3, 1945, ch. 105, §6, 59 Stat. 103, related to reports and recommendations for promotions.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Repeal effective three months after Aug. 13, 1946, see act Aug. 13, 1946, ch. 957, title XI, §1141, 60 Stat. 1040.

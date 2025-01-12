@@ -22,6 +22,8 @@ Section 270, act Aug. 2, 1946, ch. 753, title III, §311, 60 Stat. 842, related 
 
 For provisions relating to disclosure of lobbying activities to influence the Federal Government, see section 1601 et seq. of this title.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Repeal effective Jan. 1, 1996, except as otherwise provided, see section 24 of Pub. L. 104–65, set out as an Effective Date note under section 1601 of this title.

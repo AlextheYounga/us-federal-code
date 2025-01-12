@@ -4,6 +4,8 @@ Sections 1541–1546, act Apr. 3, 1948, ch. 169, title IV, §§402–407, 62 Sta
 
 Section 1547, acts June 5, 1950, ch. 220, title II, §202, 64 Stat. 202; Oct. 10, 1951, ch. 479, title III, §302(b), 65 Stat. 376; June 20, 1952, ch. 449, §5(c), 66 Stat. 143; July 16, 1953, ch. 195, ch. V, §502, 67 Stat. 154, related to nature of assistance.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Additional Appropriations ####
 
-Section 12 of act Apr. 19, 1949, ch. 77, 63 Stat. 55, as amended by act Feb. 14, 1950, ch. 16, §2, 64 Stat. 5, made available additional appropriations for assistance in China.
+Act Apr. 19, 1949, ch. 77, §12, 63 Stat. 55, as amended by act Feb. 14, 1950, ch. 16, §2, 64 Stat. 5, made available additional appropriations for assistance in China.

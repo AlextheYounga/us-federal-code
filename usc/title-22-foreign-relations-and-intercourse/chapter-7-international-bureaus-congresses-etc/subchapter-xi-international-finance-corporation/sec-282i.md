@@ -10,6 +10,8 @@
 
 (Aug. 11, 1955, ch. 788, §11, as added Pub. L. 95–118, title III, §301, Oct. 3, 1977, 91 Stat. 1068.)
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date ####
 
 Pub. L. 95–118, title X, §1001, Oct. 3, 1977, 91 Stat. 1072, provided that: "This Act [enacting this section and sections 262c, 262d, 262e to 262g, 284n, 285s, 285t, 286e–1f, and 290g–10 of this title, repealing sections 283y, 284m, 290g–9 of this title, and enacting provisions set out as a note under section 262c of this title] shall take effect on the date of its enactment [Oct. 3, 1977], except that no funds authorized to be appropriated by any amendment contained in title II, III, IV, V, or VI [enacting this section and sections 286e–1f, 284n, 285s, 285t, or 290g–10 of this title] may be available for use or obligation prior to October 1, 1977".

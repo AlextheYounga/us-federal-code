@@ -26,6 +26,8 @@ Amounts appropriated to carry out the purposes of this subchapter are authorized
 
 Section repealed upon transmittal of determination by President under section 6063(c)(3) of this title that democratically elected government in Cuba is in power, see section 6037(c) of this title.
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Section 201, referred to in subsec. (a), means section 201 of Pub. L. 101–246, title II, Feb. 16, 1990, 104 Stat. 48, which was not classified to the Code.
@@ -40,9 +42,13 @@ Section was enacted as part of the Television Broadcasting to Cuba Act which com
 
 **1991**—Subsec. (c). Pub. L. 102–138 added subsec. (c).
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Transfer of Functions ####
 
 United States Information Agency (other than Broadcasting Board of Governors and International Broadcasting Bureau) abolished and functions transferred to Secretary of State, see sections 6531 and 6532 of this title.
+
+#### **Executive Documents** ####
 
 #### Television Broadcasting to Cuba ####
 

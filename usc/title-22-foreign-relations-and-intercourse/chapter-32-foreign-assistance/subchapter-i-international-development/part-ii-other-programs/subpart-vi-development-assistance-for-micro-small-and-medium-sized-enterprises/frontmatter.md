@@ -1,5 +1,7 @@
 ### subpart vi—development assistance for micro, small, and medium-sized enterprises ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Pub. L. 115–428, §4(j), Jan. 9, 2019, 132 Stat. 5516, substituted "DEVELOPMENT ASSISTANCE FOR MICRO, SMALL, AND MEDIUM-SIZED ENTERPRISES" for "MICROENTERPRISE DEVELOPMENT ASSISTANCE" in subpart heading.

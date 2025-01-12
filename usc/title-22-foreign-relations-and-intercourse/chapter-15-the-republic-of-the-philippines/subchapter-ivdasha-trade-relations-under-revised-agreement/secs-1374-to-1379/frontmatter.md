@@ -1,5 +1,7 @@
 ### §§1374 to 1379. Omitted ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section 1374, act Aug. 1, 1955, ch. 438, title III, §303, 69 Stat. 426, related to quotas established by article III of the revised agreement. See Codification note for section 1371 of this title.

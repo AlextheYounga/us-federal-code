@@ -12,6 +12,8 @@
 
 (Added Pub. L. 97–60, title I, §126(a), Oct. 14, 1981, 95 Stat. 1003, §411c; amended Pub. L. 100–26, §8(d)(9), Apr. 21, 1987, 101 Stat. 286; Pub. L. 105–261, div. A, title VI, §633(a), (b)(1), Oct. 17, 1998, 112 Stat. 2044; renumbered §481c and amended Pub. L. 112–81, div. A, title VI, §631(d)(2), (e)(17), Dec. 31, 2011, 125 Stat. 1460, 1463.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2011**—Pub. L. 112–81, §631(d)(2), renumbered section 411c of this title as this section.

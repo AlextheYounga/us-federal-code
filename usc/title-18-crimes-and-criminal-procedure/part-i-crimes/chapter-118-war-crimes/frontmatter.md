@@ -6,6 +6,8 @@ Sec.
 
 2442. Recruitment or use of child soldiers.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2008**—Pub. L. 110–340, §2(a)(3)(A), Oct. 3, 2008, 122 Stat. 3736, added item 2442.

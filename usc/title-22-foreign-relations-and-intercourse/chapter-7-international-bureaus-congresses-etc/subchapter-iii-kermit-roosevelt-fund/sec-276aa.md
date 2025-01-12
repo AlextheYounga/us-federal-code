@@ -4,9 +4,13 @@ There is established in the Department of the Army a board to be known as the Tr
 
 (July 2, 1945, ch. 228, §1, 59 Stat. 316; July 26, 1947, ch. 343, title II, §205(a), 61 Stat. 501.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section was formerly classified to section 224 of Title 5 prior to the general revision and enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, §1, Sept. 6, 1966, 80 Stat. 378.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Change of Name ####
 

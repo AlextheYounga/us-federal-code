@@ -4,6 +4,8 @@ The Tuesday next after the 1st Monday in November, in every even numbered year, 
 
 (R.S. §25; Mar. 3, 1875, ch. 130, §6, 18 Stat. 400; June 5, 1934, ch. 390, §2, 48 Stat. 879.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 R.S. §25 derived from act Feb. 2, 1872, ch. 11, §3, 17 Stat. 28.

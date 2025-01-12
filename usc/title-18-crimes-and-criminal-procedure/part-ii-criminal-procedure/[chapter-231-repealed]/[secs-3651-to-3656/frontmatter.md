@@ -12,6 +12,8 @@ Section 3655, acts June 25, 1948, ch. 645, 62 Stat. 843; Mar. 15, 1976, Pub. L. 
 
 Section 3656 renumbered section 3672 of this title.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Repeal effective Nov. 1, 1987, and applicable only to offenses committed after the taking effect of such repeal, see section 235(a)(1) of Pub. L. 98–473, set out as an Effective Date note under section 3551 of this title.

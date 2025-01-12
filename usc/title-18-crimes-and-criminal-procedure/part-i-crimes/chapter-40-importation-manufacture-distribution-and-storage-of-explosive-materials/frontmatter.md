@@ -18,6 +18,8 @@ Sec.
 
 848. Effect on State law.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2002**—Pub. L. 107–296, title XI, §1112(e)(3), Nov. 25, 2002, 116 Stat. 2276, substituted "Attorney General" for "Secretary" in item 846.

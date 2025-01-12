@@ -1,5 +1,7 @@
 ### §§411 to 419. Omitted ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Sections 411, 412, and 413 to 419, popularly known as the Lend-Lease Act, terminated not later than June 30, 1946, pursuant to section 412 of this title.
@@ -23,6 +25,8 @@ Section 417, act Mar. 11, 1941, ch. 11, §8, 55 Stat. 33, provided for acquisiti
 Section 418, act Mar. 11, 1941, ch. 11, §9, 55 Stat. 33, authorized executive promulgation of rules and regulations and delegation of powers.
 
 Section 419, act Mar. 11, 1941, ch. 11, §10, 55 Stat. 33, related to effect of act Mar. 11, 1941 on existing laws relating to use of land and naval forces.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Additional Defense Aid to Other Countries; Lease of Certain Ships, Barges, Etc. ####
 

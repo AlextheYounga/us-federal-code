@@ -36,6 +36,8 @@ Sec.
 
 3156. Definitions.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1988**—Pub. L. 100–690, title VII, §7084(b), Nov. 18, 1988, 102 Stat. 4408, added item 3151.

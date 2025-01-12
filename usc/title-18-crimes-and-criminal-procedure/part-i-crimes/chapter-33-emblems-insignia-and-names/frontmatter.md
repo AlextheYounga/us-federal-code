@@ -40,6 +40,8 @@ Sec.
 
 716. Public employee insignia and uniform.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2007**—Pub. L. 109–481, §2(b), Jan. 12, 2007, 120 Stat. 3674, added item 706a.

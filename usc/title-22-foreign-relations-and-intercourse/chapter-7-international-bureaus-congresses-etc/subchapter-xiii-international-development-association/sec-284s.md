@@ -10,6 +10,8 @@ In order to pay for the United States contribution provided for in subsection (a
 
 (Pub. L. 86–565, §21, as added Pub. L. 101–513, title V, §562(a)(1), Nov. 5, 1990, 104 Stat. 2032.)
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Subsequent Replenishments ####
 
 Pub. L. 106–113, div. B, §1000(a)(2) [title V, §594], Nov. 29, 1999, 113 Stat. 1535, 1501A–122, provided in part that the Secretary of the Treasury may contribute on behalf of the United States to the twelfth replenishment of the International Development Association, and authorized $2,410,000,000 to be appropriated without fiscal year limitation.

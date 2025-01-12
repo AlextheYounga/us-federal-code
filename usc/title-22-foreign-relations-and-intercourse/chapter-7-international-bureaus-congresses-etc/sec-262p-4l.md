@@ -24,9 +24,13 @@ The mechanisms described in subsection (a) shall include, at a minimum, the foll
 
 (Pub. L. 95–118, title XVI, §1617, as added Pub. L. 101–513, title V, §562(a)(2), Nov. 5, 1990, 104 Stat. 2032.)
 
+#### **Editorial Notes** ####
+
 #### Prior Provisions ####
 
 A prior section 1617 of Pub. L. 95–118 was renumbered section 1622 and is classified to section 262p–5 of this title.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Definitions ####
 

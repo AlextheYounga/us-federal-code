@@ -4,6 +4,8 @@ The Secretary of the Treasury, in consultation with the National Advisory Counci
 
 (July 15, 1946, ch. 577, §1, 60 Stat. 535; Pub. L. 85–21, Apr. 20, 1957, 71 Stat. 17.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Agreement dated December 6, 1945, between the United States and the United Kingdom, referred to in text, is set out as a note below.
@@ -16,9 +18,7 @@ Section was not enacted as a part of act July 31, 1945, ch. 339, 59 Stat. 512, k
 
 **1957**—Pub. L. 85–21 inserted ", and the action of the Secretary of the Treasury in signing the agreement dated March 6, 1957, amending said agreement is approved".
 
-#### Delegation of Functions ####
-
-Functions of National Advisory Council on International Monetary and Financial Problems delegated to National Advisory Council on International Monetary and Financial Policies, see section 2(a) of Ex. Ord. No. 11269, Feb. 14, 1966, 31 F.R. 2813, set out as a note under section 286b of this title.
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Purposes ####
 
@@ -27,6 +27,12 @@ Act July 15, 1946, ch. 577, 60 Stat. 535, provided that:
 "Whereas in the Bretton Woods Agreements Act [this subchapter] the Congress has declared it to be the policy of the United States 'to seek to bring about further agreement and cooperation among nations and international bodies, as soon as possible, on ways and means which will best reduce obstacles to and restrictions upon international trade, eliminate unfair trade practices, promote mutually advantageous commercial relations, and otherwise facilitate the expansion and balanced growth of international trade and promote the stability of international economic relations'; and
 
 "Whereas in further implementation of the purposes of the Bretton Woods Agreements, the Governments of the United States and the United Kingdom have negotiated an agreement dated December 6, 1945, designed to expedite the achievement of stable and orderly exchange arrangements, the prompt elimination of exchange restrictions and discriminations, and other objectives of the above-mentioned policy declared by the Congress."
+
+#### **Executive Documents and International Agreements** ####
+
+#### Delegation of Functions ####
+
+Functions of National Advisory Council on International Monetary and Financial Problems delegated to National Advisory Council on International Monetary and Financial Policies, see section 2(a) of Ex. Ord. No. 11269, Feb. 14, 1966, 31 F.R. 2813, set out as a note under section 286b of this title.
 
 #### Financial Agreement Between the Governments of the United States and the United Kingdom ####
 

@@ -60,6 +60,8 @@ In the case of any amount in the revolving fund consisting of a payment received
 
 (Pub. L. 106–481, title I, §102, Nov. 9, 2000, 114 Stat. 2188; Pub. L. 107–68, title II, §208(a), Nov. 12, 2001, 115 Stat. 587; Pub. L. 110–161, div. H, title I, §1004(f)(1), Dec. 26, 2007, 121 Stat. 2235; Pub. L. 110–178, §6(a), Jan. 7, 2008, 121 Stat. 2553; Pub. L. 111–145, §6(d)(1), Mar. 4, 2010, 124 Stat. 54; Pub. L. 115–141, div. I, title I, §151(1), Mar. 23, 2018, 132 Stat. 784.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2018**—Pub. L. 115–141, §151(1)(A), substituted "Revolving fund for sales shop and other services" for "Revolving fund for gift shop, decimal classification, photo duplication, and related services" in section catchline.
@@ -73,6 +75,8 @@ Subsec. (a)(5). Pub. L. 115–141, §151(1)(B), added par. (5).
 **2007**—Subsec. (e). Pub. L. 110–161, §1004(f)(1), which made an amendment identical to that made by Pub. L. 110–178, was repealed by Pub. L. 111–145. See Effective Date of 2010 Amendment note below.
 
 **2001**—Subsec. (a)(4). Pub. L. 107–68 added par. (4).
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 2010 Amendment ####
 

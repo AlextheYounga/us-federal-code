@@ -52,6 +52,16 @@ Sec.
 
 278g–3. Computer standards program.
 
+278g–3a. Definitions.
+
+278g–3b. Security standards and guidelines for agencies on use and management of Internet of Things devices.
+
+278g–3c. Guidelines on the disclosure process for security vulnerabilities relating to information systems, including Internet of Things devices.
+
+278g–3d. Implementation of coordinated disclosure of security vulnerabilities relating to agency information systems, including Internet of Things devices.
+
+278g–3e. Contractor compliance with coordinated disclosure of security vulnerabilities relating to agency Internet of Things devices.
+
 278g–4. Information Security and Privacy Advisory Board.
 
 278g–5. Enterprise integration initiative.

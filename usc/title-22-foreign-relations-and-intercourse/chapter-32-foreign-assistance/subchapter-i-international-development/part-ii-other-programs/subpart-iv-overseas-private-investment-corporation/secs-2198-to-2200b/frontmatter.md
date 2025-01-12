@@ -14,6 +14,8 @@ Section 2200b, Pub. L. 87–195, pt. I, §240B, as added Pub. L. 102–549, titl
 
 A prior section 2200b, Pub. L. 87–195, pt. I, §240B, as added Pub. L. 97–65, §10, Oct. 16, 1981, 95 Stat. 1024, related to return of appropriated funds, prior to repeal by Pub. L. 99–204, §15, Dec. 23, 1985, 99 Stat. 1676.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Repeal effective at the end of the transition period, as defined in section 9681 of this title, see section 9684 of this title.

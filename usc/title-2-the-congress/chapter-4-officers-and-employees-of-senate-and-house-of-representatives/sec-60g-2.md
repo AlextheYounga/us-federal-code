@@ -1,5 +1,7 @@
 ### §60g–2. Transferred ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section 60g–2 was editorially reclassified as section 5322 of this title.

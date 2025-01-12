@@ -66,11 +66,15 @@
 
 (Added Pub. L. 106–152, §1(a), Dec. 9, 1999, 113 Stat. 1732; amended Pub. L. 111–294, §3(a), Dec. 9, 2010, 124 Stat. 3178; Pub. L. 116–72, §2(a), Nov. 25, 2019, 133 Stat. 1151.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2019**—Pub. L. 116–72 amended section generally. Prior to amendment, section related to animal crush videos.
 
 **2010**—Pub. L. 111–294 amended section generally. Prior to amendment, section related to depiction of animal cruelty.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Severability ####
 

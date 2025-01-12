@@ -4,9 +4,13 @@ Whoever, except as authorized under rules and regulations issued by the Secretar
 
 (Added Pub. L. 93–318, §6, June 22, 1974, 88 Stat. 245; amended Pub. L. 103–322, title XXXIII, §330016(1)(E), Sept. 13, 1994, 108 Stat. 2146.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1994**—Pub. L. 103–322 substituted "fined under this title" for "fined not more than $250".
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Description of "Woodsy Owl" Character ####
 

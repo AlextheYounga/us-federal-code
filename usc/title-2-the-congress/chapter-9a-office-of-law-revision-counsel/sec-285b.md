@@ -18,6 +18,8 @@ The functions of the Office shall be as follows:
 
 (Pub. L. 93–554, title I, ch. III, §101, Dec. 27, 1974, 88 Stat. 1777; Pub. L. 94–386, §1, Aug. 14, 1976, 90 Stat. 1170.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section is based on section 205(c) of House Resolution No. 988, Ninety-third Congress, Oct. 8, 1974, which was enacted into permanent law by Pub. L. 93–554.
@@ -25,6 +27,8 @@ Section is based on section 205(c) of House Resolution No. 988, Ninety-third Con
 #### Amendments ####
 
 **1976**—Par. (6). Pub. L. 94–386 substituted "through publication of the fifth annual cumulative supplement to the 1973 edition of such Code" for "until such time as the District of Columbia Self–Government and Governmental Reorganization Act becomes effective".
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Preparation and Publication of District of Columbia Code Under Direction of Council of the District of Columbia ####
 

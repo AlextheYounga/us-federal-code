@@ -42,6 +42,8 @@
 
 (Added Pub. L. 99–145, title VI, §644(a)(1), Nov. 8, 1985, 99 Stat. 652; amended Pub. L. 100–26, §8(d)(4), Apr. 21, 1987, 101 Stat. 285; Pub. L. 100–180, div. A, title VI, §626(b), Dec. 4, 1987, 101 Stat. 1104; Pub. L. 101–189, div. A, title VI, §613, Nov. 29, 1989, 103 Stat. 1446; Pub. L. 102–25, title VII, §702(b)(1), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 102–484, div. A, title VI, §612(d), title XI, §1136, Oct. 23, 1992, 106 Stat. 2421, 2541; Pub. L. 103–160, div. A, title VI, §612(e), Nov. 30, 1993, 107 Stat. 1680; Pub. L. 103–337, div. A, title VI, §611(e), Oct. 5, 1994, 108 Stat. 2783; Pub. L. 104–106, div. A, title VI, §611(e), Feb. 10, 1996, 110 Stat. 359; Pub. L. 104–201, div. A, title VI, §611(g), Sept. 23, 1996, 110 Stat. 2543; Pub. L. 105–85, div. A, title VI, §§611(g), 622, Nov. 18, 1997, 111 Stat. 1785, 1791; Pub. L. 105–261, div. A, title VI, §611(g), Oct. 17, 1998, 112 Stat. 2038; Pub. L. 106–65, div. A, title VI, §§611(g), 623(a), Oct. 5, 1999, 113 Stat. 650, 653; Pub. L. 106–398, §1 [[div. A], title VI, §621(g)], Oct. 30, 2000, 114 Stat. 1654, 1654A–151; Pub. L. 107–107, div. A, title VI, §611(g), Dec. 28, 2001, 115 Stat. 1135; Pub. L. 107–296, title XVII, §1704(c), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 107–314, div. A, title VI, §§611(f), 617, Dec. 2, 2002, 116 Stat. 2567, 2570; Pub. L. 108–136, div. A, title VI, §611(f), Nov. 24, 2003, 117 Stat. 1501; Pub. L. 108–375, div. A, title VI, §§611(f), 618(f), Oct. 28, 2004, 118 Stat. 1947, 1950; Pub. L. 109–163, div. A, title VI, §§621(e), 633, 687(b)(19), Jan. 6, 2006, 119 Stat. 3294, 3299, 3330; Pub. L. 109–364, div. A, title VI, §611(f), Oct. 17, 2006, 120 Stat. 2247; Pub. L. 110–181, div. A, title VI, §611(f), Jan. 28, 2008, 122 Stat. 148; Pub. L. 110–417, [div. A], title VI, §611(f), Oct. 14, 2008, 122 Stat. 4484; Pub. L. 111–84, div. A, title VI, §611(6), Oct. 28, 2009, 123 Stat. 2352; Pub. L. 111–383, div. A, title VI, §611(6), Jan. 7, 2011, 124 Stat. 4236; Pub. L. 112–81, div. A, title VI, §611(6), Dec. 31, 2011, 125 Stat. 1449; Pub. L. 112–239, div. A, title VI, §611(6), Jan. 2, 2013, 126 Stat. 1776; Pub. L. 113–66, div. A, title VI, §611(6), Dec. 26, 2013, 127 Stat. 780; Pub. L. 113–291, div. A, title VI, §611(6), Dec. 19, 2014, 128 Stat. 3399; Pub. L. 114–92, div. A, title VI, §611(6), Nov. 25, 2015, 129 Stat. 837; Pub. L. 114–328, div. A, title VI, §611(6), Dec. 23, 2016, 130 Stat. 2157; Pub. L. 115–91, div. A, title VI, §611(6), Dec. 12, 2017, 131 Stat. 1421.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2017**—Subsec. (f). Pub. L. 115–91 substituted "December 31, 2018" for "December 31, 2017".
@@ -169,6 +171,8 @@ Subsec. (i). Pub. L. 102–484, §612(d), substituted "September 30, 1993" for "
 **1987**—Subsec. (b)(1)(B). Pub. L. 100–26 inserted a comma after "$2,500".
 
 Subsec. (i). Pub. L. 100–180 substituted "September 30, 1990" for "September 30, 1987".
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 2008 Amendment ####
 

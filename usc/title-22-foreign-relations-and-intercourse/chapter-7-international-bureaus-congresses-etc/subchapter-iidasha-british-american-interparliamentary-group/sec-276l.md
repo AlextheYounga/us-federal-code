@@ -32,9 +32,13 @@ The United States group shall submit to the Congress a report for each fiscal ye
 
 (Pub. L. 102–138, title I, §168, Oct. 28, 1991, 105 Stat. 676.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section is comprised of section 168 of Pub. L. 102–138. Subsec. (g) of section 168 of Pub. L. 102–138 amended section 1928e of this title.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Appropriations for Expenses of Interparliamentary Groups ####
 

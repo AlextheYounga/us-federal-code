@@ -4,9 +4,13 @@ Not later than 30 days after November 29, 1999, the President shall appoint the 
 
 (Pub. L. 103–400, §2, as added Pub. L. 106–113, div. B, §1000(a)(4) [title V, §516(1)], Nov. 29, 1999, 113 Stat. 1535, 1501A–276.)
 
+#### **Editorial Notes** ####
+
 #### Prior Provisions ####
 
 A prior section 290n, Pub. L. 103–400, §2, Oct. 22, 1994, 108 Stat. 4169, related to the establishment of the Border Health Commission, prior to repeal by Pub. L. 106–113, div. B, §1000(a)(4) [title V, §516(1)], Nov. 29, 1999, 113 Stat. 1535, 1501A–276.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Short Title ####
 

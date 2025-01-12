@@ -42,6 +42,8 @@
 
 (Added Pub. L. 108–277, §2(a), July 22, 2004, 118 Stat. 865; amended Pub. L. 111–272, §2(a), (b), Oct. 12, 2010, 124 Stat. 2855; Pub. L. 112–239, div. A, title X, §1089(1), Jan. 2, 2013, 126 Stat. 1970.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The National Firearms Act, referred to in subsec. (e), is classified generally to chapter 53 (§5801 et seq.) of Title 26, Internal Revenue Code. See section 5849 of Title 26. Section 5845 of the Act is classified to section 5845 of Title 26.
@@ -65,6 +67,8 @@ Subsec. (e). Pub. L. 111–272, §2(b), added subsec. (e) and struck out former 
 "(3) any destructive device (as defined in section 921 of this title)."
 
 Subsec. (f). Pub. L. 111–272, §2(a)(2), added subsec. (f).
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Federal Law Enforcement Self-Defense and Protection ####
 

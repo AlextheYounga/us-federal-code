@@ -1,5 +1,7 @@
 ### SUBCHAPTER I—PROVISIONS RELATING TO MARKET-DOMINANT PRODUCTS ###
 
+#### **Editorial Notes** ####
+
 #### Prior Provisions ####
 
 A prior subchapter I of this chapter consisted of sections 3601 to 3604, prior to amendment by Pub. L. 109–435, title VI, §601(a)(2), (3), Dec. 20, 2006, 120 Stat. 3238, 3239, which struck out the subchapter heading "POSTAL RATE COMMISSION" and sections 3601 and 3602 and renumbered sections 3603 and 3604 as sections 503 and 504 of this title, respectively, and transferred those sections to chapter 5 of this title.

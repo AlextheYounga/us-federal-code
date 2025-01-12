@@ -34,6 +34,8 @@
 
 (Added July 14, 1956, ch. 595, §1, 70 Stat. 538; amended Pub. L. 98–473, title II, §§1010, 2013(a), Oct. 12, 1984, 98 Stat. 2141, 2187; Pub. L. 100–690, title VII, §7015, Nov. 18, 1988, 102 Stat. 4395; Pub. L. 103–272, §5(e)(1), July 5, 1994, 108 Stat. 1373; Pub. L. 106–181, title V, §506(b), Apr. 5, 2000, 114 Stat. 136.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2000**—Pub. L. 106–181 added subsecs. (a) and (b) and struck out former text which read as follows: "When used in this chapter the term—
@@ -59,6 +61,8 @@
 Pub. L. 98–473, §1010, substituted "passengers and property, or property or cargo" for "or passengers and property" in definition of motor vehicle.
 
 Pub. L. 98–473, §2013(a)(2)–(4), inserted definitions of "in flight" and "in service".
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 2000 Amendment ####
 

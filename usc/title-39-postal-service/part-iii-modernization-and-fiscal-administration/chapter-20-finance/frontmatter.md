@@ -26,6 +26,8 @@ Sec.
 
 2011. Provisions relating to competitive products.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2006**—Pub. L. 109–435, title IV, §401(a)(2), Dec. 20, 2006, 120 Stat. 3225, added item 2011.
@@ -33,6 +35,8 @@ Sec.
 **1997**—Pub. L. 105–33, title VII, §7003(a)(2)(A), Aug. 5, 1997, 111 Stat. 663, struck out item 2004 "Transitional appropriations".
 
 **1989**—Pub. L. 101–239, title IV, §4001(a)(2), Dec. 19, 1989, 103 Stat. 2133, added item 2009a.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Disposition of Savings Accruing to the United States Postal Service ####
 

@@ -44,6 +44,8 @@ Sec.
 
 It was felt that further revision of this chapter should be considered at an opportune time for the same reasons stated with respect to chapter 81, "Piracy and Privateering".
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2018**—Pub. L. 115–393, title II, §201(b), Dec. 21, 2018, 132 Stat. 5267, added item 1595A.

@@ -8,6 +8,8 @@ Section 1105, act Aug. 13, 1946, ch. 957, title VIII, §865, as added Feb. 28, 1
 
 Section 1106, act Aug. 13, 1946, ch. 957, title VIII, §866, as added Feb. 28, 1970, Pub. L. 91–201, title I, §104(a), 84 Stat. 18, related to unfunded liability obligations, and credit for military service with respect to funding requirements.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Repeal effective Feb. 15, 1981, except as otherwise provided, see section 2403 of Pub. L. 96–465, set out as an Effective Date note under section 3901 of this title.

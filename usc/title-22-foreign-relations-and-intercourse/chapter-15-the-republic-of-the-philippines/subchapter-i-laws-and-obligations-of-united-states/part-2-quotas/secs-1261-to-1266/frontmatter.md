@@ -1,5 +1,7 @@
 ### §§1261 to 1266. Omitted ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section 1261, act Apr. 30, 1946, ch. 244, title II, §211, 60 Stat. 144, related to amount and allocation of quotas for refined and unrefined Philippine sugar, between the period Jan. 1, 1946 and July 3, 1974.

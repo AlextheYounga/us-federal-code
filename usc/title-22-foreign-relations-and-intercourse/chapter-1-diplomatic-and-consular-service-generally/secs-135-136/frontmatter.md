@@ -1,5 +1,7 @@
 ### §§135, 136. Transferred ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section 135, act June 10, 1933, ch. 57, 48 Stat. 122, which related to protection of diplomatic codes, was transferred to section 815 of this title, and was subsequently repealed by act June 25, 1948, ch. 645, §21, 62 Stat. 862.

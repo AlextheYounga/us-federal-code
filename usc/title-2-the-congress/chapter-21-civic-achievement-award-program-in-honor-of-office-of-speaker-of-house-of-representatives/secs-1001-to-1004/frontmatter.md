@@ -8,6 +8,8 @@ Section 1003, Pub. L. 100–158, §3, Nov. 9, 1987, 101 Stat. 897, related to au
 
 Section 1004, Pub. L. 100–158, §4, Nov. 9, 1987, 101 Stat. 898; Pub. L. 101–118, §1, Oct. 17, 1989, 103 Stat. 698, related to authorization of appropriations to carry out Civic Achievement Award Program.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Preamble ####
 
 Preamble to Pub. L. 100–158 was repealed by Pub. L. 101–483, Oct. 31, 1990, 104 Stat. 1166.

@@ -4,6 +4,8 @@ The President shall designate from time to time to attend a specified session or
 
 (June 14, 1948, ch. 469, §2, 62 Stat. 441; Apr. 5, 1952, ch. 159, §1, 66 Stat. 43; Pub. L. 87–793, §1001(i), Oct. 11, 1962, 76 Stat. 865; 1978 Reorg. Plan No. 2, §102, eff. Jan. 1, 1979, 43 F.R. 36037, 92 Stat. 3783; Pub. L. 96–465, title II, §2206(a)(4), Oct. 17, 1980, 94 Stat. 2161.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1980**—Pub. L. 96–465 substituted "established under section 3962 or 3963 of this title" for "provided by section 867 of this title,".
@@ -12,6 +14,8 @@ The President shall designate from time to time to attend a specified session or
 
 **1952**—Act Apr. 5, 1952, substituted "Civil Service Commission" for "Federal Bureau of Investigation".
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of 1980 Amendment ####
 
 Amendment by Pub. L. 96–465 effective Feb. 15, 1981, except as otherwise provided, see section 2403 of Pub. L. 96–465, set out as an Effective Date note under section 3901 of this title.
@@ -19,6 +23,8 @@ Amendment by Pub. L. 96–465 effective Feb. 15, 1981, except as otherwise provi
 #### Effective Date of 1962 Amendment ####
 
 Amendment by Pub. L. 87–793 effective on first day of first pay period which begins on or after Oct. 11, 1962, see section 1008 of Pub. L. 87–793.
+
+#### **Executive Documents** ####
 
 #### Transfer of Functions ####
 

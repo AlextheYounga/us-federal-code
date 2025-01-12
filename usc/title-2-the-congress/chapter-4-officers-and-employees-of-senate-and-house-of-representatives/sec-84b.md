@@ -1,5 +1,7 @@
 ### §84b. Omitted ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section, acts July 17, 1947, ch. 262, 61 Stat. 365; Oct. 18, 1986, Pub. L. 99–500, §101(j), 100 Stat. 1783–287, and Oct. 30, 1986, Pub. L. 99–591, §101(j), 100 Stat. 3341–287; July 11, 1987, Pub. L. 100–71, title I, 101 Stat. 425, provided that on and after July 17, 1947, sums received from the sales of copies of transcripts of hearings of committees reported by such reporters be covered into the Treasury. See section 5540 of this title.

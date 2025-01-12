@@ -2,6 +2,8 @@
 
 Section, Pub. L. 107–117, div. B, §905, Jan. 10, 2002, 115 Stat. 2318, established House of Representatives Office of Emergency Planning, Preparedness, and Operations.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Transfer of House Emergency Planning, Preparedness, and Operations Functions to Sergeant at Arms ####
 
 Pub. L. 112–74, div. G, title I, §105, Dec. 23, 2011, 125 Stat. 1123, provided that: "Effective February 1, 2010—

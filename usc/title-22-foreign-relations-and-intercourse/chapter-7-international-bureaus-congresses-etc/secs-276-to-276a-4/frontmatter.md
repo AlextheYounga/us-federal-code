@@ -12,6 +12,8 @@ Section 276a–3, act June 28, 1935, ch. 322, §5, as added Pub. L. 95–45, §4
 
 Section 276a–4, act June 28, 1935, ch. 322, §6, as added Pub. L. 95–45, §4(d)(3), June 15, 1977, 91 Stat. 223, related to auditing of accounts of House and Senate delegations to the Interparliamentary Union and finality and conclusiveness of certificate of Chairman.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Pub. L. 105–277, div. G, subdiv. B, title XXV, §2503(d), Oct. 21, 1998, 112 Stat. 2681–837, provided that: "Unless Congress receives the certification described in subsection (a) [set out below] before October 1, 1999, effective on that date the Act entitled 'An Act to authorize participation by the United States in the Interparliamentary Union', approved June 28, 1935 (22 U.S.C. 276–276a–4) is repealed." [The Secretary of State did not make the required certification.]

@@ -192,6 +192,8 @@ Nothing in this section is intended to alter or supersede any notification requi
 
 (Dec. 20, 1945, ch. 583, §4, 59 Stat. 620; Pub. L. 103–236, title IV, §§406, 407(b), Apr. 30, 1994, 108 Stat. 448, 450; Pub. L. 106–113, div. B, §1000(a)(7) [div. A, title VII, §724(a)(1), (2), (b)], Nov. 29, 1999, 113 Stat. 1536, 1501A–465, 1501A–467; Pub. L. 107–228, div. A, title IV, §405(a), Sept. 30, 2002, 116 Stat. 1390; Pub. L. 114–323, title III, §306(a), Dec. 16, 2016, 130 Stat. 1920.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The National Security Act of 1947, referred to in subsec. (d)(2)(A)(iv), (B)(iv), is act July 26, 1947, ch. 343, 61 Stat. 495, which was formerly classified principally to chapter 15 (§401 et seq.) of Title 50, War and National Defense, prior to editorial reclassification in chapter 44 (§3001 et seq.) of Title 50. Title V of the Act is now classified generally to subchapter III (§3091 et seq.) of chapter 44 of Title 50. For complete classification of this Act to the Code, see Tables.
@@ -224,6 +226,8 @@ Subsecs. (e) to (g). Pub. L. 106–113, §1000(a)(7) [title VII, §724(a)(2), (b
 
 **1994**—Pub. L. 103–236 designated existing provisions as subsec. (a), inserted heading, and added subsecs. (b) to (e).
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Change of Name ####
 
 Committee on International Relations of House of Representatives changed to Committee on Foreign Affairs of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
@@ -231,10 +235,6 @@ Committee on International Relations of House of Representatives changed to Comm
 #### Termination of Reporting Requirements ####
 
 For termination, effective May 15, 2000, of provisions in subsec. (a) of this section relating to reporting to Congress not less than once each year, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and page 39 of House Document No. 103–7.
-
-#### Delegation of Functions ####
-
-For delegation of congressional reporting functions of President under this section, see section 1 of Ex. Ord. No. 13313, July 31, 2003, 68 F.R. 46073, 46074, set out as a note under section 301 of Title 3, The President.
 
 #### Public Availability of Information ####
 
@@ -251,3 +251,9 @@ Pub. L. 103–236, title IV, §415, Apr. 30, 1994, 108 Stat. 456, provided that:
 #### Report on Policies Pursued by Other Countries in International Organizations ####
 
 Pub. L. 98–164, title I, §117, Nov. 22, 1983, 97 Stat. 1022, as amended by Pub. L. 100–204, title VII, §707, Dec. 22, 1987, 101 Stat. 1390, directed Secretary of State to transmit to the Speaker of the House of Representatives and the chairman of the Committee on Foreign Relations of the Senate, by Jan. 31 of each year, a report regarding policies which each member country of United Nations pursued in international organizations of which United States was a member, prior to repeal by Pub. L. 103–236, title I, §139(27), Apr. 30, 1994, 108 Stat. 399.
+
+#### **Executive Documents** ####
+
+#### Delegation of Functions ####
+
+For delegation of congressional reporting functions of President under this section, see section 1 of Ex. Ord. No. 13313, July 31, 2003, 68 F.R. 46073, 46074, set out as a note under section 301 of Title 3, The President.

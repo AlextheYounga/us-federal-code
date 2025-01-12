@@ -4,9 +4,13 @@ The Secretary of the Treasury shall instruct the United States Executive Directo
 
 (Pub. L. 95–118, title XVI, §1619, as added Pub. L. 101–513, title V, §562(b)(1), Nov. 5, 1990, 104 Stat. 2033.)
 
+#### **Editorial Notes** ####
+
 #### Prior Provisions ####
 
 A prior section 1619 of Pub. L. 95–118 was renumbered section 1622 and is classified to section 262p–5 of this title.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Definitions ####
 

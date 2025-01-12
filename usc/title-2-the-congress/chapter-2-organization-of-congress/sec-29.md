@@ -4,6 +4,8 @@ The Parliamentarian of the House of Representatives shall prepare, compile, and 
 
 (Pub. L. 91–510, title III, §332, Oct. 26, 1970, 84 Stat. 1186; Pub. L. 113–235, div. H, title I, §1301(b), Dec. 16, 2014, 128 Stat. 2537.)
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Change of Name ####
 
 "Government Publishing Office" substituted for "Government Printing Office" in text on authority of section 1301(b) of Pub. L. 113–235, set out as a note preceding section 301 of Title 44, Public Printing and Documents.

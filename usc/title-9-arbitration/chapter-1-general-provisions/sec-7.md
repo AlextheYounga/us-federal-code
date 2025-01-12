@@ -8,6 +8,8 @@ The arbitrators selected either as prescribed in this title or otherwise, or a m
 
 Act Feb. 12, 1925, ch. 213, §7, 43 Stat. 884.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1951**—Act Oct. 31, 1951, substituted "United States district court for" for "United States court in and for", and "by law for" for "on February 12, 1925, for".

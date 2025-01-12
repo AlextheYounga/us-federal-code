@@ -128,6 +128,8 @@ On the dates specified in paragraph (2), OMB shall submit a report to Congress c
 
 (Pub. L. 99–177, title II, §251A, as added Pub. L. 112–25, title III, §302(a), Aug. 2, 2011, 125 Stat. 256; amended Pub. L. 112–240, title IX, §901(a), (c), Jan. 2, 2013, 126 Stat. 2370; Pub. L. 113–67, div. A, title I, §101(b), (c), (d)(2), div. B, title II, §1205, Dec. 26, 2013, 127 Stat. 1167, 1168, 1200; Pub. L. 113–82, §1, Feb. 15, 2014, 128 Stat. 1009; Pub. L. 113–93, title II, §222, Apr. 1, 2014, 128 Stat. 1077; Pub. L. 114–74, title I, §101(b), (c), Nov. 2, 2015, 129 Stat. 586; Pub. L. 115–123, div. C, title I, §30101(b), (c), Feb. 9, 2018, 132 Stat. 123; Pub. L. 116–37, title I, §101(d), title IV, §402, Aug. 2, 2019, 133 Stat. 1050, 1058; Pub. L. 116–136, div. A, title III, §3709(b), Mar. 27, 2020, 134 Stat. 422.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Section 401(b)(3)(B)(i)(II) of the Budget Control Act of 2011, referred to in par. (1)(B), is section 401(b)(3)(B)(i)(II) of title IV of Pub. L. 112–25, which is set out in a note under section 900 of this title.
@@ -220,6 +222,8 @@ Par. (10). Pub. L. 113–67, §101(b)(1), added par. (10). Former par. (10) rede
 
 Par. (11). Pub. L. 113–67, §101(d)(2)(C), redesignated par. (11) as (9).
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Temporary Suspension of Medicare Sequestration ####
 
 Pub. L. 116–136, div. A, title III, §3709(a), Mar. 27, 2020, 134 Stat. 421, provided that: "During the period beginning on May 1, 2020 and ending on December 31, 2020, the Medicare programs under title XVIII of the Social Security Act (42 U.S.C. 1395 et seq.) shall be exempt from reduction under any sequestration order issued before, on, or after the date of enactment of this Act [Mar. 27, 2020]."
@@ -233,6 +237,8 @@ Pub. L. 112–240, title IX, §901(e), Jan. 2, 2013, 126 Stat. 2370, provided th
 " '(A) for the security category, $544,000,000,000 in budget authority; and
 
 " '(B) for the nonsecurity category, $499,000,000,000 in budget authority;'."
+
+#### **Executive Documents** ####
 
 #### Sequestration Order for Fiscal Year 2021 Pursuant to Section 251A of the Balanced Budget and Emergency Deficit Control Act, as Amended ####
 

@@ -10,6 +10,8 @@ C. Imprisonment 3621
 
 D. Risk and Needs Assessment 2 3631
 
+#### **Editorial Notes** ####
+
 #### Prior Provisions ####
 
 A prior chapter 229 (§3611 et seq.) was repealed (except sections 3611, 3612, 3615, 3617 to 3620 which were renumbered sections 3665 to 3671, respectively), by Pub. L. 98–473, title II, §§212(a)(1), (2), 235(a)(1), Oct. 12, 1984, 98 Stat. 1987, 2031, as amended, effective Nov. 1, 1987, and applicable only to offenses committed after the taking effect of such repeal. See Effective Date note set out under section 3551 of this title.

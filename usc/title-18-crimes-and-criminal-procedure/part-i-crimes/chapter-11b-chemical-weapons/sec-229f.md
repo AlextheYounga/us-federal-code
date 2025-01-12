@@ -50,6 +50,8 @@ In this chapter:
 
 (Added Pub. L. 105–277, div. I, title II, §201(a), Oct. 21, 1998, 112 Stat. 2681–869; amended Pub. L. 109–304, §17(d)(1), Oct. 6, 2006, 120 Stat. 1707.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Paragraphs (17), (37), and (41) of section 40102 of title 49, referred to in par. (9)(A), (B), probably means paragraphs (17), (37), and (41) of subsection (a) of section 40102 of title 49. Paragraphs (37) and (41) were subsequently redesignated as (41) and (46), respectively, by Pub. L. 108–176, title II, §225(a)(1), (3), Dec. 12, 2003, 117 Stat. 2528.

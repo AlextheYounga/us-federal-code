@@ -6,6 +6,8 @@ All financial contributions by the United States to international organizations 
 
 (Sept. 21, 1950, ch. 976, §2, 64 Stat. 903; Pub. L. 107–228, div. A, title IV, §405(b)(1), Sept. 30, 2002, 116 Stat. 1391.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 This Act, referred to in text, is act Sept. 21, 1950, ch. 976, 64 Stat. 903, which enacted section 262a of this title, and amended sections 269b, 272a, 279a, 280b, 290b of this title. For complete classification of this Act to the Code, see Tables.

@@ -10,6 +10,8 @@
 
 (Added Pub. L. 104–191, title II, §241(a), Aug. 21, 1996, 110 Stat. 2016; amended Pub. L. 111–148, title VI, §6602, title X, §10606(c), Mar. 23, 2010, 124 Stat. 780, 1008.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Sections 411, 518, and 511 of the Employee Retirement Income Security Act of 1974, referred to in subsec. (a)(2), are classified to sections 1111, 1148, and 1141, respectively, of Title 29, Labor.

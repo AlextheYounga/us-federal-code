@@ -8,6 +8,8 @@ Section 1150, act Aug. 13, 1946, ch. 957, title IX, §935, 60 Stat. 1029, relate
 
 Section 1151, act Aug. 13, 1946, ch. 957, title IX, §936, as added July 28, 1956, ch. 770, §17, 70 Stat. 708, related to application of Annual and Sick Leave Act of 1951.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Repeal effective Feb. 15, 1981, except as otherwise provided, see section 2403 of Pub. L. 96–465, set out as an Effective Date note under section 3901 of this title.

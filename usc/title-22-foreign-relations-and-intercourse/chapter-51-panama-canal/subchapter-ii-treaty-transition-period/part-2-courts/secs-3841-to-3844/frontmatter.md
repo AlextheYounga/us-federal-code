@@ -8,6 +8,8 @@ Section 3843, Pub. L. 96–70, title II, §2203(a), Sept. 27, 1979, 93 Stat. 494
 
 Section 3844, Pub. L. 96–70, title II, §2206, Sept. 27, 1979, 93 Stat. 494, related to continuing operation during transition period of two magistrates' courts established under Canal Zone Code.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date ####
 
 Pub. L. 96–70, title II, §2203(b), Sept. 27, 1979, 93 Stat. 494, provided that section 3843 of this title was to take effect on Sept. 27, 1979, prior to repeal by Pub. L. 104–201, div. C, title XXXV, §3546(a)(4), Sept. 23, 1996, 110 Stat. 2868.

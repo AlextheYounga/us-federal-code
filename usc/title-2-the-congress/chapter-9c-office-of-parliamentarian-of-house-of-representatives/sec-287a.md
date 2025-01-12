@@ -4,6 +4,8 @@ The management, supervision, and administration of the Office shall be vested in
 
 (Pub. L. 95–94, title I, §115, Aug. 5, 1977, 91 Stat. 668.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section is based on section 2 of House Resolution No. 502, Ninety-fifth Congress, Apr. 20, 1977, which was enacted into permanent law by Pub. L. 95–94.

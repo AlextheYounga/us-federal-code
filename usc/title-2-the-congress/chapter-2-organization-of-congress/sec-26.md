@@ -4,6 +4,8 @@ Before the first meeting of each Congress the Clerk of the next preceding House 
 
 (R.S. §§31–33; Pub. L. 104–186, title II, §202(2), Aug. 20, 1996, 110 Stat. 1724.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 R.S. §31 derived from acts Feb. 21, 1867, ch. 56, §1, 14 Stat. 397 and Mar. 3, 1863, ch. 108, 12 Stat. 804.

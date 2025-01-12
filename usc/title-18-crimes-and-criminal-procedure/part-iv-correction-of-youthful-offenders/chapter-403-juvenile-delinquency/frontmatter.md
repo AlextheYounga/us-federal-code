@@ -28,6 +28,8 @@ Sec.
 
 5043. Juvenile solitary confinement.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2018**—Pub. L. 115–391, title VI, §613(b), Dec. 21, 2018, 132 Stat. 5249, added item 5043.
@@ -38,10 +40,12 @@ Sec.
 
 **1974**—Pub. L. 93–415, title V, §513, Sept. 7, 1974, 88 Stat. 1138, substituted "Delinquency proceedings in district courts; transfer for criminal prosecution." for "Proceeding against juvenile delinquent." in item 5032; "Custody prior to appearance before magistrate." for "Jurisdiction; written consent; jury trial precluded." in item 5033; "Duties of magistrate." for "Probation; commitment to custody of Attorney General; support." in item 5034; "Detention prior to disposition." for "Arrest, detention and bail." in item 5035; "Speedy trial." for "Contracts for support; payment." in item 5036; "Dispositional hearing." for "Parole." in item 5037; and added items 5038 to 5042.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Change of Name ####
 
 Words "magistrate judge" substituted for "magistrate" in items 5033 and 5034 pursuant to section 321 of Pub. L. 101–650, set out as a note under section 631 of Title 28, Judiciary and Judicial Procedure.
 
 #### Repeals ####
 
-Section 513 of Pub. L. 93–415, title V, Sept. 7, 1974, 88 Stat. 1138, cited as a credit in an amendment to this analysis, was repealed by Pub. L. 115–385, title III, §307, Dec. 21, 2018, 132 Stat. 5152.
+Pub. L. 93–415, title V, §513, Sept. 7, 1974, 88 Stat. 1138, cited as a credit in an amendment to this analysis, was repealed by Pub. L. 115–385, title III, §307, Dec. 21, 2018, 132 Stat. 5152.

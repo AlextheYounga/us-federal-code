@@ -40,6 +40,8 @@ Minor verbal changes were also made.
 
 This section [section 2] incorporates in section 42 of title 18, U.S.C., with slight changes in phraseology, the provisions of act of June 29, 1948 (ch. 716, 62 Stat. 1096), which became law subsequent to the enactment of the revision of title 18.
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Public Health Service Act, referred to in subsec. (a)(1), is act July 1, 1944, ch. 373, 58 Stat. 682, as amended, which is classified generally to chapter 6A (§201 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 201 of Title 42 and Tables.
@@ -85,6 +87,8 @@ Subsec. (b). Pub. L. 86–702 included violations of regulations.
 Subsec. (b). Act May 24, 1949, reenacted subsec. (b) without change.
 
 Subsec. (c). Act May 24, 1949, added subsec. (c).
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Invasive Species ####
 

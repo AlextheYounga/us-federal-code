@@ -4,6 +4,8 @@ From and after October 1, 1983, the Library of Congress is authorized to compute
 
 (Pub. L. 98–51, title II, §204, July 14, 1983, 97 Stat. 277.)
 
+#### **Editorial Notes** ####
+
 #### Prior Provisions ####
 
 Provisions similar to those in this section were contained in the following prior appropriation acts:

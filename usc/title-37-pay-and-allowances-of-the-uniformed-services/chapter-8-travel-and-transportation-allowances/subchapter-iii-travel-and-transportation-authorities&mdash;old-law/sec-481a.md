@@ -8,6 +8,8 @@
 
 (Added Pub. L. 90–207, §9(1), Dec. 16, 1967, 81 Stat. 655, §411a; renumbered §481a and amended Pub. L. 112–81, div. A, title VI, §631(d)(2), (e)(15), (f)(4)(A), Dec. 31, 2011, 125 Stat. 1460, 1463, 1465; Pub. L. 112–239, div. A, title X, §1076(a)(9), Jan. 2, 2013, 126 Stat. 1948; Pub. L. 114–328, div. A, title VI, §618(h)(3), Dec. 23, 2016, 130 Stat. 2161.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2016**—Subsec. (a). Pub. L. 114–328 inserted "or 351" after "section 310".
@@ -19,6 +21,8 @@
 Subsec. (b). Pub. L. 112–81, §631(f)(4)(A), as amended by Pub. L. 112–239, §1076(a)(9), substituted "474" for "404".
 
 Subsec. (c). Pub. L. 112–81, §631(e)(15), added subsec. (c).
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 2013 Amendment ####
 

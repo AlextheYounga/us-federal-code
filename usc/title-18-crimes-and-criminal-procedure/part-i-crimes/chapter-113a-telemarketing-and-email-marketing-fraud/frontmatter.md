@@ -10,6 +10,8 @@ Sec.
 
 2328. Mandatory forfeiture.
 
+#### **Editorial Notes** ####
+
 #### Prior Provisions ####
 
 A prior chapter 113A of part I of this title, consisting of section 2331 et seq. and relating to terrorism, was renumbered chapter 113B of part I of this title by Pub. L. 103–322, title XXV, §250002(a)(1), Sept. 13, 1994, 108 Stat. 2082.

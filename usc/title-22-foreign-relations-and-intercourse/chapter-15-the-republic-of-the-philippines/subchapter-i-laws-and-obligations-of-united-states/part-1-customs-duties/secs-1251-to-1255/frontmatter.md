@@ -1,5 +1,7 @@
 ### §§1251 to 1255. Omitted ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section 1251, act Apr. 30, 1946, ch. 244, title II, §201, 60 Stat. 143, provided for entry of Philippine articles into the United States, between May 1, 1946 and July 3, 1954, free of ordinary customs duty.
@@ -12,9 +14,13 @@ Section 1254, act Apr. 30, 1946, ch. 244, title II, §204, 60 Stat. 144, related
 
 Section 1255, act Apr. 30, 1946, ch. 244, title II, §205, 60 Stat. 144, related to equality in duties for products of the Philippines which did not come within the definition of Philippine articles. See note above for section 1252(b) of this title.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Extension of Duty-Free Period Until December 31, 1955 ####
 
 Act July 5, 1954, ch. 459, 68 Stat. 448, provided that the duty-free treatment of this section was to be applied in lieu of section 1252(a)(1), (2) of this title for Philippine articles entered or withdrawn from United States warehouses for consumption during periods between July 3, 1954 and December 31, 1955 provided the President declared by proclamation that such period was one in which United States articles were admitted into the Philippines free of ordinary customs duties.
+
+#### **Executive Documents** ####
 
 #### Proc. No. 3060. Extension of the Period of Duty-Free Treatment ####
 

@@ -22,6 +22,8 @@ Sec.
 
 2429. Mandatory restitution.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2018**—Pub. L. 115–392, §3(b), Dec. 21, 2018, 132 Stat. 5251, added item 2429.

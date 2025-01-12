@@ -1,5 +1,7 @@
 ### §§61a–6 to 61a–8. Omitted ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Sections were omitted for lack of general applicability. Sections were taken from the Legislative Branch Appropriation Act, 1971, the Legislative Branch Appropriation Act, 1972, and the Supplemental Appropriation Act, 1973, respectively, and provided for the appointment and compensation of specified employees of the Senate by the Secretary of the Senate.

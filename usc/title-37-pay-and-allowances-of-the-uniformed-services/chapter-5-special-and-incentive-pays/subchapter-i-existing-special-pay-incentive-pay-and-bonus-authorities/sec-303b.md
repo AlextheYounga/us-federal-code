@@ -14,6 +14,8 @@
 
 (Added Pub. L. 102–190, div. A, title VI, §635(a), Dec. 5, 1991, 105 Stat. 1382.)
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Operation Desert Storm Duty Assignments ####
 
 Pub. L. 102–25, title III, §305, Apr. 6, 1991, 105 Stat. 82, provided that:

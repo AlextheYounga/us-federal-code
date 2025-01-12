@@ -6,6 +6,8 @@
 
 (Added July 14, 1956, ch. 595, §1, 70 Stat. 540; amended Pub. L. 87–338, Oct. 3, 1961, 75 Stat. 751; Pub. L. 89–64, July 7, 1965, 79 Stat. 210; Pub. L. 103–322, title XXXIII, §330016(1)(K), Sept. 13, 1994, 108 Stat. 2147.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1994**—Subsec. (b). Pub. L. 103–322 substituted "fined under this title" for "fined not more than $5,000".

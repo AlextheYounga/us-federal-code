@@ -1,5 +1,7 @@
 ### §§61g–1 to 61g–3. Omitted ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section 61g–1, Pub. L. 89–691, title IV, §404, Oct. 15, 1966, 80 Stat. 1024, authorized, effective Oct. 1, 1966, Senate Majority Leader to fix the gross compensation of Secretary for Majority at not to exceed $25,611.05 per annum so long as position is held by present incumbent. See section 6151 of this title.

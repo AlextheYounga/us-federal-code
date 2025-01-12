@@ -4,6 +4,8 @@ There is hereby authorized to be appropriated, out of any money in the Treasury 
 
 (July 31, 1945, ch. 342, §2, 59 Stat. 529; Sept. 21, 1950, ch. 976, §1(b), 64 Stat. 902; Aug. 26, 1954, ch. 937, title IV, §421, as added July 18, 1956, ch. 627, §8(n), 70 Stat. 559; Aug. 26, 1954, ch. 937, title V, §544(b), as added Pub. L. 85–141, §11(b)(2), Aug. 14, 1957, 71 Stat. 365; Pub. L. 87–195, pt. IV, §709, Sept. 4, 1961, 75 Stat. 465.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1961**—Pub. L. 87–195 struck out provisions which limited the annual appropriations to not more than $3,000,000.
@@ -13,6 +15,8 @@ There is hereby authorized to be appropriated, out of any money in the Treasury 
 **1956**—Act July 18, 1956, increased authorized annual appropriation from $2,000,000, to $3,000,000, and inserted provisions limiting percentage contribution of United States to total annual budget to not more than 31.5 per centum.
 
 **1950**—Joint Res. Sept. 21, 1950, increased authorized annual appropriation from $1,250,000 to $2,000,000.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Repeals ####
 

@@ -20,6 +20,8 @@ It removes all doubt that one who puts in motion or assists in the illegal enter
 
 This accords with the following decisions: *Rothenburg v. United States*, 1918, 38 S. Ct. 18, 245 U.S. 480, 62 L. Ed. 414, and *United States v. Hodorowicz*, C. C. A. Ill. 1939, 105 F. 2d 218, certiorari denied, 60 S. Ct. 108, 308 U.S. 584, 84 L. Ed. 489. *United States v. Giles*, 1937, 57 S. Ct. 340, 300 U.S. 41, 81 L. Ed. 493, rehearing denied, 57 S. Ct. 505, 300 U.S. 687, 81 L. Ed. 888.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1951**—Subsec. (a). Act Oct. 31, 1951, inserted "punishable as".

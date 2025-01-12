@@ -40,6 +40,8 @@ Sec.
 
 3118. Implied consent for certain tests.
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Pub. L. 90–351 enacted section 3103a of this title as part of chapter 204, and Pub. L. 90–462, §3, Aug. 8, 1968, 82 Stat. 638, corrected the chapter designation from 204 to 205.
@@ -53,6 +55,8 @@ Pub. L. 90–351 enacted section 3103a of this title as part of chapter 204, and
 **1986**—Pub. L. 99–508, title I, §108(b), Oct. 21, 1986, 100 Stat. 1858, added item 3117 "Mobile tracking devices".
 
 **1968**—Pub. L. 90–351, title IX, §1401(b), June 19, 1968, 82 Stat. 238, added item 3103a.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Change of Name ####
 

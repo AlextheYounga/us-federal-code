@@ -32,6 +32,8 @@
 
 (Added Pub. L. 110–181, div. A, title VI, §631(a)(1), Jan. 28, 2008, 122 Stat. 153, §408a; amended Pub. L. 111–383, div. A, title VI, §621, Jan. 7, 2011, 124 Stat. 4238; renumbered §478a and amended Pub. L. 112–81, div. A, title VI, §§621, 631(d)(2), Dec. 31, 2011, 125 Stat. 1452, 1460; Pub. L. 112–239, div. A, title VI, §611(7), Jan. 2, 2013, 126 Stat. 1776; Pub. L. 113–66, div. A, title VI, §611(7), title X, §1091(b)(3), Dec. 26, 2013, 127 Stat. 780, 876; Pub. L. 113–291, div. A, title VI, §611(7), Dec. 19, 2014, 128 Stat. 3399; Pub. L. 114–92, div. A, title VI, §611(7), Nov. 25, 2015, 129 Stat. 837; Pub. L. 114–328, div. A, title VI, §§611(7), 621, Dec. 23, 2016, 130 Stat. 2157, 2161; Pub. L. 115–91, div. A, title VI, §611(7), Dec. 12, 2017, 131 Stat. 1421.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2017**—Subsec. (e). Pub. L. 115–91 substituted "December 31, 2018" for "December 31, 2017".
@@ -53,6 +55,8 @@ Pub. L. 112–239, §611(7), as amended by Pub. L. 113–66, §1091(b)(3), subst
 Subsec. (e). Pub. L. 112–81, §621, substituted "December 31, 2012" for "December 31, 2011".
 
 Pub. L. 111–383 substituted "December 31, 2011" for "December 31, 2010".
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 2013 Amendment ####
 

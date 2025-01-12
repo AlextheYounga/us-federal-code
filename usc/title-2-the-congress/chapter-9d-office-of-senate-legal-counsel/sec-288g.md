@@ -26,6 +26,8 @@ The Counsel shall perform such other duties consistent with the purposes and lim
 
 (Pub. L. 95–521, title VII, §708, Oct. 26, 1978, 92 Stat. 1880; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 This chapter, referred to in subsecs. (a)(3) and (c), was in the original "this title", meaning title VII of Pub. L. 95–521, which enacted this chapter, section 5504 of this title, and section 1364 of Title 28, Judiciary and Judicial Procedure, and amended sections 3210, 3216, and 3219 of Title 39, Postal Service. For complete classification of title VII to the Code, see Tables.
@@ -33,6 +35,8 @@ This chapter, referred to in subsecs. (a)(3) and (c), was in the original "this 
 #### Amendments ####
 
 **2004**—Subsec. (a)(3). Pub. L. 108–271 substituted "Government Accountability Office" for "General Accounting Office".
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date ####
 

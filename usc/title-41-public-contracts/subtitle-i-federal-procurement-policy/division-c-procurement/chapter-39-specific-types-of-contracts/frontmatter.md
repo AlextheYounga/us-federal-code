@@ -14,6 +14,8 @@ Sec.
 
 3906. Cost-reimbursement contracts.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Separability ####
 
 Act June 30, 1949, ch. 288, title VI, §604, formerly title V, §504, 63 Stat. 403, renumbered by act Sept. 5, 1950, ch. 849, §6(a), (b), 64 Stat. 583, provided that: "If any provision of this Act [see Tables for classification], or the application thereof to any person or circumstances, is held invalid, the remainder of this Act, and the application of such provision to other persons or circumstances, shall not be affected thereby."

@@ -4,6 +4,8 @@ The President shall direct the United States Executive Directors of such interna
 
 (Pub. L. 95–118, title VII, §704, Oct. 3, 1977, 91 Stat. 1071.)
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date ####
 
 Section effective Oct. 3, 1977, see section 1001 of Pub. L. 95–118, set out as a note under section 282i of this title.

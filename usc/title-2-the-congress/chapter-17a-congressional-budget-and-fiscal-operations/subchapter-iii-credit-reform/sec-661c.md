@@ -44,6 +44,8 @@ All funding for an agency's administration of a direct loan or loan guarantee pr
 
 (Pub. L. 93–344, title V, §504, as added Pub. L. 101–508, title XIII, §13201(a), Nov. 5, 1990, 104 Stat. 1388–612; amended Pub. L. 105–33, title X, §10117(b), Aug. 5, 1997, 111 Stat. 693.)
 
+#### **Editorial Notes** ####
+
 #### Prior Provisions ####
 
 A prior section 504 of Pub. L. 93–344, title V, July 12, 1974, 88 Stat. 322, was classified to section 1020a of former Title 31, prior to repeal by Pub. L. 97–258, §5(b), Sept. 13, 1982, 96 Stat. 1068.

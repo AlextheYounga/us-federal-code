@@ -4,6 +4,8 @@ Should any State deny or abridge the right of any of the male inhabitants thereo
 
 (R.S. §22.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 R.S. §22 derived from act Feb. 2, 1872, ch. 11, §6, 17 Stat. 29.

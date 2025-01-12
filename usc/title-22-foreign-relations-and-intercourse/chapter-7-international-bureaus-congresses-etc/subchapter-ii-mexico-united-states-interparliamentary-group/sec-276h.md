@@ -4,6 +4,8 @@ Not to exceed twenty-four Members of Congress shall be appointed to meet jointly
 
 (Pub. L. 86–420, §1, Apr. 9, 1960, 74 Stat. 40; Pub. L. 95–45, §4(b), June 15, 1977, 91 Stat. 222; Pub. L. 103–437, §9(a)(4), Nov. 2, 1994, 108 Stat. 4588.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1994**—Pub. L. 103–437 substituted "Foreign Affairs" for "International Relations" wherever appearing.

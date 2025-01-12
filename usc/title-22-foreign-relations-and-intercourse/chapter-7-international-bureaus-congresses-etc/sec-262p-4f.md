@@ -22,9 +22,13 @@ The Secretary of the Treasury shall instruct the United States Executive Directo
 
 (Pub. L. 95–118, title XVI, §1611, as added Pub. L. 100–461, title V, §555, Oct. 1, 1988, 102 Stat. 2268–36.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section 1611 of Pub. L. 95–118 is based on section 11 of H.R. 4645, One Hundredth Congress, as reported Sept. 28, 1988, and enacted into law by Pub. L. 100–461.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Definitions ####
 

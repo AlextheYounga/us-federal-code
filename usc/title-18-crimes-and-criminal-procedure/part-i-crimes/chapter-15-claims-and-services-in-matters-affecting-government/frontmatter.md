@@ -22,6 +22,8 @@ Sec.
 
 [293. Repealed.]
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2002**—Pub. L. 107–273, div. B, title IV, §4002(c)(1), Nov. 2, 2002, 116 Stat. 1808, repealed amendment by Pub. L. 104–294, §602(d). See 1996 Amendment note below.

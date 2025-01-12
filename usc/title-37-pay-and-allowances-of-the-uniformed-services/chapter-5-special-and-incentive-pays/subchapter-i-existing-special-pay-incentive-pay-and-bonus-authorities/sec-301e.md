@@ -22,6 +22,8 @@
 
 (Added Pub. L. 105–85, div. A, title VI, §617(a), Nov. 18, 1997, 111 Stat. 1788; amended Pub. L. 107–314, div. A, title VI, §615(b), Dec. 2, 2002, 116 Stat. 2568; Pub. L. 109–163, div. A, title VI, §687(b)(3), Jan. 6, 2006, 119 Stat. 3328.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Section 302b(g) of this title, referred to in subsec. (b)(4), was redesignated section 302b(f) of this title by Pub. L. 109–163, div. A, title VI, §687(b)(6)(D), Jan. 6, 2006, 119 Stat. 3328.
@@ -31,6 +33,8 @@ Section 302b(g) of this title, referred to in subsec. (b)(4), was redesignated s
 **2006**—Subsec. (d). Pub. L. 109–163 amended heading and text of subsec. (d) generally, substituting provisions referring to repayment provisions of section 303a(e) for specific provisions relating to refunds required when officer fails to complete total period of active duty.
 
 **2002**—Subsec. (a)(2). Pub. L. 107–314 substituted "$50,000" for "$14,000".
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Savings Provision ####
 

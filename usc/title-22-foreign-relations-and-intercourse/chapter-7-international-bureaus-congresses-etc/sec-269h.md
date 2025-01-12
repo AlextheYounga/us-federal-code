@@ -4,6 +4,8 @@ There is hereby authorized to be appropriated annually to the Department of Stat
 
 (Pub. L. 90–569, Oct. 12, 1968, 82 Stat. 1003.)
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Annual Appropriations ####
 
 Annual appropriations to meet the obligations of membership in various international organizations were contained in acts listed in a note set out under section 269a of this title.

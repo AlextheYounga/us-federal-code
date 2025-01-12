@@ -6,6 +6,8 @@
 
 (Pub. L. 86–565, §17, as added Pub. L. 97–35, title XIII, §1321, Aug. 13, 1981, 95 Stat. 740.)
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date ####
 
 Section effective Aug. 13, 1981, see section 1372 of Pub. L. 97–35, set out as a note under section 290i of this title.

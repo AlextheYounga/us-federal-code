@@ -12,6 +12,8 @@ There is hereby authorized to be appropriated annually to the Department of Stat
 
 (July 1, 1947, ch. 185, §3, 61 Stat. 215; Oct. 28, 1949, ch. 782, title II, §202(2), title XI, §1106(a), 63 Stat. 954, 972.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Subchapter XVI [§287 et seq.] of this chapter, referred to in subsec. (b)(2), was in the original a reference to the United Nations Participation Act of 1945.
@@ -23,6 +25,8 @@ In subsec. (b)(1), "chapter 51 and subchapter III of chapter 53 of title 5" subs
 #### Amendments ####
 
 **1949**—Subsec. (b)(1). Act Oct. 28, 1949, substituted "Classification Act of 1949" for "Classification Act of 1923".
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Repeals ####
 

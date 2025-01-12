@@ -4,6 +4,8 @@ The board is also authorized to accept, receive, hold, and administer gifts, beq
 
 (July 2, 1945, ch. 228, §3, 59 Stat. 317.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section was formerly classified to section 226 of Title 5 prior to the general revision and enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, §1, Sept. 6, 1966, 80 Stat. 378.

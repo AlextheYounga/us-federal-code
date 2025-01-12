@@ -4,6 +4,8 @@ The Attorney General is authorized to accept and maintain, on behalf of the Unit
 
 (June 10, 1938, ch. 335, 52 Stat. 640; Pub. L. 85–768, Aug. 27, 1958, 72 Stat. 921; Pub. L. 90–159, Nov. 28, 1967, 81 Stat. 517; Pub. L. 92–380, §1, Aug. 10, 1972, 86 Stat. 531; Pub. L. 93–468, §1, Oct. 24, 1974, 88 Stat. 1422; Pub. L. 95–624, §21(a), Nov. 9, 1978, 92 Stat. 3466.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1978**—Pub. L. 95–624 substituted provision authorizing payment of all dues and expenses for membership of the United States out of sums authorized and appropriated for Department of Justice for provisions authorizing each participating department and agency to pay its pro rata share of expenses of such membership and forbidding total dues paid for such membership to exceed $120,000 per annum.

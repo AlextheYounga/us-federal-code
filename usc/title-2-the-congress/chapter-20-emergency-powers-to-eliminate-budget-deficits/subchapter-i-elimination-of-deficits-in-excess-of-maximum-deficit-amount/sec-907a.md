@@ -54,6 +54,8 @@ Upon the enactment of a declaration of war or a joint resolution described in su
 
 (Pub. L. 99–177, title II, §258, as added Pub. L. 101–508, title XIII, §13101(f), Nov. 5, 1990, 104 Stat. 1388–593; amended Pub. L. 113–67, div. A, title I, §121(10), Dec. 26, 2013, 127 Stat. 1175.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 This title, referred to in subsec. (a)(1), means title II (§200 et seq.) of Pub. L. 99–177, Dec. 12, 1985, 99 Stat. 1038, as amended, known as the Balanced Budget and Emergency Deficit Control Act of 1985. For complete classification of this Act to the Code, see Short Title note set out under section 900 of this title and Tables.

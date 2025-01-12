@@ -12,6 +12,8 @@ Section 806, act Aug. 13, 1946, ch. 957, title X, §1004, 60 Stat. 1030, related
 
 Section 807, act Aug. 13, 1946, ch. 957, title X, §1005, 60 Stat. 1030, related to prohibition on political, racial, religious, or color discrimination.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Repeal effective Feb. 15, 1981, except as otherwise provided, see section 2403 of Pub. L. 96–465, set out as an Effective Date note under section 3901 of this title.

@@ -18,6 +18,8 @@
 
 (Added Pub. L. 109–364, div. A, title VI, §617(b), Oct. 17, 2006, 120 Stat. 2249; amended Pub. L. 110–181, div. A, title VI, §612(h), Jan. 28, 2008, 122 Stat. 149; Pub. L. 110–417, [div. A], title VI, §612(h), Oct. 14, 2008, 122 Stat. 4484; Pub. L. 111–84, div. A, title VI, §612(b)(7), Oct. 28, 2009, 123 Stat. 2353; Pub. L. 111–383, div. A, title VI, §612(b)(7), Jan. 7, 2011, 124 Stat. 4236; Pub. L. 112–81, div. A, title VI, §612(b)(7), Dec. 31, 2011, 125 Stat. 1450; Pub. L. 112–239, div. A, title VI, §612(b)(7), Jan. 2, 2013, 126 Stat. 1776; Pub. L. 113–66, div. A, title VI, §612(b)(7), Dec. 26, 2013, 127 Stat. 780; Pub. L. 113–291, div. A, title VI, §612(b)(7), Dec. 19, 2014, 128 Stat. 3400; Pub. L. 114–92, div. A, title VI, §612(b)(7), Nov. 25, 2015, 129 Stat. 838; Pub. L. 114–328, div. A, title VI, §612(b)(7), Dec. 23, 2016, 130 Stat. 2158; Pub. L. 115–91, div. A, title VI, §612(b)(7), Dec. 12, 2017, 131 Stat. 1422.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2017**—Subsec. (f). Pub. L. 115–91 substituted "December 31, 2018" for "December 31, 2017".
@@ -41,6 +43,8 @@ Pub. L. 111–383 substituted "December 31, 2011" for "December 31, 2010".
 **2008**—Subsec. (f). Pub. L. 110–417 substituted "December 31, 2009" for "December 31, 2008".
 
 Pub. L. 110–181 substituted "December 31, 2008" for "December 31, 2007".
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 2008 Amendment ####
 

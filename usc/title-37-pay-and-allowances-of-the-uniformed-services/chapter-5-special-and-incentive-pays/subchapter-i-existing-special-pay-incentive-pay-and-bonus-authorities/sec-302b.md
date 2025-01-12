@@ -78,6 +78,8 @@ is entitled to special pay in accordance with this subsection.
 
 (Added Pub. L. 93–274, §1(2), May 6, 1974, 88 Stat. 94; amended Pub. L. 96–284, §4(b), June 28, 1980, 94 Stat. 591; Pub. L. 99–145, title VI, §639(a), Nov. 8, 1985, 99 Stat. 649; Pub. L. 102–25, title VII, §702(b)(1), (2), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 104–201, div. A, title VI, §615(a), (b), (e), Sept. 23, 1996, 110 Stat. 2545, 2547; Pub. L. 105–85, div. A, title VI, §618, Nov. 18, 1997, 111 Stat. 1789; Pub. L. 109–163, div. A, title VI, §§625, 626, 687(b)(6), Jan. 6, 2006, 119 Stat. 3295, 3328; Pub. L. 109–364, div. A, title VI, §615(a), Oct. 17, 2006, 120 Stat. 2249; Pub. L. 110–181, div. A, title VI, §616(a), Jan. 28, 2008, 122 Stat. 150.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2008**—Subsec. (a)(4). Pub. L. 110–181, §616(a)(1), substituted "at a rate determined by the Secretary concerned, which rate may not exceed the following" for "at the following rates" in introductory provisions.
@@ -161,6 +163,8 @@ Subsec. (h). Pub. L. 104–201, §615(b), added subsec. (h).
 "(4) $350 a month for each month of active duty if he has completed at least ten years of active duty in the Dental Corps or as a dental officer."
 
 **1980**—Pub. L. 96–284 struck out ", in addition to any other pay or allowances to which he is entitled," after "entitled" and last sentence containing prohibition against inclusion of active duty monthly special pay in computation of amount of increase in pay authorized in any other provision of this title or in computation of retired pay or severance pay.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 2008 Amendment ####
 

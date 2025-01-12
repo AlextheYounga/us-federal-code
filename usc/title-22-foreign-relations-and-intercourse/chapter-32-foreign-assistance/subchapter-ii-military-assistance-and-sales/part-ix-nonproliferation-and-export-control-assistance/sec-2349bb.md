@@ -12,6 +12,8 @@ The purposes of assistance under this part are to halt the proliferation of nucl
 
 (Pub. L. 87–195, pt. II, §581, as added Pub. L. 106–280, title III, §301, Oct. 6, 2000, 114 Stat. 851.)
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Nonproliferation Technology Acquisition Programs for Friendly Foreign Countries ####
 
 Pub. L. 107–228, div. B, title XIII, §1302, Sept. 30, 2002, 116 Stat. 1435, provided that:

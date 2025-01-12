@@ -28,6 +28,8 @@ Section 1233, Pub. L. 90–494, §13, Aug. 20, 1968, 82 Stat. 813, related to tr
 
 Section 1234, Pub. L. 90–494, §14, Aug. 20, 1968, 82 Stat. 813, related to veterans' preference. See section 3941 of this title.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Repeal effective Feb. 15, 1981, except as otherwise provided, see section 2403 of Pub. L. 96–465, set out as an Effective Date note under section 3901 of this title.

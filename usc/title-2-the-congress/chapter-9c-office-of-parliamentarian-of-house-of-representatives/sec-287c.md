@@ -6,6 +6,8 @@
 
 (Pub. L. 95–94, title I, §115, Aug. 5, 1977, 91 Stat. 668; Pub. L. 116–94, div. E, title II, §212(b)(3)(C), Dec. 20, 2019, 133 Stat. 2777.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section is based on section 4 of House Resolution No. 502, Ninety-fifth Congress, Apr. 20, 1977, which was enacted into permanent law by Pub. L. 95–94.
@@ -19,6 +21,8 @@ House Resolution No. 904, Eighty-eighth Congress, Oct. 3, 1964, provided: "That 
 **2019**—Subsec. (a). Pub. L. 116–94, §212(b)(3)(C)(i), substituted "but not in excess of the greater of $173,900 or the rate of pay in effect for such position under an order issued by the Speaker of the House of Representatives pursuant to the authority of section 4532 of this title." for "but not in excess of the rate of basic pay determined from time to time under subsection (b) of section 3 of the Speaker's salary directive of June 11, 1968."
 
 Subsec. (b). Pub. L. 116–94, §212(b)(3)(C)(ii), substituted "but not in excess of the applicable rate of pay in effect under an order issued by the Speaker of the House of Representatives pursuant to the authority of section 4532 of this title" for ", but not in excess of the rate of basic pay set forth in subsection (a) of this section".
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 2019 Amendment ####
 

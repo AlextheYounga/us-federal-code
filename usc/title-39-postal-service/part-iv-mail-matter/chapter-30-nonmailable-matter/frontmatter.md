@@ -40,6 +40,8 @@ Sec.
 
 3018. Hazardous material.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2006**—Pub. L. 109–435, title X, §1008(c)(2), Dec. 20, 2006, 120 Stat. 3260, added item 3018.

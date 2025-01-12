@@ -8,6 +8,8 @@ Sec.
 
 5003. Custody of State offenders.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1996**—Pub. L. 104–134, title I, §101[(a)] [title VI, §614(a)(2)], Apr. 26, 1996, 110 Stat. 1321, 1321–65; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327, struck out item 5002 "Advisory Corrections Council".

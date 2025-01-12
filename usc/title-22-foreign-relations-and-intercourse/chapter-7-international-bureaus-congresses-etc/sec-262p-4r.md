@@ -14,11 +14,15 @@ For purposes of this section, the term "international financial institution" mea
 
 (Pub. L. 107–56, title III, §360, Oct. 26, 2001, 115 Stat. 329; Pub. L. 108–458, title VI, §6202(l), Dec. 17, 2004, 118 Stat. 3746.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2004**—Subsec. (a). Pub. L. 108–458, §6202(l)(1), inserted "the" after "utilization of the funds of".
 
 Subsec. (b). Pub. L. 108–458, §6202(l)(2), substituted "at such institution" for "at such institutions".
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 2004 Amendment ####
 

@@ -4,6 +4,8 @@ Section 1064, acts Aug. 13, 1946, ch. 957, title VIII, §804, 60 Stat. 1020; Apr
 
 Section 1065, act Aug. 13, 1946, ch. 957, title VIII, §805, as added July 12, 1976, Pub. L. 94–350, title V, §503, 90 Stat. 835, authorized maintenance of existing areas of conformity between Civil Service and Foreign Service Retirement Systems.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Repeal effective Feb. 15, 1981, except as otherwise provided, see section 2403 of Pub. L. 96–465, set out as an Effective Date note under section 3901 of this title.

@@ -1,5 +1,7 @@
 ### §§103, 104. Omitted ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section 103, R.S. §62, authorized Secretary of Senate and Clerk of House to require disbursing officers subject to their authority to return analytical statements and receipts for expenditures and to communicate such returns annually to Congress. See sections 4108 and 5535 of this title.

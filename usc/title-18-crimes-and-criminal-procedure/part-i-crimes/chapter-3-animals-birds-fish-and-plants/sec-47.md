@@ -12,6 +12,8 @@
 
 (Added Pub. L. 86–234, §1(a), Sept. 8, 1959, 73 Stat. 470; amended Pub. L. 103–322, title XXXIII, §330016(1)(G), Sept. 13, 1994, 108 Stat. 2147.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1994**—Subsecs. (a), (b). Pub. L. 103–322 substituted "fined under this title" for "fined not more than $500".

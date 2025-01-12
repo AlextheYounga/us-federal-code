@@ -4,9 +4,13 @@ In addition to amounts transferred pursuant to section 182b(e)(2) of this title,
 
 (Pub. L. 110–161, div. H, title I, §1004(f)(2), Dec. 26, 2007, 121 Stat. 2236; Pub. L. 110–178, §6(b), Jan. 7, 2008, 121 Stat. 2554; Pub. L. 111–145, §6(d)(1), Mar. 4, 2010, 124 Stat. 54.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Pub. L. 110–161, div. H, title I, §1004(f)(2), and Pub. L. 110–178, §6(b), enacted substantially identical provisions. This section is based on text of section 6(b) of Pub. L. 110–178. Pub. L. 110–161, §1004, was repealed by Pub. L. 111–145.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 2010 Amendment ####
 

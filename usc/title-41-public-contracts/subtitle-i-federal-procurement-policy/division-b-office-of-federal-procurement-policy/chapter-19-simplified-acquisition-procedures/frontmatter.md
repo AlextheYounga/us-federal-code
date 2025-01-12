@@ -20,6 +20,8 @@ Sec.
 
 1909. Management of purchase cards.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2018**—Pub. L. 115–232, div. A, title VIII, §836(b)(6)(B)(ii), Aug. 13, 2018, 132 Stat. 1861, substituted "List of laws inapplicable to procurements of commercial products and commercial services" for "List of laws inapplicable to procurements of commercial items" in item 1906.

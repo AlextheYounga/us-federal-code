@@ -30,6 +30,8 @@
 
 (Added Pub. L. 97–60, title I, §122(a)(1), Oct. 14, 1981, 95 Stat. 1002, §404a; amended Pub. L. 99–145, title VI, §613(a), Nov. 8, 1985, 99 Stat. 640; Pub. L. 102–25, title VII, §702(b)(1), (2), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 102–484, div. A, title VI, §621, Oct. 23, 1992, 106 Stat. 2422; Pub. L. 103–160, div. A, title VI, §621(a), (b), Nov. 30, 1993, 107 Stat. 1682; Pub. L. 106–65, div. A, title VI, §632, Oct. 5, 1999, 113 Stat. 661; Pub. L. 106–398, §1 [[div. A], title VI, §641(a), (c)], Oct. 30, 2000, 114 Stat. 1654, 1654A–159, 1654A–161; Pub. L. 107–107, div. A, title VI, §632(a), (b), Dec. 28, 2001, 115 Stat. 1144; Pub. L. 109–163, div. A, title VI, §609(b), Jan. 6, 2006, 119 Stat. 3290; Pub. L. 110–181, div. A, title VI, §603(a), Jan. 28, 2008, 122 Stat. 145; Pub. L. 110–417, [div. A], title VI, §603, Oct. 14, 2008, 122 Stat. 4483; renumbered §474a and amended Pub. L. 112–81, div. A, title VI, §631(d)(2), (e)(2), (f)(4)(A), Dec. 31, 2011, 125 Stat. 1460, 1461, 1465; Pub. L. 112–239, div. A, title X, §1076(a)(9), Jan. 2, 2013, 126 Stat. 1948.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2013**—Subsec. (d). Pub. L. 112–239, §1076(a)(9), made technical amendment to directory language of Pub. L. 112–81, §631(f)(4)(A). See 2011 Amendment note below.
@@ -73,6 +75,8 @@ Subsec. (d). Pub. L. 103–160, §621(b), struck out subsec. (d) which read as f
 Subsec. (b). Pub. L. 102–25, §702(b)(1), struck out "of this section" after "subsection (a)".
 
 **1985**—Subsec. (a). Pub. L. 99–145 substituted "shall" for "may" in first sentence, and substituted "are to" for "may" the first place it appears in second and third sentences.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 2013 Amendment ####
 

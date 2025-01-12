@@ -1,5 +1,7 @@
 ### §§1466 to 1468. Omitted ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Sections 1466 to 1468 of this title, contained provisions relating to the United States Advisory Commission on Information, and the United States Advisory Commission on Educational Exchange. Public Law 87–256, §§106, 111(a)(2), Sept. 21, 1961, 75 Stat. 532, 538, replaced the Advisory Commission on Educational Exchange with the Advisory Commission on International Educational and Cultural Affairs and repealed these sections insofar as they related to the Advisory Commission on Educational Exchange. The Advisory Commission on International Educational and Cultural Affairs and the Advisory Commission on Information were both abolished by Reorg. Plan No. 2 of 1977, §9(a)(3), (4), 42 F.R. 62461, 91 Stat. 1639, set out under section 1461 of this title, effective on or before July 1, 1978, at such time as specified by the President.

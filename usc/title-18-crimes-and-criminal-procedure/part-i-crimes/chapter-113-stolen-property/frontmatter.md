@@ -32,6 +32,8 @@ Sec.
 
 2323. Forfeiture, destruction, and restitution.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2008**—Pub. L. 110–403, title II, §206(b), Oct. 13, 2008, 122 Stat. 4263, added item 2323.

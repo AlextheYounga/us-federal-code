@@ -4,6 +4,8 @@ The Librarian of Congress (hereafter in sections 179l to 179w of this title refe
 
 (Pub. L. 104–285, title I, §102, Oct. 11, 1996, 110 Stat. 3377.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Sections 179l to 179w of the title, referred to in text, was in the original "this Act" the first place appearing and "this title" the second place appearing, both of which were translated as meaning title I of Pub. L. 104–285, Oct. 11, 1996, 110 Stat. 3377, which is classified principally to sections 179l to 179w of this title. For complete classification of title I to the Code, see Short Title note below and Tables.
@@ -15,6 +17,8 @@ The National Film Preservation Act of 1992, referred to in text, is title II of 
 #### Prior Provisions ####
 
 Prior provisions similar to sections 179l to 179w of this title were contained in former section 179 et seq. of this title.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Short Title of 2016 Amendment ####
 

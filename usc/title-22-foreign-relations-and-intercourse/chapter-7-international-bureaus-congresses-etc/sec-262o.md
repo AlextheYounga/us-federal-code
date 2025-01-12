@@ -34,9 +34,13 @@
 
 (Pub. L. 95–118, title XV, §1501, as added Pub. L. 100–202, §101(e) [title I], Dec. 22, 1987, 101 Stat. 1329–131, 1329–134.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section 1501 of Pub. L. 95–118 is based on section 701 of title VII of H.R. 3750, One Hundredth Congress, as introduced Dec. 11, 1987, and enacted into law by Pub. L. 100–202.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Definitions ####
 

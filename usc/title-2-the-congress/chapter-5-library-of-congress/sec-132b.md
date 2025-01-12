@@ -4,9 +4,13 @@ The Joint Committee of Congress on the Library shall, on and after January 3, 19
 
 (Aug. 2, 1946, ch. 753, title II, §223, 60 Stat. 838; Pub. L. 104–186, title II, §205, Aug. 20, 1996, 110 Stat. 1742.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1996**—Pub. L. 104–186 substituted "House Oversight" for "House Administration".
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Change of Name ####
 

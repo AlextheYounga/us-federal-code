@@ -10,6 +10,8 @@ Any payment of dividends made to the United States by the Corporation shall be c
 
 (Aug. 11, 1955, ch. 788, §7, 69 Stat. 670.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 In subsec. (a), "chapter 31 of title 31" and "that chapter" substituted for "the Second Liberty Bond Act, as amended" and "that Act", respectively, on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.

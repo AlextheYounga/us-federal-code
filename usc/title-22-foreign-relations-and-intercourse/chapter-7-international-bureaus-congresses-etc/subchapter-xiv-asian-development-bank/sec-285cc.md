@@ -6,6 +6,8 @@
 
 (Pub. L. 89–369, §32, as added Pub. L. 109–102, title V, §599C(c), Nov. 14, 2005, 119 Stat. 2243.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Pub. L. 109–102, title V, §599C(c), Nov. 14, 2005, 119 Stat. 2243, which directed that this section be added at the end of "the Asian Development Fund Act, Public Law 92–245, as amended (22 U.S.C. 285 et seq.)", was executed by adding this section at the end of the Asian Development Bank Act, Pub. L. 89–369, which is classified to this subchapter, to reflect the probable intent of Congress.

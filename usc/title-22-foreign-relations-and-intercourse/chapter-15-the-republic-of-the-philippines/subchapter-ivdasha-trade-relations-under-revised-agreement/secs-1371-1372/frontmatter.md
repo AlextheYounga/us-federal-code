@@ -1,10 +1,14 @@
 ### §§1371, 1372. Omitted ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section 1371, act Aug. 1, 1955, ch. 438, title I, §2, 69 Stat. 413, which defined revised agreement, was omitted in view of the expiration of the revised agreement between the United States and the Republic of the Philippines which occurred on July 4, 1974.
 
 Section 1372, act Aug. 1, 1955, ch. 438, title II, §201, 69 Stat. 413, authorized revised agreement. See Codification note for section 1371 of this title.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Revised Agreement Between United States and Philippines ####
 

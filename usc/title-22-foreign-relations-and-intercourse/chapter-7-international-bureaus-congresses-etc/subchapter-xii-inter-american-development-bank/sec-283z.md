@@ -10,6 +10,8 @@ The United States Governor of the Bank shall report to the Congress no later tha
 
 (Pub. L. 86–147, §28, formerly §29, as added Pub. L. 94–302, title I, §104, May 31, 1976, 90 Stat. 593; renumbered §28, Pub. L. 96–259, title I, §101(1), June 3, 1980, 94 Stat. 429.)
 
+#### **Editorial Notes** ####
+
 #### Prior Provisions ####
 
 A prior section 28 of Pub. L. 86–147, as added by section 103(a)(1) of Pub. L. 94–302, was classified to section 283y of this title prior to repeal by Pub. L. 95–118, title VII, §702, Oct. 3, 1977, 91 Stat. 1070.

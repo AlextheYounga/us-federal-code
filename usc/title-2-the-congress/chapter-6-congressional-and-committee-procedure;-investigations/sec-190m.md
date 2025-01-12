@@ -4,6 +4,8 @@ It shall be the duty of the marshal of the United States for the district in whi
 
 (Feb. 3, 1879, ch. 40, §2, 20 Stat. 279; Mar. 3, 1911, ch. 231, §291, 36 Stat. 1167; June 25, 1948, ch. 646, §1, 62 Stat. 909; Pub. L. 104–186, title II, §206(2), Aug. 20, 1996, 110 Stat. 1742.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Upon its incorporation into the Code, references in this section to the circuit courts were omitted or changed to refer to the district courts to conform to act Mar. 3, 1911, which abolished the circuit courts.
@@ -13,6 +15,8 @@ Section was formerly classified to section 230 of Title 31 prior to the general 
 #### Amendments ####
 
 **1996**—Pub. L. 104–186 substituted "contingent fund of the Senate, in the case of a committee of the Senate, or the applicable accounts of the House of Representatives, in the case of a committee of the House of Representatives." for "contingent fund of the branch of Congress appointing such committee."
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Change of Name ####
 

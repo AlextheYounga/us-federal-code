@@ -36,6 +36,8 @@ The Fund should have in place and apply systematically a strong framework of saf
 
 (July 31, 1945, ch. 339, §63, as added Pub. L. 106–429, §101(a) [title VIII, §805], Nov. 6, 2000, 114 Stat. 1900, 1900A–67.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section 101(a) [title VIII, §805] of Pub. L. 106–429, which directed amendment of the Bretton Woods Agreement Act by adding this section, was executed by amending the Bretton Woods Agreements Act by adding this section, to reflect the probable intent of Congress.

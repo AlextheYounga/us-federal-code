@@ -48,9 +48,13 @@ If the statement is not published in the report, or if the bill or joint resolut
 
 (Pub. L. 93–344, title IV, §423, as added Pub. L. 104–4, title I, §101(a)(2), Mar. 22, 1995, 109 Stat. 53; amended Pub. L. 106–141, §2(a), Dec. 7, 1999, 113 Stat. 1699.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1999**—Subsec. (d)(3). Pub. L. 106–141 added par. (3).
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date ####
 

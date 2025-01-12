@@ -10,9 +10,13 @@ In order to assist and strengthen the advancement of ongoing efforts to have the
 
 (Pub. L. 95–118, title XVI, §1612, as added Pub. L. 101–240, title II, §206, Dec. 19, 1989, 103 Stat. 2499.)
 
+#### **Editorial Notes** ####
+
 #### Prior Provisions ####
 
 A prior section 1612 of Pub. L. 95–118 was renumbered section 1622 and is classified to section 262p–5 of this title.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Definitions ####
 

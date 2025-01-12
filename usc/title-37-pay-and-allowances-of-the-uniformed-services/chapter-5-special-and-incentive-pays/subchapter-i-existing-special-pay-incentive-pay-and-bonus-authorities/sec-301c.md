@@ -36,6 +36,8 @@
 
 (Added Pub. L. 96–579, §3(d), Dec. 23, 1980, 94 Stat. 3360; amended Pub. L. 97–39, title VII, §701(a), (b), Aug. 14, 1981, 95 Stat. 942; Pub. L. 97–60, title I, §114, Oct. 14, 1981, 95 Stat. 995; Pub. L. 99–145, title VI, §633(a), Nov. 8, 1985, 99 Stat. 646; Pub. L. 100–26, §8(e)(4), Apr. 21, 1987, 101 Stat. 286; Pub. L. 100–180, div. A, title VI, §623(a), (b), Dec. 4, 1987, 101 Stat. 1101; Pub. L. 100–224, §5(a)(2), Dec. 30, 1987, 101 Stat. 1538; Pub. L. 100–456, div. A, title XII, §1233(l)(1), Sept. 29, 1988, 102 Stat. 2058; Pub. L. 101–510, div. A, title XIII, §1322(c)(1), Nov. 5, 1990, 104 Stat. 1672; Pub. L. 102–25, title VII, §702(b)(1), (2), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 102–190, div. A, title XI, §1111(d)(2), Dec. 5, 1991, 105 Stat. 1492; Pub. L. 107–107, div. A, title VI, §617(a), (b), Dec. 28, 2001, 115 Stat. 1137; Pub. L. 109–163, div. A, title V, §515(d)(1)(D), (2), Jan. 6, 2006, 119 Stat. 3236.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2006**—Subsec. (d). Pub. L. 109–163 substituted "Navy Reserve" for "Naval Reserve" in heading and text.
@@ -80,6 +82,8 @@ Subsec. (a)(3), (4). Pub. L. 97–60 inserted ", but excluding, in the case of 
 
 Subsec. (a)(5)(A)(i). Pub. L. 97–39, §701(b), inserted provisions relating to service as an operator or crew member of an operational submersible.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of 1991 Amendment ####
 
 Amendment by Pub. L. 102–190 effective Feb. 1, 1992, see section 1132 of Pub. L. 102–190, set out as a note under section 521 of Title 10, Armed Forces.
@@ -108,10 +112,6 @@ Pub. L. 97–39, title VII, §701(c), Aug. 14, 1981, 95 Stat. 942, provided that
 
 Pub. L. 96–579, §3(g), Dec. 23, 1980, 94 Stat. 3364, provided: "The amendments made by this subsection [probably means section 3 of Pub. L. 96–579, which enacted this section and amended sections 301 and 308 of this title] shall become effective on the first day of the first month following the month in which this Act is enacted [December, 1980]."
 
-#### Delegation of Functions ####
-
-For delegation of authority under this section to Secretaries of Defense, Commerce, Health and Human Services, and Homeland Security when Coast Guard not serving as part of Navy, see section 1 of Ex. Ord. No. 13294, Mar. 28, 2003, 68 F.R. 15919, set out as a note under section 301 of this title.
-
 #### Transition Provisions ####
 
 Pub. L. 107–107, div. A, title VI, §617(c), Dec. 28, 2001, 115 Stat. 1137, provided that: "The tables set forth in subsection (b) of section 301c of title 37, United States Code, as in effect on the day before the date of the enactment of this Act [Dec. 28, 2001], shall continue to apply until the later of the following:
@@ -119,3 +119,9 @@ Pub. L. 107–107, div. A, title VI, §617(c), Dec. 28, 2001, 115 Stat. 1137, pr
 "(1) January 1, 2002.
 
 "(2) The date on which the Secretary of the Navy prescribes new submarine duty incentive pay rates as authorized by the amendment made by subsection (a) [amending this section]."
+
+#### **Executive Documents** ####
+
+#### Delegation of Functions ####
+
+For delegation of authority under this section to Secretaries of Defense, Commerce, Health and Human Services, and Homeland Security when Coast Guard not serving as part of Navy, see section 1 of Ex. Ord. No. 13294, Mar. 28, 2003, 68 F.R. 15919, set out as a note under section 301 of this title.

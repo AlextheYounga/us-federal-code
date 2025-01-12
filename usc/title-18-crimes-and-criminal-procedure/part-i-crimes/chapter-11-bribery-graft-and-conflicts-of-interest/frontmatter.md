@@ -54,6 +54,8 @@ Sec.
 
 227. Wrongfully influencing a private entity's employment decisions by a Member of Congress or an officer or employee of the legislative or executive branch.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2018**—Pub. L. 115–271, title VIII, §8122(b), Oct. 24, 2018, 132 Stat. 4110, added item 220.

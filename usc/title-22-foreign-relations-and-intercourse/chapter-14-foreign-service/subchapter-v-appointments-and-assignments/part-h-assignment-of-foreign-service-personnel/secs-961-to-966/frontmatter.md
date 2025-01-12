@@ -14,6 +14,8 @@ Section 966, act Aug. 13, 1946, ch. 957, title V, §576, as added Oct. 26, 1974,
 
 A prior section 576 of act Aug. 13, 1946, ch. 957, title V, 60 Stat. 1013, which provided for assignments to international organizations, was repealed by Pub. L. 86–723, §52(3), Sept. 8, 1960, 74 Stat. 847.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Repeal effective Feb. 15, 1981, except as otherwise provided, see section 2403 of Pub. L. 96–465, set out as an Effective Date note under section 3901 of this title.

@@ -46,9 +46,13 @@ The Secretary of State shall offer to the committees referred to in subsection (
 
 (Pub. L. 113–41, §5, Oct. 2, 2013, 127 Stat. 550.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Section 4(8), referred to in subsec. (a)(1)(A), is section 4(8) of Pub. L. 113–41, Oct. 2, 2013, 127 Stat. 549, which is not classified to the Code.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Short Title ####
 

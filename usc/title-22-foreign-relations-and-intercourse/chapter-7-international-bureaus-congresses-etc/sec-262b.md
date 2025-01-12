@@ -4,6 +4,8 @@ No representative of the United States Government in any international organizat
 
 (Oct. 22, 1951, ch. 533, title VI, §602, 65 Stat. 599; Aug. 5, 1953, ch. 328, title I, 67 Stat. 368.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 This Act, referred to in text, is act Oct. 22, 1951, ch. 533, title VI, 65 Stat. 599, popularly known as the Departments of State, Justice, Commerce and Judiciary Appropriation Act of 1952. For complete classification of this Act to the Code, see Tables.

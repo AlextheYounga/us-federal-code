@@ -24,6 +24,8 @@ As used in this title, the term "financial institution" means—
 
 (Added Pub. L. 98–473, title II, §1107(a), Oct. 12, 1984, 98 Stat. 2145, §215(b); amended Pub. L. 99–370, §2, Aug. 4, 1986, 100 Stat. 779; renumbered §20 and amended Pub. L. 101–73, title IX, §962(e)(1), (2), Aug. 9, 1989, 103 Stat. 503; Pub. L. 101–647, title XXV, §2597(a), Nov. 29, 1990, 104 Stat. 4908; Pub. L. 111–21, §2(a), May 20, 2009, 123 Stat. 1617.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Section 3 of the Federal Deposit Insurance Act, referred to in pars. (1) and (6), is classified to section 1813 of Title 12, Banks and Banking.

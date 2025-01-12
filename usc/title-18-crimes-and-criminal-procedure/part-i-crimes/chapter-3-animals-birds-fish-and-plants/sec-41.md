@@ -20,6 +20,8 @@ Words "upon conviction", contained in sections 676, 685, 688, 689b, 692a, and 69
 
 Words "in any United States court of competent jurisdiction", in sections 676, 685, and 688 of title 16, U.S.C., 1940 ed., words "in any United States court", in sections 689b, 692a, and 694a of such title 16, and words "in the discretion of the court", in said sections 676, 685, 688, and 689b, were likewise omitted as surplusage.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1994**—Pub. L. 103–322 substituted "fined under this title" for "fined not more than $500".

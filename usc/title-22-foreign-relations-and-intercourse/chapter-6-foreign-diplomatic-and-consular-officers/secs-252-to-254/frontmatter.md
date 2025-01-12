@@ -6,6 +6,8 @@ Section 253, R.S. §4064, related to imprisonment for not more than three years 
 
 Section 254, R.S. §§4065, 4066, related to suits against persons in the service of an ambassador or public minister founded upon a debt contracted before entering such service, and registration of the names of persons serving as domestic servants of an ambassador or a public minister with the State Department.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Repeal effective at end of ninety-day period beginning on Sept. 30, 1978, see section 9 of Pub. L. 95–393, set out as an Effective Date note under section 254a of this title.

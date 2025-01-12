@@ -130,6 +130,8 @@ Funds made available to the Foundation may be used for printing and binding with
 
 (Pub. L. 91–175, pt. IV, §401, Dec. 30, 1969, 83 Stat. 821; Pub. L. 92–226, pt. IV, §406(2)–(5), Feb. 7, 1972, 86 Stat. 34; Pub. L. 95–105, title V, §508, Aug. 17, 1977, 91 Stat. 859; Pub. L. 97–241, title V, §501, Aug. 24, 1982, 96 Stat. 297; Pub. L. 98–164, title X, §1001, Nov. 22, 1983, 97 Stat. 1051; Pub. L. 99–83, title VII, §708, Aug. 8, 1985, 99 Stat. 243; Pub. L. 99–529, title II, §202(e), title IV, §403(a), Oct. 24, 1986, 100 Stat. 3012, 3019; Pub. L. 101–246, title VI, §601, Feb. 16, 1990, 104 Stat. 73; Pub. L. 102–138, title I, §173(a), (b)(1), (c), (d), Oct. 28, 1991, 105 Stat. 679, 680; Pub. L. 110–38, §1, June 21, 2007, 121 Stat. 230.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Foreign Assistance Act of 1961, referred to in subsec. (s)(1), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424. Part I of the Foreign Assistance Act of 1961 is classified generally to subchapter I (§2151 et seq.) of chapter 32 of this title. For provisions deeming references to subchapter I to include parts IV (§2346 et seq.), VI (§2348 et seq.), and VIII (§2349aa et seq.) of subchapter II of chapter 32, see section 202(b) of Pub. L. 92–226, set out as a note under section 2346 of this title, and sections 2348c and 2349aa–5 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
@@ -177,6 +179,8 @@ Subsec. (a). Pub. L. 92–226, §406(2), substituted "Inter-American Foundation"
 Subsec. (e)(4). Pub. L. 92–226, §406(4), inserted ", including expenses for representation (not to exceed $10,000 in any fiscal year),".
 
 Subsec. (l). Pub. L. 92–226, §406(5), designated existing provisions as par. (1), substituted "Foundation" for "Institute" and "President" for "Executive Director" in two places, and added par. (2).
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 1986 Amendment ####
 

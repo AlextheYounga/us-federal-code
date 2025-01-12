@@ -4,6 +4,8 @@ From and after October 1, 1980, payments in advance for subscriptions or other c
 
 (Pub. L. 96–536, §101(c), Dec. 16, 1980, 94 Stat. 3167.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section is based on section 204 of title II of H.R. 7593, as passed the House of Representatives on July 21, 1980, and incorporated by reference in section 101(c) of Pub. L. 96–536, to be effective as if enacted into law.

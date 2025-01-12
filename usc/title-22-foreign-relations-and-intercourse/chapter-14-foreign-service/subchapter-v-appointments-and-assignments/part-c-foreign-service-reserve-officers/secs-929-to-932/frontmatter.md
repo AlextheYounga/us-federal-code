@@ -8,6 +8,8 @@ Section 931, Pub. L. 90–464, §17, Aug. 20, 1968, 82 Stat. 814, related to unl
 
 Section 932, Pub. L. 90–464, §19, Aug. 20, 1968, 82 Stat. 814, provided that sections 929 to 931 of this title not apply to officers and employees of the Agency for International Development, the Peace Corps, and the Arms Control and Disarmament Agency.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Repeal effective Feb. 15, 1981, except as otherwise provided, see section 2403 of Pub. L. 96–465, set out as an Effective Date note under section 3901 of this title.

@@ -2,6 +2,8 @@
 
 Section, act Feb. 13, 1945, ch. 2, §1, 59 Stat. 4, prescribed basic rates of compensation of telephone operators on the United States Capitol telephone exchange and authorized certain longevity increases. See section 4507 of this title.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Repeal effective Sept. 1, 1962, see section 106(e) of Pub. L. 87–730, set out as an Effective Date note under section 4507 of this title.

@@ -4,6 +4,8 @@ The Librarian of the Library of Congress is authorized and directed to have boun
 
 (Aug. 2, 1946, ch. 753, title I, §141, 60 Stat. 834.)
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date ####
 
 Section effective Aug. 2, 1946, see section 142 of act Aug. 2, 1946, ch. 753, title I, 60 Stat. 834.

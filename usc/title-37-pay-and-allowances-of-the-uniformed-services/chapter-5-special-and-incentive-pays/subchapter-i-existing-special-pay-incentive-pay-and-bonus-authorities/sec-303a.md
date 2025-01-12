@@ -72,6 +72,8 @@
 
 (Added Pub. L. 96–284, §5(a), June 28, 1980, 94 Stat. 592; amended Pub. L. 96–513, title V, §506(6), Dec. 12, 1980, 94 Stat. 2919; Pub. L. 100–140, §2(b)(1), Oct. 26, 1987, 101 Stat. 831; Pub. L. 101–189, div. A, title VII, §§705(b), 706(b), Nov. 29, 1989, 103 Stat. 1472, 1473; Pub. L. 101–510, div. A, title VI, §611(d), title XIII, §1322(c)(2), title XIV, §1484(c)(1), Nov. 5, 1990, 104 Stat. 1577, 1672, 1716; Pub. L. 102–484, div. A, title X, §1054(a)(3), Oct. 23, 1992, 106 Stat. 2502; Pub. L. 104–106, div. A, title VI, §614(b), Feb. 10, 1996, 110 Stat. 361; Pub. L. 104–201, div. A, title VI, §615(c)(3), Sept. 23, 1996, 110 Stat. 2546; Pub. L. 106–398, §1 [[div. A], title VI, §§628(b), 634(a)], Oct. 30, 2000, 114 Stat. 1654, 1654A–155, 1654A–159; Pub. L. 109–163, div. A, title VI, §687(a)(1), (e)(1), Jan. 6, 2006, 119 Stat. 3326, 3336; Pub. L. 110–317, §2(a), Aug. 29, 2008, 122 Stat. 3526; Pub. L. 110–417, [div. A], title VI, §651(a), (b), Oct. 14, 2008, 122 Stat. 4495; Pub. L. 111–84, div. A, title VI, §617(a), Oct. 28, 2009, 123 Stat. 2354; Pub. L. 111–383, div. A, title X, §1075(c)(1), Jan. 7, 2011, 124 Stat. 4372.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Section 225(e) of the Public Health Service Act, as that section was in effect before October 1, 1977, referred to in subsec. (b)(2)(B), is section 225(e) of act July 1, 1944, ch. 373, which was classified to section 234(e) of Title 42, The Public Health and Welfare, prior to repeal by Pub. L. 94–484, title IV, §408(b)(1), Oct. 12, 1976, 90 Stat. 2281, effective Oct. 1, 1977.
@@ -131,6 +133,8 @@ Subsec. (c). Pub. L. 101–510, §§611(d), 1322(c)(2), 1484(c)(1), inserted "30
 **1980**—Subsec. (a). Pub. L. 96–513, §506(6)(A), struck out reference to sections 302c and 313 of this title.
 
 Subsec. (b). Pub. L. 96–513, §506(6)(B), (C), struck out reference to section 302c of this title and inserted reference to separation pay.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Change of Name ####
 

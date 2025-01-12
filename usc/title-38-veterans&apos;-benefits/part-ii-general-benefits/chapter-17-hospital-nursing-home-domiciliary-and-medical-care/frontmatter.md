@@ -98,6 +98,8 @@ Sec.
 
 1720I. Mental and behavioral health care for certain former members of the Armed Forces.
 
+1720J. Emergent suicide care.
+
 #### SUBCHAPTER III—MISCELLANEOUS PROVISIONS RELATING TO HOSPITAL AND NURSING HOME CARE AND MEDICAL TREATMENT OF VETERANS ####
 
 1721. Power to make rules and regulations.
@@ -197,6 +199,8 @@ Sec.
 1788. Transplant procedures with live donors and related services.
 
 #### Amendments ####
+
+**2020**—Pub. L. 116–214, title II, §201(b), Dec. 5, 2020, 134 Stat. 1033, added item 1720J.
 
 **2018**—Pub. L. 115–182, title I, §§101(a)(2), 102(b), 104(b), 105(c), 109(b), 111(b), 134(b), 151(b), 152(b), 153(b), June 6, 2018, 132 Stat. 1403, 1408, 1411, 1413, 1418, 1421, 1429, 1431, 1437, 1438, substituted "Veterans Community Care Program" for "Contracts for hospital care and medical services in non-Department facilities" in item 1703, and added items 1703A to 1703E, 1706A, 1725A, 1730B, 1730C, and 1788.
 

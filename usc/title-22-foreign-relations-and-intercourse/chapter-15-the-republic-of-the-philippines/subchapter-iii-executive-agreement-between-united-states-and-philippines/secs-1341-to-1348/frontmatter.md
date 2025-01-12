@@ -1,5 +1,7 @@
 ### §§1341 to 1348. Omitted ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section 1341, act Apr. 30, 1946, ch. 244, title IV, §401, 60 Stat. 151, which provided authorization for an executive agreement between United States and Republic of Philippines concerning trade and other related matters, was omitted in view of expiration of revised agreement concerning trade and other related matters which occurred on July 4, 1974.

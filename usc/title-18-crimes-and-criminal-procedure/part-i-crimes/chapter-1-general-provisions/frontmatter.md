@@ -58,6 +58,8 @@ Sec.
 
 In the analysis of sections under this chapter heading, a new item, "14. Applicability to Canal Zone.", was inserted by Senate amendment, to follow underneath item 13, inasmuch as a new section 14, with such a catchline, was inserted, by Senate amendment, in this chapter. See Senate Report No. 1620, amendments Nos. 1 and 3, 80th Cong.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2009**—Pub. L. 111–21, §2(b)(2), May 20, 2009, 123 Stat. 1617, added item 27.
@@ -88,6 +90,8 @@ In the analysis of sections under this chapter heading, a new item, "14. Applica
 
 **1958**—Pub. L. 85–921, §4, Sept. 2, 1958, 72 Stat. 1771, added item 15.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Commission on the Advancement of Federal Law Enforcement ####
 
 Pub. L. 104–132, title VIII, §806, Apr. 24, 1996, 110 Stat. 1305, established Commission on the Advancement of Federal Law Enforcement, directed Commission to review and recommend action to Congress on Federal law enforcement priorities for 21st century, including Federal law enforcement capability to investigate and deter adequately threat of terrorism facing United States, standards and procedures, degree of coordination with international, State, and local law enforcement agencies, and other matters, provided for membership and administration of Commission, staffing and support functions, and powers to hold hearings and obtain official data for purposes of carrying out its duties, required report to Congress and public of findings, conclusions, and recommendations not later than 2 years after quorum of Commission had been appointed, and provided for termination of Commission 30 days after submitting report.
@@ -95,6 +99,8 @@ Pub. L. 104–132, title VIII, §806, Apr. 24, 1996, 110 Stat. 1305, established
 #### National Commission on Reform of Federal Criminal Laws ####
 
 Pub. L. 89–801, Nov. 8, 1966, 80 Stat. 1516, as amended by Pub. L. 91–39, July 8, 1969, 83 Stat. 44, provided for the establishment of the National Commission on Reform of Federal Criminal Laws, its membership, duties, compensation of the members, the Director, and the staff of the Commission, established the Advisory Committee on Reform of Federal Criminal Laws, required the Commission to submit interim reports to the President and the Congress and to submit a final report within four years from Nov. 8, 1966, and further provided that the Commission shall cease to exist sixty days after the submission of the final report.
+
+#### **Executive Documents** ####
 
 #### Ex. Ord. No. 11396. Coordination By Attorney General of Federal Law Enforcement and Crime Prevention Programs ####
 

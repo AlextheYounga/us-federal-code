@@ -4,6 +4,8 @@ Section 2582, Pub. L. 87–297, title IV, §42, Sept. 26, 1961, 75 Stat. 636; Pu
 
 Section 2583, Pub. L. 87–297, title IV, §43, Sept. 26, 1961, 75 Stat. 636, related to exemption from provisions of law relating to contracts or expenditures of Government funds.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Repeal effective Apr. 1, 1999, see section 1201 of Pub. L. 105–277, set out as an Effective Date note under section 6511 of this title.

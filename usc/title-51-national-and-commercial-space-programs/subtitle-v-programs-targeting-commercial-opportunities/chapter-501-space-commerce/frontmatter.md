@@ -30,6 +30,8 @@ Sec.
 
 50134. Use of excess intercontinental ballistic missiles.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2017**—Pub. L. 115–10, title IV, §416(c), Mar. 21, 2017, 131 Stat. 35, struck out item 50133 "Shuttle privatization".

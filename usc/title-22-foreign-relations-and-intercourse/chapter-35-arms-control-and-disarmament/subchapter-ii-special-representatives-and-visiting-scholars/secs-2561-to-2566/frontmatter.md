@@ -12,6 +12,8 @@ Section 2565, Pub. L. 87–297, title II, §25, Sept. 26, 1961, 75 Stat. 632; Pu
 
 Section 2566, Pub. L. 87–297, title II, §26, Sept. 26, 1961, 75 Stat. 632; Pub. L. 103–236, title VII, §707, Apr. 30, 1994, 108 Stat. 493, related to appointment, function, and term of Scientific and Policy Advisory Committee.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Repeal effective Apr. 1, 1999, see section 1201 of Pub. L. 105–277, set out as an Effective Date note under section 6511 of this title.

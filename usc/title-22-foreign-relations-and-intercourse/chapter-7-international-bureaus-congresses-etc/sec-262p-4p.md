@@ -12,6 +12,8 @@
 
 (Pub. L. 95–118, title XVI, §1621, as added Pub. L. 103–306, title V, §526(e), Aug. 23, 1994, 108 Stat. 1634; amended Pub. L. 104–188, title I, §1954(b)(4), Aug. 20, 1996, 110 Stat. 1928.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Another section 1621 of Pub. L. 95–118 is classified to section 262p–4q of this title.
@@ -19,6 +21,8 @@ Another section 1621 of Pub. L. 95–118 is classified to section 262p–4q of t
 #### Amendments ####
 
 **1996**—Subsec. (a)(1). Pub. L. 104–188 substituted "2467(4)" for "2462(a)(4)".
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Change of Name ####
 

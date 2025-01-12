@@ -12,6 +12,8 @@ Sec.
 
 4285. Persons released pending further judicial proceedings.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1984**—Pub. L. 98–473, title II, §218(f), Oct. 12, 1984, 98 Stat. 2027, in items 4281, 4283, and 4284, substituted "Repealed" for "Discharge from prison", "Probation", and "Advances for rehabilitation", respectively.

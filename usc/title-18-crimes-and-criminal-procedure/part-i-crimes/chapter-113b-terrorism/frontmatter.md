@@ -46,6 +46,8 @@ Sec.
 
 2339D. Receiving military-type training from a foreign terrorist organization. 1
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Pub. L. 101–519, §132, Nov. 5, 1990, 104 Stat. 2250, known as the "Antiterrorism Act of 1990", amended this chapter by adding sections 2331 and 2333 to 2338 and by amending former section 2331 and renumbering it as section 2332. Pub. L. 102–27, title IV, §402, Apr. 10, 1991, 105 Stat. 155, as amended by Pub. L. 102–136, §126, Oct. 25, 1991, 105 Stat. 643, repealed section 132 of Pub. L. 101–519, effective Nov. 5, 1990, and provided that effective Nov. 5, 1990, this chapter is amended to read as if section 132 of Pub. L. 101–519 had not been enacted.

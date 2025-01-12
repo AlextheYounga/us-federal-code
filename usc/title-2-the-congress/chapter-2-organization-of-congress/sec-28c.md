@@ -42,11 +42,15 @@ The Director of the Government Publishing Office shall make the following distri
 
 (Pub. L. 94–551, §2, Oct. 18, 1976, 90 Stat. 2537; Pub. L. 104–186, title II, §202(3), Aug. 20, 1996, 110 Stat. 1724; Pub. L. 113–235, div. H, title I, §1301(d), Dec. 16, 2014, 128 Stat. 2537.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1996**—Subsec. (c)(2). Pub. L. 104–186, §202(3)(A), substituted "Representatives, each" for "Representives, each".
 
 Subsec. (c)(5). Pub. L. 104–186, §202(3)(B), substituted "and to the Sergeant at Arms of the House of Representatives, each two sets" for ", to the Sergeant at Arms of the House of Representatives, and to the Doorkeeper of the House of Representatives, each, two sets".
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Change of Name ####
 

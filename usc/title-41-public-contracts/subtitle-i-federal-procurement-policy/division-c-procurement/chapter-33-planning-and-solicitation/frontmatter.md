@@ -26,6 +26,8 @@ Sec.
 
 3312. Database on price trends of items and services under Federal contracts.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2018**—Pub. L. 115–232, div. A, title VIII, §836(b)(10)(B)(ii), Aug. 13, 2018, 132 Stat. 1863, substituted "Preference for commercial products and commercial services" for "Preference for commercial items" in item 3307.

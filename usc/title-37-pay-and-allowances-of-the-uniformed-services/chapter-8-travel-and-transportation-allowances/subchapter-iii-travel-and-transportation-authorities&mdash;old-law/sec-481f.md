@@ -58,6 +58,8 @@
 
 (Added Pub. L. 99–145, title VI, §620(a)(1), Nov. 8, 1985, 99 Stat. 642, §411f; amended Pub. L. 100–456, div. A, title VI, §632(b), Sept. 29, 1988, 102 Stat. 1986; Pub. L. 103–35, title II, §204(a)(2), May 31, 1993, 107 Stat. 102; Pub. L. 107–107, div. A, title VI, §638(a), Dec. 28, 2001, 115 Stat. 1146; Pub. L. 108–375, div. A, title VI, §631, Oct. 28, 2004, 118 Stat. 1956; Pub. L. 110–181, div. A, title VI, §632, Jan. 28, 2008, 122 Stat. 154; Pub. L. 111–84, div. A, title V, §542(b)(1), (2)(A), title VI, §631, Oct. 28, 2009, 123 Stat. 2299, 2300, 2359; renumbered §481f and amended Pub. L. 112–81, div. A, title VI, §631(d)(2), (e)(20), Dec. 31, 2011, 125 Stat. 1460, 1463; Pub. L. 114–92, div. A, title VI, §§621, 622(a), Nov. 25, 2015, 129 Stat. 841.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2015**—Subsec. (d). Pub. L. 114–92, §622(a), redesignated subsec. (e) as (d) and struck out former subsec. (d) which related to expanded allowances related to recovery of remains from the Vietnam conflict.
@@ -115,6 +117,8 @@ Subsec. (c)(1)(C). Pub. L. 108–375, §631(c), substituted "The" for "If no per
 **1993**—Subsec. (c). Pub. L. 103–35 substituted "section 401(a) of this title" for "section 401 of this title".
 
 **1988**—Subsec. (a). Pub. L. 100–456 substituted "or inactive duty in order that such dependents may" for "for a period of 30 days or more in order to".
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 2009 Amendment ####
 

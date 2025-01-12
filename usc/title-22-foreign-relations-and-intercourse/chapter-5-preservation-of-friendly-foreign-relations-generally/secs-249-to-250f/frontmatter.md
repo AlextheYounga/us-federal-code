@@ -1,5 +1,7 @@
 ### §§249 to 250f. Transferred ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section 249, act Aug. 9, 1939, ch. 616, §1, 53 Stat. 1290, which related to utilization of services of government agencies to promote inter-American relations, was transferred to section 501 of this title.

@@ -40,6 +40,8 @@ Sec.
 
 101926. Regulations.
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Pub. L. 114–289, title VII, §701, Dec. 16, 2016, 130 Stat. 1492, added subchapter III of this chapter without corresponding amendment of chapter analysis. For analysis of subchapter III, see table of sections set out preceding section 101931 of this title.

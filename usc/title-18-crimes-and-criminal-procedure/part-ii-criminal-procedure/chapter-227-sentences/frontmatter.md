@@ -10,6 +10,8 @@ C. Fines 3571
 
 D. Imprisonment 3581
 
+#### **Editorial Notes** ####
+
 #### Prior Provisions ####
 
 A prior chapter 227 (§3561 et seq.) was repealed (except sections 3577 to 3580 which were renumbered sections 3661 to 3664, respectively), by Pub. L. 98–473, title II, §§212(a)(1), (2), 235(a)(1), Oct. 12, 1984, 98 Stat. 1987, 2031, as amended, effective Nov. 1, 1987, and applicable only to offenses committed after the taking effect of such repeal. See Effective Date note set out under section 3551 of this title.

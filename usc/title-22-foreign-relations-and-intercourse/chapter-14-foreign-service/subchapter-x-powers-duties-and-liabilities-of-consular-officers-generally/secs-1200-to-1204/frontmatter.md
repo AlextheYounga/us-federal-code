@@ -1,5 +1,7 @@
 ### §§1200 to 1204. Transferred ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section 1200, R.S. §1737; Apr. 5, 1906, ch. 1366, §3, 34 Stat. 100, which related to penalty for a false certificate as to ownership of property, was transferred to section 4218 of this title.

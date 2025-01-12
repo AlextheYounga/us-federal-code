@@ -4,6 +4,8 @@ Each of the revolving funds established under sections 182a to 182d of this titl
 
 (Pub. L. 106–481, title I, §104, Nov. 9, 2000, 114 Stat. 2190.)
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date ####
 
 Section applicable with respect to fiscal year 2002 and each succeeding fiscal year, see section 105 of Pub. L. 106–481, set out as a note under section 182a of this title.

@@ -18,9 +18,13 @@ Section 167g, act Aug. 4, 1950, ch. 561, §8, 64 Stat. 412; Pub. L. 88–60, §1
 
 Section 167h, act Aug. 4, 1950, ch. 561, §9, 64 Stat. 412; Pub. L. 93–198, title VII, §739(g)(9), Dec. 24, 1973, 87 Stat. 829; Pub. L. 100–135, §1(b)(1), Oct. 16, 1987, 101 Stat. 811, related to jurisdiction of police within Library buildings, grounds, and adjacent streets.
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Pub. L. 110–161, div. H, title I, §1004(d)(1)(B), (2)(B), and Pub. L. 110–178, §4(a)(2), (b)(2), identically repealed sections 167 to 167h of this title. Pub. L. 110–161, §1004, was repealed by Pub. L. 111–145.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of Repeal ####
 

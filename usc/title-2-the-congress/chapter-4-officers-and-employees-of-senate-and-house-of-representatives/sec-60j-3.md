@@ -2,6 +2,8 @@
 
 Section, Pub. L. 95–391, title I, §109, Sept. 30, 1978, 92 Stat. 773; Pub. L. 96–304, title I, §107(c), July 8, 1980, 94 Stat. 890, provided for merit compensation for employees rated as outstanding and exceptional by Secretary of Senate and Sergeant at Arms and Doorkeeper, respectively.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Section 101 of S. 2939, 97th Congress, 2d Session, as reported Sept. 22, 1982, and incorporated by reference in section 101(e) of Pub. L. 97–276, to be effective as if enacted into law, provided that the repeal is effective Oct. 1, 1982.

@@ -18,6 +18,8 @@ Sec.
 
 2248. Mandatory restitution.
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Pub. L. 99–646 and Pub. L. 99–654 added identical chapters 109A.

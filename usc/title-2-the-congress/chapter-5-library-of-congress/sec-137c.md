@@ -4,6 +4,8 @@ The chief judge and associate judges of the United States Court of Appeals for t
 
 (Joint Res. No. 9, Jan. 27, 1894, 28 Stat. 577; June 7, 1934, ch. 426, 48 Stat. 926; June 25, 1936, ch. 804, 49 Stat. 1921; June 25, 1948, ch. 646, §32(a), (b), 62 Stat. 991; May 24, 1949, ch. 139, §127, 63 Stat. 107.)
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Change of Name ####
 
 Act June 25, 1948, eff. Sept. 1, 1948, as amended by act May 24, 1949, substituted "United States District Court for the District of Columbia" for "District Court of the United States for the District of Columbia", "chief judge" for "chief justice" and "associate judges" for "associate justices" wherever appearing.

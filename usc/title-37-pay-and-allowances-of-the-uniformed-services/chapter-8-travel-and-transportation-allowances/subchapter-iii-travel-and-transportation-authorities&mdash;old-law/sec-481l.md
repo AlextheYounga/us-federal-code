@@ -28,6 +28,8 @@
 
 (Added Pub. L. 111–383, div. A, title VI, §622(a)(1), Jan. 7, 2011, 124 Stat. 4238, §411l; renumbered §481l and amended Pub. L. 112–81, div. A, title VI, §631(d)(2), (e)(25), (f)(4)(A), Dec. 31, 2011, 125 Stat. 1460, 1464, 1465; Pub. L. 112–239, div. A, title X, §1076(a)(9), Jan. 2, 2013, 126 Stat. 1948.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2013**—Subsec. (c)(2). Pub. L. 112–239, §1076(a)(9), made technical amendment to directory language of Pub. L. 112–81, §631(f)(4)(A). See 2011 Amendment note below.
@@ -37,6 +39,8 @@
 Subsec. (c)(2). Pub. L. 112–81, §631(f)(4)(A), as amended by Pub. L. 112–239, §1076(a)(9), substituted "474" for "404".
 
 Subsec. (e). Pub. L. 112–81, §631(e)(25), added subsec. (e).
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 2013 Amendment ####
 

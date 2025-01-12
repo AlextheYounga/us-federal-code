@@ -38,9 +38,13 @@ Before the end of the 1-year period beginning on December 19, 1989, the Secretar
 
 (Pub. L. 95–118, title XVI, §1613, as added Pub. L. 101–240, title V, §501, Dec. 19, 1989, 103 Stat. 2505.)
 
+#### **Editorial Notes** ####
+
 #### Prior Provisions ####
 
 A prior section 1613 of Pub. L. 95–118 was renumbered section 1622 and is classified to section 262p–5 of this title.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Change of Name ####
 

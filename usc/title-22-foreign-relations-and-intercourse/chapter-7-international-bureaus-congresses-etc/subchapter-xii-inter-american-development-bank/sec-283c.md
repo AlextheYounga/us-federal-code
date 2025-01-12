@@ -4,9 +4,13 @@ Unless Congress by law authorizes such action, neither the President nor any per
 
 (Pub. L. 86–147, §5, Aug. 7, 1959, 73 Stat. 299; Pub. L. 94–302, title I, §103(a)(2), May 31, 1976, 90 Stat. 593.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1976**—Pub. L. 94–302 inserted ", or article IIA, section 2," after "article II, section 3" and "or article IIA, section 1," after "article II, section 2,".
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 1976 Amendment ####
 

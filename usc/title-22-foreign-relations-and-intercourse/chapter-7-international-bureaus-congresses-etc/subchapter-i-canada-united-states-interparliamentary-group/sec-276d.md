@@ -8,6 +8,8 @@ The Chairman or Vice Chairman of the House delegation shall be a Member from the
 
 (Pub. L. 86–42, §1, June 11, 1959, 73 Stat. 72; Pub. L. 95–45, §4(a), June 15, 1977, 91 Stat. 222; Pub. L. 103–437, §9(a)(3), Nov. 2, 1994, 108 Stat. 4588.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1994**—Pub. L. 103–437 substituted "Foreign Affairs" for "International Relations" wherever appearing.

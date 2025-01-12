@@ -64,9 +64,13 @@ The United States Executive Directors shall endeavor to include the provisions o
 
 (Pub. L. 95–118, title XVI, §1614, as added Pub. L. 101–240, title V, §512, Dec. 19, 1989, 103 Stat. 2508.)
 
+#### **Editorial Notes** ####
+
 #### Prior Provisions ####
 
 A prior section 1614 of Pub. L. 95–118 was renumbered section 1622 and is classified to section 262p–5 of this title.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Definitions ####
 

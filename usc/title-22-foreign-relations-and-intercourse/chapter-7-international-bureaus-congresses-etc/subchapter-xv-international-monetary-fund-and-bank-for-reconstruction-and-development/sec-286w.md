@@ -6,6 +6,8 @@ In the event that the Fund provides either membership, observer status, or any o
 
 (July 31, 1945, ch. 339, §37, as added Pub. L. 96–389, §7, Oct. 7, 1980, 94 Stat. 1554.)
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date ####
 
 Section effective Oct. 7, 1980, see section 12 of Pub. L. 96–389, set out as a note under section 286s of this title.

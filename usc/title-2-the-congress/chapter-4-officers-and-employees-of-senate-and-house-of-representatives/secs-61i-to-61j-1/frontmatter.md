@@ -1,5 +1,7 @@
 ### §§61i to 61j–1. Omitted ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section 61i, Pub. L. 86–30, title I, May 20, 1959, 73 Stat. 48, which was from the Second Supplemental Appropriation Act, 1959, authorized Senate Majority and Minority Leaders to fix, effective May 1, 1959, basic salaries of research assistants authorized by S. Res. 158, agreed to Dec. 9, 1941, at not to exceed $8,820 per annum. See section 6131 of this title.

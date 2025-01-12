@@ -6,13 +6,13 @@ TITLE 11—APPENDIX
 FEDERAL RULES OF BANKRUPTCY PROCEDURE
 ==========
 
-(Effective August 1, 1983, as amended to January 24, 2020)
+(Effective August 1, 1983, as amended to December 1, 2020)
 
 #### Historical Note ####
 
 The Federal Rules of Bankruptcy Procedure were adopted by order of the Supreme Court on Apr. 25, 1983, transmitted to Congress by the Chief Justice on the same day, and became effective Aug. 1, 1983.
 
-The Rules have been amended Aug. 30, 1983, Pub. L. 98–91, §2(a), 97 Stat. 607, eff. Aug. 1, 1983; July 10, 1984, Pub. L. 98–353, title III, §321, 98 Stat. 357; Apr. 29, 1985, eff. Aug. 1, 1985; Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 25, 1989, eff. Aug. 1, 1989; Apr. 30, 1991, eff. Aug. 1, 1991; Apr. 22, 1993, eff. Aug. 1, 1993; Apr. 29, 1994, eff. Aug. 1, 1994; Oct. 22, 1994, Pub. L. 103–394, title I, §114, 108 Stat. 4118; Apr. 27, 1995, eff. Dec. 1, 1995; Apr. 23, 1996, eff. Dec. 1, 1996; Apr. 11, 1997, eff. Dec. 1, 1997; Apr. 26, 1999, eff. Dec. 1, 1999; Apr. 17, 2000, eff. Dec. 1, 2000; Apr. 23, 2001, eff. Dec. 1, 2001; Apr. 29, 2002, eff. Dec. 1, 2002; Mar. 27, 2003, eff. Dec. 1, 2003; Apr. 26, 2004, eff. Dec. 1, 2004; Apr. 25, 2005, eff. Dec. 1, 2005; Apr. 12, 2006, eff. Dec. 1, 2006; Apr. 30, 2007, eff. Dec. 1, 2007; Apr. 23, 2008, eff. Dec. 1, 2008; Mar. 26, 2009, eff. Dec. 1, 2009; Apr. 28, 2010, eff. Dec. 1, 2010; Apr. 26, 2011, eff. Dec. 1, 2011; Apr. 23, 2012, eff. Dec. 1, 2012; Apr. 16, 2013, eff. Dec. 1, 2013; Apr. 25, 2014, eff. Dec. 1, 2014; Apr. 29, 2015, eff. Dec. 1, 2015; Apr. 28, 2016, eff. Dec. 1, 2016; Apr. 27, 2017, eff. Dec. 1, 2017; Apr. 26, 2018, eff. Dec. 1, 2018; Apr. 25, 2019, eff. Dec. 1, 2019.
+The Rules have been amended Aug. 30, 1983, Pub. L. 98–91, §2(a), 97 Stat. 607, eff. Aug. 1, 1983; July 10, 1984, Pub. L. 98–353, title III, §321, 98 Stat. 357; Apr. 29, 1985, eff. Aug. 1, 1985; Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 25, 1989, eff. Aug. 1, 1989; Apr. 30, 1991, eff. Aug. 1, 1991; Apr. 22, 1993, eff. Aug. 1, 1993; Apr. 29, 1994, eff. Aug. 1, 1994; Oct. 22, 1994, Pub. L. 103–394, title I, §114, 108 Stat. 4118; Apr. 27, 1995, eff. Dec. 1, 1995; Apr. 23, 1996, eff. Dec. 1, 1996; Apr. 11, 1997, eff. Dec. 1, 1997; Apr. 26, 1999, eff. Dec. 1, 1999; Apr. 17, 2000, eff. Dec. 1, 2000; Apr. 23, 2001, eff. Dec. 1, 2001; Apr. 29, 2002, eff. Dec. 1, 2002; Mar. 27, 2003, eff. Dec. 1, 2003; Apr. 26, 2004, eff. Dec. 1, 2004; Apr. 25, 2005, eff. Dec. 1, 2005; Apr. 12, 2006, eff. Dec. 1, 2006; Apr. 30, 2007, eff. Dec. 1, 2007; Apr. 23, 2008, eff. Dec. 1, 2008; Mar. 26, 2009, eff. Dec. 1, 2009; Apr. 28, 2010, eff. Dec. 1, 2010; Apr. 26, 2011, eff. Dec. 1, 2011; Apr. 23, 2012, eff. Dec. 1, 2012; Apr. 16, 2013, eff. Dec. 1, 2013; Apr. 25, 2014, eff. Dec. 1, 2014; Apr. 29, 2015, eff. Dec. 1, 2015; Apr. 28, 2016, eff. Dec. 1, 2016; Apr. 27, 2017, eff. Dec. 1, 2017; Apr. 26, 2018, eff. Dec. 1, 2018; Apr. 25, 2019, eff. Dec. 1, 2019; Apr. 27, 2020, eff. Dec. 1, 2020.
 
 Rule
 
@@ -372,7 +372,7 @@ Rule
 
 8011. Filing and Service; Signature.
 
-8012. Corporate Disclosure Statement.
+8012. Disclosure Statement.
 
 8013. Motions; Intervention.
 
@@ -1758,7 +1758,7 @@ This rule is amended to conform to §303(g) of the Code which provides that the 
 
 (6) the waiver, denial, or revocation of a discharge as provided in Rule 4006;
 
-(7) entry of an order confirming a chapter 9, 11, or 12 plan;
+(7) entry of an order confirming a chapter 9, 11, 12, or 13 plan;
 
 (8) a summary of the trustee's final report in a chapter 7 case if the net proceeds realized exceed $1,500;
 
@@ -1784,13 +1784,39 @@ This rule is amended to conform to §303(g) of the Code which provides that the 
 
 (5) A creditor may treat a notice as not having been brought to the creditor's attention under §342(g)(1) only if, prior to issuance of the notice, the creditor has filed a statement that designates the name and address of the person or organizational subdivision of the creditor responsible for receiving notices under the Code, and that describes the procedures established by the creditor to cause such notices to be delivered to the designated person or subdivision.
 
-(h) Notices to Creditors Whose Claims are Filed. In a chapter 7 case, after 90 days following the first date set for the meeting of creditors under §341 of the Code, the court may direct that all notices required by subdivision (a) of this rule be mailed only to the debtor, the trustee, all indenture trustees, creditors that hold claims for which proofs of claim have been filed, and creditors, if any, that are still permitted to file claims by reason of an extension granted pursuant to Rule 3002(c)(1) or (c)(2). In a case where notice of insufficient assets to pay a dividend has been given to creditors pursuant to subdivision (e) of this rule, after 90 days following the mailing of a notice of the time for filing claims pursuant to Rule 3002(c)(5), the court may direct that notices be mailed only to the entities specified in the preceding sentence.
+(h) Notices to Creditors Whose Claims are Filed.
+
+(1) *Voluntary Case*. In a voluntary chapter 7 case, chapter 12 case, or chapter 13 case, after 70 days following the order for relief under that chapter or the date of the order converting the case to chapter 12 or chapter 13, the court may direct that all notices required by subdivision (a) of this rule be mailed only to:
+
+• the debtor;
+
+• the trustee;
+
+• all indenture trustees;
+
+• creditors that hold claims for which proofs of claim have been filed; and
+
+• creditors, if any, that are still permitted to file claims because an extension was granted under Rule 3002(c)(1) or (c)(2).
+
+(2) *Involuntary Case*. In an involuntary chapter 7 case, after 90 days following the order for relief under that chapter, the court may direct that all notices required by subdivision (a) of this rule be mailed only to:
+
+• the debtor;
+
+• the trustee;
+
+• all indenture trustees;
+
+• creditors that hold claims for which proofs of claim have been filed; and
+
+• creditors, if any, that are still permitted to file claims because an extension was granted under Rule 3002(c)(1) or (c)(2).
+
+(3) *Insufficient Assets*. In a case where notice of insufficient assets to pay a dividend has been given to creditors under subdivision (e) of this rule, after 90 days following the mailing of a notice of the time for filing claims under Rule 3002(c)(5), the court may direct that notices be mailed only to the entities specified in the preceding sentence.
 
 (i) Notices to Committees. Copies of all notices required to be mailed pursuant to this rule shall be mailed to the committees elected under §705 or appointed under §1102 of the Code or to their authorized agents. Notwithstanding the foregoing subdivisions, the court may order that notices required by subdivision (a)(2), (3) and (6) of this rule be transmitted to the United States trustee and be mailed only to the committees elected under §705 or appointed under §1102 of the Code or to their authorized agents and to the creditors and equity security holders who serve on the trustee or debtor in possession and file a request that all notices be mailed to them. A committee appointed under §1114 shall receive copies of all notices required by subdivisions (a)(1), (a)(5), (b), (f)(2), and (f)(7), and such other notices as the court may direct.
 
 (j) Notices to the United States. Copies of notices required to be mailed to all creditors under this rule shall be mailed (1) in a chapter 11 reorganization case, to the Securities and Exchange Commission at any place the Commission designates, if the Commission has filed either a notice of appearance in the case or a written request to receive notices; (2) in a commodity broker case, to the Commodity Futures Trading Commission at Washington, D.C.; (3) in a chapter 11 case, to the Internal Revenue Service at its address set out in the register maintained under Rule 5003(e) for the district in which the case is pending; (4) if the papers in the case disclose a debt to the United States other than for taxes, to the United States attorney for the district in which the case is pending and to the department, agency, or instrumentality of the United States through which the debtor became indebted; or (5) if the filed papers disclose a stock interest of the United States, to the Secretary of the Treasury at Washington, D.C.
 
-(k) Notices to United States Trustee. Unless the case is a chapter 9 municipality case or unless the United States trustee requests otherwise, the clerk, or some other person as the court may direct, shall transmit to the United States trustee notice of the matters described in subdivisions (a)(2), (a)(3), (a)(4), (a)(8), (b), (f)(1), (f)(2), (f)(4), (f)(6), (f)(7), (f)(8), and (q) of this rule and notice of hearings on all applications for compensation or reimbursement of expenses. Notices to the United States trustee shall be transmitted within the time prescribed in subdivision (a) or (b) of this rule. The United States trustee shall also receive notice of any other matter if such notice is requested by the United States trustee or ordered by the court. Nothing in these rules requires the clerk or any other person to transmit to the United States trustee any notice, schedule, report, application or other document in a case under the Securities Investor Protection Act, 15 U.S.C. §78aaa *et.* <sup><a href="#Rule_2002_1_target" name="Rule_2002_1">1</a></sup> *seq*.
+(k) Notices to United States Trustee. Unless the case is a chapter 9 municipality case or unless the United States trustee requests otherwise, the clerk, or some other person as the court may direct, shall transmit to the United States trustee notice of the matters described in subdivisions (a)(2), (a)(3), (a)(4), (a)(8), (a)(9), (b), (f)(1), (f)(2), (f)(4), (f)(6), (f)(7), (f)(8), and (q) of this rule and notice of hearings on all applications for compensation or reimbursement of expenses. Notices to the United States trustee shall be transmitted within the time prescribed in subdivision (a) or (b) of this rule. The United States trustee shall also receive notice of any other matter if such notice is requested by the United States trustee or ordered by the court. Nothing in these rules requires the clerk or any other person to transmit to the United States trustee any notice, schedule, report, application or other document in a case under the Securities Investor Protection Act, 15 U.S.C. §78aaa *et.* <sup><a href="#Rule_2002_1_target" name="Rule_2002_1">1</a></sup> *seq*.
 
 (l) Notice by Publication. The court may order notice by publication if it finds that notice by mail is impracticable or that it is desirable to supplement the notice.
 
@@ -1814,7 +1840,7 @@ This rule is amended to conform to §303(g) of the Code which provides that the 
 
 (2) *Notice of Court's Intention to Communicate with Foreign Courts and Foreign Representatives*. The clerk, or some other person as the court may direct, shall give the debtor, all persons or bodies authorized to administer foreign proceedings of the debtor, all entities against whom provisional relief is being sought under §1519 of the Code, all parties to litigation pending in the United States in which the debtor is a party at the time of the filing of the petition, and such other entities as the court may direct, notice by mail of the court's intention to communicate with a foreign court or foreign representative.
 
-(As amended Pub. L. 98–91, §2(a), Aug. 30, 1983, 97 Stat. 607; Pub. L. 98–353, title III, §321, July 10, 1984, 98 Stat. 357; Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 30, 1991, eff. Aug. 1, 1991; Apr. 22, 1993, eff. Aug. 1, 1993; Apr. 23, 1996, eff. Dec. 1, 1996; Apr. 11, 1997, eff. Dec. 1, 1997; Apr. 26, 1999, eff. Dec. 1, 1999; Apr. 17, 2000, eff. Dec. 1, 2000; Apr. 23, 2001, eff. Dec. 1, 2001; Mar. 27, 2003, eff. Dec. 1, 2003; Apr. 26, 2004, eff. Dec. 1, 2004; Apr. 25, 2005, eff. Dec. 1, 2005; Apr. 23, 2008, eff. Dec. 1, 2008; Mar. 26, 2009, eff. Dec. 1, 2009; Apr. 28, 2016, eff. Dec. 1, 2016; Apr. 27, 2017, eff. Dec. 1, 2017.)
+(As amended Pub. L. 98–91, §2(a), Aug. 30, 1983, 97 Stat. 607; Pub. L. 98–353, title III, §321, July 10, 1984, 98 Stat. 357; Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 30, 1991, eff. Aug. 1, 1991; Apr. 22, 1993, eff. Aug. 1, 1993; Apr. 23, 1996, eff. Dec. 1, 1996; Apr. 11, 1997, eff. Dec. 1, 1997; Apr. 26, 1999, eff. Dec. 1, 1999; Apr. 17, 2000, eff. Dec. 1, 2000; Apr. 23, 2001, eff. Dec. 1, 2001; Mar. 27, 2003, eff. Dec. 1, 2003; Apr. 26, 2004, eff. Dec. 1, 2004; Apr. 25, 2005, eff. Dec. 1, 2005; Apr. 23, 2008, eff. Dec. 1, 2008; Mar. 26, 2009, eff. Dec. 1, 2009; Apr. 28, 2016, eff. Dec. 1, 2016; Apr. 27, 2017, eff. Dec. 1, 2017; Apr. 27, 2020, eff. Dec. 1, 2020.)
 
 #### Notes of Advisory Committee on Rules—1983 ####
 
@@ -2022,6 +2048,14 @@ Subdivision (q) is amended to clarify the procedures for giving notice in cross-
 
 Subdivisions (a) and (b) are amended and reorganized to alter the provisions governing notice under this rule in chapter 13 cases. Subdivision (a)(9) is added to require at least 21 days' notice of the time for filing objections to confirmation of a chapter 13 plan. Subdivision (b)(3) is added to provide separately for 28 days' notice of the date of the confirmation hearing in a chapter 13 case. These amendments conform to amended Rule 3015, which governs the time for presenting objections to confirmation of a chapter 13 plan. Other changes are stylistic.
 
+#### Committee Notes on Rules—2020 Amendment ####
+
+Subdivision (f) is amended to add cases under chapter 13 of the Bankruptcy Code to paragraph (7).
+
+Subdivision (h) is amended to add cases under chapters 12 and 13 of the Bankruptcy Code and to conform the time periods in the subdivision to the respective deadlines for filing proofs of claim under Rule 3002(c).
+
+Subdivision (k) is amended to add a reference to subdivision (a)(9) of this rule. This change corresponds to the relocation of the deadline for objecting to confirmation of a chapter 13 plan from subdivision (b) to subdivision (a)(9). The rule thereby continues to require transmittal of notice of that deadline to the United States trustee.
+
 #### References in Text ####
 
 The Securities Investor Protection Act, referred to in subd. (k), probably means the Securities Investor Protection Act of 1970, Pub. L. 91–598, Dec. 30, 1970, 84 Stat. 1636, as amended, which is classified generally to chapter 2B–1 (§78aaa et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 78aaa of Title 15 and Tables.
@@ -2168,13 +2202,13 @@ The rule is amended to implement changes in connection with the amendment to Rul
 
 (b) Scope of Examination. The examination of an entity under this rule or of the debtor under §343 of the Code may relate only to the acts, conduct, or property or to the liabilities and financial condition of the debtor, or to any matter which may affect the administration of the debtor's estate, or to the debtor's right to a discharge. In a family farmer's debt adjustment case under chapter 12, an individual's debt adjustment case under chapter 13, or a reorganization case under chapter 11 of the Code, other than for the reorganization of a railroad, the examination may also relate to the operation of any business and the desirability of its continuance, the source of any money or property acquired or to be acquired by the debtor for purposes of consummating a plan and the consideration given or offered therefor, and any other matter relevant to the case or to the formulation of a plan.
 
-(c) Compelling Attendance and Production of Documents. The attendance of an entity for examination and for the production of documents, whether the examination is to be conducted within or without the district in which the case is pending, may be compelled as provided in Rule 9016 for the attendance of a witness at a hearing or trial. As an officer of the court, an attorney may issue and sign a subpoena on behalf of the court for the district in which the examination is to be held if the attorney is admitted to practice in that court or in the court in which the case is pending.
+(c) Compelling Attendance and Production of Documents or Electronically Stored Information. The attendance of an entity for examination and for the production of documents or electronically stored information, whether the examination is to be conducted within or without the district in which the case is pending, may be compelled as provided in Rule 9016 for the attendance of a witness at a hearing or trial. As an officer of the court, an attorney may issue and sign a subpoena on behalf of the court where the case is pending if the attorney is admitted to practice in that court.
 
 (d) Time and Place of Examination of Debtor. The court may for cause shown and on terms as it may impose order the debtor to be examined under this rule at any time or place it designates, whether within or without the district wherein the case is pending.
 
 (e) Mileage. An entity other than a debtor shall not be required to attend as a witness unless lawful mileage and witness fee for one day's attendance shall be first tendered. If the debtor resides more than 100 miles from the place of examination when required to appear for an examination under this rule, the mileage allowed by law to a witness shall be tendered for any distance more than 100 miles from the debtor's residence at the date of the filing of the first petition commencing a case under the Code or the residence at the time the debtor is required to appear for the examination, whichever is the lesser.
 
-(As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 30, 1991, eff. Aug. 1, 1991; Apr. 29, 2002, eff. Dec. 1, 2002.)
+(As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 30, 1991, eff. Aug. 1, 1991; Apr. 29, 2002, eff. Dec. 1, 2002; Apr. 27, 2020, eff. Dec. 1, 2020.)
 
 #### Notes of Advisory Committee on Rules—1983 ####
 
@@ -2205,6 +2239,12 @@ This rule is amended to allow the examination in a chapter 12 case to cover the 
 The subdivision is amended further to clarify that, in addition to the procedures for the issuance of a subpoena set forth in Rule 45 F. R. Civ. P., an attorney may issue and sign a subpoena on behalf of the court for the district in which a Rule 2004 examination is to be held if the attorney is authorized to practice, even if admitted pro hac vice, either in the court in which the case is pending or in the court for the district in which the examination is to be held. This provision supplements the procedures for the issuance of a subpoena set forth in Rule 45(a)(3)(A) and (B) F. R. Civ. P. and is consistent with one of the purposes of the 1991 amendments to Rule 45, to ease the burdens of interdistrict law practice.
 
 *Changes Made After Publication and Comments*. The typographical error was corrected, but no other changes were made.
+
+#### Committee Notes on Rules—2020 Amendment ####
+
+Subdivision (c) is amended in two respects. First, the provision now refers expressly to the production of electronically stored information, in addition to the production of documents. This change is an acknowledgment of the form in which information now commonly exists and the type of production that is frequently sought in connection with an examination under Rule 2004.
+
+Second, subdivision (c) is amended to bring its subpoena provision into conformity with the current version of F.R.Civ.P. 45, which Rule 9016 makes applicable in bankruptcy cases. Under Rule 45, a subpoena always issues from the court where the action is pending, even for a deposition in another district, and an attorney admitted to practice in the issuing court may issue and sign it. In light of this procedure, a subpoena for a Rule 2004 examination is now properly issued from the court where the bankruptcy case is pending and by an attorney authorized to practice in that court, even if the examination is to occur in another district.
 
 ### Rule 2005. Apprehension and Removal of Debtor to Compel Attendance for Examination ###
 
@@ -7556,13 +7596,25 @@ As amended, subdivision (d) eliminates the requirement of proof of service when 
 
 Subdivision (e) requires the signature of counsel or an unrepresented party on every document that is filed. A filing made through a person's electronic-filing account and authorized by that person, together with that person's name on a signature block, constitutes the person's signature. A person's electronic-filing account means an account established by the court for use of the court's electronic-filing system, which account the person accesses with the user name and password (or other credentials) issued to that person by the court.
 
-### Rule 8012. Corporate Disclosure Statement ###
+### Rule 8012. Disclosure Statement ###
 
-(a) Who Must File. Any nongovernmental corporate party appearing in the district court or BAP must file a statement that identifies any parent corporation and any publicly held corporation that owns 10% or more of its stock or states that there is no such corporation.
+(a) Nongovernmental Corporations. Any nongovernmental corporation that is a party to a proceeding in the district court or BAP must file a statement that identifies any parent corporation and any publicly held corporation that owns 10% or more of its stock or states that there is no such corporation. The same requirement applies to a nongovernmental corporation that seeks to intervene.
 
-(b) Time to File; Supplemental Filing. A party must file the statement with its principal brief or upon filing a motion, response, petition, or answer in the district court or BAP, whichever occurs first, unless a local rule requires earlier filing. Even if the statement has already been filed, the party's principal brief must include a statement before the table of contents. A party must supplement its statement whenever the required information changes.
+(b) Disclosure About the Debtor. The debtor, the trustee, or, if neither is a party, the appellant must file a statement that:
 
-(Added Apr. 25, 2014, eff. Dec. 1, 2014.)
+(1) identifies each debtor not named in the caption; and
+
+(2) for each debtor that is a corporation, discloses the information required by Rule 8012(a).
+
+(c) Time to File; Supplemental Filing. A Rule 8012 statement must:
+
+(1) be filed with the principal brief or upon filing a motion, response, petition, or answer in the district court or BAP, whichever occurs first, unless a local rule requires earlier filing;
+
+(2) be included before the table of contents in the principal brief; and
+
+(3)	be supplemented whenever the information required by Rule 8012 changes.
+
+(Added Apr. 25, 2014, eff. Dec. 1, 2014; amended Apr. 27, 2020, eff. Dec. 1, 2020.)
 
 #### Prior Rule ####
 
@@ -7576,11 +7628,19 @@ If filed separately from a brief, motion, response, petition, or answer, the sta
 
 *Changes Made After Publication and Comment*. A sentence was added to the Committee Note to draw attention to the broad definition of "corporation" under §101(9) of the Bankruptcy Code.
 
+#### Committee Notes on Rules—2020 Amendment ####
+
+The rule is amended to conform to recent amendments to F.R.App.P. 26.1. Subdivision (a) is amended to encompass nongovernmental corporations that seek to intervene on appeal.
+
+New subdivision (b) requires disclosure of the name of all of the debtors in the bankruptcy case. The names of the debtors are not always included in the caption of appeals. It also requires, for corporate debtors, disclosure of the same information required to be disclosed under subdivision (a).
+
+Subdivision (c), previously subdivision (b), now applies to all the disclosure requirements in Rule 8012.
+
 ### Rule 8013. Motions; Intervention ###
 
 (a) Contents of a Motion; Response; Reply.
 
-(1) *Request for Relief*. A request for an order or other relief is made by filing a motion with the district or BAP clerk, with proof of service on the other parties to the appeal.
+(1) *Request for Relief*. A request for an order or other relief is made by filing a motion with the district or BAP clerk.
 
 (2) *Contents of a Motion.*
 
@@ -7654,7 +7714,7 @@ If filed separately from a brief, motion, response, petition, or answer, the sta
 
 (g) Intervening in an Appeal. Unless a statute provides otherwise, an entity that seeks to intervene in an appeal pending in the district court or BAP must move for leave to intervene and serve a copy of the motion on the parties to the appeal. The motion or other notice of intervention authorized by statute must be filed within 30 days after the appeal is docketed. It must concisely state the movant's interest, the grounds for intervention, whether intervention was sought in the bankruptcy court, why intervention is being sought at this stage of the proceeding, and why participating as an amicus curiae would not be adequate.
 
-(Added Apr. 25, 2014, eff. Dec. 1, 2014; amended Apr. 26, 2018, eff. Dec. 1, 2018.)
+(Added Apr. 25, 2014, eff. Dec. 1, 2014; amended Apr. 26, 2018, eff. Dec. 1, 2018; Apr. 27, 2020, eff. Dec. 1, 2020.)
 
 #### Prior Rule ####
 
@@ -7685,6 +7745,10 @@ Subdivision (g) clarifies the procedure for seeking to intervene in a proceeding
 #### Committee Notes on Rules—2018 Amendment ####
 
 Subdivision (f)(3) is amended to conform to F.R.App.P. 27(d)(2), which was recently amended to replace page limits with word limits for motions and responses produced using a computer. The word limits were derived from the current page limits, using the assumption that one page is equivalent to 260 words. Documents produced using a computer must include the certificate of compliance required by Rule 8015(h); Official Form 417C suffices to meet that requirement. Page limits are retained for papers prepared without the aid of a computer (i.e., handwritten or typewritten papers). For both the word limit and the page limit, the calculation excludes the accompanying documents required by Rule 8013(a)(2)(C) and any items listed in Rule 8015(h).
+
+#### Committee Notes on Rules—2020 Amendment ####
+
+Subdivision (a)(1) is amended to delete the reference to proof of service. This change reflects the recent amendment to Rule 8011(d) that eliminated the requirement of proof of service when filing and service are completed using a court's electronic-filing system.
 
 #### References in Text ####
 
@@ -7840,23 +7904,23 @@ Subdivision (f) adopts the procedures of F.R.App.P. 28(j) with respect to the fi
 
 (g) Items Excluded From Length. In computing any length limit, headings, footnotes, and quotations count toward the limit, but the following items do not:
 
-• the cover page;
+• cover page;
 
-• a corporate disclosure statement;
+• disclosure statement under Rule 8012;
 
-• a table of contents;
+• table of contents;
 
-• a table of citations;
+• table of citations;
 
-• a statement regarding oral argument;
+• statement regarding oral argument;
 
-• an addendum containing statutes, rules, or regulations;
+• addendum containing statutes, rules, or regulations;
 
 • certificates of counsel;
 
-• the signature block;
+• signature block;
 
-• the proof of service; and
+• proof of service; and
 
 • any item specifically excluded by these rules or by local rule.
 
@@ -7866,7 +7930,7 @@ Subdivision (f) adopts the procedures of F.R.App.P. 28(j) with respect to the fi
 
 (2) *Acceptable Form*. The certificate requirement is satisfied by a certificate of compliance that conforms substantially to the appropriate Official Form.
 
-(Added Apr. 25, 2014, eff. Dec. 1, 2014; amended Apr. 26, 2018, eff. Dec. 1, 2018.)
+(Added Apr. 25, 2014, eff. Dec. 1, 2014; amended Apr. 26, 2018, eff. Dec. 1, 2018; Apr. 27, 2020, eff. Dec. 1, 2020.)
 
 #### Prior Rule ####
 
@@ -7901,6 +7965,10 @@ In a complex case, a party may need to file a brief that exceeds the type-volume
 Subdivision (f) is amended to make clear a court's ability (by local rule or order in a case) to increase the length limits for briefs and other documents. Subdivision (f) already established this authority as to the length limits in Rule 8015(a)(7); the amendment makes clear that this authority extends to all length limits in Part VIII of the Bankruptcy Rules.
 
 A new subdivision (g) is added to set out a global list of items excluded from length computations, and the list of exclusions in former subdivision (a)(7)(B)(iii) is deleted. The certificate-of-compliance provision formerly in subdivision (a)(7)(C) is relocated to a new subdivision (h) and now applies to filings under all type-volume limits (other than Rule 8014(f)'s word limit)—including the new word limits in Rules 8013, 8016, 8017, and 8022. Conforming amendments are made to Official Form 417C.
+
+#### Committee Notes on Rules—2020 Amendment ####
+
+The amendment to subdivision (g) is made to reflect recent amendments to Rule 8011(d) that eliminated the requirement of proof of service when filing and service are completed using a court's electronic-filing system. Because each item listed in Rule 8015(g) will not always be required, the initial article is deleted. The word "corporate" is deleted before "disclosure statement" to reflect a concurrent change in the title of Rule 8012.
 
 ### Rule 8016. Cross-Appeals ###
 
@@ -8220,9 +8288,9 @@ This rule is derived from former Rule 8020 and F.R.App.P. 38 and 46(c). Subdivis
 
 (5) the fee for filing the notice of appeal.
 
-(d) Bill of Costs; Objections. A party who wants costs taxed must, within 14 days after entry of judgment on appeal, file with the bankruptcy clerk, with proof of service, an itemized and verified bill of costs. Objections must be filed within 14 days after service of the bill of costs, unless the bankruptcy court extends the time.
+(d) Bill of Costs; Objections. A party who wants costs taxed must, within 14 days after entry of judgment on appeal, file with the bankruptcy clerk and serve an itemized and verified bill of costs. Objections must be filed within 14 days after service of the bill of costs, unless the bankruptcy court extends the time.
 
-(Added Apr. 25, 2014, eff. Dec. 1, 2014; amended Apr. 26, 2018, eff. Dec. 1, 2018.)
+(Added Apr. 25, 2014, eff. Dec. 1, 2014; amended Apr. 26, 2018, eff. Dec. 1, 2018; Apr. 27, 2020, eff. Dec. 1, 2020.)
 
 #### Committee Notes on Rules—2014 ####
 
@@ -8233,6 +8301,10 @@ This rule is derived from former Rule 8014 and F.R.App.P. 39. It retains the for
 #### Committee Notes on Rules—2018 Amendment ####
 
 The amendment of subdivision (c) conforms this rule with the amendment of F.R.Civ.P. 62, which is made applicable in adversary proceedings by Rule 7062. Rule 62 formerly required a party to provide a "supersedeas bond" to obtain a stay of the judgment and proceedings to enforce the judgment. As amended, Rule 62(b) allows a party to obtain a stay by providing a "bond or other security."
+
+#### Committee Notes on Rules—2020 Amendment ####
+
+Subdivision (d) is amended to delete the reference to proof of service. This change reflects the recent amendment to Rule 8011(d) that eliminated the requirement of proof of service when filing and service are completed using a court's electronic-filing system.
 
 ### Rule 8022. Motion for Rehearing ###
 

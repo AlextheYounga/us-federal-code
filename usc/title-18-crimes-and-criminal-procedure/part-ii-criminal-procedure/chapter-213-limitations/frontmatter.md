@@ -44,6 +44,8 @@ Sec.
 
 3301. Securities fraud offenses.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2010**—Pub. L. 111–203, title X, §1079A(b)(2), July 21, 2010, 124 Stat. 2079, added item 3301.

@@ -14,6 +14,8 @@ The Secretary of the Treasury shall—
 
 (Pub. L. 100–461, title V, §555, Oct. 1, 1988, 102 Stat. 2268–36.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section is based on section 4 of H.R. 4645, One Hundredth Congress, as reported Sept. 28, 1988, and enacted into law by Pub. L. 100–461.

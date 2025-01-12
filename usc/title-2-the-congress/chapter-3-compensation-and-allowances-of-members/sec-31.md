@@ -1,5 +1,7 @@
 ### §31. Transferred ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section 31 was editorially reclassified as section 4501 of this title.
@@ -7,6 +9,8 @@ Section 31 was editorially reclassified as section 4501 of this title.
 #### Prior Provisions ####
 
 A prior section 31, acts Feb. 26, 1907, ch. 1635, §4, 34 Stat. 993; Mar. 4, 1925, ch. 549, §4, 43 Stat. 1301; May 17, 1932, ch. 190, 47 Stat. 158, related to compensation of Members of Congress, prior to enactment of act Aug. 2, 1946.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Appropriation of Funds for Compensation of Members of Congress and for Administrative Expenses at Levels Authorized by Law and Recommended by the President for Federal Employees ####
 

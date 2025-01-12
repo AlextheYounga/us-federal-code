@@ -4,6 +4,8 @@ Whenever a contract is made for the construction, alteration, or repair of a For
 
 (May 14, 1940, ch. 189, title I, 54 Stat. 186.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section was not enacted as a part of the Foreign Service Buildings Act, 1926, which comprises this chapter.

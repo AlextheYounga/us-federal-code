@@ -16,6 +16,8 @@ Sec.
 
 2237. Criminal sanctions for failure to heave to, obstruction of boarding, or providing false information.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2006**—Pub. L. 109–177, title III, §303(b), Mar. 9, 2006, 120 Stat. 234, added item 2237.

@@ -4,13 +4,17 @@ The President of the United States is requested to invite the Government of Grea
 
 (June 13, 1902, ch. 1079, §4, 32 Stat. 373.)
 
+#### Establishment of Commission ####
+
+The International Joint Commission was organized in 1911 pursuant to article VII of the treaty of January 11, 1909, with Great Britain, 36 Stat. 2448.
+
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Provisions of this section relating to the payment of salaries and expenses of the International Joint Commission were omitted. For provisions relating to the payment of salaries of the United States members of the International Joint Commission, see section 268 of this title.
 
-#### Establishment of Commission ####
-
-The International Joint Commission was organized in 1911 pursuant to article VII of the treaty of January 11, 1909, with Great Britain, 36 Stat. 2448.
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Water Resources Planning ####
 

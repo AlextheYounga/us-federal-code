@@ -4,6 +4,8 @@ There is hereby authorized to be appropriated annually to the Department of Stat
 
 (July 30, 1946, ch. 700, §6, 60 Stat. 714; ch. 782, title II, §202(2), title XI, §1106(a), Oct. 28, 1949, 63 Stat. 954, 972.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Article IX of the constitution of the Organization, referred to in text, is article IX of the constitution of the United Nations Educational, Scientific, and Cultural Organization, which is set out as a note under section 287m of this title.
@@ -25,6 +27,8 @@ In cl. (k), "section 6101 of title 41" substituted for "section 3709 of the Revi
 #### Amendments ####
 
 **1949**—Act Oct. 28, 1949, substituted "Classification Act of 1949" for "Classification Act of 1923".
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Repeals ####
 

@@ -1,5 +1,7 @@
 ### §§29b, 29c. Omitted ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section 29b, based on section 204 of House Resolution No. 988, Ninety-third Congress, Oct. 8, 1974, which was enacted into permanent law, effective Jan. 2, 1975, by Pub. L. 93–554, title I, ch. III, Dec. 27, 1974, 88 Stat. 1777, established a Commission on Information and Facilities in House of Representatives to be composed of nine members of the House appointed by Speaker, required Speaker to appoint an Advisory Council to assist Commission in carrying out its functions, required Commission to conduct study of informational problems, facilities and space, and House legislative counsel requirements, provided for the scope of study of informational problems, and required Commission to make an annual progress report to Speaker, to complete study of House legislative counsel requirements by Jan. 1, 1976, and to submit a final report by Jan. 2, 1977.

@@ -15,6 +15,8 @@ Chap. Sec.
 
 29. Property Management 2901
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2016**—Pub. L. 114–318, §4(b), Dec. 16, 2016, 130 Stat. 1614, added item for chapter 29.

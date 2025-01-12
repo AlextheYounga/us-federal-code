@@ -36,6 +36,8 @@ shall be fined under this title or imprisoned not more than twenty years, or bot
 
 (Added July 14, 1956, ch. 595, §1, 70 Stat. 539; amended Pub. L. 98–473, title II, §2013(b), Oct. 12, 1984, 98 Stat. 2187; Pub. L. 100–690, title VII, §7016, Nov. 18, 1988, 102 Stat. 4395; Pub. L. 103–322, title XXXIII, §330016(1)(O), (S), Sept. 13, 1994, 108 Stat. 2148; Pub. L. 104–132, title VII, §§721(b), 723(a)(1), Apr. 24, 1996, 110 Stat. 1298, 1300; Pub. L. 109–177, title I, §123, Mar. 9, 2006, 120 Stat. 226.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Section 101(a)(22) of the Immigration and Nationality Act, referred to in subsec. (b), is classified to section 1101(a)(22) of Title 8, Aliens and Nationality.
@@ -75,6 +77,8 @@ Subsec. (c). Pub. L. 103–322, §330016(1)(O), substituted "fined under this ti
 "Whoever willfully attempts to do any of the aforesaid acts or things—
 
 "shall be fined not more than $10,000 or imprisoned not more than twenty years, or both."
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 1984 Amendment ####
 

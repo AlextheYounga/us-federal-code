@@ -1,5 +1,7 @@
 ### §§264, 265. Omitted ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section 264, act Aug. 18, 1894, ch. 301, 28 Stat. 418, which related to Pan American Union, was superseded by Convention of 1928, ratified by the United States and providing that the government of Pan American Union should be vested in a governing board.

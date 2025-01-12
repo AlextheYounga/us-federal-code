@@ -4,6 +4,8 @@ At the regular election held in any State next preceding the expiration of the t
 
 (June 4, 1914, ch. 103, §1, 38 Stat. 384; June 5, 1934, ch. 390, §3, 48 Stat. 879.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1934**—Act June 5, 1934, substituted "3d day of January" for "fourth day of March".

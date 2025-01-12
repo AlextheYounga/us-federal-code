@@ -76,6 +76,8 @@ The Advisory Committee should consist of members appointed by the Secretary of t
 
 (Pub. L. 95–118, title XVII, §1701, as added Pub. L. 101–240, title V, §541(a), Dec. 19, 1989, 103 Stat. 2514; amended Pub. L. 101–513, title V, §562(c)(10)(A), Nov. 5, 1990, 104 Stat. 2036; Pub. L. 104–208, div. A, title I, §101(c) [title VII, §710(a)], Sept. 30, 1996, 110 Stat. 3009–121, 3009–181; Pub. L. 105–277, div. A, §101(d) [title VI, §610(b)], Oct. 21, 1998, 112 Stat. 2681–150, 2681–228.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Section 2018(c) of the International Narcotics Act of 1986, referred to in subsec. (b)(6), means section 2018(c) of Pub. L. 99–570, known as the International Narcotics Control Act of 1986, which is set out as a note under section 2291 of this title.
@@ -93,6 +95,8 @@ Reorganization Plan No. 4 of 1965, referred to in subsec. (d), is set out in the
 **1996**—Subsec. (c)(2). Pub. L. 104–208 inserted "Bank for Economic Cooperation and Development in the Middle East and North Africa," after "Inter-American Development Bank".
 
 **1990**—Subsec. (c)(2). Pub. L. 101–513 inserted "European Bank for Reconstruction and Development," before "International Development Association,".
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Change of Name ####
 

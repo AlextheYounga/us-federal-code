@@ -4,6 +4,8 @@ The Attorney General may request the Secretary of Defense to provide assistance 
 
 (Added Pub. L. 104–201, div. A, title XIV, §1416(c)(1)(A), Sept. 23, 1996, 110 Stat. 2723.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Section 382 of title 10, referred to in text, was renumbered section 282 of title 10, Armed Forces, by Pub. L. 114–328, div. A, title XII, §1241(a)(2), Dec. 23, 2016, 130 Stat. 2497.

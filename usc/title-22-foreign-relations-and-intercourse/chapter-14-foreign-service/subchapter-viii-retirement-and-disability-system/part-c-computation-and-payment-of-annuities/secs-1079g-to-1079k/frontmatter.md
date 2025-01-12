@@ -10,6 +10,8 @@ Section 1079j, Pub. L. 85–882, §4, Sept. 2, 1958, 72 Stat. 1705, provided tha
 
 Section 1079k, Pub. L. 85–882, §5, Sept. 2, 1958, 72 Stat. 1705, provided no annuity of a retired officer or survivor annuitant be increased under sections 1079g to 1079k of this title beyond a specified amount.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Repeal effective Feb. 15, 1981, except as otherwise provided, see section 2403 of Pub. L. 96–465, set out as an Effective Date note under section 3901 of this title.

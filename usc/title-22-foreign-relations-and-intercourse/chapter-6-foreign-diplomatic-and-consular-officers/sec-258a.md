@@ -4,9 +4,13 @@ The district courts and the United States magistrate judges shall have power to 
 
 (Mar. 3, 1911, ch. 231, §271, 36 Stat. 1163; Pub. L. 90–578, title IV, §402(b)(2), Oct. 17, 1968, 82 Stat. 1118; Pub. L. 101–650, title III, §321, Dec. 1, 1990, 104 Stat. 5117.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section was formerly classified to section 393 of Title 28 prior to the general revision and enactment of Title 28, Judiciary and Judicial Procedure, by act June 25, 1948, ch. 646, §1, 62 Stat. 869.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Change of Name ####
 

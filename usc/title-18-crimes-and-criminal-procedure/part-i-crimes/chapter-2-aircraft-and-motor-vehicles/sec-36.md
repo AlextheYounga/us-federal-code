@@ -18,9 +18,13 @@
 
 (Added Pub. L. 103–322, title VI, §60008(b), Sept. 13, 1994, 108 Stat. 1971; amended Pub. L. 104–294, title VI, §604(b)(30), Oct. 11, 1996, 110 Stat. 3508.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1996**—Subsec. (a)(1), (2). Pub. L. 104–294 substituted "408(c)" for "403(c)" in par. (1) and "Export" for "Export Control" in par. (2).
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 1996 Amendment ####
 

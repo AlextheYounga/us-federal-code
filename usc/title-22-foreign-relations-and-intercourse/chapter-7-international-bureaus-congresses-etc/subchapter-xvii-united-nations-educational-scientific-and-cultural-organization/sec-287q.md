@@ -4,6 +4,8 @@ The National Commission shall call general conferences for the discussion of mat
 
 (July 30, 1946, ch. 700, §5, 60 Stat. 713; Pub. L. 85–477, ch. V, §502(e), June 30, 1958, 72 Stat. 273; Pub. L. 87–139, §10, Aug. 14, 1961, 75 Stat. 341; Pub. L. 98–164, title I, §106(a), Nov. 22, 1983, 97 Stat. 1018.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The constitution of the Organization, referred to in text, is the Constitution of the United Nations Educational, Scientific, and Cultural Organization, which is set out as a note under section 287m of this title.
@@ -19,6 +21,8 @@ The constitution of the Organization, referred to in text, is the Constitution o
 **1961**—Pub. L. 87–139 substituted provisions authorizing payment of transportation and other expenses of attending experts as authorized by section 5703 of title 5, for provisions which allowed the experts $10 per diem plus actual transportation expenses.
 
 **1958**—Pub. L. 85–477 authorized the National Commission to receive and accept services and gifts or bequests of money or materials.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Termination of Reporting Requirements ####
 

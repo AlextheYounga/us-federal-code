@@ -18,6 +18,8 @@ Section 1008, acts Aug. 13, 1946, ch. 957, title VI, §638, 60 Stat. 1016; Sept.
 
 Section 1009, act Aug. 13, 1946, ch. 957, title VI, §639, as added Oct. 7, 1978, Pub. L. 95–426, title IV, §404, 92 Stat. 979, related to professional career counseling, advice, and placement assistance.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Repeal effective Feb. 15, 1981, except as otherwise provided, see section 2403 of Pub. L. 96–465, set out as an Effective Date note under section 3901 of this title.

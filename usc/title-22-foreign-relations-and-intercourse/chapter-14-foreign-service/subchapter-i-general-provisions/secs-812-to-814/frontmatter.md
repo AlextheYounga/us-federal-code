@@ -1,5 +1,7 @@
 ### §§812 to 814. Transferred ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section 812, acts May 24, 1924, ch. 182, §18, formerly §11, 43 Stat. 142; renumbered §18 and amended Feb. 23, 1931, ch. 276, §7, 46 Stat. 1209, which related to fees, accounting, and stamps, was transferred to section 4224 of this title.

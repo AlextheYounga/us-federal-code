@@ -8,6 +8,8 @@
 
 (Pub. L. 90–349, §6, June 19, 1968, 82 Stat. 189; Pub. L. 91–599, ch. 1, §2, Dec. 30, 1970, 84 Stat. 1657; Pub. L. 94–564, §5(3), Oct. 19, 1976, 90 Stat. 2661; Pub. L. 98–181, title I [title VIII, §803], Nov. 30, 1983, 97 Stat. 1270.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Bretton Woods Agreements Act, referred to in subsec. (a), is act July 31, 1945, ch. 339, 59 Stat. 512, as amended, which is classified principally to this subchapter (§286 et seq.). For complete classification of this Act to the Code, see Short Title note set out under section 286 of this title and Tables.
@@ -23,6 +25,8 @@ Section was not enacted as part of act July 31, 1945, ch. 339, 59 Stat. 512, kno
 **1976**—Pub. L. 94–564 substituted "article XVIII" for "article XXIV".
 
 **1970**—Pub. L. 91–599 inserted "in each basic period" after "vote to allocate" and substituted "allocations to the United States in that period exceed an amount equal to the United States quota in the Fund as authorized under the Bretton Woods Agreements Act" for "net cumulative allocations to the United States exceed an amount equal to the United States quota in the Fund as heretofore authorized under the Bretton Woods Agreements Act of 1945, as amended".
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Change of Name ####
 

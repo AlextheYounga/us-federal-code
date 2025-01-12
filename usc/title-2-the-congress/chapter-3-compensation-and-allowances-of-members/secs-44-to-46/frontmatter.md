@@ -1,5 +1,7 @@
 ### §§44 to 46. Omitted ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section 44, act May 7, 1906, ch. 2083, §1, 34 Stat. 170, authorized a mileage allowance to Delegate from Alaska, and was omitted from the Code as obsolete because Alaska was admitted into the Union with membership of one Representative in Congress on Jan. 3, 1959, upon issuance of Proc. No. 3269, Jan. 3, 1959, 24 F.R. 81, 73 Stat. c16, as required by sections 1, 7 and 8 of Pub. L. 85–508, July 7, 1958, 72 Stat. 339, set out as notes preceding section 21 of Title 48, Territories and Insular Possessions.

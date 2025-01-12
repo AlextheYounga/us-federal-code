@@ -52,6 +52,8 @@ These accounts shall be shown in the budget on a cash basis.
 
 (Pub. L. 93–344, title V, §502, as added Pub. L. 101–508, title XIII, §13201(a), Nov. 5, 1990, 104 Stat. 1388–610; amended Pub. L. 105–33, title X, §10117(a), Aug. 5, 1997, 111 Stat. 692.)
 
+#### **Editorial Notes** ####
+
 #### Prior Provisions ####
 
 A prior section 502 of Pub. L. 93–344, title V, July 12, 1974, 88 Stat. 321, was set out as a note under section 1020 of former Title 31, prior to repeal by Pub. L. 97–258, §5(b), Sept. 13, 1982, 96 Stat. 1068.

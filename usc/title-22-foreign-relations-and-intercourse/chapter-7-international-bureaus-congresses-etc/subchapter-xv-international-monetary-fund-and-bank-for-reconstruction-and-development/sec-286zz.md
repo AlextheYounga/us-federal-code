@@ -24,6 +24,8 @@ The United States Governor of the Bank is authorized—
 
 (July 31, 1945, ch. 339, §73, as added Pub. L. 116–94, div. P, title XIX, §1901, Dec. 20, 2019, 133 Stat. 3222.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Another section 73 of the Bretton Woods Agreements Act was enacted by Pub. L. 116–92 and is classified to section 286yy of this title.

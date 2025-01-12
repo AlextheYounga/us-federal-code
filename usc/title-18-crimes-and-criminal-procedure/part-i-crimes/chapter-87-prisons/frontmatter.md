@@ -8,6 +8,8 @@ Sec.
 
 1793. Trespass on Bureau of Prisons reservations and land.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1986**—Pub. L. 99–646, §64(b), Nov. 10, 1986, 100 Stat. 3614, added item 1793.

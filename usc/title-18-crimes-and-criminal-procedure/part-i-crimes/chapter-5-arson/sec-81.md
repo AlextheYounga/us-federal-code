@@ -18,6 +18,8 @@ The phrase "any building, structure, or vessel, any machinery or building materi
 
 The punishment provisions are new and are graduated with some regard to the gravity of the offense. It was felt that a possible punishment of 20 years for burning a wood pile or injuring or destroying an outbuilding was disproportionate and not in harmony with recent legislation.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2001**—Pub. L. 107–56, in first par., struck out ", or attempts to set fire to or burn" after "maliciously sets fire to or burns" and inserted "or attempts or conspires to do such an act," before "shall be imprisoned" and, in second par., substituted "for any term of years or for life" for "not more than twenty years".

@@ -4,6 +4,8 @@ It is the sense of the Congress that it is the policy of the United States that 
 
 (July 31, 1945, ch. 339, §36, as added Pub. L. 96–389, §6, Oct. 7, 1980, 94 Stat. 1554.)
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date ####
 
 Section effective Oct. 7, 1980, see section 12 of Pub. L. 96–389, set out as a note under section 286s of this title.

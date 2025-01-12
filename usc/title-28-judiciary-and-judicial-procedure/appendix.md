@@ -36,13 +36,13 @@ Pub. L. 96–190, Feb. 12, 1980, 94 Stat. 17, known as the Dispute Resolution Ac
 FEDERAL RULES OF APPELLATE PROCEDURE
 ==========
 
-(As amended to December 1, 2019)
+(As amended to December 1, 2020)
 
 #### Historical Note ####
 
 The Federal Rules of Appellate Procedure were adopted by order of the Supreme Court on Dec. 4, 1967, transmitted to Congress by the Chief Justice on Jan. 15, 1968, and became effective on July 1, 1968.
 
-The Rules have been amended Mar. 30, 1970, eff. July 1, 1970; Mar. 1, 1971, eff. July 1, 1971; Apr. 24, 1972, eff. Oct. 1, 1972; Apr. 30, 1979, eff. Aug. 1, 1979; Oct. 12, 1984, Pub. L. 98–473, title II, §210, 98 Stat 1987; Mar. 10, 1986, eff. July 1, 1986; Nov. 18, 1988, Pub. L. 100–690, title VII, §7111, 102 Stat. 4419; Apr. 25, 1989, eff. Dec. 1, 1989; Apr. 30, 1991, eff. Dec. 1, 1991; Apr. 22, 1993, eff. Dec. 1, 1993; Apr. 29, 1994, eff. Dec. 1, 1994; Apr. 27, 1995, eff. Dec. 1, 1995; Apr. 23, 1996, eff. Dec. 1, 1996; Apr. 24, 1996, Pub. L. 104–132, title I, §103, 110 Stat. 1218; Apr. 24, 1998, eff. Dec. 1, 1998; Apr. 29, 2002, eff. Dec. 1, 2002; Mar. 27, 2003, eff. Dec. 1, 2003; Apr. 25, 2005, eff. Dec. 1, 2005; Apr. 12, 2006, eff. Dec. 1, 2006; Apr. 30, 2007, eff. Dec. 1, 2007; Mar. 26, 2009, eff. Dec. 1, 2009; Apr. 28, 2010, eff. Dec. 1, 2010; Apr. 26, 2011, eff. Dec. 1, 2011; Apr. 16, 2013, eff. Dec. 1, 2013; Apr. 25, 2014, eff. Dec. 1, 2014; Apr. 28, 2016, eff. Dec. 1, 2016; Apr. 27, 2017, eff. Dec. 1, 2017; Apr. 26, 2018, eff. Dec. 1, 2018; Apr. 25, 2019, eff. Dec. 1, 2019.
+The Rules have been amended Mar. 30, 1970, eff. July 1, 1970; Mar. 1, 1971, eff. July 1, 1971; Apr. 24, 1972, eff. Oct. 1, 1972; Apr. 30, 1979, eff. Aug. 1, 1979; Oct. 12, 1984, Pub. L. 98–473, title II, §210, 98 Stat 1987; Mar. 10, 1986, eff. July 1, 1986; Nov. 18, 1988, Pub. L. 100–690, title VII, §7111, 102 Stat. 4419; Apr. 25, 1989, eff. Dec. 1, 1989; Apr. 30, 1991, eff. Dec. 1, 1991; Apr. 22, 1993, eff. Dec. 1, 1993; Apr. 29, 1994, eff. Dec. 1, 1994; Apr. 27, 1995, eff. Dec. 1, 1995; Apr. 23, 1996, eff. Dec. 1, 1996; Apr. 24, 1996, Pub. L. 104–132, title I, §103, 110 Stat. 1218; Apr. 24, 1998, eff. Dec. 1, 1998; Apr. 29, 2002, eff. Dec. 1, 2002; Mar. 27, 2003, eff. Dec. 1, 2003; Apr. 25, 2005, eff. Dec. 1, 2005; Apr. 12, 2006, eff. Dec. 1, 2006; Apr. 30, 2007, eff. Dec. 1, 2007; Mar. 26, 2009, eff. Dec. 1, 2009; Apr. 28, 2010, eff. Dec. 1, 2010; Apr. 26, 2011, eff. Dec. 1, 2011; Apr. 16, 2013, eff. Dec. 1, 2013; Apr. 25, 2014, eff. Dec. 1, 2014; Apr. 28, 2016, eff. Dec. 1, 2016; Apr. 27, 2017, eff. Dec. 1, 2017; Apr. 26, 2018, eff. Dec. 1, 2018; Apr. 25, 2019, eff. Dec. 1, 2019; Apr. 27, 2020, eff. Dec. 1, 2020.
 
 #### TITLE I. APPLICABILITY OF RULES ####
 
@@ -3593,11 +3593,11 @@ Paragraph (a)(2) states that one reason for deciding that oral argument is unnec
 
 (d) Number of Copies. The number of copies to be filed must be prescribed by local rule and may be altered by order in a particular case.
 
-(e) Response. No response may be filed to a petition for an en banc consideration unless the court orders a response.
+(e) Response. No response may be filed to a petition for an en banc consideration unless the court orders a response. The length limits in Rule 35(b)(2) apply to a response.
 
 (f) Call for a Vote. A vote need not be taken to determine whether the case will be heard or reheard en banc unless a judge calls for a vote.
 
-(As amended Apr. 1, 1979, eff. Aug. 1, 1979; Apr. 29, 1994, eff. Dec. 1, 1994; Apr. 24, 1998, eff. Dec. 1, 1998; Apr. 25, 2005, eff. Dec. 1, 2005; Apr. 28, 2016, eff. Dec. 1, 2016.)
+(As amended Apr. 1, 1979, eff. Aug. 1, 1979; Apr. 29, 1994, eff. Dec. 1, 1994; Apr. 24, 1998, eff. Dec. 1, 1998; Apr. 25, 2005, eff. Dec. 1, 2005; Apr. 28, 2016, eff. Dec. 1, 2016; Apr. 27, 2020, eff. Dec. 1, 2020.)
 
 #### Notes of Advisory Committee on Rules—1967 ####
 
@@ -3686,6 +3686,10 @@ The amendment to Rule 35(a) is not meant to alter or affect the quorum requireme
 #### Committee Notes on Rules—2016 Amendment ####
 
 The page limits previously employed in Rules 5, 21, 27, 35, and 40 have been largely overtaken by changes in technology. For papers produced using a computer, those page limits are now replaced by word limits. The word limits were derived from the current page limits using the assumption that one page is equivalent to 260 words. Papers produced using a computer must include the certificate of compliance required by Rule 32(g); Form 6 in the Appendix of Forms suffices to meet that requirement. Page limits are retained for papers prepared without the aid of a computer (i.e., handwritten or typewritten papers). For both the word limit and the page limit, the calculation excludes any items listed in Rule 32(f).
+
+#### Committee Notes on Rules—2020 Amendment ####
+
+The amendment to Rule 35(e) clarifies that the length limits applicable to a petition for hearing or rehearing en banc also apply to a response to such a petition, if the court orders one.
 
 ### Rule 36. Entry of Judgment; Notice ###
 
@@ -3827,7 +3831,7 @@ In subdivision (d)(1) the words "with proof of service" are deleted and replaced
 
 ### Rule 40. Petition for Panel Rehearing ###
 
-(a) Time to File; Contents; Answer; Action by the Court if Granted.
+(a) Time to File; Contents; Response; Action by the Court if Granted.
 
 (1) *Time.* Unless the time is shortened or extended by order or local rule, a petition for panel rehearing may be filed within 14 days after entry of judgment. But in a civil case, unless an order shortens or extends the time, the petition may be filed by any party within 45 days after entry of judgment if one of the parties is:
 
@@ -3841,7 +3845,7 @@ In subdivision (d)(1) the words "with proof of service" are deleted and replaced
 
 (2) *Contents.* The petition must state with particularity each point of law or fact that the petitioner believes the court has overlooked or misapprehended and must argue in support of the petition. Oral argument is not permitted.
 
-(3) *Answer.* Unless the court requests, no answer to a petition for panel rehearing is permitted. But ordinarily rehearing will not be granted in the absence of such a request.
+(3) *Response.* Unless the court requests, no response to a petition for panel rehearing is permitted. Ordinarily, rehearing will not be granted in the absence of such a request. If a response is requested, the requirements of Rule 40(b) apply to the response.
 
 (4) *Action by the Court.* If a petition for panel rehearing is granted, the court may do any of the following:
 
@@ -3857,7 +3861,7 @@ In subdivision (d)(1) the words "with proof of service" are deleted and replaced
 
 (2) a handwritten or typewritten petition for panel rehearing must not exceed 15 pages.
 
-(As amended Apr. 30, 1979, eff. Aug. 1, 1979; Apr. 29, 1994, eff. Dec. 1, 1994; Apr. 24, 1998, eff. Dec. 1, 1998; Apr. 26, 2011, eff. Dec. 1, 2011; Apr. 28, 2016, eff. Dec. 1, 2016.)
+(As amended Apr. 30, 1979, eff. Aug. 1, 1979; Apr. 29, 1994, eff. Dec. 1, 1994; Apr. 24, 1998, eff. Dec. 1, 1998; Apr. 26, 2011, eff. Dec. 1, 2011; Apr. 28, 2016, eff. Dec. 1, 2016; Apr. 27, 2020, eff. Dec. 1, 2020.)
 
 #### Notes of Advisory Committee on Rules—1967 ####
 
@@ -3892,6 +3896,10 @@ Second, the Committee added, at the end of Rule 40(a)(1)(D), the following new l
 #### Committee Notes on Rules—2016 Amendment ####
 
 The page limits previously employed in Rules 5, 21, 27, 35, and 40 have been largely overtaken by changes in technology. For papers produced using a computer, those page limits are now replaced by word limits. The word limits were derived from the current page limits using the assumption that one page is equivalent to 260 words. Papers produced using a computer must include the certificate of compliance required by Rule 32(g); Form 6 in the Appendix of Forms suffices to meet that requirement. Page limits are retained for papers prepared without the aid of a computer (i.e., handwritten or typewritten papers). For both the word limit and the page limit, the calculation excludes any items listed in Rule 32(f).
+
+#### Committee Notes on Rules—2020 Amendment ####
+
+The amendment to Rule 40(a)(3) clarifies that the provisions of Rule 40(b) regarding a petition for panel rehearing also apply to a response to such a petition, if the court orders a response. The amendment also changes the language to refer to a "response," rather than an "answer," to make the terminology consistent with Rule 35; this change is intended to be stylistic only.
 
 ### Rule 41. Mandate: Contents; Issuance and Effective Date; Stay ###
 
@@ -4414,13 +4422,13 @@ Appendix: Length Limits Stated in the Federal Rules of Appellate Procedure is se
 FEDERAL RULES OF CIVIL PROCEDURE
 ==========
 
-(As amended to December 1, 2019)
+(As amended to December 1, 2020)
 
 #### Historical Note ####
 
 The original Rules of Civil Procedure for the District Courts were adopted by order of the Supreme Court on Dec. 20, 1937, transmitted to Congress by the Attorney General on Jan. 3, 1938, and became effective on Sept. 16, 1938.
 
-The Rules have been amended Dec. 28, 1939, eff. Apr. 3, 1941; Dec. 27, 1946, eff. Mar. 19, 1948; Dec. 29, 1948, eff. Oct. 20, 1949; Apr. 30, 1951, eff. Aug. 1, 1951; Apr. 17, 1961, eff. July 19, 1961; Jan. 21, 1963, eff. July 1, 1963; Feb. 28, 1966, eff. July 1, 1966; Dec. 4, 1967, eff. July 1, 1968; Mar. 30, 1970, eff. July 1, 1970; Mar. 1, 1971, eff. July 1, 1971; Nov. 20, 1972, and Dec. 18, 1972, eff. July 1, 1975; Apr. 29, 1980, eff. Aug. 1, 1980; Oct. 21, 1980, Pub. L. 96–481, title II, §205(a), (b), 94 Stat. 2330; Jan. 12, 1983, Pub. L. 97–462, §§2–4, 96 Stat. 2527–2530, eff. Feb. 26, 1983; Apr. 28, 1983, eff. Aug. 1, 1983; Apr. 29, 1985, eff. Aug. 1, 1985; Mar. 2, 1987, eff. Aug. 1, 1987; Apr. 25, 1988, eff. Aug. 1, 1988; Nov. 18, 1988, Pub. L. 100–690, title VII, §§7047(b), 7049, 7050, 102 Stat. 4401; Apr. 30, 1991, eff. Dec. 1, 1991; Dec. 9, 1991, Pub. L. 102–198, §11, 105 Stat. 1626; Apr. 22, 1993, eff. Dec. 1, 1993; Apr. 27, 1995, eff. Dec. 1, 1995; Apr. 23, 1996, eff. Dec. 1, 1996; Apr. 11, 1997, eff. Dec. 1, 1997; Apr. 24, 1998, eff. Dec. 1, 1998; Apr. 26, 1999, eff. Dec. 1, 1999; Apr. 17, 2000, eff. Dec. 1, 2000; Apr. 23, 2001, eff. Dec. 1, 2001; Apr. 29, 2002, eff. Dec. 1, 2002; Mar. 27, 2003, eff. Dec. 1, 2003; Apr. 25, 2005, eff. Dec. 1, 2005; Apr. 12, 2006, eff. Dec. 1, 2006; Apr. 30, 2007, eff. Dec. 1, 2007; Apr. 23, 2008, eff. Dec. 1, 2008; Mar. 26, 2009, eff. Dec. 1, 2009; Apr. 28, 2010, eff. Dec. 1, 2010; Apr. 16, 2013, eff. Dec. 1, 2013; Apr. 25, 2014, eff. Dec. 1, 2014; Apr. 29, 2015, eff. Dec. 1, 2015; Apr. 28, 2016, eff. Dec. 1, 2016; Apr. 27, 2017, eff. Dec. 1, 2017; Apr. 26, 2018, eff. Dec. 1, 2018.
+The Rules have been amended Dec. 28, 1939, eff. Apr. 3, 1941; Dec. 27, 1946, eff. Mar. 19, 1948; Dec. 29, 1948, eff. Oct. 20, 1949; Apr. 30, 1951, eff. Aug. 1, 1951; Apr. 17, 1961, eff. July 19, 1961; Jan. 21, 1963, eff. July 1, 1963; Feb. 28, 1966, eff. July 1, 1966; Dec. 4, 1967, eff. July 1, 1968; Mar. 30, 1970, eff. July 1, 1970; Mar. 1, 1971, eff. July 1, 1971; Nov. 20, 1972, and Dec. 18, 1972, eff. July 1, 1975; Apr. 29, 1980, eff. Aug. 1, 1980; Oct. 21, 1980, Pub. L. 96–481, title II, §205(a), (b), 94 Stat. 2330; Jan. 12, 1983, Pub. L. 97–462, §§2–4, 96 Stat. 2527–2530, eff. Feb. 26, 1983; Apr. 28, 1983, eff. Aug. 1, 1983; Apr. 29, 1985, eff. Aug. 1, 1985; Mar. 2, 1987, eff. Aug. 1, 1987; Apr. 25, 1988, eff. Aug. 1, 1988; Nov. 18, 1988, Pub. L. 100–690, title VII, §§7047(b), 7049, 7050, 102 Stat. 4401; Apr. 30, 1991, eff. Dec. 1, 1991; Dec. 9, 1991, Pub. L. 102–198, §11, 105 Stat. 1626; Apr. 22, 1993, eff. Dec. 1, 1993; Apr. 27, 1995, eff. Dec. 1, 1995; Apr. 23, 1996, eff. Dec. 1, 1996; Apr. 11, 1997, eff. Dec. 1, 1997; Apr. 24, 1998, eff. Dec. 1, 1998; Apr. 26, 1999, eff. Dec. 1, 1999; Apr. 17, 2000, eff. Dec. 1, 2000; Apr. 23, 2001, eff. Dec. 1, 2001; Apr. 29, 2002, eff. Dec. 1, 2002; Mar. 27, 2003, eff. Dec. 1, 2003; Apr. 25, 2005, eff. Dec. 1, 2005; Apr. 12, 2006, eff. Dec. 1, 2006; Apr. 30, 2007, eff. Dec. 1, 2007; Apr. 23, 2008, eff. Dec. 1, 2008; Mar. 26, 2009, eff. Dec. 1, 2009; Apr. 28, 2010, eff. Dec. 1, 2010; Apr. 16, 2013, eff. Dec. 1, 2013; Apr. 25, 2014, eff. Dec. 1, 2014; Apr. 29, 2015, eff. Dec. 1, 2015; Apr. 28, 2016, eff. Dec. 1, 2016; Apr. 27, 2017, eff. Dec. 1, 2017; Apr. 26, 2018, eff. Dec. 1, 2018; Apr. 27, 2020, eff. Dec. 1, 2020.
 
 #### TITLE I. SCOPE OF RULES; FORM OF ACTION ####
 
@@ -9991,7 +9999,7 @@ The language of Rule 29 has been amended as part of the general restyling of the
 
 (C) *After the Deposition.* At the end of a deposition, the officer must state on the record that the deposition is complete and must set out any stipulations made by the attorneys about custody of the transcript or recording and of the exhibits, or about any other pertinent matters.
 
-(6) *Notice or Subpoena Directed to an Organization.* In its notice or subpoena, a party may name as the deponent a public or private corporation, a partnership, an association, a governmental agency, or other entity and must describe with reasonable particularity the matters for examination. The named organization must then designate one or more officers, directors, or managing agents, or designate other persons who consent to testify on its behalf; and it may set out the matters on which each person designated will testify. A subpoena must advise a nonparty organization of its duty to make this designation. The persons designated must testify about information known or reasonably available to the organization. This paragraph (6) does not preclude a deposition by any other procedure allowed by these rules.
+(6) *Notice or Subpoena Directed to an Organization.* In its notice or subpoena, a party may name as the deponent a public or private corporation, a partnership, an association, a governmental agency, or other entity and must describe with reasonable particularity the matters for examination. The named organization must designate one or more officers, directors, or managing agents, or designate other persons who consent to testify on its behalf; and it may set out the matters on which each person designated will testify. Before or promptly after the notice or subpoena is served, the serving party and the organization must confer in good faith about the matters for examination. A subpoena must advise a nonparty organization of its duty to confer with the serving party and to designate each person who will testify. The persons designated must testify about information known or reasonably available to the organization. This paragraph (6) does not preclude a deposition by any other procedure allowed by these rules.
 
 (c) Examination and Cross-Examination; Record of the Examination; Objections; Written Questions.
 
@@ -10049,7 +10057,7 @@ The language of Rule 29 has been amended as part of the general restyling of the
 
 (2) serve a subpoena on a nonparty deponent, who consequently did not attend.
 
-(As amended Jan. 21, 1963, eff. July 1, 1963; Mar. 30, 1970, eff. July 1, 1970; Mar. 1, 1971, eff. July 1, 1971; Nov. 20, 1972, eff. July 1, 1975; Apr. 29, 1980, eff. Aug. 1, 1980; Mar. 2, 1987, eff. Aug. 1, 1987; Apr. 22, 1993, eff. Dec. 1, 1993; Apr. 17, 2000, eff. Dec. 1, 2000; Apr. 30, 2007, eff. Dec. 1, 2007; Apr. 29, 2015, eff. Dec. 1, 2015.)
+(As amended Jan. 21, 1963, eff. July 1, 1963; Mar. 30, 1970, eff. July 1, 1970; Mar. 1, 1971, eff. July 1, 1971; Nov. 20, 1972, eff. July 1, 1975; Apr. 29, 1980, eff. Aug. 1, 1980; Mar. 2, 1987, eff. Aug. 1, 1987; Apr. 22, 1993, eff. Dec. 1, 1993; Apr. 17, 2000, eff. Dec. 1, 2000; Apr. 30, 2007, eff. Dec. 1, 2007; Apr. 29, 2015, eff. Dec. 1, 2015; Apr. 27, 2020, eff. Dec. 1, 2020.)
 
 #### Notes of Advisory Committee on Rules—1937 ####
 
@@ -10224,6 +10232,18 @@ The right to arrange a deposition transcription should be open to any party, reg
 #### Committee Notes on Rules—2015 Amendment ####
 
 Rule 30 is amended in parallel with Rules 31 and 33 to reflect the recognition of proportionality in Rule 26(b)(1).
+
+#### Committee Notes on Rules—2020 Amendment ####
+
+Rule 30(b)(6) is amended to respond to problems that have emerged in some cases. Particular concerns raised have included overlong or ambiguously worded lists of matters for examination and inadequately prepared witnesses. This amendment directs the serving party and the named organization to confer before or promptly after the notice or subpoena is served about the matters for examination. The amendment also requires that a subpoena notify a nonparty organization of its duty to confer and to designate each person who will testify. It facilitates collaborative efforts to achieve the proportionality goals of the 2015 amendments to Rules 1 and 26(b)(1).
+
+Candid exchanges about the purposes of the deposition and the organization's information structure may clarify and focus the matters for examination, and enable the organization to designate and to prepare an appropriate witness or witnesses, thereby avoiding later disagreements. It may be productive also to discuss "process" issues, such as the timing and location of the deposition, the number of witnesses and the matters on which each witness will testify, and any other issue that might facilitate the efficiency and productivity of the deposition.
+
+The amended rule directs that the parties confer either before or promptly after the notice or subpoena is served. If they begin to confer before service, the discussion may be more productive if the serving party provides a draft of the proposed list of matters for examination, which may then be refined as the parties confer. The process of conferring may be iterative. Consistent with Rule 1, the obligation is to confer in good faith about the matters for examination, but the amendment does not require the parties to reach agreement. In some circumstances, it may be desirable to seek guidance from the court.
+
+When the need for a Rule 30(b)(6) deposition is known early in the case, the Rule 26(f) conference may provide an occasion for beginning discussion of these topics. In appropriate cases, it may also be helpful to include reference to Rule 30(b)(6) depositions in the discovery plan submitted to the court under Rule 26(f)(3) and in the matters considered at a pretrial conference under Rule 16.
+
+Because a Rule 31 deposition relies on written questions rather than a description with reasonable particularity of the matters for examination, the duty to confer about the matters for examination does not apply when an organization is deposed under Rule 31(a)(4).
 
 ### Rule 31. Depositions by Written Questions ###
 
@@ -16594,7 +16614,7 @@ The times set in the former rule at 20 days have been revised to 21 days. See th
 FEDERAL RULES OF EVIDENCE
 ==========
 
-(As amended to December 1, 2019)
+(As amended to December 1, 2020)
 
 #### Effective Date and Application of Rules ####
 
@@ -16604,7 +16624,7 @@ Pub. L. 93–595, §1, Jan. 2, 1975, 88 Stat. 1926, provided: "That the followin
 
 The Federal Rules of Evidence were adopted by order of the Supreme Court on Nov. 20, 1972, transmitted to Congress by the Chief Justice on Feb. 5, 1973, and to have become effective on July 1, 1973. Pub. L. 93–12, Mar. 30, 1973, 87 Stat. 9, provided that the proposed rules "shall have no force or effect except to the extent, and with such amendments, as they may be expressly approved by Act of Congress". Pub. L. 93–595, Jan. 2, 1975, 88 Stat. 1926, enacted the Federal Rules of Evidence proposed by the Supreme Court, with amendments made by Congress, to take effect on July 1, 1975.
 
-The Rules have been amended Oct. 16, 1975, Pub. L. 94–113, §1, 89 Stat. 576, eff. Oct. 31, 1975; Dec. 12, 1975, Pub. L. 94–149, §1, 89 Stat. 805; Oct. 28, 1978, Pub. L. 95–540, §2, 92 Stat. 2046; Nov. 6, 1978, Pub. L. 95–598, title II, §251, 92 Stat. 2673, eff. Oct. 1, 1979; Apr. 30, 1979, eff. Dec. 1, 1980; Apr. 2, 1982, Pub. L. 97–164, title I, §142, title IV, §402, 96 Stat. 45, 57, eff. Oct. 1, 1982; Oct. 12, 1984, Pub. L. 98–473, title IV, §406, 98 Stat. 2067; Mar. 2, 1987, eff. Oct. 1, 1987; Apr. 25, 1988, eff. Nov. 1, 1988; Nov. 18, 1988, Pub. L. 100–690, title VII, §§7046, 7075, 102 Stat. 4400, 4405; Jan. 26, 1990, eff. Dec. 1, 1990; Apr. 30, 1991, eff. Dec. 1, 1991; Apr. 22, 1993, eff. Dec. 1, 1993; Apr. 29, 1994, eff. Dec. 1, 1994; Sept. 13, 1994, Pub. L. 103–322, title IV, §40141, title XXXII, §320935, 108 Stat. 1918, 2135; Apr. 11, 1997, eff. Dec. 1, 1997; Apr. 24, 1998, eff. Dec. 1, 1998; Apr. 17, 2000, eff. Dec. 1, 2000; Mar. 27, 2003, eff. Dec. 1, 2003; Apr. 12, 2006, eff. Dec. 1, 2006; Sept. 19, 2008, Pub. L. 110–322, §1(a), 122 Stat. 3537; Apr. 28, 2010, eff. Dec. 1, 2010; Apr. 26, 2011, eff. Dec. 1, 2011; Apr. 13, 2013, eff. Dec. 1, 2013; Apr. 25, 2014, eff. Dec. 1, 2014; Apr. 27, 2017, eff. Dec. 1, 2017; Apr. 25, 2019, eff. Dec. 1, 2019.
+The Rules have been amended Oct. 16, 1975, Pub. L. 94–113, §1, 89 Stat. 576, eff. Oct. 31, 1975; Dec. 12, 1975, Pub. L. 94–149, §1, 89 Stat. 805; Oct. 28, 1978, Pub. L. 95–540, §2, 92 Stat. 2046; Nov. 6, 1978, Pub. L. 95–598, title II, §251, 92 Stat. 2673, eff. Oct. 1, 1979; Apr. 30, 1979, eff. Dec. 1, 1980; Apr. 2, 1982, Pub. L. 97–164, title I, §142, title IV, §402, 96 Stat. 45, 57, eff. Oct. 1, 1982; Oct. 12, 1984, Pub. L. 98–473, title IV, §406, 98 Stat. 2067; Mar. 2, 1987, eff. Oct. 1, 1987; Apr. 25, 1988, eff. Nov. 1, 1988; Nov. 18, 1988, Pub. L. 100–690, title VII, §§7046, 7075, 102 Stat. 4400, 4405; Jan. 26, 1990, eff. Dec. 1, 1990; Apr. 30, 1991, eff. Dec. 1, 1991; Apr. 22, 1993, eff. Dec. 1, 1993; Apr. 29, 1994, eff. Dec. 1, 1994; Sept. 13, 1994, Pub. L. 103–322, title IV, §40141, title XXXII, §320935, 108 Stat. 1918, 2135; Apr. 11, 1997, eff. Dec. 1, 1997; Apr. 24, 1998, eff. Dec. 1, 1998; Apr. 17, 2000, eff. Dec. 1, 2000; Mar. 27, 2003, eff. Dec. 1, 2003; Apr. 12, 2006, eff. Dec. 1, 2006; Sept. 19, 2008, Pub. L. 110–322, §1(a), 122 Stat. 3537; Apr. 28, 2010, eff. Dec. 1, 2010; Apr. 26, 2011, eff. Dec. 1, 2011; Apr. 13, 2013, eff. Dec. 1, 2013; Apr. 25, 2014, eff. Dec. 1, 2014; Apr. 27, 2017, eff. Dec. 1, 2017; Apr. 25, 2019, eff. Dec. 1, 2019; Apr. 27, 2020, eff. Dec. 1, 2020.
 
 #### ARTICLE I. GENERAL PROVISIONS ####
 
@@ -16640,7 +16660,7 @@ Rule
 
 403. Excluding relevant evidence for prejudice, confusion, waste of time, or other reasons.
 
-404. Character evidence; crimes or other acts.
+404. Character evidence; other crimes, wrongs, or acts.
 
 405. Methods of proving character.
 
@@ -17342,7 +17362,7 @@ In reaching a decision whether to exclude on grounds of unfair prejudice, consid
 
 The language of Rule 403 has been amended as part of the restyling of the Evidence Rules to make them more easily understood and to make style and terminology consistent throughout the rules. These changes are intended to be stylistic only. There is no intent to change any result in any ruling on evidence admissibility.
 
-### Rule 404. Character Evidence; Crimes or Other Acts ###
+### Rule 404. Character Evidence; Other Crimes, Wrongs, or Acts. ###
 
 (a) Character Evidence.
 
@@ -17362,17 +17382,21 @@ The language of Rule 403 has been amended as part of the restyling of the Eviden
 
 (3) *Exceptions for a Witness.* Evidence of a witness's character may be admitted under Rules 607, 608, and 609.
 
-(b) Crimes, Wrongs, or Other Acts.
+(b) Other Crimes, Wrongs, or Acts.
 
-(1) *Prohibited Uses.* Evidence of a crime, wrong, or other act is not admissible to prove a person's character in order to show that on a particular occasion the person acted in accordance with the character.
+(1) *Prohibited Uses.* Evidence of any other crime, wrong, or act is not admissible to prove a person's character in order to show that on a particular occasion the person acted in accordance with the character.
 
-(2) *Permitted Uses; Notice in a Criminal Case.* This evidence may be admissible for another purpose, such as proving motive, opportunity, intent, preparation, plan, knowledge, identity, absence of mistake, or lack of accident. On request by a defendant in a criminal case, the prosecutor must:
+(2) *Permitted Uses.* This evidence may be admissible for another purpose, such as proving motive, opportunity, intent, preparation, plan, knowledge, identity, absence of mistake, or lack of accident.
 
-(A) provide reasonable notice of the general nature of any such evidence that the prosecutor intends to offer at trial; and
+(3) *Notice in a Criminal Case.* In a criminal case, the prosecutor must:
 
-(B) do so before trial—or during trial if the court, for good cause, excuses lack of pretrial notice.
+(A) provide reasonable notice of any such evidence that the prosecutor intends to offer at trial, so that the defendant has a fair opportunity to meet it;
 
-(Pub. L. 93–595, §1, Jan. 2, 1975, 88 Stat. 1932; Mar. 2, 1987, eff. Oct. 1, 1987; Apr. 30, 1991, eff. Dec. 1, 1991; Apr. 17, 2000, eff. Dec. 1, 2000; Apr. 12, 2006, eff. Dec. 1, 2006; Apr. 26, 2011, eff. Dec. 1, 2011.)
+(B) articulate in the notice the permitted purpose for which the prosecutor intends to offer the evidence and the reasoning that supports the purpose; and
+
+(C) do so in writing before trial—or in any form during trial if the court, for good cause, excuses lack of pretrial notice.
+
+(Pub. L. 93–595, §1, Jan. 2, 1975, 88 Stat. 1932; Mar. 2, 1987, eff. Oct. 1, 1987; Apr. 30, 1991, eff. Dec. 1, 1991; Apr. 17, 2000, eff. Dec. 1, 2000; Apr. 12, 2006, eff. Dec. 1, 2006; Apr. 26, 2011, eff. Dec. 1, 2011; Apr. 27, 2020, eff. Dec. 1, 2020.)
 
 #### Notes of Advisory Committee on Proposed Rules ####
 
@@ -17457,6 +17481,24 @@ Nothing in the amendment is intended to affect the scope of Rule 404(b). While R
 #### Committee Notes on Rules—2011 Amendment ####
 
 The language of Rule 404 has been amended as part of the restyling of the Evidence Rules to make them more easily understood and to make style and terminology consistent throughout the rules. These changes are intended to be stylistic only. There is no intent to change any result in any ruling on evidence admissibility.
+
+#### Committee Notes on Rules—2020 Amendment ####
+
+Rule 404(b) has been amended principally to impose additional notice requirements on the prosecution in a criminal case. In addition, clarifications have been made to the text and headings.
+
+The notice provision has been changed in a number of respects:
+
+• The prosecution must not only identify the evidence that it intends to offer pursuant to the rule but also articulate a non-propensity purpose for which the evidence is offered and the basis for concluding that the evidence is relevant in light of this purpose. The earlier requirement that the prosecution provide notice of only the "general nature" of the evidence was understood by some courts to permit the government to satisfy the notice obligation without describing the specific act that the evidence would tend to prove, and without explaining the relevance of the evidence for a non-propensity purpose. This amendment makes clear what notice is required.
+
+• The pretrial notice must be in writing—which requirement is satisfied by notice in electronic form. *See* Rule 101(b)(6). Requiring the notice to be in writing provides certainty and reduces arguments about whether notice was actually provided.
+
+• Notice must be provided before trial in such time as to allow the defendant a fair opportunity to meet the evidence, unless the court excuses that requirement upon a showing of good cause. *See* Rules 609(b), 807, and 902(11). Advance notice of Rule 404(b) evidence is important so that the parties and the court have adequate opportunity to assess the evidence, the purpose for which it is offered, and whether the requirements of Rule 403 have been satisfied—even in cases in which a final determination as to the admissibility of the evidence must await trial. When notice is provided during trial after a finding of good cause, the court may need to consider protective measures to assure that the opponent is not prejudiced. *See, e.g., United States v. Lopez-Gutierrez*, 83 F.3d 1235 (10th Cir. 1996) (notice given at trial due to good cause; the trial court properly made the witness available to the defendant before the bad act evidence was introduced); *United States v. Perez-Tosta*, 36 F.3d 1552 (11th Cir. 1994) (defendant was granted five days to prepare after notice was given, upon good cause, just before voir dire).
+
+• The good cause exception applies not only to the timing of the notice as a whole but also to the timing of the obligations to articulate a non-propensity purpose and the reasoning supporting that purpose. A good cause exception for the timing of the articulation requirements is necessary because in some cases an additional permissible purpose for the evidence may not become clear until just before, or even during, trial.
+
+• Finally, the amendment eliminates the requirement that the defendant must make a request before notice is provided. That requirement is not found in any other notice provision in the Federal Rules of Evidence. It has resulted mostly in boilerplate demands on the one hand, and a trap for the unwary on the other. Moreover, many local rules require the government to provide notice of Rule 404(b) material without regard to whether it has been requested. And in many cases, notice is provided when the government moves *in limine* for an advance ruling on the admissibility of Rule 404(b) evidence. The request requirement has thus outlived any usefulness it may once have had.
+
+As to the textual clarifications, the word "other" is restored to the location it held before restyling in 2011, to confirm that Rule 404(b) applies to crimes, wrongs and acts "other" than those at issue in the case; and the headings are changed accordingly. No substantive change is intended.
 
 ### Rule 405. Methods of Proving Character ###
 
@@ -20162,8 +20204,6 @@ The amendment specifically requires the court to consider corroborating evidence
 
 The amendment does not alter the case law prohibiting parties from proceeding directly to the residual exception, without considering the admissibility of the hearsay under Rules 803 and 804. A court is not required to make a finding that no other hearsay exception is applicable. But the opponent <sup><a href="#Rule_807_1_target" name="Rule_807_1">1</a></sup> cannot seek admission under Rule 807 if it is apparent that the hearsay could be admitted under another exception.
 
-<sup><a href="#Rule_807_1_target" name="Rule_807_1">1</a></sup> So in House Document 116–67. The Secretary of the Committee on Rules of Practice and Procedure states that "opponent" should be "proponent".
-
 The rule in its current form applies to hearsay "not specifically covered" by a Rule 803 or 804 exception. The amendment makes the rule applicable to hearsay "not admissible under" those exceptions. This clarifies that a court assessing guarantees of trustworthiness may consider whether the statement is a "near-miss" of one of the Rule 803 or 804 exceptions. If the court employs a "near-miss" analysis it should—in addition to evaluating all relevant guarantees of trustworthiness—take into account the reasons that the hearsay misses the admissibility requirements of the standard exception.
 
 In deciding whether the statement is supported by sufficient guarantees of trustworthiness, the court should not consider the credibility of any witness who relates the declarant's hearsay statement in court. The credibility of an in-court witness does not present a hearsay question. To base admission or exclusion of a hearsay statement on the witness's credibility would usurp the jury's role of determining the credibility of testifying witnesses. The rule provides that the focus for trustworthiness is on circumstantial guarantees surrounding the making of the statement itself, as well as any independent evidence corroborating the statement. The credibility of the witness relating the statement is not a part of either enquiry.	
@@ -20185,6 +20225,8 @@ The notice provision has been amended to make four changes in the operation of t
 •	Finally, the pretrial notice provision has been amended to provide for a good cause exception. Most courts have applied a good cause exception under Rule 807 even though the rule in its current form does not provide for it, while some courts have read the rule as it was written. Experience under the residual exception has shown that a good cause exception is necessary in certain limited situations. For example, the proponent may not become aware of the existence of the hearsay statement until after the trial begins, or the proponent may plan to call a witness who without warning becomes unavailable during trial, and the proponent might then need to resort to residual hearsay.
 
 The rule retains the requirement that the opponent receive notice in a way that provides a fair opportunity to meet the evidence. When notice is provided during trial after a finding of good cause, the court may need to consider protective measures, such as a continuance, to assure that the opponent is not prejudiced.
+
+[<sup>1</sup> So in House Document 116–67. The Secretary of the Committee on Rules of Practice and Procedure states that "opponent" should be "proponent".](#Rule_807_1)
 
 ### ARTICLE IX. AUTHENTICATION AND IDENTIFICATION ###
 

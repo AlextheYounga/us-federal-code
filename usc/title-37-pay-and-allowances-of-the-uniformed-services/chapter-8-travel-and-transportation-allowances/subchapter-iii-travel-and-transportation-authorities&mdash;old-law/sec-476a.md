@@ -10,6 +10,8 @@
 
 (Added Pub. L. 88–238, §1(1), Dec. 23, 1963, 77 Stat. 475, §406a; renumbered §476a and amended Pub. L. 112–81, div. A, title VI, §631(d)(2), (e)(7), (f)(4)(A), Dec. 31, 2011, 125 Stat. 1460, 1462, 1465; Pub. L. 112–239, div. A, title X, §1076(a)(9), Jan. 2, 2013, 126 Stat. 1948.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2013**—Subsec. (a). Pub. L. 112–239, §1076(a)(9), made technical amendment to directory language of Pub. L. 112–81, §631(f)(4)(A). See 2011 Amendment note below.
@@ -19,6 +21,8 @@
 Pub. L. 112–81, §631(d)(2), renumbered section 406a of this title as this section.
 
 Subsec. (a). Pub. L. 112–81, §631(f)(4)(A), as amended by Pub. L. 112–239, §1076(a)(9), substituted "474" for "404", "476" for "406", and "479" for "409" in introductory provisions.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 2013 Amendment ####
 

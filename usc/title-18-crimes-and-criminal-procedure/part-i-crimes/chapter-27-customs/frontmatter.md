@@ -32,6 +32,8 @@ Sec.
 
 555. Border tunnels and passages.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2007**—Pub. L. 110–161, div. E, title V, §553(a)(2), Dec. 26, 2007, 121 Stat. 2082, added item 555 and struck out item 554 "Border tunnels and passages".

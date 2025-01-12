@@ -10,9 +10,13 @@ The Securities and Exchange Commission, acting in consultation with such agency 
 
 (Pub. L. 98–473, title I, §101(1) [title I], Oct. 12, 1984, 98 Stat. 1884, 1885.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section is based on section 210 of title II of S. 2416, Ninety-eighth Congress, as introduced Mar. 13, 1984, and enacted into law by Pub. L. 98–473.
+
+#### **Executive Documents** ####
 
 #### Delegation of Functions ####
 

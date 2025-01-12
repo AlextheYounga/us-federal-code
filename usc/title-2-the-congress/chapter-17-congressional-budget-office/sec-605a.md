@@ -4,6 +4,8 @@ In fiscal year 2018 and thereafter, for all contracts for goods and services to 
 
 (Pub. L. 115–141, div. I, title I, §130, Mar. 23, 2018, 132 Stat. 779.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section was enacted as part of the appropriation act cited as the credit to this section, and not as part of title II of the Congressional Budget and Impoundment Control Act of 1974 which comprises this chapter.

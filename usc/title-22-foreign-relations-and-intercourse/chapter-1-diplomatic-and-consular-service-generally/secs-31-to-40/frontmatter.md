@@ -28,6 +28,8 @@ Section 39, R.S. §1688, related to prohibition against uniforms and official co
 
 Section 40, R.S. §1674; acts Feb. 5, 1915, ch. 23, §6, 38 Stat. 806; July 1, 1916, ch. 208, 39 Stat. 252; May 24, 1924, ch. 182, §2, 43 Stat. 140, related to definition of diplomatic offices.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Repeal effective three months after Aug. 13, 1946, see act Aug. 13, 1946, ch. 957, title XI, §1141, 60 Stat. 1040.

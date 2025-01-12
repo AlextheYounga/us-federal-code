@@ -1,5 +1,7 @@
 ### §§691 to 692. Omitted ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Sections were omitted pursuant to section 5 of Pub. L. 104–130, set out as an Effective and Termination Dates note below.
@@ -19,6 +21,8 @@ Section 691e, Pub. L. 93–344, title X, §1026, as added Pub. L. 104–130, §2
 Section 691f, Pub. L. 93–344, title X, §1027, as added Pub. L. 104–130, §2(a), Apr. 9, 1996, 110 Stat. 1210, related to identification of limited tax benefits.
 
 Section 692, Pub. L. 104–130, §3, Apr. 9, 1996, 110 Stat. 1211, provided for judicial review.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Constitutionality ####
 

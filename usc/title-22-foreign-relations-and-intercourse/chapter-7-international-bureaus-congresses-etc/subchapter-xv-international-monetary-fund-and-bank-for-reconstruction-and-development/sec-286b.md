@@ -28,6 +28,8 @@ The representatives of the United States on the Fund and the Bank, and the Expor
 
 (July 31, 1945, ch. 339, §4, 59 Stat. 512; Apr. 3, 1948, ch. 169, title I, §106, 62 Stat. 141; Oct. 10, 1951, ch. 479, title V, §501(e)(2), 65 Stat. 378; 1953 Reorg. Plan No. 5, eff. June 30, 1953, 18 F.R. 3741, 67 Stat. 637; 1953 Reorg. Plan No. 7, eff. Aug. 1, 1953, 18 F.R. 4541, 67 Stat. 639; Aug. 9, 1954, ch. 660, §2, 68 Stat. 678; Pub. L. 89–126, §1(1), Aug. 14, 1965, 79 Stat. 519; Pub. L. 90–267, §1(a), Mar. 13, 1968, 82 Stat. 47; Pub. L. 98–181, title I [title VIII, §808(a)], Nov. 30, 1983, 97 Stat. 1273; Pub. L. 101–240, title V, §541(d)(1), (f)(1), Dec. 19, 1989, 103 Stat. 2518, 2519.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1989**—Subsec. (b). Pub. L. 101–240 redesignated pars. (7) and (8) as (5) and (6), respectively, and struck out former pars. (5) and (6) which read as follows:
@@ -48,6 +50,8 @@ Subsec. (b)(6). Pub. L. 89–126 struck out provisions which required special re
 
 **1948**—Subsec. (a). Act Apr. 3, 1948, ch. 169, title I, §106, 62 Stat. 141, added Administrator for Economic Cooperation, during existence of the Administration, to membership of National Advisory Council.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Change of Name ####
 
 "Export-Import Bank of Washington" changed in text to "Export-Import Bank of the United States" to conform to such change in name in the Export-Import Bank Act of 1945, section 635 et seq. of Title 12, Banks and Banking, provided for in section 1(a) of Pub. L. 90–267.
@@ -59,6 +63,8 @@ Amendment by act Aug. 9, 1954, effective upon initial appointment of President, 
 #### Repeals ####
 
 Act Apr. 3, 1948, cited as a credit to this section, was repealed by act June 20, 1952, ch. 449, §7(c), 66 Stat. 144.
+
+#### **Executive Documents** ####
 
 #### Transfer of Functions ####
 

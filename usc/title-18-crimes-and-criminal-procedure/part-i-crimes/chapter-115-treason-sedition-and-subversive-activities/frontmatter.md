@@ -24,6 +24,8 @@ Sec.
 
 [2391. Repealed.]
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1994**—Pub. L. 103–322, title XXXIII, §330004(13), Sept. 13, 1994, 108 Stat. 2142, struck out item 2391 "Temporary extension of section 2388".

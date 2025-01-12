@@ -4,9 +4,13 @@ The Gorgas Memorial Institute shall make to Congress, on April 1 of each year, a
 
 (May 7, 1928, ch. 505, §3, 45 Stat. 491; Pub. L. 95–426, title VII, §701(a), Oct. 7, 1978, 92 Stat. 991.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1978**—Pub. L. 95–426 substituted "on April 1 of each year" and "during the fiscal year ending the preceding September 30" for "annually, on the first Monday in December" and "up to the first of November next preceding", respectively.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Termination of Reporting Requirements ####
 

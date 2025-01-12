@@ -62,6 +62,8 @@ may, in addition to all other compensation to which he is entitled, be paid an a
 
 (Added Pub. L. 94–356, §3, July 12, 1976, 90 Stat. 901; amended Pub. L. 96–513, title V, §516(9), Dec. 12, 1980, 94 Stat. 2938; Pub. L. 96–579, §2(c), Dec. 23, 1980, 94 Stat. 3359; Pub. L. 99–145, title VI, §632(c), Nov. 8, 1985, 99 Stat. 645; Pub. L. 101–189, div. A, title VI, §614(c), Nov. 29, 1989, 103 Stat. 1446; Pub. L. 101–510, div. A, title XIII, §1322(c)(8), Nov. 5, 1990, 104 Stat. 1672; Pub. L. 102–25, title VII, §702(b)(1), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 103–337, div. A, title VI, §613(i), Oct. 5, 1994, 108 Stat. 2784; Pub. L. 104–106, div. A, title VI, §613(g), Feb. 10, 1996, 110 Stat. 360; Pub. L. 104–201, div. A, title VI, §613(f), Sept. 23, 1996, 110 Stat. 2544; Pub. L. 105–85, div. A, title VI, §§613(f), 624(c), Nov. 18, 1997, 111 Stat. 1786, 1793; Pub. L. 105–261, div. A, title VI, §613(f), Oct. 17, 1998, 112 Stat. 2039; Pub. L. 106–65, div. A, title VI, §§613(g), 624(c), Oct. 5, 1999, 113 Stat. 650, 654; Pub. L. 106–398, §1 [[div. A], title VI, §623(e)], Oct. 30, 2000, 114 Stat. 1654, 1654A–152; Pub. L. 107–107, div. A, title VI, §613(c), Dec. 28, 2001, 115 Stat. 1136; Pub. L. 107–314, div. A, title VI, §613(c), Dec. 2, 2002, 116 Stat. 2568; Pub. L. 108–136, div. A, title VI, §613(c), Nov. 24, 2003, 117 Stat. 1501; Pub. L. 108–375, div. A, title VI, §613(c), Oct. 28, 2004, 118 Stat. 1947; Pub. L. 109–163, div. A, title VI, §§623(c), 638, Jan. 6, 2006, 119 Stat. 3295, 3301; Pub. L. 109–364, div. A, title VI, §613(c), Oct. 17, 2006, 120 Stat. 2248; Pub. L. 110–181, div. A, title VI, §613(c), Jan. 28, 2008, 122 Stat. 149; Pub. L. 110–417, [div. A], title VI, §613(c), Oct. 14, 2008, 122 Stat. 4485; Pub. L. 111–84, div. A, title VI, §613(3), Oct. 28, 2009, 123 Stat. 2353; Pub. L. 111–383, div. A, title VI, §613(3), Jan. 7, 2011, 124 Stat. 4237; Pub. L. 112–81, div. A, title VI, §613(3), Dec. 31, 2011, 125 Stat. 1450; Pub. L. 112–239, div. A, title VI, §613(3), Jan. 2, 2013, 126 Stat. 1777; Pub. L. 113–66, div. A, title VI, §613(3), Dec. 26, 2013, 127 Stat. 780; Pub. L. 113–291, div. A, title VI, §613(3), Dec. 19, 2014, 128 Stat. 3400; Pub. L. 114–92, div. A, title VI, §613(3), Nov. 25, 2015, 129 Stat. 838; Pub. L. 114–328, div. A, title VI, §613(3), Dec. 23, 2016, 130 Stat. 2158; Pub. L. 115–91, div. A, title VI, §613(3), Dec. 12, 2017, 131 Stat. 1422.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2017**—Subsec. (d). Pub. L. 115–91 substituted "December 31, 2018" for "December 31, 2017".
@@ -145,6 +147,8 @@ Subsec. (b). Pub. L. 96–579, §2(c)(2), substituted "$3,500 for each nuclear s
 Subsec. (d). Pub. L. 96–513, §516(9)(B), substituted "Committees on Armed Services of the Senate and House of Representatives" for "House and Senate Armed Service Committees".
 
 Subsec. (e). Pub. L. 96–579, §2(c)(3), substituted as definition for "nuclear service year" any fiscal year beginning before Oct. 1, 1987 for the one-year period from Oct. 1, 1975, through Sept. 30, 1976, or any fiscal year beginning after Sept. 30, 1976, and before Oct. 1, 1981.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 2008 Amendment ####
 

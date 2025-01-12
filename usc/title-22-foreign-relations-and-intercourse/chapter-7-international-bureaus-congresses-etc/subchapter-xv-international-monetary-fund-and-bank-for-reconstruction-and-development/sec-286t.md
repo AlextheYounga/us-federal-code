@@ -1,8 +1,12 @@
 ### §286t. Omitted ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section, act July 31, 1945, ch. 339, §34, as added Oct. 7, 1980, Pub. L. 96–389, §4(b), 94 Stat. 1553, directed the Secretary of the Treasury, in cooperation with the United States Director of the Fund, to study and report to Congress prior to May 15, 1981, with respect to adequacy of Fund resources and method of increasing Fund liquidity, promotion of more direct recycling of oil surpluses, and methods of providing adequate resources for balance-of-payments financing.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Recycling Balance-of-Payments Surpluses by Oil Exporting Countries ####
 

@@ -22,6 +22,8 @@ Sec.
 
 799. Violation of regulations of National Aeronautics and Space Administration.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1990**—Pub. L. 101–647, title XXXV, §3519(b), Nov. 29, 1990, 104 Stat. 4923, redesignated item 798, "Temporary extension of section 794", as 798A.

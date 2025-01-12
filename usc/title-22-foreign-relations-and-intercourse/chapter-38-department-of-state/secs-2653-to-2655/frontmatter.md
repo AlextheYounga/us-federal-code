@@ -6,6 +6,8 @@ Section 2654, act May 24, 1924, ch. 182, §30, as added Feb. 23, 1931, ch. 276, 
 
 Section 2655, act May 18, 1937, ch. 220, 50 Stat. 169, related to position and appointment of Counselor of Department of State.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Repeal applicable with respect to officials, offices, and bureaus of Department of State when executive orders, regulations, or departmental directives implementing the amendments by sections 161 and 162 of Pub. L. 103–236 become effective, or 90 days after Apr. 30, 1994, whichever comes earlier, see section 161(b) of Pub. L. 103–236, as amended, set out as an Effective Date of 1994 Amendment note under section 2651a of this title.

@@ -4,6 +4,8 @@ Not more than nine members of the armed forces, including members detailed to in
 
 (Added Pub. L. 98–525, title XIV, §1402(b)(1), Oct. 19, 1984, 98 Stat. 2621.)
 
+#### **Editorial Notes** ####
+
 #### Prior Provisions ####
 
 Provisions similar to those comprising this section were contained in the following prior appropriations acts:
@@ -39,6 +41,8 @@ Dec. 18, 1971, Pub. L. 92–204, title VII, §707, 85 Stat. 727.
 Jan. 11, 1971, Pub. L. 91–668, title VIII, §807, 84 Stat. 2030.
 
 Dec. 29, 1969, Pub. L. 91–171, title VI, §607, 83 Stat. 480.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date ####
 

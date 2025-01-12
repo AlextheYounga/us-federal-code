@@ -10,11 +10,15 @@ Based on title 18, U.S.C., 1940 ed., §§301, 360 (Mar. 4, 1909, ch. 321, §§23
 
 This section consolidates sections 301 and 360 of title 18, U.S.C., 1940 ed., with necessary changes in phraseology.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1990**—Pub. L. 101–647 substituted "whether or not such officer or employee has taken the oath of office" for "whether he has taken the oath of office".
 
 **1970**—Pub. L. 91–375 inserted "United States" before "Postal Service" in section catchline and substituted in text as definition of "Postal Service" the United States Postal Service established under title 39, and every officer and employee of that Service, whether he has taken the oath of office, for prior definition which included the Post Office Department and every employee, thereof, whether or not he has taken the oath of office.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 1970 Amendment ####
 

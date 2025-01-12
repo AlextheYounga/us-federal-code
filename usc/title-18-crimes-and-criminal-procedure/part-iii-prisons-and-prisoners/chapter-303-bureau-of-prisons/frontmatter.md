@@ -22,6 +22,8 @@ Sec.
 
 4050. Secure firearms storage.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2018**—Pub. L. 115–391, title II, §202(b), Dec. 21, 2018, 132 Stat. 5217, added item 4050.

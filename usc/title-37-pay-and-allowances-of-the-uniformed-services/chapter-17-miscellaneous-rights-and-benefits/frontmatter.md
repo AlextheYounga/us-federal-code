@@ -22,6 +22,8 @@ Sec.
 
 910. Replacement of lost income: involuntarily mobilized reserve component members subject to extended and frequent active duty service.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2006**—Pub. L. 109–163, div. A, title VI, §614(b), Jan. 6, 2006, 119 Stat. 3293, added item 910.

@@ -34,6 +34,8 @@ Section 1217, Pub. L. 102–166, title III, §318, Nov. 21, 1991, 105 Stat. 1096
 
 Section 1218, Pub. L. 102–166, title III, §319, Nov. 21, 1991, 105 Stat. 1096, reaffirmed Senate's commitment to Rule XLII of Standing Rules of the Senate, relating to employment discrimination on basis of race, color, religion, sex, national origin, age, or state of physical handicap.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Savings Provision ####
 
 Pub. L. 104–1, title V, §504(a)(2), (5), Jan. 23, 1995, 109 Stat. 41, provided in part that sections 1203 to 1218 of this title are repealed, except as provided in section 1435 of this title.

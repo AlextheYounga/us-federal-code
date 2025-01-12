@@ -1,5 +1,7 @@
 ### §§2821 to 2826. Omitted ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Sections 2821 to 2826 expired, not later than the thirtieth day after June 30, 1975, pursuant to section 2823 of this title.

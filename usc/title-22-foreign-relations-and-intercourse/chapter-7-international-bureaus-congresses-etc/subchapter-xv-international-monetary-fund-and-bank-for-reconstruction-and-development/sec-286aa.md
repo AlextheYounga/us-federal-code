@@ -12,9 +12,13 @@ Should the Secretary not meet a request to appear before the aforementioned comm
 
 (July 31, 1945, ch. 339, §43, as added Pub. L. 98–181, title I [title VIII, §804], Nov. 30, 1983, 97 Stat. 1270; amended Pub. L. 103–149, §4(b)(6), Nov. 23, 1993, 107 Stat. 1505.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1993**—Pub. L. 103–149 struck out "(a)" before "The Congress" and struck out subsec. (b) which related to use of International Monetary Fund credit by any country which practices apartheid.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Change of Name ####
 

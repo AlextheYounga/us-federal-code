@@ -12,6 +12,8 @@ There is hereby authorized to be appropriated annually to the Department of Stat
 
 (June 30, 1948, ch. 756, §2, 62 Stat. 1151; Oct. 28, 1949, ch. 782, title II, §202(2), title XI, §1106(a), 63 Stat. 954, 972; Sept. 21, 1950, ch. 976, §1(e), 64 Stat. 903; Pub. L. 85–477, ch. V, §502(f), June 30, 1958, 72 Stat. 273.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Subchapter XVII [§287m et seq.] of this chapter, referred to in subsec. (b)(2), was in the original a reference to the Act of July 30, 1946, Public Law 565, Seventy-ninth Congress.
@@ -33,6 +35,8 @@ In subsec. (b)(1), "section 6101 of title 41" substituted for "section 3709 of t
 Subsec. (b). Joint Res. Sept. 21, 1950, §1(e)(3), struck out limitation of $95,000 on the authorized annual appropriation for expenses.
 
 **1949**—Subsec. (b)(1). Act Oct. 28, 1949, substituted "Classification Act of 1949" for "Classification Act of 1923".
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Limitation of Contributions ####
 

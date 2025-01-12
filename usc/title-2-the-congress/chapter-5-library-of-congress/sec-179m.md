@@ -46,6 +46,8 @@ In carrying out the comprehensive national film preservation program for motion 
 
 (Pub. L. 104–285, title I, §103, Oct. 11, 1996, 110 Stat. 3377; Pub. L. 109–9, title III, §302(a), Apr. 27, 2005, 119 Stat. 224; Pub. L. 110–336, §3(a)(2), Oct. 2, 2008, 122 Stat. 3727.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The National Film Preservation Act of 1992, referred to in subsecs. (a)(1)(A) and (c), is title II of Pub. L. 102–307, June 26, 1992, 106 Stat. 267, which was classified principally to sections 179 to 179k of this title and was repealed by Pub. L. 104–285, title I, §114, Oct. 11, 1996, 110 Stat. 3382.

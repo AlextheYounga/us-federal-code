@@ -46,6 +46,8 @@ Sec.
 
 30b. Notice of objecting to proceeding.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Change of Name and Transfer of Functions of Committees and Officers of House of Representatives ####
 
 Pub. L. 104–14, June 3, 1995, 109 Stat. 186, provided that:

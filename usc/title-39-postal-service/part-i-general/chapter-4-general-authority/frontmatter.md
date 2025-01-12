@@ -36,6 +36,8 @@ Sec.
 
 416. Authority to issue semipostals.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2012**—Pub. L. 112–234, §2(e)(2), Dec. 28, 2012, 126 Stat. 1625, renumbered Pub. L. 106–253, §2(d). See 2000 Amendment note below.

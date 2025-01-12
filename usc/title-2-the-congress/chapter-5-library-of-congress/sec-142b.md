@@ -4,6 +4,8 @@ On and after June 13, 1957, each officer and employee of the Library of Congress
 
 (Pub. L. 85–53, §1, June 13, 1957, 71 Stat. 81; Pub. L. 92–310, title II, §220(k), June 6, 1972, 86 Stat. 205.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 "Section 3726 of title 31" substituted in text for "title III, part II, section 322, of the Transportation Act of 1940, approved September 18, 1940 [31 U.S.C. 244]" on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.

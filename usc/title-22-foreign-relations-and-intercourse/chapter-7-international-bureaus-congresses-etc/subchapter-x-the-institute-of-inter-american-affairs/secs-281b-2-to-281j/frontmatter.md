@@ -1,5 +1,7 @@
 ### §§281b–2 to 281j. Omitted ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Sections 281b–2 to 281j of this title contained provisions relating to the Institute of Inter-American Affairs. The Institute was created pursuant to act Aug. 5, 1947, ch. 498, 61 Stat. 780. Section 3 of such act, as amended, provided that the Institute was to have succession until June 30, 1960. See Codification note set out under section 281 of this title.

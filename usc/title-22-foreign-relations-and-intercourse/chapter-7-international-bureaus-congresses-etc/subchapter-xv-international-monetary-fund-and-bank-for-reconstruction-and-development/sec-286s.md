@@ -38,9 +38,13 @@ To ensure the effectiveness of economic adjustment programs supported by Fund re
 
 (July 31, 1945, ch. 339, §33, as added Pub. L. 96–389, §2(a), Oct. 7, 1980, 94 Stat. 1551; amended Pub. L. 101–240, title V, §541(d)(1), Dec. 19, 1989, 103 Stat. 2518.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1989**—Subsec. (c). Pub. L. 101–240 struck out subsec. (c) which required inclusion of statement detailing progress made in carrying out subsecs. (a) and (b) requirements in Council's annual report to Congress.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date ####
 

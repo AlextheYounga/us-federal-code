@@ -18,6 +18,8 @@ Sec.
 
 1308. Limitation of applicability.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2014**—Pub. L. 113–251, §4(b), Dec. 18, 2014, 128 Stat. 2890, added item 1308.

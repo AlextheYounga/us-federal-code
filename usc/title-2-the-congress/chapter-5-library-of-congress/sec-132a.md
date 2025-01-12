@@ -4,6 +4,8 @@ The unexpended balance of any sums appropriated by Congress for the increase of 
 
 (R.S. §82; Feb. 7, 1902, No. 5, 32 Stat. 735; Aug. 2, 1946, ch. 753, title II, §223, 60 Stat. 838.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 R.S. §82 derived from acts Apr. 24, 1800, ch. 37, §5, 2 Stat. 56, and Jan. 26, 1802, ch. 2, §6, 2 Stat. 129.
@@ -11,6 +13,8 @@ R.S. §82 derived from acts Apr. 24, 1800, ch. 37, §5, 2 Stat. 56, and Jan. 26,
 #### Amendments ####
 
 **1946**—Act Aug. 2, 1946, changed composition of Joint Committee. See section 132b of this title.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 1946 Amendment ####
 

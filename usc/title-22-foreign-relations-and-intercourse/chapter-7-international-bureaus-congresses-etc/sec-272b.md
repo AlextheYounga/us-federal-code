@@ -4,9 +4,13 @@ No person shall serve as representative, delegate, or alternate from the United 
 
 (June 30, 1948, ch. 756, §3, 62 Stat. 1152; Apr. 5, 1952, ch. 159, §1, 66 Stat. 43; 1978 Reorg. Plan No. 2, §102, eff. Jan. 1, 1979, 43 F.R. 36037, 92 Stat. 3784.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1952**—Act Apr. 5, 1952, substituted "Civil Service Commission" for "Federal Bureau of Investigation".
+
+#### **Executive Documents** ####
 
 #### Transfer of Functions ####
 

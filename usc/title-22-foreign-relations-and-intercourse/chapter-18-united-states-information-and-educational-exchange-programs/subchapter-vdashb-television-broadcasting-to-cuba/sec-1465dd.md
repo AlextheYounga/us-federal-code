@@ -8,6 +8,8 @@ In order to assist the Broadcasting Board of Governors in carrying out the provi
 
 Section repealed upon transmittal of determination by President under section 6063(c)(3) of this title that democratically elected government in Cuba is in power, see section 6037(c) of this title.
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section was enacted as part of the Television Broadcasting to Cuba Act which comprises this subchapter, and not as part of the United States Information and Educational Exchange Act of 1948 which comprises this chapter.
@@ -15,6 +17,8 @@ Section was enacted as part of the Television Broadcasting to Cuba Act which com
 #### Amendments ####
 
 **1998**—Pub. L. 105–277 substituted "Broadcasting Board of Governors" for "United States Information Agency" and "the Board" for "the Agency".
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Change of Name ####
 

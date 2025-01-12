@@ -4,6 +4,8 @@ Not to exceed $45,000 annually of the funds appropriated for rivers and harbors 
 
 (June 30, 1948, ch. 771, title I, §107, 62 Stat. 1174; Pub. L. 89–298, title III, §306, Oct. 27, 1965, 79 Stat. 1094; Pub. L. 93–251, title I, §93, Mar. 7, 1974, 88 Stat. 39.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1974**—Pub. L. 93–251 substituted "$45,000" for "$22,000".

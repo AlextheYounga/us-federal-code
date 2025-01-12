@@ -4,6 +4,8 @@ In fulfillment of article VII of the constitution of the Organization, the Secre
 
 (July 30, 1946, ch. 700, §3, 60 Stat. 713; Pub. L. 87–139, §9, Aug. 14, 1961, 75 Stat. 341.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Article VII of the constitution of the Organization, referred to in text, is article VII of the Constitution of the United Nations Educational, Scientific, and Cultural Organization, which is set out as a note under section 287m of this title.

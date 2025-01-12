@@ -1,5 +1,7 @@
 ### §§1612 to 1612b. Omitted ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Sections, act Oct. 26, 1951, ch. 575, title II, §§201–203, 65 Stat. 646, were superseded, effective October 1, 1979, by former section 4619(e) of Title 50, War and National Defense.

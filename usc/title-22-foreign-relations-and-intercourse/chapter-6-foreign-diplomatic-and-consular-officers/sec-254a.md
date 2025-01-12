@@ -26,6 +26,8 @@ within the meaning of Article 37 of the Vienna Convention;
 
 (Pub. L. 95–393, §2, Sept. 30, 1978, 92 Stat. 808; Pub. L. 97–241, title II, §203(b)(1), Aug. 24, 1982, 96 Stat. 290.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 This Act, referred to in text, means Pub. L. 95–393, Sept. 30, 1978, 92 Stat. 808, as amended, known as the Diplomatic Relations Act. For complete classification of this Act to the Code, see Short Title note below and Tables.
@@ -33,6 +35,8 @@ This Act, referred to in text, means Pub. L. 95–393, Sept. 30, 1978, 92 Stat. 
 #### Amendments ####
 
 **1982**—Par. (1)(A). Pub. L. 97–241 substituted "those members of a mission who are members of the diplomatic staff or who, pursuant to law, are granted equivalent privileges and immunities" for "members of the diplomatic staff of a mission".
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 1982 Amendment ####
 

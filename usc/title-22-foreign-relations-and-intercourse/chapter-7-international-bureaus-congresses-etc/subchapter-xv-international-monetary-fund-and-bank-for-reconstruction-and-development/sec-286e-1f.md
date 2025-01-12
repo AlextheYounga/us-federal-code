@@ -10,9 +10,13 @@
 
 (July 31, 1945, ch. 339, §27, as added Pub. L. 95–118, title II, §201, Oct. 3, 1977, 91 Stat. 1067; amended Pub. L. 97–35, title XIII, §1312, Aug. 13, 1981, 95 Stat. 740.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1981**—Subsec. (a)(2). Pub. L. 97–35 substituted "effective only to such extent or in such amounts as are provided in advance in appropriations Acts" for "made only after the amount required for such subscription has been appropriated".
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 1981 Amendment ####
 

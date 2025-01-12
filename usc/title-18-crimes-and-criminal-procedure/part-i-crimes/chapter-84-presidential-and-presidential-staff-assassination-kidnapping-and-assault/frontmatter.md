@@ -6,6 +6,8 @@ Sec.
 
 1752. Restricted building or grounds.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2006**—Pub. L. 109–177, title VI, §602(b)(2), Mar. 9, 2006, 120 Stat. 252, substituted "Restricted building or grounds" for "Temporary residences and offices of the President and others" in item 1752.

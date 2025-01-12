@@ -64,6 +64,8 @@
 
 (Added Pub. L. 106–398, §1 [[div. A], title VI, §604(a)(1)], Oct. 30, 2000, 114 Stat. 1654, 1654A–145; amended Pub. L. 107–107, div. A, title VI, §604(d), Dec. 28, 2001, 115 Stat. 1134; Pub. L. 107–296, title XVII, §1704(c), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 108–375, div. A, title VI, §602(a), (b), Oct. 28, 2004, 118 Stat. 1943; Pub. L. 109–163, div. A, title VI, §608, Jan. 6, 2006, 119 Stat. 3289; Pub. L. 109–364, div. A, title X, §1071(c)(6), (e)(4), Oct. 17, 2006, 120 Stat. 2401; Pub. L. 110–234, title IV, §4002(b)(1)(A), (B), (2)(T), May 22, 2008, 122 Stat. 1095–1097; Pub. L. 110–246, §4(a), title IV, §4002(b)(1)(A), (B), (2)(T), June 18, 2008, 122 Stat. 1664, 1857, 1858; Pub. L. 111–84, div. A, title VI, §602(a), Oct. 28, 2009, 123 Stat. 2347; Pub. L. 112–81, div. A, title X, §1063(a), Dec. 31, 2011, 125 Stat. 1586; Pub. L. 114–92, div. A, title VI, §602, Nov. 25, 2015, 129 Stat. 836; Pub. L. 114–328, div. A, title VI, §618(h)(2), Dec. 23, 2016, 130 Stat. 2160.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Richard B. Russell National School Lunch Act, referred to in subsec. (f)(2)(A), is act June 4, 1946, ch. 281, 60 Stat. 230, which is classified generally to chapter 13 (§1751 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1751 of Title 42 and Tables.
@@ -115,6 +117,8 @@ Subsecs. (g) to (i). Pub. L. 108–375, §602(b), added subsec. (g) and redesign
 **2002**—Subsec. (g)(1)(B). Pub. L. 107–296 substituted "of Homeland Security" for "of Transportation".
 
 **2001**—Subsec. (b)(1). Pub. L. 107–107 inserted "with dependents" after "a member of the armed forces".
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 2009 Amendment ####
 

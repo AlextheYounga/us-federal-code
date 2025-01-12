@@ -68,6 +68,8 @@ For purposes of this section, in the Senate, the levels of Federal mandates for 
 
 (Pub. L. 93–344, title IV, §425, as added Pub. L. 104–4, title I, §101(a)(2), Mar. 22, 1995, 109 Stat. 56.)
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Change of Name ####
 
 Committee on Governmental Affairs of Senate changed to Committee on Homeland Security and Governmental Affairs of Senate, effective Jan. 4, 2005, by Senate Resolution No. 445, One Hundred Eighth Congress, Oct. 9, 2004.

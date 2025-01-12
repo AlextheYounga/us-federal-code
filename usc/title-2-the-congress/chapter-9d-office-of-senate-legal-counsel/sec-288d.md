@@ -48,6 +48,8 @@ Nothing in this section shall limit the discretion of—
 
 (Pub. L. 95–521, title VII, §705, Oct. 26, 1978, 92 Stat. 1878; Pub. L. 99–336, §6(a)(2), June 19, 1986, 100 Stat. 639.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Subsec. (f) of this section amended title 28 by adding section 1364 and by adding item 1364 to the chapter analysis.
@@ -55,6 +57,8 @@ Subsec. (f) of this section amended title 28 by adding section 1364 and by addin
 #### Amendments ####
 
 **1986**—Subsec. (a). Pub. L. 99–336 substituted "section 1365 of title 28" for "section 1364 of title 28".
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date ####
 

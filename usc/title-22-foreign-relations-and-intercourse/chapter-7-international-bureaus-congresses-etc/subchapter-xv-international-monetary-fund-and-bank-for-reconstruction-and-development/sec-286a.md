@@ -22,6 +22,8 @@ Should the provisions of Schedule D of the Articles of Agreement of the Fund app
 
 (July 31, 1945, ch. 339, §3, 59 Stat. 512; Pub. L. 93–94, Aug. 15, 1973, 87 Stat. 314; Pub. L. 94–564, §2, Oct. 19, 1976, 90 Stat. 2660; Pub. L. 95–435, §2, Oct. 10, 1978, 92 Stat. 1051.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1978**—Subsec. (d). Pub. L. 95–435 designated existing provisions as par. (1) and added pars. (2) and (3).
@@ -31,6 +33,8 @@ Should the provisions of Schedule D of the Articles of Agreement of the Fund app
 Subsec. (d). Pub. L. 94–564, §2(2), added subsec. (d).
 
 **1973**—Subsec. (b). Pub. L. 93–94 substituted "and an alternate for the governor of the Bank" for "who shall also serve as alternate for the governor of the Bank".
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 1976 Amendment ####
 

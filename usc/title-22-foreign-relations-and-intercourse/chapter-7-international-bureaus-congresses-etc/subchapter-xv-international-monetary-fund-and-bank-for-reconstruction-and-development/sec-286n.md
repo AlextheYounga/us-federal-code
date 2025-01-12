@@ -4,9 +4,13 @@ The President is hereby authorized (a) to accept the amendment to the articles o
 
 (Pub. L. 90–349, §2, June 19, 1968, 82 Stat. 188.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section was not enacted as part of act July 31, 1945, ch. 339, 59 Stat. 512, known as the Bretton Woods Agreement Act, which comprises this subchapter.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Short Title ####
 

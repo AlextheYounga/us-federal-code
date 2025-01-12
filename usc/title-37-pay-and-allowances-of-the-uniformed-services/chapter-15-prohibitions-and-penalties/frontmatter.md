@@ -10,6 +10,8 @@ Sec.
 
 [804, 805. Repealed.]
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1996**—Pub. L. 104–106, div. A, title XI, §1122(c)(2), Feb. 10, 1996, 110 Stat. 463, struck out item 804 "Enlisted members of Army or Air Force: pay and allowances not to accrue during suspended sentence of dishonorable discharge".

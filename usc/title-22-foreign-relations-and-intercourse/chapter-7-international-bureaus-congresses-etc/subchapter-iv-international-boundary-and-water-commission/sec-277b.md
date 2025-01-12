@@ -18,6 +18,8 @@ Pursuant to the authority of subsection (a) and in order to facilitate further c
 
 (May 13, 1924, ch. 153, §3, as added Aug. 19, 1935, ch. 561, 49 Stat. 660; amended Pub. L. 101–246, title IV, §412(b)(1), Feb. 16, 1990, 104 Stat. 70; Pub. L. 104–319, title I, §104, Oct. 19, 1996, 110 Stat. 3866.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The first undesignated paragraph under the heading "International Obligations" contained in the Act of April 25, 1945 (59 Stat. 89), referred to in subsec. (b), is not classified to the Code.

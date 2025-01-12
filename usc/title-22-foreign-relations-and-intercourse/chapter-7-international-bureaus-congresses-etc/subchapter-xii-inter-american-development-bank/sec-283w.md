@@ -6,9 +6,13 @@
 
 (Pub. L. 86–147, §26, as added Pub. L. 94–302, title I, §101, May 31, 1976, 90 Stat. 591; amended Pub. L. 97–35, title XIII, §1351(c), Aug. 13, 1981, 95 Stat. 744.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1981**—Subsec. (b). Pub. L. 97–35 inserted provision limiting amount of appropriations available for Fund for Special Operations for fiscal year 1982.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 1981 Amendment ####
 

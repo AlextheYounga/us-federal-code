@@ -20,6 +20,8 @@ Sec.
 
 119. Protection of individuals performing certain official duties.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2008**—Pub. L. 110–177, title II, §202(b), Jan. 7, 2008, 121 Stat. 2537, added item 119.

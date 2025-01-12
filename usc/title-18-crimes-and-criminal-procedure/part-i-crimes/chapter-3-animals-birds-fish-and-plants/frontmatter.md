@@ -22,6 +22,8 @@ Sec.
 
 The criminal provisions of the Migratory Bird Treaty Act, sections 703–711 of title 16, U.S.C., 1940 ed., Conservation, and the Migratory Bird Conservation Act, sections 715–715r of title 16, U.S.C., 1940 ed., Conservation, were considered for inclusion in this chapter. Since these provisions, except parts of sections 704–707 of said title 16, are so inextricably interwoven with the Migratory Bird Acts, it was found advisable to exclude them.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2019**—Pub. L. 116–72, §2(b), Nov. 25, 2019, 133 Stat. 1152, substituted "Animal crushing" for "Animal crush videos" in item 48.

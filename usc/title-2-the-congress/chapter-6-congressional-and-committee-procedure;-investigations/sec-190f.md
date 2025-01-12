@@ -12,6 +12,8 @@ No general appropriation bill or amendment thereto shall be received or consider
 
 (Aug. 2, 1946, ch. 753, title I, §139(a), (b), (c), 60 Stat. 833; Pub. L. 91–510, title I, §108(d), Oct. 26, 1970, 84 Stat. 1149.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section constitutes subsections (a) to (c) of section 139 of act Aug. 2, 1946. Subsection (d) of section 139, which required the two Houses of Congress to make a study of existing permanent appropriations with a view to limiting the number thereof and to recommending what permanent appropriations should be discontinued, and of the disposition of funds resulting from the sale of Government property or services by all departments and agencies in the executive branch of the Government with a view to recommending a uniform system of control with respect to those funds, was omitted from the Code as being of a temporary character.
@@ -19,6 +21,8 @@ Section constitutes subsections (a) to (c) of section 139 of act Aug. 2, 1946. S
 #### Amendments ####
 
 **1970**—Subsec. (a). Pub. L. 91–510 repealed prohibition against consideration of any general appropriation bill in either House unless prior to such consideration printed committee hearings and reports on the bill have been available for at least three calendar days for the Members of the House considering the bill, which was incorporated in section 190a(f) of this title.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 1970 Amendment ####
 

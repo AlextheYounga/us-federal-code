@@ -12,6 +12,8 @@ This chapter does not include motor busses, interstate trucking facilities or ai
 
 Attention is directed to the consideration of the extension of the laws now applicable only to railroads to these other interstate facilities. 80th Congress House Report No. 304.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2006**—Pub. L. 109–177, title I, §110(b)(1), Mar. 9, 2006, 120 Stat. 208, substituted "RAILROAD CARRIERS AND MASS TRANSPORTATION SYSTEMS ON LAND, ON WATER, OR THROUGH THE AIR" for "RAILROADS" in chapter heading, added item 1992, and struck out former items 1992 "Wrecking trains" and 1993 "Terrorist attacks and other acts of violence against public transportation systems".

@@ -42,6 +42,8 @@ For purposes of this section, the term "multilateral development banks" means th
 
 (July 31, 1945, ch. 339, §49, as added Pub. L. 98–181, title I [title VIII, §812], Nov. 30, 1983, 97 Stat. 1275; amended Pub. L. 99–500, §101(f) [title V, §555], Oct. 18, 1986, 100 Stat. 1783–213, 1783–240, and Pub. L. 99–591, §101(f) [title V, §555], Oct. 30, 1986, 100 Stat. 3341–214, 3341–240; Pub. L. 106–36, title I, §1002(c), June 25, 1999, 113 Stat. 133.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Pub. L. 99–591 is a corrected version of Pub. L. 99–500.

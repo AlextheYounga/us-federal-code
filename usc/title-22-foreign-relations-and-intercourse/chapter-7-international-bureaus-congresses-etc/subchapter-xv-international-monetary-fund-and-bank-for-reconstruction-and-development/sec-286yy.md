@@ -24,13 +24,19 @@ The President may waive subsection (a) for up to 180 days at a time with respect
 
 Pub. L. 116–92, div. F, title LXXI, §7124(b), Dec. 20, 2019, 133 Stat. 2249, provided that, effective on the date that is 10 years after Dec. 20, 2019, this section is repealed.
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Another section 73 of the Bretton Woods Agreements Act was enacted by Pub. L. 116–94 and is classified to section 286zz of this title.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Pub. L. 116–92, div. F, title LXXI, §7124(b), Dec. 20, 2019, 133 Stat. 2249, provided that: "Effective on the date that is 10 years after the date of the enactment of this Act [Dec. 20, 2019], section 73 of the Bretton Woods Agreements Act [this section], as added by subsection (a), is repealed."
+
+#### **Executive Documents** ####
 
 #### Delegation of Certain Functions and Authorities Under the National Defense Authorization Act for Fiscal Year 2020 ####
 

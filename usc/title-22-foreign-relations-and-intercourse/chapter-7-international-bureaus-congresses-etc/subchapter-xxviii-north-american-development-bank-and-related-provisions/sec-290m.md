@@ -78,6 +78,8 @@ The Securities and Exchange Commission, acting in consultation with the National
 
 Pub. L. 116–113, title VI, §601, Jan. 29, 2020, 134 Stat. 78, repealed Pub. L. 103–182, which enacted this section, effective on the date the USMCA entered into force (July 1, 2020). See Codification note preceding this section.
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 This subchapter, referred to in subsec. (a), was in the original "this part" meaning part 2 of subtitle D of title V of Pub. L. 103–182, which enacted this subchapter and amended section 24 of Title 12, Banks and Banking. For complete classification of part 2 to the Code, see Tables.
@@ -85,6 +87,8 @@ This subchapter, referred to in subsec. (a), was in the original "this part" mea
 #### Codification ####
 
 Section is comprised of section 541 of Pub. L. 103–182. Subsec. (h)(1) of section 541 amended section 24 of Title 12, Banks and Banking.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of Repeal ####
 

@@ -14,6 +14,8 @@
 
 (Added Pub. L. 106–398, §1 [[div. A], title VI, §645(a)], Oct. 30, 2000, 114 Stat. 1654, 1654A–161, §411i; renumbered §481i and amended Pub. L. 112–81, div. A, title VI, §631(d)(2), (e)(22), Dec. 31, 2011, 125 Stat. 1460, 1463; Pub. L. 115–232, div. A, title VI, §604, Aug. 13, 2018, 132 Stat. 1795.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2018**—Subsec. (b)(1). Pub. L. 115–232 substituted "at a recruiting facility" for "as a recruiter for any".

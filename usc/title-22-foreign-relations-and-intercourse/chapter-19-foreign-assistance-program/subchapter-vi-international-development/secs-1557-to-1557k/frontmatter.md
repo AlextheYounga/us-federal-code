@@ -24,6 +24,8 @@ Section 1557j, act June 5, 1950, ch. 220, title IV, §412, 64 Stat. 207, related
 
 Section 1557k, acts June 5, 1950, ch. 220, title IV, §413, 64 Stat. 207; June 20, 1952, ch. 449, §10(b), 66 Stat. 150, related to employment of personnel. See sections 2385 to 2388 of this title.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Repeal of Appropriations ####
 
 Act Oct. 10, 1951, ch. 479, title V, §544, as added by act July 16, 1953, ch. 195, ch. VI, §602, 67 Stat. 155, which authorized appropriations for fiscal year 1954, was repealed by act Aug. 26, 1954, §542(a)(9), (11).

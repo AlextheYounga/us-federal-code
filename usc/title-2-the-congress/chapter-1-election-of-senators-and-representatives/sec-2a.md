@@ -8,6 +8,8 @@
 
 (June 18, 1929, ch. 28, §22, 46 Stat. 26; Apr. 25, 1940, ch. 152, 54 Stat. 162; Nov. 15, 1941, ch. 470, §1, 55 Stat. 761; Pub. L. 104–186, title II, §201, Aug. 20, 1996, 110 Stat. 1724.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1996**—Subsec. (b). Pub. L. 104–186 struck out at end "; and in case of vacancies in the offices of both the Clerk and the Sergeant at Arms, or the absence or inability of both to act, such duty shall devolve upon the Doorkeeper of the House of Representatives".
@@ -15,6 +17,8 @@
 **1941**—Act Nov. 15, 1941, provided for reapportionment based on seventeenth and subsequent decennial censuses.
 
 **1940**—Act Apr. 25, 1940, provided for reapportionment based on sixteenth decennial census.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Termination of Reporting Requirements ####
 

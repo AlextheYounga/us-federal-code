@@ -14,6 +14,8 @@
 
 (Aug. 4, 1950, ch. 561, §11, 64 Stat. 412; Pub. L. 91–281, June 17, 1970, 84 Stat. 309; Pub. L. 101–520, title II, §205(d), Nov. 5, 1990, 104 Stat. 2272; Pub. L. 101–562, §2(c), Nov. 15, 1990, 104 Stat. 2780; Pub. L. 105–144, §2, Dec. 15, 1997, 111 Stat. 2667; Pub. L. 108–83, title I, §1203(b), Sept. 30, 2003, 117 Stat. 1031; Pub. L. 110–161, div. H, title I, §1004(d)(2)(D), Dec. 26, 2007, 121 Stat. 2234; Pub. L. 110–178, §4(b)(4), Jan. 7, 2008, 121 Stat. 2552; Pub. L. 111–145, §6(d)(1), Mar. 4, 2010, 124 Stat. 54.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2010**—Pub. L. 111–145 repealed Pub. L. 110–161, §1004(d)(2)(D). See 2007 Amendment notes below.
@@ -33,6 +35,8 @@ Subsecs. (b) to (d). Pub. L. 110–161, §1004(d)(2)(D)(ii)–(iv), which direct
 **1990**—Subsec. (c). Pub. L. 101–520 and Pub. L. 101–562 made substantially identical amendments, adding subsec. (c). The text of subsec. (c) is based on amendment by Pub. L. 101–562.
 
 **1970**—Pub. L. 91–281 designated existing provisions as subsec. (a) and added subsec. (b).
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 2010 Amendment ####
 

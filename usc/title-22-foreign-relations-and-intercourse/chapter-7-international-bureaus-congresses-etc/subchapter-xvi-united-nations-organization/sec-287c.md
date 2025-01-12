@@ -34,6 +34,8 @@ unless such release is authorized by the Secretary under paragraph (3)(B) or (C)
 
 (Dec. 20, 1945, ch. 583, §5, 59 Stat. 620; Oct. 10, 1949, ch. 660, §3, 63 Stat. 735; Pub. L. 95–12, §1, Mar. 18, 1977, 91 Stat. 22; Pub. L. 111–195, title I, §107(a)(1), July 1, 2010, 124 Stat. 1337.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Article 41 of said Charter, referred to in subsec. (a), is an article of the United Nations Charter.
@@ -47,6 +49,8 @@ Article 41 of said Charter, referred to in subsec. (a), is an article of the Uni
 Subsec. (c). Pub. L. 95–12, §1(2), added subsec. (c).
 
 **1949**—Subsec. (b). Act Oct. 10, 1949, made aircraft subject to forfeiture.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Importation of Strategic and Critical Materials From Zimbabwe-Rhodesia ####
 
@@ -69,6 +73,8 @@ Pub. L. 95–12, §2, Mar. 18, 1977, 91 Stat. 23, provided that:
 "(b) If the President suspends the operation of the amendments contained in this Act [amending this section], he shall so report to the Congress. In addition, the President shall report to the Congress when he terminates such suspension.
 
 "(c) If the President suspends the operation of the amendments contained in this Act [amending this section], any reference in those amendments to date of enactment [Mar. 18, 1977] shall be deemed to be a reference to the date on which such suspension is terminated by the President."
+
+#### **Executive Documents** ####
 
 #### Executive Order No. 11322 ####
 

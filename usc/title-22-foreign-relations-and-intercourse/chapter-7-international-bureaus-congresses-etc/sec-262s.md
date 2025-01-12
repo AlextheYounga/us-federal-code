@@ -20,9 +20,13 @@ As used in this section, the term "multilateral development bank" includes the I
 
 (Pub. L. 95–118, title XVIII, §1801, formerly Pub. L. 100–418, title III, §3202, Aug. 23, 1988, 102 Stat. 1382; renumbered §1801 of Pub. L. 95–118, Pub. L. 101–240, title V, §541(b)(1), Dec. 19, 1989, 103 Stat. 2517.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section was formerly classified to section 262q of this title prior to renumbering by Pub. L. 101–240.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Short Title ####
 

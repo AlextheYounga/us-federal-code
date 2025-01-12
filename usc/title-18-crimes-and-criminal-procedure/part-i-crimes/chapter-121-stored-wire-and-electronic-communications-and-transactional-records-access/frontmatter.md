@@ -28,6 +28,8 @@ Sec.
 
 2713. Required preservation and disclosure of communications and records.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2018**—Pub. L. 115–141, div. V, §103(a)(2), Mar. 23, 2018, 132 Stat. 1214, added item 2713.

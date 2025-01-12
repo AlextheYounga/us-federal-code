@@ -6,6 +6,8 @@ Section 5008, added act Sept. 30, 1950, ch. 1115, §2, 64 Stat. 1086, provided f
 
 Section 5009, added act Sept. 30, 1950, ch. 1115, §2, 64 Stat. 1086, provided for adoption and promulgation of rules governing procedure by Youth Correction Division.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Repeal effective on 60th day following Mar. 15, 1976, see section 16(b) of Pub. L. 94–233, set out as an Effective Date note under section 4201 of this title.

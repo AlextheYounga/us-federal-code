@@ -70,6 +70,8 @@ Sec.
 
 465. Detention of vessels.
 
+#### **Executive Documents** ####
+
 #### Proclamations Respecting War and Neutrality ####
 
 See notes preceding section 1 of Title 50, War and National Defense.

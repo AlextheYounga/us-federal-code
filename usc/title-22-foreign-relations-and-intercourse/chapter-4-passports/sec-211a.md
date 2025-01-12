@@ -4,6 +4,8 @@ The Secretary of State may grant and issue passports, and cause passports to be 
 
 (July 3, 1926, ch. 772, §1, 44 Stat. 887; Pub. L. 95–426, title I, §124, Oct. 7, 1978, 92 Stat. 971; Pub. L. 103–236, title I, §127(a), Apr. 30, 1994, 108 Stat. 394; Pub. L. 103–415, §1(b), Oct. 25, 1994, 108 Stat. 4299.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1994**—Pub. L. 103–415, §1(b)(1), substituted "such other employees" for "such employees".
@@ -13,6 +15,8 @@ Pub. L. 103–415, §1(b)(2), which directed the amendment of this section by su
 Pub. L. 103–236 substituted "by diplomatic and consular officers of the United States, and by other employees of the Department of State who are citizens of the United States," for "by diplomatic representatives of the United States, and by such consul generals, consuls, or vice consuls when in charge,".
 
 **1978**—Pub. L. 95–426 inserted provision prohibiting passport restrictions except for countries with which the United States is at war, where armed hostilities are in progress or there is imminent danger to the public health or physical safety of United States travellers.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Short Title of 2006 Amendment ####
 
@@ -29,6 +33,8 @@ Pub. L. 100–202, §101(m) [title VI, §622(b)], Dec. 22, 1987, 101 Stat. 1329�
 #### Persons Entitled to Diplomatic or Official United States Passport ####
 
 Pub. L. 95–426, title I, §125, Oct. 7, 1978, 92 Stat. 971, provided that: "It is the sense of the Congress that a diplomatic or official United States passport should be issued only to, and used only by, a person who holds a diplomatic or other official position in the United States Government or who is otherwise eligible for such a passport under conditions specifically authorized by law."
+
+#### **Executive Documents** ####
 
 #### Ex. Ord. No. 11295. Rules Governing Granting, Issuing, and Verifying of Passports ####
 

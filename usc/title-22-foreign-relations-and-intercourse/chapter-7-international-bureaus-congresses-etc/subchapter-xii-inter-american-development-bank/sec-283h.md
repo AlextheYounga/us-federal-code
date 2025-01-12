@@ -10,13 +10,19 @@ The Securities and Exchange Commission, acting in consultation with the National
 
 (Pub. L. 86–147, §11, Aug. 7, 1959, 73 Stat. 301; Pub. L. 94–302, title I, §103(a)(3), May 31, 1976, 90 Stat. 593.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1976**—Subsec. (a). Pub. L. 94–302 struck out "ordinary" after "in the Bank's" and inserted "and article IIA, section 4" after "article II, section 5" and "or article IIA, section 3(c)" after "article II, section 4(a)(ii)".
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of 1976 Amendment ####
 
 For effective date of amendment by Pub. L. 94–302, see section 103(b) of Pub. L. 94–302, set out as a note under section 283c of this title.
+
+#### **Executive Documents** ####
 
 #### Delegation of Functions ####
 

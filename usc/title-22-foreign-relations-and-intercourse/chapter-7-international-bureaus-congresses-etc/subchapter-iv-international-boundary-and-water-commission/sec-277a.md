@@ -6,6 +6,8 @@ The President is authorized and empowered to construct, operate, and maintain on
 
 (May 13, 1924, ch. 153, §2, 43 Stat. 118; Mar. 3, 1927, ch. 381, §2, 44 Stat. 1403; Aug. 19, 1935, ch. 561, 49 Stat. 660; Pub. L. 101–246, title IV, §412(b)(2), Feb. 16, 1990, 104 Stat. 70.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1990**—Pub. L. 101–246 inserted reference to drainage of transboundary storm waters.
@@ -13,6 +15,8 @@ The President is authorized and empowered to construct, operate, and maintain on
 **1935**—Act Aug. 19, 1935, amended section generally.
 
 **1927**—Act Mar. 3, 1927, increased appropriation from $20,000 to $50,000.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Change of Name ####
 

@@ -82,6 +82,8 @@ Nothing in this subsection may be construed to affect the application to special
 
 (R.S. §26; Pub. L. 109–55, title III, §301, Aug. 2, 2005, 119 Stat. 588.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Uniformed and Overseas Citizens Absentee Voting Act, referred to in subsec. (b)(5), (7)(C), is Pub. L. 99–410, Aug. 28, 1986, 100 Stat. 924, which was formerly classified principally to subchapter I–G (§1973ff et seq.) of chapter 20 of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering in Title 52, Voting and Elections, and is now classified principally to chapter 203 (§20301 et seq.) of Title 52. For complete classification of this Act to the Code, see Tables.

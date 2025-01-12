@@ -4,6 +4,8 @@ Section 1079e, act May 1, 1956, ch. 229, §6, 70 Stat. 125, related to restricti
 
 Section 1079f, act May 1, 1956, ch. 229, §7, 70 Stat. 125, provided that no annuity currently payable be reduced as a result of sections 1079 to 1079f of this title.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Repeal effective Feb. 15, 1981, except as otherwise provided, see section 2403 of Pub. L. 96–465, set out as an Effective Date note under section 3901 of this title.

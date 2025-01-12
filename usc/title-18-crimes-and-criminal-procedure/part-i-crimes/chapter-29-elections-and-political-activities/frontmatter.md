@@ -50,6 +50,8 @@ Sec.
 
 By Senate amendment, item 610 was changed to read, "610. Contributions or expenditures by national banks, corporations, or labor organizations". See Senate Report No. 1620, amendment Nos. 4 and 5, 80th Cong.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1996**—Pub. L. 104–208, div. C, title II, §216(b), Sept. 30, 1996, 110 Stat. 3009–573, added item 611.
@@ -71,6 +73,8 @@ Pub. L. 94–283 title II, §201(b), May 11, 1976, 90 Stat. 496, struck out item
 **1972**—Pub. L. 92–225, title II, §207, Feb. 7, 1972, 86 Stat. 11, substituted "contributions and expenditures" for "political contributions and purchases" in item 608, "Repealed" for "Maximum contributions and expenditures" in item 609, and "Government contractors" for "firms or individuals contracting with the United States" in item 611.
 
 **1966**—Pub. L. 89–486, §8(c)(1), July 4, 1966, 80 Stat. 249, added item 613.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### State Laws Affected; Definitions ####
 

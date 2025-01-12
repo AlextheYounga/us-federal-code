@@ -28,6 +28,8 @@ Sec.
 
 443. War contracts.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2019**—Pub. L. 116–78, §1(b), Dec. 5, 2019, 133 Stat. 1176, substituted "Government Publishing Office" for "Printing contracts" in item 442.

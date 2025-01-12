@@ -60,9 +60,13 @@ If a bill or joint resolution is passed in an amended form (including if passed 
 
 (Pub. L. 93–344, title IV, §424, as added Pub. L. 104–4, title I, §101(a)(2), Mar. 22, 1995, 109 Stat. 55; amended Pub. L. 106–141, §2(b), Dec. 7, 1999, 113 Stat. 1699.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1999**—Subsec. (a)(3), (4). Pub. L. 106–141 added par. (3) and redesignated former par. (3) as (4).
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date ####
 

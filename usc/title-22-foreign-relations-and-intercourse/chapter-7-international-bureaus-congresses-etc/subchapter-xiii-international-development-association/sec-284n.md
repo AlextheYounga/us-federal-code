@@ -6,6 +6,8 @@
 
 (Pub. L. 86–565, §16, as added Pub. L. 95–118, title IV, §401, Oct. 3, 1977, 91 Stat. 1068.)
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date ####
 
 Section effective Oct. 3, 1977, except that no funds authorized to be appropriated by this section may be available for use or obligation prior to Oct. 1, 1977, see section 1001 of Pub. L. 95–118, set out as a note under section 282i of this title.

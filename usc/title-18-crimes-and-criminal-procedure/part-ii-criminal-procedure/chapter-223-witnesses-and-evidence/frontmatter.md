@@ -68,6 +68,8 @@ Sec.
 
 3512. Foreign requests for assistance in criminal investigations and prosecutions.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2009**—Pub. L. 111–79, §2(5), Oct. 19, 2009, 123 Stat. 2089, added item 3512.
@@ -99,6 +101,8 @@ Pub. L. 104–191, title II, §248(b), Aug. 21, 1996, 110 Stat. 2019, added item
 **1957**—Pub. L. 85–269, Sept. 2, 1957, 71 Stat. 596, added item 3500.
 
 **1954**—Act Aug. 20, 1954, ch. 769, §2, 68 Stat. 746, rephrased item 3486.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Protected Facilities for Housing Government Witnesses ####
 

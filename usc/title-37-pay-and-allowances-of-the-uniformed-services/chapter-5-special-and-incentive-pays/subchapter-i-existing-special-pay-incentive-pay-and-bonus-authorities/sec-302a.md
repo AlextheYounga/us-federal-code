@@ -34,6 +34,8 @@ who is on active duty as a result of a call or order to active duty for a period
 
 (Added Pub. L. 92–129, title II, §202(a), Sept. 28, 1971, 85 Stat. 357; amended Pub. L. 93–64, title II, §202, July 9, 1973, 87 Stat. 149; Pub. L. 95–114, §2, Sept. 30, 1977, 91 Stat. 1046; Pub. L. 95–485, title VIII, §801(b), Oct. 20, 1978, 92 Stat. 1619; Pub. L. 96–284, §4(a), June 28, 1980, 94 Stat. 591; Pub. L. 100–26, §8(d)(2), Apr. 21, 1987, 101 Stat. 285; Pub. L. 101–510, div. A, title VI, §617(a), Nov. 5, 1990, 104 Stat. 1578; Pub. L. 104–201, div. A, title VI, §614(a), Sept. 23, 1996, 110 Stat. 2544; Pub. L. 106–398, §1 [[div. A], title VI, §626(a)(1)], Oct. 30, 2000, 114 Stat. 1654, 1654A–153; Pub. L. 107–314, div. A, title VI, §615(d), Dec. 2, 2002, 116 Stat. 2568; Pub. L. 109–163, div. A, title VI, §687(b)(5), Jan. 6, 2006, 119 Stat. 3328.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2006**—Subsec. (b)(4). Pub. L. 109–163 amended par. (4) generally. Prior to amendment, par. (4) read as follows: "The Secretary concerned may terminate at any time the eligibility of an officer to receive retention special pay under paragraph (1). If such eligibility is terminated, the officer concerned shall receive such special pay only for the part of the period of active duty that the officer served and may be required to refund any amount in excess of that amount."
@@ -61,6 +63,8 @@ Subsec. (b)(4). Pub. L. 104–201, §614(a)(2), struck out "of the military depa
 Subsecs. (b), (c). Pub. L. 95–114 reenacted subsec. (b) without change and added subsec. (c).
 
 **1973**—Subsec. (a). Pub. L. 93–64 substituted "July 1, 1975" for "July 1, 1973" wherever appearing.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Change of Name ####
 

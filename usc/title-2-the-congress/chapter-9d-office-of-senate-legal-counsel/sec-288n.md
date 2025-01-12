@@ -4,6 +4,8 @@ Funds expended by the Senate Legal Counsel for travel and related expenses shall
 
 (Pub. L. 98–51, title I, §106, July 14, 1983, 97 Stat. 267.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section was enacted as part of the Congressional Operations Appropriation Act, 1984, which is title I of the Legislative Branch Appropriation Act, 1984, and not as part of title VII of Pub. L. 95–521 which in part comprises this chapter.

@@ -28,6 +28,8 @@ is entitled to transportation, or an allowance for transportation under section 
 
 (Added Pub. L. 101–189, div. A, title VI, §624(a)(1), Nov. 29, 1989, 103 Stat. 1447, §406c; amended Pub. L. 102–190, div. A, title VI, §622, Dec. 5, 1991, 105 Stat. 1378; renumbered §476c and amended Pub. L. 112–81, div. A, title VI, §631(d)(2), (e)(9), (f)(4)(A), Dec. 31, 2011, 125 Stat. 1460, 1462, 1465; Pub. L. 112–239, div. A, title X, §1076(a)(9), Jan. 2, 2013, 126 Stat. 1948.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Section 2634 of title 10, referred to in subsec. (c), was repealed by Pub. L. 113–66, div. A, title VI, §621(g)(1), Dec. 26, 2013, 127 Stat. 784.
@@ -43,6 +45,8 @@ Pub. L. 112–81, §631(d)(2), renumbered section 406c of this title as this sec
 Subsec. (e). Pub. L. 112–81, §631(e)(9), added subsec. (e).
 
 **1991**—Subsec. (b)(1). Pub. L. 102–190 substituted "the designated home port of the ship, or the area where the dependents of the member are residing," for "the location that was the home port of the ship before commencement of construction".
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 2013 Amendment ####
 

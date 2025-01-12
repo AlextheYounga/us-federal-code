@@ -571,6 +571,8 @@ Provisions of this chapter are derived from the Foreign Service Act of 1946, for
 |   4223   |           99           |
 |4224–4226 |        812–814         |
 
+#### **Executive Documents** ####
+
 #### Foreign Commercial Service ####
 
 For authority of Secretary of Commerce to establish a Foreign Commercial Service in Department of Commerce, see section 1–104 of Ex. Ord. No. 12188, Jan. 2, 1980, 45 F.R. 991, as amended, set out as a note under section 2171 of Title 19, Customs Duties.

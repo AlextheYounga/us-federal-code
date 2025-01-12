@@ -20,6 +20,8 @@ The preceding provisions of this section do not apply to the Committees on Appro
 
 (Aug. 2, 1946, ch. 753, title I, §136, 60 Stat. 832; Pub. L. 91–510, title I, §118(a)(1), Oct. 26, 1970, 84 Stat. 1156; Pub. L. 92–136, §1, Oct. 11, 1971, 85 Stat. 376; Pub. L. 93–344, title VII, §701, title IX, §903(b), July 12, 1974, 88 Stat. 325, 331; Pub. L. 104–186, title II, §206(1), Aug. 20, 1996, 110 Stat. 1742.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1996**—Subsec. (c). Pub. L. 104–186 substituted "House Oversight" for "House Administration".
@@ -37,6 +39,8 @@ Subsec. (c). Pub. L. 92–136 inserted reference to Committees on Appropriations
 **1970**—Subsec. (a). Pub. L. 91–510 incorporated existing subject matter in provisions designated as subsec. (a), restricted the text to standing committees of Senate, revised phraseology to require standing committees to review and study, on a continuing basis, application, administration, and execution of laws and parts of laws for prior provision for exercise of continuous watchfulness of execution of laws by administrative agencies concerned, and in providing for assistance to the Senate, rather than the Congress, included analysis and evaluation of laws enacted by Congress and substituted provision for formulation, consideration, and enactment of modifications or changes in the laws and of additional legislation as necessary or appropriate for prior provisions for assistance in developing amendments or related legislation as may be necessary.
 
 Subsecs. (b), (c). Pub. L. 91–510 added subsecs. (b) and (c).
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Change of Name ####
 

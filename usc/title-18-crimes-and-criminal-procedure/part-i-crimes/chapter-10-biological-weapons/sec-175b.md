@@ -58,6 +58,8 @@
 
 (Added Pub. L. 107–56, title VIII, §817(2), Oct. 26, 2001, 115 Stat. 385; amended Pub. L. 107–188, title II, §231(a), (b)(1), (c)(2), June 12, 2002, 116 Stat. 660, 661; Pub. L. 107–273, div. B, title IV, §4005(g), Nov. 2, 2002, 116 Stat. 1813; Pub. L. 108–458, title VI, §6802(c), (d)(1), Dec. 17, 2004, 118 Stat. 3767; Pub. L. 116–31, §2, July 25, 2019, 133 Stat. 1034.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Section 351A of the Public Health Service Act, referred to in subsecs. (b)(1) and (c)(1), is classified to section 262a of Title 42, The Public Health and Welfare.
@@ -97,6 +99,8 @@ Subsec. (d). Pub. L. 107–188, §231(a)(4), redesignated subsec. (b) as (d).
 Subsec. (d)(1). Pub. L. 107–188, §231(b)(1)(A), substituted "The term 'select agent' means a biological agent or toxin to which subsection (a) applies. Such term (including for purposes of subsection (a)) does not include" for "The term 'select agent' does not include".
 
 Subsec. (d)(3). Pub. L. 107–188, §231(c)(2)(B), substituted "section 101(a)(3)" for "section 1010(a)(3)".
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 2004 Amendment ####
 

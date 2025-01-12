@@ -4,6 +4,8 @@ Section 72a–1, acts Feb. 19, 1947, ch. 4, 61 Stat. 5; June 14, 1948, ch. 467, 
 
 Section 72a–1a, acts Aug. 5, 1955, ch. 568, §1, 69 Stat. 505; June 20, 1958, Pub. L. 85–462, §4(h), 72 Stat. 208; Aug. 27, 1966, Pub. L. 89–545, 80 Stat. 357, limited compensation of committee staff employees. See section 4575(e) of this title.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Repeal effective Aug. 1, 1967, see section 105(k) of Pub. L. 90–57, set out as an Effective Date note under section 4575 of this title.

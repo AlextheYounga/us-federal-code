@@ -6,6 +6,8 @@ Section 927, act Aug. 13, 1946, ch. 957, title V, §527, 60 Stat. 1010, related 
 
 Section 928, acts Aug. 13, 1946, ch. 957, title V, §528, 60 Stat. 1010; Sept. 8, 1960, Pub. L. 86–723, §11, 74 Stat. 833, related to reinstatement of Reserve officers.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Repeal effective Feb. 15, 1981, except as otherwise provided, see section 2403 of Pub. L. 96–465, set out as an Effective Date note under section 3901 of this title.

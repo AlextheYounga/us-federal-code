@@ -4,6 +4,8 @@ Notwithstanding any other provision of law that restricts assistance to foreign 
 
 (Pub. L. 87–195, pt. II, §571, as added Pub. L. 98–151, §101(b)(2), Nov. 14, 1983, 97 Stat. 972; amended Pub. L. 104–164, title I, §121(a), July 21, 1996, 110 Stat. 1428.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section 571 of Pub. L. 87–195 is based on section 201 of title II of H.R. 2992, Ninety-eighth Congress, as reported May 17, 1983, and enacted into law by Pub. L. 98–151.
@@ -12,9 +14,13 @@ Section 571 of Pub. L. 87–195 is based on section 201 of title II of H.R. 2992
 
 **1996**—Pub. L. 104–164 substituted "Notwithstanding any other provision of law that restricts assistance to foreign countries (other than sections 2304 and 2371 of this title)" for "Subject to the provisions of this part".
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date ####
 
 Section 203 of title II of H.R. 2992, as enacted into permanent law by Pub. L. 98–151, §101(b)(2), Nov. 14, 1983, 97 Stat. 972, provided that: "This title [enacting this part and amending sections 2304 and 2403 of this title] shall take effect on the date of enactment of this Act [Nov. 14, 1983]."
+
+#### **Executive Documents** ####
 
 #### Delegation of Functions ####
 

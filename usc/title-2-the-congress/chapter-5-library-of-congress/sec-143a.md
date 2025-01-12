@@ -4,6 +4,8 @@ From and after October 1, 1978, funds available to the Library of Congress may b
 
 (Pub. L. 96–536, §101(c), Dec. 16, 1980, 94 Stat. 3167.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Sections 444, 911(9), 911(11), and 941 of the Foreign Service Act of 1946, referred to in text, were repealed by section 2205(1) of the Foreign Service Act of 1980, Pub. L. 96–465, title II, Oct. 17, 1980, 94 Stat. 2159. The Foreign Service Act of 1980 is classified principally to chapter 52 (§3901 et seq.) of Title 22, Foreign Relations and Intercourse. Section 2401(c) of the 1980 Act (22 U.S.C. 4172(c)) provides in part that references in law to provisions of the Foreign Service Act of 1946 shall be deemed to include reference to the corresponding provisions of the 1980 Act. For provisions corresponding to the above cited sections of the 1946 Act, see sections 408, 901(6), 901(8), and 904 of the 1980 Act (22 U.S.C. 3968, 4081(6), 4081(8), 4084).

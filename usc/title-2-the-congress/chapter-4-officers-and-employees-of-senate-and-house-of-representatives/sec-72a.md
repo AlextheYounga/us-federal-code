@@ -1,8 +1,12 @@
 ### §72a. Transferred ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section 72a was editorially reclassified as section 4301 of this title.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Overtime Pay for FBI Employees Detailed to House Committee on Appropriations ####
 

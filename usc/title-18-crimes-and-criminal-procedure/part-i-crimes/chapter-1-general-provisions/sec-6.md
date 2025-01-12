@@ -14,6 +14,8 @@ This section defines the terms "department" and "agency" of the United States. T
 
 The phrase "corporation in which the United States has a proprietary interest" is intended to include those governmental corporations in which stock is not actually issued, as well as those in which stock is owned by the United States. It excludes those corporations in which the interest of the Government is custodial or incidental.
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Section 1 of Title 5, referred to in text, was repealed by Pub. L. 89–554, §8, Sept. 6, 1966, 80 Stat. 632, and reenacted by the first section thereof as section 101 of Title 5, Government Organization and Employees.

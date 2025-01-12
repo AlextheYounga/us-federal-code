@@ -1,5 +1,7 @@
 ### §§127, 128. Transferred ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section 127, R.S. §1745, which related to regulation of fees by President, was transferred to section 4219 of this title.

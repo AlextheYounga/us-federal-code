@@ -4,6 +4,8 @@ Funds appropriated on and after September 30, 1996, or otherwise made available 
 
 (Pub. L. 104–208, div. A, title I, §101(a) [title IV, §403], Sept. 30, 1996, 110 Stat. 3009, 3009–54.)
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Similar Provisions ####
 
 Similar provisions were contained in the following prior appropriation acts:

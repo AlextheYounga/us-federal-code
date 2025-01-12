@@ -18,6 +18,8 @@ Sec.
 
 158. Designation of United States attorneys and agents of the Federal Bureau of Investigation to address abusive reaffirmations of debt and materially fraudulent statements in bankruptcy schedules.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2005**—Pub. L. 109–8, title II, §203(b)(2), Apr. 20, 2005, 119 Stat. 49, added item 158.

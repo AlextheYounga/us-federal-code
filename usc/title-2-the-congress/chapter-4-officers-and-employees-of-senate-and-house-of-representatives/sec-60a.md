@@ -1,5 +1,7 @@
 ### §60a. Omitted ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Present provisions relating to personnel and compensation of Congressional officers and employees may be found elsewhere in this chapter and in Acts and Resolutions cited in notes hereunder. Section was based on the following acts:
@@ -77,6 +79,8 @@ June 25, 1938, ch. 681, 52 Stat. 1114.
 **1929**—June 20, 1929, ch. 33, 46 Stat. 32.
 
 In addition to these acts the following House Resolutions affected the salary of certain employees and were made permanent law by section 105 of act July 17, 1947, ch. 262, 61 Stat. 377: House Resolutions 628, 691, and 693 of the Seventy-ninth Congress and House Resolutions 42, 54, 74, 78, 96, 113, and 183 [which related to Office of Coordinator of Information of the House and which was repealed by Pub. L. 91–510, title III, §322, Oct. 26, 1970, 84 Stat. 1185] of the Eightieth Congress. House Resolutions 281 and 336 of the Eightieth Congress were made permanent law by act June 14, 1948, ch. 467, §105, 62 Stat. 437. House Resolutions No. 653 of the Eightieth Congress, and 6, 39, 45, 62, 84, 103, 172, and 188 of the 81st Congress were made permanent law by act June 22, 1949, ch. 235, §105, 63 Stat. 230.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Legislative Branch Appropriation Acts ####
 

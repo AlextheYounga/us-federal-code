@@ -8,6 +8,8 @@ Sec.
 
 1623. False declarations before grand jury or court.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1970**—Pub. L. 91–452, title IV, §401(b), Oct. 15, 1970, 84 Stat. 933, added item 1623.

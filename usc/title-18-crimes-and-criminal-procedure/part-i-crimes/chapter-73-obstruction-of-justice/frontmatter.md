@@ -46,6 +46,8 @@ Sec.
 
 1521. Retaliating against a Federal judge or Federal law enforcement officer by false claim or slander of title.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2008**—Pub. L. 110–177, title II, §201(b), Jan. 7, 2008, 121 Stat. 2536, added item 1521.

@@ -34,6 +34,8 @@ Sec.
 
 101122. Authorization of appropriations; use of funds.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2016**—Pub. L. 114–289, title II, §202(b), title IV, §402(b), Dec. 16, 2016, 130 Stat. 1486, 1488, added items 101121 and 101122.

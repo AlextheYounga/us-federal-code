@@ -10,6 +10,8 @@ Sec.
 
 308404. Sunset.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2019**—Pub. L. 116–9, title II, §2407(a), Mar. 12, 2019, 133 Stat. 750, substituted "African American Civil Rights Network" for "U.S. Civil Rights Network" in chapter heading and in item 308402.

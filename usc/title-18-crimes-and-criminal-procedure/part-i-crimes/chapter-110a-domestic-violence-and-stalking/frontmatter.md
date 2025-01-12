@@ -18,6 +18,8 @@ Sec.
 
 2266. Definitions.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1996**—Pub. L. 104–294, title VI, §604(a)(1), Oct. 11, 1996, 110 Stat. 3506, amended analysis by inserting "Sec." above section numbers.

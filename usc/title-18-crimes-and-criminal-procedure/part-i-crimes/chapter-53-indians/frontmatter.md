@@ -42,6 +42,8 @@ Sec.
 
 1170. Illegal trafficking in Native American human remains and cultural items.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1996**—Pub. L. 104–294, title VI, §604(b)(26), Oct. 11, 1996, 110 Stat. 3508, directed that item 1169 be transferred to appear after item 1168.

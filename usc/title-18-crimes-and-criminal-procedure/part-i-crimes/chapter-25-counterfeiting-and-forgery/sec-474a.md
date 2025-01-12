@@ -16,9 +16,13 @@
 
 (Added Pub. L. 102–550, title XV, §1553(a), Oct. 28, 1992, 106 Stat. 4070; amended Pub. L. 104–208, div. A, title I, §101(f) [title VI, §648(a)], title II, §2603(a), Sept. 30, 1996, 110 Stat. 3009–314, 3009–367, 3009–470.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1996**—Subsecs. (a), (b). Pub. L. 104–208, §§101(f) [title VI, §648(a)] and 2603(a), amended section identically, substituting "class B felony" for "class C felony".
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 1996 Amendment ####
 

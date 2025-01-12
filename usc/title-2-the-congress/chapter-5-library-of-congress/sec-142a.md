@@ -4,6 +4,8 @@ From and after June 10, 1928, the office of administrative assistant and disburs
 
 (May 11, 1928, ch. 521, 45 Stat. 497; Pub. L. 92–310, title II, §220(h), June 6, 1972, 86 Stat. 205.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Section 142 of this title, referred to in text, was omitted from the Code.
@@ -11,6 +13,8 @@ Section 142 of this title, referred to in text, was omitted from the Code.
 #### Amendments ####
 
 **1972**—Pub. L. 92–310 struck out provisions which required the person disbursing appropriations for Library of Congress and Botanic Garden to give a bond in sum of $30,000.
+
+#### **Executive Documents** ####
 
 #### Transfer of Functions ####
 

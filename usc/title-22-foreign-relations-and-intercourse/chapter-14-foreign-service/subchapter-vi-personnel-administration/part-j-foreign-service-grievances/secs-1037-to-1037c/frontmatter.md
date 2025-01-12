@@ -8,6 +8,8 @@ Section 1037b, act Aug. 13, 1946, ch. 957, title VI, §693, as added Nov. 29, 19
 
 Section 1037c, act Aug. 13, 1946, ch. 957, title VI, §694, as added Nov. 29, 1975, Pub. L. 94–141, title IV, §404(a), 89 Stat. 770, related to judicial review of regulations and final actions.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Repeal effective Feb. 15, 1981, except as otherwise provided, see section 2403 of Pub. L. 96–465, set out as an Effective Date note under section 3901 of this title.

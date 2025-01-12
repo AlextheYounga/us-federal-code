@@ -4,6 +4,8 @@ The Secretary is authorized, when the Commission is desirous of obtaining the se
 
 (Jan. 28, 1948, ch. 38, §4, 62 Stat. 16.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Act of May 25, 1938 (52 Stat. 442), as amended, referred to in text, is act May 25, 1938, ch. 277, 52 Stat. 442, as amended, which was classified to section 118e of former title 5, Executive Departments and Government Officers and Employees, and was repealed by act Jan. 26, 1948, ch. 36, §1004(a), 62 Stat. 13. Section 1004(c) of act Jan. 26, 1948, provided that any reference to provisions of act May 25, 1938 shall be construed to be applicable to the appropriate provisions of titles III and IX of act Jan. 26, 1948 [see sections 1451 et seq., 1478 and 1479 of this title].

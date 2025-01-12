@@ -1,5 +1,7 @@
 ### §§811 to 817c. Omitted ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Sections were omitted pursuant to section 817b of this title which provided that the Congressional Recognition for Excellence in Arts Education Awards Board terminated 6 years after November 22, 2000.

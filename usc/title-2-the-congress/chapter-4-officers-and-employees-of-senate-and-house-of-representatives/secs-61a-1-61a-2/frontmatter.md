@@ -1,5 +1,7 @@
 ### §§61a–1, 61a–2. Omitted ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section 61a–1, acts June 27, 1956, ch. 453, §101, 70 Stat. 356; July 9, 1971, Pub. L. 92–51, §101, 85 Stat. 125, provided for rate of compensation of Chief Clerk of Senate which office was superseded by Assistant Secretary of Senate.

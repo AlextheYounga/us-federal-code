@@ -104,6 +104,8 @@ shall be punished as provided for in subsection (b).
 
 (Added Pub. L. 102–346, §2(a), Aug. 26, 1992, 106 Stat. 928; amended Pub. L. 104–294, title VI, §601(r)(3), Oct. 11, 1996, 110 Stat. 3502; Pub. L. 107–188, title III, §336, June 12, 2002, 116 Stat. 681; Pub. L. 109–374, §2(a), Nov. 27, 2006, 120 Stat. 2652.)
 
+#### **Editorial Notes** ####
+
 #### Prior Provisions ####
 
 A prior section 43, acts June 25, 1948, ch. 645, 62 Stat. 687; Sept. 2, 1960, Pub. L. 86–702, §2, 74 Stat. 754; Dec. 5, 1969, Pub. L. 91–135, §7(a), 83 Stat. 279, related to transportation of wildlife taken in violation of State, national, or foreign law, the receipt of such wildlife, and the making of false records in relation thereto, prior to repeal by Pub. L. 97–79, §9(b)(2), Nov. 16, 1981, 95 Stat. 1079. See section 3372(a) of Title 16, Conservation.
@@ -120,13 +122,15 @@ Subsec. (c)(3). Pub. L. 107–188, §336(c), added par. (3).
 
 **1996**—Subsec. (c). Pub. L. 104–294 inserted "or 3663A" after "section 3663" in introductory provisions.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Short Title ####
 
 Pub. L. 102–346, §1, Aug. 26, 1992, 106 Stat. 928, provided that: "This Act [enacting this section and provisions set out below] may be cited as the 'Animal Enterprise Protection Act of 1992'."
 
 #### Study of Effect of Terrorism on Certain Animal Enterprises ####
 
-Section 3 of Pub. L. 102–346 directed Attorney General and Secretary of Agriculture to jointly conduct a study on extent and effects of domestic and international terrorism on enterprises using animals for food or fiber production, agriculture, research, or testing, and, not later than 1 year after Aug. 26, 1992, submit a report that describes the results of the study together with any appropriate recommendations and legislation to Congress.
+Pub. L. 102–346, §3, Aug. 26, 1992, 106 Stat. 929, directed Attorney General and Secretary of Agriculture to jointly conduct a study on extent and effects of domestic and international terrorism on enterprises using animals for food or fiber production, agriculture, research, or testing, and, not later than 1 year after Aug. 26, 1992, submit a report that describes the results of the study together with any appropriate recommendations and legislation to Congress.
 
 [<sup>1</sup> So in original. Probably should be "subsection".](#43_1)
 

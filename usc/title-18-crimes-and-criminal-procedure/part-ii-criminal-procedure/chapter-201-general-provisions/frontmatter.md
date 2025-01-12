@@ -32,6 +32,8 @@ Sec.
 
 3014. Additional special assessment.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2015**—Pub. L. 114–22, title I, §101(b), May 29, 2015, 129 Stat. 230, added item 3014.
@@ -39,6 +41,8 @@ Sec.
 **1984**—Pub. L. 98–473, title II, §§218(c), 1405(b), Oct. 12, 1984, 98 Stat. 2027, 2175, added item 3013 and substituted "Repealed" for "Orders respecting persons in custody" in item 3012.
 
 **1964**—Pub. L. 88–455, §4, Aug. 20, 1964, 78 Stat. 554, added item 3006A.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Video Teleconferencing for Criminal Proceedings ####
 
@@ -103,6 +107,8 @@ Pub. L. 116–136, div. B, title V, §15002, Mar. 27, 2020, 134 Stat. 527, provi
 #### Law Enforcement Assistance Act of 1965 ####
 
 Note regarding Pub. L. 89–197, §§1–11, Sept. 22, 1965, 79 Stat. 828, which was amended and subsequently repealed, has been editorially reclassified in a note preceding section 10101 of Title 34, Crime Control and Law Enforcement.
+
+#### **Executive Documents** ####
 
 #### Coordination of Federal Law Enforcement and Crime Prevention Programs ####
 

@@ -10,6 +10,8 @@ Sec.
 
 30504. Assessment of science mission extensions.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Assessment of Impediments to Space Science and Engineering Workforce Development for Minority and Underrepresented Groups at NASA ####
 
 Pub. L. 111–358, title II, §203, Jan. 4, 2011, 124 Stat. 3994, provided that:
@@ -25,6 +27,8 @@ Pub. L. 111–358, title II, §203, Jan. 4, 2011, 124 Stat. 3994, provided that:
 "(b) Report.—A report on the assessment carried out under subsection (a) shall be transmitted to the House of Representatives Committee on Science and Technology [now Committee on Science, Space, and Technology] and the Senate Committee on Commerce, Science, and Transportation not later than 15 months after the date of enactment of this Act [Jan. 4, 2011].
 
 "(c) Implementation.—To the extent practicable, the Administrator shall take all necessary steps to address any impediments identified in the assessment."
+
+#### **Executive Documents** ####
 
 #### Ex. Ord. No. 11374. Abolition of Missile Sites Labor Commission ####
 

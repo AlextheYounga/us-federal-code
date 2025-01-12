@@ -6,9 +6,13 @@
 
 (Pub. L. 86–565, §18, as added Pub. L. 98–473, title I, §101(1) [title I], Oct. 12, 1984, 98 Stat. 1884, 1885.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section 18 of Pub. L. 86–565 is based on section 901 of S. 2582, Ninety-eighth Congress, as reported Apr. 18, 1984, and enacted into law by Pub. L. 98–473.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Credits Available to Sub-Saharan Africa ####
 

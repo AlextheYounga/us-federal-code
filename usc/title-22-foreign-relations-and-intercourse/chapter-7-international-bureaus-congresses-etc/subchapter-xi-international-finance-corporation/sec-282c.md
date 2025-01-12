@@ -4,6 +4,8 @@ Unless Congress by law authorizes such action, neither the President nor any per
 
 (Aug. 11, 1955, ch. 788, §5, 69 Stat. 669; Pub. L. 87–185, Aug. 30, 1961, 75 Stat. 413.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1961**—Pub. L. 87–185 authorized acceptance of an amendment to the articles of agreement of the Corporation to permit investment in capital stock and to limit the exercise of voting rights.

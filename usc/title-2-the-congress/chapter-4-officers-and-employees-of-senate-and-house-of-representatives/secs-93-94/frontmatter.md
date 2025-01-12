@@ -1,5 +1,7 @@
 ### §§93, 94. Omitted ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section 93, act June 28, 1886, No. 15, 24 Stat. 342, related to time of beginning of compensation of committee clerks. See section 4301 of this title and Rules of House of Representatives.

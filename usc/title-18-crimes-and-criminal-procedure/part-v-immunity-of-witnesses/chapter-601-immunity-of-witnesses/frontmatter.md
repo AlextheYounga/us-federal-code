@@ -12,6 +12,8 @@ Sec.
 
 6005. Congressional proceedings.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1994**—Pub. L. 103–322, title XXXIII, §330013(1), Sept. 13, 1994, 108 Stat. 2146, added heading for chapter 601.

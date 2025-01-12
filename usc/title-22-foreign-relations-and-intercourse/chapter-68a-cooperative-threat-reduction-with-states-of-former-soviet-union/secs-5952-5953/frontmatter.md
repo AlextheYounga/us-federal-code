@@ -4,6 +4,8 @@ Section 5952, Pub. L. 103–160, div. A, title XII, §1203, Nov. 30, 1993, 107 S
 
 Section 5953, Pub. L. 103–160, div. A, title XII, §1204, Nov. 30, 1993, 107 Stat. 1779, authorized designation of Demilitarization Enterprise Fund.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Utilization of Contributions to the Cooperative Threat Reduction Program ####
 
 Pub. L. 111–84, div. A, title XIII, §1303, Oct. 28, 2009, 123 Stat. 2557, as amended by Pub. L. 113–66, div. A, title XIII, §1303, Dec. 26, 2013, 127 Stat. 931, which authorized the Secretary of Defense, through Dec. 31, 2018, to enter into agreements with any person (including a foreign government, international organization, multinational entity, or any other entity) under which the person would contribute funds for activities conducted under the Cooperative Threat Reduction Program, was repealed by Pub. L. 113–291, div. A, title XIII, §1351(12)(A), Dec. 19, 2014, 128 Stat. 3607.

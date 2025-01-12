@@ -8,6 +8,8 @@ There is hereby authorized to be appropriated to the Department of State, out of
 
 (Mar. 4, 1948, ch. 97, §2, 62 Stat. 66; Oct. 28, 1949, ch. 782, title II, §202(2), title XI, §1106(a), 63 Stat. 954, 972.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Subchapter XVII [§287m et seq.] of this chapter, referred to in subsec. (b), was in the original a reference to the Act of July 30, 1946 (Public Law 565, Seventy-ninth Congress).
@@ -23,6 +25,8 @@ In subsec. (b), "section 6101 of title 41" substituted for "section 3709 of the 
 #### Amendments ####
 
 **1949**—Subsec. (b). Act Oct. 28, 1949, substituted "Classification Act of 1949" for "Classification Act of 1923".
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Repeals ####
 

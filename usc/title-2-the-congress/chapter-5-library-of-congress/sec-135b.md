@@ -6,6 +6,8 @@
 
 (Mar. 3, 1931, ch. 400, §2, 46 Stat. 1487; Pub. L. 89–522, §1, July 30, 1966, 80 Stat. 330.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Section 135a–1 of this title, referred to in subsec. (a), was repealed by Pub. L. 116–94, div. P, title XIV, §1403(b), Dec. 20, 2019, 133 Stat. 3207. See section 135a of this title.

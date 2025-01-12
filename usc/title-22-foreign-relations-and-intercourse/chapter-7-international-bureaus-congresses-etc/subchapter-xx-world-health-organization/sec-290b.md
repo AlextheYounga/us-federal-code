@@ -12,6 +12,8 @@ There are hereby authorized to be appropriated to the Department of State for co
 
 (June 14, 1948, ch. 469, §3, 62 Stat. 441; Oct. 28, 1949, ch. 782, title II, §202(2), title XI, §1106(a), 63 Stat. 954, 972; Sept. 21, 1950, ch. 976, §1(d), 64 Stat. 902; Aug. 26, 1954, ch. 937, title IV, §419, as added July 8, 1955, ch. 301, §8(j), 69 Stat. 288.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Subchapter XVII [§287m et seq.] of this chapter, referred to in subsec. (b)(2), was in the original a reference to the Act of July 30, 1946, Public Law 565, Seventy-ninth Congress.
@@ -33,6 +35,8 @@ In subsec. (b)(1), "section 6101 of title 41" substituted for "section 3709 of t
 Subsec. (a). Joint Res. Sept. 21, 1950, §1(d)(2), increased authorized annual appropriation from $1,920,000 to $3,000,000.
 
 **1949**—Subsec. (b)(1). Act Oct. 28, 1949, substituted "Classification Act of 1949" for "Classification Act of 1923".
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Repeals ####
 

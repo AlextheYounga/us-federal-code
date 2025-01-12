@@ -62,6 +62,8 @@ Sec.
 
 670. Theft of medical products.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2012**—Pub. L. 112–186, §2(b), Oct. 5, 2012, 126 Stat. 1428, added item 670.
@@ -81,6 +83,8 @@ Pub. L. 104–191, title II, §243(b), Aug. 21, 1996, 110 Stat. 2017, added item
 **1966**—Pub. L. 89–654, §1(e), Oct. 14, 1966, 80 Stat. 904, substituted "shipments by carrier" for "baggage, express or freight" in item 659.
 
 **1962**—Pub. L. 87–420, §17(b), Mar. 20, 1962, 76 Stat. 42, added item 664.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Saint Lawrence Seaway Development Corporation ####
 

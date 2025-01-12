@@ -46,6 +46,8 @@ In addition to amounts otherwise available for such purposes, $4,000,000 of the 
 
 (Pub. L. 95–426, title I, §105, Oct. 7, 1978, 92 Stat. 965.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Section 2151q of this title, referred to in subsec. (a)(3), was repealed by Pub. L. 96–533, title III, §304(g), Dec. 16, 1980, 94 Stat. 3147. See section 2151d(a)(2), (b)(2), (c) of this title.

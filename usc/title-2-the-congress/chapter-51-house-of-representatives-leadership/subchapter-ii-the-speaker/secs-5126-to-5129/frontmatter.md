@@ -8,6 +8,8 @@ Section 5128, Pub. L. 91–665, ch. VIII, Jan. 8, 1971, 84 Stat. 1989; Pub. L. 9
 
 Section 5129, Pub. L. 103–69, title I, §101A(a), Aug. 11, 1993, 107 Stat. 699, provided that the entitlements of a former Speaker of the House of Representatives under sections 5125 to 5129 of this title would be available for 5 years.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Repeal applicable with respect to any individual who serves as a Representative in Congress during the One Hundred Fifteenth Congress or any succeeding Congress, see section 118(c) of Pub. L. 115–244, set out as a note under section 5125 of this title.

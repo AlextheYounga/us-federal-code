@@ -20,6 +20,8 @@ Sec.
 
 1839. Definitions.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2016**—Pub. L. 114–153, §2(d)(2), May 11, 2016, 130 Stat. 381, substituted "Civil proceedings" for "Civil proceedings to enjoin violations" in item 1836.

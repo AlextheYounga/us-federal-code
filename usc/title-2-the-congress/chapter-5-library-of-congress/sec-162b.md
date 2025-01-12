@@ -64,9 +64,13 @@ The Librarian of Congress may prescribe regulations to carry out this section.
 
 (Pub. L. 106–554, §1(a)(2) [title II, §210], Dec. 21, 2000, 114 Stat. 2763, 2763A–114.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Section 205(g)(1) of the Legislative Branch Appropriations Act, 1991, referred to in subsec. (a)(1)(A), is section 205(g)(1) of Pub. L. 101–520, which is set out as a note under section 141 of this title.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Funding for Little Scholars Child Development Center and Tiny Findings Child Development Center ####
 

@@ -10,6 +10,8 @@ Sec.
 
 71104. Planetary radar.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### George E. Brown, Jr. Near-Earth Object Survey ####
 
 Pub. L. 109–155, title III, §321, Dec. 30, 2005, 119 Stat. 2922, as amended by Pub. L. 115–10, title V, §511, Mar. 21, 2017, 131 Stat. 51, provided that:

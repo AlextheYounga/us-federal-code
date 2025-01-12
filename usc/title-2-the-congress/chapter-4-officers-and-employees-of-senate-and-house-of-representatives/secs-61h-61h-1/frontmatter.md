@@ -1,5 +1,7 @@
 ### §§61h, 61h–1. Omitted ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section 61h, Pub. L. 93–371, §4, Aug. 13, 1974, 88 Stat. 429; Pub. L. 94–59, title I, §105, July 25, 1975, 89 Stat. 275; Pub. L. 116–94, div. E, title II, §212(a)(3)(A), Dec. 20, 2019, 133 Stat. 2775, set forth maximum annual rate of compensation for Assistant Secretaries for Senate Majority and Minority. Pub. L. 95–94, title I, Aug. 5, 1977, 91 Stat. 658, abolished such positions, effective Oct. 1, 1977, and authorized Secretaries concerned to appoint and fix compensation of such employees as they deem appropriate. See section 6152 of this title.

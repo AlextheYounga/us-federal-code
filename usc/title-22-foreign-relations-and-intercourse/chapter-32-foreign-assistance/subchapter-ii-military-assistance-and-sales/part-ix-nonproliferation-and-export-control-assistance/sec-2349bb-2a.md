@@ -24,6 +24,8 @@ In selecting personnel for education and training pursuant to this section, prio
 
 (Pub. L. 87–195, pt. II, §584, as added Pub. L. 107–228, div. B, title XIII, §1303(2), Sept. 30, 2002, 116 Stat. 1436.)
 
+#### **Editorial Notes** ####
+
 #### Prior Provisions ####
 
 A prior section 584 of Pub. L. 87–195 was renumbered section 585 and is classified to section 2349bb–3 of this title.

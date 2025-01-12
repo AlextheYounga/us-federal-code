@@ -1,5 +1,7 @@
 ### §§661 to 672. Omitted ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Sections 661 to 672, which established the American Mexican Claims Commission in 1942 for the settlement of certain claims, expired pursuant to the provisions of section 661(d), which provided that the authority of the Commission shall terminate at the expiration of four years after the date on which a majority of its members first appointed took office.

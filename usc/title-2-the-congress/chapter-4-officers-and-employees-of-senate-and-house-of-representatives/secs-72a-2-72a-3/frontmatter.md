@@ -1,5 +1,7 @@
 ### §§72a–2, 72a–3. Omitted ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section 72a–2, acts July 20, 1951, ch. 237, §§1–3, 65 Stat. 123; Aug. 5, 1955, ch. 568, §§1, 8, 69 Stat. 501, 509; Feb. 14, 1956, ch. 34, Ch. IV, 70 Stat. 13; June 27, 1956, ch. 453, 70 Stat. 357; July 28, 1967, Pub. L. 90–57, §103, 81 Stat. 141; Aug. 18, 1970, Pub. L. 91–382, §103, 84 Stat. 825, prescribed basic compensation of employees of House and Senate press, periodical, and radio galleries, and was omitted for lack of general applicability.

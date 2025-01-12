@@ -26,6 +26,8 @@ Section 179k, Pub. L. 102–307, title II, §213, June 26, 1992, 106 Stat. 272, 
 
 For similar provisions, see section 179l et seq. of this title.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Short Title ####
 
 Pub. L. 102–307, title II, §201, June 26, 1992, 106 Stat. 267, which provided that title II of Pub. L. 102–307, which enacted sections 179 to 179k of this title and repealed sections 178 to 178l of this title and provisions set out as a note under section 178 of this title, was to be cited as the "National Film Preservation Act of 1992", was repealed by Pub. L. 104–285, title I, §114, Oct. 11, 1996, 110 Stat. 3382.

@@ -8,6 +8,8 @@ The Disbursing Officer of the Library of Congress shall not be held accountable 
 
 (Pub. L. 104–197, title II, §208, Sept. 16, 1996, 110 Stat. 2409.)
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Change of Name ####
 
 Office of Compliance changed, as of Dec. 21, 2018, and considered to refer and apply, to the Office of Congressional Workplace Rights, see section 308(d) of Pub. L. 115–397, set out as an Effective Date of 2018 Amendment note under section 1381 of this title.

@@ -30,6 +30,8 @@ Sec.
 
 3174. Judicial emergency and implementation.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Amendments ####
 
 **1979**—Pub. L. 96–43, §11, Aug. 2, 1979, 93 Stat. 332, substituted "Persons detained or designated as being of high risk" for "Interim limits" in item 3164 and inserted "and implementation" in item 3174.

@@ -8,6 +8,8 @@ Section 1138, acts Aug. 13, 1946, ch. 957, title IX, §913, 60 Stat. 1027; Sept.
 
 Section 1138a, act Aug. 13, 1946, ch. 957, title IX, §914, as added Dec. 16, 1963, Pub. L. 88–205, pt. IV, §404(c), 77 Stat. 391, related to transportation for Government employees and dependents.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Repeal effective Feb. 15, 1981, except as otherwise provided, see section 2403 of Pub. L. 96–465, set out as an Effective Date note under section 3901 of this title.

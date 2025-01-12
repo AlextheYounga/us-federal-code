@@ -20,6 +20,8 @@ Sec.
 
 249. Hate crime acts.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2009**—Pub. L. 111–84, div. E, §4707(b), Oct. 28, 2009, 123 Stat. 2841, added item 249.

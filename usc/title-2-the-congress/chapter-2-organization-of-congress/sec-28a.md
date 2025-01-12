@@ -4,9 +4,13 @@ The Speaker is authorized and directed to complete the Compilation of the Preced
 
 (Pub. L. 93–554, title I, ch. III, Dec. 27, 1974, 88 Stat. 1777.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section is based on section 208 of House Resolution No. 988, Ninety-third Congress, Oct. 8, 1974, which was enacted into permanent law by Pub. L. 93–554.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date ####
 

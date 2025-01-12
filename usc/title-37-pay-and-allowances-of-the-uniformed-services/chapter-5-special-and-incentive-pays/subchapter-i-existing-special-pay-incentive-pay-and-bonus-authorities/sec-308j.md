@@ -52,6 +52,8 @@
 
 (Added Pub. L. 108–375, div. A, title VI, §619(a), Oct. 28, 2004, 118 Stat. 1950; amended Pub. L. 109–163, div. A, title VI, §634(a)–(c)(1), Jan. 6, 2006, 119 Stat. 3300; Pub. L. 109–364, div. A, title X, §1071(c)(4), Oct. 17, 2006, 120 Stat. 2401; Pub. L. 112–239, div. A, title VI, §616, Jan. 2, 2013, 126 Stat. 1777.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2013**—Subsec. (d). Pub. L. 112–239 substituted "$20,000" for "$10,000".

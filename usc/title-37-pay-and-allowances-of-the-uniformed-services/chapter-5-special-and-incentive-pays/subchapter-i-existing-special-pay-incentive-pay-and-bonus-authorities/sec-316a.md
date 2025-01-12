@@ -18,6 +18,8 @@
 
 (Added Pub. L. 110–417, [div. A], title VI, §619(b)(1), Oct. 14, 2008, 122 Stat. 4488; amended Pub. L. 112–81, div. A, title X, §1065(b), Dec. 31, 2011, 125 Stat. 1588; Pub. L. 113–66, div. A, title VI, §616, Dec. 26, 2013, 127 Stat. 781; Pub. L. 113–291, div. A, title VI, §615(5), Dec. 19, 2014, 128 Stat. 3401; Pub. L. 114–92, div. A, title VI, §615(5), title X, §1072(a), Nov. 25, 2015, 129 Stat. 839, 994; Pub. L. 114–328, div. A, title VI, §615(5), Dec. 23, 2016, 130 Stat. 2159; Pub. L. 115–91, div. A, title VI, §615(5), Dec. 12, 2017, 131 Stat. 1423.)
 
+#### **Editorial Notes** ####
+
 #### Prior Provisions ####
 
 A prior section 316a, added Pub. L. 102–190, div. A, title VI, §636(a), Dec. 5, 1991, 105 Stat. 1382, related to waiver of certification requirement, prior to repeal by Pub. L. 108–375, div. A, title VI, §620(b)(1), Oct. 28, 2004, 118 Stat. 1954.

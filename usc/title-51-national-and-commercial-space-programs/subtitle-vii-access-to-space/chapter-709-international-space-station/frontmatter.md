@@ -16,6 +16,8 @@ Sec.
 
 70907. Maintaining use through at least 2024.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2015**—Pub. L. 114–90, title I, §114(b)(5)(B), Nov. 25, 2015, 129 Stat. 716, substituted "Maintaining use through at least 2024." for "Maintaining use through at least 2020." in item 70907.

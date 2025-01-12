@@ -46,6 +46,8 @@ On receipt of each report required to be submitted pursuant to subsection (d), a
 
 (Pub. L. 100–461, title V, §555, Oct. 1, 1988, 102 Stat. 2268–36; Pub. L. 111–203, title IX, §939(f), July 21, 2010, 124 Stat. 1886.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section is based on section 3 of H.R. 4645, One Hundredth Congress, as reported Sept. 28, 1988, and enacted into law by Pub. L. 100–461.
@@ -55,6 +57,8 @@ Section was not enacted as part of act July 31, 1945, ch. 339, 59 Stat. 512, kno
 #### Amendments ####
 
 **2010**—Subsec. (a)(6). Pub. L. 111–203 substituted "credit-worthiness" for "credit rating".
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Change of Name ####
 

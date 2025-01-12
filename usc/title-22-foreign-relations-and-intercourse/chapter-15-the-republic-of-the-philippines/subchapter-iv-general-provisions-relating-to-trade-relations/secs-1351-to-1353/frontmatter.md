@@ -1,5 +1,7 @@
 ### §§1351 to 1353. Omitted ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section 1351, act Apr. 30, 1946, ch. 244, title V, §501, 60 Stat. 155, which related to suspension and termination of trade agreement in case of discrimination, was omitted in view of the expiration of the revised agreement between the United States and the Republic of the Philippines which occurred on July 4, 1974.

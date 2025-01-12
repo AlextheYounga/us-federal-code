@@ -10,6 +10,8 @@ The President shall, upon the request of any committee of the Congress with legi
 
 (July 31, 1945, ch. 339, §14, 59 Stat. 517; Pub. L. 95–147, §4(a)(2), Oct. 28, 1977, 91 Stat. 1228.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1977**—Pub. L. 95–147 designated existing provisions as subsec. (a) and added subsec. (b).

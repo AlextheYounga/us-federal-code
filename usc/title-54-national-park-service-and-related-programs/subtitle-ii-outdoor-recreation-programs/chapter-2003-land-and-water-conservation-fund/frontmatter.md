@@ -22,6 +22,8 @@ Sec.
 
 200310. Transfers to and from Fund.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2020**—Pub. L. 116–152, §3(c), Aug. 4, 2020, 134 Stat. 687, substituted "Availability of funds" for "Appropriations for expenditure of Fund amounts" in item 200303.

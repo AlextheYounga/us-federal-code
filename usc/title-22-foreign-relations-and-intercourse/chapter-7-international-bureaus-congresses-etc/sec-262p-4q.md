@@ -16,6 +16,8 @@ For purposes of this section, the term "international financial institution" inc
 
 (Pub. L. 95–118, title XVI, §1621, as added Pub. L. 104–132, title III, §327, Apr. 24, 1996, 110 Stat. 1257.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Section 4605(j) of title 50, referred to in subsec. (a), was repealed by Pub. L. 115–232, div. A, title XVII, §1766(a), Aug. 13, 2018, 132 Stat. 2232.
@@ -27,6 +29,8 @@ Another section 1621 of Pub. L. 95–118 is classified to section 262p–4p of t
 #### Similar Provisions ####
 
 Similar provisions are contained in section 262p–11 of this title.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Definitions ####
 

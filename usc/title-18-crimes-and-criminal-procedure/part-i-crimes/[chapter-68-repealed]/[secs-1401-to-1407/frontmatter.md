@@ -14,6 +14,8 @@ Section 1406, act July 18, 1956, ch. 629, title II, §201, 70 Stat. 574, provide
 
 Section 1407, act July 18, 1956, ch. 629, title II, §201, 70 Stat. 574, prohibited border crossings by any person addicted to or using drugs or any person convicted of any violation of narcotic or marihuana laws of the United States or of any State, the penalty for which is imprisonment for more than one year.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Repeal effective on first day of seventh calendar month that begins after Oct. 26, 1970, see section 1105(a) of Pub. L. 91–513, set out as an Effective Date note under section 951 of Title 21, Food and Drugs.

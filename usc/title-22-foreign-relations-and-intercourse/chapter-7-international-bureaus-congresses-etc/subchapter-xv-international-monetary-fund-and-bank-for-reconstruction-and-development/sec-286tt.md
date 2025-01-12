@@ -24,6 +24,8 @@ Within 30 days after the Board of Executive Directors of the Fund approves a pro
 
 (July 31, 1945, ch. 339, §68, as added Pub. L. 111–203, title XV, §1501, July 21, 2010, 124 Stat. 2212.)
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date ####
 
 Section effective 1 day after July 21, 2010, except as otherwise provided, see section 4 of Pub. L. 111–203, set out as a note under section 5301 of Title 12, Banks and Banking.

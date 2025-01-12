@@ -4,6 +4,8 @@ The Secretary of the Senate, and the assistant secretary thereof, shall, respect
 
 (Apr. 18, 1876, ch. 66, §2, 19 Stat. 34; Pub. L. 92–51, July 9, 1971, 85 Stat. 125.)
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Change of Name ####
 
 Assistant secretary of the Senate deemed successor in references to chief clerk of the Senate in all laws, rules, resolutions, and orders, effective July 1, 1971, under provisions of Pub. L. 92–51, July 9, 1971, 85 Stat. 125.

@@ -86,6 +86,8 @@ If the Senate receives from the House of Representatives a joint resolution intr
 
 (Pub. L. 99–177, title II, §258B, as added Pub. L. 101–508, title XIII, §13101(g), Nov. 5, 1990, 104 Stat. 1388–597.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Section 258B, referred to in subsec. (e)(1), (2), means section 258B of Pub. L. 99–177, which is classified to this section.

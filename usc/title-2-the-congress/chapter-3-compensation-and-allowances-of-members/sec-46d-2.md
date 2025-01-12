@@ -2,6 +2,8 @@
 
 Section, Pub. L. 89–90, §101, July 27, 1965, 79 Stat. 268, provided for computation of long-distance telephone calls for Senators, wide area telephone service contracts, and effective date of changes. See section 6314 of this title.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Pub. L. 90–57 provided that the repeal is effective Jan. 1, 1968.

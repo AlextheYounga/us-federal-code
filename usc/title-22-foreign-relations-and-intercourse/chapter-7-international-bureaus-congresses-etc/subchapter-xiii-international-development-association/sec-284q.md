@@ -6,9 +6,13 @@
 
 (Pub. L. 86–565, §19, as added Pub. L. 99–190, §101(i) [title I, (a)], Dec. 19, 1985, 99 Stat. 1291, 1294.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section 19 of Pub. L. 86–565 is based on section 102 of title I of H.R. 2253, Ninety-ninth Congress, as reported May 15, 1985, and enacted into law by Pub. L. 99–190.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Congressional Findings ####
 

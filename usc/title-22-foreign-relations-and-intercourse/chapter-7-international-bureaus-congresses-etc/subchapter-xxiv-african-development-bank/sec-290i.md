@@ -4,9 +4,13 @@ The President is hereby authorized to accept membership for the United States in
 
 (Pub. L. 97–35, title XIII, §1332, Aug. 13, 1981, 95 Stat. 741.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 This subchapter, referred to in text, was in the original "this part", meaning part 3 of subtitle B of title XIII of Pub. L. 97–35, Aug. 13, 1981, 95 Stat. 741, known as the African Development Bank Act, which enacted this subchapter and amended sections 262d, 262f, and 276c–2 of this title and section 24 of Title 12, Banks and Banking. For complete classification of part 3 to the Code, see Short Title note set out below and Tables.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date ####
 

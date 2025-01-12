@@ -14,6 +14,8 @@ Section 112c, act Mar. 25, 1953, ch. 10, §6, formerly §4, 67 Stat. 8, renumber
 
 Section 112d, act Mar. 25, 1953, ch. 10, §7, formerly §5, 67 Stat. 8, renumbered §7, Feb. 25, 1956, ch. 72, §2, 70 Stat. 31, related to the issuance of rules and regulations.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Repeal effective at beginning of first calendar month which commenced on or after Dec. 5, 1969, see section 3 of Pub. L. 91–139, set out as an Effective Date note under section 5536 of this title.

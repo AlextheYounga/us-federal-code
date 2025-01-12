@@ -12,6 +12,8 @@ Section 2193, Pub. L. 87–195, pt. I, §233, as added Pub. L. 91–175, pt. I, 
 
 Section 2194, Pub. L. 87–195, pt. I, §234, as added Pub. L. 91–175, pt. I, §105, Dec. 30, 1969, 83 Stat. 811; amended 1970 Reorg. Plan No. 2, §102, eff. July 1, 1970, 35 F.R. 7959, 84 Stat. 2085; Pub. L. 93–390, §2(2), Aug. 27, 1974, 88 Stat. 764; Pub. L. 95–268, §3, Apr. 24, 1978, 92 Stat. 214; Pub. L. 97–65, §4, Oct. 16, 1981, 95 Stat. 1022; Pub. L. 99–204, §§6(a), 7, 8, Dec. 23, 1985, 99 Stat. 1671, 1672; Pub. L. 100–461, title V, §555, Oct. 1, 1988, 102 Stat. 2268–36; Pub. L. 101–218, §8(c), Dec. 11, 1989, 103 Stat. 1868; Pub. L. 102–549, title I, §103, Oct. 28, 1992, 106 Stat. 3651; Pub. L. 106–31, title VI, §6001, May 21, 1999, 113 Stat. 112; Pub. L. 108–158, §§4(a), 5(a), Dec. 3, 2003, 117 Stat. 1950, related to investment insurance and other programs.
 
+#### **Editorial Notes** ####
+
 #### Prior Provisions ####
 
 A prior section 231 of Pub. L. 87–195, pt. 1, Sept. 4, 1961, 75 Stat. 432, related to general authority of President to participate in financing of surveys of investment opportunities in less developed friendly countries, prior to the general reorganization of this subpart by Pub. L. 91–175, pt. I, §105, Dec. 30, 1969, 83 Stat. 807.
@@ -19,6 +21,8 @@ A prior section 231 of Pub. L. 87–195, pt. 1, Sept. 4, 1961, 75 Stat. 432, rel
 A prior section 232 of Pub. L. 87–195, pt. I, Sept. 4, 1961, 75 Stat. 432 as amended by Pub. L. 87–565, pt. I, §105, Aug. 1, 1962, 76 Stat. 257; Pub. L. 88–633, pt. I, §104, Oct. 7, 1964, 78 Stat. 1010; Pub. L. 90–137, pt. I, §105, Nov. 14, 1967, 81 Stat. 451, authorized appropriations for surveys of investment opportunities, prior to the general reorganization of this subpart by Pub. L. 91–175, pt. I, §105, Dec. 30, 1969, 83 Stat. 807.
 
 A prior section 233 of Pub. L. 87–195, pt. I, Sept. 4, 1961, 75 Stat. 432, contained definitions, prior to the general reorganization of this subpart by Pub. L. 91–175, pt. I, §105, Dec. 30, 1969, 83 Stat. 807.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of Repeal ####
 
@@ -31,6 +35,8 @@ Pub. L. 100–461, title V, §555, Oct. 1, 1988, 102 Stat. 2268–36, provided i
 #### Overseas Private Investment Corporation; Reaffirmation of Support ####
 
 Pub. L. 100–418, title II, §2203(a), Aug. 23, 1988, 102 Stat. 1328, provided that Congress reaffirmed its support for the former Overseas Private Investment Corporation as a United States Government agency serving important development assistance goals.
+
+#### **Executive Documents** ####
 
 #### Ex. Ord. No. 11579. Overseas Private Investment Corporation ####
 

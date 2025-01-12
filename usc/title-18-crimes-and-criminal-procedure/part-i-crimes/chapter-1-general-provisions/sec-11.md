@@ -12,6 +12,8 @@ The definition of "foreign government" contained in this section, with minor cha
 
 The remaining provisions of said sections 98 and 349 of title 18, U.S.C., 1940 ed., which were derived from sources other than said section 4 of title VIII of the act of June 15, 1917, are incorporated in sections 502 and 957 of this title.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1976**—Pub. L. 94–467 inserted "except in sections 112, 878, 970, 1116, and 1201" after "title".

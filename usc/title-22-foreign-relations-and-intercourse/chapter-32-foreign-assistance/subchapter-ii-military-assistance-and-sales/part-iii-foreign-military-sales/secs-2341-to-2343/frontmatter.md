@@ -6,6 +6,8 @@ Section 2342, Pub. L. 87–195, pt. II, §522, formerly §507 (a), Sept. 4, 1961
 
 Section 2343, Pub. L. 87–195, pt. II, §523, formerly §507(b), Sept. 4, 1961, 75 Stat. 437; amended Pub. L. 87–565, pt. II, §201(c), Aug. 1, 1962, 76 Stat. 259; Pub. L. 88–633, pt. II, §201(c), Oct. 7, 1964, 78 Stat. 1011; Pub. L. 89–171, pt. II, §201(d)(2), Sept. 6, 1965, 79 Stat. 657; renumbered §523 and amended Pub. L. 90–137, pt. II, §201(g), Nov. 14, 1967, 81 Stat. 456, related to contracts for procurement for sales; undertakings; reimbursements; fixed-price sales agreements; prohibition against sales of articles available from commercial sources; and waiver of restrictions. See section 2762 of this title.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Repeal effective July 1, 1968, see section 41 of Pub. L. 90–629, set out as an Effective Date note under section 2751 of this title.

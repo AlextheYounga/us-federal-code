@@ -26,6 +26,8 @@ Sec.
 
 212. Advancement of basic pay: members deployed in combat zone for more than one year.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2004**—Pub. L. 108–375, div. A, title VI, §606(b), Oct. 28, 2004, 118 Stat. 1946, added item 212.

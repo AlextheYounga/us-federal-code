@@ -4,6 +4,8 @@ Section 816, act Aug. 13, 1946, ch. 957, title X, §1081, as added Dec. 16, 1963
 
 Section 817, act Aug. 13, 1946, ch. 957, title X, §1091, as added July 12, 1976, Pub. L. 94–350, title I, §119, 90 Stat. 827, related to malpractice protection.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Repeal effective Feb. 15, 1981, except as otherwise provided, see section 2403 of Pub. L. 96–465, set out as an Effective Date note under section 3901 of this title.

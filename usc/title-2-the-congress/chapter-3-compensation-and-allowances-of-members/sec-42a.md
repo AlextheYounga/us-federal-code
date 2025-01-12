@@ -1,5 +1,7 @@
 ### §42a. Transferred ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section 42a was editorially reclassified as section 6116 of this title.

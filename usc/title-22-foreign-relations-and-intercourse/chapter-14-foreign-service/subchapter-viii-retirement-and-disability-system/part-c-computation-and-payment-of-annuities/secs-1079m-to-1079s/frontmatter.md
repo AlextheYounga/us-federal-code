@@ -14,6 +14,8 @@ Section 1079r, Pub. L. 89–308, §7, Oct. 31, 1965, 79 Stat. 1131, provided for
 
 Section 1079s, Pub. L. 89–308, §8, Oct. 31, 1965, 79 Stat. 1131, related to payments of annuity benefits from Foreign Service Retirement and Disability Fund.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Repeal effective Feb. 15, 1981, except as otherwise provided, see section 2403 of Pub. L. 96–465, set out as an Effective Date note under section 3901 of this title.

@@ -16,6 +16,8 @@ Sec.
 
 3615. Criminal default.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1996**—Pub. L. 104–132, title II, §207(d), Apr. 24, 1996, 110 Stat. 1240, amended table of sections generally, inserting "or restitution" after "fine" in items 3611, 3612, and 3614, reenacting items 3613 and 3615 without change, and adding item 3613A.

@@ -1,5 +1,7 @@
 ### §§1301 to 1305. Omitted ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section 1301, act Apr. 30, 1946, ch. 244, title III, §311, 60 Stat. 149, provided for entry of United States articles into Philippines, between May 1, 1946, and July 3, 1954, free of ordinary customs duties.

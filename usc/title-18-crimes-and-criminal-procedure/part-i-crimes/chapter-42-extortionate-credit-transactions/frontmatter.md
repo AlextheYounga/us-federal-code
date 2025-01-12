@@ -14,6 +14,8 @@ Sec.
 
 896. Effect on State laws.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1970**—Pub. L. 91–452, title II, §223(b), Oct. 15, 1970, 84 Stat. 929, struck out item 895 "Immunity of witnesses".

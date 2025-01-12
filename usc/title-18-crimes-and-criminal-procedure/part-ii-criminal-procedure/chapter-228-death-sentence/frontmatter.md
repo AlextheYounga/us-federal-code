@@ -20,6 +20,8 @@ Sec.
 
 3599. Counsel for financially unable defendants.
 
+#### **Editorial Notes** ####
+
 #### Prior Provisions ####
 
 A prior chapter 228 (§§3591 to 3599) relating to imposition, payment, and collection of fines was added by Pub. L. 98–473, title II, §238(a), Oct. 12, 1984, 98 Stat. 2034, effective pursuant to section 235(a)(1) of Pub. L. 98–473 the first day of the first calendar month beginning twenty-four months after Oct. 12, 1984. Pub. L. 98–596, §12(a)(1), Oct. 30, 1984, 98 Stat. 3139, repealed chapter 228 applicable pursuant to section 12(b) of Pub. L. 98–596 on and after the date of enactment of Pub. L. 98–473 (Oct. 12, 1984). Section 238(i) of Pub. L. 98–473 which repealed section 238 of Pub. L. 98–473 on the same date established by section 235(a)(1) of Pub. L. 98–473 was repealed by section 12(a)(9) of Pub. L. 98–596.

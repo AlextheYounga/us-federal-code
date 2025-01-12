@@ -2,6 +2,8 @@
 
 Section, Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 757, related to mailing privileges of members of Armed Forces of the United States and of friendly foreign nations in the Canal Zone.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Repeal effective Oct. 1, 1979, see section 3304 of Pub. L. 96–70, set out as an Effective Date note under section 3601 of Title 22, Foreign Relations and Intercourse.

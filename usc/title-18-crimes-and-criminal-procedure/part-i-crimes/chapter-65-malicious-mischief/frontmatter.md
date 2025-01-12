@@ -20,6 +20,8 @@ Sec.
 
 1369. Destruction of veterans' memorials.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2003**—Pub. L. 108–29, §2(b), May 29, 2003, 117 Stat. 772, added item 1369.

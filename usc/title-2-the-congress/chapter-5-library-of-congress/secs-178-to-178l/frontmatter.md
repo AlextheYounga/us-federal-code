@@ -28,6 +28,8 @@ Section 178l, Pub. L. 100–446, title I, §13, Sept. 27, 1988, 102 Stat. 1788, 
 
 For similar provisions, see section 179l et seq. of this title.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Short Title ####
 
 Pub. L. 100–446, title I, §1, Sept. 27, 1988, 102 Stat. 1782, which provided that sections 178 to 178l of this title were to be cited as the "National Film Preservation Act of 1988" was repealed by Pub. L. 102–307, title III, §214, June 26, 1992, 106 Stat. 272.

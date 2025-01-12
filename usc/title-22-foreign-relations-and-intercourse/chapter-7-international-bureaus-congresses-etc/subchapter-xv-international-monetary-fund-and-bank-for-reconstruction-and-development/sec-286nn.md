@@ -14,9 +14,13 @@ For the purpose of mobilizing the resources of the Fund in order to help reduce 
 
 (July 31, 1945, ch. 339, §62, as added Pub. L. 106–113, div. B, §1000(a)(5) [title V, §503(a)], Nov. 29, 1999, 113 Stat. 1536, 1501A–316; amended Pub. L. 106–429, §101(a) [title VIII, §801(a)], Nov. 6, 2000, 114 Stat. 1900, 1900A–64.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2000**—Par. (1)(B), (D). Pub. L. 106–429 inserted "and" at end of subpar. (B) and struck out subpar. (D) which read as follows: "shall not use more than 9/14 of the earnings on the investment of the profits of such sales; and".
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Certification to Congress Relating To Use of Profits To Augment International Monetary Fund ####
 

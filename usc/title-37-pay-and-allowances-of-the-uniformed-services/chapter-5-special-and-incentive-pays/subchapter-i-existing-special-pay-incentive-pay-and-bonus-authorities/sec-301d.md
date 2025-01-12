@@ -18,6 +18,8 @@
 
 (Added Pub. L. 101–510, div. A, title VI, §611(a)(1), Nov. 5, 1990, 104 Stat. 1576; amended Pub. L. 102–484, div. A, title X, §1054(a)(2), Oct. 23, 1992, 106 Stat. 2502; Pub. L. 107–314, div. A, title VI, §615(a), Dec. 2, 2002, 116 Stat. 2568; Pub. L. 109–163, div. A, title VI, §687(b)(2), Jan. 6, 2006, 119 Stat. 3327; Pub. L. 110–181, div. A, title VI, §615(b), Jan. 28, 2008, 122 Stat. 150.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2008**—Subsec. (a)(2). Pub. L. 110–181 substituted "$75,000" for "$50,000".
@@ -29,6 +31,8 @@
 **1992**—Subsec. (c)(2). Pub. L. 102–484, §1054(a)(2)(A), substituted "owed" for "owned".
 
 Subsec. (c)(3). Pub. L. 102–484, §1054(a)(2)(B), substituted "November 5, 1990" for "the date of the enactment of the National Defense Authorization Act for Fiscal Year 1991".
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 2008 Amendment ####
 

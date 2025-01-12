@@ -14,6 +14,8 @@
 
 (Added Pub. L. 109–59, title II, §2018(a), Aug. 10, 2005, 119 Stat. 1542.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Another section 39 was renumbered section 40 of this title.

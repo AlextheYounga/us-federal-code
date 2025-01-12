@@ -28,6 +28,8 @@ The United States Governor of the Bank is authorized—
 
 (July 31, 1945, ch. 339, §70, as added Pub. L. 112–74, div. I, title VII, §7081(a), Dec. 23, 2011, 125 Stat. 1259; amended Pub. L. 113–6, div. F, title VII, §1704(d), Mar. 26, 2013, 127 Stat. 429.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2013**—Subsec. (b)(3), (4). Pub. L. 113–6 added pars. (3) and (4).

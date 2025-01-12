@@ -8,6 +8,8 @@ The Secretary of the Treasury shall instruct the United States Executive Directo
 
 (Pub. L. 99–472, §22, Oct. 15, 1986, 100 Stat. 1210.)
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Similar Provisions ####
 
 Pub. L. 116–94, div. G, title VII, §7025(c), Dec. 20, 2019, 133 Stat. 2859, provided that: "The Secretary of the Treasury shall instruct the United States executive directors of the international financial institutions to use the voice and vote of the United States to oppose any assistance by such institutions, using funds appropriated or made available by this Act [div. G of Pub. L. 116–94, 133 Stat. 2816, see Tables for classification], for the production or extraction of any commodity or mineral for export, if it is in surplus on world markets and if the assistance will cause substantial injury to United States producers of the same, similar, or competing commodity."

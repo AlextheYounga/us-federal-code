@@ -14,6 +14,8 @@ Section 1753, acts Aug. 26, 1954, ch. 937, ch. IV, §501, 68 Stat. 849; July 18,
 
 Section 1753a, act Aug. 26, 1954, ch. 937, ch. IV, §551, as added July 24, 1959, Pub. L. 86–108, ch. IV, §401(m), 73 Stat. 255; amended Sept. 8, 1960, Pub. L. 86–735, §4, 74 Stat. 870, provided for limitations on the use of the President's special authority.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Transfer of Funds To Carry Out International Educational Exchange Activities ####
 
-Section 13 of act July 18, 1956, ch. 627, 70 Stat. 565, was repealed by Pub. L. 87–195, pt. III, §642(a)(4). Sept. 4, 1961, 75 Stat. 460.
+Section 13 of act July 18, 1956, ch. 627, §13, 70 Stat. 565, which transferred available funds to the Department of State to carry out international educational exchange activities, was repealed by Pub. L. 87–195, pt. III, §642(a)(4). Sept. 4, 1961, 75 Stat. 460.

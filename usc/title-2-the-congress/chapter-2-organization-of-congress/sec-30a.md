@@ -6,6 +6,8 @@
 
 (Pub. L. 101–520, title III, §310, Nov. 5, 1990, 104 Stat. 2278.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section is from the Legislative Branch Appropriations Act, 1991.

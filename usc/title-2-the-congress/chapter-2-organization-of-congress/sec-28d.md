@@ -22,6 +22,8 @@
 
 (Pub. L. 94–551, §3, Oct. 18, 1976, 90 Stat. 2538; Pub. L. 113–235, div. H, title I, §1301(d), Dec. 16, 2014, 128 Stat. 2537.)
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Change of Name ####
 
 "Director of the Government Publishing Office" substituted for "Public Printer" in text on authority of section 1301(d) of Pub. L. 113–235, set out as a note under section 301 of Title 44, Public Printing and Documents. Substitution was also made in section catchline that had been supplied editorially.

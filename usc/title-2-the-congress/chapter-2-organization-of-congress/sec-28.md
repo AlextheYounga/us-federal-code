@@ -18,9 +18,13 @@ For the purpose of carrying out each such compilation and preparation, the Parli
 
 (Pub. L. 91–510, title III, §331, Oct. 26, 1970, 84 Stat. 1186; Pub. L. 113–235, div. H, title I, §1301(b), Dec. 16, 2014, 128 Stat. 2537.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Legislative Branch Appropriation Act, 1966, referred to in subsec. (a), is Pub. L. 89–90, July 27, 1965, 79 Stat. 265. For complete classification of this Act to the Code, see Tables.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Change of Name ####
 

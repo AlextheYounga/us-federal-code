@@ -14,6 +14,8 @@ Sec.
 
 4086. Temporary safe-keeping of federal offenders by marshals.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1996**—Pub. L. 104–294, title VI, §601(f)(14), Oct. 11, 1996, 110 Stat. 3500, substituted "centers;" for "centers," in item 4082.

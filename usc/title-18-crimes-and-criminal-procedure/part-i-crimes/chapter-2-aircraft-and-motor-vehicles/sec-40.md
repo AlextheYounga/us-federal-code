@@ -6,6 +6,8 @@
 
 (Added Pub. L. 109–59, title IV, §4143(a), Aug. 10, 2005, 119 Stat. 1747, §39; renumbered §40, Pub. L. 110–244, title III, §301(j), June 6, 2008, 122 Stat. 1616.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2008**—Pub. L. 110–244 renumbered section 39 of this title, relating to inspection of commercial vehicles, as this section.

@@ -18,6 +18,8 @@
 
 (Added Pub. L. 89–26, §1(1), May 22, 1965, 79 Stat. 116, §405a; amended Pub. L. 89–608, §2, Sept. 30, 1966, 80 Stat. 851; Pub. L. 96–465, title II, §2303(e), Oct. 17, 1980, 94 Stat. 2165; Pub. L. 97–60, title I, §§121(c), 123, Oct. 14, 1981, 95 Stat. 1002, 1003; Pub. L. 99–661, div. A, title XIII, §1343(b)(3), Nov. 14, 1986, 100 Stat. 3995; Pub. L. 102–25, title VII, §702(b)(1), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 102–484, div. A, title VI, §625(b)(1), Oct. 23, 1992, 106 Stat. 2424; Pub. L. 104–106, div. A, title VI, §622(a), Feb. 10, 1996, 110 Stat. 363; Pub. L. 105–261, div. A, title VI, §653(c), Oct. 17, 1998, 112 Stat. 2052; renumbered §475a and amended Pub. L. 112–81, div. A, title VI, §631(d)(2), (e)(5), Dec. 31, 2011, 125 Stat. 1460, 1462.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2011**—Pub. L. 112–81, §631(d)(2), renumbered section 405a of this title as this section.
@@ -41,6 +43,8 @@ Subsec. (b). Pub. L. 97–60, §121(c), substituted "that is owned by the member
 **1980**—Subsec. (a). Pub. L. 96–465 substituted "to depart" and "departure" for "evacuated" and "evacuation", respectively, wherever appearing.
 
 **1966**—Subsec. (a). Pub. L. 89–608 struck out provision requiring that to qualify for allowances the evacuated dependents have been evacuated from places outside the United States to places inside the United States.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 1998 Amendment ####
 

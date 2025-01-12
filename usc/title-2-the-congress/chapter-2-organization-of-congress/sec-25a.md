@@ -16,9 +16,13 @@ He shall forfeit his office upon failure to maintain the qualifications required
 
 (Pub. L. 91–405, title II, §202, Sept. 22, 1970, 84 Stat. 848.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The District of Columbia Election Act, referred to in subsecs. (a) and (b)(1), is act Aug. 12, 1955, ch. 862, 69 Stat. 699, as amended, which is not classified to the Code.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date ####
 

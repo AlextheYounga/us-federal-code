@@ -6,6 +6,8 @@ Section 2195, Pub. L. 87–195, pt. I, §235, as added Pub. L. 91–175, pt. I, 
 
 Section 2196, Pub. L. 87–195, pt. I, §236, as added Pub. L. 91–175, pt. I, §105, Dec. 30, 1969, 83 Stat. 814, related to income and revenues.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Repeal effective at the end of the transition period, as defined in section 9681 of this title, see section 9684 of this title.

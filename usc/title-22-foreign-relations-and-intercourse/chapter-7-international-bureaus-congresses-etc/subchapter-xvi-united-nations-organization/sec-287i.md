@@ -4,6 +4,8 @@ There shall be deducted from the annual payment of the assessed share of the Uni
 
 (Pub. L. 87–731, §3, Oct. 2, 1962, 76 Stat. 696.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section was not enacted as part of act Dec. 20, 1945, ch. 583, 59 Stat. 619, known as the United Nations Participation Act of 1945, which comprises this subchapter.

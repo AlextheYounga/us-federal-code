@@ -1,5 +1,7 @@
 ### §§1331 to 1334. Omitted ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section 1331, act Apr. 30, 1946, ch. 244, title III, §341, 60 Stat. 151, which related to rights of United States citizens and business enterprises to natural resources in the Philippines, was omitted on authority of section 1291(b)(1) of this title which provided that this subchapter be effective until the expiration of the revised agreement between the United States and the Republic of the Philippines which occurred on July 4, 1974.

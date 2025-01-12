@@ -18,6 +18,8 @@ Any payment made to the United States by the Association as a distribution of ne
 
 (Pub. L. 86–565, §7, June 30, 1960, 74 Stat. 294; Pub. L. 88–310, §§1, 2, May 26, 1964, 78 Stat. 200.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 In subsec. (c), "chapter 31 of title 31" and "that chapter" substituted for "the Second Liberty Bond Act, as amended" and "that Act", respectively, on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.

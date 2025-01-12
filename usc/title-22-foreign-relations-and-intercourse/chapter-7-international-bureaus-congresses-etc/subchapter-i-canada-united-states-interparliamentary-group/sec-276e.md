@@ -4,6 +4,8 @@ An appropriation of $150,000 annually is authorized, $75,000 of which shall be f
 
 (Pub. L. 86–42, §2, June 11, 1959, 73 Stat. 72; Pub. L. 94–350, title I, §118(a), July 12, 1976, 90 Stat. 827; Pub. L. 103–236, title V, §502(a)(2), Apr. 30, 1994, 108 Stat. 462; Pub. L. 107–77, title IV, §408(b)(3), Nov. 28, 2001, 115 Stat. 791.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2001**—Pub. L. 107–77 substituted "$150,000" for "$70,000" and substituted "$75,000" for "$35,000" in two places.
@@ -11,6 +13,8 @@ An appropriation of $150,000 annually is authorized, $75,000 of which shall be f
 **1994**—Pub. L. 103–236 substituted "$70,000" for "$50,000" and substituted "$35,000" for "$25,000" in two places.
 
 **1976**—Pub. L. 94–350 increased annual appropriations authorization to $50,000 from $30,000 and amount for the House and Senate delegations to $25,000 from $15,000.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Permanent Appropriation for Delegation Expenses ####
 

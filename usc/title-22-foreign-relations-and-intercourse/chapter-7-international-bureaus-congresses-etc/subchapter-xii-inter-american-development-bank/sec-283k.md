@@ -10,6 +10,8 @@ There is hereby authorized to be appropriated, for payment of the increased Unit
 
 (Pub. L. 88–259, §2, Jan. 22, 1964, 78 Stat. 3.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section was not enacted as part of Pub. L. 86–147, Aug. 7, 1959, 73 Stat. 299, known as the Inter-American Development Bank Act, which comprises this subchapter.

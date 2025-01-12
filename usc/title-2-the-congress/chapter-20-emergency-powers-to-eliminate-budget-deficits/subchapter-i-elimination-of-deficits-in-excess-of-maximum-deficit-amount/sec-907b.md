@@ -58,6 +58,8 @@ If the Senate receives from the House of Representatives a joint resolution intr
 
 (Pub. L. 99–177, title II, §258A, as added Pub. L. 101–508, title XIII, §13101(f), Nov. 5, 1990, 104 Stat. 1388–595.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Congressional Budget Act of 1974, referred to in subsec. (b)(6), is titles I to IX of Pub. L. 93–344, July 12, 1974, 88 Stat. 297, as amended. Titles III and IV of the Act are classified generally to subchapters I (§631 et seq.) and II (§651 et seq.), respectively, of chapter 17A of this title. Title VI of the Act was classified generally to subchapter IV (§665 et seq.) of chapter 17A of this title prior to repeal by Pub. L. 105–33, title X, §10118(a), Aug. 5, 1997, 111 Stat. 695. For complete classification of this Act to the Code, see Short Title note set out under section 621 of this title and Tables.

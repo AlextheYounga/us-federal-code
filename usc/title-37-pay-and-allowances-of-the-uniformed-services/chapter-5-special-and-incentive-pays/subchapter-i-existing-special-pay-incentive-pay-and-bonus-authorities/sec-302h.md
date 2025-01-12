@@ -16,6 +16,8 @@
 
 (Added Pub. L. 104–201, div. A, title VI, §615(c)(1), Sept. 23, 1996, 110 Stat. 2545; amended Pub. L. 107–107, div. A, title VI, §618, Dec. 28, 2001, 115 Stat. 1137; Pub. L. 107–314, div. A, title VI, §612(f), Dec. 2, 2002, 116 Stat. 2568; Pub. L. 108–136, div. A, title VI, §612(f), Nov. 24, 2003, 117 Stat. 1501; Pub. L. 108–375, div. A, title VI, §612(f), Oct. 28, 2004, 118 Stat. 1947; Pub. L. 109–163, div. A, title VI, §§622(f), 687(b)(11), Jan. 6, 2006, 119 Stat. 3294, 3329; Pub. L. 109–364, div. A, title VI, §§612(f), 617(a), Oct. 17, 2006, 120 Stat. 2248, 2249; Pub. L. 110–181, div. A, title VI, §612(f), Jan. 28, 2008, 122 Stat. 148; Pub. L. 110–417, [div. A], title VI, §612(f), Oct. 14, 2008, 122 Stat. 4484; Pub. L. 111–84, div. A, title VI, §612(b)(5), Oct. 28, 2009, 123 Stat. 2353; Pub. L. 111–383, div. A, title VI, §612(b)(5), Jan. 7, 2011, 124 Stat. 4236; Pub. L. 112–81, div. A, title VI, §612(b)(5), Dec. 31, 2011, 125 Stat. 1449; Pub. L. 112–239, div. A, title VI, §612(b)(5), Jan. 2, 2013, 126 Stat. 1776; Pub. L. 113–66, div. A, title VI, §612(b)(5), Dec. 26, 2013, 127 Stat. 780; Pub. L. 113–291, div. A, title VI, §612(b)(5), Dec. 19, 2014, 128 Stat. 3400; Pub. L. 114–92, div. A, title VI, §612(b)(5), Nov. 25, 2015, 129 Stat. 838; Pub. L. 114–328, div. A, title VI, §612(b)(5), Dec. 23, 2016, 130 Stat. 2158; Pub. L. 115–91, div. A, title VI, §612(b)(5), Dec. 12, 2017, 131 Stat. 1422.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2017**—Subsec. (a)(1). Pub. L. 115–91 substituted "December 31, 2018" for "December 31, 2017".
@@ -55,6 +57,8 @@ Subsec. (d). Pub. L. 109–163, §687(b)(11), amended heading and text of subsec
 **2002**—Subsec. (a)(1). Pub. L. 107–314 substituted "December 31, 2003" for "December 31, 2002".
 
 **2001**—Subsec. (a)(1). Pub. L. 107–107 substituted "September 23, 1996, and ending on December 31, 2002" for "the date of the enactment of this section, and ending on September 30, 2002".
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 2008 Amendment ####
 

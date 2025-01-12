@@ -16,6 +16,8 @@ Section 1047, act Aug. 13, 1946, ch. 957, title VII, §707, 60 Stat. 1019, relat
 
 Section 1048, act Aug. 13, 1946, ch. 957, title VII, §708, as added Oct. 7, 1978, Pub. L. 95–426, title IV, §405(a)(1), 92 Stat. 979, authorized Institute to provide orientation and language training for family members of Government personnel.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Repeal effective Feb. 15, 1981, except as otherwise provided, see section 2403 of Pub. L. 96–465, set out as an Effective Date note under section 3901 of this title.

@@ -10,6 +10,8 @@
 
 (Aug. 11, 1955, ch. 788, §12, as added Pub. L. 99–190, §101(i) [title I, (a)], Dec. 19, 1985, 99 Stat. 1291, 1294.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section 12 of act Aug. 11, 1955, is based on section 3 of H.R. 1948, Ninety-ninth Congress, as introduced Apr. 3, 1985, and enacted into law by Pub. L. 99–190.

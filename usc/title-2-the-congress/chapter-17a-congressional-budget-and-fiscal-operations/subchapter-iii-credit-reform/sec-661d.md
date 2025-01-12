@@ -54,6 +54,8 @@ Nothing in this subchapter shall be construed to change the authority or the res
 
 (Pub. L. 93–344, title V, §505, as added Pub. L. 101–508, title XIII, §13201(a), Nov. 5, 1990, 104 Stat. 1388–613; amended Pub. L. 105–33, title X, §10117(c), Aug. 5, 1997, 111 Stat. 694; Pub. L. 113–67, div. A, title I, §122(15), Dec. 26, 2013, 127 Stat. 1176.)
 
+#### **Editorial Notes** ####
+
 #### Prior Provisions ####
 
 A prior section 505 of Pub. L. 93–344, title V, July 12, 1974, 88 Stat. 322, repealed sections 66 and 81 of this title.

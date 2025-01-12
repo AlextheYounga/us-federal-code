@@ -14,6 +14,8 @@ No person shall be entitled to receive any salary or other compensation from the
 
 (Pub. L. 86–147, §3, Aug. 7, 1959, 73 Stat. 299; Pub. L. 91–599, ch. 2, §21(b), Dec. 30, 1970, 84 Stat. 1658.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1970**—Subsec. (b). Pub. L. 91–599 authorized appointment of an alternate Executive Director.

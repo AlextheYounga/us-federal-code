@@ -12,6 +12,8 @@ Sec.
 
 308105. Battlefield restoration grant program.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2019**—Pub. L. 116–94, div. P, title VII, §703(b), Dec. 20, 2019, 133 Stat. 3196, added items 308104 and 308105.

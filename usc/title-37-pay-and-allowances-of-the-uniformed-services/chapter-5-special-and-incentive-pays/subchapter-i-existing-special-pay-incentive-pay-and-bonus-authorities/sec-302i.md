@@ -18,6 +18,8 @@
 
 (Added Pub. L. 106–398, §1 [[div. A], title VI, §628(a)], Oct. 30, 2000, 114 Stat. 1654, 1654A–154; amended Pub. L. 107–314, div. A, title VI, §615(g), Dec. 2, 2002, 116 Stat. 2569.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2002**—Subsecs. (a), (b). Pub. L. 107–314, §615(g)(1), substituted "retention special pay under this section" for "special pay at the rates specified in subsection (d)".
@@ -39,6 +41,8 @@ Subsec. (d). Pub. L. 107–314, §615(g)(3), added subsec. (d) and struck out he
 "(6) $9,000 per year, if the officer has at least 14 but less than 18 years of creditable service.
 
 "(7) $8,000 per year, if the officer has 18 or more years of creditable service."
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Change of Name ####
 
