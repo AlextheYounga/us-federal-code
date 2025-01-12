@@ -6,7 +6,7 @@ TITLE 11—APPENDIX
 FEDERAL RULES OF BANKRUPTCY PROCEDURE
 ==========
 
-(Effective August 1, 1983, as amended to December 1, 2019)
+(Effective August 1, 1983, as amended to January 24, 2020)
 
 #### Historical Note ####
 
@@ -9716,7 +9716,7 @@ With the consent of the person served, electronic service also may be made by me
 
 (g) Waiver of Protection of Identifiers. An entity waives the protection of subdivision (a) as to the entity's own information by filing it without redaction and not under seal.
 
-(h)Motion to Redact a Previously Filed Document.
+(h) Motion To Redact a Previously Filed Document.
 
 (1) *Content of the Motion; Service*. Unless the court orders otherwise, if an entity seeks to redact from a previously filed document information that is protected under subdivision (a), the entity must:	
 
@@ -9770,7 +9770,7 @@ Unless the court orders otherwise, the motion must identify the proposed redacti
 
 Because the filing of the motion to redact may call attention to the existence of the unredacted document as maintained in the court's files or downloaded by third parties, courts should take immediate steps to protect the motion and the document from public access. This restriction may be accomplished electronically, simultaneous with the electronic filing of the motion to redact. For motions filed on paper, restriction should occur at the same time that the motion is docketed so that no one receiving electronic notice of the filing of the motion will be able to access the unredacted document in the court's files.
 
-If the court grants the motion to redact, the court must docket the redacted document, and public access to the motion and the unredacted document should remain restricted. If the court denies the motion, generally the restriction on public access to the motion and the document should be lifted.	This procedure does not affect the availability of any remedies that an individual whose personal identifiers are exposed may have against the entity that filed the unredacted document.
+If the court grants the motion to redact, the court must docket the redacted document, and public access to the motion and the unredacted document should remain restricted. If the court denies the motion, generally the restriction on public access to the motion and the document should be lifted.
 
 This procedure does not affect the availability of any remedies that an individual whose personal identifiers are exposed may have against the entity that filed the unredacted document.
 
