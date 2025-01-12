@@ -1,4 +1,6 @@
-### §§451 to 460, 471 to 483. Repealed. Pub. L. 91–173, title V, §509, Dec. 30, 1969, 83 Stat. 803 ###
+### §§451 to 483. Repealed. Pub. L. 91–173, title V, §509, Dec. 30, 1969, 83 Stat. 803 ###
+
+Sections 451 to 460 comprised subchapter I of this chapter.
 
 Section 451, act May 7, 1941, ch. 87, title 1, §101, formerly §1, 55 Stat. 177; renumbered title I, §101, July 16, 1952, ch. 877, §4(4), 66 Stat. 710, authorized Secretary of the Interior to make annual investigations of coal mines to obtain information relating to health and safety conditions.
 
@@ -19,6 +21,8 @@ Section 458, act May 7, 1941, ch. 87, title I, §108, formerly §8, 55 Stat. 179
 Section 459, act May 7, 1941, ch. 87, title I, §109, formerly §9, 55 Stat. 179; renumbered title I, §109, and amended Oct. 28, 1949, ch. 782, §1106(a), 63 Stat. 972; July 16, 1952, ch. 877, §4(3), (5), 66 Stat. 710, authorized employment of personnel for administration of sections 451 to 460 of this title and set out qualification conditions.
 
 Section 460, act May 7, 1941, ch. 87, title I, §111, formerly 11, 55 Stat. 179; renumbered title I, §110, and amended July 16, 1952, ch. 877, §4(3), (5), 66 Stat. 710, defined "Commerce" as used in sections 451 to 460 of this title.
+
+Sections 471 to 483 comprised subchapter II of this chapter.
 
 Section 471, act May 7, 1941, ch. 87, title II, §201, as added July 16, 1952, ch. 877, §1, 66 Stat. 692; amended Mar. 26, 1966, Pub. L. 89–376, §2(a), 80 Stat. 84, defined terms as used in sections 471 to 483 of this title.
 
