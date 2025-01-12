@@ -12,7 +12,7 @@ Sec.
 
 6205. Establishment of the International Broadcasting Advisory Board.
 
-6206. Repealed.
+6206. Grantee corporate boards of directors.
 
 6207. Limits on grants for Radio Free Europe and Radio Liberty.
 
@@ -20,7 +20,7 @@ Sec.
 
 6208a. Open Technology Fund.
 
-6209. Broadcast entities reporting to Chief Executive Officer.
+6209. Incorporation and non-Federal status of broadcasting entities.
 
 6209a. Inspector General authorities.
 
@@ -39,3 +39,5 @@ Sec.
 6215. Establishment of Radio Free Afghanistan.
 
 6216. Special authority for surge capacity.
+
+6217. Global internet freedom.

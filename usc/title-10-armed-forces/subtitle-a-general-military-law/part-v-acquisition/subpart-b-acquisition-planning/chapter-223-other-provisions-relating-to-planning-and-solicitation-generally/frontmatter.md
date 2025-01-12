@@ -38,6 +38,100 @@ A prior chapter 223 "PLANNING AND SOLICITATION RELATING TO PARTICULAR ITEMS OR S
 
 #### **Statutory Notes and Related Subsidiaries** ####
 
+#### Quantifiable Assurance Capability for Security of Microelectronics ####
+
+Pub. L. 117–263, div. A, title II, §219, Dec. 23, 2022, 136 Stat. 2477, provided that:
+
+"(a) Development and Implementation of Capability.—The Secretary of Defense shall develop and implement a capability for quantifiable assurance to achieve practical, affordable, and risk-based objectives for security of microelectronics to enable the Department of Defense to access and apply state-of-the-art microelectronics for military purposes.
+
+"(b) Establishment of Requirements and Schedule of Support for Development, Test, and Assessment.—
+
+"(1) In general.—Not later than 90 days after the date of the enactment of this Act [Dec. 23, 2022], the Deputy Secretary of Defense shall, in consultation with the Under Secretary of Defense for Research and Engineering, establish requirements and a schedule for support from the National Security Agency to develop, test, assess, implement, and improve the capability required by subsection (a).
+
+"(2) National security agency.—The Director of the National Security Agency shall take such actions as may be necessary to satisfy the requirements established under paragraph (1).
+
+"(3) Briefing.—Not later than 120 days after the date of the enactment of this Act, the Under Secretary of Defense for Research and Engineering and the Director of the National Security Agency shall jointly provide the congressional defense committees a briefing on the requirements and the schedule for support established under paragraph (1).
+
+"(c) Assessment.—
+
+"(1) In general.—The Secretary of Defense shall assess whether the Department of Defense, to enable expanded use of unprogrammed application specific integrated circuits or other custom-designed integrated circuits manufactured by a supplier that is not using processes accredited by the Defense Microelectronics Activity for the purpose of enabling the Department to access commercial state-of-the-art microelectronics technology using risk-based quantifiable assurance security methodology, should—
+
+"(A) seek changes to the International Traffic in Arms Regulations under subchapter M of chapter I of title 22, Code of Federal Regulations, and Department of Defense Instruction 5200.44 (relating to protection of mission critical functions to achieve trusted systems and networks); and
+
+"(B) expand the use of unprogrammed custom-designed integrated circuits that are not controlled by such regulations.
+
+"(2) Briefing.—Not later than April 1, 2023, the Secretary of Defense shall provide the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] a briefing on the findings of the Secretary with respect to the assessment conducted under paragraph (1)."
+
+#### Government-Industry-Academia Working Group on Microelectronics ####
+
+Pub. L. 117–263, div. A, title II, §220, Dec. 23, 2022, 136 Stat. 2478, provided that:
+
+"(a) Establishment and Designation.—
+
+"(1) In general.—Not later than 180 days after the date of the enactment of this Act [Dec. 23, 2022], the Secretary of Defense shall establish a working group to facilitate coordination among industry, academia, and the Department of Defense on issues of mutual interest relating to microelectronics as described in subsection (c).
+
+"(2) Designation.—The working group established under paragraph (1) shall be known as the 'Government-Industry-Academia Working Group on Microelectronics' (referred to in this section as the 'Working Group').
+
+"(b) Composition.—The Working Group shall be composed of representatives of organizations and elements of the Department of Defense, industry, and academia.
+
+"(c) Scope.—The Secretary shall ensure that the Working Group supports dialogue and coordination among industry, academia, and the Department of Defense on the following issues relating to microelectronics:
+
+"(1) Research needs.
+
+"(2) Infrastructure needs and shortfalls.
+
+"(3) Technical and process standards.
+
+"(4) Training and certification needs for the workforce.
+
+"(5) Supply chain issues.
+
+"(6) Supply chain, manufacturing, and packaging security.
+
+"(7) Technology transition issues and opportunities.
+
+"(d) Charter and Policies.—Not later than March 1, 2023, the Secretary of Defense shall develop a charter and issue policies for the functioning of the Working Group.
+
+"(e) Administrative Support.—The joint federation of capabilities established under section 937 of the National Defense Authorization Act for Fiscal Year 2014 (Public Law 113–66; 10 U.S.C. 2224 note) shall provide administrative support to the Working Group.
+
+"(f) Rule of Construction.—Nothing in this section shall be construed to allow the Department of Defense to provide any competitive advantage to any participant in the Working Group.
+
+"(g) Sunset.—The provisions of this section shall terminate on December 31, 2030."
+
+#### Risk Management for Department of Defense Pharmaceutical Supply Chains ####
+
+Pub. L. 117–263, div. A, title VIII, §860, Dec. 23, 2022, 136 Stat. 2734, provided that:
+
+"(a) Risk Management for All Department of Defense Pharmaceutical Supply Chains.—Not later than one year after the date of the enactment of this Act [Dec. 23, 2022], the Under Secretary of Defense for Acquisition and Sustainment shall—
+
+"(1) develop and issue implementing guidance for risk management for Department of Defense supply chains for pharmaceutical materiel for the Department;
+
+"(2) identify, in coordination with the Secretary of Health and Human Services, supply chain information gaps regarding the Department's reliance on foreign suppliers of drugs, including active pharmaceutical ingredients and final drug products; and
+
+"(3) submit to the Committees on Armed Services of the Senate and the House of Representatives a report regarding—
+
+"(A) existing information streams, if any, that may be used to assess the reliance by the Department of Defense on high-risk foreign suppliers of drugs;
+
+"(B) vulnerabilities in the drug supply chains of the Department of Defense; and
+
+"(C) any recommendations to address—
+
+"(i) information gaps identified under paragraph (2); and
+
+"(ii) any risks related to such reliance on foreign suppliers.
+
+"(b) Risk Management for Department of Defense Pharmaceutical Supply Chain.—The Director of the Defense Health Agency shall—
+
+"(1) not later than one year after the issuance of the guidance required under subsection (a)(1), develop and publish implementing guidance for risk management for the Department of Defense supply chain for pharmaceuticals; and
+
+"(2) establish a working group—
+
+"(A) to assess risks to the Department's pharmaceutical supply chain;
+
+"(B) to identify the pharmaceuticals most critical to beneficiary care at military treatment facilities; and
+
+"(C) to establish policies for allocating scarce pharmaceutical resources of the Department of Defense in case of a supply disruption."
+
 #### Authority for Explosive Ordnance Disposal Units To Acquire New or Emerging Technologies and Capabilities ####
 
 Pub. L. 115–91, div. A, title I, §142, Dec. 12, 2017, 131 Stat. 1320, provided that: "The Secretary of Defense, after consultation with the head of each military service, may provide to an explosive ordnance disposal unit the authority to acquire new or emerging technologies and capabilities that are not specifically provided for in the authorized equipment allowance for the unit, as such allowance is set forth in the table of equipment and table of allowance for the unit."

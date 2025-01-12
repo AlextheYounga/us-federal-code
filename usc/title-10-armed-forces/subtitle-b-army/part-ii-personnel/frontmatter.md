@@ -54,3 +54,35 @@ Pub. L. 90–235, §8(5), Jan. 2, 1968, 81 Stat. 764, struck out item for chapte
 **1960**—Pub. L. 86–616, §§2(b), 3(b), July 12, 1960, 74 Stat. 388, 390, substituted "Substandard Performance of Duty" for "Failure to Meet Standards" in item for chapter 359 and added item for chapter 360.
 
 **1958**—Pub. L. 85–861, §1(95), Sept. 2, 1958, 72 Stat. 1487, substituted "3841" for "[No present sections]" in item for chapter 363.
+
+#### **Statutory Notes and Related Subsidiaries** ####
+
+#### Pilot Program on Remote Personnel Processing in the Army ####
+
+Pub. L. 117–263, div. A, title V, §562, Dec. 23, 2022, 136 Stat. 2598, provided that:
+
+"(a) Establishment.—Not later than January 1, 2024, the Secretary of the Army shall implement a pilot program to expedite in-processing and out-processing at one or more military installations—
+
+"(1) under the jurisdiction of such Secretary; and
+
+"(2) located within the continental United States.
+
+"(b) Functions.—The pilot program shall perform the following functions:
+
+"(1) Enable the remote in-processing and out-processing of covered personnel, including by permitting covered personnel to sign forms electronically.
+
+"(2) Reduce the number of hours required of covered personnel for in-processing and out-processing.
+
+"(3) Provide, to covered personnel and the commander of a military installation concerned, electronic copies of records related to in-processing and out-processing.
+
+"(c) Termination.—The pilot program shall terminate on January 1st, 2027.
+
+"(d) Report.—Not later than January 1, 2026, the Secretary shall submit to the Committees on Armed Services of the Senate and House of Representatives a report regarding the pilot program, including the recommendation of the Secretary whether to make the pilot program permanent.
+
+"(e) Definitions.—In this section:
+
+"(1) The term 'covered personnel' includes members of the Army and civilian employees of the Department of the Army.
+
+"(2) The term 'in-processing' means the administrative activities that covered personnel undertake pursuant to a permanent change of station.
+
+"(3) The term 'out-processing' means the administrative activities that covered personnel undertake pursuant to a permanent change of station, separation from the Army, or end of employment with the Department of the Army."

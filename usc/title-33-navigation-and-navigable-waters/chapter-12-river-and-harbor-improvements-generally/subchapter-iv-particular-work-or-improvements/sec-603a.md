@@ -1,12 +1,14 @@
 ### §603a. Removal of snags and debris, and straightening, clearing, and protecting channels in navigable waters ###
 
-The Secretary of the Army is authorized to allot not to exceed $5,000,000 from any appropriations made prior to or after March 2, 1945, for any one fiscal year for improvement of rivers and harbors, for removing accumulated snags, obstructions, and other debris located in or adjacent to a Federal channel, and for protecting, clearing, and straightening channels in navigable harbors and navigable streams and tributaries thereof, when in the opinion of the Chief of Engineers such work is advisable in the interest of navigation, flood control, or recreation.
+The Secretary of the Army is authorized to allot not to exceed $5,000,000 from any appropriations made prior to or after March 2, 1945, for any one fiscal year for improvement of rivers and harbors, for removing accumulated snags, obstructions, and other debris located in or adjacent to a Federal channel, and for protecting, clearing, and straightening channels in navigable harbors and navigable streams and tributaries thereof, when in the opinion of the Chief of Engineers such work is advisable in the interest of navigation, flood control, ecosystem restoration, or recreation.
 
-(Mar. 2, 1945, ch. 19, §3, 59 Stat. 23; July 26, 1947, ch. 343, title II, §205(a), 61 Stat. 501; Pub. L. 99–662, title IX, §915(g), Nov. 17, 1986, 100 Stat. 4191; Pub. L. 114–322, title I, §1164, Dec. 16, 2016, 130 Stat. 1670.)
+(Mar. 2, 1945, ch. 19, §3, 59 Stat. 23; July 26, 1947, ch. 343, title II, §205(a), 61 Stat. 501; Pub. L. 99–662, title IX, §915(g), Nov. 17, 1986, 100 Stat. 4191; Pub. L. 114–322, title I, §1164, Dec. 16, 2016, 130 Stat. 1670; Pub. L. 117–263, div. H, title LXXXI, §8381, Dec. 23, 2022, 136 Stat. 3828.)
 
 #### **Editorial Notes** ####
 
 #### Amendments ####
+
+**2022**—Pub. L. 117–263 substituted "ecosystem restoration, or recreation" for "or recreation".
 
 **2016**—Pub. L. 114–322 substituted "$5,000,000" for "$1,000,000", "accumulated snags, obstructions, and other debris located in or adjacent to a Federal channel" for "accumulated snags and other debris", and ", flood control, or recreation" for "or flood control".
 

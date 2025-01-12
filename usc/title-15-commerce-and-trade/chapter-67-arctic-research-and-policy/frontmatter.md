@@ -23,3 +23,5 @@ Sec.
 4110. Authorization of appropriations; new spending authority.
 
 4111. "Arctic" defined.
+
+4112. Annual agency budget and spending report.

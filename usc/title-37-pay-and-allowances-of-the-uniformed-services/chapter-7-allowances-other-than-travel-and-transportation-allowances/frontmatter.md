@@ -52,7 +52,11 @@ Sec.
 
 427. Family separation allowance.
 
-[428 to 432. Repealed.]
+[428 to 430. Repealed.]
+
+431. Benefits for certain members assigned to the Defense Intelligence Agency.
+
+[432. Repealed.]
 
 433. Allowance for muster duty.
 
@@ -73,6 +77,8 @@ Sec.
 #### **Editorial Notes** ####
 
 #### Amendments ####
+
+**2022**—Pub. L. 117–263, div. A, title VI, §615(b), Dec. 23, 2022, 136 Stat. 2624, added item 431.
 
 **2021**—Pub. L. 117–81, div. A, title VI, §601(d), Dec. 27, 2021, 135 Stat. 1765, added item 402b.
 

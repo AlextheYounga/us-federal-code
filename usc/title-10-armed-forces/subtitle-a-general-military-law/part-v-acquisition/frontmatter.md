@@ -43,7 +43,7 @@ Chap. Sec.
 
 251. Simplified Acquisition Procedures 3571
 
-253. [Reserved]
+253. Rapid Acquisition Procedures 3601
 
 255. Contracting With or Through Other Agencies 3651
 
@@ -138,6 +138,8 @@ Chap. Sec.
 Capitalization in subpart items in this analysis was editorially reformatted from the original to conform to their corresponding subpart headings.
 
 #### Amendments ####
+
+**2022**—Pub. L. 117–263, div. A, title VIII, §804(b), Dec. 23, 2022, 136 Stat. 2701, added item for chapter 253 and struck out former item for chapter 253 "[Reserved]".
 
 **2021**—Pub. L. 117–81, div. A, title XVII, §1701(i)(8)(A), (l)(2), Dec. 27, 2021, 135 Stat. 2142, 2144, which directed amendment of this analysis by substituting "[Reserved]" for "Foreign Acquisitions" and starting section number 3881 in item for chapter 283 and by adding item for chapter 287 and striking out former item for chapter 287 "Socioeconomic Programs", was executed by amending this analysis as directed, notwithstanding that other amendments by section 1701(i) and (l) of Pub. L. 117–81 were directed to Pub. L. 116–283, and not to the Code directly, and that such amendments are effective as if included in title XVIII of Pub. L. 116–283.
 

@@ -8,7 +8,7 @@ Sec.
 
 4503. Fishing, fish tender, and fish processing vessel certification.
 
-4503a. Alternate safety compliance program.
+[4503a. Repealed.]
 
 4504. Prohibited acts.
 
@@ -23,6 +23,8 @@ Sec.
 #### **Editorial Notes** ####
 
 #### Amendments ####
+
+**2022**—Pub. L. 117–263, div. K, title CXV, §11509(c), Dec. 23, 2022, 136 Stat. 4137, struck out item 4503a "Alternate safety compliance program".
 
 **2018**—Pub. L. 115–282, title V, §508(d), title VI, §601(c)(1), Dec. 4, 2018, 132 Stat. 4273, 4289, added item for 4503a and struck out item 4508 "Commercial Fishing Safety Advisory Committee".
 

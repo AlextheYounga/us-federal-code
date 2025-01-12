@@ -54,7 +54,7 @@ Pub. L. 112–239, div. A, title VIII, §812, Jan. 2, 2013, 126 Stat. 1829, dire
 
 #### Determination of Contract Type for Development Programs ####
 
-Pub. L. 109–364, div. A, title VIII, §818(b)–(e), Oct. 17, 2006, 120 Stat. 2329, 2330, provided that:
+Pub. L. 109–364, div. A, title VIII, §818(b)–(f), Oct. 17, 2006, 120 Stat. 2329, 2330, as amended by Pub. L. 117–263, div. A, title VIII, §808(a), Dec. 23, 2022, 136 Stat. 2705, provided that:
 
 "(b) Modification of Regulations.—Not later than 120 days after the date of the enactment of this Act [Oct. 17, 2006], the Secretary of Defense shall modify the regulations of the Department of Defense regarding the determination of contract type for development programs.
 
@@ -70,4 +70,30 @@ Pub. L. 109–364, div. A, title VIII, §818(b)–(e), Oct. 17, 2006, 120 Stat. 
 
 "(2) the complexity and technical challenge of the program is not the result of a failure to meet the requirements established in section 2366a of title 10, United States Code [now 10 U.S.C. 4251].
 
-"(e) Justification for Selection of Contract Type.—As modified under subsection (b), the regulations shall require the Milestone Decision Authority to document the basis for the contract type selected for a program. The documentation shall include an explanation of the level of program risk for the program and, if the Milestone Decision Authority determines that the level of program risk is high, the steps that have been taken to reduce program risk and reasons for proceeding with Milestone B approval despite the high level of program risk."
+"(e) Justification for Selection of Contract Type.—As modified under subsection (b), the regulations shall require the Milestone Decision Authority to document the basis for the contract type selected for a program. The documentation shall include an explanation of the level of program risk for the program and, if the Milestone Decision Authority determines that the level of program risk is high, the steps that have been taken to reduce program risk and reasons for proceeding with Milestone B approval despite the high level of program risk.
+
+"(f) Conditions With Respect to Certain Low-rate Initial Production.—
+
+"(1) In general.—The number of low-rate initial production lots associated with a major defense acquisition program may not be more than one if—
+
+"(A) the milestone decision authority authorizes the use of a fixed-price type contract at the time of a decision on Milestone B approval; and
+
+"(B) the scope of the work of the fixed-price type contract includes both the development and low-rate initial production of items for such major defense acquisition program.
+
+"(2) Waiver.—The limitation in paragraph (1) may be waived by the applicable service acquisition executive or a designee of such executive if—
+
+"(A) such waiver authority is not delegated to the level of the contracting officer; and
+
+"(B) written notification of a granted waiver, including the associated rationale, is provided to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] not later than 30 days after issuance of the waiver.
+
+"(3) Definitions.—In this subsection:
+
+"(A) The term 'low-rate initial production' has the meaning given under section 4231 of title 10, United States Code.
+
+"(B) The term 'milestone decision authority' has the meaning given in section 4211 of title 10, United States Code.
+
+"(C) The term 'major defense acquisition program' has the meaning given in section 4201 of title 10, United States Code.
+
+"(D) The term 'Milestone B approval' has the meaning given in section 4172(e) of title 10, United States Code."
+
+[Pub. L. 117–263, div. A, title VIII, §808(b), Dec. 23, 2022, 136 Stat. 2705, provided that: "Not later than 120 days after the date of the enactment of this Act [Dec. 23, 2022], the Secretary of Defense shall revise the Department of Defense Supplement to the Federal Acquisition Regulation and any applicable regulations regarding the use of fixed-price type contracts for a major defense acquisition program (as defined in section 4201 of title 10, United States Code) to carry out this section [amending section 818(b)–(f) of Pub. L. 109–364, set out above] and the amendments made by this section."]

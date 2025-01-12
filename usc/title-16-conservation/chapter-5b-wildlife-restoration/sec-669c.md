@@ -12,11 +12,11 @@ For fiscal year 2001 and each fiscal year thereafter, of the revenues (excluding
 
 The available amount referred to in subparagraph (A) is—
 
-(i) for the fiscal year that includes November 15, 2021, the sum obtained by adding—
+(i) for the fiscal year that includes November 15, 2021, the product obtained by multiplying—
 
-(I) the available amount specified in this subparagraph for the preceding fiscal year; and
+(I) $12,786,434; and
 
-(II) $979,500; and
+(II) the change, relative to the preceding fiscal year, in the Consumer Price Index for All Urban Consumers published by the Department of Labor; and
 
 (ii) for each fiscal year thereafter, the sum obtained by adding—
 
@@ -126,7 +126,7 @@ In addition to other uses authorized under this chapter, amounts apportioned und
 
 (5) For purposes of this subsection, the term "State" shall include the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, American Samoa, and the Commonwealth of the Northern Mariana Islands.
 
-(Sept. 2, 1937, ch. 899, §4, 50 Stat. 918; 1939 Reorg. Plan No. II, §4(f), eff. July 1, 1939, 4 F.R. 2731, 53 Stat. 1433; July 24, 1946, ch. 605, §1, 60 Stat. 656; Pub. L. 91–503, title I, §102, Oct. 23, 1970, 84 Stat. 1098; Pub. L. 92–558, title I, §101(b), Oct. 25, 1972, 86 Stat. 1172; Pub. L. 94–273, §4(1), Apr. 21, 1976, 90 Stat. 377; Pub. L. 99–396, §8(b), Aug. 27, 1986, 100 Stat. 839; Pub. L. 101–233, §7(a)(2), Dec. 13, 1989, 103 Stat. 1975; Pub. L. 106–408, title I, §111(a), Nov. 1, 2000, 114 Stat. 1763; Pub. L. 106–553, §1(a)(2) [title IX, §902(e)], Dec. 21, 2000, 114 Stat. 2762, 2762A–121; Pub. L. 116–94, div. P, title V, §501(d), Dec. 20, 2019, 133 Stat. 3192; Pub. L. 117–58, div. B, title VIII, §28001(b)(1), Nov. 15, 2021, 135 Stat. 887.)
+(Sept. 2, 1937, ch. 899, §4, 50 Stat. 918; 1939 Reorg. Plan No. II, §4(f), eff. July 1, 1939, 4 F.R. 2731, 53 Stat. 1433; July 24, 1946, ch. 605, §1, 60 Stat. 656; Pub. L. 91–503, title I, §102, Oct. 23, 1970, 84 Stat. 1098; Pub. L. 92–558, title I, §101(b), Oct. 25, 1972, 86 Stat. 1172; Pub. L. 94–273, §4(1), Apr. 21, 1976, 90 Stat. 377; Pub. L. 99–396, §8(b), Aug. 27, 1986, 100 Stat. 839; Pub. L. 101–233, §7(a)(2), Dec. 13, 1989, 103 Stat. 1975; Pub. L. 106–408, title I, §111(a), Nov. 1, 2000, 114 Stat. 1763; Pub. L. 106–553, §1(a)(2) [title IX, §902(e)], Dec. 21, 2000, 114 Stat. 2762, 2762A–121; Pub. L. 116–94, div. P, title V, §501(d), Dec. 20, 2019, 133 Stat. 3192; Pub. L. 117–58, div. B, title VIII, §28001(b)(1), Nov. 15, 2021, 135 Stat. 887; Pub. L. 117–263, div. K, title CXIII, §11324(b)(1), Dec. 23, 2022, 136 Stat. 4095.)
 
 #### **Editorial Notes** ####
 
@@ -135,6 +135,12 @@ In addition to other uses authorized under this chapter, amounts apportioned und
 Subsection (d), as redesignated, referred to in subsec. (e)(3), probably refers to the redesignation of a second subsec. (c) of this section as (d) by Pub. L. 116–94, div. P, title V, §501(d)(2)(A), Dec. 20, 2019, 133 Stat. 3192. See 2019 Amendment note below.
 
 #### Amendments ####
+
+**2022**—Subsec. (a)(1)(B)(i). Pub. L. 117–263 amended cl. (i) generally. Prior to amendment, cl. (i) read as follows: "for the fiscal year that includes November 15, 2021, the sum obtained by adding—
+
+"(I) the available amount specified in this subparagraph for the preceding fiscal year; and
+
+"(II) $979,500; and".
 
 **2021**—Subsec. (a)(1)(B). Pub. L. 117–58, §28001(b)(1)(A), added subpar. (B) and struck out former subpar. (B) which provided amounts available for fiscal years 2001 and thereafter.
 

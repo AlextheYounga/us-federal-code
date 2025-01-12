@@ -54,9 +54,7 @@ Sec.
 
 2533. Reports on critical difficulties at national security laboratories and nuclear weapons production facilities.
 
-2534. Repealed.
-
-2535. Replacement project for Chemistry and Metallurgy Research Building, Los Alamos National Laboratory, New Mexico.
+2534, 2535. Repealed.
 
 2536. Reports on life extension programs.
 
@@ -86,7 +84,7 @@ Sec.
 
 2544. Modernization and consolidation of tritium recycling facilities.
 
-2545. Procedures for meeting tritium production requirements.
+2545. Repealed.
 
 #### SUBCHAPTER III—PROLIFERATION MATTERS ####
 
@@ -98,19 +96,17 @@ Sec.
 
 2567. Disposition of surplus defense plutonium at Savannah River Site, Aiken, South Carolina.
 
-2568. Authority to use international nuclear materials protection and cooperation program funds outside the former Soviet Union.
+2568. Repealed.
 
 2569. Acceleration of removal or security of fissile materials, radiological materials, and related equipment at vulnerable sites worldwide.
 
-2570. Silk Road Initiative.
-
-2571. Nuclear Nonproliferation Fellowships for scientists employed by United States and Russian Federation.
+2570, 2571. Repealed.
 
 2572. International agreements on nuclear weapons data.
 
 2573. International agreements on information on radioactive materials.
 
-2574. Enhancing nuclear forensics capabilities.
+2574. Repealed.
 
 2575. Defense nuclear nonproliferation management plan.
 
@@ -128,7 +124,7 @@ Sec.
 
 2582a. Future-years defense environmental cleanup plan.
 
-2583. Integrated fissile materials management plan.
+2583. Repealed.
 
 2584. Repealed.
 
@@ -164,11 +160,7 @@ Sec.
 
 2623. River Protection Project.
 
-2624. Funding for termination costs of River Protection Project, Richland, Washington.
-
-2625. Plan for tank farm waste at Hanford Nuclear Reservation.
-
-2626. Hanford Waste Treatment and Immobilization Plant contract oversight.
+2624 to 2626. Repealed.
 
 2627. Notification regarding air release of radioactive or hazardous material.
 
@@ -182,7 +174,7 @@ Sec.
 
 2634 to 2637. Repealed.
 
-2638. Limitation on use of funds for decommissioning F–canyon facility.
+2638. Repealed.
 
 #### SUBCHAPTER V—SAFEGUARDS AND SECURITY MATTERS ####
 

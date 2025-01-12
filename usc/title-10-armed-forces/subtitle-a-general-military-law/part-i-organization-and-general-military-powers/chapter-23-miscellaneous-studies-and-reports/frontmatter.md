@@ -18,7 +18,7 @@ Sec.
 
 486. Annual reports on racial and ethnic demographics in the military justice system.
 
-[487. Repealed.]
+487. Biannual briefing on missile defense and related activities.
 
 488. Management and review of electromagnetic spectrum.
 
@@ -27,6 +27,8 @@ Sec.
 #### **Editorial Notes** ####
 
 #### Amendments ####
+
+**2022**—Pub. L. 117–263, div. A, title XVI, §1651, Dec. 23, 2022, 136 Stat. 2947, added item 487.
 
 **2021**—Pub. L. 117–81, div. A, title V, §549G(a)(2), Dec. 27, 2021, 135 Stat. 1728, added item 486.
 

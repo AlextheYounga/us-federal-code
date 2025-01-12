@@ -24,6 +24,8 @@ Sec.
 
 8017. Savings clause.
 
+8018. Capacity building in foreign fisheries.
+
 #### SUBCHAPTER II—ESTABLISHMENT OF INTERAGENCY WORKING GROUP ON IUU FISHING ####
 
 8031. Interagency Working Group on IUU fishing.

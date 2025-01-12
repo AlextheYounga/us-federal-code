@@ -8,7 +8,11 @@ Sec.
 
 492a. Annual report on the plan for the nuclear weapons stockpile, nuclear weapons complex, nuclear weapons delivery systems, and nuclear weapons command and control system.
 
+492b. Biannual briefing on nuclear weapons and related activities.
+
 493. Reports to Congress on the modification of the force structure for the strategic nuclear weapons delivery systems of the United States.
+
+493a. Industrial base monitoring for B–21 and Sentinel programs.
 
 494. Nuclear force reductions.
 
@@ -28,9 +32,13 @@ Sec.
 
 499b. Participation in United States Strategic Command strategic deterrence exercises.
 
+499c. Portfolio management framework for nuclear forces.
+
 #### **Editorial Notes** ####
 
 #### Amendments ####
+
+**2022**—Pub. L. 117–263, div. A, title XVI, §§1631, 1632, 1634(a), Dec. 23, 2022, 136 Stat. 2934, 2938, added items 492b, 493a, and 499c.
 
 **2021**—Pub. L. 117–81, div. A, title XVI, §1631, Dec. 27, 2021, 135 Stat. 2089, added item 499b.
 

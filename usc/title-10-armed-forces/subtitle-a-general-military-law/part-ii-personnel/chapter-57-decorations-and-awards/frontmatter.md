@@ -10,6 +10,8 @@ Sec.
 
 1124. Cash awards for disclosures, suggestions, inventions, and scientific achievements.
 
+1124a. Cyber operations-peculiar awards.
+
 1125. Recognition for accomplishments: award of trophies.
 
 1126. Gold star lapel button: eligibility and distribution.
@@ -41,6 +43,8 @@ Sec.
 #### **Editorial Notes** ####
 
 #### Amendments ####
+
+**2022**—Pub. L. 117–263, div. A, title XV, §1531, Dec. 23, 2022, 136 Stat. 2900, added item 1124a.
 
 **2019**—Pub. L. 116–92, div. A, title V, §582(a)(2), Dec. 20, 2019, 133 Stat. 1412, added item 1136.
 

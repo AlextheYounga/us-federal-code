@@ -36,6 +36,26 @@ Sec.
 
 #### **Statutory Notes and Related Subsidiaries** ####
 
+#### Requirements Relating to Reduction of Out-Of-Pocket Costs of Members of the Armed Forces for Uniform Items ####
+
+Pub. L. 117–263, div. A, title III, §390, Dec. 23, 2022, 136 Stat. 2549, provided that:
+
+"(a) Tracking Requirement.—The Secretary of Defense shall take such steps as may be necessary to track the expected useful life of uniform items for officers and enlisted members of the Armed Forces, for the purposes of—
+
+"(1) estimating the rate at which such uniform items are replaced;
+
+"(2) determining the resulting out-of-pocket costs for such members over time;
+
+"(3) determining the necessity of establishing a uniform replacement allowance for officers of the Armed Forces, based on the replacement rate estimated pursuant to paragraph (1) and the out-of-pocket costs determined pursuant to paragraph (2); and
+
+"(4) determining the adequacy of the uniform allowance for enlisted members of the Armed Forces.
+
+"(b) Report.—Not later than 120 days after the date of the enactment of this Act [Dec. 23, 2022], the Secretary of Defense shall submit to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] a report on the expected useful life of required uniform items for members of the Armed Forces, projected changes to such required uniform items, and related costs anticipated by the Secretary (disaggregated by Armed Force). Such report shall include—
+
+"(1) pricing information for each such item, including items that are not considered uniquely military; and
+
+"(2) an assessment of the necessity of establishing a uniform replacement allowance for officers of the Armed Forces, as determined pursuant to subsection (a)(3)."
+
 #### Pilot Program for Temporary Issuance of Maternity-Related Uniform Items ####
 
 Pub. L. 116–283, div. A, title III, §361, Jan. 1, 2021, 134 Stat. 3546, provided that:

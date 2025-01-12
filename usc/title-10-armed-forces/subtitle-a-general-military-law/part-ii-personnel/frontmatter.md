@@ -159,6 +159,22 @@ Pub. L. 102–25, title VII, §701(e)(1), Apr. 6, 1991, 105 Stat. 114, added ite
 
 #### **Statutory Notes and Related Subsidiaries** ####
 
+#### Standardization of Policies Relating to Service in Armed Forces by Individuals Diagnosed With HBV ####
+
+Pub. L. 117–263, div. A, title VII, §739, Dec. 23, 2022, 136 Stat. 2676, provided that:
+
+"(a) In General.—Not later than one year after the date of the enactment of this Act [Dec. 23, 2022], the Secretary of Defense, in coordination with the Secretaries concerned, shall—
+
+"(1) review regulations, establish policies, and issue guidance relating to service in the Armed Forces by individuals diagnosed with HBV, consistent with the health care standards and clinical guidelines of the Department of Defense; and
+
+"(2) identify areas where the regulations, policies, and guidance of the Department relating to individuals diagnosed with HBV (including with respect to enlistments, assignments, deployments, and retention standards) may be standardized across the Armed Forces.
+
+"(b) Definitions.—In this section:
+
+"(1) The term 'HBV' means the Hepatitis B Virus.
+
+"(2) The term 'Secretary concerned' has the meaning given that term in section 101 of title 10, United States Code."
+
 #### Strategy and Annual Report on Critical Language Proficiency of Special Operations Forces ####
 
 Pub. L. 117–81, div. A, title III, §364, Dec. 27, 2021, 135 Stat. 1662, provided that:
@@ -229,7 +245,7 @@ Pub. L. 117–81, div. A, title V, §522, Dec. 27, 2021, 135 Stat. 1686, provide
 
 #### Primary Prevention Workforce ####
 
-Pub. L. 117–81, div. A, title V, §549B, Dec. 27, 2021, 135 Stat. 1722, provided that:
+Pub. L. 117–81, div. A, title V, §549B, Dec. 27, 2021, 135 Stat. 1722, as amended by Pub. L. 117–263, div. A, title V, §547(b), Dec. 23, 2022, 136 Stat. 2585, provided that:
 
 "(a) Establishment.—The Secretary of Defense shall establish a Primary Prevention Workforce to provide a comprehensive and integrated program across the Department of Defense enterprise for the primary prevention of interpersonal and self-directed violence, including sexual assault, sexual harassment, domestic violence, child abuse and maltreatment, problematic juvenile sexual behavior, suicide, workplace violence, and substance misuse.
 
@@ -269,7 +285,7 @@ Pub. L. 117–81, div. A, title V, §549B, Dec. 27, 2021, 135 Stat. 1722, provid
 
 "(1) In general.—Not later than one year after the date of the enactment of this Act [Dec. 27, 2021], the Secretaries of the military departments and the Chief of the National Guard Bureau each shall submit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives a report detailing how the military services and the National Guard, as applicable, will adapt and implement the primary prevention workforce model set forth in the report required under subsection (b).
 
-"(2) Elements.—Each report submitted under subsection (a) shall include a description of—
+"(2) Elements.—Each report submitted under paragraph (1) shall include a description of—
 
 "(A) expected milestones to implement the prevention workforce in the component at issue;
 
@@ -277,7 +293,15 @@ Pub. L. 117–81, div. A, title V, §549B, Dec. 27, 2021, 135 Stat. 1722, provid
 
 "(C) additional authorities that may be required to optimize implementation and operation of the workforce.
 
-"(d) Operating Capability Deadline.—The Primary Prevention Workforce authorized under this section shall attain initial operating capability in each military department and military service and in the National Guard by not later than the effective date specified in section 539C [10 U.S.C. 801 note]."
+"(3) Comptroller General report.—Not later than one year after the date of the enactment of this paragraph [Dec. 23, 2022], the Comptroller General of the United States shall submit to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] a report that—
+
+"(A) compares the sexual harassment and prevention training of the Department of Defense with similar programs at other departments and agencies of the Federal Government; and
+
+"(B) includes relevant data collected by colleges and universities and other relevant outside entities on hazing and bullying and interpersonal and self-directed violence.
+
+"(d) Operating Capability Deadline.—The Primary Prevention Workforce authorized under this section shall attain initial operating capability in each military department and military service and in the National Guard by not later than the effective date specified in section 539C [10 U.S.C. 801 note].
+
+"(e) Incorporation of Research and Findings.—The Secretary of Defense shall ensure that the findings and conclusions from the primary prevention research agenda established under section 549A [10 U.S.C. 1561 note prec.] are regularly incorporated, as appropriate, within the primary prevention workforce established under subsection (a)."
 
 #### Cadre of Software Development and Acquisition Experts ####
 

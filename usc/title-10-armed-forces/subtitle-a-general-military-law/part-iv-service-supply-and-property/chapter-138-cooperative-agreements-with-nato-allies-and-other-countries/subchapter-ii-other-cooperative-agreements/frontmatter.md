@@ -8,7 +8,7 @@ Sec.
 
 2350c. Cooperative military airlift agreements: allied countries.
 
-2350d. Cooperative logistic support agreements: NATO countries.
+2350d. Cooperative acquisition and logistics support agreements: NATO countries.
 
 2350e. NATO Airborne Warning and Control System (AWACS) program: authority of Secretary of Defense.
 
@@ -36,9 +36,13 @@ Sec.
 
 2350q. Execution of projects under the North Atlantic Treaty Organization Security Investment Program.
 
+2350r. North Atlantic Treaty Organization Special Operations Headquarters.
+
 #### **Editorial Notes** ####
 
 #### Amendments ####
+
+**2022**—Pub. L. 117–263, div. A, title XII, §§1244(b)(1), 1271(b), Dec. 23, 2022, 136 Stat. 2845, 2860, substituted "acquisition and logistics support" for "logistic support" in item 2350d and added item 2350r. Amendment to item 2350d was made pursuant to operation of section 102 of this title.
 
 **2021**—Pub. L. 117–81, div. A, title X, §1081(a)(29), title XVII, §1701(u)(5)(B), Dec. 27, 2021, 135 Stat. 1921, 2154, redesignated item 2350m "Execution of projects under the North Atlantic Treaty Organization Security Investment Program" as 2350q and repealed Pub. L. 116–283, div. A, title XVIII, §1844(b)(2)(A), Jan. 1, 2021, 134 Stat. 4246, which had directed striking out item 2350l.
 

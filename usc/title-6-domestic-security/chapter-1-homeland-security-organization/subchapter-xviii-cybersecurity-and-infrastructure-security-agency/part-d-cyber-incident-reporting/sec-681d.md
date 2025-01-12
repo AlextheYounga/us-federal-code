@@ -12,7 +12,7 @@ If the Director has reason to believe, whether through public reporting or other
 
 #### (2) Treatment ####
 
-Information provided to the Agency in response to a request under paragraph (1) shall be treated as if it was submitted through the reporting procedures established in section 681b of this title.
+Information provided to the Agency in response to a request under paragraph (1) shall be treated as if it was submitted through the reporting procedures established in section 681b of this title <sup><a href="#681d_1_target" name="681d_1">1</a></sup> including that section 681e of this title shall apply to such information in the same manner and to the same extent to information submitted in response to requests under paragraph (1) as it applies to information submitted under section 681b of this title.
 
 #### (c) Enforcement ####
 
@@ -92,4 +92,12 @@ The Director shall publish a version of the annual report required under subsect
 
 The Director shall ensure any victim information contained in a report required to be published under subsection (h) be anonymized before the report is published.
 
-(Pub. L. 107–296, title XXII, §2244, as added Pub. L. 117–103, div. Y, §103(a)(2), Mar. 15, 2022, 136 Stat. 1049.)
+(Pub. L. 107–296, title XXII, §2244, as added Pub. L. 117–103, div. Y, §103(a)(2), Mar. 15, 2022, 136 Stat. 1049; amended Pub. L. 117–263, div. G, title LXXI, §7143(e)(2), Dec. 23, 2022, 136 Stat. 3664.)
+
+#### **Editorial Notes** ####
+
+#### Amendments ####
+
+**2022**—Subsec. (b)(2). Pub. L. 117–263 inserted "including that section 681e of this title shall apply to such information in the same manner and to the same extent to information submitted in response to requests under paragraph (1) as it applies to information submitted under section 681b of this title" after "section 681b of this title".
+
+[<sup>1</sup> So in original. Probably should be followed by a comma.](#681d_1)

@@ -90,7 +90,7 @@ Amendment by Pub. L. 102–190 effective Feb. 1, 1992, see section 1132 of Pub. 
 
 #### Effective Date of 1988 Amendment ####
 
-Amendment by Pub. L. 100–456 applicable as if included in enactment of Pub. L. 100–180, see section 1233(l)(5) of Pub. L. 100–456, set out as a note under section 2366 of Title 10, Armed Forces.
+Amendment by Pub. L. 100–456 applicable as if included in enactment of Pub. L. 100–180, see section 1233(l)(5) of Pub. L. 100–456, set out as a note under section 4172 of Title 10, Armed Forces.
 
 #### Effective Date of 1987 Amendment ####
 

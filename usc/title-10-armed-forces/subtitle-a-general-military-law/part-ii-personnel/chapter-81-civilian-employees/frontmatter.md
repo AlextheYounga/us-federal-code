@@ -72,9 +72,13 @@ Sec.
 
 1599i. Recruitment incentives for placement at remote locations.
 
+1599j. Restricted reports of incidents of adult sexual assault.
+
 #### **Editorial Notes** ####
 
 #### Amendments ####
+
+**2022**—Pub. L. 117–263, div. A, title XI, §1101(b), Dec. 23, 2022, 136 Stat. 2815, added item 1599j.
 
 **2021**—Pub. L. 117–81, div. A, title XI, §1106(b)(1), title XVII, §1701(w)(1), Dec. 27, 2021, 135 Stat. 1950, 2154, struck out items 1599e "Probationary period for employees" and 1599h "Personnel management authority to attract experts in science and engineering".
 
@@ -150,7 +154,7 @@ Pub. L. 101–189, div. A, title III, §§311(b)(2), 336(a)(2), title VI, §664(
 
 #### Pilot Program on the Use of Electronic Portfolios To Evaluate Certain Applicants for Technical Positions ####
 
-Pub. L. 116–283, div. A, title II, §247, Jan. 1, 2021, 134 Stat. 3491, provided that:
+Pub. L. 116–283, div. A, title II, §247, Jan. 1, 2021, 134 Stat. 3491, as amended by Pub. L. 117–263, div. A, title II, §212(h), Dec. 23, 2022, 136 Stat. 2468, provided that:
 
 "(a) Pilot Program.—Beginning not later than one year after the date of the enactment of this Act [Jan. 1, 2021], the Secretary of Defense shall carry out a pilot program under which certain applicants for technical positions within the Department of Defense will be evaluated, in part, based on electronic portfolios of the applicant's work, as described in subsection (b).
 
@@ -162,13 +166,11 @@ Pub. L. 116–283, div. A, title II, §247, Jan. 1, 2021, 134 Stat. 3491, provid
 
 "(c) Scope of Program.—The Secretary of Defense shall carry out the pilot program under subsection (a) in—
 
-"(1) the Joint Artificial Intelligence Center;
+"(1) the office of the official designated under subsection (b) of section 238 of the John S. McCain National Defense Authorization Act for Fiscal Year 2019 (Public Law 115–232; 10 U.S.C. note prec. 4061);
 
-"(2) the Defense Digital Service;
+"(2) at least one activity of each military department, as identified by the Secretary of the department concerned; and
 
-"(3) at least one activity of each military department, as identified by the Secretary of the department concerned; and
-
-"(4) such other organizations and elements of the Department of Defense as the Secretary determines appropriate.
+"(3) such other organizations and elements of the Department of Defense as the Secretary determines appropriate.
 
 "(d) Report.—Not later than two years after the commencement of the pilot program under subsection (a), the Secretary of Defense shall submit to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] a report on the results of the program. At a minimum, the report shall—
 

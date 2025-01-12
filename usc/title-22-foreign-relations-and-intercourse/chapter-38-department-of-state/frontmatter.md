@@ -224,6 +224,12 @@ Sec.
 
 2719. Grants for training and education in international affairs.
 
+2719a. Foreign affairs training.
+
+2719b. Training and professional development prioritization.
+
+2719c. Facilitation and encouragement of training and professional development for Foreign Service and Civil Service personnel.
+
 2720. Closing of consular and diplomatic posts abroad.
 
 2721. Impermissible basis for denial of passports.
@@ -270,6 +276,8 @@ Sec.
 
 2734f. Strategic staffing plan for the Department of State.
 
+2734g. Promoting transparency and accountability in the Department of State workforce.
+
 2735. Foreign relations exchange programs.
 
 2736. Exit interviews for workforce.
@@ -283,3 +291,5 @@ Sec.
 2736d. Payne fellowship authorization.
 
 2736e. Voluntary participation.
+
+2737. Department of State paid Student Internship Program.

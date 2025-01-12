@@ -238,6 +238,42 @@ For savings provision relating to payment or repayment of any bonus, incentive p
 
 For termination, effective Dec. 31, 2021, of provisions in subsec. (i)(2) of this section requiring submittal of annual report to Congress, see section 1061 of Pub. L. 114–328, set out as a note under section 111 of Title 10, Armed Forces.
 
+#### Air Force Rated Officer Retention Demonstration Program ####
+
+Pub. L. 117–263, div. A, title VI, §604, Dec. 23, 2022, 136 Stat. 2621, provided that:
+
+"(a) Program Requirement.—The Secretary shall establish and carry out within the Department of the Air Force a demonstration program to assess and improve retention on active duty in the Air Force of rated officers described in subsection (b).
+
+"(b) Rated Officers Described.—Rated officers described in this subsection are rated officers serving on active duty in the Air Force, excluding rated officers with a reserve appointment in the Air National Guard or Air Force Reserve—
+
+"(1) whose continued service on active duty would be in the best interest of the Department of the Air Force, as determined by the Secretary; and
+
+"(2) who have not more than three years and not less than one year remaining on an active duty service obligation under section 653 of title 10, United States Code.
+
+"(c) Written Agreement.—
+
+"(1) In general.—Under the demonstration program required under subsection (a), the Secretary shall offer retention incentives under subsection (d) to a rated officer described in subsection (b) who executes a written agreement to remain on active duty in a regular component of the Air Force for not less than four years after the completion of the active duty service obligation of the officer under section 653 of title 10, United States Code.
+
+"(2) Exception.—If the Secretary of the Air Force determines that an assignment previously guaranteed under subsection (d)(1) to a rated officer described in subsection (b) cannot be fulfilled, the agreement of the officer under paragraph (1) to remain on active duty shall expire not later than one year after that determination.
+
+"(d) Retention Incentives.—
+
+"(1) Guarantee of future assignment location.—Under the demonstration program required under subsection (a), the Secretary may offer to a rated officer described in subsection (b) a guarantee of future assignment locations based on the preference of the officer.
+
+"(2) Aviation bonus.—Under the demonstration program required under subsection (a), notwithstanding section 334(c) of title 37, United States Code, the Secretary may pay to a rated officer described in subsection (b) an aviation bonus not to exceed an average annual amount of $50,000 (subject to paragraph (3)(B)).
+
+"(3) Combination of incentives.—The Secretary may offer to a rated officer described in subsection (b) a combination of incentives under paragraphs (1) and (2).
+
+"(e) Annual Briefing.—Not later than December 31, 2023, and annually thereafter until the termination of the demonstration program required under subsection (a), the Secretary shall provide to the Committees on Armed Services of the Senate and the House of Representatives a briefing describing the use of such demonstration program and its effects on the retention on active duty in the Air Force of rated officers described in subsection (b).
+
+"(f) Definitions.—In this section:
+
+"(1) Rated officer.—The term 'rated officer' means an officer specified in section 9253 of title 10, United States Code.
+
+"(2) Secretary.—The term 'Secretary' means the Secretary of the Air Force.
+
+"(g) Termination.—This section shall terminate on December 31, 2028."
+
 #### Payment of Bonus to Aviation Officers Killed in Persian Gulf War Before Completion of Service ####
 
 Pub. L. 102–172, title VIII, §8135, Nov. 26, 1991, 105 Stat. 1212, as amended by Pub. L. 105–277, div. C, title I, §148, Oct. 21, 1998, 112 Stat. 2681–610, provided that:

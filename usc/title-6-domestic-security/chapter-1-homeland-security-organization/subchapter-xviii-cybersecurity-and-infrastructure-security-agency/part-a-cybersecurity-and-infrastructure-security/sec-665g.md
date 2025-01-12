@@ -4,23 +4,11 @@
 
 In this section:
 
-#### (1) Appropriate committees of Congress ####
-
-The term "appropriate committees of Congress" means—
-
-(A) the Committee on Homeland Security and Governmental Affairs of the Senate; and
-
-(B) the Committee on Homeland Security of the House of Representatives.
-
-#### (2) Cyber threat indicator ####
-
-The term "cyber threat indicator" has the meaning given the term in section 1501 of this title.
-
-#### (3) Cybersecurity Plan ####
+#### (1) Cybersecurity Plan ####
 
 The term "Cybersecurity Plan" means a plan submitted by an eligible entity under subsection (e)(1).
 
-#### (4) Eligible entity ####
+#### (2) Eligible entity ####
 
 The term "eligible entity" means a—
 
@@ -28,35 +16,23 @@ The term "eligible entity" means a—
 
 (B) Tribal government.
 
-#### (5) Incident ####
-
-The term "incident" has the meaning given the term in section 659 of this title.
-
-#### (6) Information sharing and analysis organization ####
-
-The term "information sharing and analysis organization" has the meaning given the term in section 671 of this title.
-
-#### (7) Information system ####
-
-The term "information system" has the meaning given the term in section 1501 of this title.
-
-#### (8) Multi-entity group ####
+#### (3) Multi-entity group ####
 
 The term "multi-entity group" means a group of 2 or more eligible entities desiring a grant under this section.
 
-#### (9) Online service ####
+#### (4) Online service ####
 
 The term "online service" means any internet-facing service, including a website, email, virtual private network, or custom application.
 
-#### (10) Rural area ####
+#### (5) Rural area ####
 
 The term "rural area" has the meaning given the term in section 5302 of title 49.
 
-#### (11) State and Local Cybersecurity Grant Program ####
+#### (6) State and Local Cybersecurity Grant Program ####
 
 The term "State and Local Cybersecurity Grant Program" means the program established under subsection (b).
 
-#### (12) Tribal government ####
+#### (7) Tribal government ####
 
 The term "Tribal government" means the recognized governing body of any Indian or Alaska Native Tribe, band, nation, pueblo, village, community, component band, or component reservation, that is individually identified (including parenthetically) in the most recent list published pursuant to section 5131 of title 25.
 
@@ -148,7 +124,7 @@ A Cybersecurity Plan of an eligible entity shall—
 
 (II) as applicable—
 
-(aa) eligible entities that neighbor the jurisdiction of the eligible entity or, as appropriate, members of an information sharing and analysis organization; and
+(aa) eligible entities that neighbor the jurisdiction of the eligible entity or, as appropriate, members of an Information Sharing and Analysis Organization; and
 
 (bb) countries that neighbor the jurisdiction of the eligible entity;
 
@@ -514,7 +490,7 @@ In carrying out this section, the Secretary shall consult with State, local, and
 
 #### (p) Notification to Congress ####
 
-Not later than 3 business days before the date on which the Department announces the award of a grant to an eligible entity under this section, including an announcement to the eligible entity, the Secretary shall provide to the appropriate committees of Congress notice of the announcement.
+Not later than 3 business days before the date on which the Department announces the award of a grant to an eligible entity under this section, including an announcement to the eligible entity, the Secretary shall provide to the appropriate congressional committees notice of the announcement.
 
 #### (q) Reports, study, and review ####
 
@@ -568,7 +544,7 @@ In making each report publicly available under subparagraph (A), the Director ma
 
 #### (A) In general ####
 
-Not later than September 30, 2024, the Secretary, acting through the Director, shall submit to the appropriate committees of Congress a study and legislative recommendations on the potential use of a risk-based formula for apportioning funds under this section, including—
+Not later than September 30, 2024, the Secretary, acting through the Director, shall submit to the appropriate congressional committees a study and legislative recommendations on the potential use of a risk-based formula for apportioning funds under this section, including—
 
 (i) potential components that could be included in a risk-based formula, including the potential impact of those components on support for rural areas under this section;
 
@@ -634,7 +610,7 @@ Subject to paragraph (2), the requirements of this section shall terminate on Se
 
 The reporting requirements under subsection (q) shall terminate on the date that is 1 year after the date on which the final funds from a grant under this section are expended or returned.
 
-(Pub. L. 107–296, title XXII, §2220A, formerly §2218, as added Pub. L. 117–58, div. G, title VI, §70612(a), Nov. 15, 2021, 135 Stat. 1272; renumbered §2220A and amended Pub. L. 117–81, div. A, title XV, §1547(b)(1)(A)(viii), Dec. 27, 2021, 135 Stat. 2061.)
+(Pub. L. 107–296, title XXII, §2220A, formerly §2218, as added Pub. L. 117–58, div. G, title VI, §70612(a), Nov. 15, 2021, 135 Stat. 1272; renumbered §2220A and amended Pub. L. 117–81, div. A, title XV, §1547(b)(1)(A)(viii), Dec. 27, 2021, 135 Stat. 2061; Pub. L. 117–263, div. G, title LXXI, §7143(b)(2)(K), Dec. 23, 2022, 136 Stat. 3660.)
 
 #### **Editorial Notes** ####
 
@@ -643,6 +619,14 @@ The reporting requirements under subsection (q) shall terminate on the date that
 The Food and Nutrition Act of 2008, referred to in subsec. (m)(2)(C)(ii), is Pub. L. 88–525, Aug. 31, 1964, 78 Stat. 703, which is classified generally to chapter 51 (§2011 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of Title 7 and Tables.
 
 #### Amendments ####
+
+**2022**—Subsec. (a). Pub. L. 117–263, §7143(b)(2)(K)(i), redesignated pars. (3), (4), and (8) to (12) as pars. (1) to (7), respectively, and struck out former pars. (1), (2), and (5) to (7) which defined appropriate committees of Congress, cyber threat indicator, incident, information sharing and analysis organization, and information system, respectively.
+
+Subsec. (e)(2)(B)(xiv)(II)(aa). Pub. L. 117–263, §7143(b)(2)(K)(ii), substituted "Information Sharing and Analysis Organization" for "information sharing and analysis organization".
+
+Subsec. (p). Pub. L. 117–263, §7143(b)(2)(K)(iii), substituted "appropriate congressional committees" for "appropriate committees of Congress".
+
+Subsec. (q)(4)(A). Pub. L. 117–263, §7143(b)(2)(K)(iv), which directed amendment of subsec. (q)(4) by substituting "appropriate congressional committees" for "appropriate committees of Congress" "in the matter preceding clause (i)", was executed by making the substitution in the introductory provisions of subsec. (q)(4)(A), to reflect the probable intent of Congress.
 
 **2021**—Pub. L. 117–81 reenacted section catchline.
 

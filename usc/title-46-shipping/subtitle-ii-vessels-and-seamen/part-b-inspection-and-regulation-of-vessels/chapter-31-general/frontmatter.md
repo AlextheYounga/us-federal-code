@@ -12,9 +12,13 @@ Sec.
 
 3105. Electronic charts.
 
+3106. Master key control system.
+
 #### **Editorial Notes** ####
 
 #### Amendments ####
+
+**2022**—Pub. L. 117–263, div. K, title CXVI, §11608(b), Dec. 23, 2022, 136 Stat. 4152, added item 3106.
 
 **2018**—Pub. L. 115–282, title IV, §402(a)(2), Dec. 4, 2018, 132 Stat. 4264, added item 3105.
 

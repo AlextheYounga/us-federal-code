@@ -86,4 +86,26 @@ Pub. L. 114–328, div. A, title IX, §901(b), Dec. 23, 2016, 130 Stat. 2339, pr
 
 Position of Chief Management Officer of the Department of Defense effectively abolished upon the repeal of section 132a of this title by Pub. L. 116–283, div. A, title IX, §901(a)(1), Jan. 1, 2021, 134 Stat. 3794. Duties, personnel, and functions of the Chief Management Officer transferred to other Department of Defense officers, employees, and organizations, and any reference to the Chief Management Officer of the Department of Defense to be deemed to refer to the applicable Department of Defense officer or employee as so designated, see section 901(b), (c) of Pub. L. 116–283, set out in a note under former section 132a of this title.
 
+#### Department of Defense Support for Requirements of White House Military Office ####
+
+Pub. L. 117–263, div. A, title XVI, §1672(b), (c), Dec. 23, 2022, 136 Stat. 2959, provided that:
+
+"(b) Portfolio Manager.—The Secretary of Defense, acting through the Under Secretary of Defense for Acquisition and Sustainment, shall designate a senior official to coordinate and advocate for the portfolio of national level programs of the Department of Defense that are either or both—
+
+"(1) in direct support of requirements from the White House Military Office; or
+
+"(2) operationally relevant to the mission areas of the White House Military Office.
+
+"(c) Accessibility of Information.—The programmatic and budgetary information required to assess the efficacy of the national level programs covered by subsection (b) shall be provided to the senior official designated under such subsection by the following officials:
+
+"(1) The Secretary of each military department.
+
+"(2) The Under Secretary of Defense for Policy.
+
+"(3) The Under Secretary of Defense for Research and Engineering.
+
+"(4) The Chairman of the Joint Chiefs of Staff.
+
+"(5) The Director of Cost Assessment and Program Evaluation."
+
 [<sup>1</sup> See Transfer of Functions note below.](#133b_1)

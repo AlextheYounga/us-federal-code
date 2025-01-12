@@ -94,6 +94,8 @@ Sec.
 
 8143a. Members of the National Teacher Corps.
 
+8143b. Employees in fire protection activities.
+
 8144. Student-employees.
 
 8145. Administration.
@@ -133,6 +135,8 @@ Sec.
 #### **Editorial Notes** ####
 
 #### Amendments ####
+
+**2022**—Pub. L. 117–263, div. E, title LIII, §5305(a)(1)(B), Dec. 23, 2022, 136 Stat. 3253, which directed amendment of the analysis for subchapter I of this chapter by adding item 8143b, was executed by adding item 8143b to the analysis for this chapter to reflect the probable intent of Congress.
 
 **2008**—Pub. L. 110–181, div. A, title XI, §1105(b), Jan. 28, 2008, 122 Stat. 349, added item 8102a.
 

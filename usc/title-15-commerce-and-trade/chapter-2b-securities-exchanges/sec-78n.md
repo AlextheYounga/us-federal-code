@@ -190,7 +190,17 @@ The Commission shall, by rule, require each issuer to disclose in any proxy or c
 
 (2) held, directly or indirectly, by the employee or member of the board of directors.
 
-(June 6, 1934, ch. 404, title I, §14, 48 Stat. 895; Pub. L. 88–467, §5, Aug. 20, 1964, 78 Stat. 569; Pub. L. 90–439, §3, July 29, 1968, 82 Stat. 455; Pub. L. 91–567, §§3–5, Dec. 22, 1970, 84 Stat. 1497; Pub. L. 98–38, §2(b), June 6, 1983, 97 Stat. 205; Pub. L. 99–222, §2, Dec. 28, 1985, 99 Stat. 1737; Pub. L. 101–550, title III, §302, Nov. 15, 1990, 104 Stat. 2721; Pub. L. 103–202, title III, §302(a), Dec. 17, 1993, 107 Stat. 2359; Pub. L. 105–353, title III, §301(b)(7), Nov. 3, 1998, 112 Stat. 3236; Pub. L. 107–123, §6, Jan. 16, 2002, 115 Stat. 2396; Pub. L. 111–203, title IX, §§953(a), 955, 971(a), 991(b)(3), July 21, 2010, 124 Stat. 1903, 1904, 1915, 1953; Pub. L. 112–106, title I, §102(a)(2), Apr. 5, 2012, 126 Stat. 309.)
+#### (k) Data standards for proxy and consent solicitation materials ####
+
+#### (1) Requirement ####
+
+The Commission shall, by rule, adopt data standards for all information contained in any proxy or consent solicitation material prepared by an issuer for an annual meeting of the shareholders of the issuer, except that the Commission may exempt exhibits, signatures, and certifications from those data standards.
+
+#### (2) Consistency ####
+
+The data standards required under paragraph (1) shall incorporate, and ensure compatibility with (to the extent feasible), all applicable data standards established in the rules promulgated under section 5334 of title 12, including, to the extent practicable, by having the characteristics described in clauses (i) through (vi) of subsection (c)(1)(B) of such section 5334.
+
+(June 6, 1934, ch. 404, title I, §14, 48 Stat. 895; Pub. L. 88–467, §5, Aug. 20, 1964, 78 Stat. 569; Pub. L. 90–439, §3, July 29, 1968, 82 Stat. 455; Pub. L. 91–567, §§3–5, Dec. 22, 1970, 84 Stat. 1497; Pub. L. 98–38, §2(b), June 6, 1983, 97 Stat. 205; Pub. L. 99–222, §2, Dec. 28, 1985, 99 Stat. 1737; Pub. L. 101–550, title III, §302, Nov. 15, 1990, 104 Stat. 2721; Pub. L. 103–202, title III, §302(a), Dec. 17, 1993, 107 Stat. 2359; Pub. L. 105–353, title III, §301(b)(7), Nov. 3, 1998, 112 Stat. 3236; Pub. L. 107–123, §6, Jan. 16, 2002, 115 Stat. 2396; Pub. L. 111–203, title IX, §§953(a), 955, 971(a), 991(b)(3), July 21, 2010, 124 Stat. 1903, 1904, 1915, 1953; Pub. L. 112–106, title I, §102(a)(2), Apr. 5, 2012, 126 Stat. 309; Pub. L. 117–263, div. E, title LVIII, §5821(g), Dec. 23, 2022, 136 Stat. 3426.)
 
 #### **Editorial Notes** ####
 
@@ -203,6 +213,8 @@ The Investment Company Act of 1940, referred to in subsecs. (b)(1), (c), (d)(1),
 The Securities Act of 1933, referred to in subsec. (h)(5)(C), is act May 27, 1933, ch. 38, title I, 48 Stat. 74, which is classified generally to subchapter I (§77a et seq.) of chapter 2A of this title. For complete classification of this Act to the Code, see section 77a of this title and Tables.
 
 #### Amendments ####
+
+**2022**—Subsec. (k). Pub. L. 117–263 added subsec. (k).
 
 **2012**—Subsec. (i). Pub. L. 112–106 inserted ", for any issuer other than an emerging growth company," after "including".
 
@@ -286,6 +298,10 @@ Pub. L. 111–203, title IX, §971(b), (c), July 21, 2010, 124 Stat. 1915, provi
 
 Pub. L. 103–202, title III, §302(b), Dec. 17, 1993, 107 Stat. 2363, provided that: "The Securities and Exchange Commission shall conduct rulemaking proceedings and prescribe final regulations under the Securities Act of 1933 [15 U.S.C. 77a et seq.] and the Securities Exchange Act of 1934 [15 U.S.C. 78a et seq.] to implement the requirements of section 14(h) of the Securities Exchange Act of 1934 [15 U.S.C. 78n(h)], as amended by subsection (a), and such regulations shall become effective not later than 12 months after the date of enactment of this Act [Dec. 17, 1993]."
 
+#### Rule of Construction—No New Disclosure Requirements ####
+
+Amendment by Pub. L. 117–263 not to be construed to require certain additional information to be collected or disclosed, see section 5826 of Pub. L. 117–263, set out as a note under section 77g of this title.
+
 #### Construction of 1993 Amendment ####
 
 Amendment by Pub. L. 103–202 not to limit authority of Securities and Exchange Commission, a registered securities association, or a national securities exchange under any provision of this chapter or preclude the Commission or such association or exchange from imposing a remedy or procedure required to be imposed under such amendment, see section 304(b) of Pub. L. 103–202, set out in an Effective Date of 1993 Amendment note under section 78f of this title.
@@ -300,7 +316,9 @@ Pub. L. 103–202, title III, §302(c), Dec. 17, 1993, 107 Stat. 2363, provided 
 
 #### Adjustment of Registration Fee Rate ####
 
-By order dated Aug. 23, 2021, the Securities and Exchange Commission adjusted the fee rates applicable under subsec. (b) of this section to $92.71 per $1,000,000, effective Oct. 1, 2021, see 86 F.R. 47696.
+By order dated Aug. 25, 2022, the Securities and Exchange Commission adjusted the fee rates applicable under subsec. (g) of this section to $110.20 per $1,000,000, effective Oct. 1, 2022, see 87 F.R. 53030.
+
+By order dated Aug. 23, 2021, the Securities and Exchange Commission adjusted the fee rates applicable under subsec. (g) of this section to $92.70 per $1,000,000, effective Oct. 1, 2021, see 86 F.R. 47696.
 
 By order dated Aug. 26, 2020, the Securities and Exchange Commission adjusted the fee rates applicable under subsec. (g) of this section to $109.10 per $1,000,000, effective Oct. 1, 2020, see 85 F.R. 53890.
 

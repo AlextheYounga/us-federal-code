@@ -52,6 +52,10 @@ Sec.
 
 4526. Regulations and orders.
 
+4527. Data standards.
+
+4528. Open data publication.
+
 #### Part B—Additional Authorities of the Director ####
 
 #### subpart 1—general authority ####

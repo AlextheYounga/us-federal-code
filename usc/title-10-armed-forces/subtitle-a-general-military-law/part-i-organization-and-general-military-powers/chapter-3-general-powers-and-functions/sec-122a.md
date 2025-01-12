@@ -77,3 +77,21 @@ Pub. L. 115–232, div. A, title V, §595, Aug. 13, 2018, 132 Stat. 1789, provid
 "(B) the reasons for the determination to issue the waiver.
 
 "(c) Sensitive Military Operation Defined.—The term 'sensitive military operation' has the meaning given that term in section 130f(d) of title 10, United States Code."
+
+#### Cost of Wars ####
+
+Pub. L. 114–328, div. A, title X, §1090, Dec. 23, 2016, 130 Stat. 2428, as amended by Pub. L. 117–263, div. A, title X, §1085, Dec. 23, 2022, 136 Stat. 2800, provided that:
+
+"(a) Publication of Information.—The Secretary of Defense, in consultation with the Commissioner of the Internal Revenue Service and the Director of the Bureau of Economic Analysis, shall post on the public Internet website of the Department of Defense the costs to each United States taxpayer of any contingency operation conducted by the United States Armed Forces on or after September 18, 2001.
+
+"(b) Display of Information.—The information required to be posted under subsection (a) shall, to the extent practicable—
+
+"(1) be posted directly on the website of the Department of Defense, in an accessible and clear format;
+
+"(2) include corresponding documentation as links or attachments; and
+
+"(3) include, for each contingency operation, a list of countries where the contingency operation has taken place.
+
+"(c) Updates.—The Secretary shall ensure that all the information required to be posted under subsection (a) is updated by not later than 90 days after the last day of each fiscal year.
+
+"(d) Contingency Operation Defined.—In this section, the term 'contingency operation' has the meaning given such term in section 101(a)(13) of title 10, United States Code."

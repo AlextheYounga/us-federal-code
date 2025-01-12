@@ -318,7 +318,19 @@ The Advocate for Small Business Capital Formation shall be responsible for plann
 
 Nothing in this subsection may be construed as replacing or reducing the responsibilities of the Investor Advocate with respect to small business investors.
 
-(June 6, 1934, ch. 404, title I, §4, 48 Stat. 885; Oct. 28, 1949, ch. 782, title XI, §1106(a), 63 Stat. 972; Pub. L. 86–619, §3, July 12, 1960, 74 Stat. 408; Pub. L. 86–771, Sept. 13, 1960, 74 Stat. 913; Pub. L. 88–426, title III, §305(20), Aug. 14, 1964, 78 Stat. 425; Pub. L. 98–38, §1, June 6, 1983, 97 Stat. 205; Pub. L. 100–181, title III, §307, Dec. 4, 1987, 101 Stat. 1254; Pub. L. 101–550, title I, §103, title II, §207, Nov. 15, 1990, 104 Stat. 2713, 2721; Pub. L. 104–290, title IV, §406, Oct. 11, 1996, 110 Stat. 3444; Pub. L. 105–353, title II, §203, Nov. 3, 1998, 112 Stat. 3234; Pub. L. 107–123, §8(d)(2), Jan. 16, 2002, 115 Stat. 2399; Pub. L. 111–203, title IX, §§915, 919D, 965, 991(e)(1), July 21, 2010, 124 Stat. 1830, 1840, 1911, 1954; Pub. L. 114–284, §2(a), Dec. 16, 2016, 130 Stat. 1447; Pub. L. 115–141, div. S, title IX, §902, Mar. 23, 2018, 132 Stat. 1143.)
+#### (k) Open data publication ####
+
+All public data assets published by the Commission under the securities laws and the Dodd-Frank Wall Street Reform and Consumer Protection Act (Public Law 111–203; 124 Stat. 1376) shall be—
+
+(1) made available as an open Government data asset (as defined in section 3502 of title 44);
+
+(2) freely available for download;
+
+(3) rendered in a human-readable format; and
+
+(4) accessible via application programming interface where appropriate.
+
+(June 6, 1934, ch. 404, title I, §4, 48 Stat. 885; Oct. 28, 1949, ch. 782, title XI, §1106(a), 63 Stat. 972; Pub. L. 86–619, §3, July 12, 1960, 74 Stat. 408; Pub. L. 86–771, Sept. 13, 1960, 74 Stat. 913; Pub. L. 88–426, title III, §305(20), Aug. 14, 1964, 78 Stat. 425; Pub. L. 98–38, §1, June 6, 1983, 97 Stat. 205; Pub. L. 100–181, title III, §307, Dec. 4, 1987, 101 Stat. 1254; Pub. L. 101–550, title I, §103, title II, §207, Nov. 15, 1990, 104 Stat. 2713, 2721; Pub. L. 104–290, title IV, §406, Oct. 11, 1996, 110 Stat. 3444; Pub. L. 105–353, title II, §203, Nov. 3, 1998, 112 Stat. 3234; Pub. L. 107–123, §8(d)(2), Jan. 16, 2002, 115 Stat. 2399; Pub. L. 111–203, title IX, §§915, 919D, 965, 991(e)(1), July 21, 2010, 124 Stat. 1830, 1840, 1911, 1954; Pub. L. 114–284, §2(a), Dec. 16, 2016, 130 Stat. 1447; Pub. L. 115–141, div. S, title IX, §902, Mar. 23, 2018, 132 Stat. 1143; Pub. L. 117–263, div. E, title LVIII, §5822, Dec. 23, 2022, 136 Stat. 3427.)
 
 #### **Editorial Notes** ####
 
@@ -326,7 +338,11 @@ Nothing in this subsection may be construed as replacing or reducing the respons
 
 This chapter, referred to in subsecs. (a), (g)(4)(D)(ii), and (j)(4)(D)(ii), was in the original "this title". See References in Text note set out under section 78a of this title.
 
+The Dodd-Frank Wall Street Reform and Consumer Protection Act, referred to in subsec. (k), is Pub. L. 111–203, July 21, 2010, 124 Stat. 1376, which enacted chapter 53 (§5301 et seq.) of Title 12, Banks and Banking, and chapters 108 (§8201 et seq.) and 109 (§8301 et seq.) of this title, and enacted, amended, and repealed numerous other sections and notes in the Code. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of Title 12 and Tables.
+
 #### Amendments ####
+
+**2022**—Subsec. (k). Pub. L. 117–263 added subsec. (k).
 
 **2018**—Subsec. (j)(4)(C), (6)(B)(iii). Pub. L. 115–141 substituted "minority-owned small businesses, women-owned small businesses, and small businesses affected by hurricanes or other natural disasters" for "minority-owned and women-owned small businesses".
 
@@ -381,6 +397,10 @@ For effective date of amendment by Pub. L. 88–426, see section 501 of Pub. L. 
 #### Repeals ####
 
 Act Oct. 28, 1949, ch. 782, set out in the credit of this section, was repealed (subject to a savings clause) by Pub. L. 89–554, Sept. 6, 1966, §8, 80 Stat. 632, 655.
+
+#### Rule of Construction—No New Disclosure Requirements ####
+
+Amendment by Pub. L. 117–263 not to be construed to require certain additional information to be collected or disclosed, see section 5826 of Pub. L. 117–263, set out as a note under section 77g of this title.
 
 #### Outreach by the Commission ####
 

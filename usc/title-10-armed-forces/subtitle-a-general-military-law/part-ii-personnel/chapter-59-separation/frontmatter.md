@@ -70,15 +70,21 @@ Pub. L. 104–106, div. A, title V, §§563(a)(1)(B), 567(a)(2), Feb. 10, 1996, 
 
 #### **Statutory Notes and Related Subsidiaries** ####
 
+#### Rescission of COVID-19 Vaccination Mandate ####
+
+Pub. L. 117–263, div. A, title V, §525, Dec. 23, 2022, 136 Stat. 2571, provided that: "Not later than 30 days after the date of the enactment of this Act [Dec. 23, 2022], the Secretary of Defense shall rescind the mandate that members of the Armed Forces be vaccinated against COVID-19 pursuant to the memorandum dated August 24, 2021, regarding 'Mandatory Coronavirus Disease 2019 Vaccination of Department of Defense Service Members'."
+
 #### Limitation on Certain Discharges Solely on the Basis of Failure To Obey Lawful Order To Receive COVID–19 Vaccine ####
 
-Pub. L. 117–81, div. A, title VII, §736, Dec. 27, 2021, 135 Stat. 1800, provided that:
+Pub. L. 117–81, div. A, title VII, §736, Dec. 27, 2021, 135 Stat. 1800, as amended by Pub. L. 117–263, div. A, title V, §524, Dec. 23, 2022, 136 Stat. 2571, provided that:
 
-"(a) Limitation.—During the period of time beginning on August 24, 2021, and ending on the date that is two years after the date of the enactment of this Act [Dec. 27, 2021], any administrative discharge of a covered member, on the sole basis that the covered member failed to obey a lawful order to receive a vaccine for COVID–19, shall be—
+"(a) Limitation.—Any administrative discharge of a covered member, on the sole basis that the covered member failed to obey a lawful order to receive a vaccine for COVID–19, shall be—
 
-"(1) an honorable discharge; or
+"(1) an honorable discharge;
 
-"(2) a general discharge under honorable conditions.
+"(2) a general discharge under honorable conditions; or
+
+"(3) in the case of a covered member receiving an administrative discharge before completing the first 180 continuous days of active duty, uncharacterized.
 
 "(b) Definitions.—In this section:
 

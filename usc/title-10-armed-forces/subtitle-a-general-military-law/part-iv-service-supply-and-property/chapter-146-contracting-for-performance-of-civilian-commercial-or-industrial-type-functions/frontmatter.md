@@ -30,7 +30,7 @@ Sec.
 
 2472. Prohibition on management of depot employees by end strength.
 
-[2473. Repealed.]
+2473. Annual five-year plans on improvement of depot infrastructure.
 
 2474. Centers of Industrial and Technical Excellence: designation; public-private partnerships.
 
@@ -41,6 +41,8 @@ Sec.
 #### **Editorial Notes** ####
 
 #### Amendments ####
+
+**2022**—Pub. L. 117–263, div. A, title III, §373, Dec. 23, 2022, 136 Stat. 2540, added item 2473.
 
 **2014**—Pub. L. 113–291, div. A, title X, §1060(a)(2)(B), Dec. 19, 2014, 128 Stat. 3502, struck out item 2462 "Reports on public-private competition".
 

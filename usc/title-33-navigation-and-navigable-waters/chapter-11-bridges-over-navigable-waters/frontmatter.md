@@ -60,7 +60,7 @@ Sec.
 
 521. Regulations and orders.
 
-522. Repealed.
+522. Existing provisions of law.
 
 523. Relocation of bridges.
 

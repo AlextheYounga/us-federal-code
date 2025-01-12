@@ -34,17 +34,17 @@ Section is comprised of the second, third, fourth, and sixth undesignated pars. 
 
 #### **Statutory Notes and Related Subsidiaries** ####
 
-#### Operations and Maintenance Costs of Certain Bureau of Reclamation Dikes ####
+#### Operations and Maintenance Costs of Certain Bureau of Reclamation Dams and Dikes ####
 
-Pub. L. 115–270, title IV, §4309, Oct. 23, 2018, 132 Stat. 3889, provided that:
+Pub. L. 115–270, title IV, §4309, Oct. 23, 2018, 132 Stat. 3889, as amended by Pub. L. 117–263, div. E, title LIX, §5944, Dec. 23, 2022, 136 Stat. 3472, provided that:
 
-"(a) In General.—Notwithstanding any other provision of law (including regulations), effective beginning on the date of enactment of this section [Oct. 23, 2018], the Federal share of the operations and maintenance costs of a dike described in subsection (b) shall be 100 percent.
+"(a) In General.—Notwithstanding any other provision of law (including regulations), effective during the one-year period beginning on the date of the enactment of the James M. Inhofe National Defense Authorization Act for Fiscal Year 2023 [Dec. 23, 2022], the Federal share of the dam safety modifications costs of a dam or dike described in subsection (b), including repairing or replacing a gate or ancillary gate components, shall be 100 percent.
 
-"(b) Description of Dikes.—A dike referred to in subsection (a) is a dike—
+"(b) Description of Dams and Dikes.—A dam or dike referred to in subsection (a) is a dam or dike—
 
-"(1) that is owned by the Bureau of Reclamation on the date of enactment of this section;
+"(1) that is owned by the Bureau of Reclamation on the date of enactment of this section [Oct. 23, 2018];
 
-"(2) the construction of which was completed not later than December 31, 1945;
+"(2) the construction of which was completed not later than December 31, 1948;
 
 "(3) a corrective action study for which was completed not later than December 31, 2015; and
 

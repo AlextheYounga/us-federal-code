@@ -2,6 +2,46 @@
 
 #### **Statutory Notes and Related Subsidiaries** ####
 
+#### Inland Waterways Regional Dredge Pilot Program ####
+
+Pub. L. 117–263, div. H, title LXXXI, §8133, Dec. 23, 2022, 136 Stat. 3720, provided that:
+
+"(a) In General.—The Secretary [of the Army] is authorized to establish a pilot program (referred to in this section as the 'pilot program') to conduct a multiyear demonstration program to award contracts with a duration of up to 5 years for dredging projects on inland waterways of the United States described in section 206 of the Inland Waterways Revenue Act of 1978 (33 U.S.C. 1804).
+
+"(b) Purposes.—The purposes of the pilot program shall be to—
+
+"(1) increase the reliability, availability, and efficiency of federally owned and federally operated inland waterways projects;
+
+"(2) decrease operational risks across the inland waterways system; and
+
+"(3) provide cost savings by combining work across multiple projects across different accounts of the Corps of Engineers.
+
+"(c) Demonstration.—
+
+"(1) In general.—The Secretary shall, to the maximum extent practicable, award contracts for projects under subsection (a) that combine work for construction and operation and maintenance.
+
+"(2) Projects.—In awarding contracts under paragraph (1), the Secretary shall consider projects that—
+
+"(A) improve navigation reliability on inland waterways that are accessible year-round;
+
+"(B) increase freight capacity on inland waterways; and
+
+"(C) have the potential to enhance the availability of containerized cargo on inland waterways.
+
+"(d) Savings Clause.—Nothing in this section affects the responsibility of the Secretary with respect to the construction and operation and maintenance of projects on the inland waterways system.
+
+"(e) Report to Congress.—Not later than 1 year after the date on which the first contract is awarded pursuant to the pilot program, the Secretary shall submit to the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a report that evaluates, with respect to the pilot program and any contracts awarded under the pilot program—
+
+"(1) cost-effectiveness;
+
+"(2) reliability and performance;
+
+"(3) cost savings attributable to mobilization and demobilization of dredge equipment; and
+
+"(4) response times to address navigational impediments.
+
+"(f) Sunset.—The authority of the Secretary to enter into contracts pursuant to the pilot program shall expire on the date that is 10 years after the date of enactment of this Act [Dec. 23, 2022]."
+
 #### Inland Waterways Pilot Program ####
 
 Pub. L. 116–260, div. AA, title I, §159, Dec. 27, 2020, 134 Stat. 2663, provided that:

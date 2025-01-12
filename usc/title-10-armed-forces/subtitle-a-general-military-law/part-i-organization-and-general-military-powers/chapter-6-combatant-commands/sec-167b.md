@@ -12,7 +12,7 @@
 
 (d) Authority of Combatant Commander.—(1) In addition to the authority prescribed in section 164(c) of this title, the commander of the cyber command shall be responsible for, and shall have the authority to conduct, all affairs of such command relating to cyber operations activities.
 
-(2)(A) Subject to the authority, direction, and control of the Principal Cyber Advisor, the commander of such command shall be responsible for, and shall have the authority to conduct, the following functions relating to cyber operations activities (whether or not relating to the cyber command):
+(2)(A) Subject to the authority, direction, and control of the Principal Cyber Advisor to the Secretary of Defense under section 392a(a) of this title, the commander of such command shall be responsible for, and shall have the authority to conduct, the following functions relating to cyber operations activities (whether or not relating to the cyber command):
 
 (i) Developing strategy, doctrine, and tactics.
 
@@ -52,7 +52,7 @@
 
 (e) Intelligence and Special Activities.—This section does not constitute authority to conduct any activity which, if carried out as an intelligence activity by the Department of Defense, would require a notice to the Select Committee on Intelligence of the Senate and the Permanent Select Committee on Intelligence of the House of Representatives under title V of the National Security Act of 1947 (50 U.S.C. 3091 et seq.).
 
-(Added Pub. L. 114–328, div. A, title IX, §923(a), Dec. 23, 2016, 130 Stat. 2357; amended Pub. L. 115–91, div. A, title X, §1081(a)(12), title XVI, §1635, Dec. 12, 2017, 131 Stat. 1595, 1741; Pub. L. 116–283, div. A, title XVII, §1701(1), Jan. 1, 2021, 134 Stat. 4079.)
+(Added Pub. L. 114–328, div. A, title IX, §923(a), Dec. 23, 2016, 130 Stat. 2357; amended Pub. L. 115–91, div. A, title X, §1081(a)(12), title XVI, §1635, Dec. 12, 2017, 131 Stat. 1595, 1741; Pub. L. 116–283, div. A, title XVII, §1701(1), Jan. 1, 2021, 134 Stat. 4079; Pub. L. 117–263, div. A, title XV, §1501(c)(1), Dec. 23, 2022, 136 Stat. 2878.)
 
 #### **Editorial Notes** ####
 
@@ -61,6 +61,8 @@
 The National Security Act of 1947, referred to in subsec. (e), is act July 26, 1947, ch. 343, 61 Stat. 495. Title V of the Act is classified generally to subchapter III (§3091 et seq.) of chapter 44 of Title 50. For complete classification of this Act to the Code, see Tables.
 
 #### Amendments ####
+
+**2022**—Subsec. (d)(2)(A). Pub. L. 117–263 inserted "to the Secretary of Defense under section 392a(a) of this title" after "Principal Cyber Advisor" in introductory provisions.
 
 **2021**—Subsec. (a). Pub. L. 116–283, §1701(1)(A), designated existing provisions as par. (1), struck out at end "The principal function of the command is to prepare cyber operations forces to carry out assigned missions.", and added par. (2).
 
@@ -75,6 +77,294 @@ Subsec. (e)(2)(A)(iii)(II). Pub. L. 115–91, §1081(a)(12), substituted "Fiscal
 Subsec. (f). Pub. L. 115–91, §1635(2), redesignated subsec. (f) as (e).
 
 #### **Statutory Notes and Related Subsidiaries** ####
+
+#### Management and Oversight of Joint Cyber Warfighting Architecture ####
+
+Pub. L. 117–263, div. A, title XV, §1509, Dec. 23, 2022, 136 Stat. 2886, provided that:
+
+"(a) Establishment of Offices.—
+
+"(1) Requirement.—The Secretary of Defense, in consultation with the Commander of the United States Cyber Command, shall establish within the United States Cyber Command—
+
+"(A) a program executive office; and
+
+"(B) one or more subordinate program management offices under the program executive office.
+
+"(2) Responsibilities.—The offices established pursuant to paragraph (1) shall—
+
+"(A) oversee, manage, and execute the Joint Cyber Warfighting Architecture;
+
+"(B) oversee, manage, and execute the programs designated, or to be designated, as part of the Joint Cyber Warfighting Architecture;
+
+"(C) conduct mission engineering, architecting, and design of the Joint Cyber Warfighting Architecture system of systems, and any successor effort;
+
+"(D) maintain a validated Joint Cyber Warfighting Architecture system of systems mission architecture, updated regularly to inform the current and future constituent programs of the Joint Cyber Warfighting Architecture, and the continuous delivery pipelines of such programs;
+
+"(E) ensure that the Joint Cyber Warfighting Architecture component solution architectures align with and support the Joint Cyber Warfighting Architecture system of systems mission architecture;
+
+"(F) support integration of mission-specific capabilities, including mission-specific data, analytics, defensive tools, offensive tools, and intelligence systems, acquired through non-Joint Cyber Warfighting Architecture programs; and
+
+"(G) carry out any other responsibilities determined appropriate by the Secretary of Defense, including the acquisition of cyber operations capabilities beyond the Joint Cyber Warfighting Architecture.
+
+"(3) Apportionment of responsibilities.—The Commander shall apportion the responsibilities under paragraph (2) across the offices established pursuant to paragraph (1).
+
+"(4) Authority.—The Secretary shall ensure that the offices established pursuant to paragraph (1) are empowered with the authority necessary to compel and enforce compliance with decisions and directives issued pursuant to the responsibilities under paragraph (2).
+
+"(b) Architecture Components.—The Commander shall serve as the sole sponsor and requirements manager for the Joint Cyber Warfighting Architecture and the constituent programs of such architecture, as determined by the Commander.
+
+"(c) Organization of Program Executive Office.—
+
+"(1) Head.—
+
+"(A) Reporting.—The head of the program executive office established under subsection (a)(1)(A) shall report to the Command Acquisition Executive of the United States Cyber Command.
+
+"(B) Additional oversight.—In addition to the oversight of the head of the program executive office provided by the Command Acquisition Executive under subparagraph (A), the Under Secretary of Defense for Acquisition and Sustainment, the Under Secretary of Defense for Research and Engineering, and the Principal Cyber Advisor of the Department of Defense shall provide oversight of the head.
+
+"(2) Responsibilities.—The head of the program executive office shall—
+
+"(A) exercise central technical authority for the Joint Cyber Warfighting Architecture;
+
+"(B) manage and provide oversight of the implementation and integration of the Architecture; and
+
+"(C) provide direction to subordinate program offices, as determined appropriate by the Commander.
+
+"(d) Personnel.—
+
+"(1) Necessary positions.—The Commander of the United States Cyber Command shall ensure that the program executive office or any subordinate program management office established pursuant to subsection (a)(1) includes in the staff of the respective office a chief architect, a systems engineer, and a chief talent officer to—
+
+"(A) develop a mission-driven Joint Cyber Warfighting Architecture optimized for execution of missions of the United States Cyber Command;
+
+"(B) ensure the office is properly and effectively staffed; and
+
+"(C) advise the head of the office with respect to the execution of—
+
+"(i) the central technical authority for the Joint Cyber Warfighting Architecture;
+
+"(ii) the management of the implementation and integration of the Joint Cyber Warfighting Architecture; and
+
+"(iii) technical direction provided to subordinates responsible for individual Joint Cyber Warfighting Architecture programs.
+
+"(2) Staffing.—
+
+"(A) In general.—The Secretary of Defense, in coordination with the Commander of the United States Cyber Command, shall ensure that the offices established pursuant to subsection (a)(1) are appropriately staffed with expert talent, including from the following organizations, as appropriate:
+
+"(i) The headquarters staff of the United States Cyber Command, the Cyber National Mission Force, the Joint Force Headquarters-Cyber, and the Cyber Mission Force.
+
+"(ii) The Capabilities Directorate of the National Security Agency.
+
+"(iii) The military departments.
+
+"(iv) The Cyber Capabilities Support Office of the Air Force.
+
+"(v) The Defense Advanced Research Projects Agency.
+
+"(vi) The Strategic Capabilities Office.
+
+"(vii) Research laboratories of the military departments.
+
+"(viii) The Defense Information Systems Agency.
+
+"(B) Technical talent.—In addition to the requirement under subparagraph (A), to support the permanent staffing of the offices established pursuant to subsection (a)(1), the Commander of the United States Cyber Command shall ensure that the offices deliberately hire and use technical talent resident in the defense industrial base, commercial technology industry, federally funded research and development centers, university affiliated research centers, and the rest of the Federal Government.
+
+"(e) Budget Execution Control.—The Secretary shall provide to the United States Cyber Command the resources necessary to support the program executive office established under subsection (a)(1)(A) and the Commander of the United States Cyber Command shall exercise budget execution control over component programs of the Joint Cyber Warfighting Architecture that are subject to the responsibilities assigned to the Commander by section 1507 of the National Defense Authorization Act for Fiscal Year 2022 (Public Law 117–81; 10 U.S.C. 167b note).
+
+"(f) Constellation Program.—The Director of the Defense Advanced Research Projects Agency and the head of the program executive office established under subsection (a)(1)(A) shall plan and carry out the Constellation program by entering into transactions under section 4021 of title 10, United States Code. In carrying out the preceding sentence, the Secretary shall establish an effective framework and pipeline system for maturing cyber operations-relevant technologies developed by the Agency, integrating the technologies into Joint Cyber Warfighting Architecture capabilities, and transitioning the technologies into operational use by the United States Cyber Command.
+
+"(g) Transition.—The Secretary of Defense, in coordination with the Commander of the United States Cyber Command, shall transition responsibilities for the management and execution of Joint Cyber Warfighting Architecture programs from the military departments to the offices established pursuant to subsection (a)(1) by the earlier of the following:
+
+"(1) The date on which—
+
+"(A) the offices are appropriately staffed and resourced; and
+
+"(B) the Commander determines that the transition is appropriate.
+
+"(2) The date that is five years after the date of the enactment of this Act [Dec. 23, 2022].
+
+"(h) Review.—Not later than one year after the date of the enactment of this Act, the Under Secretary of Defense for Acquisition and Sustainment and the Commander of the United States Cyber Command, in coordination with the Under Secretary of Defense for Research and Engineering, the Principal Cyber Advisor of the Department of Defense, the Secretaries of the military departments, the Director of the Defense Advanced Research Projects Agency, and the Director of the National Security Agency, shall submit to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] an integrated review of the Joint Cyber Warfighting Architecture and all other capabilities required for the execution of the missions of the United States Cyber Command to determine the following:
+
+"(1) The extent to which capabilities of the United States Cyber Command and the National Security Agency should be joint, mutually available, integrated, or interoperable.
+
+"(2) Whether each of the Joint Cyber Warfighting Architecture capabilities has been effectively designed and architected to enable each of the missions of the United States Cyber Command.
+
+"(3) How the Joint Cyber Warfighting Architecture will support defense of the Department of Defense Information Network and its relation to existing datasets, sensors, tools, firewalls, and capabilities deployed at each echelon of the Department of Defense Information Network.
+
+"(4) What data, capabilities, and technologies external to the current Joint Cyber Warfighting Architecture programs, as of the date of the review, should be acquired as part of the Joint Cyber Warfighting Architecture and under the control of the offices established pursuant to subsection (a)(1).
+
+"(5) What mission-specific data, capabilities, and technologies external to the current Joint Cyber Warfighting Architecture programs should integrate with or be interoperable with the Joint Cyber Warfighting Architecture system of systems.
+
+"(6) The organization and staffing of such offices, including—
+
+"(A) whether the program executive office should be responsible for overseeing the acquisition of the cyber operations capabilities of the United States Cyber Command generally or the Joint Cyber Warfighting Architecture specifically;
+
+"(B) what subordinate program management offices should be established under the program executive office;
+
+"(C) whether the Joint Cyber Warfighting Architecture programs should be consolidated within a single program management office; and
+
+"(D) which personnel should be appointed to such offices pursuant to subsection (d)(1).
+
+"(7) The timeline for the execution of the transition under subsection (g).
+
+"(8) The acquisition strategy of the Department for procuring the Joint Cyber Warfighting Architecture and related capabilities, including relevant enterprise strategic initiatives and contracting strategies.
+
+"(9) The responsibilities of the United States Cyber Command J2, J3, J5, J6, J8, and J9 in acquiring, authorizing, and managing cyber capabilities.
+
+"(10) The physical locations of the offices established pursuant to subsection (a)(1).
+
+"(i) Briefing Required.—Not later than 540 days after the date of the enactment of this Act [Dec. 23, 2022], the Under Secretary of Defense for Acquisition and Sustainment and the Commander of the United States Cyber Command shall jointly provide to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] briefing on the status of the implementation of this section.
+
+"(j) Repeal.—Section 1645 of the National Defense Authorization Act for Fiscal Year 2016 (Public Law 114–92; 10 U.S.C. 4571 note prec.) is repealed.
+
+"(k) Joint Cyber Warfighting Architecture Defined.—In this section, the term 'Joint Cyber Warfighting Architecture' means the range of joint cyber warfighting systems and capabilities that support the full spectrum of military cyber operations, as designated by the Commander of the United States Cyber Command, and includes any such successor effort."
+
+#### Total Force Generation for the Cyberspace Operations Forces ####
+
+Pub. L. 117–263, div. A, title XV, §1533, Dec. 23, 2022, 136 Stat. 2903, provided that:
+
+"(a) Study.—
+
+"(1) Requirement.—Not later than June 1, 2024, the Secretary of Defense shall complete a study on the responsibilities of the military services for organizing, training, and presenting the total force to United States Cyber Command.
+
+"(2) Elements.—The study under paragraph (1) shall assess the following:
+
+"(A) Which military services should man, train, equip, and organize the forces necessary to execute the functions and missions of the Cyber Mission Force and the Cyberspace Operations Forces for assignment, allocation, and apportionment to, or under the directive authority of, the United States Cyber Command.
+
+"(B) The sufficiency of the military service accession and training model to provide forces to the Cyberspace Operations Forces and the sufficiency of the accessions and personnel resourcing of the supporting command and control staffs necessary as a component to the United States Cyber Command.
+
+"(C) The organization of the Cyber Mission Forces and whether the total forces or elements of the forces function best as a collection of independent teams or through a different model.
+
+"(D) How to correct chronic shortages of proficient personnel in key work roles.
+
+"(E) The need for additional work roles or skills to enable effective infrastructure management and generate access to targets.
+
+"(F) What unique or training-intensive expertise is required for each of the work roles identified in subparagraph (E) and whether native talents to master unique and training-intensive work roles can be identified and how personnel with those talents can be developed, retained, and employed across the active and reserve components.
+
+"(G) The appropriate pay scales, rotation or force management policies, career paths and progression, expertise-based grading, talent management practices, and training for each of those work roles, given expected operational requirements.
+
+"(H) Whether a single military service should be responsible for basic, intermediate, and advanced training for the Cyber Mission Force.
+
+"(I) The level of training required before an individual should be assigned, allocated, or apportioned to the United States Cyber Command.
+
+"(J) Whether or how the duties of the Director of the National Security Agency and the duties of the Commander of United States Cyber Command, resting with a single individual, enable each respective organization, and whether technical directors and intelligence experts of the National Security Agency should serve rotations in the Cyber Mission Force.
+
+"(K) How nonmilitary personnel, such as civilian government employees, contracted experts, commercial partners, and domain or technology-specific experts in industry or the intelligence community can serve in, augment, or support Cyber Mission Force teams.
+
+"(L) What work roles in the Cyberspace Operations Forces can only be filled by military personnel, which work roles can be filled by civilian employees or contractors, and which work roles should be filled partially or fully by civilians due to the need for longevity of service to achieve required skill levels or retention rates.
+
+"(M) How specialized cyber experience, developed and maintained in the reserve component, can be more effectively leveraged to support the Cyberspace Operations Forces through innovative force generation models.
+
+"(N) Whether the Department of Defense should create a separate service to perform the functions and missions currently performed by Cyber Mission Force units generated by multiple military services.
+
+"(O) Whether the Department of Defense is maximizing partnerships with industry and other nontraditional sources of expertise and capacity in the areas of critical infrastructure protection and information sharing.
+
+"(P) Whether the Defense Readiness Reporting System of the Department of Defense is sufficient to capture Cyber Mission Force readiness metrics.
+
+"(3) Considerations.—The study required by paragraph (1) shall consider existing models for total force generation practices and programs, as well as nontraditional and creative alternatives.
+
+"(b) Recommendations.—
+
+"(1) In general.—Not later than June 1, 2024, the Principal Cyber Advisor of the Department of Defense and the Commander of the United States Cyber Command shall submit to the Secretary of Defense one or more recommendations, respectively, as to the future total force generation model for both the Cyber Mission Force and the Cyberspace Operations Forces.
+
+"(2) Matters addressed.—The recommendations under paragraph (1) shall address, at a minimum, each of the elements identified in subsection (a)(2).
+
+"(c) Establishment of a Revised Model Required.—
+
+"(1) In general.—Not later than December 31, 2024, the Secretary of Defense shall establish a revised total force generation model for the Cyberspace Operations Forces.
+
+"(2) Elements.—In establishing a revised total force generation model under paragraph (1), the Secretary shall explicitly determine the following:
+
+"(A) Whether the Navy should no longer be responsible for developing and presenting forces to the United States Cyber Command as part of the Cyber Mission Force or Cyberspace Operations Forces, including recommendations for corresponding transfer of responsibilities and associated resources and personnel for the existing and future year programmed Cyberspace Operations Forces or Cyber Mission Force resources.
+
+"(B) Whether a single military service should be responsible for organizing, training, and equipping the Cyberspace Operations Forces, or if different services should be responsible for different components of the Cyberspace Operations Forces.
+
+"(C) Whether modification of United States Cyber Command enhanced budget control authorities are necessary to further improve total force generation for Cyberspace Operations Forces.
+
+"(D) Implications of low service retention rates for critical roles within the Cyber Mission Force, and the mix of actions necessary to correct them, including multiple rotations in critical work roles, length of service commitments, repeat tours within the Cyber Mission Force, retention incentives across the entire Cyberspace Operations Forces, and best practices for generating the future force.
+
+"(d) Implementation Plan.—Not later than June 1, 2025, the Secretary shall submit to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] an implementation plan for effecting the revised total force generation model required under subsection (c).
+
+"(e) Progress Briefing.—Not later than 90 days after the date of the enactment of this Act [Dec. 23, 2022], and not less frequently than once every 180 days thereafter until receipt of the plan required by subsection (d), the Secretary shall provide the congressional defense committees with a briefing on the progress made in carrying out this section.
+
+"(f) Additional Considerations.—The Secretary shall ensure that subsections (a) through (c) are carried out with consideration to matters relating to the following:
+
+"(1) The cybersecurity service providers, local defenders, and information technology personnel who own, operate, and defend the information networks of the Department of Defense.
+
+"(2) Equipping the Cyberspace Operations Forces to include infrastructure management.
+
+"(3) Providing intelligence support to the Cyberspace Operations Forces.
+
+"(4) The resources, including billets, needed to account for any recommended changes."
+
+#### Correcting Cyber Mission Force Readiness Shortfalls ####
+
+Pub. L. 117–263, div. A, title XV, §1534, Dec. 23, 2022, 136 Stat. 2906, provided that:
+
+"(a) Plan and Briefing Required.—Not later than 180 days after the date of the enactment of this Act [Dec. 23, 2022], the Secretary of Defense, the Chairman of the Joint Chiefs of Staff, and the Secretaries of the military departments shall jointly—
+
+"(1) develop a near-term plan to correct readiness shortfalls in the Cyber Mission Forces over the period covered by the most recent future-years defense program submitted to Congress under section 221 of title 10, United States Code;
+
+"(2) develop recommendations for such legislative action as the Secretary of Defense, the Chairman, and the Secretaries of the military departments jointly consider appropriate to correct the readiness shortfalls described in paragraph (1); and
+
+"(3) provide to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] a briefing on the plan under paragraph (1) and the recommendations under paragraph (2).
+
+"(b) Implementation.—Not later than 30 days after the date of the briefing provided under paragraph (3) of subsection (a), the Secretary of Defense and the Chairman shall commence implementation of the aspects of the plan developed under paragraph (1) of such subsection that are not dependent upon legislative action.
+
+"(c) Matters to Be Addressed.—In developing the plan under paragraph (1) of subsection (a), the Secretary of Defense, the Chairman, and the Secretaries of the military departments shall consider and explicitly address through analysis the following potential courses of action, singly and in combination, to increase the availability of personnel in key work roles:
+
+"(1) Determining the correct number of personnel necessary to fill key work roles, including the proper force mix of civilian, military, and contractor personnel, and the means necessary to meet those requirements.
+
+"(2) Employing civilians rather than military personnel in key work roles.
+
+"(3) Expanding training capacity.
+
+"(4) Modifying or creating new training models.
+
+"(5) Maximizing use of compensation and incentive authorities, including increasing bonuses and special pays, and alternative compensation mechanisms.
+
+"(6) Modifying career paths and service policies to permit consecutive assignments in key work roles without jeopardizing promotion opportunities.
+
+"(7) Increasing service commitments following training commensurate with the value of the key work role training.
+
+"(8) Standardizing compensation models across the services.
+
+"(9) Requiring multiple rotations within the Cyber Mission Forces for key work roles.
+
+"(10) Adopting and implementing what are known as 'rank in person' policies that enable civilian personnel to be promoted on the basis of skills and abilities demonstrated in a given position.
+
+"(11) A review of departmental guidance and processes consistent with section 167b(d)(2)(A)(x) of title 10, United States Code, with respect to the authority of the Commander of United States Cyber Command to monitor the promotions of certain cyber operations forces and coordinate with the Secretaries regarding the assignment, retention, training, professional military education, and special and incentive pays of certain cyber operations forces, including—
+
+"(A) the recruiting, retention, professional military education, and promotion of certain cyber operations personnel;
+
+"(B) the sharing of personnel data between the military departments and the United States Cyber Command; and
+
+"(C) structures, departmental guidance, and processes developed between the military departments and the United States Special Operations Command with respect to the authority of the Commander of the United States Special Operations Command described in section 167(e)(2)(J) of title 10, United States Code, that could be used as a model for the United States Cyber Command.
+
+"(d) Key Work Roles Defined.—In this section, the term 'key work roles' means work roles that consist of access development, tool development, and exploitation analysis."
+
+#### Review of Definitions Associated With Cyberspace Operations Forces ####
+
+Pub. L. 117–263, div. A, title XV, §1557, Dec. 23, 2022, 136 Stat. 2924, provided that:
+
+"(a) Review.—Not later than 120 days after the date of the enactment of this Act [Dec. 23, 2022], the Secretary of Defense, acting through the Principal Cyber Advisor of the Department of Defense and the Principal Cyber Advisors of the military departments, shall—
+
+"(1) review—
+
+"(A) the memorandum of the Secretary of Defense dated December 12, 2019, concerning the definition of the term 'Department of Defense Cyberspace Operations Forces (DoD COF)'; and
+
+"(B) the responsibilities of the Commander of the United States Cyber Command as the Cyberspace Joint Force Provider and Cyberspace Joint Force Trainer, with respect to forces included and excluded from the Cyberspace Operations Forces; and
+
+"(2) update such memorandum and, as appropriate, update such responsibilities.
+
+"(b) Elements.—The review under subsection (a) shall include the following:
+
+"(1) A comprehensive assessment of units and components of the Department of Defense conducting defensive cyberspace operations which are not currently included in the definition specified in paragraph (1)(A) of such subsection.
+
+"(2) Consideration of options for participation in the Cyberspace Operations Forces by forces without regard to whether the forces are included in such definition, including options under which—
+
+"(A) forces currently excluded from the Cyberspace Operations Forces because of such definition may access training, resources, and expertise of the Cyberspace Operations Forces;
+
+"(B) the Commander of the United States Cyber Command may issue advisory tasking to forces that are not Cyberspace Operations Forces pursuant to such definition; and
+
+"(C) forces that are not Cyberspace Operations Forces pursuant to such definition are subject to training standards established by the Commander as the Cyberspace Joint Force Trainer."
 
 #### Assignment of Certain Budget Control Responsibilities to Commander of United States Cyber Command ####
 

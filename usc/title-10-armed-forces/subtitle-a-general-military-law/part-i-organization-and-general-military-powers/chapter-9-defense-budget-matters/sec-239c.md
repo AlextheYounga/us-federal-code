@@ -8,13 +8,15 @@
 
 (b) Elements.—Each proposal required by subsection (a) shall include the following:
 
-(1) A detailed assessment of any expected termination costs associated with the proposed cancellation or covered modification of the multiyear contract.
+(1) A detailed explanation of the rationale for the proposed cancellation or covered modification of the multiyear contract.
 
-(2) An updated assessment of estimated savings of such cancellation or carrying out the multiyear contract as modified by such covered modification.
+(2) A detailed assessment of any expected termination costs associated with the proposed cancellation or covered modification of the multiyear contract.
 
-(3) An explanation of the proposed use of previously appropriated funds for advance procurement or procurement of property planned under the multiyear contract before such cancellation or covered modification.
+(3) An updated assessment of estimated savings of such cancellation or carrying out the multiyear contract as modified by such covered modification.
 
-(4) An assessment of expected impacts of the proposed cancellation or covered modification on the defense industrial base, including workload stability, loss of skilled labor, and reduced efficiencies.
+(4) An explanation of the proposed use of previously appropriated funds for advance procurement or procurement of property planned under the multiyear contract before such cancellation or covered modification.
+
+(5) An assessment of expected impacts of the proposed cancellation or covered modification on the defense industrial base, including workload stability, loss of skilled labor, and reduced efficiencies.
 
 (c) Definitions.—In this section:
 
@@ -30,11 +32,13 @@
 
 (D) the Secretary of the Air Force.
 
-(Added Pub. L. 117–81, div. A, title VIII, §811(a), Dec. 27, 2021, 135 Stat. 1822; amended Pub. L. 116–283, div. A, title XVIII, §1883(b)(2), Jan. 1, 2021, 134 Stat. 4294.)
+(Added Pub. L. 117–81, div. A, title VIII, §811(a), Dec. 27, 2021, 135 Stat. 1822; amended Pub. L. 116–283, div. A, title XVIII, §1883(b)(2), Jan. 1, 2021, 134 Stat. 4294; Pub. L. 117–263, div. A, title VIII, §811, Dec. 23, 2022, 136 Stat. 2706.)
 
 #### **Editorial Notes** ####
 
 #### Amendments ####
+
+**2022**—Subsec. (b). Pub. L. 117–263 added par. (1) and redesignated former pars. (1) to (4) as (2) to (5), respectively.
 
 **2021**—Subsec. (a). Pub. L. 116–283, which directed that each reference in the text of title 10 to a section that was redesignated by title XVIII of Pub. L. 116–283, as such section was in effect before the redesignation, be amended by striking such reference and inserting a reference to the appropriate redesignated section, was executed by substituting "section 3501" for "section 2306b". Section 1822(b) of title XVIII of Pub. L. 116–283 directed the redesignation of section 2306b of this title as section 3501, but such redesignation was executed by transferring the text of section 2306b to section 3501, as the section designation and catchline had already been enacted.
 

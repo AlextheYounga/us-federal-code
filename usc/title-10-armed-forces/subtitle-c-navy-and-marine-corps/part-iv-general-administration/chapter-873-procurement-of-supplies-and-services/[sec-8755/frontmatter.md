@@ -1,7 +1,0 @@
-### [§8755. Disclosures for offerors for certain shipbuilding major defense acquisition program contracts] ###
-
-#### **Editorial Notes** ####
-
-#### Codification ####
-
-Pub. L. 117–81, div. A, title XVII, §1701(e)(1)(A), Dec. 27, 2021, 135 Stat. 2138, attempted to transfer section 2339c of this title to this chapter, insert it after section 8754 of this title, redesignate it as section 8755, and amend subsec. (d)(3) by striking "section 2430" and inserting "section 4201", all of which was to take effect immediately after the amendments made by title XVIII of Pub. L. 116–283 took effect, pursuant to section 1701(a)(3) of Pub. L. 117–81, set out in an Effective Date of 2021 Amendment note preceding section 3001 of this title. However, chapter 137 of this title, which included section 2339c, was repealed by Pub. L. 116–283, div. A, title XVIII, §1881(a), Jan. 1, 2021, 134 Stat. 4293, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, pursuant to Pub. L. 116–283, div. A, title XVIII, §1801(d), Jan. 1, 2021, 134 Stat. 4151, set out as an Effective Date of 2021 Amendment note preceding section 3001 of this title. Text of section 2339c of this title is set out in a Codification note under that section.

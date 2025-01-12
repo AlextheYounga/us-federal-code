@@ -44,7 +44,7 @@ Consistent with applicable law, Presidential directives, Federal regulations, an
 
 (4) facilitating, in coordination with the Director, the sharing with the Department and other appropriate Federal department of information regarding physical security and cybersecurity threats within the designated sector or subsector of such sector, including—
 
-(A) facilitating, in coordination with the Director, access to, and exchange of, information and intelligence necessary to strengthen the security of critical infrastructure, including through information sharing and analysis organizations and the national cybersecurity and communications integration center established pursuant to section 659 of this title;
+(A) facilitating, in coordination with the Director, access to, and exchange of, information and intelligence necessary to strengthen the security of critical infrastructure, including through Information Sharing and Analysis Organizations and the national cybersecurity and communications integration center established pursuant to section 659 of this title;
 
 (B) facilitating the identification of intelligence needs and priorities of critical infrastructure owners and operators in the designated sector or subsector of such sector, in coordination with the Director of National Intelligence and the heads of other Federal departments and agencies, as appropriate;
 
@@ -66,7 +66,7 @@ Consistent with applicable law, Presidential directives, Federal regulations, an
 
 (C) supporting the Department and other Federal departments or agencies in developing planning documents or conducting exercises or simulations when relevant to the designated sector or subsector or such sector.
 
-(Pub. L. 107–296, title XXII, §2218, formerly §2215, as added Pub. L. 116–283, div. H, title XC, §9002(c)(1), Jan. 1, 2021, 134 Stat. 4770; renumbered §2218 and amended Pub. L. 117–81, div. A, title XV, §1547(b)(1)(A)(v), Dec. 27, 2021, 135 Stat. 2061.)
+(Pub. L. 107–296, title XXII, §2218, formerly §2215, as added Pub. L. 116–283, div. H, title XC, §9002(c)(1), Jan. 1, 2021, 134 Stat. 4770; renumbered §2218 and amended Pub. L. 117–81, div. A, title XV, §1547(b)(1)(A)(v), Dec. 27, 2021, 135 Stat. 2061; Pub. L. 117–263, div. G, title LXXI, §7143(b)(2)(J), Dec. 23, 2022, 136 Stat. 3660.)
 
 #### **Editorial Notes** ####
 
@@ -75,5 +75,7 @@ Consistent with applicable law, Presidential directives, Federal regulations, an
 A prior section 2218 of Pub. L. 107–296 was renumbered section 2220A and is classified to section 665g of this title.
 
 #### Amendments ####
+
+**2022**—Subsec. (c)(4)(A). Pub. L. 117–263 substituted "Information Sharing and Analysis Organizations" for "information sharing and analysis organizations".
 
 **2021**—Pub. L. 117–81 reenacted section catchline.

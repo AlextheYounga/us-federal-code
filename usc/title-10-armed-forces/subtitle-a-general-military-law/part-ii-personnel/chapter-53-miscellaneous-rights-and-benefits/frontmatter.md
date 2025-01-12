@@ -180,6 +180,14 @@ Pub. L. 86–142, §1(2), Aug. 7, 1959, 73 Stat. 289, added item 1038.
 
 #### **Statutory Notes and Related Subsidiaries** ####
 
+#### Flexible Workplace Programs ####
+
+Pub. L. 117–263, div. A, title XI, §1107, Dec. 23, 2022, 136 Stat. 2818, provided that: "Not later than 120 days after the date of the enactment of this Act [Dec. 23, 2022], the Secretary of Defense shall promulgate guidance to the military departments to promote consistency in policies relating to flexible workplace programs. Such guidance shall address at a minimum the conditions under which an employee is allowed to perform all or a portion of assigned duties—
+
+"(1) at a telecommuting center established pursuant to statute; or
+
+"(2) through the use of flexible workplace services agreements."
+
 #### Policy To Improve Responses to Pregnancy and Childbirth by Certain Members of the Armed Forces ####
 
 Pub. L. 116–283, div. A, title V, §555, Jan. 1, 2021, 134 Stat. 3636, provided that:

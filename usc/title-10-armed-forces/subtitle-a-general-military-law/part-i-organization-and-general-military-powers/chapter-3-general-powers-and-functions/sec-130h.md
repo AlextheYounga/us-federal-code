@@ -12,13 +12,13 @@
 
 (d) Integration.—None of the funds authorized to be appropriated or otherwise made available for any fiscal year for the Department of Defense may be obligated or expended to integrate a missile defense system of the Russian Federation or a missile defense system of the People's Republic of China into any missile defense system of the United States.
 
-(e) Sunset.—The prohibitions in subsections (a), (b), and (d) shall expire on January 1, 2026.
-
-(Added Pub. L. 114–92, div. A, title XVI, §1671(a)(1), Nov. 25, 2015, 129 Stat. 1129; amended Pub. L. 114–328, div. A, title X, §1081(a)(1), title XVI, §1682(a)(1), (b), Dec. 23, 2016, 130 Stat. 2417, 2623, 2624; Pub. L. 115–232, div. A, title XVI, §1678, Aug. 13, 2018, 132 Stat. 2161; Pub. L. 116–283, div. A, title XVI, §1642, Jan. 1, 2021, 134 Stat. 4062.)
+(Added Pub. L. 114–92, div. A, title XVI, §1671(a)(1), Nov. 25, 2015, 129 Stat. 1129; amended Pub. L. 114–328, div. A, title X, §1081(a)(1), title XVI, §1682(a)(1), (b), Dec. 23, 2016, 130 Stat. 2417, 2623, 2624; Pub. L. 115–232, div. A, title XVI, §1678, Aug. 13, 2018, 132 Stat. 2161; Pub. L. 116–283, div. A, title XVI, §1642, Jan. 1, 2021, 134 Stat. 4062; Pub. L. 117–263, div. A, title XVI, §1653, Dec. 23, 2022, 136 Stat. 2949.)
 
 #### **Editorial Notes** ####
 
 #### Amendments ####
+
+**2022**—Subsec. (e). Pub. L. 117–263 struck out subsec. (e). Text read as follows: "The prohibitions in subsections (a), (b), and (d) shall expire on January 1, 2026."
 
 **2021**—Subsec. (e). Pub. L. 116–283 substituted "January 1, 2026" for "January 1, 2021".
 

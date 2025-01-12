@@ -50,9 +50,19 @@ Sec.
 
 51324. Unfilled vacancies.
 
+51325. Sexual assault and sexual harassment prevention information management system.
+
+51326. Student advisory board at the United States Merchant Marine Academy.
+
+51327. Sexual Assault Advisory Council.
+
+51328. Student support.
+
 #### **Editorial Notes** ####
 
 #### Amendments ####
+
+**2022**—Pub. L. 117–263, div. C, title XXXV, §3531(c), Dec. 23, 2022, 136 Stat. 3087, added items 51325 to 51328.
 
 **2021**—Pub. L. 117–81, div. C, title XXXV, §3501(c)(2), Dec. 27, 2021, 135 Stat. 2238, added items 51323 and 51324.
 

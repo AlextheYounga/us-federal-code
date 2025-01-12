@@ -6,7 +6,9 @@
 
 (1) the member has completed initial entry training;
 
-(2) the gross household income of the member during the most recent calendar year did not exceed an amount equal to 130 percent of the Federal poverty guidelines of the Department of Health and Human Services for the location of the member and the number of individuals in the household of the member for such year; and
+(2)(A) the gross household income of the member during the most recent calendar year did not exceed an amount equal to 150 percent of the Federal poverty guidelines of the Department of Health and Human Services for the location of the member and the number of individuals in the household of the member for such year; or
+
+(B) if the Secretary concerned determines it appropriate (based on location, household need, or special circumstance), the gross household income of the member during the most recent calendar year did not exceed an amount equal to 200 percent of the Federal poverty guidelines of the Department of Health and Human Services for the location of the member and the number of individuals in the household of the member for such year; and
 
 (3) the member—
 
@@ -16,7 +18,7 @@
 
 (c) Amount of Allowance.—The amount of the monthly allowance payable to a member under subsection (a) shall be the amount equal to—
 
-(1)(A) 130 percent of the Federal poverty guidelines of the Department of Health and Human Services for the calendar year during which the allowance is paid based on the location of the member and the number of individuals in the household of the member during the month for which the allowance is paid; minus
+(1)(A) 150 percent of the Federal poverty guidelines of the Department of Health and Human Services for the calendar year during which the allowance is paid based on the location of the member and the number of individuals in the household of the member during the month for which the allowance is paid; minus
 
 (B) the gross household income of the member during the preceding calendar year; divided by
 
@@ -86,8 +88,24 @@
 
 (2) Household.—The term "household" means a member of the armed forces and any dependents of the member enrolled in the Defense Enrollment Eligibility Reporting System, regardless of the location of those dependents.
 
-(Added Pub. L. 117–81, div. A, title VI, §601(a), Dec. 27, 2021, 135 Stat. 1761.)
+(Added Pub. L. 117–81, div. A, title VI, §601(a), Dec. 27, 2021, 135 Stat. 1761; amended Pub. L. 117–263, div. A, title VI, §611(a), Dec. 23, 2022, 136 Stat. 2622.)
+
+#### **Editorial Notes** ####
 
 #### References in Text ####
 
 The date of the enactment of the National Defense Authorization Act for Fiscal Year 2022, referred to in subsecs. (i) and (j)(1), is the date of enactment of Pub. L. 117–81, which was approved Dec. 27, 2021.
+
+#### Amendments ####
+
+**2022**—Subsec. (b)(2). Pub. L. 117–263, §611(a)(2), designated existing provisions as subpar. (A), substituted "; or" for "; and", and added subpar. (B).
+
+Pub. L. 117–263, §611(a)(1), which directed substitution of "150 percent" for "130 percent" both places appearing in subsec. (b) of this section, was executed by making the substitution in the one place appearing in subsec. (b)(2) to reflect the probable intent of Congress.
+
+Subsec. (c)(1)(A). Pub. L. 117–263, §611(a)(1), which directed substitution of "150 percent" for "130 percent" both places appearing in subsec. (b) of this section, was executed in the one place appearing in subsec. (b)(2) and in the second place appearing in this section in subsec. (c)(1)(A) to reflect the probable intent of Congress.
+
+#### **Statutory Notes and Related Subsidiaries** ####
+
+#### Implementation ####
+
+Pub. L. 117–263, div. A, title VI, §611(b), Dec. 23, 2022, 136 Stat. 2622, provided that: "Not later than January 1, 2024, the Secretary concerned (as defined in section 101 of title 37, United States Code) shall modify the calculation of the basic needs allowance under section 402b of title 37, United States Code, to implement the amendments made by subsection (a) [amending this section]."

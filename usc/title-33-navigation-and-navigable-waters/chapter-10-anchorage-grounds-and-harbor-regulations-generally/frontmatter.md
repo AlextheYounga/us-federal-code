@@ -2,13 +2,9 @@
 
 Sec.
 
-471. Transferred.
+471, 472. Transferred.
 
-472. Marking anchorage grounds by Commandant of the Coast Guard.
-
-473. Repealed.
-
-474. Anchorage and general regulations for St. Marys River.
+473, 474. Repealed.
 
 475. Regulations for Pearl Harbor, Hawaii.
 

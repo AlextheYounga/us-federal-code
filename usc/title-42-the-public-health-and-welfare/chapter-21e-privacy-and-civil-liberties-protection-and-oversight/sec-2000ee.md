@@ -168,15 +168,25 @@ An individual appointed to the Board may not, while serving on the Board, be an 
 
 #### (4) Term ####
 
-Each member of the Board shall serve a term of 6 years, except that—
+#### (A) Commencement ####
 
-(A) a member appointed to a term of office after the commencement of such term may serve under such appointment only for the remainder of such term; and
+Each member of the Board shall serve a term of 6 years, commencing on the date of the appointment of the member to the Board.
 
-(B) upon the expiration of the term of office of a member, the member shall continue to serve until the member's successor has been appointed and qualified, except that no member may serve under this subparagraph—
+#### (B) Reappointment ####
 
-(i) for more than 60 days when Congress is in session unless a nomination to fill the vacancy shall have been submitted to the Senate; or
+A member may be reappointed to one or more additional terms.
 
-(ii) after the adjournment sine die of the session of the Senate in which such nomination is submitted.
+#### (C) Vacancy ####
+
+A vacancy on the Board shall be filled in the manner in which the original appointment was made.
+
+#### (D) Extension ####
+
+Upon the expiration of the term of office of a member, the member may continue to serve for up to one year after the date of expiration, at the election of the member—
+
+(i) during the period preceding the reappointment of the member pursuant to subparagraph (B); or
+
+(ii) until the member's successor has been appointed and qualified.
 
 #### (5) Quorum and meetings ####
 
@@ -248,7 +258,7 @@ There are authorized to be appropriated to carry out this section amounts as fol
 
 (5) For fiscal year 2012 and each subsequent fiscal year, such sums as may be necessary.
 
-(Pub. L. 108–458, title I, §1061, Dec. 17, 2004, 118 Stat. 3684; Pub. L. 110–53, title VIII, §801(a), Aug. 3, 2007, 121 Stat. 352; Pub. L. 114–113, div. M, title III, §305, Dec. 18, 2015, 129 Stat. 2913; Pub. L. 115–118, title I, §108, Jan. 19, 2018, 132 Stat. 15; Pub. L. 117–286, §4(a)(259), Dec. 27, 2022, 136 Stat. 4334.)
+(Pub. L. 108–458, title I, §1061, Dec. 17, 2004, 118 Stat. 3684; Pub. L. 110–53, title VIII, §801(a), Aug. 3, 2007, 121 Stat. 352; Pub. L. 114–113, div. M, title III, §305, Dec. 18, 2015, 129 Stat. 2913; Pub. L. 115–118, title I, §108, Jan. 19, 2018, 132 Stat. 15; Pub. L. 117–263, div. F, title LXVIII, §6801, Dec. 23, 2022, 136 Stat. 3586; Pub. L. 117–286, §4(a)(259), Dec. 27, 2022, 136 Stat. 4334.)
 
 #### **Editorial Notes** ####
 
@@ -262,7 +272,17 @@ Section was formerly set out as a note under section 601 of Title 5, Government 
 
 #### Amendments ####
 
-**2022**—Subsec. (l)(2). Pub. L. 117–286 substituted "section 1001(2) of title 5)." for "section 3(2) of the Federal Advisory Committee Act (5 U.S.C. App.))."
+**2022**—Subsec. (h)(4). Pub. L. 117–263, §6801, amended par. (4) generally. Prior to amendment, text read as follows: "Each member of the Board shall serve a term of 6 years, except that—
+
+"(A) a member appointed to a term of office after the commencement of such term may serve under such appointment only for the remainder of such term; and
+
+"(B) upon the expiration of the term of office of a member, the member shall continue to serve until the member's successor has been appointed and qualified, except that no member may serve under this subparagraph—
+
+"(i) for more than 60 days when Congress is in session unless a nomination to fill the vacancy shall have been submitted to the Senate; or
+
+"(ii) after the adjournment sine die of the session of the Senate in which such nomination is submitted."
+
+Subsec. (l)(2). Pub. L. 117–286 substituted "section 1001(2) of title 5)." for "section 3(2) of the Federal Advisory Committee Act (5 U.S.C. App.))."
 
 **2018**—Subsec. (f). Pub. L. 115–118, §108(b)(1), substituted "The Board" for "The Board shall" in introductory provisions.
 

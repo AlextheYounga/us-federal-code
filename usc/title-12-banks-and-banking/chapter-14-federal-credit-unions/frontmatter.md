@@ -74,6 +74,10 @@ Sec.
 
 1772d. Forfeiture of organization certificate for money laundering or cash transaction reporting offenses.
 
+1772e. Data standards.
+
+1772f. Open data publication.
+
 1773. District of Columbia credit unions; conversion to Federal status.
 
 1774. Approval of certificate; assets and obligations of applicant credit union.

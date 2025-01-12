@@ -148,6 +148,48 @@ Pub. L. 116–92, §1694(b)(2), substituted "in section 44801 of title 49" for "
 
 Amendment by section 1845(c)(4) of Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding section 3001 of this title.
 
+#### Assessment and Strategy for Fielding Capabilities To Counter Threats Posed by Unmanned Aerial System Swarms ####
+
+Pub. L. 117–263, div. A, title I, §162, Dec. 23, 2022, 136 Stat. 2462, provided that:
+
+"(a) Assessment, Analysis, and Review.—The Secretary of Defense shall conduct—
+
+"(1) an assessment of the threats posed by unmanned aerial system swarms and unmanned aerial systems with swarm capabilities to installations and deployed Armed Forces;
+
+"(2) an analysis of the use or potential use of unmanned aerial system swarms by adversaries, including the People's Republic of China, the Russian Federation, the Islamic Republic of Iran, the Democratic People's Republic of North Korea, and non-state actors;
+
+"(3) an analysis of the national security implications of swarming technologies such as autonomous intelligence and machine learning;
+
+"(4) a review of the capabilities used by the Department of Defense to counter threats posed by unmanned aerial systems and an assessment of the effectiveness of such capabilities at countering the threat of unmanned aerial system swarms; and
+
+"(5) an overview of the efforts of the Department of Defense to develop and field test technologies that offer scalable, modular, and rapidly deployable capabilities with the ability to counter unmanned aerial system swarms.
+
+"(b) Strategy Development and Implementation Required.—
+
+"(1) In general.—The Secretary of Defense shall develop and implement a strategy to field capabilities to counter threats posed by unmanned aerial system swarms.
+
+"(2) Elements.—The strategy required by paragraph (1) shall include the following:
+
+"(A) The development of a comprehensive definition of 'unmanned aerial system swarm'.
+
+"(B) A plan to establish and incorporate requirements for the development, testing, and fielding of technologies and capabilities to counter unmanned aerial system swarms.
+
+"(C) A plan to acquire and field adequate capabilities to counter unmanned aerial system swarms in defense of the Armed Forces, infrastructure, and other assets of the United States across land, air, and maritime domains.
+
+"(D) An estimate of the resources needed by each Armed Force to implement the strategy.
+
+"(E) An analysis, determination, and prioritization of legislative action required to ensure the Department of Defense has the ability to counter the threats posed by unmanned aerial system swarms.
+
+"(F) Such other matters as the Secretary determines to be relevant to the strategy.
+
+"(3) Incorporation into existing strategy.—The Secretary of Defense may incorporate the strategy required by paragraph (1) into a comprehensive strategy of the Department of Defense to counter the threat of unmanned aerial systems.
+
+"(c) Information to Congress.—Not later than 270 days after the date of the enactment of this Act [Dec. 23, 2022], the Secretary of Defense shall submit to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] a report on—
+
+"(1) the findings of the Secretary under subsection (a); and
+
+"(2) the strategy developed and implemented by the Secretary under subsection (b)."
+
 #### Coordination of Amendments by Pub. L. 116–92 ####
 
 Amendments to this section by section 1731 of Pub. L. 116–92 to be treated as having been enacted immediately before amendments by other provisions of Pub. L. 116–92, see section 1731(f) of Pub. L. 116–92, set out as a Coordination of Certain Sections of an Act With Other Provisions of That Act note under section 101 of this title.

@@ -36,9 +36,9 @@ Sec.
 
 98h. National Defense Stockpile Transaction Fund.
 
-98h–1. Advisory committees.
+98h–1. Strategic and Critical Materials Board of Directors.
 
-98h–2. Reports to Congress.
+98h–2. Reports.
 
 98h–3. Definitions.
 

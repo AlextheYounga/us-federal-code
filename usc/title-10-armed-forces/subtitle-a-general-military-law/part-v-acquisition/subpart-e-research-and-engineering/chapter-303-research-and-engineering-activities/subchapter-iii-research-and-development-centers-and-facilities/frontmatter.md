@@ -94,52 +94,6 @@ Pub. L. 114–328, div. A, title II, §211, Dec. 23, 2016, 130 Stat. 2046, as am
 
 #### Defense Laboratory Modernization Pilot Program ####
 
-Pub. L. 114–92, div. B, title XXVIII, §2803, Nov. 25, 2015, 129 Stat. 1169, as amended by Pub. L. 114–328, div. B, title XXVIII, §2806, Dec. 23, 2016, 130 Stat. 2715; Pub. L. 115–232, div. B, title XXVIII, §2808(a)–(c), Aug. 13, 2018, 132 Stat. 2265, 2266; Pub. L. 117–81, div. A, title II, §215(d)(4), Dec. 27, 2021, 135 Stat. 1594, provided that:
+Pub. L. 114–92, div. B, title XXVIII, §2803, Nov. 25, 2015, 129 Stat. 1169, as amended by Pub. L. 114–328, div. B, title XXVIII, §2806, Dec. 23, 2016, 130 Stat. 2715; Pub. L. 115–232, div. B, title XXVIII, §2808(a)–(c), Aug. 13, 2018, 132 Stat. 2265, 2266; Pub. L. 117–81, div. A, title II, §215(d)(4), Dec. 27, 2021, 135 Stat. 1594, which authorized using amounts appropriated or otherwise made available to the Department of Defense for research, development, test, and evaluation, to fund certain military construction projects, was repealed by Pub. L. 117–263, div. B, title XXVIII, §2803(c), Dec. 23, 2022, 136 Stat. 2994.
 
-"(a) Authority to Use Research, Development, Test, and Evaluation Funds.—Using amounts appropriated or otherwise made available to the Department of Defense for research, development, test, and evaluation, the Secretary of Defense may fund a military construction project described in subsection (d) at any of the following:
-
-"(1) A Department of Defense Science and Technology Reinvention Laboratory (as designated under section 4121(b) of title 10, United States Code).
-
-"(2) A Department of Defense Federally Funded Research and Development Center that functions primarily as a research laboratory.
-
-"(3) A Department of Defense facility in support of a technology development program that is consistent with the fielding of offset technologies as described in section 218 of this Act [set out as a note under section 4811 of this title].
-
-"(4) A Department of Defense research, development, test, and evaluation facility that is not designated as a Science and Technology Reinvention Laboratory, but nonetheless is involved with developmental test and evaluation.
-
-"(b) Condition on and Scope of Project Authority.—Subject to the condition that a military construction project under subsection (a) be authorized in a Military Construction Authorization Act, the authority to carry out the military construction project includes authority for—
-
-"(1) surveys, site preparation, and advanced planning and design;
-
-"(2) acquisition, conversion, rehabilitation, and installation of facilities;
-
-"(3) acquisition and installation of equipment and appurtenances integral to the project; acquisition and installation of supporting facilities (including utilities) and appurtenances incident to the project; and
-
-"(4) planning, supervision, administration, and overhead expenses incident to the project.
-
-"(c) Congressional Notification Requirements.—
-
-"(1) Submission of project requests.—The Secretary of Defense shall include military construction projects proposed to be carried out under subsection (a) in the budget justification documents for the Department of Defense submitted to Congress in connection with the budget for a fiscal year submitted under 1105 of title 31, United States Code.
-
-"(2) Notification of implementation.—Not less than 14 days prior to the first obligation of funds described in subsection (a) for a military construction project to be carried out under subsection (a), the Secretary of Defense shall submit a notification to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] providing an updated construction description, cost, and schedule for the project and any other matters regarding the project as the Secretary considers appropriate.
-
-"(d) Authorized Projects Described.—The authority provided by subsection (a) to fund military construction projects using amounts appropriated or otherwise made available for research, development, test, and evaluation is limited to military construction projects that the Secretary of Defense, in the budget justification documents exhibits submitted pursuant to subsection (c)(1), determines—
-
-"(1) will support research and development activities at laboratories described in subsection (a);
-
-"(2) will establish facilities that will have significant potential for use by entities outside the Department of Defense, including universities, industrial partners, and other Federal agencies;
-
-"(3) are endorsed for funding by more than one military department or Defense Agency; and
-
-"(4) cannot be fully funded within the thresholds specified in section 2805 of title 10, United States Code.
-
-"(e) Funding Limitation.—The maximum amount of funds appropriated or otherwise made available for research, development, test, and evaluation that may be obligated in any fiscal year for military construction projects under subsection (a) is $150,000,000.
-
-"(f) Additional Authority to Use Funds for Related Architectural and Engineering Services and Contract Design.—
-
-"(1) Authority.—In addition to the authority provided to the Secretary of Defense under subsection (a) to use amounts appropriated or otherwise made available for research, development, test, and evaluation for a military construction project referred to in such subsection, the Secretary of the military department concerned may use amounts appropriated or otherwise made available for research, development, test, and evaluation to obtain architectural and engineering services and to carry out construction design in connection with such a project.
-
-"(2) Notice requirement.—In the case of architectural and engineering services and construction design to be undertaken under this subsection for which the estimated cost exceeds $1,000,000, the Secretary concerned shall notify the appropriate committees of Congress of the scope of the proposed project and the estimated cost of such services before the initial obligation of funds for such services. The Secretary may then obligate funds for such services only after the end of the 14-day period beginning on the date on which the notification is received by the committees in an electronic medium pursuant to section 480 of this title [sic; probably means section 480 of title 10, United States Code].
-
-"(g) Termination of Authority.—The authority provided by this section to fund military construction projects using funds appropriated or otherwise made available for research, development, test, and evaluation shall terminate on October 1, 2025."
-
-[Pub. L. 115–232, div. B, title XXVIII, §2808(d), Aug. 13, 2018, 132 Stat. 2266, provided that: "The amendments made by this section [amending section 2803 of Pub. L. 114–92, set out above] shall take effect as if included in the enactment of section 2803 of the National Defense Authorization Act for Fiscal Year 2016 (Public Law 114–92; 129 Stat. 1169; 10 U.S.C. 2358 note [now 10 U.S.C. 4121 note prec.])."]
+[Pub. L. 115–232, div. B, title XXVIII, §2808(d), Aug. 13, 2018, 132 Stat. 2266, provided that the amendments made by section 2808 of Pub. L. 115–232 to section 2803 of Pub. L. 114–92, formerly set out above, were effective as if included in the enactment of section 2803 of Pub. L. 114–92.]

@@ -113,6 +113,8 @@ Chap. Sec.
 
 48. Taiwan Relations 3301
 
+48A. Taiwan Enhanced Resilience 3351
+
 49. Support of Peace Treaty Between Egypt and Israel 3401
 
 50. Institute for Scientific and Technological Cooperation 3501
@@ -242,3 +244,7 @@ Chap. Sec.
 107. Sudan Democratic Transition, Accountability, and Fiscal Transparency 10001
 
 108. Global Magnitsky Human Rights Accountability 10101
+
+109. Burma Unified through Rigorous Military Accountability 10201
+
+110. Information Security and Cyber Diplomacy 10301

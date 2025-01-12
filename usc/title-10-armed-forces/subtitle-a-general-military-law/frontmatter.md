@@ -5,7 +5,7 @@ Subtitle A—General Military Law
 
 Chap. Sec.
 
-1. Definitions 101
+1. Definitions, Rules of Construction, Cross References, and Related Matters 101
 
 2. Department of Defense 111
 
@@ -37,9 +37,7 @@ Chap. Sec.
 
 16. Security Cooperation 301
 
-19. 1 Cyber Matters 2 391
-
-19. 1 Cyber Matters 3 391. 4
+19. Cyber Matters 1 391
 
 20. Humanitarian and Other Assistance 401
 
@@ -177,7 +175,7 @@ Chap. Sec.
 
 ### **PART IV—SERVICE, SUPPLY, AND PROPERTY** ###
 
-113. Defense Civilian Training Corps 2200g. 4
+113. Defense Civilian Training Corps 2200g. 2
 
 131. Planning and Coordination 2201
 
@@ -253,7 +251,7 @@ Chap. Sec.
 
 205. Defense Acquisition System 3101
 
-207. Budgeting and Appropriations Matters 3 3131
+207. Budgeting and Appropriations Matters 3
 
 209. Operational Contract Support 3151
 
@@ -265,7 +263,7 @@ Chap. Sec.
 
 223. Other Provisions Relating to Planning and Solicitation Generally 3241
 
-225. Planning and Solicitation Relating to Particular Items or Services 5 3271
+225. Planning and Solicitation Relating to Particular Items or Services 4 3271
 
 #### subpart c—contracting methods and contract types ####
 
@@ -285,7 +283,7 @@ Chap. Sec.
 
 251. Simplified Acquisition Procedures 3571
 
-253. [Reserved]
+253. Rapid Acquisition Procedures 3601
 
 255. Contracting With or Through Other Agencies 3651
 
@@ -297,7 +295,7 @@ Chap. Sec.
 
 271. Truthful Cost or Pricing Data (Truth in Negotiations) 3701
 
-272. Other Provisions Relating to Cost or Pricing Data 5 3721
+272. Other Provisions Relating to Cost or Pricing Data 4 3721
 
 273. Allowable Costs 3741
 
@@ -311,7 +309,7 @@ Chap. Sec.
 
 283. [Reserved]
 
-287. Other Contracting Programs 3961 6
+287. Other Contracting Programs 3961 5
 
 #### subpart e—research and engineering ####
 
@@ -319,23 +317,23 @@ Chap. Sec.
 
 303. Research and Engineering Activities 4061
 
-305. Universities 4131 7
+305. Universities 4131 6
 
 307. Test and Evaluation 4171
 
 #### subpart f—major systems, major defense acquisition programs, and weapon systems development ####
 
-321. General Matters 4201 8
+321. General Matters 4201 7
 
-322. Major Systems and Major Defense Acquisition Programs Generally 4211 8
+322. Major Systems and Major Defense Acquisition Programs Generally 4211 7
 
-323. Life-Cycle And Sustainment 4321 8
+323. Life-Cycle And Sustainment 4321 7
 
-324. Program Status—Selected Acquisition Reports 5 4350 8
+324. Program Status—Selected Acquisition Reports 4 4350 7
 
-325. Cost Growth—Unit Cost Reports (Nunn-McCurdy) 4371 8
+325. Cost Growth—Unit Cost Reports (Nunn-McCurdy) 4371 7
 
-327. Weapon Systems Development and Related Matters 4401 8
+327. Weapon Systems Development and Related Matters 4401 7
 
 #### subpart g—other special categories of contracting ####
 
@@ -376,6 +374,8 @@ Chap. Sec.
 #### **Editorial Notes** ####
 
 #### Amendments ####
+
+**2022**—Pub. L. 117–263, div. A, title VIII, §804(b), title X, §1081(a)(1), (e)(2), Dec. 23, 2022, 136 Stat. 2701, 2797, 2798, substituted "Definitions, Rules of Construction, Cross References, and Related Matters" for "Definitions" in item for chapter 1, struck out second item for chapter 19 "Cyber Matters", and added item for chapter 253 and struck out former item for chapter 253 "[Reserved]". Amendment to item for chapter 1 was made pursuant to operation of section 102 of this title.
 
 **2021**—Pub. L. 117–81, div. A, title XVII, §1701(i)(8)(A), (l)(2), Dec. 27, 2021, 135 Stat. 2142, 2144, which directed amendment of this analysis by substituting "[Reserved]" for "Foreign Acquisitions" and starting section number 3881 in item for chapter 283 and by adding item for chapter 287 and striking out former item for chapter 287 "Socioeconomic Programs", was executed by amending this analysis as directed, notwithstanding that other amendments by section 1701(i) and (l) of Pub. L. 117–81 were directed to Pub. L. 116–283, and not to the Code directly, and that such amendments are effective as if included in title XVIII of Pub. L. 116–283.
 
@@ -517,18 +517,16 @@ Pub. L. 87–649, §3(2), Sept. 7, 1962, 76 Stat. 493, added item for chapter 40
 
 **1958**—Pub. L. 85–861, §§1(21), (26), (33), 33(a)(4)(B), Sept. 2, 1958, 72 Stat. 1443, 1450, 1455, 1564, substituted "General Service Requirements" for "Service Requirements for Reserves" in item for chapter 37, "971" for "[No present sections]" in item for chapter 49, "Medical and Dental Care" for "Voting by Members of Armed Forces" in item for chapter 55, and struck out "Care of the Dead" and substituted "1475" for "1481" in item for chapter 75.
 
-[<sup>1</sup> So in original. Two items for chapter 19 have been enacted.](#PARTIanalysis_1)
+[<sup>1</sup> Chapter heading amended by Pub. L. 116–92 without corresponding amendment of subtitle analysis.](#PARTIanalysis_1)
 
-[<sup>2</sup> Chapter heading amended by Pub. L. 116–92 without corresponding amendment of subtitle analysis.](#PARTIanalysis_2)
+[<sup>2</sup> So in original. The period probably should not appear.](#PARTIVanalysis_2)
 
-[<sup>3</sup> So in original. Does not conform to chapter heading.](#PARTIanalysis_3)
+[<sup>3</sup> So in original. Does not conform to chapter heading.](#PARTVanalysis_3)
 
-[<sup>4</sup> So in original. The period probably should not appear.](#PARTIanalysis_4)
+[<sup>4</sup> Chapter heading amended by Pub. L. 117–81 without corresponding amendment of subtitle analysis.](#PARTVanalysis_4)
 
-[<sup>5</sup> Chapter heading amended by Pub. L. 117–81 without corresponding amendment of subtitle analysis.](#PARTVanalysis_5)
+[<sup>5</sup> So in original. Probably should be "3901".](#PARTVanalysis_5)
 
-[<sup>6</sup> So in original. Probably should be "3901".](#PARTVanalysis_6)
+[<sup>6</sup> So in original. Probably should be "4141".](#PARTVanalysis_6)
 
-[<sup>7</sup> So in original. Probably should be "4141".](#PARTVanalysis_7)
-
-[<sup>8</sup> Editorially supplied.](#PARTVanalysis_8)
+[<sup>7</sup> Editorially supplied.](#PARTVanalysis_7)

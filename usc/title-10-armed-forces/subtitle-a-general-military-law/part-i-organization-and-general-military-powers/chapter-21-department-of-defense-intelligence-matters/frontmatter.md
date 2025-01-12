@@ -14,6 +14,68 @@ II. Intelligence Commercial Activities 431
 
 #### **Statutory Notes and Related Subsidiaries** ####
 
+#### Incorporation of Controlled Unclassified Information Guidance Into Program Classification Guides and Program Protection Plans ####
+
+Pub. L. 117–263, div. A, title VIII, §884, Dec. 23, 2022, 136 Stat. 2746, provided that:
+
+"(a) Updates Required.—
+
+"(1) In general.—The Secretary of Defense shall, acting through the Under Secretary of Defense for Intelligence and Security and the Under Secretary of Defense for Research and Engineering, ensure that all program classification guides (for classified programs) and all program protection plans (for unclassified programs) include guidance for the proper marking for controlled unclassified information at their next regularly scheduled update.
+
+"(2) Elements.—Guidance under paragraph (1) shall include the following:
+
+"(A) A requirement to use document portion markings for controlled unclassified information.
+
+"(B) A process to ensure controlled unclassified information document portion markings are used properly and consistently.
+
+"(b) Monitoring of Progress.—In tracking the progress in carrying out subsection (a), the Under Secretary of Defense for Intelligence and Security and the Under Secretary of Defense for Research and Engineering shall implement a process for monitoring progress that includes the following:
+
+"(1) Tracking of all program classification guides and program protection plans so they include document portion marking for controlled unclassified information, and the dates when controlled unclassified information guidance updates are completed.
+
+"(2) Updated training in order to ensure that all government and contractor personnel using the guides described in subsection (a)(1) receive instruction, as well as periodic spot checks, to ensure that training is sufficient and properly implemented to ensure consistent application of document portion marking guidance.
+
+"(3) A process for feedback to ensure that any identified gaps or lessons learned are incorporated into guidance and training instructions.
+
+"(c) Required Completion.—The Secretary shall ensure that the updates required by subsection (a) are completed before January 1, 2029."
+
+#### Enhanced Indications and Warning for Deterrence and Dissuasion ####
+
+Pub. L. 117–263, div. A, title XII, §1256, Dec. 23, 2022, 136 Stat. 2851, provided that:
+
+"(a) Establishment of Program for Enhanced Indications and Warning.—
+
+"(1) Authority.—The Director of the Defense Intelligence Agency may establish a program to increase warning time of potential aggression by adversary nation states, focusing especially on the United States Indo-Pacific Command and United States European Command areas of operations.
+
+"(2) Designation.—If the Director establishes the program under paragraph (1), the program shall be known as the 'Program for Enhanced Indications and Warning' (in this section referred to as the 'Program').
+
+"(3) Purpose.—The purpose of the Program that may be established under paragraph (1) is to gain increased warning time to provide time for the Department of Defense to mount deterrence and dissuasion actions to persuade adversaries to refrain from aggression, including through potential revelations or demonstrations of capabilities and actions to create doubt in the minds of adversary leaders regarding the prospects for military success.
+
+"(b) Head of Program.—
+
+"(1) Appointment.—If the Director establishes the Program, the Director shall appoint a defense intelligence officer to serve as the mission manager for the Program.
+
+"(2) Designation.—The mission manager for the Program shall be known as the 'Program Manager for Enhanced Indications and Warning' (in this section referred to as the 'Program Manager').
+
+"(c) Sources of Information and Analysis.—If the Director establishes the Program, the Program Manager shall ensure that the Program makes use of all available sources of information, from public, commercial, and classified sources across the intelligence community and the Department of Defense, and advanced analytics, including artificial intelligence, to establish a system capable of discerning deviations from normal patterns of behavior and activity that may indicate preparations for military actions.
+
+"(d) Integration With Other Programs.—
+
+"(1) Support.—If the Director establishes the Program, the Program shall be supported, as appropriate, by the Chief Digital and Artificial Intelligence Officer, the Maven project, by capabilities sponsored by the Office of the Under Secretary of Defense for Intelligence and Security, and programs already underway within the Defense Intelligence Agency.
+
+"(2) Agreements.—If the Director establishes the Program, the Director shall seek to engage in agreements to integrate information and capabilities from other components of the intelligence community to facilitate the purpose of the Program.
+
+"(e) Briefings.—If the Director establishes the Program, not later than 180 days after the date of the enactment of this Act [Dec. 23, 2022] and not less frequently than once each year thereafter through 2027, the Program Manager shall provide the appropriate committees of Congress a briefing on the status of the activities of the Program.
+
+"(f) Definitions.—In this section:
+
+"(1) The term 'appropriate committees of Congress' means—
+
+"(A) the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives]; and
+
+"(B) the congressional intelligence committees (as defined in section 3 of the National Security Act of 1947 (50 U.S.C. 3003)).
+
+"(2) The term 'intelligence community' has the meaning given such term in section 3 of the National Security Act of 1947 (50 U.S.C. 3003)."
+
 #### Notification of Certain Threats to United States Armed Forces by Foreign Governments ####
 
 Pub. L. 117–81, div. A, title XVI, §1621, Dec. 27, 2021, 135 Stat. 2084, provided that:

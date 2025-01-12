@@ -24,11 +24,13 @@ Sec.
 
 690. Retired members ordered to active duty: limitation on number.
 
-691. Permanent end strength levels to support the National Defense Strategy.
+[691. Repealed.]
 
 #### **Editorial Notes** ####
 
 #### Amendments ####
+
+**2022**—Pub. L. 117–263, div. A, title IV, §402(a)(2), Dec. 23, 2022, 136 Stat. 2551, struck out item 691 "Permanent end strength levels to support the National Defense Strategy".
 
 **2021**—Pub. L. 117–81, div. A, title X, §1081(a)(12), Dec. 27, 2021, 135 Stat. 1920, inserted period at end of item 691.
 

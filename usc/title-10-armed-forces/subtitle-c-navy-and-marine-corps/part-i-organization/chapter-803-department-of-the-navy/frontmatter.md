@@ -32,7 +32,7 @@ Sec.
 
 8025. Financial management.
 
-8026. Consultation with Commandant of the Marine Corps on major decisions directly concerning Marine Corps aviation.
+8026. Consultation with Commandant of the Marine Corps on major decisions directly concerning Marine Corps aviation or amphibious force structure and capability.
 
 8027. Chief of Legislative Affairs.
 
@@ -45,6 +45,8 @@ Sec.
 A prior chapter 803, consisting of sections 8011 to 8024, related to Department of the Air Force, prior to renumbering as chapter 903 of this title.
 
 #### Amendments ####
+
+**2022**—Pub. L. 117–263, div. A, title X, §1022(b)(2), Dec. 23, 2022, 136 Stat. 2763, added item 8026 and struck out former item 8026 "Consultation with Commandant of the Marine Corps on major decisions directly concerning Marine Corps aviation".
 
 **2018**—Pub. L. 115–232, div. A, title VIII, §807(e)(1), (f)(1), Aug. 13, 2018, 132 Stat. 1837, 1838, redesignated chapter 503 of this title as this chapter and items 5011 to 5028 as 8011 to 8028, respectively.
 

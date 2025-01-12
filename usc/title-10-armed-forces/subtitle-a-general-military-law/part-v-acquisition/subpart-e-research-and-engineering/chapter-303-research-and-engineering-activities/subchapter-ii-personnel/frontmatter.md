@@ -10,7 +10,7 @@
 
 #### Pilot Program on Dynamic Shaping of the Workforce To Improve the Technical Skills and Expertise at Certain Department of Defense Laboratories ####
 
-Pub. L. 114–92, div. A, title XI, §1109, Nov. 25, 2015, 129 Stat. 1028, as amended by Pub. L. 115–232, div. A, title XI, §1112(b), Aug. 13, 2018, 132 Stat. 2012; Pub. L. 117–81, div. A, title II, §215(d)(3), Dec. 27, 2021, 135 Stat. 1593, provided that:
+Pub. L. 114–92, div. A, title XI, §1109, Nov. 25, 2015, 129 Stat. 1028, as amended by Pub. L. 115–232, div. A, title XI, §1112(b), Aug. 13, 2018, 132 Stat. 2012; Pub. L. 117–81, div. A, title II, §215(d)(3), Dec. 27, 2021, 135 Stat. 1593; Pub. L. 117–263, div. A, title XI, §1110, Dec. 23, 2022, 136 Stat. 2820, provided that:
 
 "(a) Pilot Program Required.—The Secretary of Defense shall establish a pilot program to utilize the authorities specified in subsection (b) at the Department of Defense laboratories specified in subsection (c) to provide the directors of such laboratories the authority to dynamically shape the mix of technical skills and expertise in the workforces of such laboratories in order to achieve one or more of the following:
 
@@ -36,12 +36,6 @@ Pub. L. 114–92, div. A, title XI, §1109, Nov. 25, 2015, 129 Stat. 1028, as am
 
 "(C) Extension of appointments.—The appointment of any individual under this paragraph may be extended without limit in up to six year increments at any time during any term of service under such conditions as the director concerned shall establish for purposes of this paragraph.
 
-"(D) Construction with certain limitation.—For purposes of determining the workforce size of a laboratory in connection with compliance with section 955 of the National Defense Authorization Act for Fiscal Year 2013 (Public Law 112–239; 126 Stat. 1896; 10 U.S.C. 129a note), any individual serving in an appointment under this paragraph shall be treated as a fractional employee of the laboratory, which fraction is—
-
-"(i) the current term of appointment of the individual under this paragraph; divided by
-
-"(ii) the average length of tenure of a career employee at the laboratory, as calculated at the end of the last fiscal year ending before the date of the most recent appointment or extension of the individual under this paragraph.
-
 "(2) Reemployment of annuitants.—Authorities to authorize the director of any science and technology reinvention laboratory (in this section referred to as 'STRL') to reemploy annuitants in accordance with section 9902(g) of title 5, United States Code, except that as a condition for reemployment the director may authorize the deduction from the pay of any annuitant so reemployed of an amount up to the amount of the annuity otherwise payable to such annuitant allocable to the period of actual employment of such annuitant, which amount shall be determined in a manner specified by the director for purposes of this paragraph to ensure the most cost effective execution of designated missions by the laboratory while retaining critical technical skills.
 
 "(3) Early retirement incentives.—Authorities to authorize the director of any STRL to authorize voluntary early retirement of employees in accordance with section 8336 of title 5, United States Code, without regard to section 8336(d)(2)(D) or 3522 of such title, and with employees so separated voluntarily from service.
@@ -60,7 +54,7 @@ Pub. L. 114–92, div. A, title XI, §1109, Nov. 25, 2015, 129 Stat. 1028, as am
 
 "(d) Expiration.—
 
-"(1) In general.—The authority in this section shall expire on December 31, 2023.
+"(1) In general.—The authority in this section shall expire on December 31, 2027.
 
 "(2) Continuation of authorities exercised before termination.—The expiration in paragraph (1) shall not be construed to effect the continuation after the date specified in paragraph (1) of any term of employment or other benefit authorized under this section before that date in accordance with the terms of such authorization."
 

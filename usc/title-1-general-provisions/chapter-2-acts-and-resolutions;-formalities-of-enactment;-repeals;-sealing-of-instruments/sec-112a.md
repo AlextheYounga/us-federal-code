@@ -14,7 +14,15 @@
 
 (d) The Secretary of State shall make publicly available through the Internet website of the Department of State each treaty or international agreement proposed to be published in the compilation entitled "United States Treaties and Other International Agreements" not later than 180 days after the date on which the treaty or agreement enters into force.
 
-(Added Sept. 23, 1950, ch. 1001, §2, 64 Stat. 980; amended Pub. L. 103–236, title I, §138, Apr. 30, 1994, 108 Stat. 397; Pub. L. 108–458, title VII, §7121(a), Dec. 17, 2004, 118 Stat. 3807.)
+(Added Sept. 23, 1950, ch. 1001, §2, 64 Stat. 980; amended Pub. L. 103–236, title I, §138, Apr. 30, 1994, 108 Stat. 397; Pub. L. 108–458, title VII, §7121(a), Dec. 17, 2004, 118 Stat. 3807; Pub. L. 117–263, div. E, title LIX, §5947(b), Dec. 23, 2022, 136 Stat. 3482.)
+
+#### Amendment of Section ####
+
+Pub. L. 117–263, div. E, title LIX, §5947(b), (c), Dec. 23, 2022, 136 Stat. 3482, provided that, effective 270 days after Dec. 23, 2022, this section is amended by striking subsections (b), (c), and (d) and by inserting after subsection (a) the following:
+
+*(b) Copies of international agreements and qualifying non-binding instruments in the possession of the Department of State, but not published, other than the agreements described in section 112b(b)(3)(A), shall be made available by the Department of State upon request.*
+
+See 2022 Amendment note below.
 
 #### **Editorial Notes** ####
 
@@ -24,11 +32,17 @@ The date of enactment of the Foreign Relations Authorization Act, Fiscal Years 1
 
 #### Amendments ####
 
+**2022**—Subsecs. (b) to (d). Pub. L. 117–263 added subsec. (b) and struck out former subsecs. (b) to (d) which related to determination that publication of certain categories of agreements is not required, publication of such determination in the Federal Register, and timely availability of certain treaties and international agreements on the Department of State website.
+
 **2004**—Subsec. (d). Pub. L. 108–458 added subsec. (d).
 
 **1994**—Pub. L. 103–236 designated existing provisions as subsec. (a) and added subsecs. (b) and (c).
 
 #### **Statutory Notes and Related Subsidiaries** ####
+
+#### Effective Date of 2022 Amendment ####
+
+Pub. L. 117–263, div. E, title LIX, §5947(c), Dec. 23, 2022, 136 Stat. 3482, provided that: "The amendments made by this section [amending this section, section 112b of this title, and section 195c of Title 6, Domestic Security] shall take effect on the date that is 270 days after the date of the enactment of this Act."
 
 #### Effective Date of 2004 Amendment ####
 

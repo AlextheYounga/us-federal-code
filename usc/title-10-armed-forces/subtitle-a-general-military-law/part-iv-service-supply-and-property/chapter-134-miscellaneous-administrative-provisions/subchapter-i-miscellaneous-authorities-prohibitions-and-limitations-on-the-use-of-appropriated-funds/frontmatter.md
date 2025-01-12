@@ -18,7 +18,11 @@ Sec.
 
 2245. Use of aircraft for proficiency flying: limitation.
 
-[2245a, 2246 to 2248. Renumbered or Repealed.]
+[2245a. Repealed.]
+
+2246. Authorization of certain support for military service academy foundations.
+
+[2247, 2248. Renumbered or Repealed.]
 
 2249. Prohibition on use of funds for documenting economic or employment impact of certain acquisition programs. 1
 
@@ -31,6 +35,8 @@ Sec.
 #### **Editorial Notes** ####
 
 #### Amendments ####
+
+**2022**—Pub. L. 117–263, div. A, title V, §551(b), Dec. 23, 2022, 136 Stat. 2592, added item 2246.
 
 **2016**—Pub. L. 114–328, div. A, title VIII, §833(b)(1)(B), title XII, §§1241(o)(6), 1247(d), Dec. 23, 2016, 130 Stat. 2284, 2512, 2522, struck out items 2245a "Use of operation and maintenance funds for purchase of investment items: limitation", 2249a "Prohibition on providing financial assistance to terrorist countries", 2249c "Regional Defense Combating Terrorism Fellowship Program: authority to use appropriated funds for costs associated with education and training of foreign officials", 2249d "Distribution to certain foreign personnel of education and training materials and information technology to enhance military interoperability with the armed forces", and 2249e "Prohibition on use of funds for assistance to units of foreign security forces that have committed a gross violation of human rights".
 

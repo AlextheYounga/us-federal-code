@@ -28,8 +28,12 @@ Sec.
 
 50113. Use and performance reports by operators of vessels.
 
+50114. National maritime strategy.
+
 #### **Editorial Notes** ####
 
 #### Amendments ####
+
+**2022**—Pub. L. 117–263, div. C, title XXXV, §3542(b)(3), Dec. 23, 2022, 136 Stat. 3098, added item 50114.
 
 **2015**—Pub. L. 114–92, div. A, title X, §1074(c)(2), Nov. 25, 2015, 129 Stat. 997, substituted "Submission of annual MARAD authorization request" for "Reports to Congress" in item 50111.

@@ -148,11 +148,17 @@ Sec.
 
 262p–12. Cancellation of Haiti's debts to international financial institutions.
 
+262p–12a. Ukraine debt payment relief.
+
 262p–13. Support for capacity of the International Monetary Fund to prevent money laundering and financing of terrorism.
 
 262p–14. Support to enhance the capacity of fund members to evaluate the legal and financial terms of sovereign debt contracts.
 
 262p–15. United States policy on Burma at the International Monetary Fund, the World Bank Group, and the Asian Development Bank.
+
+262p–16. United States policy on World Bank Group and Asian Development Bank Assistance to the People's Republic of China.
+
+262p–17. Support for international initiatives to provide debt restructuring or relief to developing countries with unsustainable levels of debt.
 
 262q. Transferred.
 
@@ -261,6 +267,8 @@ Sec.
 276c–4. Employment of United States citizens by certain international organizations.
 
 276c–5. Authorization for United States participation in the Coalition for Epidemic Preparedness Innovations.
+
+276c–6. Supporting the employment of United States citizens by international organizations.
 
 #### SUBCHAPTER I—CANADA-UNITED STATES INTERPARLIAMENTARY GROUP ####
 
@@ -945,6 +953,8 @@ Sec.
 287e–2. Reimbursement for goods and services provided by the United States to the United Nations.
 
 287e–3. Limitation on the United States share of assessments for United Nations regular budget.
+
+287e–4. Limitation on United States contributions to peacekeeping operations not authorized by the United Nations Security Council.
 
 287f. Omitted.
 

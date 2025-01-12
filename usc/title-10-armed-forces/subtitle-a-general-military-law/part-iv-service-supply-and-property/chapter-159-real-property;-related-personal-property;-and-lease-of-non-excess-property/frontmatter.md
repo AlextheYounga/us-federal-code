@@ -24,7 +24,7 @@ Sec.
 
 2668a. Easements: granting restrictive easements in connection with land conveyances.
 
-[2669. Repealed.]
+2669. Transfer of land and facilities to support contracts with federally funded research and development centers.
 
 2670. Use of facilities by private organizations; use as polling places.
 
@@ -68,7 +68,7 @@ Sec.
 
 [2689, 2690. Renumbered.]
 
-2691. Restoration of land used by permit or damaged by mishap; reimbursement of State costs of fighting wildland fires. 1
+2691. Restoration of land used by permit or damaged by mishap; reimbursement of State costs of fighting wildland fires.
 
 2692. Storage, treatment, and disposal of nondefense toxic and hazardous materials.
 
@@ -81,6 +81,8 @@ Sec.
 2694b. Participation in wetland mitigation banks.
 
 2694c. Participation in conservation banking programs.
+
+2694d. Participation in pollutant banks and water quality trading.
 
 2695. Acceptance of funds to cover administrative expenses relating to certain real property transactions.
 
@@ -97,6 +99,8 @@ This section makes necessary clerical amendments to chapter analysis.
 #### **Editorial Notes** ####
 
 #### Amendments ####
+
+**2022**—Pub. L. 117–263, div. A, title III, §312(b), div. B, title XXVIII, §2831(b), Dec. 23, 2022, 136 Stat. 2502, 3003, added items 2669 and 2694d.
 
 **2021**—Pub. L. 117–81, div. A, title XVII, §1701(u)(5)(B), (w)(3), Dec. 27, 2021, 135 Stat. 2154, struck out item 2681 "Use of test and evaluation installations by commercial entities" and repealed Pub. L. 116–283, div. A, title XVIII, §1844(b)(2)(B), Jan. 1, 2021, 134 Stat. 4246, which had previously struck out that item.
 
@@ -200,11 +204,29 @@ Pub. L. 85–337, §4(2), Feb. 28, 1958, 72 Stat. 29, added item 2671.
 
 #### **Statutory Notes and Related Subsidiaries** ####
 
+#### Physical Entrances to Certain Military Installations ####
+
+Pub. L. 117–263, div. B, title XXVIII, §2833, Dec. 23, 2022, 136 Stat. 3003, provided that:
+
+"The Secretary of Defense shall ensure that, to the extent practicable that—
+
+"(1) each military installation in the United States has a designated main entrance that, at all times, is manned by at least one member of the Armed Forces or civilian employee of the Department of Defense;
+
+"(2) the location of each such designated main entrance is published on a publicly accessible internet website of the Department;
+
+"(3) in the case of a military installation in the United States that has any additional entrance designated for commercial deliveries to the military installation, the location of such entrance (and any applicable days or hours of operation for such entrance) is published on the same internet website as the website referred to in paragraph (2); and
+
+"(4) the information required to be published on the internet website under paragraph (2) is reviewed and, as necessary, updated on a basis that is not less frequent than annually."
+
 #### Prizes for Development of Non-PFAS-Containing Fire-Fighting Agent ####
 
-Pub. L. 116–283, div. A, title III, §330, Jan. 1, 2021, 134 Stat. 3528, provided that:
+Pub. L. 116–283, div. A, title III, §330, Jan. 1, 2021, 134 Stat. 3528, as amended by Pub. L. 117–263, div. A, title III, §343, Dec. 23, 2022, 136 Stat. 2530, provided that:
 
-"(a) Authority.—The Secretary of Defense, acting through the Assistant Secretary of Defense for Sustainment and the Strategic Environmental Research and Development Program, may carry out a program to award cash prizes and other types of prizes that the Secretary determines are appropriate to recognize outstanding achievements in the development of a non-PFAS-containing fire-fighting agent to replace aqueous film-forming foam with the potential for application to the performance of the military missions of the Department of Defense.
+"(a) Authority.—The Secretary of Defense, acting through the Assistant Secretary of Defense for Sustainment and the Strategic Environmental Research and Development Program, may carry out a program to award cash prizes and other types of prizes that the Secretary determines are appropriate to recognize outstanding achievements in the development of the following:
+
+"(1) A non-PFAS-containing fire-fighting agent to replace aqueous film-forming foam with the potential for application to the performance of the military missions of the Department of Defense.
+
+"(2) Covered personal protective firefighting equipment that does not contain an intentionally added perfluoroalkyl substance or polyfluoroalkyl substance.
 
 "(b) Competition Requirements.—A program under subsection (a) shall use a competitive process for the selection of recipients of cash prizes. The process shall include the widely-advertised solicitation of submissions of research results, technology developments, and prototypes.
 
@@ -220,11 +242,21 @@ Pub. L. 116–283, div. A, title III, §330, Jan. 1, 2021, 134 Stat. 3528, provi
 
 "(e) Use of Prize Authority.—Use of prize authority under this section shall be considered the use of competitive procedures for the purposes of section 2304 of title 10, United States Code.
 
-"(f) PFAS Defined.—In this section, the term 'PFAS' means—
+"(f) Definitions.—In this section:
 
-"(1) man-made chemicals of which all of the carbon atoms are fully fluorinated carbon atoms; and
+"(1) The term "perfluoroalkyl substance" means a man-made chemical of which all of the carbon atoms are fully fluorinated carbon atoms.
 
-"(2) man-made chemicals containing a mix of fully fluorinated carbon atoms, partially fluorinated carbon atoms, and nonfluorinated carbon atoms.
+"(2) The term "polyfluoroalkyl substance" means a man-made chemical containing at least one fully fluorinated carbon atom and at least one non-fully fluorinated carbon atom.
+
+"(3) The term "covered personal protective firefighting equipment" means the following:
+
+"(A) Turnout gear jacket or coat.
+
+"(B) Turnout gear pants.
+
+"(C) Turnout coveralls.
+
+"(D) Any other personal protective firefighting equipment, as determined by the Secretary of Defense, in consultation with the Administrator of the United States Fire Administration.
 
 "(g) Termination.—The authority to carry out a program under this section shall terminate on October 1, 2024."
 
@@ -351,5 +383,3 @@ Pub. L. 116–92, div. A, title III, §§322–324, Dec. 20, 2019, 133 Stat. 130
 #### "SEC. 324. PROHIBITION ON USE OF FLUORINATED AQUEOUS FILM FORMING FOAM FOR TRAINING EXERCISES. ####
 
 "The Secretary of Defense shall prohibit the use of fluorinated aqueous film forming foam for training exercises at military installations."
-
-[<sup>1</sup> Section catchline amended by Pub. L. 115–232 without corresponding amendment of chapter analysis.](#CHAPTER159_1)

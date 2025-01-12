@@ -92,7 +92,7 @@ Sec.
 
 2771. Attendance at professional meetings.
 
-2772. Education loan repayment program.
+2772. Education loan repayment program for members on active duty in specified military specialties.
 
 2773. Rations or commutation therefor in money.
 
@@ -117,6 +117,8 @@ A prior analysis for part III of this title "COAST GUARD AUTHORIZATIONS AND REPO
 A prior analysis for chapter 27 "AUTHORIZATIONS" consisted of items 2701 "Requirement for prior authorization of appropriations", 2702 "Authorization of appropriations", 2703 "Authorization of personnel end strengths", and 2704 "Authorized levels of military strength and training", prior to repeal by Pub. L. 115–282, title I, §116(a), Dec. 4, 2018, 132 Stat. 4225.
 
 #### Amendments ####
+
+**2022**—Pub. L. 117–263, div. K, title CXII, §11239(b), Dec. 23, 2022, 136 Stat. 4039, added item 2772 and struck out former item 2772 "Education loan repayment program".
 
 **2021**—Pub. L. 116–283, div. G, title LVXXXII [LXXXII], §8206(b), title LVXXXV [LXXXV], §8505(a)(38)(B), (39)(B), (45)(B), Jan. 1, 2021, 134 Stat. 4649, 4750, added items 2713, 2761, 2767, and 2777, and struck out former items 2761 "Persons discharged as result of court-martial; allowances to", 2767 "Reimbursement for medical-related travel expenses for certain persons residing on islands in the continental United States", and 2777 "Clothing for destitute shipwrecked persons". Item 2713 was added to the analysis for this chapter to reflect the probable intent of Congress, notwithstanding directory language adding that item "at the end" of the analysis for subchapter I of this chapter.
 

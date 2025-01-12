@@ -52,7 +52,7 @@ Section was enacted as part of the Cyber Incident Reporting for Critical Infrast
 
 Pub. L. 117–103, div. Y, §102, Mar. 15, 2022, 136 Stat. 1038, provided that: "In this division [see Short Title of 2022 Amendment note set out under section 101 of this title]:
 
-"(1) Covered cyber incident; covered entity; cyber incident; information system; ransom payment; ransomware attack; security vulnerability.—The terms 'covered cyber incident', 'covered entity', 'cyber incident', 'information system', 'ransom payment', 'ransomware attack', and 'security vulnerability' have the meanings given those terms in section 2240 of the Homeland Security Act of 2002 [6 U.S.C. 681], as added by section 103 of this division.
+"(1) Covered cyber incident; covered entity; cyber incident; information system; ransom payment; ransomware attack; security vulnerability.—The terms 'covered cyber incident', 'covered entity', 'cyber incident', 'information system', 'ransom payment', 'ransomware attack', and 'security vulnerability' have the meanings given those terms in section 2240 of the Homeland Security Act of 2002 [6 U.S.C. 681], as added by section 103 of this division [see also 6 U.S.C. 650].
 
 "(2) Director.—The term 'Director' means the Director of the Cybersecurity and Infrastructure Security Agency."
 

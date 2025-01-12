@@ -2,7 +2,7 @@
 
 Sec.
 
-3791. Management of intellectual property matters within the Department of Defense. 1
+3791. Management of intellectual property matters within the Department of Defense.
 
 3792. [Reserved].
 
@@ -55,5 +55,3 @@ Pub. L. 110–417, [div. A], title VIII, §822, Oct. 14, 2008, 122 Stat. 4532, a
 "(2) a description of the extent to which program managers have received training to better assess the long-term technical data needs of major weapon systems and subsystems; and
 
 "(3) a description of one or more examples, if any, where a priced contract option has been used on major weapon systems for the future delivery of technical data and one or more examples, if any, where all relevant technical data were acquired upon contract award."
-
-[<sup>1</sup> So in original. Does not conform to section catchline.](#I_1)

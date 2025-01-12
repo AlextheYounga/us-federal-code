@@ -13,17 +13,17 @@ Subpart D—General Contracting Provisions
 
 #### Pilot Program To Accelerate Contracting and Pricing Processes ####
 
-Pub. L. 115–232, div. A, title VIII, §890, Aug. 13, 2018, 132 Stat. 1919, as amended by Pub. L. 116–92, div. A, title VIII, §825, Dec. 20, 2019, 133 Stat. 1491; Pub. L. 116–283, div. A, title XVIII, §1831(j)(7), Jan. 1, 2021, 134 Stat. 4217, provided that:
+Pub. L. 115–232, div. A, title VIII, §890, Aug. 13, 2018, 132 Stat. 1919, as amended by Pub. L. 116–92, div. A, title VIII, §825, Dec. 20, 2019, 133 Stat. 1491; Pub. L. 116–283, div. A, title XVIII, §1831(j)(7), Jan. 1, 2021, 134 Stat. 4217; Pub. L. 117–263, div. A, title VIII, §818, Dec. 23, 2022, 136 Stat. 2708, provided that:
 
 "(a) In General.—The Secretary of Defense shall establish a pilot program to reform and accelerate the contracting and pricing processes associated with contracts in excess of $50,000,000 by—
 
 "(1) basing price reasonableness determinations on actual cost and pricing data for purchases of the same or similar products for the Department of Defense; and
 
-"(2) reducing the cost and pricing data to be submitted in accordance with of [sic] chapter 271 of title 10, United States Code.
+"(2) reducing the cost and pricing data to be submitted in accordance with chapter 271 of title 10, United States Code.
 
 "(b) Report.—Not later than January 30, 2021, the Secretary of Defense shall submit to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] a report on the results of the pilot program authorized under subsection (a).
 
-"(c) Sunset.—The authority to carry out the pilot program under this section shall expire on January 2, 2023."
+"(c) Sunset.—The authority to carry out the pilot program under this section shall expire on January 2, 2024."
 
 #### Guidance and Training Related to Evaluating Reasonableness of Price ####
 

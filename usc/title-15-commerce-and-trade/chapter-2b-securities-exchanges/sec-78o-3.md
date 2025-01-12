@@ -242,7 +242,17 @@ Consistent with this chapter, each national securities association registered pu
 
 A national securities association registered pursuant to subsection (a) shall, not later than 8 months after December 21, 2000, implement the procedures specified in section 78f(h)(5)(A) of this title and adopt the rules specified in subparagraphs (B) and (C) of section 78f(h)(5) of this title.
 
-(June 6, 1934, ch. 404, title I, §15A, as added June 25, 1938, ch. 677, §1, 52 Stat. 1070; amended Pub. L. 88–467, §7, Aug. 20, 1964, 78 Stat. 574; Pub. L. 94–29, §12, June 4, 1975, 89 Stat. 127; Pub. L. 99–571, title I, §102(g), Oct. 28, 1986, 100 Stat. 3218; Pub. L. 101–429, title V, §509, Oct. 15, 1990, 104 Stat. 957; Pub. L. 103–202, title I, §106(b)(1), title III, §303(a), (c), Dec. 17, 1993, 107 Stat. 2350, 2364, 2366; Pub. L. 106–102, title II, §203, Nov. 12, 1999, 113 Stat. 1391; Pub. L. 106–554, §1(a)(5) [title II, §§203(c), 206(j), (k)(1)], Dec. 21, 2000, 114 Stat. 2763, 2763A–422, 2763A–433; Pub. L. 109–290, §§5, 6, Sept. 29, 2006, 120 Stat. 1319, 1320; Pub. L. 111–203, title IX, §975(f), July 21, 2010, 124 Stat. 1923.)
+#### (n) Data standards ####
+
+#### (1) Requirement ####
+
+A national securities association registered pursuant to subsection (a) shall adopt data standards for all information that is regularly filed with or submitted to the association.
+
+#### (2) Consistency ####
+
+The data standards required under paragraph (1) shall incorporate, and ensure compatibility with (to the extent feasible), all applicable data standards established in the rules promulgated under section 5334 of title 12, including, to the extent practicable, by having the characteristics described in clauses (i) through (vi) of subsection (c)(1)(B) of such section 5334.
+
+(June 6, 1934, ch. 404, title I, §15A, as added June 25, 1938, ch. 677, §1, 52 Stat. 1070; amended Pub. L. 88–467, §7, Aug. 20, 1964, 78 Stat. 574; Pub. L. 94–29, §12, June 4, 1975, 89 Stat. 127; Pub. L. 99–571, title I, §102(g), Oct. 28, 1986, 100 Stat. 3218; Pub. L. 101–429, title V, §509, Oct. 15, 1990, 104 Stat. 957; Pub. L. 103–202, title I, §106(b)(1), title III, §303(a), (c), Dec. 17, 1993, 107 Stat. 2350, 2364, 2366; Pub. L. 106–102, title II, §203, Nov. 12, 1999, 113 Stat. 1391; Pub. L. 106–554, §1(a)(5) [title II, §§203(c), 206(j), (k)(1)], Dec. 21, 2000, 114 Stat. 2763, 2763A–422, 2763A–433; Pub. L. 109–290, §§5, 6, Sept. 29, 2006, 120 Stat. 1319, 1320; Pub. L. 111–203, title IX, §975(f), July 21, 2010, 124 Stat. 1923; Pub. L. 117–263, div. E, title LVIII, §5824(a), Dec. 23, 2022, 136 Stat. 3428.)
 
 #### **Editorial Notes** ####
 
@@ -257,6 +267,8 @@ Sections 77d(2) and 77d(6) of this title, referred to in subsec. (j), were redes
 Subsection (k) of section 78q of this title, referred to in subsec. (k)(4)(C), was redesignated subsec. (j) by Pub. L. 111–203, title VI, §617(a)(2), July 21, 2010, 124 Stat. 1616.
 
 #### Amendments ####
+
+**2022**—Subsec. (n). Pub. L. 117–263 added subsec. (n).
 
 **2010**—Subsec. (b)(15). Pub. L. 111–203 added par. (15).
 
@@ -379,6 +391,22 @@ Amendment by Pub. L. 88–467 effective Aug. 20, 1964, see section 13 of Pub. L.
 Amendment by section 106(b)(1) of Pub. L. 103–202 not to be construed to govern initial issuance of any public debt obligation or to grant any authority to (or extend any authority of) the Securities and Exchange Commission, any appropriate regulatory agency, or a self-regulatory organization to prescribe any procedure, term, or condition of such initial issuance, to promulgate any rule or regulation governing such initial issuance, or to otherwise regulate in any manner such initial issuance, see section 111 of Pub. L. 103–202, set out as a note under section 78o–5 of this title.
 
 Amendment by section 303(a), (c) of Pub. L. 103–202 not to limit authority of Securities and Exchange Commission, a registered securities association or a national securities exchange under any provision of this chapter, or preclude the Commission or such association or exchange from imposing a remedy or procedure required to be imposed under such amendment, see section 304(b) of Pub. L. 103–202, set out in an Effective Date of 1993 Amendment note under section 78f of this title.
+
+#### Rulemaking ####
+
+Pub. L. 117–263, div. E, title LVIII, §5824(b), Dec. 23, 2022, 136 Stat. 3428, provided that:
+
+"(1) In general.—Not later than 2 years after the date on which final rules are promulgated under section 124(b)(2) of the Financial Stability Act of 2010 [12 U.S.C. 5334(b)(2)], as added by section 5811(a) of this title, each national securities association registered pursuant to section 15A(a) of the Securities Exchange Act of 1934 (15 U.S.C. 78o–3(a)) shall issue rules to adopt the standards required under subsection (n) of section 15A of the Securities Exchange Act of 1934 (15 U.S.C. 78o–3), as added by subsection (a) of this section.
+
+"(2) Scaling of regulatory requirements; minimizing disruption.—In issuing the rules required under paragraph (1), a national securities association described in that paragraph—
+
+"(A) may scale data reporting requirements in order to reduce any unjustified burden on smaller regulated entities; and
+
+"(B) shall seek to minimize disruptive changes to the persons affected by those standards."
+
+#### Rule of Construction—No New Disclosure Requirements ####
+
+Amendment by Pub. L. 117–263 not to be construed to require certain additional information to be collected or disclosed, see section 5826 of Pub. L. 117–263, set out as a note under section 77g of this title.
 
 #### **Executive Documents** ####
 

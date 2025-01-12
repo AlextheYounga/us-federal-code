@@ -88,6 +88,148 @@ Pub. L. 104–106, div. A, title V, §572(b), Feb. 10, 1996, 110 Stat. 355, adde
 
 #### **Statutory Notes and Related Subsidiaries** ####
 
+#### Pilot Program on Scholarship-for-Service for Civilian Behavioral Health Providers ####
+
+Pub. L. 117–263, div. A, title VII, §737(b), (e), Dec. 23, 2022, 136 Stat. 2671, 2674, provided that:
+
+"(b) Pilot Program on Scholarship-for-service for Civilian Behavioral Health Providers.—
+
+"(1) Pilot program.—Not later than two years after the date of the enactment of this Act [Dec. 23, 2022], the Secretary of Defense shall commence the conduct of a pilot program under which—
+
+"(A) the Secretary may provide—
+
+"(i) scholarships to cover tuition and related fees at an institution of higher education to an individual enrolled in a program of study leading to a graduate degree in clinical psychology, social work, counseling, or a related field (as determined by the Secretary); and
+
+"(ii) student loan repayment assistance to a credentialed behavioral health provider who has a graduate degree in clinical psychology, social work, counseling, or a related field (as determined by the Secretary); and
+
+"(B) in exchange for such assistance, the recipient shall commit to work as a covered civilian behavioral health provider in accordance with paragraph (2).
+
+"(2) Post-award employment obligations.—
+
+"(A) In general.—Subject to subparagraph (B), as a condition of receiving assistance under paragraph (1), the recipient of such assistance shall enter into an agreement with the Secretary of Defense pursuant to which the recipient agrees to work on a full-time basis as a covered civilian behavioral health provider for a period of a duration that is at least equivalent to the period during which the recipient received assistance under such paragraph.
+
+"(B) Other terms and conditions.—An agreement entered into pursuant to subparagraph (A) may include such other terms and conditions as the Secretary of Defense may determine necessary to protect the interests of the United States or otherwise appropriate for purposes of this section, including terms and conditions providing for limited exceptions from the post-award employment obligation specified in such subparagraph.
+
+"(3) Repayment.—
+
+"(A) In general.—An individual who receives assistance under paragraph (1) and does not complete the employment obligation required under the agreement entered into pursuant to paragraph (2) shall repay to the Secretary of Defense a prorated portion of the financial assistance received by the individual under paragraph (1).
+
+"(B) Determination of amount.—The amount of any repayment required under subparagraph (A) shall be determined by the Secretary.
+
+"(4) Duration.—The authority to carry out the pilot program under paragraph (1) shall terminate on the date that is 10 years after the date on which such pilot program commences.
+
+"(5) Implementation plan.—Not later than one year after the date of the enactment of this Act, the Secretary of Defense shall submit to the Committees on Armed Services of the House of Representatives and the Senate a plan for the implementation of this section.
+
+"(6) Reports.—
+
+"(A) In general.—Not later than each of one year and five years after the commencement of the pilot program under paragraph (1), the Secretary of Defense shall submit to the Committees on Armed Services of the House of Representative and the Senate a report on the pilot program.
+
+"(B) Elements.—Each report under subparagraph (A) shall include, with respect to the pilot program under subsection (1), the following:
+
+"(i) The number of students receiving scholarships under the pilot program.
+
+"(ii) The institutions of higher education at which such students are enrolled.
+
+"(iii) The total amount of financial assistance expended under the pilot program per academic year.
+
+"(iv) The average scholarship amount per student under the pilot program.
+
+"(v) The number of students hired as covered behavioral health providers pursuant to the pilot program.
+
+"(vi) Any recommendations for terminating the pilot program, extending the pilot program, or making the pilot program permanent.
+
+"(e) Definitions.—In this section:
+
+"(1) The term 'behavioral health' includes psychiatry, clinical psychology, social work, counseling, and related fields.
+
+"(2) The term 'civilian behavioral health provider' means a behavioral health provider who is a civilian employee of the Department of Defense.
+
+"(3) The term 'counselor' means an individual who holds—
+
+"(A) a master's or doctoral degree from an accredited graduate program in—
+
+"(i) marriage and family therapy; or
+
+"(ii) clinical mental health counseling; and
+
+"(B) a current license or certification from a State that grants the individual the authority to provide counseling services as an independent practitioner in the respective field of the individual.
+
+"(4) The term 'covered civilian behavioral health provider' means a civilian behavioral health provider whose employment by the Secretary of Defense involves the provision of behavioral health services at a military medical treatment facility.
+
+"(5) The term 'institution of higher education' has the meaning given that term in section 101 of the Higher Education Act of 1965 (20 U.S.C. 1001).
+
+"(6) The term 'military behavioral health provider' means a behavioral health provider who is a member of the Armed Forces.
+
+"(7) The term 'military installation' has the meaning given that term in section 2801 of title 10, United States Code.
+
+"(8) The term 'military medical treatment facility' means a facility specified in section 1073d of such title.
+
+"(9) The term 'remote installation' means a military installation that the Secretary determines to be in a remote location.
+
+"(10) The term 'State' means each of the several States, the District of Columbia, and each commonwealth, territory or possession of the United States."
+
+#### Joint Information Operations Course ####
+
+Pub. L. 117–263, div. A, title XV, §1523, Dec. 23, 2022, 136 Stat. 2898, provided that:
+
+"(a) Joint Information Operations Course.—The Secretary of Defense shall develop and provide to members of the Army, Navy, Air Force, Marine Corps, and Space Force a course to prepare the members to plan and conduct information operations in a joint environment pursuant to title 10, United States Code. Such course shall include—
+
+"(1) standardized qualifications and procedures to enable the joint and synchronized employment of information-related capabilities in the information environment;
+
+"(2) joint methods to implement information operations in a battlefield environment under any ground force chain of command; and
+
+"(3) a curriculum covering applicable assets, core information operations concepts, integration of effects with a specific focus on information-related effects, operational methodology, multi-dimensional targeting space, other information-related capabilities defined by governing policy, instruction, publications, and doctrine, and any other topics or areas determined necessary by the Secretary.
+
+"(b) Consideration of Ongoing Efforts.—The Secretary shall ensure that the course under subsection (a) is developed in light of the information operations posture review, gap analysis, strategy update, and designation of a Joint Force Trainer, occurring as of the date of the enactment of this Act [Dec. 23, 2022].
+
+"(c) Semiannual Reports.—Subsequent to the development of the course under subsection (a), on a semiannual basis through January 1, 2028, the Secretary shall submit to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] a report on the course. Each report shall include, with respect to the period covered by the report—
+
+"(1) the number of members described in subsection (a) who attended the course; and
+
+"(2) an assessment of the value of the course in—
+
+"(A) conducting joint operations in the information environment; and
+
+"(B) the synchronized employment of information-related capabilities in the information environment."
+
+#### Lease or use Agreement for Category 3 Subterranean Training Facility ####
+
+Pub. L. 117–263, div. B, title XXVIII, §2869(a)–(d), Dec. 23, 2022, 136 Stat. 3012, 3013, provided that:
+
+"(a) In General.—The Secretary of Defense may seek to enter into a lease or use agreement with a category 3 subterranean training facility that—
+
+"(1) is located in close proximity (as determined by the Secretary of Defense) to the home station of an air assault unit or a special operations force; and
+
+"(2) has the capacity to—
+
+"(A) provide brigade or large full-mission profile training;
+
+"(B) rapidly replicate full-scale underground venues;
+
+"(C) support helicopter landing zones; and
+
+"(D) support underground live fire.
+
+"(b) Use of Facility.—A lease or use agreement entered into pursuant to subsection (a) shall provide that the category 3 subterranean training facility shall be made available for—
+
+"(1) hosting of training and testing exercises for—
+
+"(A) members of the Armed Forces, including members a special operations force;
+
+"(B) personnel of combat support agencies, including the Defense Threat Reduction Agency; and
+
+"(C) such other personnel as the Secretary of Defense determines appropriate; and
+
+"(2) such other purposes as the Secretary of Defense determines appropriate.
+
+"(c) Duration.—The duration of any lease or use agreement entered into pursuant to subsection (a) shall be for a period of not less than 5 years.
+
+"(d) Category 3 Subterranean Training Facility Defined.—In this section, the term 'category 3 subterranean training facility' means an underground structure designed and built—
+
+"(1) to be unobserved and to provide maximum protection; and
+
+"(2) to serve as a command and control, operations, storage, production, and protection facility."
+
 #### Executive Education on Emerging Technologies for Senior Civilian and Military Leaders ####
 
 Pub. L. 117–81, div. A, title II, §228, Dec. 27, 2021, 135 Stat. 1609, provided that:
@@ -116,17 +258,7 @@ Pub. L. 117–81, div. A, title II, §228, Dec. 27, 2021, 135 Stat. 1609, provid
 
 #### Authority To Maintain Access to Category 3 Subterranean Training Facility ####
 
-Pub. L. 117–81, div. A, title III, §375, Dec. 27, 2021, 135 Stat. 1667, provided that:
-
-"(a) In General.—The Secretary of Defense may ensure that the Department of Defense maintains access to a covered category 3 subterranean training facility on a continuing basis.
-
-"(b) Authority to Enter Into Lease.—The Secretary of Defense is authorized to enter into a short-term lease with a provider of a covered category 3 subterranean training facility for purposes of carrying out subsection (a).
-
-"(c) Covered Category 3 Subterranean Training Facility Defined.—In this section, the term 'covered category 3 subterranean training facility' means a category 3 subterranean training facility that is—
-
-"(1) operational as of the date of the enactment of this Act [Dec. 27, 2021]; and
-
-"(2) deemed safe for use as of such date."
+Pub. L. 117–81, div. A, title III, §375, Dec. 27, 2021, 135 Stat. 1667, which provided for authority to maintain access to category 3 subterranean training facility, was repealed by Pub. L. 117–263, div. B, title XXVIII, §2869(e), Dec. 23, 2022, 136 Stat. 3013.
 
 #### Implementation of Comptroller General Recommendations on Preventing Tactical Vehicle Training Accidents ####
 
@@ -244,7 +376,7 @@ Pub. L. 116–283, div. A, title II, §248, Jan. 1, 2021, 134 Stat. 3492, provid
 
 #### Training Program Regarding Foreign Malign Influence Campaigns ####
 
-Pub. L. 116–283, div. A, title V, §589E, Jan. 1, 2021, 134 Stat. 3661, as amended by Pub. L. 117–81, div. A, title V, §549N, Dec. 27, 2021, 135 Stat. 1733, provided that:
+Pub. L. 116–283, div. A, title V, §589E, Jan. 1, 2021, 134 Stat. 3661, as amended by Pub. L. 117–81, div. A, title V, §549N, Dec. 27, 2021, 135 Stat. 1733; Pub. L. 117–263, div. F, title LXIII, §6307(a)(3), Dec. 23, 2022, 136 Stat. 3505, provided that:
 
 "(a) Establishment.—Not later than September 30, 2021, the Secretary of Defense shall establish a program for training members of the Armed Forces and civilian employees of the Department of Defense regarding the threat of foreign malign influence campaigns targeted at such individuals and the families of such individuals, including such campaigns carried out through social media.
 
@@ -260,7 +392,7 @@ Pub. L. 116–283, div. A, title V, §589E, Jan. 1, 2021, 134 Stat. 3661, as ame
 
 "(C) In such other tasks deemed appropriate by the Secretary of Defense or the official designated under subsection (b).
 
-"(2) The official designed under subsection (b) and the working group established under this subsection shall consult with the Foreign Malign Influence Response Center established pursuant to section 3059 of title 50, United States Code.
+"(2) The official designed under subsection (b) and the working group established under this subsection shall consult with the Foreign Malign Influence Center established pursuant to section 3059 of title 50, United States Code.
 
 "(e) Report Required.—Not later than 18 months after the establishment of the working group, the Secretary shall submit to the Committees on Armed Services of the Senate and the House of Representatives a report on the results of the working group, its activities, the effectiveness of the counter foreign malign influence activities carried out under this section, the metrics applied to determined effectiveness, and the actual costs associated with actions undertaken pursuant to this section.
 

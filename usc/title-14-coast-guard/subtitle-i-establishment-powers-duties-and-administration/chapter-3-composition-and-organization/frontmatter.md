@@ -30,7 +30,7 @@ Sec.
 
 314. Marine industry training program.
 
-315. Training course on workings of Congress.
+315. Training for congressional affairs personnel.
 
 316. National Coast Guard Museum.
 
@@ -38,13 +38,15 @@ Sec.
 
 318. Environmental Compliance and Restoration Program.
 
-319. Land-based unmanned aircraft system program.
+319. Unmanned system program and autonomous control and computer vision technology project.
 
 320. Coast Guard Junior Reserve Officers' Training Corps.
 
 321. Congressional affairs; Director.
 
 322. Redistricting notification requirement.
+
+323. Western Alaska Oil Spill Planning Criteria Program.
 
 #### **Editorial Notes** ####
 
@@ -53,6 +55,8 @@ Sec.
 A prior analysis for chapter 3 "COMPOSITION AND ORGANIZATION" consisted of items 41 "Grades and ratings", 41a "Active duty promotion list", 42 "Number and distribution of commissioned officers on active duty promotion list", 44 "Commandant; appointment", 46 "Retirement of Commandant or Vice Commandant", 47 "Vice Commandant; appointment", 50 "Vice admirals", 51 "Retirement", 52 "Vice admirals and admiral, continuity of grade", 53 "Office of the Coast Guard Reserve; Director", 54 "Chief of Staff to President: appointment", 56 "Chief Acquisition Officer", 57 "Prevention and response workforces", 58 "Centers of expertise for Coast Guard prevention and response", 59 "Marine industry training programs", and 60 "Training course on workings of Congress", prior to repeal by Pub. L. 115–282, title I, §104(a), Dec. 4, 2018, 132 Stat. 4196.
 
 #### Amendments ####
+
+**2022**—Pub. L. 117–263, div. K, title CXII, §§11225(b), 11251(b), title CXIII, §11309(a)(2), Dec. 23, 2022, 136 Stat. 4025, 4053, 4081, added items 315, 319, and 323 and struck out former items 315 "Training course on workings of Congress" and 319 "Land-based unmanned aircraft system program".
 
 **2021**—Pub. L. 116–283, div. G, title LVXXXII [LXXXII], §8211(b), title LVXXXV [LXXXV], §8501(b)(1), Jan. 1, 2021, 134 Stat. 4649, 4746, added items 321 and 322.
 

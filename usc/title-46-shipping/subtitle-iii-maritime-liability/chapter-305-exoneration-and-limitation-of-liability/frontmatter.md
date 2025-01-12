@@ -1,27 +1,37 @@
 ### **CHAPTER 305—EXONERATION AND LIMITATION OF LIABILITY** ###
 
+#### SUBCHAPTER I—GENERAL PROVISIONS ####
+
 Sec.
 
-30501. Definition.
+30501. Definitions.
 
 30502. Application.
 
-30503. Declaration of nature and value of goods.
+#### SUBCHAPTER II—EXONERATION AND LIMITATION OF LIABILITY ####
 
-30504. Loss by fire.
+30521. Declaration of nature and value of goods.
 
-30505. General limit of liability.
+30522. Loss by fire.
 
-30506. Limit of liability for personal injury or death.
+30523. General limit of liability.
 
-30507. Apportionment of losses.
+30524. Limit of liability for personal injury or death.
 
-30508. Provisions requiring notice of claim or limiting time for bringing action.
+30525. Apportionment of losses.
 
-30509. Provisions limiting liability for personal injury or death.
+30526. Provisions requiring notice of claim or limiting time for bringing action.
 
-30510. Vicarious liability for medical malpractice with regard to crew.
+30527. Provisions limiting liability for personal injury or death.
 
-30511. Action by owner for limitation.
+30528. Vicarious liability for medical malpractice with regard to crew.
 
-30512. Liability as master, officer, or seaman not affected.
+30529. Action by owner for limitation.
+
+30530. Liability as master, officer, or seaman not affected.
+
+#### **Editorial Notes** ####
+
+#### Amendments ####
+
+**2022**—Pub. L. 117–263, div. K, title CXV, §11503(e), Dec. 23, 2022, 136 Stat. 4131, inserted subchapter headings, substituted "Definitions" for "Definition" in item 30501, and renumbered items 30503 to 30512 as 30521 to 30530, respectively.

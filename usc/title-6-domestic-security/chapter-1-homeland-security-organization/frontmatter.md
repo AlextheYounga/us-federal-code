@@ -152,6 +152,8 @@ Sec.
 
 195h. National Urban Security Technology Laboratory.
 
+195i. Chemical Security Analysis Center.
+
 #### SUBCHAPTER IV—BORDER, MARITIME, AND TRANSPORTATION SECURITY ####
 
 #### Part A—Border, Maritime, and Transportation Security Responsibilities and Functions ####
@@ -194,6 +196,8 @@ Sec.
 
 224. Other reporting requirements.
 
+225. Reports, evaluations, and research regarding drug interdiction at and between ports of entry.
+
 #### Part C—Miscellaneous Provisions ####
 
 231. Transfer of certain agricultural inspection functions of the Department of Agriculture.
@@ -227,6 +231,8 @@ Sec.
 243. Maritime operations coordination plan.
 
 244. Maritime security capabilities assessments.
+
+245. Operational data sharing capability.
 
 #### Part D—Immigration Enforcement Functions ####
 
@@ -424,6 +430,8 @@ Sec.
 
 396. Lead system integrator; financial interests.
 
+397. Requirements to buy certain items related to national security interests.
+
 #### Part E—Human Resources Management ####
 
 411. Establishment of human resources management system.
@@ -535,6 +543,10 @@ Sec.
 473. Cyber Crimes Center, Child Exploitation Investigations Unit, Computer Forensics Unit, and Cyber Crimes Unit.
 
 474. Homeland security critical domain research and development.
+
+475. Transnational Criminal Investigative Units.
+
+475a. Mentor-protégé program.
 
 #### Part I—Information Sharing ####
 
@@ -790,9 +802,11 @@ Sec.
 
 #### SUBCHAPTER XVIII—CYBERSECURITY AND INFRASTRUCTURE SECURITY AGENCY ####
 
+650. Definitions.
+
 #### Part A—Cybersecurity and Infrastructure Security ####
 
-651. Definitions.
+651. Definition.
 
 652. Cybersecurity and Infrastructure Security Agency.
 
@@ -845,6 +859,12 @@ Sec.
 665j. Ransomware threat mitigation activities.
 
 665k. Federal Clearinghouse on School Safety Evidence-based Practices.
+
+665 l. School and daycare protection.
+
+665m. President's Cup Cybersecurity Competition.
+
+665n. Industrial Control Systems Cybersecurity Training Initiative.
 
 #### Part B—Critical Infrastructure Information ####
 

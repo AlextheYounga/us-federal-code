@@ -12,6 +12,8 @@ Sec.
 
 222c. Armed forces: Out-Year Unconstrained Total Munitions Requirements; Out-Year inventory numbers.
 
+222d. Annual report on industrial base constraints for munitions.
+
 223. Ballistic missile defense programs: program elements.
 
 223a. Ballistic missile defense programs: procurement.
@@ -28,7 +30,7 @@ Sec.
 
 [230. Repealed.]
 
-231. Budgeting for construction of naval vessels: annual plan and certification.
+231. Budgeting for construction, maintenance, and modernization of naval vessels: annual plan and certification.
 
 231a. Budgeting for life-cycle costs of aircraft for the Army, Navy, and Air Force: annual plan and certification.
 
@@ -54,9 +56,13 @@ Sec.
 
 239c. Certain multiyear contracts for acquisition of property: budget justification materials.
 
+239d. Budgeting for depot and ammunition production facility maintenance and repair: annual report.
+
 #### **Editorial Notes** ####
 
 #### Amendments ####
+
+**2022**—Pub. L. 117–263, div. A, title III, §§352(b), 371, title XVII, §1701(d)(2), Dec. 23, 2022, 136 Stat. 2534, 2539, 2966, added items 222d, 231, and 239d and struck out former item 231 "Budgeting for construction of naval vessels: annual plan and certification".
 
 **2021**—Pub. L. 117–81, div. A, title VIII, §811(b), Dec. 27, 2021, 135 Stat. 1823, added item 239c.
 

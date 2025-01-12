@@ -708,7 +708,17 @@ Nothing in paragraph (1) may be construed to require a nationally recognized sta
 
 In producing a credit rating, a nationally recognized statistical rating organization shall consider information about an issuer that the nationally recognized statistical rating organization has, or receives from a source other than the issuer or underwriter, that the nationally recognized statistical rating organization finds credible and potentially significant to a rating decision.
 
-(June 6, 1934, ch. 404, title I, §15E, as added Pub. L. 109–291, §4(a), Sept. 29, 2006, 120 Stat. 1329; amended Pub. L. 111–203, title IX, §§932(a), 933(a), 934, 935, July 21, 2010, 124 Stat. 1872, 1883, 1884.)
+#### (w) Data standards for information required to be submitted or published under this section ####
+
+#### (1) Requirement ####
+
+The Commission shall, by rule, adopt data standards for all collections of information required to be submitted or published by a nationally recognized statistical rating organization under this section.
+
+#### (2) Consistency ####
+
+The data standards required under paragraph (1) shall incorporate, and ensure compatibility with (to the extent feasible), all applicable data standards established in the rules promulgated under section 5334 of title 12, including, to the extent practicable, by having the characteristics described in clauses (i) through (vi) of subsection (c)(1)(B) of such section 5334.
+
+(June 6, 1934, ch. 404, title I, §15E, as added Pub. L. 109–291, §4(a), Sept. 29, 2006, 120 Stat. 1329; amended Pub. L. 111–203, title IX, §§932(a), 933(a), 934, 935, July 21, 2010, 124 Stat. 1872, 1883, 1884; Pub. L. 117–263, div. E, title LVIII, §5821(c), Dec. 23, 2022, 136 Stat. 3425.)
 
 #### **Editorial Notes** ####
 
@@ -719,6 +729,8 @@ This chapter, referred to in subsecs. (a)(1)(A), (B)(iii), (c), (e)(2), (f)(2), 
 The Securities Exchange Act of 1934, referred to in subsec. (f)(3), is act June 6, 1934, ch. 404, 48 Stat. 881, which is classified principally to this chapter (§78a et seq.). For complete classification of this Act to the Code, see section 78a of this title and Tables.
 
 #### Amendments ####
+
+**2022**—Subsec. (w). Pub. L. 117–263 added subsec. (w).
 
 **2010**—Subsec. (b)(1)(A). Pub. L. 111–203, §932(a)(1)(A), substituted "filed" for "furnished" and "filing" for "furnishing".
 
@@ -757,6 +769,10 @@ Amendment by Pub. L. 111–203 effective 1 day after July 21, 2010, except as ot
 #### Regulations ####
 
 Pub. L. 111–203, title IX, §937, July 21, 2010, 124 Stat. 1885, provided that: "Unless otherwise specifically provided in this subtitle [subtitle C (§§931–939H) of title IX of Pub. L. 111–203, enacting sections 78o–8 and 78o–9 of this title, amending this section and sections 78c, 78u–4, and 80a–6 of this title, sections 24a, 1817, 1831e, and 4519 of Title 12, Banks and Banking, and section 286hh of Title 22, Foreign Relations and Intercourse, and enacting provisions set out as notes under this section, sections 78m and 78o–9 of this title, and section 24a of Title 12], the [Securities and Exchange] Commission shall issue final regulations, as required by this subtitle and the amendments made by this subtitle, not later than 1 year after the date of enactment of this Act [July 21, 2010]."
+
+#### Rule of Construction—No New Disclosure Requirements ####
+
+Amendment by Pub. L. 117–263 not to be construed to require certain additional information to be collected or disclosed, see section 5826 of Pub. L. 117–263, set out as a note under section 77g of this title.
 
 #### Qualification Standards for Credit Rating Analysts ####
 

@@ -26,6 +26,38 @@ A prior chapter 221 "PLANNING AND SOLICITATION GENERALLY", as added by Pub. L. 1
 
 #### **Statutory Notes and Related Subsidiaries** ####
 
+#### Restriction on Procurement or Purchasing by Department of Defense of Turnout Gear for Firefighters Containing Perfluoroalkyl Substances or Polyfluoroalkyl Substances ####
+
+Pub. L. 117–263, div. A, title III, §345, Dec. 23, 2022, 136 Stat. 2530, provided that:
+
+"(a) Prohibition on Procurement and Purchasing.—Subject to subsection (d), beginning on October 1, 2026, the Secretary of Defense may not enter into a contract to procure or purchase covered personal protective firefighting equipment for use by Federal or civilian firefighters if such equipment contains an intentionally added perfluoroalkyl substance or polyfluoroalkyl substance.
+
+"(b) Implementation.—
+
+"(1) Inclusion in contracts.—The Secretary of Defense shall include the prohibition under subsection (a) in any contract entered into by the Department of Defense to procure covered personal protective firefighting equipment for use by Federal or civilian firefighters.
+
+"(2) No obligation to test.—In carrying out the prohibition under subsection (a), the Secretary shall not have an obligation to test covered personal protective firefighting equipment to confirm the absence of perfluoroalkyl substances or polyfluoroalkyl substances.
+
+"(c) Existing Inventory.—Nothing in this section shall impact existing inventories of covered personal protective firefighting equipment.
+
+"(d) Availability of Alternatives.—
+
+"(1) In general.—The requirement under subsection (a) shall be subject to the availability of sufficiently protective covered personal protective firefighting equipment that does not contain intentionally added perfluoroalkyl substances or polyfluoroalkyl substances.
+
+"(2) Extension of effective date.—If the Secretary of Defense determines that no sufficiently protective covered personal protective firefighting equipment that does not contain intentionally added perfluoroalkyl substances or polyfluoroalkyl substances is available, the deadline under subsection (a) shall be extended until the Secretary determines that such covered personal protective firefighting equipment is available.
+
+"(e) Definitions.—In this section:
+
+"(1) The term 'covered personal protective firefighting equipment' means—
+
+"(A) any product that provides protection to the upper and lower torso, arms, legs, head, hands, and feet; or
+
+"(B) any other personal protective firefighting equipment, as determined by the Secretary of Defense.
+
+"(2) The term 'perfluoroalkyl substance' means a man-made chemical of which all of the carbon atoms are fully fluorinated carbon atoms.
+
+"(3) The term 'polyfluoroalkyl substance' means a man-made chemical containing at least one fully fluorinated carbon atom and at least one non-fully fluorinated carbon atom."
+
 #### Middle Tier of Acquisition for Rapid Prototyping and Rapid Fielding ####
 
 Pub. L. 116–92, div. A, title VIII, §837, Dec. 20, 2019, 133 Stat. 1497, provided that:
@@ -140,58 +172,6 @@ Pub. L. 114–92, div. A, title VIII, §805, Nov. 25, 2015, 129 Stat. 885, as am
 
 "(4) maximize the use of flexible authorities in existing law and regulation."
 
-#### Rapid Acquisition and Deployment Procedures for United States Special Operations Command ####
-
-Pub. L. 113–291, div. A, title VIII, §851, Dec. 19, 2014, 128 Stat. 3457, provided that:
-
-"(a) Authority to Establish Procedures.—The Secretary may prescribe procedures for the rapid acquisition and deployment of items for the United States Special Operations Command that are currently under development by the Department of Defense or available from the commercial sector and are—
-
-"(1) urgently needed to react to an enemy threat or to respond to significant and urgent safety situations;
-
-"(2) needed to avoid significant risk of loss of life or mission failure; or
-
-"(3) needed to avoid collateral damage risk where the absence of collateral damage is a requirement for mission success.
-
-"(b) Issues to Be Addressed.—The procedures prescribed under subsection (a) shall include the following:
-
-"(1) A process for streamlined communication between the Commander of the United States Special Operations Command and the acquisition and research and development communities, including—
-
-"(A) a process for the Commander to communicate needs to the acquisition community and the research and development community; and
-
-"(B) a process for the acquisition community and the research and development community to propose items that meet the needs communicated by the Commander.
-
-"(2) Procedures for demonstrating, rapidly acquiring, and deploying items proposed pursuant to paragraph (1)(B), including—
-
-"(A) a process for demonstrating performance and evaluating for current operational purposes the existing capability of an item;
-
-"(B) a process for developing an acquisition and funding strategy for the deployment of an item; and
-
-"(C) a process for making deployment determinations based on information obtained pursuant to subparagraphs (A) and (B).
-
-"(c) Testing Requirement.—
-
-"(1) In general.—The process for demonstrating performance and evaluating for current operational purposes the existing capability of an item prescribed under subsection (b)(2)(A) shall include—
-
-"(A) an operational assessment in accordance with expedited procedures prescribed by the Director of Operational Testing and Evaluation; and
-
-"(B) a requirement to provide information to the deployment decision-making authority about any deficiency of the item in meeting the original requirements for the item (as stated in an operational requirements document or similar document).
-
-"(2) Deficiency not a determining factor.—The process may not include a requirement for any deficiency of an item to be the determining factor in deciding whether to deploy the item.
-
-"(3) Additional requirement in case of deficiency.—In the case of any deficiency of an item, a decision to deploy the item may be made only if the Commander of the United States Special Operations Command determines that, for reasons of national security, the deficiency of the item is acceptable.
-
-"(d) Limitation.—The quantity of items of a system procured using the procedures prescribed pursuant to this section may not exceed the number established for low-rate initial production for the system. Any such items shall be counted for purposes of the number of items of the system that may be procured through low-rate initial production.
-
-"(e) Annual Funding Limitation.—Of the funds available to the Commander of the United States Special Operations Command in any given fiscal year, not more than $50,000,000 may be used to procure items under this section.
-
-"(f) Relationship to Other Rapid Acquisition Authority.—The Commander of the United States Special Operations Command may not use the authority under this section at the same time the Commander uses the authority under section 806 of the Bob Stump National Defense Authorization Act for Fiscal Year 2003 (Public Law 107–314; 10 U.S.C. 2302 note [now 10 U.S.C. 3201 note prec., set out below]).
-
-"(g) Congressional Notifications.—
-
-"(1) Notification before procedures go into effect.—The Secretary of Defense shall notify the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] at least 30 days before the procedures prescribed pursuant to this section are made effective.
-
-"(2) Notification after use of procedures.—The Secretary of Defense shall notify the congressional defense committees not later than 48 hours after each use of the procedures prescribed pursuant to this section."
-
 #### Review and Justification of Pass-Through Contracts ####
 
 Pub. L. 112–239, div. A, title VIII, §802, Jan. 2, 2013, 126 Stat. 1824, provided that: "Not later than 180 days after the date of the enactment of this Act [Jan. 2, 2013], the Secretary of Defense, the Secretary of State, and the Administrator of the United States Agency for International Development shall issue such guidance and regulations as may be necessary to ensure that in any case in which an offeror for a contract or a task or delivery order informs the agency pursuant to section 52.215-22 of the Federal Acquisition Regulation that the offeror intends to award subcontracts for more than 70 percent of the total cost of work to be performed under the contract, task order, or delivery order, the contracting officer for the contract is required to—
@@ -204,87 +184,7 @@ Pub. L. 112–239, div. A, title VIII, §802, Jan. 2, 2013, 126 Stat. 1824, prov
 
 #### Review of Acquisition Process for Rapid Fielding of Capabilities in Response to Urgent Operational Needs ####
 
-Pub. L. 111–383, div. A, title VIII, §804, Jan. 7, 2011, 124 Stat. 4256, provided that:
-
-"(a) Review of Rapid Acquisition Process Required.—
-
-"(1) In general.—Not later than one year after the date of the enactment of this Act [Jan. 7, 2011], the Secretary of Defense shall complete a review of the process for the fielding of capabilities in response to urgent operational needs and submit a report on the review to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives].
-
-"(2) Review and report requirements.—The review pursuant to this section shall include consideration of various improvements to the acquisition process for rapid fielding of capabilities in response to urgent operational needs. For each improvement, the report on the review shall discuss—
-
-"(A) the Department's review of the improvement;
-
-"(B) if the improvement is being implemented by the Department, a schedule for implementing the improvement; and
-
-"(C) if the improvement is not being implemented by the Department, an explanation of why the improvement is not being implemented.
-
-"(3) Improvements to be considered.—The improvements that shall be considered during the review are the following:
-
-"(A) Providing a streamlined, expedited, and tightly integrated iterative approach to—
-
-"(i) the identification and validation of urgent operational needs;
-
-"(ii) the analysis of alternatives and identification of preferred solutions;
-
-"(iii) the development and approval of appropriate requirements and acquisition documents;
-
-"(iv) the identification and minimization of development, integration, and manufacturing risks;
-
-"(v) the consideration of operation and sustainment costs;
-
-"(vi) the allocation of appropriate funding; and
-
-"(vii) the rapid production and delivery of required capabilities.
-
-"(B) Clearly defining the roles and responsibilities of the Office of the Secretary of Defense, the Joint Chiefs of Staff, the military departments, and other components of the Department of Defense for carrying out all phases of the process.
-
-"(C) Designating a senior official within the Office of the Secretary of Defense with primary responsibility for making recommendations to the Secretary on the use of the authority provided by subsections (c) and (d) of section 806 of the Bob Stump National Defense Authorization Act for Fiscal Year 2003 [Pub. L. 107–314] (10 U.S.C. 2302 note [now 10 U.S.C. 3201 note prec., set out below]), as amended by section 803 of this Act, in appropriate circumstances.
-
-"(D) Establishing a target date for the fielding of a capability pursuant to each validated urgent operational need.
-
-"(E) Implementing a system for—
-
-"(i) documenting key process milestones, such as funding, acquisition, fielding, and assessment decisions and actions; and
-
-"(ii) tracking the cost, schedule, and performance of acquisitions conducted pursuant to the process.
-
-"(F) Establishing a formal feedback mechanism for the commanders of the combatant commands to provide information to the Joint Chiefs of Staff and senior acquisition officials on how well fielded solutions are meeting urgent operational needs.
-
-"(G) Establishing a dedicated source of funding for the rapid fielding of capabilities in response to urgent operational needs.
-
-"(H) Issuing guidance to provide for the appropriate transition of capabilities acquired through rapid fielding into the traditional budget, requirements, and acquisition process for purposes of contracts for follow-on production, sustainment, and logistics support.
-
-"(I) Such other improvements as the Secretary considers appropriate.
-
-"(b) Discriminating Urgent Operational Needs From Traditional Requirements.—
-
-"(1) Expedited review process.—Not later than 270 days after the date of the enactment of this Act, the Secretary shall develop and implement an expedited review process to determine whether capabilities proposed as urgent operational needs are appropriate for fielding through the process for the rapid fielding of capabilities or should be fielded through the traditional acquisition process.
-
-"(2) Elements.—The review process developed and implemented pursuant to paragraph (1) shall—
-
-"(A) apply to the rapid fielding of capabilities in response to joint urgent operational need statements and to other urgent operational needs statements generated by the military departments and the combatant commands;
-
-"(B) identify officials responsible for making determinations described in paragraph (1);
-
-"(C) establish appropriate time periods for making such determinations;
-
-"(D) set forth standards and criteria for making such determinations based on considerations of urgency, risk, and life-cycle management;
-
-"(E) establish appropriate thresholds for the applicability of the review process, or of elements of the review process; and
-
-"(F) authorize appropriate officials to make exceptions from standards and criteria established under subparagraph (D) in exceptional circumstances.
-
-"(3) Covered capabilities.—The review process developed and implemented pursuant to paragraph (1) shall provide that, subject to such exceptions as the Secretary considers appropriate for purposes of this section, the acquisition process for rapid fielding of capabilities in response to urgent operational needs is appropriate only for capabilities that—
-
-"(A) can be fielded within a period of two to 24 months;
-
-"(B) do not require substantial development effort;
-
-"(C) are based on technologies that are proven and available; and
-
-"(D) can appropriately be acquired under fixed price contracts.
-
-"(4) Inclusion in report.—The Secretary shall include a description of the expedited review process implemented pursuant to paragraph (1) in the report required by subsection (a)."
+Pub. L. 111–383, div. A, title VIII, §804, Jan. 7, 2011, 124 Stat. 4256, which required a review of and subsequent report on the process for the fielding of capabilities in response to urgent operational needs, was repealed by Pub. L. 117–263, div. A, title VIII, §804(c)(1), Dec. 23, 2022, 136 Stat. 2701.
 
 #### Internal Controls for Procurements on Behalf of the Department of Defense ####
 
@@ -580,129 +480,7 @@ Pub. L. 109–289, div. A, title VIII, §8048, Sept. 29, 2006, 120 Stat. 1284, p
 
 #### Rapid Acquisition and Deployment Procedures ####
 
-Pub. L. 107–314, div. A, title VIII, §806, Dec. 2, 2002, 116 Stat. 2607, as amended by Pub. L. 108–136, div. A, title VIII, §845, Nov. 24, 2003, 117 Stat. 1553; Pub. L. 108–375, div. A, title VIII, §811, Oct. 28, 2004, 118 Stat. 2012; Pub. L. 109–364, div. A, title X, §1071(h), Oct. 17, 2006, 120 Stat. 2403; Pub. L. 111–383, div. A, title VIII, §803, Jan. 7, 2011, 124 Stat. 4255; Pub. L. 112–81, div. A, title VIII, §845(a), (b), Dec. 31, 2011, 125 Stat. 1515; Pub. L. 114–92, div. A, title VIII, §803, Nov. 25, 2015, 129 Stat. 880; Pub. L. 114–328, div. A, title VIII, §801, Dec. 23, 2016, 130 Stat. 2247, provided that:
-
-"(a) Requirement To Establish Procedures.—Not later than 180 days after the date of the enactment of this Act [Dec. 2, 2002], the Secretary of Defense shall prescribe procedures for the rapid acquisition and deployment of supplies and associated support services that are—
-
-"(1)(A) currently under development by the Department of Defense or available from the commercial sector;
-
-"(B) require only minor modifications to supplies described in subparagraph (A); or
-
-"(C) developed or procured under the rapid fielding or rapid prototyping acquisition pathways under section 804 of the National Defense Authorization Act for Fiscal Year 2016 (Public Law 114–92; 10 U.S.C. 2302 note [now 10 U.S.C. 3201 note prec., set out above]); and
-
-"(2) urgently needed to react to an enemy threat or to respond to significant and urgent safety situations.
-
-"(b) Issues To Be Addressed.—The procedures prescribed under subsection (a) shall include the following:
-
-"(1) A process for streamlined communications between the Chairman of the Joint Chiefs of Staff, the acquisition community, and the research and development community, including—
-
-"(A) a process for the commanders of the combatant commands and the Joint Chiefs of Staff to communicate their needs to the acquisition community and the research and development community; and
-
-"(B) a process for the acquisition community and the research and development community to propose supplies and associated support services that meet the needs communicated by the combatant commands and the Joint Chiefs of Staff.
-
-"(2) Procedures for demonstrating, rapidly acquiring, and deploying supplies and associated support services proposed pursuant to paragraph (1)(B), including—
-
-"(A) a process for demonstrating performance and evaluating for current operational purposes the existing capability of the supplies and associated support services;
-
-"(B) a process for developing an acquisition and funding strategy for the deployment of the supplies and associated support services; and
-
-"(C) a process for making deployment and utilization determinations based on information obtained pursuant to subparagraphs (A) and (B).
-
-"(3) Specific procedures in accordance with the guidance developed under section 804(a) of the National Defense Authorization Act for Fiscal Year 2016 (Public Law 114–92; 10 U.S.C. 2302 note [now 3201 note prec.]).
-
-"(c) Response to Combat Emergencies and Certain Urgent Operational Needs.—
-
-"(1) Determination of need for rapid acquisition and deployment.—(A) In the case of any supplies and associated support services that, as determined in writing by the Secretary of Defense, are urgently needed to eliminate a documented deficiency that has resulted in combat casualties, or is likely to result in combat casualties, the Secretary may use the procedures developed under this section in order to accomplish the rapid acquisition and deployment of the needed supplies and associated support services.
-
-"(B) In the case of any supplies and associated support services that, as determined in writing by the Secretary of Defense, are urgently needed to eliminate a documented deficiency that impacts an ongoing or anticipated contingency operation and that, if left unfulfilled, could potentially result in loss of life or critical mission failure, the Secretary may use the procedures developed under this section in order to accomplish the rapid acquisition and deployment of the needed supplies and associated support services.
-
-"(C)(i) In the case of any supplies and associated support services that, as determined in writing by the Secretary of Defense without delegation, are urgently needed to eliminate a deficiency that as the result of a cyber attack has resulted in critical mission failure, the loss of life, property destruction, or economic effects, or if left unfilled is likely to result in critical mission failure, the loss of life, property destruction, or economic effects, the Secretary may use the procedures developed under this section in order to accomplish the rapid acquisition and deployment of the needed offensive or defensive cyber capabilities, supplies, and associated support services.
-
-"(ii) In this subparagraph, the term 'cyber attack' means a deliberate action to alter, disrupt, deceive, degrade, or destroy computer systems or networks or the information or programs resident in or transiting these systems or networks.
-
-"(2) Designation of senior official responsible.—(A)(i) Except as provided under clause (ii), whenever the Secretary makes a determination under subparagraph (A), (B), or (C) of paragraph (1) that certain supplies and associated support services are urgently needed to eliminate a deficiency described in that subparagraph, the Secretary shall designate a senior official of the Department of Defense to ensure that the needed supplies and associated support services are acquired and deployed as quickly as possible, with a goal of awarding a contract for the acquisition of the supplies and associated support services within 15 days.
-
-"(ii) Clause (i) does not apply to acquisitions initiated in the case of a determination by the Secretary that funds are necessary to immediately initiate a project under the rapid fielding or rapid prototyping acquisition pathways under section 804 of the National Defense Authorization Act for Fiscal Year 2016 (Public Law 114–92; 10 U.S.C. 2302 note [now 3201 note prec.]) if the designated official for acquisitions using such pathways is the service acquisition executive.
-
-"(B) Upon designation of a senior official under subparagraph (A), the Secretary shall authorize that official to waive any provision of law, policy, directive, or regulation described in subsection (d) that such official determines in writing would unnecessarily impede the rapid acquisition and deployment of the needed supplies and associated support services. In a case in which the needed supplies and associated support services cannot be acquired without an extensive delay, the senior official shall require that an interim solution be implemented and deployed using the procedures developed under this section to minimize adverse consequences resulting from the urgent need.
-
-"(3) Use of funds.—(A) In any fiscal year in which the Secretary makes a determination described in subparagraph (A), (B), or (C) of paragraph (1), or upon the Secretary making a determination that funds are necessary to immediately initiate a project under the rapid fielding or rapid prototyping acquisition pathways under section 804 of the National Defense Authorization Act for Fiscal Year 2016 (Public Law 114–92; 10 U.S.C. 2302 note [now 3201 note prec.]) based on a compelling national security need, the Secretary may use any funds available to the Department of Defense for acquisitions of supplies and associated support services if the determination includes a written finding that the use of such funds is necessary to address the deficiency in a timely manner.
-
-"(B) Except as provided under subparagraph (C), the authority of this section may only be used to acquire supplies and associated support services—
-
-"(i) in the case of determinations by the Secretary under paragraph (1)(A), in an amount aggregating not more than $200,000,000 during any fiscal year;
-
-"(ii) in the case of determinations by the Secretary under paragraph (1)(B), in an amount aggregating not more than $200,000,000 during any fiscal year;
-
-"(iii) in the case of determinations by the Secretary under paragraph (1)(C), in an amount aggregating not more than $200,000,000 during any fiscal year; and
-
-"(iv) in the case of a determination by the Secretary that funds are necessary to immediately initiate a project under the rapid fielding or rapid prototyping acquisition pathways under section 804 of the National Defense Authorization Act for Fiscal Year 2016 (Public Law 114–92; 10 U.S.C. 2302 note [now 3201 note prec.]), in an amount not more than $200,000,000 during any fiscal year.
-
-"(C) For each of fiscal years 2017 and 2018, the limits set forth in clauses (i) and (ii) of subparagraph (B) do not apply to the exercise of authority under such clauses provided that the total amount of supplies and associated support services acquired as provided under such subparagraph does not exceed $800,000,000 during such fiscal year.
-
-"(4) Notification to congressional defense committees.—(A) In the case of a determination by the Secretary under paragraph (1)(A), the Secretary shall notify the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] of the determination within 15 days after the date of the determination.
-
-"(B) In the case of a determination by the Secretary under paragraph (1)(B) the Secretary shall notify the congressional defense committees of the determination at least 10 days before the date on which the determination is effective.
-
-"(C) In the case of a determination by the Secretary under paragraph (3)(A) that funds are necessary to immediately initiate a project under the rapid fielding or rapid prototyping acquisition pathways under section 804 of the National Defense Authorization Act for Fiscal Year 2016 (Public Law 114–92; 10 U.S.C. 2302 note [now 3201 note prec.]), the Secretary shall notify the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] of the determination within 10 days after the date of the use of such funds.
-
-"(D) A notice under this paragraph shall include the following:
-
-"(i) The supplies and associated support services to be acquired.
-
-"(ii) The amount anticipated to be expended for the acquisition.
-
-"(iii) The source of funds for the acquisition.
-
-"(E) A notice under this paragraph shall be sufficient to fulfill any requirement to provide notification to Congress for a new start program.
-
-"(F) A notice under this paragraph shall be provided in consultation with the Director of the Office of Management and Budget.
-
-"(5) Time for transitioning to normal acquisition system.—(A) Any acquisition initiated under this subsection shall transition to the normal acquisition system not later than two years after the date on which the Secretary makes the determination described in paragraph (1) with respect to the supplies and associated support services concerned.
-
-"(B) Subparagraph (A) does not apply to acquisitions initiated in the case of a determination by the Secretary that funds are necessary to immediately initiate a project under the rapid fielding or rapid prototyping acquisition pathways under section 804 of the National Defense Authorization Act for Fiscal Year 2016 (Public Law 114–92; 10 U.S.C. 2302 note [now 3201 note prec.]).
-
-"(6) Limitation on officers with authority to make a determination.—The authority to make a determination under subparagraph (A), (B), or (C) of paragraph (1) may be exercised only by the Secretary or Deputy Secretary of Defense.
-
-"(d) Waiver of Certain Statutes and Regulations.—(1) Upon a determination described in subsection (c)(1), the senior official designated in accordance with subsection (c)(2) with respect to that designation is authorized to waive any provision of law, policy, directive or regulation addressing—
-
-"(A) the establishment of the requirement for the supplies and associated support services;
-
-"(B) the research, development, test, and evaluation of the supplies and associated support services; or
-
-"(C) the solicitation and selection of sources, and the award of the contract, for procurement of the supplies and associated support services.
-
-"(2) Nothing in this subsection authorizes the waiver of—
-
-"(A) the requirements of this section or the regulations implementing this section; or
-
-"(B) any provision of law imposing civil or criminal penalties.
-
-"(e) Testing Requirement.—(1) The process for demonstrating performance and evaluating for current operational purposes the existing capability of the supplies and associated support services prescribed under subsection (b)(2)(A) shall include—
-
-"(A) an operational assessment in accordance with procedures prescribed by the Director of Operational Test and Evaluation; and
-
-"(B) a requirement to provide information about any deficiency of the supplies and associated support services in meeting the original requirements for the supplies and associated support services (as stated in a statement of the urgent operational need or similar document) to the deployment decisionmaking authority.
-
-"(2) The process may not include a requirement for any deficiency of supplies and associated support services to be the determining factor in deciding whether to deploy the supplies and associated support services.
-
-"(3) If supplies and associated support services are deployed under the rapid acquisition and deployment procedures prescribed pursuant to this section, or under any other authority, before the completion of operational test and evaluation of the supplies and associated support services, the Director of Operational Test and Evaluation shall have access to operational records and data relevant to such supplies and associated support services in accordance with section 139(e)(3) of title 10, United States Code, for the purpose of completing operational test and evaluation of the supplies and associated support services. The access to the operational records and data shall be provided in a time and manner determined by the Secretary of Defense consistent with requirements of operational security and other relevant operational requirements.
-
-"(f) Limitation.—In the case of supplies that are part of a major system for which a low-rate initial production quantity determination has been made pursuant to section 2400 of title 10, United States Code [now 10 U.S.C. 4231], the quantity of such supplies acquired using the procedures prescribed pursuant to this section may not exceed an amount consistent with complying with limitations on the quantity of articles approved for low-rate initial production for such system. Any such supplies shall be included in any relevant calculation of quantities for low-rate initial production for the system concerned.
-
-"(g) Associated Support Services Defined.—In this section, the term 'associated support services' means training, operation, maintenance, and support services needed in connection with the deployment of supplies to be acquired pursuant to the authority of this section. The term does not include functions that are inherently governmental or otherwise exempted from private sector performance."
-
-[Pub. L. 117–103, div. C, title VIII, §8074, Mar. 15, 2022, 136 Stat. 193, provided that: "Any notice that is required to be submitted to the Committees on Appropriations of the House of Representatives and the Senate under section 806(c)(4) of the Bob Stump National Defense Authorization Act for Fiscal Year 2003 [Pub. L. 107–314, set out above] (10 U.S.C. 2302 note) [now 10 U.S.C. 3201 note prec.] after the date of the enactment of this Act [div. C of Pub. L. 117–103, approved Mar. 15, 2022] shall be submitted pursuant to that requirement concurrently to the Subcommittees on Defense of the Committees on Appropriations of the House of Representatives and the Senate."]
-
-[Similar provisions were contained in the following prior appropriation acts:
-
-[Pub. L. 116–260, div. C, title VIII, §8071, Dec. 27, 2020, 134 Stat. 1322.
-
-[Pub. L. 116–93, div. A, title VIII, §8071, Dec. 20, 2019, 133 Stat. 2353.
-
-[Pub. L. 115–245, div. A, title VIII, §8069, Sept. 28, 2018, 132 Stat. 3017.
-
-[Pub. L. 115–141, div. C, title VIII, §8070, Mar. 23, 2018, 132 Stat. 480.]
+Pub. L. 107–314, div. A, title VIII, §806, Dec. 2, 2002, 116 Stat. 2607, as amended by Pub. L. 108–136, div. A, title VIII, §845, Nov. 24, 2003, 117 Stat. 1553; Pub. L. 108–375, div. A, title VIII, §811, Oct. 28, 2004, 118 Stat. 2012; Pub. L. 109–364, div. A, title X, §1071(h), Oct. 17, 2006, 120 Stat. 2403; Pub. L. 111–383, div. A, title VIII, §803, Jan. 7, 2011, 124 Stat. 4255; Pub. L. 112–81, div. A, title VIII, §845(a), (b), Dec. 31, 2011, 125 Stat. 1515; Pub. L. 114–92, div. A, title VIII, §803, Nov. 25, 2015, 129 Stat. 880; Pub. L. 114–328, div. A, title VIII, §801, Dec. 23, 2016, 130 Stat. 2247, which required prescription of procedures for the rapid acquisition and deployment of certain supplies and associated support services, was repealed by Pub. L. 117–263, div. A, title VIII, §804(c)(2), Dec. 23, 2022, 136 Stat. 2701. See section 3601 of this title.
 
 #### Requirements Relating to Micro-Purchases ####
 

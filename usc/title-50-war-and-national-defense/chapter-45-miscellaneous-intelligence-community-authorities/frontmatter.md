@@ -28,7 +28,7 @@ Sec.
 
 3311. Submittal to Congress by heads of elements of intelligence community of plans for orderly shutdown in event of absence of appropriations.
 
-3312. Congressional oversight of policy directives and guidance.
+3312. Repealed.
 
 3313. Notification of memoranda of understanding.
 
@@ -95,6 +95,16 @@ Sec.
 3334j. Access to certain facilities of United States Government for assessment of anomalous health conditions.
 
 3334k. Report on protocols for certain intelligence community employees and dependents.
+
+3334 l. Oversight of Defense Intelligence Agency culture.
+
+3334m. Additional responsibilities of Director of National Intelligence for artificial intelligence policies, standards, and guidance for the intelligence community.
+
+3334n. Certification relating to information technology and software systems.
+
+3334 o. Requirements and report on workforce needs of intelligence community relating to science, technology, engineering, and math, and related areas.
+
+3334p. Increased intelligence-related engineering, research, and development capabilities of minority institutions.
 
 #### SUBCHAPTER III—SECURITY CLEARANCES AND CLASSIFIED INFORMATION ####
 
@@ -190,6 +200,8 @@ Sec.
 
 3370a. Biennial report on foreign investment risks.
 
+3370b. Collaboration between intelligence community and Department of Commerce to counter foreign commercial threats.
+
 3371. Required counterintelligence assessments, briefings, notifications, and reports.
 
 3371a. Assessment of foreign intelligence threats to Federal elections.
@@ -202,9 +214,11 @@ Sec.
 
 3372. Monitoring mineral investments under Belt and Road Initiative of People's Republic of China.
 
-3373. Establishment of office, organizational structure, and authorities to address unidentified aerial phenomena.
+3373. Establishment of All-domain Anomaly Resolution Office.
 
 3373a. Support for and oversight of Unidentified Aerial Phenomena Task Force.
+
+3373b. Unidentified anomalous phenomena reporting procedures.
 
 #### SUBCHAPTER V—MANAGEMENT OF COUNTERINTELLIGENCE ACTIVITIES ####
 

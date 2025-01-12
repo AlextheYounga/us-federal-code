@@ -16,4 +16,4 @@ Section 2883, Pub. L. 93–129, §14, as added Pub. L. 99–93, title III, §303
 
 #### Effective Date of Repeal ####
 
-Repeal effective Aug. 11, 1995, see section 6209(e) of this title.
+Repeal effective Aug. 11, 1995, see former section 6209(e) of this title as enacted by Pub. L. 103–236, title III, §310, Apr. 30, 1994, 108 Stat. 442, and Cong. Rec., vol. 141, pt. 16, p. 23371, Aug. 11, 1995.

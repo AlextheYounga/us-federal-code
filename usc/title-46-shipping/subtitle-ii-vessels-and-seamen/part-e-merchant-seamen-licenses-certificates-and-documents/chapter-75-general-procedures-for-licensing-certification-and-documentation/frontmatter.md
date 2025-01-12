@@ -22,9 +22,13 @@ Sec.
 
 7510. Examinations for merchant mariner credentials.
 
+7511. Convicted sex offender as grounds for denial.
+
 #### **Editorial Notes** ####
 
 #### Amendments ####
+
+**2022**—Pub. L. 117–263, div. K, title CXVI, §11602(b), Dec. 23, 2022, 136 Stat. 4147, added item 7511.
 
 **2016**—Pub. L. 114–120, title III, §§309(c), 315(a)(2), Feb. 8, 2016, 130 Stat. 57, 62, added items 7509 and 7510.
 

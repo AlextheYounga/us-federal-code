@@ -78,6 +78,8 @@ Sec.
 
 3330e. Review of official personnel file of former Federal employees before rehiring.
 
+3330f. Government policy and supporting position data.
+
 #### SUBCHAPTER II—OATH OF OFFICE ####
 
 3331. Oath of office.
@@ -113,6 +115,8 @@ Sec.
 3349c. Exclusion of certain officers.
 
 3349d. Notification of intent to nominate during certain recesses or adjournments.
+
+3349e. Presidential explanation of failure to nominate an Inspector General. 1
 
 #### SUBCHAPTER IV—TRANSFERS ####
 
@@ -183,6 +187,8 @@ Pub. L. 115–232, div. A, title V, §573(e), Aug. 13, 2018, 132 Stat. 1779, pro
 #### **Editorial Notes** ####
 
 #### Amendments ####
+
+**2022**—Pub. L. 117–263, div. E, title LII, §5221(b), title LIII, §5322(a)(2), Dec. 23, 2022, 136 Stat. 3234, 3259, which directed amendment of the analyses for subchapters I and III of this chapter by adding items 3330f and 3349e, respectively, was executed by adding items 3330f and 3349e to the analysis for this chapter to reflect the probable intent of Congress.
 
 **2018**—Pub. L. 115–232, div. A, title XI, §1107(c), Aug. 13, 2018, 132 Stat. 2005, substituted "certification using numerical ratings" for "certification from registers." in item 3317, "selection using numerical ratings" for "selection from certificates." in item 3318, and "Competitive service; selection using category rating" for "Alternative ranking and selection procedures." in item 3319.
 

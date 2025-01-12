@@ -6,7 +6,7 @@ Sec.
 
 8542. President; assistants.
 
-8543. Provost and Academic Dean.
+8543. Provost and Chief Academic Officer.
 
 8544. Civilian teachers: number; compensation.
 
@@ -29,6 +29,8 @@ Sec.
 A prior chapter 855, consisting of sections 8721 to 8723, related to hospitalization while serving in the Air Force, prior to renumbering as chapter 935 of this title.
 
 #### Amendments ####
+
+**2022**—Pub. L. 117–263, div. A, title V, §554(a)(2)(B), Dec. 23, 2022, 136 Stat. 2594, substituted "Provost and Chief Academic Officer" for "Provost and Academic Dean" in item 8543.
 
 **2018**—Pub. L. 115–232, div. A, title VIII, §807(e)(3), (f)(1), Aug. 13, 2018, 132 Stat. 1837, 1838, redesignated chapter 605 of this title as this chapter and items 7041 to 7050 as 8541 to 8550, respectively.
 

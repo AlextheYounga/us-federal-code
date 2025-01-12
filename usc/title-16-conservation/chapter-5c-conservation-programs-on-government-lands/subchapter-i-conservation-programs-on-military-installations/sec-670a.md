@@ -24,9 +24,11 @@ The Secretary of a military department shall prepare each integrated natural res
 
 (i) the conservation and rehabilitation of natural resources on such installations;
 
-(ii) the sustainable multipurpose use of the resources on such installations, which shall include hunting, fishing, trapping, and nonconsumptive uses; and
+(ii) the use of natural and nature-based features to maintain or improve military installation resilience;
 
-(iii) subject to safety requirements and military security, public access to military installations to facilitate the use.
+(iii) the sustainable multipurpose use of the resources on such installations, which shall include hunting, fishing, trapping, and nonconsumptive uses; and
+
+(iv) subject to safety requirements and military security, public access to military installations to facilitate the use.
 
 (B) In the case of a State-owned National Guard installation, such program shall be carried out in coordination with the chief executive officer of the State in which the installation is located.
 
@@ -120,11 +122,11 @@ In this subsection, the term "committees" means—
 
 (B) the Committee on Armed Services and the Committee on Environment and Public Works of the Senate.
 
-#### (g) Pilot program for invasive species management for military installations in Guam ####
+#### (g) Program for invasive species management for military installations ####
 
 #### (1) Inclusion of invasive species management ####
 
-During fiscal years 2009 through 2014, the Secretary of Defense shall, to the extent practicable and conducive to military readiness, incorporate in integrated natural resources management plans for military installations in Guam the management, control, and eradication of invasive species—
+The Secretary of Defense shall, to the extent practicable and conducive to military readiness, incorporate in integrated natural resources management plans for military installations the management, control, and eradication of invasive species—
 
 (A) that are not native to the ecosystem of the military installation; and
 
@@ -134,11 +136,17 @@ During fiscal years 2009 through 2014, the Secretary of Defense shall, to the ex
 
 The Secretary of Defense shall carry out this subsection in consultation with the Secretary of the Interior.
 
-(Pub. L. 86–797, title I, §101, formerly §1, Sept. 15, 1960, 74 Stat. 1052; renumbered title I, §101, and amended Pub. L. 93–452, §§1(1), 3(1), (2), Oct. 18, 1974, 88 Stat. 1369, 1375; Pub. L. 97–396, §1, Dec. 31, 1982, 96 Stat. 2005; Pub. L. 99–561, §3(a)(1), Oct. 27, 1986, 100 Stat. 3150; Pub. L. 105–85, div. B, title XXIX, §§2904(a)–(b)(4), (c), 2906, 2907, 2913(2)–(4), Nov. 18, 1997, 111 Stat. 2017, 2018, 2020, 2022; Pub. L. 106–65, div. A, title X, §1067(19), Oct. 5, 1999, 113 Stat. 775; Pub. L. 108–136, div. A, title III, §311(c)(1), Nov. 24, 2003, 117 Stat. 1429; Pub. L. 111–84, div. A, title III, §314, Oct. 28, 2009, 123 Stat. 2248; Pub. L. 112–81, div. A, title III, §312(a)(2), (b)(1), Dec. 31, 2011, 125 Stat. 1352, 1353.)
+(Pub. L. 86–797, title I, §101, formerly §1, Sept. 15, 1960, 74 Stat. 1052; renumbered title I, §101, and amended Pub. L. 93–452, §§1(1), 3(1), (2), Oct. 18, 1974, 88 Stat. 1369, 1375; Pub. L. 97–396, §1, Dec. 31, 1982, 96 Stat. 2005; Pub. L. 99–561, §3(a)(1), Oct. 27, 1986, 100 Stat. 3150; Pub. L. 105–85, div. B, title XXIX, §§2904(a)–(b)(4), (c), 2906, 2907, 2913(2)–(4), Nov. 18, 1997, 111 Stat. 2017, 2018, 2020, 2022; Pub. L. 106–65, div. A, title X, §1067(19), Oct. 5, 1999, 113 Stat. 775; Pub. L. 108–136, div. A, title III, §311(c)(1), Nov. 24, 2003, 117 Stat. 1429; Pub. L. 111–84, div. A, title III, §314, Oct. 28, 2009, 123 Stat. 2248; Pub. L. 112–81, div. A, title III, §312(a)(2), (b)(1), Dec. 31, 2011, 125 Stat. 1352, 1353; Pub. L. 117–263, div. A, title III, §387, Dec. 23, 2022, 136 Stat. 2546.)
 
 #### **Editorial Notes** ####
 
 #### Amendments ####
+
+**2022**—Subsec. (a)(3)(A)(ii) to (iv). Pub. L. 117–263, §387(a), added cl. (ii) and redesignated former cls. (ii) and (iii) as (iii) and (iv), respectively.
+
+Subsec. (g). Pub. L. 117–263, §387(b)(1), substituted "Program for invasive species management for military installations" for "Pilot program for invasive species management for military installations in Guam" in heading.
+
+Subsec. (g)(1). Pub. L. 117–263, §387(b)(2), in introductory provisions, substituted "The" for "During fiscal years 2009 through 2014, the" and struck out "in Guam" after "military installations".
 
 **2011**—Pub. L. 112–81, §312(b)(1)(A), (B), inserted section catchline.
 

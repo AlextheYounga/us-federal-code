@@ -6,7 +6,9 @@ Sec.
 
 1742. Internship, cooperative education, and scholarship programs.
 
-[1743, 1744. Repealed.]
+1743. Awards to recognize members of the acquisition workforce.
+
+[1744. Repealed.]
 
 1745. Additional education and training programs available to acquisition personnel.
 
@@ -21,6 +23,8 @@ Sec.
 #### **Editorial Notes** ####
 
 #### Amendments ####
+
+**2022**—Pub. L. 117–263, div. A, title VIII, §801(b), Dec. 23, 2022, 136 Stat. 2693, which directed amendment of analysis for chapter 87 of this title by adding item 1743 after item 1742, was executed to analysis for this subchapter to reflect the probable intent of Congress.
 
 **2021**—Pub. L. 117–81, div. A, title VIII, §801(b), Dec. 27, 2021, 135 Stat. 1812, added item 1746a.
 

@@ -52,6 +52,16 @@ In adopting regulations under this subsection, the Commission shall—
 
 (iii) the amount of risk retention by the originator and the securitizer of such assets.
 
+#### (3) Data standards for asset-backed securities disclosures ####
+
+#### (A) Requirement ####
+
+The Commission shall, by rule, adopt data standards for all disclosures required under this subsection.
+
+#### (B) Consistency ####
+
+The data standards required under subparagraph (A) shall incorporate, and ensure compatibility with (to the extent feasible), all applicable data standards established in the rules promulgated under section 5334 of title 12, including, to the extent practicable, by having the characteristics described in clauses (i) through (vi) of subsection (c)(1)(B) of such section 5334.
+
 #### (d) Registration statement for asset-backed securities ####
 
 Not later than 180 days after July 21, 2010, the Commission shall issue rules relating to the registration statement required to be filed by any issuer of an asset-backed security (as that term is defined in section 78c(a)(77) <sup><a href="#77g_1_target" name="77g_1">1</a></sup> of this title) that require any issuer of an asset-backed security—
@@ -60,7 +70,7 @@ Not later than 180 days after July 21, 2010, the Commission shall issue rules re
 
 (2) to disclose the nature of the review under paragraph (1).
 
-(May 27, 1933, ch. 38, title I, §7, 48 Stat. 78; Pub. L. 101–429, title V, §508, Oct. 15, 1990, 104 Stat. 956; Pub. L. 111–203, title IX, §§942(b), 945, July 21, 2010, 124 Stat. 1897, 1898; Pub. L. 112–106, title I, §102(b)(1), Apr. 5, 2012, 126 Stat. 309.)
+(May 27, 1933, ch. 38, title I, §7, 48 Stat. 78; Pub. L. 101–429, title V, §508, Oct. 15, 1990, 104 Stat. 956; Pub. L. 111–203, title IX, §§942(b), 945, July 21, 2010, 124 Stat. 1897, 1898; Pub. L. 112–106, title I, §102(b)(1), Apr. 5, 2012, 126 Stat. 309; Pub. L. 117–263, div. E, title LVIII, §5821(d), Dec. 23, 2022, 136 Stat. 3425.)
 
 #### **Editorial Notes** ####
 
@@ -69,6 +79,8 @@ Not later than 180 days after July 21, 2010, the Commission shall issue rules re
 Section 78c(a)(77) of this title, referred to in subsec. (d), was redesignated section 78c(a)(79) of this title by Pub. L. 112–106, title I, §101(b)(1), Apr. 5, 2012, 126 Stat. 307.
 
 #### Amendments ####
+
+**2022**—Subsec. (c)(3). Pub. L. 117–263 added par. (3).
 
 **2012**—Subsec. (a). Pub. L. 112–106 inserted subsec. heading, designated existing provisions as par. (1), inserted par. heading, and added par. (2).
 
@@ -104,6 +116,18 @@ Pub. L. 101–429, §1(c), Oct. 15, 1990, 104 Stat. 931, provided that:
 
 "(C) Commencement of rulemaking.—Not later than 180 days after the date of enactment of this Act, the Commission shall commence rulemaking proceedings to implement sections 503, 505, and 508."
 
+#### Rulemaking ####
+
+Pub. L. 117–263, div. E, title LVIII, §5821(i), Dec. 23, 2022, 136 Stat. 3427, provided that:
+
+"(1) In general.—The rules that the Securities and Exchange Commission are required to issue under the amendments made by this section [enacting sections 77z–4 and 78rr of this title and amending this section and sections 78m, 78n, 78o–7, 80a–8, 80a–29, and 80b–4 of this title] shall take effect not later than 2 years after the date on which final rules are promulgated under section 124(b)(2) of the Financial Stability Act of 2010 [12 U.S.C. 5334(b)(2)], as added by section 5811(a) of this title.
+
+"(2) Scaling of regulatory requirements; minimizing disruption.—In issuing the rules required under the amendments made by this section, as described in paragraph (1), the Securities and Exchange Commission—
+
+"(A) may scale data reporting requirements in order to reduce any unjustified burden on emerging growth companies, lending institutions, accelerated filers, smaller reporting companies, and other smaller issuers, as determined by any study required under section 5825(b) [set out in a note below], while still providing searchable information to investors; and
+
+"(B) shall seek to minimize disruptive changes to the persons affected by those rules."
+
 #### Improvement of Regulation S–K ####
 
 Pub. L. 114–94, div. G, title LXXII, §72002, Dec. 4, 2015, 129 Stat. 1784, provided that: "Not later than the end of the 180-day period beginning on the date of the enactment of this Act [Dec. 4, 2015], the Securities and Exchange Commission shall take all such actions to revise regulation S–K (17 CFR 229.10 et seq.)—
@@ -113,6 +137,48 @@ Pub. L. 114–94, div. G, title LXXII, §72002, Dec. 4, 2015, 129 Stat. 1784, pr
 "(2) to eliminate provisions of regulation S–K, required for all issuers, that are duplicative, overlapping, outdated, or unnecessary; and
 
 "(3) for which the Commission determines that no further study under section 72203 [probably means section 72003 of Pub. L. 114–94, set out as a note under section 77s of this title] is necessary to determine the efficacy of such revisions to regulation S–K."
+
+#### Rule of Construction—No New Disclosure Requirements ####
+
+Pub. L. 117–263, div. E, title LVIII, §5826, Dec. 23, 2022, 136 Stat. 3430, provided that: "Nothing in this subtitle [subtitle B (§§5821–5826) of title LVIII of div. E of Pub. L. 117–263, enacting sections 77z–4 and 78rr of this title, amending this section and sections 78d, 78m, 78n, 78o–3, 78o–4, 78o–7, 80a–8, 80a–29, and 80b–4 of this title, and enacting provisions set out as notes under this section and sections 78o–3 and 78o–4 of this title], or the amendments made by this subtitle, shall be construed to require the Securities and Exchange Commission, the Municipal Securities Rulemaking Board, or any national securities association to collect or make publicly available additional information under the provisions of law amended by this subtitle (or under any provision of law referenced in an amendment made by this subtitle), beyond information that was collected or made publicly available under any such provision, as of the day before the date of enactment of this Act [Dec. 23, 2022]."
+
+#### Shorter-Term Burden Reduction and Disclosure Simplification at the Securities and Exchange Commission; Sunset ####
+
+Pub. L. 117–263, div. E, title LVIII, §5825, Dec. 23, 2022, 136 Stat. 3429, provided that:
+
+"(a) Better Enforcement of the Quality of Corporate Financial Data Submitted to the Securities and Exchange Commission.—
+
+"(1) Data quality improvement program.—
+
+"(A) In general.—Not later than 180 days after the date of enactment of this Act [Dec. 23, 2022], the Securities and Exchange Commission shall establish a program to improve the quality of corporate financial data filed or furnished by issuers under the Securities Act of 1933 (15 U.S.C. 77a et seq.), the Securities Exchange Act of 1934 (15 U.S.C. 78a et seq.), and the Investment Company Act of 1940 (15 U.S.C. 80a–1 et seq.).
+
+"(B) Contents.—The program established under subparagraph (A) shall include the following:
+
+"(i) The designation of an official in the Office of the Chairman of the Securities and Exchange Commission responsible for the improvement of the quality of data filed with or furnished to the Commission by issuers.
+
+"(ii) The issuance by the Division of Corporation Finance of the Securities and Exchange Commission of comment letters requiring correction of errors in data filings and submissions, where necessary.
+
+"(2) Goals.—In establishing the program required under this subsection, the Securities and Exchange Commission shall seek to—
+
+"(A) improve the quality of data filed with or furnished to the Commission to a commercially acceptable level; and
+
+"(B) make data filed with or furnished to the Commission useful to investors.
+
+"(b) Report on the Use of Machine-Readable Data for Corporate Disclosures.—
+
+"(1) In general.—Not later than 180 days after the date of enactment of this Act, and once every 180 days thereafter, the Securities and Exchange Commission shall submit to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives a report regarding the public and internal use of machine-readable data for corporate disclosures.
+
+"(2) Content.—Each report required under paragraph (1) shall include—
+
+"(A) an identification of which corporate disclosures required under section 7 of the Securities Act of 1933 (15 U.S.C. 77g), section 13 of the Securities Exchange Act of 1934 (15 U.S.C. 78m), and section 14 of the Securities Exchange Act of 1934 (15 U.S.C. 78n) are expressed as machine-readable data and which are not;
+
+"(B) an analysis of the costs and benefits of the use of machine-readable data in corporate disclosure to investors, markets, the Securities and Exchange Commission, and issuers;
+
+"(C) a summary of enforcement actions that result from the use or analysis of machine-readable data collected under the provisions of law described in subparagraph (A); and
+
+"(D) an analysis of how the Securities and Exchange Commission uses the machine-readable data collected by the Commission.
+
+"(c) Sunset.—Beginning on the date that is 7 years after the date of enactment of this Act [Dec. 23, 2022], this section shall have no force or effect."
 
 #### Forward Incorporation by Reference for Form S–1 ####
 

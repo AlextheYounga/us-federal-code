@@ -272,7 +272,21 @@ In awarding financial assistance under paragraph (1) for planning or establishin
 
 (D) are located in small and rural communities.
 
-#### (f) Grant program for public service activities for Manufacturing USA institutes without Federal funding ####
+#### (f) Authority to award financial assistance for construction of test beds and specialized facilities ####
+
+#### (1) In general ####
+
+The Secretary may, acting through the Director, award financial assistance for the construction of test beds and specialized facilities by Manufacturing USA institutes established or supported under subsection (e) as the Secretary considers appropriate to carry out the purposes of the Program.
+
+#### (2) Requirements ####
+
+The Secretary shall exercise authority under paragraph (1) in a manner and with requirements consistent with paragraphs (3) through (8) of subsection (e).
+
+#### (3) Priority ####
+
+The Secretary shall establish preferences in selection criteria for proposals for financial assistance under this subsection from Manufacturing USA institutes that integrate as active members one or more covered entities as described in section 18971 of title 42.
+
+#### (g) Grant program for public service activities for Manufacturing USA institutes without Federal funding ####
 
 The Secretary may award a grant on a competitive basis to a Manufacturing USA institute that is not receiving financial assistance under subsection (e) to carry out workforce development, outreach to small- and medium-sized manufacturers, and other activities that—
 
@@ -280,7 +294,7 @@ The Secretary may award a grant on a competitive basis to a Manufacturing USA in
 
 (2) are unlikely to receive private sector financial support.
 
-#### (g) Authorization of appropriations ####
+#### (h) Authorization of appropriations ####
 
 #### (1) NIST Industrial Technical Services account ####
 
@@ -298,7 +312,7 @@ There are authorized to be appropriated to the Secretary of Energy for the provi
 
 (B) $84,000,000 for each of fiscal years 2023 and 2024.
 
-#### (h) National Program Office ####
+#### (i) National Program Office ####
 
 #### (1) Establishment ####
 
@@ -382,7 +396,7 @@ The council established or designated pursuant to subparagraph (A) shall meet no
 
 The council established pursuant to subparagraph (A) shall assist the National Program Office in carrying out the functions of the National Program Office under paragraph (2).
 
-#### (i) Reporting and auditing ####
+#### (j) Reporting and auditing ####
 
 #### (1) Annual reports to the Secretary ####
 
@@ -446,7 +460,7 @@ Each assessment submitted under subparagraph (A) shall include, for the period c
 
 No later than December 31, 2030, the Comptroller General shall submit to Congress a final report regarding the overall success of the Program.
 
-#### (j) Additional authorities ####
+#### (k) Additional authorities ####
 
 #### (1) Appointment of personnel and contracts ####
 
@@ -498,15 +512,15 @@ The Secretary shall collaborate with Federal agencies whose missions contribute 
 
 (K) additional programs that the Secretary determines are appropriate to support the activities of existing Manufacturing USA institutes.<sup><a href="#278s_2_target" name="278s_2">2</a></sup>
 
-#### (k) Patents ####
+#### (l) Patents ####
 
 Chapter 18 of title 35 shall apply to any funding agreement (as defined in section 201 of that title) awarded to new or existing Manufacturing USA institutes with respect to which financial assistance is awarded under subsection (e).
 
-#### (l) References to prior names and terminology ####
+#### (m) References to prior names and terminology ####
 
 Any reference in law, regulation, map, document, paper, or other record of the United States to the "Network for Manufacturing Innovation Program", the "Network for Manufacturing Innovation", "National Office of the Network for Manufacturing Innovation Program", or a "center for manufacturing innovation" shall be considered to be a reference to the Manufacturing USA Program, the Manufacturing USA Network, the National Office of the Manufacturing USA Network, or a Manufacturing USA institute, respectively.
 
-(Mar. 3, 1901, ch. 872, §34, as added Pub. L. 113–235, div. B, title VII, §703(2), Dec. 16, 2014, 128 Stat. 2221; amended Pub. L. 116–92, div. A, title XVII, §1741(a), Dec. 20, 2019, 133 Stat. 1826; Pub. L. 117–167, div. B, title II, §§10261, 10263(b)–(d), Aug. 9, 2022, 136 Stat. 1503, 1505, 1506.)
+(Mar. 3, 1901, ch. 872, §34, as added Pub. L. 113–235, div. B, title VII, §703(2), Dec. 16, 2014, 128 Stat. 2221; amended Pub. L. 116–92, div. A, title XVII, §1741(a), Dec. 20, 2019, 133 Stat. 1826; Pub. L. 117–167, div. B, title II, §§10261, 10263(b)–(d), Aug. 9, 2022, 136 Stat. 1503, 1505, 1506; Pub. L. 117–263, div. E, title LIX, §5911, Dec. 23, 2022, 136 Stat. 3442.)
 
 #### **Editorial Notes** ####
 
@@ -518,11 +532,15 @@ A prior section 34 of act Mar. 3, 1901, ch. 872, was renumbered section 35 and i
 
 **2022**—Subsec. (e)(8). Pub. L. 117–167, §10261, added par. (8).
 
+Subsecs. (f) to (h). Pub. L. 117–263, §5911, added subsec. (f) and redesignated former subsecs. (f) and (g) as (g) and (h), respectively. Former subsec. (h) redesignated (i).
+
 Subsec. (h)(2)(C). Pub. L. 117–167, §10263(c), inserted ", including a strategy for retaining domestic public benefits from Manufacturing USA institutes once Federal funding has been discontinued" after "Program".
 
 Subsec. (h)(2)(J). Pub. L. 117–167, §10263(d), inserted ", including the development of industry credentials" after "activities".
 
 Subsec. (h)(7). Pub. L. 117–167, §10263(b), added par. (7).
+
+Subsecs. (i) to (m). Pub. L. 117–263, §5911(1), redesignated subsecs. (h) to (l) as (i) to (m), respectively.
 
 **2019**—Pub. L. 116–92 amended section generally. Prior to amendment, section related to Network for Manufacturing Innovation.
 

@@ -42,6 +42,8 @@ Sec.
 
 720. VHF communication services. 1
 
+721. Responses to safety recommendations.
+
 #### **Editorial Notes** ####
 
 #### Prior Provisions ####
@@ -51,6 +53,8 @@ A prior analysis for part II of this title "COAST GUARD RESERVE AND AUXILIARY" p
 A prior analysis for chapter 7 "COOPERATION WITH OTHER AGENCIES" consisted of items 141 "Cooperation with other agencies, States, territories, and political subdivisions", 142 "State Department", 143 "Treasury Department", 144 "Department of the Army and Department of the Air Force", 145 "Navy Department", 146 "United States Postal Service", 147 "Department of Commerce", 147a "Department of Health and Human Services", 148 "Maritime instruction", 149 "Assistance to foreign governments and maritime authorities", 150 "Coast Guard officers as attachés to missions", 151 "Contracts with Government-owned establishments for work and material", 152 "Nonappropriated fund instrumentalities: contracts with other agencies and instrumentalities to provide or obtain goods and services", 153 "Appointment of judges", and 154 "Arctic maritime domain awareness", prior to repeal by Pub. L. 115–282, title I, §106(a), Dec. 4, 2018, 132 Stat. 4202.
 
 #### Amendments ####
+
+**2022**—Pub. L. 117–263, div. K, title CXV, §11501(b), Dec. 23, 2022, 136 Stat. 4127, added item 721.
 
 **2021**—Pub. L. 116–283, div. G, title LVXXXII [LXXXII], §8218(b), title LVXXXV [LXXXV], §8501(b)(2), Jan. 1, 2021, 134 Stat. 4655, 4746, added items 719 and 720.
 

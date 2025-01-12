@@ -2,7 +2,7 @@
 
 #### (a) Definition ####
 
-For purposes of this section, the term "hydrographic product" means any publicly or commercially available product produced by a non-Federal entity that includes or displays hydrographic data.
+For purposes of this section, the term "hydrographic product" means any publicly or commercially available product or service produced or disseminated by a non-Federal entity that includes or displays hydrographic data.
 
 #### (b) Program ####
 
@@ -50,11 +50,13 @@ After November 13, 1998, the Administrator may not—
 
 (2) increase the amount of any fee or other charge for the provision of any hydrographic service except as authorized by this section and section 1307 of title 44.
 
-(Pub. L. 105–384, title III, §304, Nov. 13, 1998, 112 Stat. 3455; Pub. L. 107–372, title I, §104(a), Dec. 19, 2002, 116 Stat. 3080.)
+(Pub. L. 105–384, title III, §304, Nov. 13, 1998, 112 Stat. 3455; Pub. L. 107–372, title I, §104(a), Dec. 19, 2002, 116 Stat. 3080; Pub. L. 117–263, div. J, title CIII, §10308(c), Dec. 23, 2022, 136 Stat. 3980.)
 
 #### **Editorial Notes** ####
 
 #### Amendments ####
+
+**2022**—Subsec. (a). Pub. L. 117–263 substituted "product or service produced or disseminated" for "product produced".
 
 **2002**—Subsec. (b)(1). Pub. L. 107–372 reenacted heading without change and amended text generally. Prior to amendment, text read as follows: "The Administrator may—
 

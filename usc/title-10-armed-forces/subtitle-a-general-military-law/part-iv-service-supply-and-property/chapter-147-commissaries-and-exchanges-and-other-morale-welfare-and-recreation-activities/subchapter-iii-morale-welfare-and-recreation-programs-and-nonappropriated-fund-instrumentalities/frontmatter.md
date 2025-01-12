@@ -24,9 +24,13 @@ Sec.
 
 2495b. Sale or rental of sexually explicit material prohibited.
 
+2496. Sale of certain goods from the Xinjiang Uyghur Autonomous Region prohibited.
+
 #### **Editorial Notes** ####
 
 #### Amendments ####
+
+**2022**—Pub. L. 117–263, div. A, title VI, §651(b), Dec. 23, 2022, 136 Stat. 2639, added item 2496.
 
 **2009**—Pub. L. 111–84, div. A, title VI, §651(b), Oct. 28, 2009, 123 Stat. 2369, added item 2492a.
 

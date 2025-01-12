@@ -110,7 +110,7 @@ Pub. L. 115–232, div. A, title II, §230, Aug. 13, 2018, 132 Stat. 1689, as am
 
 #### Joint Artificial Intelligence Research, Development, and Transition Activities ####
 
-Pub. L. 115–232, div. A, title II, §238, Aug. 13, 2018, 132 Stat. 1695, as amended by Pub. L. 116–92, div. A, title II, §221, Dec. 20, 2019, 133 Stat. 1261; Pub. L. 116–283, div. A, title II, §232, Jan. 1, 2021, 134 Stat. 3480, provided that:
+Pub. L. 115–232, div. A, title II, §238, Aug. 13, 2018, 132 Stat. 1695, as amended by Pub. L. 116–92, div. A, title II, §221, Dec. 20, 2019, 133 Stat. 1261; Pub. L. 116–283, div. A, title II, §232, Jan. 1, 2021, 134 Stat. 3480 Pub. L. 117–263, div. A, title II, §212(l), Dec. 23, 2022, 136 Stat. 2470, provided that:
 
 "(a) Establishment.—
 
@@ -130,35 +130,19 @@ Pub. L. 115–232, div. A, title II, §238, Aug. 13, 2018, 132 Stat. 1695, as am
 
 "(c) Organization and Roles.—
 
-"(1) Assignment of roles and responsibilities.—
+"(1) In general.—In addition to designating an official under subsection (b), the Secretary of Defense shall assign to appropriate officials within the Department of Defense roles and responsibilities relating to the research, development, prototyping, testing, procurement of, requirements for, and operational use of artificial intelligence technologies.
 
-"(A) In general.—In addition to designating an official under subsection (b), the Secretary of Defense shall assign to appropriate officials within the Department of Defense roles and responsibilities relating to the research, development, prototyping, testing, procurement of, requirements for, and operational use of artificial intelligence technologies.
+"(2) Appropriate officials.—The officials assigned roles and responsibilities under paragraph (1) shall include—
 
-"(B) Appropriate officials.—The officials assigned roles and responsibilities under subparagraph (A) shall include—
+"(A) the Under Secretary of Defense for Research and Engineering;
 
-"(i) the Under Secretary of Defense for Research and Engineering;
+"(B) the Under Secretary of Defense for Acquisition and Sustainment;
 
-"(ii) the Under Secretary of Defense for Acquisition and Sustainment;
+"(C) one or more officials in each military department;
 
-"(iii) the Director of the Joint Artificial Intelligence Center;
+"(D) officials of appropriate Defense Agencies; and
 
-"(iv) one or more officials in each military department;
-
-"(v) officials of appropriate Defense Agencies; and
-
-"(vi) such other officials as the Secretary of Defense determines appropriate.
-
-"(2) Role of director of the joint artificial intelligence center.—
-
-"(A) Direct report to deputy secretary of defense.—During the covered period, the Director of the Joint Artificial Intelligence Center shall report directly to the Deputy Secretary of Defense without intervening authority.
-
-"(B) Continuation.—The Director of the Joint Artificial Intelligence Center shall continue to report to the Deputy Secretary of Defense as described in subparagraph (A) after the expiration of the covered period if, not later than 30 days before such period expires, the Deputy Secretary—
-
-"(i) determines that the Director should continue to report to Deputy Secretary without intervening authority; and
-
-"(ii) transmits notice of such determination to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives].
-
-"(C) Covered period defined.—In this paragraph, the term 'covered period' means the period of two years beginning on the date of the enactment of the William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021 [Pub. L. 116–283; approved Jan. 1, 2021].
+"(E) such other officials as the Secretary of Defense determines appropriate.
 
 "(d) Duties.—The duties of the official designated under subsection (b) shall include the following:
 
@@ -214,7 +198,7 @@ Pub. L. 115–232, div. A, title II, §238, Aug. 13, 2018, 132 Stat. 1695, as am
 
 "(C) to develop and continuously improve research, innovation, policy, joint processes, and procedures to facilitate the development, acquisition, integration, advancement, oversight, and sustainment of artificial intelligence and machine learning throughout the Department.
 
-"(e) Access to Information.—Not later than 180 days after the date of the enactment of the William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021 [Jan. 1, 2021], the Secretary of Defense shall issue regulations to ensure that the official designated under subsection (b) has access to such information on programs and activities of the military departments and other Defense Agencies as the Secretary considers appropriate to carry out the duties set forth in subsection (d). At a minimum, such access shall ensure that the Director of the Joint Artificial Intelligence Center has the ability to discover, access, share, and appropriately reuse data and models of the Armed Forces and other organizations and elements of the Department of Defense, build and maintain artificial intelligence capabilities for the Department, and execute the duties assigned to the Director by the Secretary.
+"(e) Access to Information.—Not later than 180 days after the date of the enactment of the William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021 [Pub. L. 116–283; approved Jan. 1, 2021], the Secretary of Defense shall issue regulations to ensure that the official designated under subsection (b) has access to such information on programs and activities of the military departments and other Defense Agencies as the Secretary considers appropriate to carry out the duties set forth in subsection (d). At a minimum, such access shall ensure that the official designated under subsection (b) has the ability to discover, access, share, and appropriately reuse data and models of the Armed Forces and other organizations and elements of the Department of Defense, build and maintain artificial intelligence capabilities for the Department, and execute the duties assigned to the Director by the Secretary.
 
 "(f) Delineation of Definition of Artificial Intelligence.—Not later than one year after the date of the enactment of this Act [Aug. 13, 2018], the Secretary shall delineate a definition of the term 'artificial intelligence' for use within the Department.
 
@@ -228,9 +212,9 @@ Pub. L. 115–232, div. A, title II, §238, Aug. 13, 2018, 132 Stat. 1695, as am
 
 "(4) A set of techniques, including machine learning, that is designed to approximate a cognitive task.
 
-"(5) An artificial system designed to act rationally, including an intelligent software agent or embodied robot that achieves goals using perception, planning, reasoning, learning, communicating, decision making, and acting.
+"(5) An artificial system designed to act rationally, including an intelligent software agent or embodied robot that achieves goals using perception, planning, reasoning, learning, communicating, decision making, and acting."
 
-"(h) Joint Artificial Intelligence Center Defined.—In this section, term 'Joint Artificial Intelligence Center' means the Joint Artificial Intelligence Center of the Department of Defense established pursuant to the memorandum of the Secretary of Defense dated June 27, 2018, and titled 'Establishment of the Joint Artificial Intelligence Center', or any successor to such Center."
+[Pub. L. 117–263, div. A, title II, §212(m), Dec. 23, 2022, 136 Stat. 2471, provided that: "Any reference in any law, regulation, guidance, instruction, or other document of the Federal Government to the Director of the Joint Artificial Intelligence Center of the Department of Defense or to the Joint Artificial Intelligence Center shall be deemed to refer to the official designated under section 238(b) of the John S. McCain National Defense Authorization Act for Fiscal Year 2019 (Public Law 115–232; 10 U.S.C. note prec. 4061) [set out above] or the office of such official, as the case may be."]
 
 #### Support for National Security Innovation and Entrepreneurial Education ####
 

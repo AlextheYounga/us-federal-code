@@ -10,7 +10,7 @@ Sec.
 
 344. Participation in multinational centers of excellence.
 
-345. Regional Defense Combating Terrorism and Irregular Warfare Fellowship Program.
+345. Irregular Warfare Center and Regional Defense Fellowship Program.
 
 346. Distribution to certain foreign personnel of education and training materials and information technology to enhance military interoperability with the armed forces.
 
@@ -29,6 +29,8 @@ Sec.
 #### **Editorial Notes** ####
 
 #### Amendments ####
+
+**2022**—Pub. L. 117–263, div. A, title XII, §1204(b), Dec. 23, 2022, 136 Stat. 2829, added item 345 and struck out former item 345 "Regional Defense Combating Terrorism and Irregular Warfare Fellowship Program".
 
 **2021**—Pub. L. 116–283, div. A, title XII, §1206(b), Jan. 1, 2021, 134 Stat. 3913, added item 344 and struck out former item 344 "Participation in multinational military centers of excellence".
 

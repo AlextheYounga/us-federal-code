@@ -4,15 +4,15 @@
 
 There are authorized to be appropriated to the Administrator the following:
 
-(1) To carry out nautical mapping and charting functions under sections 892b and 892c of this title, except for conducting hydrographic surveys, $70,814,000 for each of fiscal years 2019 through 2023.
+(1) To carry out nautical mapping and charting functions under sections 892b and 892c of this title, except for conducting hydrographic surveys, $71,000,000 for each of fiscal years 2023 through 2028.
 
-(2) To contract for hydrographic surveys under section 892b(b)(1) of this title, including the leasing or time chartering of vessels, $25,000,000 for each of fiscal years 2019 through 2023.
+(2) To contract for hydrographic surveys under section 892b(b)(1) of this title, including the leasing or time chartering of vessels, $34,000,000 for each of fiscal years 2023 through 2028.
 
-(3) To operate hydrographic survey vessels owned by the United States and operated by the Administration, $29,932,000 for each of fiscal years 2019 through 2023.
+(3) To operate hydrographic survey vessels owned by the United States and operated by the Administration, $38,000,000 for each of fiscal years 2023 through 2028.
 
-(4) To carry out geodetic functions under this subchapter, $26,800,000 for each of fiscal years 2019 through 2023.
+(4) To carry out geodetic functions under this subchapter, $45,000,000 for each of fiscal years 2023 through 2028.
 
-(5) To carry out tide and current measurement functions under this subchapter, $30,564,000 for each of fiscal years 2019 through 2023.
+(5) To carry out tide and current measurement functions under this subchapter, $35,000,000 for each of fiscal years 2023 through 2028.
 
 (6) To acquire a replacement hydrographic survey vessel capable of staying at sea continuously for at least 30 days $75,000,000.
 
@@ -38,7 +38,7 @@ Of the amount authorized by this section for each fiscal year—
 
 Of amounts authorized by this section for each fiscal year for contract hydrographic surveys, not more than 5 percent is authorized for administrative costs associated with contract management.
 
-(Pub. L. 105–384, title III, §306, Nov. 13, 1998, 112 Stat. 3457; Pub. L. 105–383, title IV, §432(b), Nov. 13, 1998, 112 Stat. 3445; Pub. L. 107–372, title I, §106, Dec. 19, 2002, 116 Stat. 3081; Pub. L. 110–386, §5, Oct. 10, 2008, 122 Stat. 4108; Pub. L. 115–282, title X, §1001, Dec. 4, 2018, 132 Stat. 4364.)
+(Pub. L. 105–384, title III, §306, Nov. 13, 1998, 112 Stat. 3457; Pub. L. 105–383, title IV, §432(b), Nov. 13, 1998, 112 Stat. 3445; Pub. L. 107–372, title I, §106, Dec. 19, 2002, 116 Stat. 3081; Pub. L. 110–386, §5, Oct. 10, 2008, 122 Stat. 4108; Pub. L. 115–282, title X, §1001, Dec. 4, 2018, 132 Stat. 4364; Pub. L. 117–263, div. J, title CIII, §10308(d), Dec. 23, 2022, 136 Stat. 3980.)
 
 #### **Editorial Notes** ####
 
@@ -47,6 +47,16 @@ Of amounts authorized by this section for each fiscal year for contract hydrogra
 This subchapter, referred to in subsec. (a)(4), (5), was in the original "this title", meaning title III of Pub. L. 105–384, Nov. 13, 1998, 112 Stat. 3454, which is classified principally to this subchapter. For complete classification of this title to the Code, see Short Title of 1998 Amendment note set out under section 851 of this title and Tables.
 
 #### Amendments ####
+
+**2022**—Subsec. (a)(1). Pub. L. 117–263, §10308(d)(1), substituted "$71,000,000 for each of fiscal years 2023 through 2028" for "$70,814,000 for each of fiscal years 2019 through 2023".
+
+Subsec. (a)(2). Pub. L. 117–263, §10308(d)(2), substituted "$34,000,000 for each of fiscal years 2023 through 2028" for "$25,000,000 for each of fiscal years 2019 through 2023".
+
+Subsec. (a)(3). Pub. L. 117–263, §10308(d)(3), substituted "$38,000,000 for each of fiscal years 2023 through 2028" for "$29,932,000 for each of fiscal years 2019 through 2023".
+
+Subsec. (a)(4). Pub. L. 117–263, §10308(d)(4), substituted "$45,000,000 for each of fiscal years 2023 through 2028" for "$26,800,000 for each of fiscal years 2019 through 2023".
+
+Subsec. (a)(5). Pub. L. 117–263, §10308(d)(5), substituted "$35,000,000 for each of fiscal years 2023 through 2028" for "$30,564,000 for each of fiscal years 2019 through 2023".
 
 **2018**—Subsec. (a). Pub. L. 115–282, §1001(a)(1), designated existing provisions as subsec. (a) and inserted heading.
 

@@ -68,6 +68,10 @@ Sec.
 
 1276. Enhanced aquifer use and recharge.
 
+1276a. San Francisco Bay restoration grant program.
+
+1276b. Puget Sound.
+
 #### SUBCHAPTER II—GRANTS FOR CONSTRUCTION OF TREATMENT WORKS ####
 
 1281. Congressional declaration of purpose.

@@ -57,3 +57,5 @@ Pub. L. 109–364, div. A, title X, §1018, Oct. 17, 2006, 120 Stat. 2380, as am
 "(B) Waiver.—The Secretary may waive the application of subparagraph (A)(ii) for an individual who holds a merchant mariner's document issued under chapter 73 of title 46, United States Code, or a transportation security card issued under section 70105 of such title.
 
 "(3) Exempted individual not treated as in addition to the crew.—An individual who, under paragraph (1), is not treated as a riding gang member shall not be counted as an individual in addition to the crew for the purposes of section 3304 of title 46, United States Code."
+
+[Amendments made by Pub. L. 117–263 to section 70105 of Title 46, Shipping, referred to in section 1018(a)(2), (b)(2)(B) of Pub. L. 109–364, set out above, are such that section 70105 now refers to "transportation worker identification credential" rather than "transportation security card". See section 70105 of Title 46.]

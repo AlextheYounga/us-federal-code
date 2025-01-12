@@ -328,6 +328,12 @@ Sec.
 
 2291k. Repealed.
 
+2291l. Prioritization of efforts of the Department of State to combat international trafficking in covered synthetic drugs.
+
+2291m. Program to provide assistance to build the capacity of foreign law enforcement agencies with respect to covered synthetic drugs.
+
+2291n. Exchange program on demand reduction matters relating to illicit use of covered synthetic drugs.
+
 #### Part IX—International Disaster Assistance ####
 
 2292. General provisions.

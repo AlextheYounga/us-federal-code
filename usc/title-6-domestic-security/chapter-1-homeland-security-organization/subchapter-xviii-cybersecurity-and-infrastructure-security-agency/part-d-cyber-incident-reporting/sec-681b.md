@@ -126,7 +126,7 @@ The final rule issued pursuant to subsection (b) shall be composed of the follow
 
 (i) any event where the cyber incident is perpetrated in good faith by an entity in response to a specific request by the owner or operator of the information system; and
 
-(ii) the threat of disruption as extortion, as described in section 681(14)(A) of this title.
+(ii) the threat of disruption as extortion, as described in section 681(14)(A) <sup><a href="#681b_2_target" name="681b_2">2</a></sup> of this title.
 
 (3) A requirement that, if a covered cyber incident or a ransom payment occurs following an exempted threat described in paragraph (2)(C)(ii), the covered entity shall comply with the requirements in this part in reporting the covered cyber incident or ransom payment.
 
@@ -276,6 +276,10 @@ Nothing in this section shall be construed to supersede or to abrogate, modify, 
 
 #### References in Text ####
 
+Section 681(14)(A) of this title, referred to in subsec. (c)(2)(C)(ii), was repealed by section 7143(b)(2)(N)(v) of Pub. L. 117–263. See section 650(22)(A) of this title. References to terms defined in this chapter deemed to be references to those terms as defined in section 650 of this title, see section 7143(f)(2) of Pub. L. 117–263, set out as a Rule of Construction note under section 650 of this title.
+
 Executive Order 14028, referred to in subsec. (g), is Ex. Ord. No. 14028, May 12, 2021, 86 F.R. 26633, which is set out as a note under section 3551 of Title 44, Public Printing and Documents.
 
 [<sup>1</sup> So in original. Probably should be followed by a dash.](#681b_1)
+
+[<sup>2</sup> See References in Text note below.](#681b_2)

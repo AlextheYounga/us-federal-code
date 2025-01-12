@@ -36,13 +36,15 @@ Sec.
 
 2836. Military housing rental guarantee program.
 
-[2837. Repealed.]
+2837. Housing Requirements and Market Analysis.
 
 2838. Leasing of military family housing to Secretary of Defense.
 
 #### **Editorial Notes** ####
 
 #### Amendments ####
+
+**2022**—Pub. L. 117–263, div. B, title XXVIII, §2821(a), Dec. 23, 2022, 136 Stat. 2999, added item 2837. Amendment was made pursuant to operation of section 102 of this title.
 
 **2021**—Pub. L. 116–283, div. B, title XXVIII, §2812(b), Jan. 1, 2021, 134 Stat. 4327, struck out item 2830 "Occupancy of substandard family housing units".
 

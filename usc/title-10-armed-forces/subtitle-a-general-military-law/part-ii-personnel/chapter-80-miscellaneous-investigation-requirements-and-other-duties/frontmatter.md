@@ -82,7 +82,7 @@ Pub. L. 106–398, §1 [[div. A], title V, §542(b), title X, §1072(b)], Oct. 3
 
 #### Annual Primary Prevention Research Agenda ####
 
-Pub. L. 117–81, div. A, title V, §549A, Dec. 27, 2021, 135 Stat. 1721, provided that:
+Pub. L. 117–81, div. A, title V, §549A, Dec. 27, 2021, 135 Stat. 1721, as amended by Pub. L. 117–263, div. A, title V, §547(a), Dec. 23, 2022, 136 Stat. 2585, provided that:
 
 "(a) In General.—Beginning on October 1, 2022, and annually on the first day of each fiscal year thereafter, the Secretary of Defense shall publish a Department of Defense research agenda for that fiscal year, focused on the primary prevention of interpersonal and self-directed violence, including sexual assault, sexual harassment, domestic violence, child abuse and maltreatment, problematic juvenile sexual behavior, suicide, workplace violence, and substance misuse.
 
@@ -106,11 +106,17 @@ Pub. L. 117–81, div. A, title V, §549A, Dec. 27, 2021, 135 Stat. 1721, provid
 
 "(1) reflect a preference for research projects and tasks with the potential to yield or contribute to the development and implementation of actionable primary prevention strategies in the Department of Defense;
 
-"(2) be integrated, so as to discover or test cross-cutting interventions across the spectrum of interpersonal and self-directed violence;
+"(2) include a focus on whether and to what extent sub-populations of the military community may be targeted for interpersonal violence more than others;
 
-"(3) incorporate collaboration with other Federal departments and agencies, State governments, academia, industry, federally funded research and development centers, non-profit organizations, and other organizations outside of the Department of Defense; and
+"(3) seek to identify factors that influence the prevention, perpetration, and victimization of interpersonal and self-directed violence;
 
-"(4) minimize unnecessary duplication of effort.
+"(4) seek to improve the collection and dissemination of data on hazing and bullying related to interpersonal and self-directed violence;
+
+"(5) be integrated, so as to discover or test cross-cutting interventions across the spectrum of interpersonal and self-directed violence;
+
+"(6) incorporate collaboration with other Federal departments and agencies, including the Department of Health and Human Services and the Centers for Disease Control and Prevention, State governments, academia, industry, federally funded research and development centers, nonprofit organizations, and other organizations outside of the Department of Defense, including civilian institutions that conduct similar data-driven studies, collection, and analysis; and
+
+"(7) minimize unnecessary duplication of effort.
 
 "(d) Budgeting.—The Secretary of Defense shall create a unique Program Element for and shall prioritize recurring funding to ensure the continuity of research pursuant to the annual primary prevention research agenda."
 

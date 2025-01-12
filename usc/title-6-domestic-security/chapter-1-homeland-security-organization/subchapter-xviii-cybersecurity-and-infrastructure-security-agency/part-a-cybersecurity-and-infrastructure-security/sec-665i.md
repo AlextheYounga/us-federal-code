@@ -34,27 +34,15 @@ Not later than one year after December 27, 2021, the Director shall provide to t
 
 Nothing in this section may be construed to permit the Federal Government to gain access to information of a remote computing service provider to the public or an electronic service provider to the public, the disclosure of which is not permitted under section 2702 of title 18.
 
-#### (f) Definitions ####
+#### (f) Definition ####
 
-In this section:
-
-#### (1) Cybersecurity risk ####
-
-The term "cybersecurity risk" has the meaning given such term in section 659(a) of this title.
-
-#### (2) Industrial control system ####
-
-The term "industrial control system" means an information system used to monitor and/or control industrial processes such as manufacturing, product handling, production, and distribution, including supervisory control and data acquisition (SCADA) systems used to monitor and/or control geographically dispersed assets, distributed control systems (DCSs), Human-Machine Interfaces (HMIs), and programmable logic controllers that control localized processes.
-
-#### (3) Information system ####
-
-The term "information system" has the meaning given such term in section 1501(9) of this title.
+In this section, the term "industrial control system" means an information system used to monitor and/or control industrial processes such as manufacturing, product handling, production, and distribution, including supervisory control and data acquisition (SCADA) systems used to monitor and/or control geographically dispersed assets, distributed control systems (DCSs), Human-Machine Interfaces (HMIs), and programmable logic controllers that control localized processes.
 
 #### (g) Termination ####
 
 The authority to carry out a program under this section shall terminate on the date that is seven years after December 27, 2021.
 
-(Pub. L. 107–296, title XXII, §2220C, as added Pub. L. 117–81, div. A, title XV, §1548(a), Dec. 27, 2021, 135 Stat. 2061.)
+(Pub. L. 107–296, title XXII, §2220C, as added Pub. L. 117–81, div. A, title XV, §1548(a), Dec. 27, 2021, 135 Stat. 2061; amended Pub. L. 117–263, div. G, title LXXI, §7143(b)(2)(L), Dec. 23, 2022, 136 Stat. 3661.)
 
 #### **Editorial Notes** ####
 
@@ -64,4 +52,8 @@ Section 1501 of the National Defense Authorization Act for Fiscal Year 2022, ref
 
 #### Codification ####
 
-Section 1548(a) of Pub. L. 117–81, which directed that this section be added at the end of title XXII of the Homeland Security Act of 2002, was executed by adding this section at the end of subtitle A of title XXII of that Act, to reflect the probable intent of Congress.
+Section 1548(a) of Pub. L. 117–81, which directed that this section be added at the end of title XXII of the Homeland Security Act of 2002, was executed by adding this section at the end of this part as if the directory language had added the section at the end of subtitle A of title XXII of the Act, to reflect the probable intent of Congress.
+
+#### Amendments ####
+
+**2022**—Subsec. (f). Pub. L. 117–263 added subsec. (f) and struck out former subsec. (f) which defined cybersecurity risk, industrial control system, and information system.

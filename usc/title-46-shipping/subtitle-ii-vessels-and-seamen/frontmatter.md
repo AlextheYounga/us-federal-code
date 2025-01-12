@@ -31,6 +31,8 @@ Chapter Sec.
 
 47. Abandonment of Barges 4701
 
+49. Oceangoing Non-Passenger Commercial Vessels 4901
+
 #### Part C—Load Lines of Vessels ####
 
 51. Load Lines 5101
@@ -118,6 +120,8 @@ Chapter Sec.
 #### **Editorial Notes** ####
 
 #### Amendments ####
+
+**2022**—Pub. L. 117–263, div. K, title CXVI, §11607(b), Dec. 23, 2022, 136 Stat. 4151, added item 49.
 
 **2018**—Pub. L. 115–282, title VI, §601(b), Dec. 4, 2018, 132 Stat. 4289, added item for part K.
 

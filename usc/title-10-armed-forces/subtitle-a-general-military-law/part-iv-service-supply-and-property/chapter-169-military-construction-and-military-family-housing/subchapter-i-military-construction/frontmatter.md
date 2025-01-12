@@ -20,7 +20,7 @@ Sec.
 
 2809. Long-term facilities contracts for certain activities and services.
 
-[2810. Repealed.]
+2810. Military construction projects for innovation, research, development, test, and evaluation.
 
 2811. Repair of facilities.
 
@@ -39,6 +39,8 @@ Sec.
 #### **Editorial Notes** ####
 
 #### Amendments ####
+
+**2022**—Pub. L. 117–263, div. B, title XXVIII, §2805(b), Dec. 23, 2022, 136 Stat. 2995, added item 2810.
 
 **2021**—Pub. L. 117–81, div. B, §2003(b), title XXVIII, §2803, Dec. 27, 2021, 135 Stat. 2162, 2186, added item 2815a.
 

@@ -38,10 +38,36 @@
 
 (5) Deferral to commander or convening authority.—If a special trial counsel exercises authority over an offense and elects not to prefer charges and specifications for such offense or, with respect to charges and specifications for such offense preferred by a person other than a special trial counsel, elects not to refer such charges and specifications, a commander or convening authority may exercise any of the authorities of such commander or convening authority under this chapter with respect to such offense, except that such commander or convening authority may not refer charges and specifications for a covered offense for trial by special or general court-martial.
 
-(Added Pub. L. 117–81, div. A, title V, §531(a), Dec. 27, 2021, 135 Stat. 1692.)
+(Added Pub. L. 117–81, div. A, title V, §531(a), Dec. 27, 2021, 135 Stat. 1692; amended Pub. L. 117–263, div. A, title V, §542(a), Dec. 23, 2022, 136 Stat. 2581.)
+
+#### Amendment of Subsection (c)(3) ####
+
+Pub. L. 117–263, div. A, title V, §542, Dec. 23, 2022, 136 Stat. 2581, provided that, effective immediately after the coming into effect of the amendments made by section 531 of Pub. L. 117–81 (enacting this section), subsection (c)(3) of this section is amended:
+
+(1) by striking "Subject to paragraph (4)" and inserting "Subject to paragraph (5)"; and
+
+(2) in subparagraph (D), by striking "an ordered rehearing" and inserting "an authorized rehearing".
+
+See 2022 Amendment notes below.
+
+#### **Editorial Notes** ####
+
+#### Amendments ####
+
+**2022**—Subsec. (c)(3). Pub. L. 117–263, §542(a)(1), substituted "Subject to paragraph (5)" for "Subject to paragraph (4)" in introductory provisions.
+
+Subsec. (c)(3)(D). Pub. L. 117–263, §542(a)(2), substituted "an authorized rehearing" for "an ordered rehearing".
 
 #### **Statutory Notes and Related Subsidiaries** ####
+
+#### Effective Date of 2022 Amendment ####
+
+Pub. L. 117–263, div. A, title V, §542(b), Dec. 23, 2022, 136 Stat. 2581, provided that: "The amendments made by subsection (a) [amending this section] shall take effect immediately after the coming into effect of the amendments made by section 531 of the National Defense Authorization Act for Fiscal Year 2022 (Public Law 117–81; 135 Stat. 1692) [enacting this section] as provided in section 539C of that Act (10 U.S.C. 801 note)."
 
 #### Effective Date ####
 
 Section effective on the date that is two years after Dec. 27, 2021, and applicable with respect to offenses that occur after that date, with provisions for delayed effect and applicability if regulations are not prescribed by the President before the date that is two years after Dec. 27, 2021, see section 539C of Pub. L. 117–81, set out as an Effective Date of 2021 Amendment note under section 801 of this title.
+
+#### Residual Prosecutorial Duties and Other Judicial Functions of Convening Authorities in Covered Cases ####
+
+Pub. L. 117–263, div. A, title V, §541(c), Dec. 23, 2022, 136 Stat. 2580, provided that: "The President shall prescribe regulations to ensure that residual prosecutorial duties and other judicial functions of convening authorities, including granting immunity, ordering depositions, and hiring experts, with respect to charges and specifications over which a special trial counsel exercises authority pursuant to section 824a of title 10, United States Code (article 24a of the Uniform Code of Military Justice) (as added by section 531 of the National Defense Authorization Act for Fiscal Year 2022 (Public Law 117–81; 135 Stat. 1692)), are transferred to the military judge, the special trial counsel, or other authority as appropriate in such cases by no later than the effective date established in section 539C of the National Defense Authorization Act for Fiscal Year 2022 (Public Law 117–81; 10 U.S.C. 801 note), in consideration of due process for all parties involved in such a case."

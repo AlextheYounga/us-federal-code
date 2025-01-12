@@ -46,33 +46,7 @@ Pub. L. 114–92, div. A, title VIII, §883(e), Nov. 25, 2015, 129 Stat. 947, pr
 
 #### Designation of Military Department Entity Responsible for Acquisition of Critical Cyber Capabilities ####
 
-Pub. L. 114–92, div. A, title XVI, §1645, Nov. 25, 2015, 129 Stat. 1117, provided that:
-
-"(a) Designation.—
-
-"(1) In general.—Not later than 90 days after the date of the enactment of this Act [Nov. 25, 2015], the Secretary of Defense shall designate an entity within a military department to be responsible for the acquisition of each critical cyber capability described in paragraph (2).
-
-"(2) Critical cyber capabilities described.—The critical cyber capabilities described in this paragraph are the cyber capabilities that the Secretary considers critical to the mission of the Department of Defense, including the following:
-
-"(A) The Unified Platform described in the Department of Defense document titled 'The Department of Defense Cyber Strategy' dated April 15, 2015.
-
-"(B) A persistent cyber training environment.
-
-"(C) A cyber situational awareness and battle management system.
-
-"(b) Report.—
-
-"(1) In general.—Not later than 90 days after the date of the enactment of this Act, the Secretary shall submit to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] a report containing the information described in paragraph (2).
-
-"(2) Contents.—The report under paragraph (1) shall include the following with respect to the critical cyber capabilities described in subsection (a)(2):
-
-"(A) Identification of each critical cyber capability and the entity of a military department responsible for the acquisition of the capability.
-
-"(B) Estimates of the funding requirements and acquisition timelines for each critical cyber capability.
-
-"(C) An explanation of whether critical cyber capabilities could be acquired more quickly with changes to acquisition authorities.
-
-"(D) Such recommendations as the Secretary may have for legislation or administrative action to improve the acquisition of, or to acquire more quickly, the critical cyber capabilities for which designations are made under subsection (a)."
+Pub. L. 114–92, div. A, title XVI, §1645, Nov. 25, 2015, 129 Stat. 1117, which required the Secretary of Defense to designate an entity within a military department to be responsible for the acquisition of certain critical cyber capabilities, was repealed by Pub. L. 117–263, div. A, title XV, §1509(j), Dec. 23, 2022, 136 Stat. 2890.
 
 #### Supervision of the Acquisition of Cloud Computing Capabilities ####
 

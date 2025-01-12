@@ -20,6 +20,10 @@ Sec.
 
 508. Coast Guard health-care professionals; licensure portability.
 
+509. Space-available travel on Coast Guard aircraft.
+
+510. Conveyance of Coast Guard vessels for public purposes.
+
 #### SUBCHAPTER II—LIFE SAVING AND LAW ENFORCEMENT AUTHORITIES ####
 
 521. Saving life and property.
@@ -60,6 +64,8 @@ Sec.
 
 550. Marking pierheads in certain lakes.
 
+548. Marking anchorage grounds by Commandant of the Coast Guard. 1
+
 #### SUBCHAPTER IV—MISCELLANEOUS ####
 
 561. Icebreaking in polar regions.
@@ -67,6 +73,8 @@ Sec.
 562. Appeals and waivers.
 
 563. Notification of certain determinations.
+
+564. Administration of sexual assault forensic examination kits.
 
 #### **Editorial Notes** ####
 
@@ -76,6 +84,10 @@ A prior analysis for chapter 5 "FUNCTIONS AND POWERS" consisted of items 81 "Aid
 
 #### Amendments ####
 
+**2022**—Pub. L. 117–263, div. K, title CXII, §§11231(b), 11258(b)(2), 11272(b), Dec. 23, 2022, 136 Stat. 4032, 4057, 4066, added items 509, 510, and 564. Amendment by section 11258(b)(2) of Pub. L. 117–263 adding item 510 to the analysis for subchapter I of this chapter was executed by adding item 510 to the analysis for this chapter, to reflect the probable intent of Congress.
+
 **2021**—Pub. L. 116–283, div. G, title LVXXXV [LXXXV], §8509(c), Jan. 1, 2021, 134 Stat. 4756, added items 548 to 550.
 
 **2018**—Pub. L. 115–282, title I, §105(a), title III, §§305(b), 318(b), Dec. 4, 2018, 132 Stat. 4200, 4246, 4252, inserted chapter 5 designation and heading and added items 501 to 563.
+
+[<sup>1</sup> Editorially supplied. Section added by Pub. L. 117–263 at the end of subchapter III without corresponding amendment of chapter analysis.](#CHAPTER5_1)

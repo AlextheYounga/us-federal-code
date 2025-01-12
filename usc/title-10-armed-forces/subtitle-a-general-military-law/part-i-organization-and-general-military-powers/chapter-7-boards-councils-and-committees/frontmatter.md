@@ -28,15 +28,17 @@ Sec.
 
 182. Center for Excellence in Disaster Management and Humanitarian Assistance.
 
+182a. Center for Excellence in Environmental Security.
+
 183. Department of Defense Board of Actuaries.
 
 183a. Military Aviation and Installation Assurance Clearinghouse for review of mission obstructions.
 
-184. Joint Safety Council.
+184. 1 Civilian Protection Center of Excellence.
 
-[185, 186. Renumbered or Repealed.]
+184. 1 Joint Safety Council.
 
-187. Strategic Materials Protection Board.
+[185 to 187. Renumbered or Repealed.]
 
 188. Interagency Council on the Strategic Capability of the National Laboratories.
 
@@ -47,6 +49,8 @@ Sec.
 #### **Editorial Notes** ####
 
 #### Amendments ####
+
+**2022**—Pub. L. 117–263, div. A, title III, §311, title X, §1082(a)(2), title XIV, §1411(a), Dec. 23, 2022, 136 Stat. 2500, 2799, 2869, added item 182a and item 184 "Civilian Protection Center of Excellence" and struck out item 187 "Strategic Materials Protection Board". Striking of item 187 was made pursuant to section 102 of this title.
 
 **2021**—Pub. L. 117–81, div. A, title III, §372(b), Dec. 27, 2021, 135 Stat. 1666, added item 184.
 
@@ -89,3 +93,5 @@ Pub. L. 110–181, div. A, title IX, §906(a)(2), Jan. 28, 2008, 122 Stat. 277, 
 Pub. L. 98–36, §2(b), May 27, 1983, 97 Stat. 201, added item 178.
 
 **1976**—Pub. L. 94–361, title VIII, §811(c), July 14, 1976, 90 Stat. 936, added items 176 and 177.
+
+[<sup>1</sup> So in original. Two items 184 have been enacted.](#CHAPTER7_1)

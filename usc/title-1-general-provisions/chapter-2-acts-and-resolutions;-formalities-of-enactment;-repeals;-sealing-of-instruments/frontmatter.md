@@ -38,9 +38,15 @@ Sec.
 
 114. Sealing of instruments.
 
+#### Amendment of Analysis ####
+
+Pub. L. 117–263, div. E, title LIX, §5947(a)(2), (c), Dec. 23, 2022, 136 Stat. 3481, 3482, provided that, effective 270 days after Dec. 23, 2022, this analysis is amended by striking item 112b and inserting new item 112b "United States international agreements and non-binding instruments; transparency provisions." See 2022 Amendment note below.
+
 #### **Editorial Notes** ####
 
 #### Amendments ####
+
+**2022**—Pub. L. 117–263, div. E, title LIX, §5947(a)(2), Dec. 23, 2022, 136 Stat. 3481, added item 112b and struck out former item 112b "United States international agreements; transmission to Congress".
 
 **1972**—Pub. L. 92–403, §2, Aug. 22, 1972, 86 Stat. 619, added item 112b.
 

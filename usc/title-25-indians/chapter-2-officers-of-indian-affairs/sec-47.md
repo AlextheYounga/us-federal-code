@@ -10,7 +10,7 @@ The term "Indian economic enterprise" has the meaning given the term in section 
 
 #### (2) Mentor firm; protege firm ####
 
-The terms "mentor firm" and "protege firm" have the meanings given those terms in section 831(c) of the National Defense Authorization Act for Fiscal Year 1991 (10 U.S.C. 2302 note; Public Law 101–510).
+The terms "mentor firm" and "protege firm" have the meanings given those terms in section 4902(c) of title 10.
 
 #### (3) Secretaries ####
 
@@ -104,7 +104,7 @@ Each report under this subsection shall include, for each fiscal year during the
 
 Each agency shall establish an annual minimum percentage goal for procurement in compliance with this section.
 
-(June 25, 1910, ch. 431, §23, 36 Stat. 861; Pub. L. 100–581, title II, §206, Nov. 1, 1988, 102 Stat. 2940; Pub. L. 103–435, §14, Nov. 2, 1994, 108 Stat. 4572; Pub. L. 116–261, §4, Dec. 30, 2020, 134 Stat. 3311.)
+(June 25, 1910, ch. 431, §23, 36 Stat. 861; Pub. L. 100–581, title II, §206, Nov. 1, 1988, 102 Stat. 2940; Pub. L. 103–435, §14, Nov. 2, 1994, 108 Stat. 4572; Pub. L. 116–261, §4, Dec. 30, 2020, 134 Stat. 3311; Pub. L. 117–263, div. A, title VIII, §856(e)(1), Dec. 23, 2022, 136 Stat. 2726.)
 
 #### **Editorial Notes** ####
 
@@ -121,6 +121,8 @@ Section is based on proviso of first sentence of section 23 of act of June 25, 1
 Provisions similar to those in this section were contained in act Apr. 30, 1908, ch. 153, 35 Stat. 71, making appropriations for the Indian Department.
 
 #### Amendments ####
+
+**2022**—Subsec. (a)(2). Pub. L. 117–263 substituted "section 4902(c) of title 10" for "section 831(c) of the National Defense Authorization Act for Fiscal Year 1991 (10 U.S.C. 2302 note; Public Law 101–510)".
 
 **2020**—Pub. L. 116–261, §4, amended section generally. Prior to amendment, section related to employment of Indian labor and purchase of products of Indian industry and participation in Mentor-Protege Program.
 

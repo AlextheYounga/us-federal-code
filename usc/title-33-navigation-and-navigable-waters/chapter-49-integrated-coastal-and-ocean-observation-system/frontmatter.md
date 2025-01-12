@@ -23,3 +23,7 @@ Sec.
 3610. Authorization of appropriations.
 
 3611. Assessing and modeling named storms over coastal States.
+
+3612. Accelerating innovation at Cooperative Institutes.
+
+3613. Blue Economy valuation.

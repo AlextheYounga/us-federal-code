@@ -26,9 +26,17 @@ Sec.
 
 5112. Sexual assault and sexual harassment in the Coast Guard.
 
+5113. Officers not on active duty promotion list.
+
+5114. Expenses of performing and executing defense readiness missions.
+
+5115. Major grants, contracts, or other transactions.
+
 #### **Editorial Notes** ####
 
 #### Amendments ####
+
+**2022**—Pub. L. 117–263, div. K, title CXII, §§11236(b)(2), 11256(b), 11262(b), Dec. 23, 2022, 136 Stat. 4036, 4056, 4061, added items 5113 to 5115.
 
 **2021**—Pub. L. 116–283, div. G, title LVXXXII [LXXXII], §8215(d)(2), title LVXXXV [LXXXV], §8501(b)(4), Jan. 1, 2021, 134 Stat. 4653, 4746, added items 5109 to 5112.
 

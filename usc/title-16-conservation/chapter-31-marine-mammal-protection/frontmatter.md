@@ -54,6 +54,12 @@ Sec.
 
 1389. Pacific Coast Task Force; Gulf of Maine.
 
+1390. Assistance to ports to reduce impacts of vessel traffic and port operations on marine mammals.
+
+1391. Near real-time monitoring and mitigation program for large cetaceans.
+
+1392. Monitoring ocean soundscapes.
+
 #### SUBCHAPTER III—MARINE MAMMAL COMMISSION ####
 
 1401. Establishment.
@@ -96,7 +102,7 @@ Sec.
 
 1421a. Determination; data collection and dissemination.
 
-1421b. Stranding response agreements.
+1421b. Stranding or entanglement response agreements.
 
 1421c. Unusual mortality event response.
 
@@ -106,7 +112,11 @@ Sec.
 
 1421f. National Marine Mammal Tissue Bank and tissue analysis.
 
-1421f–1. John H. Prescott Marine Mammal Rescue Assistance Grant Program.
+1421f–1. Marine mammal rescue and response grant program and Rapid Response Fund.
+
+1421f–2. Marine Mammal Health Monitoring and Analysis Platform.
+
+1421f–3. Reports to Congress.
 
 1421g. Authorization of appropriations.
 

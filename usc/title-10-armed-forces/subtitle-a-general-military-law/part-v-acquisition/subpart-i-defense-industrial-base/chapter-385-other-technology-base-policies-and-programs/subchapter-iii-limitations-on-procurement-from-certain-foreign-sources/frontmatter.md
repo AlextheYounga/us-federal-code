@@ -6,25 +6,21 @@ Sec.
 
 4872. Acquisition of sensitive materials from non-allied foreign nations: prohibition.
 
-4873. Additional requirements pertaining to printed circuit boards. 1
+4873. Additional requirements pertaining to printed circuit boards.
 
 4874. Award of certain contracts to entities controlled by a foreign government: prohibition.
 
-4875. Prohibition on acquisition of personal protective equipment and certain other items from non-allied foreign nations. 1
+4875. Prohibition on acquisition of personal protective equipment and certain other items from non-allied foreign nations.
 
 #### **Editorial Notes** ####
 
 #### Codification ####
 
-Item 4873 was added to this analysis by section 1701(e)(2)(B) of Pub. L. 117–81 in conjunction with the transfer of section 2533d of this title to section 4873. However, the transfer was not executed in light of the repeal of section 2533d, which took effect just prior to the transfer. See Codification note under section 4873 of this title.
-
-Item 4875 was added to this analysis by section 802(b)(2)(A) of Pub. L. 117–81 in conjunction with the transfer of section 2533e of this title to section 4875. However, the transfer was not executed in light of the repeal of section 2533e, which took effect just prior to the transfer. See Codification note under section 4875 of this title.
-
 #### Amendments ####
 
 **2021**—Pub. L. 117–81, div. A, title XVII, §1701(t)(1), Dec. 27, 2021, 135 Stat. 2150, amended Pub. L. 116–283, div. A, title XVIII, §1870(d)(1), Jan. 1, 2021, 135 Stat. 4286, which added this analysis, by substituting "Contracts: consideration of national security objectives" for "Acquisition of sensitive materials from non-allied foreign nations: prohibition" in item 4871 and "Acquisition of sensitive materials from non-allied foreign nations: prohibition" for "Award of certain contracts to entities controlled by a foreign government: prohibition" in item 4872 and by adding item 4874.
 
-Pub. L. 117–81, div. A, title VIII, §802(b)(2)(A), title XVII, §1701(e)(2)(B), Dec. 27, 2021, 135 Stat. 1813, 2138, added items 4873 and 4875. See Codification notes above. Amendment by section 1701(e)(2)(B), which directed adding item 4873 to the analysis for this chapter, was executed by adding item 4873 to analysis for this subchapter to reflect the probable intent of Congress.
+Pub. L. 117–81, div. A, title VIII, §802(b)(2)(A), title XVII, §1701(e)(2)(B), Dec. 27, 2021, 135 Stat. 1813, 2138, added items 4873 and 4875. Amendment by section 1701(e)(2)(B), which directed adding item 4873 to the analysis for this chapter, was executed by adding item 4873 to analysis for this subchapter to reflect the probable intent of Congress.
 
 #### **Statutory Notes and Related Subsidiaries** ####
 
@@ -106,7 +102,7 @@ Pub. L. 114–328, div. A, title VIII, §899A(a)–(e), Dec. 23, 2016, 130 Stat.
 
 #### Prohibition on Contracting With the Enemy ####
 
-Pub. L. 113–291, div. A, title VIII, subtitle E, Dec. 19, 2014, 128 Stat. 3450, as amended by Pub. L. 115–232, div. A, title VIII, §872, title XII, §1251(b)(2), Aug. 13, 2018, 132 Stat. 1905, 2053; Pub. L. 116–92, div. A, title VIII, §822, Dec. 20, 2019, 133 Stat. 1490, as amended by Pub. L. 116–283, div. A, title X, §1081(c)(3), Jan. 1, 2021, 134 Stat. 3873, provided that:
+Pub. L. 113–291, div. A, title VIII, subtitle E, Dec. 19, 2014, 128 Stat. 3450, as amended by Pub. L. 115–232, div. A, title VIII, §872, title XII, §1251(b)(2), Aug. 13, 2018, 132 Stat. 1905, 2053; Pub. L. 116–92, div. A, title VIII, §822, Dec. 20, 2019, 133 Stat. 1490, as amended by Pub. L. 116–283, div. A, title X, §1081(c)(3), Jan. 1, 2021, 134 Stat. 3873; Pub. L. 117–263, div. A, title VIII, §820, Dec. 23, 2022, 136 Stat. 2709, provided that:
 
 #### "SEC. 841. PROHIBITION ON PROVIDING FUNDS TO THE ENEMY. ####
 
@@ -182,7 +178,7 @@ Pub. L. 113–291, div. A, title VIII, subtitle E, Dec. 19, 2014, 128 Stat. 3450
 
 "(i) Reports.—
 
-"(1) In general.—Not later than March 1 of 2016, 2017, and 2018, the Director of the Office of Management and Budget shall submit to the appropriate committees of Congress a report on the use of the authorities in this section in the preceding calendar year, including the following:
+"(1) In general.—Not later than March 1 of 2023, and annually thereafter, the Director of the Office of Management and Budget shall submit to the appropriate committees of Congress a report on the use of the authorities in this section in the preceding calendar year, including the following:
 
 "(A) For each instance in which an executive agency exercised the authority to terminate, void, or restrict a contract, grant, and cooperative agreement pursuant to subsection (c), based on a notification under subsection (b), the following:
 
@@ -199,6 +195,10 @@ Pub. L. 113–291, div. A, title VIII, subtitle E, Dec. 19, 2014, 128 Stat. 3450
 "(i) The executive agency concerned.
 
 "(ii) An explanation of the basis for not taking the action.
+
+"(C) Specific examples where the authorities under this section can not be used to mitigate national security threats posed by vendors supporting Department operations because of the restriction on using such authorities only with respect to contingency operations.
+
+"(D) A description of the policies ensuring that oversight of the use of the authorities in this section is effectively carried out by a single office in the Office of the Under Secretary of Defense for Acquisition and Sustainment.
 
 "(2) Form.—Any report under this subsection may, at the election of the Director—
 
@@ -220,7 +220,7 @@ Pub. L. 113–291, div. A, title VIII, subtitle E, Dec. 19, 2014, 128 Stat. 3450
 
 "(3) Use of superseded authorities in implementation of requirements.—In providing for the implementation of the requirements of this section by the Department of Defense, the Secretary of Defense may use and modify for that purpose the regulations and procedures established for purposes of the implementation of the requirements of section 841 of the National Defense Authorization Act for Fiscal Year 2012 [Pub. L. 112–81] and section 831 of the National Defense Authorization Act for Fiscal Year 2014 [Pub. L. 113–66].
 
-"(n) Sunset.—The provisions of this section shall cease to be effective on December 31, 2023.
+"(n) Sunset.—The provisions of this section shall cease to be effective on December 31, 2025.
 
 #### "SEC. 842. ADDITIONAL ACCESS TO RECORDS. ####
 
@@ -236,7 +236,7 @@ Pub. L. 113–291, div. A, title VIII, subtitle E, Dec. 19, 2014, 128 Stat. 3450
 
 "(b) Reports.—
 
-"(1) In general.—Not later than March 1 of 2016, 2017, and 2018, the Director of the Office of Management and Budget shall submit to the appropriate committees of Congress a report on the use of the authority provided by this section in the preceding calendar year.
+"(1) In general.—Not later than March 1 of 2023, 2024, and 2025, the Director of the Office of Management and Budget shall submit to the appropriate committees of Congress a report on the use of the authority provided by this section in the preceding calendar year.
 
 "(2) Elements.—Each report under this subsection shall identify, for the calendar year covered by such report, each instance in which an executive agency exercised the authority provided under this section to examine records, explain the basis for the action taken, and summarize the results of any examination of records so undertaken.
 
@@ -289,5 +289,3 @@ Pub. L. 113–291, div. A, title VIII, subtitle E, Dec. 19, 2014, 128 Stat. 3450
 [Pub. L. 116–283, div. A, title X, §1081(c)(3), Jan. 1, 2021, 134 Stat. 3873, which directed technical amendment of section 821 of Pub. L. 116–92 by inserting "Carl Levin and Howard P. 'Buck' McKeon" before "National Defense Authorization Act for Fiscal Year 2015", was executed to section 822 of Pub. L. 116–92, which amended the Carl Levin and Howard P. "Buck" McKeon National Defense Authorization Act for Fiscal Year 2015 (Pub. L. 113–291), set out above, to reflect the probable intent of Congress.]
 
 [Pub. L. 116–283, div. A, title X, §1081(c), Jan. 1, 2021, 134 Stat. 3873, provided that the amendment made by section 1081(c)(3) of Pub. L. 116–283 to section 821 (probably should be 822) of Pub. L. 116–92, which amended section 841 of Pub. L. 113–291, set out above, is effective as of Dec. 20, 2020 (probably should be Dec. 20, 2019), and as if included in Pub. L. 116–92.]
-
-[<sup>1</sup> See Codification note below.](#I_1)

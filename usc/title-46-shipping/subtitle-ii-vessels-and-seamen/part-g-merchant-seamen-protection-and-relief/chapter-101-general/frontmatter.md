@@ -10,9 +10,13 @@ Sec.
 
 10104. Requirement to report sexual offenses.
 
+10105. Reports to Congress.
+
 #### **Editorial Notes** ####
 
 #### Amendments ####
+
+**2022**—Pub. L. 117–263, div. K, title CXVI, §11611(b), Dec. 23, 2022, 136 Stat. 4156, added item 10105.
 
 **1993**—Pub. L. 103–206, title IV, §422(c)(2), Dec. 20, 1993, 107 Stat. 2439, struck out item 10102 "Designations and duties of shipping commissioners".
 

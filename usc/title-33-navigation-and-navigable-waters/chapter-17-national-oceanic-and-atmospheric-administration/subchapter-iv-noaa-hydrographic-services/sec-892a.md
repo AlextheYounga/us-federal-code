@@ -22,11 +22,11 @@ To fulfill the data gathering and dissemination duties of the Administration und
 
 #### (b) Authorities ####
 
-To fulfill the data gathering and dissemination duties of the Administration under the Coast and Geodetic Survey Act, promote safe, efficient, and environmentally sound marine transportation, and otherwise fulfill the purposes of this subchapter, subject to the availability of appropriations, the Administrator—
+To fulfill the data gathering and dissemination duties of the Administration under the Coast and Geodetic Survey Act, promote precision navigation, safe, efficient, and environmentally sound marine transportation, and otherwise fulfill the purposes of this subchapter, subject to the availability of appropriations, the Administrator—
 
 (1) may procure, lease, evaluate, test, develop, and operate vessels, equipment, and technologies necessary to ensure safe navigation and maintain operational expertise in hydrographic data acquisition and hydrographic services;
 
-(2) shall, subject to the availability of appropriations, design, install, maintain, and operate real-time hydrographic monitoring systems to enhance navigation safety and efficiency; and <sup><a href="#892a_1_target" name="892a_1">1</a></sup>
+(2) shall, subject to the availability of appropriations, design, install, maintain, and operate real-time hydrographic monitoring systems and hydrodynamic forecast models to enhance navigation safety and efficiency and provide foundational information and services required to support coastal resilience planning for coastal transportation and other infrastructure, coastal protection and restoration projects, and related activities;
 
 (3) where appropriate and to the extent that it does not detract from the promotion of safe and efficient navigation, may acquire hydrographic data and provide hydrographic services to support the conservation and management of coastal and ocean resources;
 
@@ -34,13 +34,13 @@ To fulfill the data gathering and dissemination duties of the Administration und
 
 (5) may create, support, and maintain such joint centers with other Federal agencies and other entities as the Administrator deems appropriate or necessary to carry out the purposes of this subchapter; and
 
-(6) notwithstanding the existence of such joint centers, shall award contracts for the acquisition of hydrographic data in accordance with subchapter VI of chapter 10 of title 40.<sup><a href="#892a_2_target" name="892a_2">2</a></sup>
+(6) notwithstanding the existence of such joint centers, shall award contracts for the acquisition of hydrographic data in accordance with subchapter VI of chapter 10 of title 40.<sup><a href="#892a_1_target" name="892a_1">1</a></sup>
 
 #### (c) Conservation and management of coastal and ocean resources ####
 
 Where appropriate and to the extent that it does not detract from the promotion of safe and efficient navigation, the Secretary may use hydrographic data and services to support the conservation and management of coastal and ocean resources.
 
-(Pub. L. 105–384, title III, §303, Nov. 13, 1998, 112 Stat. 3454; Pub. L. 107–372, title I, §103, Dec. 19, 2002, 116 Stat. 3079; Pub. L. 110–386, §3, Oct. 10, 2008, 122 Stat. 4107.)
+(Pub. L. 105–384, title III, §303, Nov. 13, 1998, 112 Stat. 3454; Pub. L. 107–372, title I, §103, Dec. 19, 2002, 116 Stat. 3079; Pub. L. 110–386, §3, Oct. 10, 2008, 122 Stat. 4107; Pub. L. 117–263, div. J, title CIII, §10308(b), Dec. 23, 2022, 136 Stat. 3980.)
 
 #### **Editorial Notes** ####
 
@@ -51,6 +51,10 @@ This subchapter, referred to in subsecs. (a) and (b), was in the original "this 
 Subchapter VI of chapter 10 of title 40, referred to in subsec. (b)(6), probably means title IX of the Federal Property and Administrative Services Act of 1949, act June 30, 1949, ch. 288, as added Pub. L. 92–582, Oct. 27, 1972, 86 Stat. 1278. Title IX of the Act, which was classified generally to subchapter VI (§541 et seq.) of chapter 10 of former Title 40, Public Buildings, Property, and Works, was repealed and reenacted by Pub. L. 107–217, §§1, 6(b), Aug. 21, 2002, 116 Stat. 1062, 1304, as chapter 11 (§1101 et seq.) of Title 40, Public Buildings, Property, and Works. For disposition of sections of former Title 40 to revised Title 40, see Table preceding section 101 of Title 40. For complete classification of act June 30, 1949, to the Code, see Tables.
 
 #### Amendments ####
+
+**2022**—Subsec. (b). Pub. L. 117–263, §10308(b)(1), inserted "precision navigation," after "promote" in introductory provisions.
+
+Subsec. (b)(2). Pub. L. 117–263, §10308(b)(2), inserted "and hydrodynamic forecast models" after "monitoring systems" and "and provide foundational information and services required to support coastal resilience planning for coastal transportation and other infrastructure, coastal protection and restoration projects, and related activities" after "efficiency" and struck out "and" after semicolon at end.
 
 **2008**—Subsec. (a). Pub. L. 110–386, §3(1), substituted "the Coast and Geodetic Survey Act, promote safe, efficient and environmentally sound marine transportation, and otherwise fulfill the purposes of this subchapter," for "the Act of 1947," in introductory provisions.
 
@@ -94,6 +98,4 @@ Pub. L. 106–541, title V, §554, Dec. 11, 2000, 114 Stat. 2679, provided that:
 
 "(2) to require the Administrator to provide the final charts with respect to the project to the Secretary in digital format, at no charge, for the purpose of enhancing the mission of the Corps of Engineers of maintaining Federal navigation projects."
 
-[<sup>1</sup> So in original. The word "and" probably should not appear.](#892a_1)
-
-[<sup>2</sup> See References in Text note below.](#892a_2)
+[<sup>1</sup> See References in Text note below.](#892a_1)

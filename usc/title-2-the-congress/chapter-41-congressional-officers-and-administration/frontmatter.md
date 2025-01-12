@@ -26,6 +26,8 @@ Sec.
 
 4111. Annual report by Comptroller General of the United States on cybersecurity and surveillance threats to Congress.
 
+4112. Requirement for information sharing agreements.
+
 #### SUBCHAPTER II—ATTENDING PHYSICIAN ####
 
 4121. Monies received by Attending Physician from sale of prescription drugs or other sources; deposit of receipts.

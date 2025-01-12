@@ -124,6 +124,10 @@ Sec.
 
 1831bb. Capital requirements for certain acquisition, development, or construction loans.
 
+1831cc. Data standards.
+
+1831dd. Open data publication.
+
 1832. Withdrawals by negotiable or transferable instruments for transfers to third parties.
 
 1833. Repealed.

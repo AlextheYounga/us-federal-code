@@ -96,6 +96,14 @@ The Commission shall grant the registration of a municipal securities dealer or 
 
 (7) <sup><a href="#78o-4_2_target" name="78o-4_2">2</a></sup> Nothing in this section shall be construed to impair or limit the power of the Commission under this chapter.
 
+(8)(A) The Commission shall adopt data standards for information submitted to the Board.
+
+(B) Any data standards adopted under subparagraph (A) shall incorporate, and ensure compatibility with (to the extent feasible), all applicable data standards established in the rules promulgated under section 5334 of title 12, including, to the extent practicable, by having the characteristics described in clauses (i) through (vi) of subsection (c)(1)(B) of such section 5334.
+
+(C) The Commission shall consult market participants in establishing data standards under subparagraph (A).
+
+(D) Nothing in this paragraph may be construed to affect the operation of paragraph (1) or (2) of subsection (d).
+
 #### (c) Discipline of municipal securities dealers; censure; suspension or revocation of registration; other sanctions; investigations ####
 
 (1) No broker, dealer, or municipal securities dealer shall make use of the mails or any means or instrumentality of interstate commerce to effect any transaction in, or to induce or attempt to induce the purchase or sale of, any municipal security, and no broker, dealer, municipal securities dealer, or municipal advisor shall make use of the mails or any means or instrumentality of interstate commerce to provide advice to or on behalf of a municipal entity or obligated person with respect to municipal financial products, the issuance of municipal securities, or to undertake a solicitation of a municipal entity or obligated person, in contravention of any rule of the Board. A municipal advisor and any person associated with such municipal advisor shall be deemed to have a fiduciary duty to any municipal entity for whom such municipal advisor acts as a municipal advisor, and no municipal advisor may engage in any act, practice, or course of business which is not consistent with a municipal advisor's fiduciary duty or that is in contravention of any rule of the Board.
@@ -182,7 +190,7 @@ For purposes of this section—
 
 (10) the term "obligated person" means any person, including an issuer of municipal securities, who is either generally or through an enterprise, fund, or account of such person, committed by contract or other arrangement to support the payment of all or part of the obligations on the municipal securities to be sold in an offering of municipal securities.
 
-(June 6, 1934, ch. 404, title I, §15B, as added Pub. L. 94–29, §13, June 4, 1975, 89 Stat. 131; amended Pub. L. 98–38, §4, June 6, 1983, 97 Stat. 207; Pub. L. 100–181, title III, §§318–320, Dec. 4, 1987, 101 Stat. 1256, 1257; Pub. L. 101–429, title II, §205, Oct. 15, 1990, 104 Stat. 941; Pub. L. 101–550, title II, §203(c)(1), Nov. 15, 1990, 104 Stat. 2718; Pub. L. 105–353, title III, §301(b)(9), Nov. 3, 1998, 112 Stat. 3236; Pub. L. 107–204, title VI, §604(c)(1)(B), July 30, 2002, 116 Stat. 796; Pub. L. 111–203, title IX, §§925(a)(2), 929F(a), 975(a)–(e), July 21, 2010, 124 Stat. 1850, 1853, 1915–1921.)
+(June 6, 1934, ch. 404, title I, §15B, as added Pub. L. 94–29, §13, June 4, 1975, 89 Stat. 131; amended Pub. L. 98–38, §4, June 6, 1983, 97 Stat. 207; Pub. L. 100–181, title III, §§318–320, Dec. 4, 1987, 101 Stat. 1256, 1257; Pub. L. 101–429, title II, §205, Oct. 15, 1990, 104 Stat. 941; Pub. L. 101–550, title II, §203(c)(1), Nov. 15, 1990, 104 Stat. 2718; Pub. L. 105–353, title III, §301(b)(9), Nov. 3, 1998, 112 Stat. 3236; Pub. L. 107–204, title VI, §604(c)(1)(B), July 30, 2002, 116 Stat. 796; Pub. L. 111–203, title IX, §§925(a)(2), 929F(a), 975(a)–(e), July 21, 2010, 124 Stat. 1850, 1853, 1915–1921; Pub. L. 117–263, div. E, title LVIII, §5823(a), Dec. 23, 2022, 136 Stat. 3427.)
 
 #### **Editorial Notes** ####
 
@@ -197,6 +205,8 @@ The Investment Advisers Act of 1940, referred to in subsec. (e)(4)(C), is title 
 The Commodity Exchange Act, referred to in subsec. (e)(4)(C), is act Sept. 21, 1922, ch. 369, 42 Stat. 998, which is classified generally to chapter 1 (§1 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see section 1 of Title 7 and Tables.
 
 #### Amendments ####
+
+**2022**—Subsec. (b)(8). Pub. L. 117–263 added par. (8).
 
 **2010**—Subsec. (a)(1). Pub. L. 111–203, §975(a)(1), designated existing provisions as subpar. (A) and added subpar. (B).
 
@@ -294,9 +304,25 @@ Amendment by Pub. L. 101–429 effective Oct. 15, 1990, with provisions relating
 
 Section effective June 4, 1975, except for subsec. (a) which is effective 180 days after June 4, 1975, see section 31(a) of Pub. L. 94–29, set out as a note under section 78b of this title.
 
+#### Rulemaking ####
+
+Pub. L. 117–263, div. E, title LVIII, §5823(b), Dec. 23, 2022, 136 Stat. 3428, provided that:
+
+"(1) In general.—Not later than 2 years after the date on which final rules are promulgated under section 124(b)(2) of the Financial Stability Act of 2010 [12 U.S.C. 5334(b)(2)], as added by section 5811(a) of this title, the Securities and Exchange Commission shall issue rules to adopt the data standards required under paragraph (8) of section 15B(b) of the Securities Exchange Act of 1934 (15 U.S.C. 78o–4(b)), as added by subsection (a) of this section.
+
+"(2) Scaling of regulatory requirements; minimizing disruption.—In issuing the rules described in paragraph (1) that adopt the data standards described in that paragraph, the Securities and Exchange Commission—
+
+"(A) may scale those data standards in order to reduce any unjustified burden on smaller regulated entities; and
+
+"(B) shall seek to minimize disruptive changes to the persons affected by those rules."
+
+#### Rule of Construction—No New Disclosure Requirements ####
+
+Amendment by Pub. L. 117–263 not to be construed to require certain additional information to be collected or disclosed, see section 5826 of Pub. L. 117–263, set out as a note under section 77g of this title.
+
 [<sup>1</sup> So in original.](#78o-4_1)
 
-[<sup>2</sup> So in original. Probably should be "(6)".](#78o-4_2)
+[<sup>2</sup> So in original. No par. (6) has been enacted.](#78o-4_2)
 
 [<sup>3</sup> So in original. Person probably should be plural.](#78o-4_3)
 

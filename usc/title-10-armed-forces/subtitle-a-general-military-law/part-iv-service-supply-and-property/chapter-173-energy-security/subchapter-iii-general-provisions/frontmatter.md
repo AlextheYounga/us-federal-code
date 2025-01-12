@@ -4,15 +4,19 @@ Sec.
 
 2924. Definitions.
 
-2925. Annual Department of Defense energy management reports.
+2925. Annual report on energy performance, resilience, and readiness of Department of Defense.
 
 2926. Operational energy.
 
 2927. Global bulk fuel management and delivery.
 
+2928. Programs on reduction of fuel reliance and promotion of energy-aware behaviors.
+
 #### **Editorial Notes** ####
 
 #### Amendments ####
+
+**2022**—Pub. L. 117–263, div. A, title III, §§314(b)(2), 319(a), Dec. 23, 2022, 136 Stat. 2505, 2507, added items 2925 and 2928 and struck out former item 2925 "Annual Department of Defense energy management reports".
 
 **2021**—Pub. L. 117–81, div. A, title III, §352(a)(2), Dec. 27, 2021, 135 Stat. 1654, added item 2927.
 

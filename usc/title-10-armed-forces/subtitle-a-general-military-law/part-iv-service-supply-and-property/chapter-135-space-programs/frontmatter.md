@@ -14,6 +14,8 @@ Sec.
 
 2275. Reports on integration of acquisition and capability delivery schedules for segments of major satellite acquisition programs and funding for such programs.
 
+2275a. Requirements for protection of satellites.
+
 2276. Commercial space launch cooperation.
 
 2277. Disclosure of National Security Space Launch program contract pricing terms.
@@ -33,6 +35,8 @@ Sec.
 #### **Editorial Notes** ####
 
 #### Amendments ####
+
+**2022**—Pub. L. 117–263, div. A, title XVI, §1601, Dec. 23, 2022, 136 Stat. 2929, added item 2275a.
 
 **2021**—Pub. L. 117–81, div. A, title XVI, §1601(a)(2), Dec. 27, 2021, 135 Stat. 2073, added item 2277.
 

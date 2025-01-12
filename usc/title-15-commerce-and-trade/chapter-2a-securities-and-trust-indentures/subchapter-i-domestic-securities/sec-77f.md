@@ -157,6 +157,8 @@ Pub. L. 101–162, title V, Nov. 21, 1989, 103 Stat. 1022.
 
 #### Adjustment of Registration Fee Rate ####
 
+By order dated Aug. 25, 2022, the Securities and Exchange Commission adjusted the fee rates applicable under subsec. (b) of this section to $110.20 per $1,000,000, effective Oct. 1, 2022, see 87 F.R. 53030.
+
 By order dated Aug. 23, 2021, the Securities and Exchange Commission adjusted the fee rates applicable under subsec. (b) of this section to $92.70 per $1,000,000, effective Oct. 1, 2021, see 86 F.R. 47696.
 
 By order dated Aug. 26, 2020, the Securities and Exchange Commission adjusted the fee rates applicable under subsec. (b) of this section to $109.10 per $1,000,000, effective Oct. 1, 2020, see 85 F.R. 53890.

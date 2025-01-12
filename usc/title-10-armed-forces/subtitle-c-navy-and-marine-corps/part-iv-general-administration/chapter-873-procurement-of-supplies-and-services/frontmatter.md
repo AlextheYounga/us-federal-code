@@ -10,13 +10,9 @@ Sec.
 
 8754. Marine mammals: use for national defense purposes.
 
-8755. Disclosures for offerors for certain shipbuilding major defense acquisition program contracts. 1
+8755. Disclosures for offerors for certain shipbuilding major defense acquisition program contracts.
 
 #### **Editorial Notes** ####
-
-#### Codification ####
-
-Item 8755 was added to this analysis by section 1701(e)(1)(B) of Pub. L. 117–81 in conjunction with the transfer of section 2339c of this title to section 8755. However, the transfer was not executed in light of the repeal of section 2339c, which took effect just prior to the transfer. See Codification note under section 8755 of this title.
 
 #### Prior Provisions ####
 
@@ -24,7 +20,7 @@ A prior chapter 873, consisting of sections 9021 to 9027, related to civilian em
 
 #### Amendments ####
 
-**2021**—Pub. L. 117–81, div. A, title XVII, §1701(e)(1)(B), Dec. 27, 2021, 135 Stat. 2138, added item 8755. See Codification note above.
+**2021**—Pub. L. 117–81, div. A, title XVII, §1701(e)(1)(B), Dec. 27, 2021, 135 Stat. 2138, added item 8755.
 
 Pub. L. 116–283, div. A, title XVIII, §1878(b), Jan. 1, 2021, 134 Stat. 4292, added item 8751.
 
@@ -33,5 +29,3 @@ Pub. L. 116–283, div. A, title XVIII, §1878(b), Jan. 1, 2021, 134 Stat. 4292,
 **1994**—Pub. L. 103–355, title II, §2001(j)(3)(C), Oct. 13, 1994, 108 Stat. 3303, struck out item 7521 "Progress payment for work done; lien based on payment".
 
 **1986**—Pub. L. 99–661, div. A, title XIII, §1354(b), Nov. 14, 1986, 100 Stat. 3996, added item 7524.
-
-[<sup>1</sup> See Codification note below.](#CHAPTER873_1)

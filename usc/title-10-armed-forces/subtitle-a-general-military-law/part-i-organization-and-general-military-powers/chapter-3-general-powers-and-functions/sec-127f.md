@@ -10,7 +10,15 @@
 
 (2) In this subsection, the terms "intelligence" and "counterintelligence" have the meaning given those terms in section 3 of the National Security Act of 1947 (50 U.S.C. 3003).
 
-(e) Annual Report.—Not later than December 31 each year, the Secretary of Defense shall submit to the congressional defense committees a report on expenditures made under this section during the fiscal year preceding the year in which the report is submitted. Each report shall include, for each expenditure under this section during the fiscal year covered by such report—
+(e) Quarterly Briefing.—On a quarterly basis, the Assistant Secretary of Defense for Special Operations and Low Intensity Conflict, in coordination with elements of the Department of Defense that the Assistant Secretary determines appropriate, shall provide to the congressional defense committees a briefing outlining the clandestine activities carried out pursuant to subsection (a) during the period covered by the briefing, including—
+
+(1) an update on such activities carried out in each geographic combatant command and a description of how such activities support the respective theater campaign plan;
+
+(2) an overview of the authorities and legal issues, including limitations, relating to such activities; and
+
+(3) any other matters the Assistant Secretary considers appropriate.
+
+(f) Annual Report.—Not later than December 31 each year, the Secretary of Defense shall submit to the congressional defense committees a report on expenditures made under this section during the fiscal year preceding the year in which the report is submitted. Each report shall include, for each expenditure under this section during the fiscal year covered by such report—
 
 (1) the amount and date of such expenditure;
 
@@ -20,12 +28,14 @@
 
 (4) any other matters the Secretary considers appropriate.
 
-(f) Non-Conventional Assisted Recovery Capabilities.—Funding used to establish, develop, and maintain non-conventional assisted recovery capabilities under this section may only be obligated and expended with the concurrence of the relevant Chief of Mission or Chiefs of Mission.
+(g) Non-Conventional Assisted Recovery Capabilities.—Funding used to establish, develop, and maintain non-conventional assisted recovery capabilities under this section may only be obligated and expended with the concurrence of the relevant Chief of Mission or Chiefs of Mission.
 
-(Added Pub. L. 116–283, div. A, title X, §1052(a), Jan. 1, 2021, 134 Stat. 3849; amended Pub. L. 117–81, div. A, title X, §1093(b), Dec. 27, 2021, 135 Stat. 1935.)
+(Added Pub. L. 116–283, div. A, title X, §1052(a), Jan. 1, 2021, 134 Stat. 3849; amended Pub. L. 117–81, div. A, title X, §1093(b), Dec. 27, 2021, 135 Stat. 1935; Pub. L. 117–263, div. A, title XVI, §1621, Dec. 23, 2022, 136 Stat. 2933.)
 
 #### **Editorial Notes** ####
 
 #### Amendments ####
+
+**2022**—Subsecs. (e) to (g). Pub. L. 117–263 added subsec. (e) and redesignated former subsecs. (e) and (f) as (f) and (g), respectively.
 
 **2021**—Subsec. (f). Pub. L. 117–81 added subsec. (f).

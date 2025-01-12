@@ -56,18 +56,32 @@ Each briefing conducted under paragraph (1) shall include—
 
 (B) information on outreach and engagement efforts, including the activities described in subsection (b)(1)(E);
 
-(C) information on new curricula offerings and teacher training platforms; and
+(C) information on any grants or cooperative agreements made pursuant to subsection (e), including how any such grants or cooperative agreements are being used to enhance cybersecurity education for underserved populations or communities;
 
-(D) information on coordination with post-secondary education and workforce development programs at the Department.
+(D) information on new curricula offerings and teacher training platforms; and
+
+(E) information on coordination with post-secondary education and workforce development programs at the Department.
 
 #### (d) Mission promotion ####
 
 The Director may use appropriated amounts to purchase promotional and recognition items and marketing and advertising services to publicize and promote the mission and services of the Agency, support the activities of the Agency, and to recruit and retain Agency personnel.
 
-(Pub. L. 107–296, title XXII, §2220, formerly §2217, as added Pub. L. 116–283, div. A, title XVII, §1719(c), Jan. 1, 2021, 134 Stat. 4106; renumbered §2220 and amended Pub. L. 117–81, div. A, title XV, §1547(b)(1)(A)(vii), Dec. 27, 2021, 135 Stat. 2061.)
+#### (e) Grants and cooperative agreements ####
+
+The Director may award financial assistance in the form of grants or cooperative agreements to States, local governments, institutions of higher education (as such term is defined in section 1001 of title 20), nonprofit organizations, and other non-Federal entities as determined appropriate by the Director for the purpose of funding cybersecurity and infrastructure security education and training programs and initiatives to—
+
+(1) carry out the purposes of CETAP; and
+
+(2) enhance CETAP to address the national shortfall of cybersecurity professionals.
+
+(Pub. L. 107–296, title XXII, §2220, formerly §2217, as added Pub. L. 116–283, div. A, title XVII, §1719(c), Jan. 1, 2021, 134 Stat. 4106; renumbered §2220 and amended Pub. L. 117–81, div. A, title XV, §1547(b)(1)(A)(vii), Dec. 27, 2021, 135 Stat. 2061; Pub. L. 117–263, div. G, title LXXI, §7104, Dec. 23, 2022, 136 Stat. 3622.)
 
 #### **Editorial Notes** ####
 
 #### Amendments ####
+
+**2022**—Subsec. (c)(2)(C) to (E). Pub. L. 117–263, §7104(b), added subpar. (C) and redesignated former subpars. (C) and (D) as (D) and (E), respectively.
+
+Subsec. (e). Pub. L. 117–263, §7104(a), added subsec. (e).
 
 **2021**—Pub. L. 117–81 reenacted section catchline.

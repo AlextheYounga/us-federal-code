@@ -1,14 +1,16 @@
 ### §526a. Authorized strength after December 31, 2022: general officers and flag officers on active duty ###
 
-(a) Limitations.—The number of general officers on active duty in the Army, Air Force, and Marine Corps, and the number of flag officers on active duty in the Navy, after December 31, 2022, may not exceed the number specified for the armed force concerned as follows:
+(a) Limitations.—The number of general officers on active duty in the Army, Air Force, Marine Corps, and Space Force, and the number of flag officers on active duty in the Navy, after December 31, 2022, may not exceed the number specified for the armed force concerned as follows:
 
-(1) For the Army, 220.
+(1) For the Army, 218.
 
-(2) For the Navy, 151.
+(2) For the Navy, 149.
 
-(3) For the Air Force, 187.
+(3) For the Air Force, 170.
 
 (4) For the Marine Corps, 62.
+
+(5) For the Space Force, 21.
 
 (b) Limited Exclusion for Joint Duty Requirements.—
 
@@ -23,6 +25,8 @@
 (C) For the Air Force, 68.
 
 (D) For the Marine Corps, 17.
+
+(E) For the Space Force, 6.
 
 (c) Exclusion of Certain Officers of Reserve Components.—The limitations of this section do not apply to the following:
 
@@ -94,16 +98,34 @@
 
 (B) each offsetting reduction under paragraph (2), specifying the armed force and billet so reduced.
 
-(Added Pub. L. 114–328, div. A, title V, §501(h)(1), Dec. 23, 2016, 130 Stat. 2100; amended Pub. L. 116–283, div. A, title V, §501(a), Jan. 1, 2021, 134 Stat. 3562; Pub. L. 117–81, div. A, title V, §501(b), Dec. 27, 2021, 135 Stat. 1679.)
+(Added Pub. L. 114–328, div. A, title V, §501(h)(1), Dec. 23, 2016, 130 Stat. 2100; amended Pub. L. 116–283, div. A, title V, §501(a), Jan. 1, 2021, 134 Stat. 3562; Pub. L. 117–81, div. A, title V, §501(b), Dec. 27, 2021, 135 Stat. 1679; Pub. L. 117–263, div. A, title V, §504, Dec. 23, 2022, 136 Stat. 2558.)
 
 #### **Editorial Notes** ####
 
 #### Amendments ####
+
+**2022**—Subsec. (a). Pub. L. 117–263, §504(1)(A), substituted "Marine Corps, and Space Force" for "and Marine Corps" in introductory provisions.
+
+Subsec. (a)(1). Pub. L. 117–263, §504(1)(B), substituted "218" for "220".
+
+Subsec. (a)(2). Pub. L. 117–263, §504(1)(C), substituted "149" for "151".
+
+Subsec. (a)(3). Pub. L. 117–263, §504(1)(D), substituted "170" for "187".
+
+Subsec. (a)(5). Pub. L. 117–263, §504(1)(E), added par. (5).
+
+Subsec. (b)(2)(E). Pub. L. 117–263, §504(2), added subpar. (E).
 
 **2021**—Subsecs. (c) to (h). Pub. L. 116–283, §501(a), added subsec. (c) and redesignated former subsecs. (c) to (g) as (d) to (h), respectively. Former subsec. (h) redesignated (i).
 
 Subsec. (i). Pub. L. 117–81 added subsec. (i) relating to transfer of authorizations among military services.
 
 Pub. L. 116–283, §501(a)(1), redesignated subsec. (h) as (i) relating to annual report.
+
+#### **Statutory Notes and Related Subsidiaries** ####
+
+#### Exclusion of Officers Serving as Lead Special Trial Counsel From Limitations on Authorized Strengths for General and Flag Officers ####
+
+Pub. L. 117–263, div. A, title V, §506, Dec. 23, 2022, 136 Stat. 2558, provided that: "During the two-year period beginning on the date of the enactment of this Act [Dec. 23, 2022], the limitations in section 526a(a) of title 10, United States Code, as amended by section 504, shall not apply to a general or flag officer serving in the position of lead special trial counsel pursuant to an appointment under section 1044f(a)(2) of such title."
 
 [<sup>1</sup> So in original. Two subsecs. (i) have been enacted.](#526a_1)

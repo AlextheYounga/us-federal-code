@@ -2,19 +2,21 @@
 
 #### (a) Funds appropriated for acquisitions; proposed stockpile transactions; significant changes therein ####
 
-(1) Except for acquisitions made under the authority of paragraph (3) or (4) of section 98e(a) of this title, no funds may be obligated or appropriated for acquisition of any material under this subchapter unless funds for such acquisition have been authorized by law. Funds appropriated for such acquisition (and for transportation and other incidental expenses related to such acquisition) shall remain available until expended, unless otherwise provided in appropriation Acts.
+(1) Except for acquisitions made under the authority of paragraph (3) of this section <sup><a href="#98d_1_target" name="98d_1">1</a></sup> or under the authority of paragraph (3) or (4) of section 98e(a) of this title, no funds may be obligated or appropriated for acquisition of any material under this subchapter unless funds for such acquisition have been authorized by law. Funds appropriated for any acquisition of materials under this subchapter (and for transportation and other incidental expenses related to such acquisition) shall remain available until expended, unless otherwise provided in appropriation Acts.
 
-(2) If for any fiscal year the President proposes certain stockpile transactions in the annual materials plan submitted to Congress for that year under section 98h–2(b) of this title and after that plan is submitted the President proposes (or Congress requires) a significant change in any such transaction, or a significant transaction not included in such plan, no amount may be obligated or expended for such transaction during such year until the President has submitted a full statement of the proposed transaction to the appropriate committees of Congress and a period of 45 days has passed from the date of the receipt of such statement by such committees.
+(2) If for any fiscal year the President proposes (or Congress requires) a significant change in any stockpile transactions proposed in the Annual Materials and Operations Plan for such fiscal year after the Board submits the report under section 98h–2(b)(2) of this title containing such plan, or a significant transaction not included in such plan, no amount may be obligated or expended for such transaction during such year until the President has submitted a full statement of the proposed transaction to the appropriate committees of Congress and a period of 45 days has passed from the date of the receipt of such statement by such committees.
+
+(3) Using funds appropriated for acquisition of materials under this subchapter, the National Defense Stockpile Manager may acquire materials determined to be strategic and critical under section 98b(a) of this title without regard to the requirement of the first sentence of paragraph (1) if the Stockpile Manager determines there is a shortfall of such materials in the stockpile.
 
 #### (b) Disposal ####
 
-Except for disposals made under the authority of paragraph (3), (4), or (5) <sup><a href="#98d_1_target" name="98d_1">1</a></sup> of section 98e(a) of this title or under section 98f(a) of this title, no disposal may be made from the stockpile unless such disposal, including the quantity of the material to be disposed of, has been specifically authorized by law.
+Except for disposals made under the authority of paragraph (3), (4), or (5) <sup><a href="#98d_2_target" name="98d_2">2</a></sup> of section 98e(a) of this title or under section 98f(a) of this title, no disposal may be made from the stockpile unless such disposal, including the quantity of the material to be disposed of, has been specifically authorized by law.
 
 #### (c) Authorization of appropriations ####
 
-There is authorized to be appropriated such sums as may be necessary to provide for the transportation, processing, refining, storage, security, maintenance, rotation, and disposal of materials contained in or acquired for the stockpile. Funds appropriated for such purposes shall remain available to carry out the purposes for which appropriated for a period of two fiscal years, if so provided in appropriation Acts.
+There is authorized to be appropriated such sums as may be necessary to provide for the transportation, processing, refining, storage, security, maintenance, rotation, and disposal of materials contained in or acquired for the stockpile. Funds appropriated for such purposes shall remain available until expended, unless otherwise provided in appropriations Acts.
 
-(June 7, 1939, ch. 190, §5, as added Pub. L. 96–41, §2(a), July 30, 1979, 93 Stat. 321; amended Pub. L. 97–35, title II, §203(a), (b), Aug. 13, 1981, 95 Stat. 381, 382; Pub. L. 98–525, title IX, §903, Oct. 19, 1984, 98 Stat. 2573; Pub. L. 99–661, div. C, title II, §3207(a)(2), Nov. 14, 1986, 100 Stat. 4069; Pub. L. 100–180, div. C, title II, §3206(a), Dec. 4, 1987, 101 Stat. 1247; Pub. L. 102–484, div. C, title XXXIII, §3312, Oct. 23, 1992, 106 Stat. 2653; Pub. L. 103–160, div. C, title XXXIII, §3312, Nov. 30, 1993, 107 Stat. 1962.)
+(June 7, 1939, ch. 190, §5, as added Pub. L. 96–41, §2(a), July 30, 1979, 93 Stat. 321; amended Pub. L. 97–35, title II, §203(a), (b), Aug. 13, 1981, 95 Stat. 381, 382; Pub. L. 98–525, title IX, §903, Oct. 19, 1984, 98 Stat. 2573; Pub. L. 99–661, div. C, title II, §3207(a)(2), Nov. 14, 1986, 100 Stat. 4069; Pub. L. 100–180, div. C, title II, §3206(a), Dec. 4, 1987, 101 Stat. 1247; Pub. L. 102–484, div. C, title XXXIII, §3312, Oct. 23, 1992, 106 Stat. 2653; Pub. L. 103–160, div. C, title XXXIII, §3312, Nov. 30, 1993, 107 Stat. 1962; Pub. L. 117–263, div. A, title XIV, §§1411(d)(1)(A), 1412(a), Dec. 23, 2022, 136 Stat. 2871, 2872.)
 
 #### **Editorial Notes** ####
 
@@ -29,6 +31,14 @@ A prior section 98d, acts June 7, 1939, ch. 190, §5, 53 Stat. 812; July 23, 194
 Provisions similar to those in this section were contained in former sections 98b and 98g of this title prior to repeal by Pub. L. 96–41.
 
 #### Amendments ####
+
+**2022**—Subsec. (a)(1). Pub. L. 117–263, §1412(a)(1)(A), inserted "under the authority of paragraph (3) of this section or" after "Except for acquisitions made" and substituted "appropriated for any acquisition of materials under this subchapter" for "appropriated for such acquisition".
+
+Subsec. (a)(2). Pub. L. 117–263, §1411(d)(1)(A), struck out "certain stockpile transactions in the annual materials plan submitted to Congress for that year under section 98h–2(b) of this title and after that plan is submitted the President proposes" after "the President proposes" and substituted "any stockpile transactions proposed in the Annual Materials and Operations Plan for such fiscal year after the Board submits the report under section 98h–2(b)(2) of this title containing such plan" for "any such transaction".
+
+Subsec. (a)(3). Pub. L. 117–263, §1412(a)(1)(B), added par. (3).
+
+Subsec. (c). Pub. L. 117–263, §1412(a)(2), substituted "until expended, unless otherwise provided in appropriations Acts" for "to carry out the purposes for which appropriated for a period of two fiscal years, if so provided in appropriation Acts".
 
 **1993**—Subsec. (a)(2). Pub. L. 103–160 substituted "and a period of 45 days has passed from the date of the receipt of such statement by such committees." for "and a period of 30 days has passed from the date of the receipt of such statement by such committees. In computing any 30-day period for the purpose of the preceding sentence, there shall be excluded any day on which either House of Congress is not in session because of an adjournment of more than three days to a day certain."
 
@@ -55,6 +65,54 @@ Pub. L. 98–525, title IX, §903(b), Oct. 19, 1984, 98 Stat. 2573, as amended b
 #### Effective Date of 1981 Amendment ####
 
 Pub. L. 97–35, title II, §203(f), Aug. 13, 1981, 95 Stat. 382, provided that: "The amendments made by subsection (a) [amending this section] shall apply with respect to funds appropriated for fiscal years beginning after September 30, 1981."
+
+#### Department of Defense Readiness To Support Prolonged Conflict ####
+
+Pub. L. 117–263, div. A, title XIV, §1415, Dec. 23, 2022, 136 Stat. 2873, provided that:
+
+"(a) Studies Required.—
+
+"(1) In general.—For each report required by section 14(a) of the Strategic and Critical Materials Stock Piling Act (50 U.S.C. 98h–5(a)), the National Defense Stockpile Manager shall—
+
+"(A) conduct a study on the strategic materials required by the Department of Defense to sustain combat operations for not less than one year against the pacing threat identified in the National Defense Strategy; and
+
+"(B) not later than January 15, 2024, submit to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] a report on such study in a classified form with an unclassified summary.
+
+"(2) Energy storage and electronic components.—
+
+"(A) In general.—The Under Secretary of Defense for Acquisition and Sustainment shall conduct a study of the energy storage and electronic components necessary to sustain combat operations for not less than one year against the pacing threat identified in the National Defense Strategy.
+
+"(B) Report.—
+
+"(i) In general.—Not later than January 15, 2024, the Under Secretary of Defense for Acquisition and Sustainment shall submit to the congressional defense committees a report on the study required under subparagraph (A).
+
+"(ii) Form.—The report required by clause (i) shall be submitted in an unclassified form but may contain a classified annex.
+
+"(iii) Elements.—The report required by clause (i) shall include the following:
+
+ "(I) A description of the specific number and type of energy storage and electronic components that the Department of Defense requires for the manufacture of munitions, combat support items, and weapon systems to sustain combat operations.
+
+ "(II) A description of the specific number and type of energy storage and electronic components that the Department of Defense requires to replenish or replace munitions, combat support items, and weapon systems that are lost or expended during the execution and sustainment of the relevant operational plan.
+
+ "(III) A description of supply chain vulnerabilities during the sustainment and execution period, such as sole sources of supply, war damage, and shipping interdiction.
+
+ "(IV) A description of supply chain vulnerabilities prior to the sustainment and execution period and the replenishment and replacement period, such as reliance on sole sources of supply, geographic proximity to strategic competitors, and diminishing manufacturing sources.
+
+ "(V) An identification of alternative sources of supply for energy and electronics components that are domestic or are from allies or partners of the United States.
+
+ "(VI) An assessment of the technical and economic feasibility of the preparedness and response programs of the Department of Defense, such as the National Defense Stockpile, the Warstopper program, war reserves and pre-positioned stocks, contract options, or other methods to mitigate postulated shortfalls to Department of Defense requirements.
+
+ "(VII) Any other such elements deemed appropriate by the Under Secretary of Defense for Acquisition and Sustainment.
+
+"(C) Energy storage and electronic component defined.—In this paragraph, the term 'energy storage and electronic component' includes—
+
+"(i) an item that operates by controlling the flow of electrons or other electrically charged particles in circuits, using interconnections of electrical devices such as resistors, inductors, capacitors, diodes, switches, transistors, or integrated circuits; and
+
+"(ii) battery cells, battery modules, battery packs, and other related components related to batteries.
+
+"(b) Acquisition Priority.—Consistent with the authority in section 5 of the Strategic and Critical Materials Stock Piling Act (50 U.S.C. 98d) and subject to the availability of appropriations, the National Defense Stockpile Manager shall acquire the highest priority strategic and critical materials identified in the report submitted under subsection (a)(1).
+
+"(c) Strategic and Critical Materials Defined.—In this section, the term 'strategic and critical materials' has the meaning given such term in section 12 of the Strategic and Critical Materials Stock Piling Act (50 U.S.C. 98h–3)."
 
 #### Prohibition of Reductions in Stockpile Goals ####
 
@@ -152,4 +210,6 @@ Functions of President under this section delegated to Secretary of Defense by s
 
 Ex. Ord. No. 10539, eff. June 22, 1954, 19 F.R. 3827, designated the Federal Facilities Corporation to perform and exercise the functions formerly performed and exercised by the Reconstruction Finance Corporation under act June 28, 1947, set out as a note above. The Reconstruction Finance Corporation, which was created by the Reconstruction Finance Corporation Act, act Jan. 22, 1932, ch. 8, 47 Stat. 5, was subsequently abolished by section 6(a) of Reorg. Plan No. 1 of 1957, eff. June 30, 1957, 22 F.R. 4633, 71 Stat. 647, set out in the Appendix to Title 5, Government Organization and Employees. The Federal Facilities Corporation was, in turn, dissolved by Pub. L. 87–190, §6, Aug. 30, 1961, 75 Stat. 419, effective Sept. 30, 1961, formerly set out as a note under sections 1921 to 1929 of the former Appendix to this title.
 
-[<sup>1</sup> See References in Text note below.](#98d_1)
+[<sup>1</sup> So in original. Probably should be "subsection".](#98d_1)
+
+[<sup>2</sup> See References in Text note below.](#98d_2)

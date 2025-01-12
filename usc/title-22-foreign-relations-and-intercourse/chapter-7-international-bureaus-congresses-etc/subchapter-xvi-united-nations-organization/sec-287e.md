@@ -76,9 +76,7 @@ Pub. L. 106–113, div. B, §1000(a)(7) [div. A, title I, §106(g)], Nov. 29, 19
 
 #### Reduction in Appropriations for Contributions to International Organizations If Official Status, Accreditation, or Recognition Is Granted to Organization Seeking Legalization of Pedophilia ####
 
-Pub. L. 103–236, title I, §102(g), Apr. 30, 1994, 108 Stat. 389, as amended by Pub. L. 103–415, §1(o), Oct. 25, 1994, 108 Stat. 4301, provided that: "Notwithstanding any other provision of law, the funds authorized to be appropriated for the United Nations and its affiliated agencies in 'Contributions for International Organizations' shall be reduced in the amount of $118,875,000 for fiscal year 1995, and for each year thereafter, until the President certifies to the Speaker of the House of Representatives and the President of the Senate that no United Nations agency or United Nations affiliated agency grants any official status, accreditation, or recognition to any organization which promotes and condones or seeks the legalization of pedophilia, or which includes as a subsidiary or member any such organization."
-
-[Functions of President under section 102(g) of Pub. L. 103–236, set out above, delegated to Secretary of State by Memorandum of President of the United States, July 26, 1994, 59 F.R. 40205, set out as a note under section 2370a of this title.]
+Pub. L. 103–236, title I, §102(g), Apr. 30, 1994, 108 Stat. 389, as amended by Pub. L. 103–415, §1(o), Oct. 25, 1994, 108 Stat. 4301, which provided that funds authorized to be appropriated for the United Nations and its affiliated agencies were to be reduced in a certain amount for fiscal year 1995 and each year thereafter until the President certified to the Speaker of the House of Representatives and the President of the Senate that no United Nations agency or United Nations affiliated agency granted any official status, accreditation, or recognition to any organization seeking the legalization of pedophilia, was repealed by Pub. L. 117–263, div. I, title XCVII, §9716(d), Dec. 23, 2022, 136 Stat. 3921.
 
 #### Membership of Palestine Liberation Organization in United Nations Agencies ####
 

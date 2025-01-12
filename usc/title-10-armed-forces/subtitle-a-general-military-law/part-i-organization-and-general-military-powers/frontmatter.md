@@ -3,7 +3,7 @@ PART I—ORGANIZATION AND GENERAL MILITARY POWERS
 
 Chap. Sec.
 
-1. Definitions 101
+1. Definitions, Rules of Construction, Cross References, and Related Matters 101
 
 2. Department of Defense 111
 
@@ -50,6 +50,8 @@ Chap. Sec.
 #### **Editorial Notes** ####
 
 #### Amendments ####
+
+**2022**—Pub. L. 117–263, div. A, title X, §1081(e)(2), Dec. 23, 2022, 136 Stat. 2798, substituted "Definitions, Rules of Construction, Cross References, and Related Matters" for "Definitions" in item for chapter 1. Amendment was made pursuant to operation of section 102 of this title.
 
 **2021**—Pub. L. 117–81, div. A, title X, §1081(a)(1), Dec. 27, 2021, 135 Stat. 1919, struck out second item for chapter 19 "Cyber Matters".
 

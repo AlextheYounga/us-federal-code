@@ -78,6 +78,10 @@ Sec.
 
 952. Construction of Coast Guard vessels and assignment of vessel projects.
 
+953. Support for Coast Guard Academy.
+
+954. Mixed-funded athletic and recreational extracurricular programs.
+
 #### **Editorial Notes** ####
 
 #### Prior Provisions ####
@@ -85,5 +89,7 @@ Sec.
 A prior analysis for chapter 9 "COAST GUARD ACADEMY" consisted of items 181 "Administration of Academy", 181a "Cadet applicants; preappointment travel to Academy", 182 "Cadets; number, appointment, obligation to serve", 183 "Cadets; initial clothing allowance", 184 "Cadets; degree of bachelor of science", 185 "Cadets; appointment as ensign", 186 "Civilian teaching staff", 187 "Permanent commissioned teaching staff; composition", 188 "Appointment of permanent commissioned teaching staff", 189 "Grade of permanent commissioned teaching staff", 190 "Retirement of permanent commissioned teaching staff", 191 "Credit for service as member of civilian teaching staff", 192 "Assignment of personnel as instructors", 194 "Annual Board of Visitors", 195 "Admission of foreign nationals for instruction; restrictions; conditions", 196 "Participation in Federal, State, or other educational research grants", 197 "Cadets: charges and fees for attendance; limitation", 199 "Marine safety curriculum", and 200 "Policy on sexual harassment and sexual violence", prior to repeal by Pub. L. 115–282, title I, §107(a), Dec. 4, 2018, 132 Stat. 4204.
 
 #### Amendments ####
+
+**2022**—Pub. L. 117–263, div. K, title CXII, §11250(b), Dec. 23, 2022, 136 Stat. 4052, added items 953 and 954.
 
 Pub. L. 115–282, title I, §107(a), title III, §310(b), Dec. 4, 2018, 132 Stat. 4204, 4248, inserted chapter 9 designation and heading and added items 901 to 952.

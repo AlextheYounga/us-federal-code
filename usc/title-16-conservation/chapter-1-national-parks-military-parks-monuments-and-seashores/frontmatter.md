@@ -4823,3 +4823,15 @@ Sec.
 460ffff–4. Transfer of administrative jurisdiction.
 
 460ffff–5. Protection of services and recreational opportunities.
+
+#### SUBCHAPTER CXLIV—NUMU NEWE SPECIAL MANAGEMENT AREA ####
+
+460gggg. Numu Newe Special Management Area.
+
+#### SUBCHAPTER CXLV—NUMUNAA NOBE NATIONAL CONSERVATION AREA ####
+
+460hhhh. Numunaa Nobe National Conservation Area.
+
+#### SUBCHAPTER CXLVI—PISTONE-BLACK MOUNTAIN NATIONAL CONSERVATION AREA ####
+
+460iiii. Pistone-Black Mountain National Conservation Area.

@@ -44,7 +44,17 @@ If it appears to the Commission that a registered investment company has failed 
 
 Whenever the Commission, on its own motion or upon application, finds that a registered investment company has ceased to be an investment company, it shall so declare by order and upon the taking effect of such order the registration of such company shall cease to be in effect. If necessary for the protection of investors, an order under this subsection may be made upon appropriate conditions. The Commission's denial of any application under this subsection shall be by order.
 
-(Aug. 22, 1940, ch. 686, title I, §8, 54 Stat. 803; Pub. L. 86–507, §1(14), June 11, 1960, 74 Stat. 201; Pub. L. 91–547, §3(c), Dec. 14, 1970, 84 Stat. 1415.)
+#### (g) Data standards for registration statements ####
+
+#### (1) Requirement ####
+
+The Commission shall, by rule, adopt data standards for all registration statements required to be filed with the Commission under this section, except that the Commission may exempt exhibits, signatures, and certifications from those data standards.
+
+#### (2) Consistency ####
+
+The data standards required under paragraph (1) shall incorporate, and ensure compatibility with (to the extent feasible), all applicable data standards established in the rules promulgated under section 5334 of title 12, including, to the extent practicable, by having the characteristics described in clauses (i) through (vi) of subsection (c)(1)(B) of such section 5334.
+
+(Aug. 22, 1940, ch. 686, title I, §8, 54 Stat. 803; Pub. L. 86–507, §1(14), June 11, 1960, 74 Stat. 201; Pub. L. 91–547, §3(c), Dec. 14, 1970, 84 Stat. 1415; Pub. L. 117–263, div. E, title LVIII, §5821(b)(1), Dec. 23, 2022, 136 Stat. 3424.)
 
 #### **Editorial Notes** ####
 
@@ -58,6 +68,8 @@ Words "such Act", referred to in subsec. (c)(1), mean the Securities Act of 1933
 
 #### Amendments ####
 
+**2022**—Subsec. (g). Pub. L. 117–263 added subsec. (g).
+
 **1970**—Subsec. (b)(2). Pub. L. 91–547, §3(c)(1), substituted "all investment policies of the registrant" and "which are changeable only if authorized by shareholder vote" for "the policy of the registrant in respect of matters" and "which the registrant deems matters of fundamental policy and elects to treat as such", respectively. Former provisions are covered in par. (3).
 
 Subsec. (b)(3) to (5). Pub. L. 91–547, §3(c)(2), (3), added par. (3) and redesignated former pars. (3) and (4) as (4) and (5), respectively.
@@ -69,6 +81,10 @@ Subsec. (b)(3) to (5). Pub. L. 91–547, §3(c)(2), (3), added par. (3) and rede
 #### Effective Date of 1970 Amendment ####
 
 Amendment by Pub. L. 91–547 effective Dec. 14, 1970, see section 30 of Pub. L. 91–547, set out as a note under section 80a–52 of this title.
+
+#### Rule of Construction—No New Disclosure Requirements ####
+
+Amendment by Pub. L. 117–263 not to be construed to require certain additional information to be collected or disclosed, see section 5826 of Pub. L. 117–263, set out as a note under section 77g of this title.
 
 #### **Executive Documents** ####
 

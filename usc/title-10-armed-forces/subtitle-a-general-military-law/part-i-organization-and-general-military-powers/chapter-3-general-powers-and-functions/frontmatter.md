@@ -50,7 +50,7 @@ Sec.
 
 130. Authority to withhold from public disclosure certain technical data.
 
-[130a. Repealed.]
+130a. Department of Defense support for funerals and memorial events for Members and former Members of Congress.
 
 130b. Personnel in overseas, sensitive, or routinely deployable units: nondisclosure of personally identifying information.
 
@@ -73,6 +73,8 @@ Sec.
 #### **Editorial Notes** ####
 
 #### Amendments ####
+
+**2022**—Pub. L. 117–263, div. A, title X, §1042(b), Dec. 23, 2022, 136 Stat. 2770, added item 130a.
 
 **2021**—Pub. L. 116–283, div. A, title IX, §911(a)(2), title X, §1052(b), Jan. 1, 2021, 134 Stat. 3801, 3850, added items 125a and 127f.
 
