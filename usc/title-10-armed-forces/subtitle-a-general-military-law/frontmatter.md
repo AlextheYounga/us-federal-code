@@ -265,13 +265,21 @@ Chap. Sec.
 
 221. Planning and Solicitation Generally 3201
 
-223. Planning and Solicitation Relating to Particular Items or Services 3251
+222. Independent Cost Estimation and Cost Analysis 3221
+
+223. Other Provisions Relating to Planning and Solicitation Generally 3241
+
+225. Planning and Solicitation Relating to Particular Items or Services 3271
 
 #### subpart c—contracting methods and contract types ####
 
 241. Awarding of Contracts 3301
 
-243. Specific Types of Contracts 3351
+242. Specific Types of Contracts 3321
+
+243. Other Matters Relating to Awarding and Types of Contracts 4 3341
+
+244. Undefinitized Contractual Actions 3371
 
 245. Task and Delivery Order Contracts (Multiple Award Contracts) 3401
 
@@ -281,17 +289,21 @@ Chap. Sec.
 
 251. Simplified Acquisition Procedures 3551
 
-253. Emergency and Rapid Acquisitions 3601
+253. Rapid Acquisition Procedures 3601
 
 255. Contracting With or Through Other Agencies 3651
 
+257. Contracts for Long-Term Lease or Charter of Vessels, Aircraft, and Combat 3671 5
+
 #### subpart d—general contracting requirements ####
 
-271. Truthful Cost or Pricing Data 3701
+271. Truthful Cost or Pricing Data (Truth in Negotiations) 3701
+
+272. Other Provisions Relating to Cost or Pricing Data 3721
 
 273. Allowable Costs 3741
 
-275. Proprietary Contractor Data and Technical Data 3771
+275. Proprietary Contractor Data and Rights in Technical Data 3771
 
 277. Contract Financing 3801
 
@@ -301,35 +313,39 @@ Chap. Sec.
 
 283. Foreign Acquisitions 3881
 
-285. Small Business Programs 3901
-
 287. Socioeconomic Programs 3961
 
-#### subpart e—special categories of contracting: major defense acquisition programs and major systems ####
+#### subpart e—research and engineering ####
 
-301. Major Defense Acquisition Programs 4001
+301. Research and Engineering Generally 4001 5
 
-303. Weapon Systems Development and Related Matters 4071
+303. Innovation 4061 5
 
-305. Other Matters Relating to Major Systems 4121
+305. Department of Defense Laboratories 4101 5
 
-#### subpart f—special categories of contracting: research, development, test, and evaluation ####
+307. Research and Development Centers and Facilities 4141 5
 
-321. Research and Development Generally 4201
+309. Test and Evaluation 4171 5
 
-323. Innovation 4301
+#### subpart f—major systems, major defense acquisition programs, and weapon systems development ####
 
-325. Department of Defense Laboratories 4351
+321. General Matters 4201 5
 
-327. Research and Development Centers and Facilities 4401
+322. Major Systems and Major Defense Acquisition Programs Generally 4211 5
 
-329. Operational Test and Evaluation; Developmental Test and Evaluation 4451
+323. Life-Cycle And Sustainment 4321 5
+
+324. Program Status—Selected Acquisition Reports 4350 5
+
+325. Cost Growth—Unit Cost Reports (Nunn-McCurdy) 4371 5
+
+327. Weapon Systems Development and Related Matters" 4401 5
 
 #### subpart g—other special categories of contracting ####
 
-341. Contracting for Performance of Civilian Commercial or Industrial Type Functions 4501
+341. Acquisition of Services Generally 4501
 
-343. Acquisition of Services 4541
+343. Acquisition of Services of Contractors Performing Private Security Functions 4541
 
 345. Acquisition of Information Technology 4571
 
@@ -347,9 +363,19 @@ Chap. Sec.
 
 381. Defense Industrial Base Generally 4801
 
-383. Loan Guarantee Programs 4861
+382. Policies and Planning 4811
 
-385. Procurement Technical Assistance Cooperative Agreement Program 4881
+383. Development, Application, & Support of Dual-Use Technologies 4 4831
+
+384. Manufacturing Technology 4841
+
+385. Other Technology Base Policies and Programs 4851
+
+387. Small Business Programs 4901
+
+388. Procurement Technical Assistance Cooperative Agreement Program 4951
+
+389. Loan Guarantee Programs 4971
 
 #### Amendments ####
 
@@ -486,3 +512,7 @@ Pub. L. 87–649, §3(2), Sept. 7, 1962, 76 Stat. 493, added item for chapter 40
 [<sup>2</sup> Chapter added by Pub. L. 116–92 without corresponding amendment of subtitle analysis.](#PARTIVanalysis_2)
 
 [<sup>3</sup> So in original. Probably should be "2375".](#PARTIVanalysis_3)
+
+[<sup>4</sup> So in original. Does not conform to chapter heading.](#PARTVanalysis_4)
+
+[<sup>5</sup> Editorially supplied.](#PARTVanalysis_5)

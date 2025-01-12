@@ -1,5 +1,9 @@
 ### **CHAPTER 251—SIMPLIFIED ACQUISITION PROCEDURES** ###
 
-#### Amendments ####
+Sec.
 
-**2018**—Pub. L. 115–232, div. A, title VIII, §801(a), Aug. 13, 2018, 132 Stat. 1827, added chapter heading.
+3571. Simplified acquisition threshold.
+
+3572. Implementation of simplified acquisition procedures.
+
+3573. Micro-purchase threshold.

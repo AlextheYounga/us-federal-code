@@ -1,5 +1,9 @@
 ### **CHAPTER 249—MULTIYEAR CONTRACTS** ###
 
-#### Amendments ####
+Subchapter Sec.
 
-**2018**—Pub. L. 115–232, div. A, title VIII, §801(a), Aug. 13, 2018, 132 Stat. 1827, added chapter heading.
+I. Multiyear Contracts for Acquisition of Property 3501
+
+II. Multiyear Contracts for Acquisition of Services 3531
+
+III. Other Authorities Relating to Multiyear Contracts 3551

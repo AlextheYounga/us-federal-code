@@ -1,9 +1,15 @@
 ### **CHAPTER 345—ACQUISITION OF INFORMATION TECHNOLOGY** ###
 
-#### Prior Provisions ####
+Sec.
 
-A prior chapter 345 was renumbered chapter 725 of this title.
+4571. Information technology acquisition: planning and oversight processes.
 
-#### Amendments ####
+4572. [Reserved].
 
-**2018**—Pub. L. 115–232, div. A, title VIII, §801(a), Aug. 13, 2018, 132 Stat. 1830, added chapter heading.
+4573. [Reserved].
+
+4574. [Reserved].
+
+4575. [Reserved].
+
+4576. Requirement for consideration of certain matters during acquisition of noncommercial computer software.

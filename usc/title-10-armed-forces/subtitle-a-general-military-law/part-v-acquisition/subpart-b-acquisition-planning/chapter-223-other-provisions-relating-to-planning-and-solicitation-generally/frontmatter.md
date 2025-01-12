@@ -1,0 +1,29 @@
+### **CHAPTER 223—OTHER PROVISIONS RELATING TO PLANNING AND SOLICITATION GENERALLY** ###
+
+Sec.
+
+3241. Design-build selection procedures.
+
+3242. Supplies: economic order quantities.
+
+3243. Encouragement of new competitors: qualification requirement.
+
+3244. [Reserved].
+
+3245. [Reserved].
+
+3246. [Reserved].
+
+3247. Contracts: regulations for bids.
+
+3248. Matters relating to reverse auctions. 1
+
+3249. Advocates for competition.
+
+3250. [Reserved].
+
+3251. [Reserved].
+
+3252. Requirements for information relating to supply chain risk.
+
+[<sup>1</sup> So in original. There is no section 3248.](#CHAPTER223_1)
