@@ -1,4 +1,4 @@
-### §§2917 to 1918a. Repealed. Pub. L. 113–128, title V, §511(a), July 22, 2014, 128 Stat. 1705 ###
+### §§2917 to 2918a. Repealed. Pub. L. 113–128, title V, §511(a), July 22, 2014, 128 Stat. 1705 ###
 
 Section 2917, Pub. L. 105–220, title I, §172, Aug. 7, 1998, 112 Stat. 1034, related to continuing evaluation of the programs and activities under this chapter and other federally funded employment-related programs and activities. See section 3224(a) of this title.
 

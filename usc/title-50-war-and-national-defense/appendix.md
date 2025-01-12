@@ -5584,9 +5584,9 @@ Another prior section 533, act Oct. 17, 1940, ch. 888, art. III, §303, 54 Stat.
 
 #### Amendments ####
 
-**2012**—Subsecs. (b), (c). Pub. L. 112–154, §710(d)(3), revived the provisions of subsecs. (b) and (c) as in effect on July 29, 2008. Effective Jan. 1, 2015, "within 90 days" is substituted for "within one year" in introductory provisions. See Effective and Termination Dates of 2012 Amendment; Revival note below.
+**2012**—Subsecs. (b), (c). Pub. L. 112–154, §710(d)(3), as amended by Pub. L. 113–286, §2(2), revived the provisions of subsecs. (b) and (c) as in effect on July 29, 2008. Effective Jan. 1, 2016, "within 90 days" is substituted for "within one year" in introductory provisions. See Effective and Termination Dates of 2012 Amendment; Revival note below.
 
-Pub. L. 112–154, §710(a), (b), (d)(1), temporarily substituted "within one year" for "within 9 months" in introductory provisions. See Effective and Termination Dates of 2012 Amendment; Revival note below.
+Pub. L. 112–154, §710(a), (b), (d)(1), as amended by Pub. L. 113–286, §2(1), temporarily substituted "within one year" for "within 9 months" in introductory provisions. See Effective and Termination Dates of 2012 Amendment; Revival note below.
 
 **2010**—Subsec. (d). Pub. L. 111–275 amended subsec. (d) generally. Prior to amendment, subsec. (d) related to penalties.
 
@@ -13492,7 +13492,7 @@ Sec.
 
 2160. Employment of personnel; appointment policies; nucleus executive reserve; use of confidential information by employees; printing and distribution of reports.
 
-2161. Authorization of appropriations; availability of funds.
+2161. Authorization of appropriations.
 
 2162. Repealed.
 
@@ -15796,7 +15796,7 @@ Ex. Ord. No. 10647, Nov. 28, 1955, 20 F.R. 8769, as amended by Ex. Ord. No. 1135
 
 [<sup>1</sup> See References in Text note below.](#2160_1)
 
-### §2161. Authorization of appropriations; availability of funds ###
+### §2161. Authorization of appropriations ###
 
 There is authorized to be appropriated $133,000,000 for fiscal year 2015 and each fiscal year thereafter for the carrying out of the provisions and purposes of this Act [sections 2061 to 2170, 2171, and 2172 of this Appendix] by the President and such agencies as he may designate or create.
 
@@ -18022,7 +18022,7 @@ By the authority vested in me as President by the Constitution and statutes of t
 
 1–403. The Council shall terminate on December 31, 1980, unless sooner extended.
 
-[Reference to the National Security Staff deemed to be a reference to the National Security Council Staff, see Ex. Ord. No. 13657, set out as a note under section 3021 of Title 50, War and National Defense.]
+[Reference to the National Security Staff deemed to be a reference to the National Security Council staff, see Ex. Ord. No. 13657, set out as a note under section 3021 of Title 50, War and National Defense.]
 
 #### Extension of Term of President's Export Council ####
 
@@ -20950,7 +20950,7 @@ Pub. L. 113–276, title II, §209, Dec. 18, 2014, 128 Stat. 2994, provided that
 
 "(a) Protection of Information.—Section 12(c) of the Export Administration Act of 1979 (50 U.S.C. App. 2411(c)) has been in effect from August 20, 2001, and continues in effect on and after the date of the enactment of this Act [Dec. 18, 2014], pursuant to the International Emergency Economic Powers Act (50 U.S.C. 1701 et seq.) and notwithstanding section 20 of the Export Administration Act of 1979 (50 U.S.C. App. 2419). Section 12(c)(1) of the Export Administration Act of 1979 is a statute covered by section 552(b)(3) of title 5, United States Code.
 
-"(b) Termination Date.—Subsection (a) terminates at the end of the 4-year period beginning on the date of the enactment of this Act [Dec. 18, 2014]."
+"(b) Termination Date.—Subsection (a) terminates at the end of the 4-year period beginning on the date of the enactment of this Act."
 
 ### §2411a. Omitted ###
 
