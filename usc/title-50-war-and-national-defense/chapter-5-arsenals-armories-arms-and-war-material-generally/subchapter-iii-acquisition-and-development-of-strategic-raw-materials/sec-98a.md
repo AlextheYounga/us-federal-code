@@ -8,6 +8,8 @@
 
 (June 7, 1939, ch. 190, §2, as added Pub. L. 96–41, §2(a), July 30, 1979, 93 Stat. 319; amended Pub. L. 100–180, div. C, title II, §3202(b), Dec. 4, 1987, 101 Stat. 1245; Pub. L. 103–160, div. C, title XXXIII, §3311, Nov. 30, 1993, 107 Stat. 1961; Pub. L. 104–201, div. C, title XXXIII, §3311(b), Sept. 23, 1996, 110 Stat. 2857; Pub. L. 112–239, div. A, title XIV, §1412, Jan. 2, 2013, 126 Stat. 2048.)
 
+#### **Editorial Notes** ####
+
 #### Prior Provisions ####
 
 A prior section 98a, acts June 7, 1939, ch. 190, §2, 53 Stat. 811; July 23, 1946, ch. 590, 60 Stat. 596; 1953 Reorg. Plan No. 3, §2(b), eff. June 12, 1953, 18 F.R. 3375, 67 Stat. 634; 1958 Reorg. Plan No. 1, §2, eff. July 1, 1958, 23 F.R. 4991, 72 Stat. 1799; Oct. 21, 1968, Pub. L. 90–608, §402, 82 Stat. 1194; Ex. Ord. No. 11725, §3, eff. June 29, 1973, 38 F.R. 17175, related to determination of strategic and critical materials, the quantity and quality to be purchased, formation and functions of industry advisory committees, and the subsistence and traveling expenses of members of those committees, prior to repeal by section 2(a) of Pub. L. 96–41.
@@ -31,6 +33,8 @@ Provisions similar to those in this section were contained in former section 98 
 Subsec. (c)(3). Pub. L. 103–160, §3311(2), added par. (3).
 
 **1987**—Subsec. (c). Pub. L. 100–180 added subsec. (c).
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 1996 Amendment ####
 

@@ -22,6 +22,8 @@ Whenever the United States shall cancel or modify any contract, make use of, ass
 
 (Mar. 4, 1917, ch. 180, 39 Stat. 1192.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 For definition of Canal Zone, referred to in subsec. (a), see section 3602(b) of Title 22, Foreign Relations and Intercourse.

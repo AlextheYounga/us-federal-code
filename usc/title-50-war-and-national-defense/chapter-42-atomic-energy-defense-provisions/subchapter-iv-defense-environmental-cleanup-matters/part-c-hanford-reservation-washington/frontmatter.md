@@ -1,5 +1,7 @@
 ### Part C—Hanford Reservation, Washington ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Pub. L. 113–66, div. C, title XXXI, §3146(e)(16)(C), Dec. 26, 2013, 127 Stat. 1078, redesignated part D as C.

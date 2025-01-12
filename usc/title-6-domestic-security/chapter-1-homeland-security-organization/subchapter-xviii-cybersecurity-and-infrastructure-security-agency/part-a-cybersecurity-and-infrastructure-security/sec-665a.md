@@ -48,7 +48,7 @@ To be eligible to participate in the Program, an individual shall—
 
 (A) have a cumulative grade point average of at least 3.2 on a 4.0 scale;
 
-(B) be a socially disadvantaged individual (as that term in defined in section 124.103 of title 13, Code of Federal Regulations, or successor regulation); and
+(B) be a socially disadvantaged individual (as that term in <sup><a href="#665a_1_target" name="665a_1">1</a></sup> defined in section 124.103 of title 13, Code of Federal Regulations, or successor regulation); and
 
 (C) be a sophomore, junior, or senior at an institution of higher education.
 
@@ -76,6 +76,10 @@ Each report under paragraph (1) shall include, with respect to the most recent y
 
 (Pub. L. 107–296, title XIII, §1333, as added Pub. L. 116–260, div. W, title IV, §404(a), Dec. 27, 2020, 134 Stat. 2378.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section was enacted as part of title XIII of Pub. L. 107–296, and not as part of title XXII of 107–296 which comprises this subchapter.
+
+[<sup>1</sup> So in original. Probably should be "is".](#665a_1)

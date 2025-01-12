@@ -16,6 +16,8 @@ The President shall make the determinations required to be made under subsection
 
 (June 7, 1939, ch. 190, §3, as added Pub. L. 96–41, §2(a), July 30, 1979, 93 Stat. 319; amended Pub. L. 100–180, div. C, title II, §3202(a), Dec. 4, 1987, 101 Stat. 1245; Pub. L. 100–456, div. A, title XII, §1233(b)(2), Sept. 29, 1988, 102 Stat. 2057; Pub. L. 102–484, div. C, title XXXIII, §3311, Oct. 23, 1992, 106 Stat. 2653; Pub. L. 104–201, div. C, title XXXIII, §3312(a), Sept. 23, 1996, 110 Stat. 2857.)
 
+#### **Editorial Notes** ####
+
 #### Prior Provisions ####
 
 A prior section 98b, acts June 7, 1939, ch. 190, §3, 53 Stat. 811; July 23, 1946, ch. 590, 60 Stat. 597; Aug. 2, 1946, ch. 753, title I, §§102, 121, 60 Stat. 815, 822; June 30, 1949, ch. 288, title I, §102(a), 63 Stat. 380; 1953 Reorg. Plan No. 3, §2(b), eff. June 12, 1953, 18 F.R. 3375, 67 Stat. 634; 1958 Reorg. Plan No. 1, §2, eff. July 1, 1958, 23 F.R. 4991, 72 Stat. 1799; Oct. 21, 1968, Pub. L. 90–608, §402, 82 Stat. 1194; Ex. Ord. No. 11725, §3, eff. June 29, 1973, 38 F.R. 17175, related to purchase, storage, refinement, rotation, and disposal of materials, prior to repeal by section 2(a) of Pub. L. 96–41. See section 98e of this title.
@@ -43,6 +45,8 @@ Provisions similar to those in this section were contained in former section 98a
 Subsec. (b). Pub. L. 100–180, §3202(a)(2), substituted "the principles stated in section 98a(c) of this title." for "the following principles:" and struck out cls. (1) and (2) which related to purpose of National Defense Stockpile and quantities of materials stockpiled.
 
 Subsec. (c). Pub. L. 100–180, §3202(a)(3), added subsec. (c) and struck out former subsec. (c) which read as follows: "The quantity of any material to be stockpiled under this subchapter, as determined under subsection (a), may not be revised unless the Committees on Armed Services of the Senate and House of Representatives are notified in writing of the proposed revision and the reasons for such revision at least thirty days before the effective date of such revision."
+
+#### **Executive Documents** ####
 
 #### Delegation of Functions ####
 

@@ -78,7 +78,7 @@ Provisions similar to those in this section were contained in section 115(b)(1)(
 
 #### Amendments ####
 
-**2021**—Subsec. (g), (h). Pub. L. 116–283 redesignated subsec. (h) as (g) and struck out former subsec. (g), which related to the Secretary's annual report to Congress.
+**2021**—Subsecs. (g), (h). Pub. L. 116–283 redesignated subsec. (h) as (g) and struck out former subsec. (g) which set out elements to be included in a required annual report to Congress.
 
 **2019**—Pub. L. 116–92, §1701(c)(1), substituted "Annual defense manpower profile report and related reports" for "Annual defense manpower requirements report" in section catchline.
 

@@ -6,6 +6,8 @@ Section 302, act Sept. 16, 1942, ch. 561, title I, §2, 56 Stat. 753, exempted p
 
 Section 303, acts Sept. 16, 1942, ch. 561, title I, §3, 56 Stat. 753; Apr. 1, 1944, ch. 150, 58 Stat. 136, provided for voting in accordance with State law.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Additional Repeal ####
 
 Sections 301 to 303 were also repealed by act Aug. 10, 1956, ch. 1041, §53, 70 Stat. 641.

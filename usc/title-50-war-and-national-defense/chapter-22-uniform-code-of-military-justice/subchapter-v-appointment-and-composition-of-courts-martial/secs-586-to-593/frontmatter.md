@@ -16,6 +16,8 @@ Section 592, act May 5, 1950, ch. 169, §1, 64 Stat. 117, provided for appointme
 
 Section 593, act May 5, 1950, ch. 169, §1, 64 Stat. 117, related to absent and additional members of courts-martial. See section 829 of Title 10.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Repeal effective Jan. 1, 1957, see act Aug. 10, 1956, ch. 1041, §53 footnote, 70A Stat. 680.

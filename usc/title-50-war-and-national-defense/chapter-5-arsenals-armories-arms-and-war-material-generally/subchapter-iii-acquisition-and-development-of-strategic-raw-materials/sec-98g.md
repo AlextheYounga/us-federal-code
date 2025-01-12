@@ -36,6 +36,8 @@ The President shall encourage the conservation of domestic sources of any materi
 
 (June 7, 1939, ch. 190, §8, as added Pub. L. 96–41, §2(a), July 30, 1979, 93 Stat. 322; amended Pub. L. 101–189, div. C, title XXXIII, §3311, Nov. 29, 1989, 103 Stat. 1686.)
 
+#### **Editorial Notes** ####
+
 #### Prior Provisions ####
 
 A prior section 98g, act June 7, 1939, ch. 190, §8, as added July 23, 1946, ch. 590, 60 Stat. 600; amended 1953 Reorg. Plan No. 3, §2(b), eff. June 12, 1953, 18 F.R. 3375, 67 Stat. 634; 1958 Reorg. Plan No. 1, §2, eff. July 1, 1958, 23 F.R. 4991, 72 Stat. 1799; Oct. 21, 1968, Pub. L. 90–608, §402, 82 Stat. 1194; Ex. Ord. No. 11725, §3, eff. June 29, 1973, 38 F.R. 17175, authorized appropriations for procurement, transportation, maintenance, rotation, storage, and refining or processing of materials acquired under this subchapter, prior to repeal by section 2(a) of Pub. L. 96–41. See section 98d(c) of this title.
@@ -45,6 +47,8 @@ Provisions similar to those in this section were contained in former section 98f
 #### Amendments ####
 
 **1989**—Subsecs. (c), (d). Pub. L. 101–189 added subsecs. (c) and (d).
+
+#### **Executive Documents** ####
 
 #### Delegation of Functions ####
 

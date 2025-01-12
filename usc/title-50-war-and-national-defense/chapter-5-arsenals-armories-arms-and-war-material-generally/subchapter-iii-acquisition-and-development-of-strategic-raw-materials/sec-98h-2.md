@@ -22,6 +22,8 @@
 
 (June 7, 1939, ch. 190, §11, as added Pub. L. 96–41, §2(a), July 30, 1979, 93 Stat. 324; amended Pub. L. 97–35, title II, §203(e), Aug. 13, 1981, 95 Stat. 382; Pub. L. 99–661, div. C, title II, §3207(a)(3), Nov. 14, 1986, 100 Stat. 4069; Pub. L. 100–180, div. C, title II, §3205, Dec. 4, 1987, 101 Stat. 1247; Pub. L. 100–456, div. A, title XV, §1503, Sept. 29, 1988, 102 Stat. 2086; Pub. L. 101–189, div. C, title XXXIII, §3315, Nov. 29, 1989, 103 Stat. 1688; Pub. L. 102–190, div. C, title XXXIII, §§3311(b), 3313(a), Dec. 5, 1991, 105 Stat. 1584; Pub. L. 103–35, title II, §204(d), May 31, 1993, 107 Stat. 103; Pub. L. 113–291, div. A, title X, §1071(j), Dec. 19, 2014, 128 Stat. 3512; Pub. L. 115–232, div. A, title XIV, §1423, Aug. 13, 2018, 132 Stat. 2093.)
 
+#### **Editorial Notes** ####
+
 #### Prior Provisions ####
 
 A prior section 11 of act June 7, 1939, ch. 190, formerly §10, as added July 23, 1946, ch. 590, 60 Stat. 596; renumbered §11, Pub. L. 92–156, title V, §503(1), Nov. 17, 1971, 85 Stat. 427, was set out as a Short Title note under section 98 of this title, prior to repeal by section 2(b)(2) of Pub. L. 96–41.
@@ -65,6 +67,8 @@ Subsec. (b). Pub. L. 100–456, §1503(b), substituted "the next fiscal year" fo
 **1986**—Subsec. (b). Pub. L. 99–661 substituted "each year, at the time that the Budget is submitted to Congress pursuant to section 1105 of title 31 for the next fiscal year," for each year with the Budget submitted to Congress pursuant to section 201a of the Budget and Accounting Act, 1921 (31 U.S.C. 11(a)), for the next fiscal year".
 
 **1981**—Pub. L. 97–35 designated existing provisions as subsec. (a) and added subsec. (b).
+
+#### **Executive Documents** ####
 
 #### Delegation of Functions ####
 

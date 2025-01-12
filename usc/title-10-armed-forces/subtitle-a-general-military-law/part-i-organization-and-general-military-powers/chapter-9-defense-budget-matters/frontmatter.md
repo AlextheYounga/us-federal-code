@@ -54,7 +54,7 @@ Sec.
 
 #### Amendment of Analysis ####
 
-Pub. L. 116–283, div. A, title XVIII, §§1801(d), 1809(h)(2), Jan. 1, 2021, 134 Stat. 4151, 4162, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, this analysis is amended by striking the item relating to section 235. See 2021 Amendment note below.
+Pub. L. 116–283, div. A, title XVIII, §§1801(d), 1809(h)(2), Jan. 1, 2021, 134 Stat. 4151, 4162, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, this analysis is amended by striking item 235. See 2021 Amendment note below.
 
 #### Amendments ####
 

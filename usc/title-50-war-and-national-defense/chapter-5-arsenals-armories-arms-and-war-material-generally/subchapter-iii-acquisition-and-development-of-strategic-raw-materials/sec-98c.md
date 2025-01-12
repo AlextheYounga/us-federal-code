@@ -34,6 +34,8 @@ The Secretary of Defense shall determine whether materials are suitable for tran
 
 (June 7, 1939, ch. 190, §4, as added Pub. L. 96–41, §2(a), July 30, 1979, 93 Stat. 320; amended Pub. L. 99–661, div. C, title II, §3207(a)(1), Nov. 14, 1986, 100 Stat. 4069; Pub. L. 104–106, div. C, title XXXIII, §3311, Feb. 10, 1996, 110 Stat. 630; Pub. L. 110–246, title III, §3001(b)(1)(A), (2)(Z), June 18, 2008, 122 Stat. 1820, 1821; Pub. L. 114–328, div. A, title XIV, §1412(a), Dec. 23, 2016, 130 Stat. 2570.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Section 1704(b) of title 7, referred to in subsec. (a)(3), was amended generally by Pub. L. 101–624, title XV, §1512, Nov. 28, 1990, 104 Stat. 3635, and, as so amended, no longer contains provisions relating to a supplemental stockpile.
@@ -55,6 +57,8 @@ Subsec. (c). Pub. L. 114–328, §1412(a)(2), struck out "(2)" before "The Secre
 Subsec. (c). Pub. L. 104–106, §3311(a), added subsec. (c).
 
 **1986**—Pub. L. 99–661 substituted "on July 29, 1979" for "on the day before the date of the date of enactment of the Strategic and Critical Materials Stock Piling Revision Act of 1979" in pars. (1) and (3), and "after July 29, 1979" for "on or after the date of the enactment of the Strategic and Critical Materials Stock Piling Revision Act of 1979" in par. (2).
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 2008 Amendment ####
 

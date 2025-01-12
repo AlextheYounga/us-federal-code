@@ -292,6 +292,8 @@ Sec.
 
 3240. Report on best practices to protect privacy, civil liberties, and civil rights of Chinese Americans.
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Chapter is comprised of act July 26, 1947, ch. 343, 61 Stat. 495, the National Security Act of 1947, which was formerly classified principally as part of chapter 15 of this title, prior to editorial reclassification and renumbering as chapter 44 of this title. For complete classification of the National Security Act of 1947, see Tables.

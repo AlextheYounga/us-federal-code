@@ -14,6 +14,8 @@ The President may delegate functions of the President under this subchapter (oth
 
 (June 7, 1939, ch. 190, §16, formerly §6A, as added Pub. L. 99–661, div. C, title II, §3202(a), Nov. 14, 1986, 100 Stat. 4067; amended Pub. L. 100–180, div. C, title II, §3203(a), Dec. 4, 1987, 101 Stat. 1246; renumbered §16 and amended Pub. L. 101–189, div. C, title XXXIII, §3313, Nov. 29, 1989, 103 Stat. 1688; Pub. L. 102–190, div. C, title XXXIII, §3314, Dec. 5, 1991, 105 Stat. 1585; Pub. L. 112–239, div. A, title XIV, §1413(b), Jan. 2, 2013, 126 Stat. 2049.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section was classified to section 98e–1 of this title prior to its renumbering by Pub. L. 101–189.
@@ -36,10 +38,12 @@ Subsec. (d). Pub. L. 101–189, §3313(b)(1), (3), substituted "sections 98f and
 
 Pub. L. 100–180, div. C, title II, §3203(c), Dec. 4, 1987, 101 Stat. 1247, provided that: "Unless otherwise directed by the President under section 6A [renumbered §16] of the Strategic and Critical Materials Stock Piling Act [this section], as amended by subsection (a), the designation of a National Defense Stockpile Manager in effect on the day before the date of the enactment of this Act [Dec. 4, 1987] shall remain in effect until the individual so designated ceases to hold the office held by the individual at the time of the designation."
 
-#### Designation of National Defense Stockpile Manager; Delegation of Functions ####
-
-The Secretary of Defense was designated National Defense Stockpile Manager and functions of the President under this section were delegated to the Secretary of Defense by section 1 of Ex. Ord. No. 12636, Feb. 25, 1988, 53 F.R. 6114, set out under section 98 of this title.
-
 #### Deadline for Designation of Manager ####
 
 Pub. L. 99–661, div. C, title II, §3202(b), Nov. 14, 1986, 100 Stat. 4067, directed President, not later than Feb. 15, 1987, to designate an official as National Defense Stockpile Manager, as required by this section.
+
+#### **Executive Documents** ####
+
+#### Designation of National Defense Stockpile Manager; Delegation of Functions ####
+
+The Secretary of Defense was designated National Defense Stockpile Manager and functions of the President under this section were delegated to the Secretary of Defense by section 1 of Ex. Ord. No. 12636, Feb. 25, 1988, 53 F.R. 6114, set out under section 98 of this title.

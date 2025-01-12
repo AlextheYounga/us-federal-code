@@ -26,4 +26,8 @@ Sec.
 
 3072. Comptroller General assessment of acquisition programs and initiatives.
 
+#### Prior Provisions ####
+
+A prior chapter 203 "GENERAL MATTERS", as added by Pub. L. 115–232, div. A, title VIII, §801(a), Aug. 13, 2018, 132 Stat. 1826, and consisting of reserved section 3021, was repealed by Pub. L. 116–283, div. A, title XVIII, §1807(a), Jan. 1, 2021, 134 Stat. 4156.
+
 [<sup>1</sup> So in original. Does not conform to section catchline.](#CHAPTER203_1)

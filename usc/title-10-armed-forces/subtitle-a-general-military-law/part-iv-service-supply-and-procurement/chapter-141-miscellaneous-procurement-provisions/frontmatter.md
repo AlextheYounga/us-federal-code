@@ -102,7 +102,7 @@ Pub. L. 116–283, div. A, title XVIII, §§1801(d), 1882(a)(1), (c), Jan. 1, 20
 
 (1) The heading is amended to read as follows:
 
-**"PART 141—MISCELLANEOUS PROVISIONS RELATING TO PROPERTY" [probably should be "CHAPTER 141"]; and**
+"**PART 141—MISCELLANEOUS PROVISIONS RELATING TO PROPERTY***" [probably should be "CHAPTER 141"]; and*
 
 (2) The table of sections is amended to read as follows:
 
@@ -126,7 +126,7 @@ See Effective Date of 2021 Amendment note below.
 
 #### Amendments ####
 
-**2021**—Pub. L. 116–283, div. A, title XVIII, §1882(a)(1), (c), Jan. 1, 2021, 134 Stat. 4293, amended analysis generally, substituting items 2385 to 2396 for items 2381 to 2410s, and directed amendment of chapter heading by substituting "PART 141—MISCELLANEOUS PROVISIONS RELATING TO PROPERTY" for "CHAPTER 141—MISCELLANEOUS PROCUREMENT PROVISIONS" which was executed by substituting "MISCELLANEOUS PROVISIONS RELATING TO PROPERTY" for "MISCELLANEOUS PROCUREMENT PROVISIONS" to reflect the probable intent of Congress.
+**2021**—Pub. L. 116–283, div. A, title XVIII, §1882(a)(1), (c), Jan. 1, 2021, 134 Stat. 4293, amended analysis generally, substituting items 2385 to 2396 for former items 2381 to 2410s, and directed amendment of chapter heading by substituting "PART 141—MISCELLANEOUS PROVISIONS RELATING TO PROPERTY" for "CHAPTER 141—MISCELLANEOUS PROCUREMENT PROVISIONS" which was executed by substituting "MISCELLANEOUS PROVISIONS RELATING TO PROPERTY" for "MISCELLANEOUS PROCUREMENT PROVISIONS" to reflect the probable intent of Congress.
 
 **2019**—Pub. L. 116–92, div. A, title VIII, §864(b), Dec. 20, 2019, 133 Stat. 1523, added item 2409a.
 

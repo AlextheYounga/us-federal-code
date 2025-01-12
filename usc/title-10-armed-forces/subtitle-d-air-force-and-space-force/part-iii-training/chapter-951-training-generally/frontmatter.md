@@ -34,7 +34,7 @@ A prior chapter 951, consisting of sections 9801 to 9806, related to military cl
 
 #### Amendments ####
 
-**2021**—Pub. L. 116–283, div. A, title IX, §923(d)(1)(D), (2)(C), Jan. 1, 2021, 134 Stat. 3813, 3814, substituted "Members of Air Force and Space Force: detail as students, observers, and investigators at educational institutions, industrial plants, and hospitals" for "Members of Air Force: detail as students, observers, and investigators at educational institutions, industrial plants, and hospitals" in item 9401 and "Enlisted members of Air Force or Space Force: schools" for "Enlisted members of Air Force: schools" in item 9402.
+**2021**—Pub. L. 116–283, div. A, title IX, §923(d)(1)(D), (2)(C), Jan. 1, 2021, 134 Stat. 3813, 3814, added items 9401 and 9402 and struck out former items 9401 "Members of Air Force: detail as students, observers, and investigators at educational institutions, industrial plants, and hospitals" and 9402 "Enlisted members of Air Force: schools".
 
 **2018**—Pub. L. 115–232, div. A, title VIII, §806(d)(2), (e)(1), Aug. 13, 2018, 132 Stat. 1833, redesignated chapter 901 of this title as this chapter and items 9301 to 9306, 9314, 9314a, 9314b, 9315, 9317, 9319, and 9320 as 9401 to 9406, 9414, 9414a, 9414b, 9415, 9417, 9419, and 9420, respectively.
 

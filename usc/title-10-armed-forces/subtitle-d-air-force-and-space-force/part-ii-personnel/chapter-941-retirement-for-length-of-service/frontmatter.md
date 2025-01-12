@@ -28,7 +28,7 @@ A prior chapter 941, consisting of sections 9651 to 9656, related to issue of se
 
 #### Amendments ####
 
-**2021**—Pub. L. 116–283, div. A, title IX, §923(c)(17)(C), Jan. 1, 2021, 134 Stat. 3812, substituted "Forty years or more: Air Force officers and Space Force officers" for "Forty years or more: Air Force officers" in item 9324.
+**2021**—Pub. L. 116–283, div. A, title IX, §923(c)(17)(C), Jan. 1, 2021, 134 Stat. 3812, added item 9324 and struck out former item 9324 "Forty years or more: Air Force officers".
 
 **2018**—Pub. L. 115–232, div. A, title VIII, §806(d)(3)(B)(ii), (e)(1), Aug. 13, 2018, 132 Stat. 1833, redesignated chapter 867 of this title as this chapter and items 8911, 8914, 8917, 8918, 8920, 8921, 8924 to 8926, and 8929 as 9311, 9314, 9317, 9318, 9320, 9321, 9324 to 9326, and 9329, respectively.
 

@@ -22,7 +22,7 @@ Sec.
 
 #### Amendments ####
 
-**2021**—Pub. L. 116–283, div. A, title IX, §923(e)(12)(C), Jan. 1, 2021, 134 Stat. 3818, substituted "Ordnance property: officers of the armed forces; civilian employees of the Department of the Air Force; American National Red Cross; educational institutions; homes for veterans' orphans" for "Ordnance property: officers of armed forces; civilian employees of Air Force; American National Red Cross; educational institutions; homes for veterans' orphans" in item 9625.
+**2021**—Pub. L. 116–283, div. A, title IX, §923(e)(12)(C), Jan. 1, 2021, 134 Stat. 3818, added item 9625 and struck out former item 9625 "Ordnance property: officers of armed forces; civilian employees of Air Force; American National Red Cross; educational institutions; homes for veterans' orphans".
 
 **2018**—Pub. L. 115–232, div. A, title VIII, §806(d)(1), Aug. 13, 2018, 132 Stat. 1833, redesignated chapter 939 of this title as this chapter.
 

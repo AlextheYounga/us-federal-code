@@ -17,3 +17,7 @@ Sec.
 3707. Interest and penalties for certain overpayments.
 
 3708. Right to examine contractor records.
+
+#### Prior Provisions ####
+
+A prior chapter 271, "TRUTHFUL COST OR PRICING DATA", as added by Pub. L. 115–232, div. A, title VIII, §801(a), Aug. 13, 2018, 132 Stat. 1828, and consisting of reserved section 3701, was repealed by Pub. L. 116–283, div. A, title XVIII, §1831(a), Jan. 1, 2021, 134 Stat. 4208.

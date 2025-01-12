@@ -12,6 +12,8 @@
 
 (June 7, 1939, ch. 190, §7, as added Pub. L. 96–41, §2(a), July 30, 1979, 93 Stat. 322; amended Pub. L. 104–106, div. A, title XV, §1502(e)(2), Feb. 10, 1996, 110 Stat. 509; Pub. L. 106–65, div. A, title X, §1067(13), Oct. 5, 1999, 113 Stat. 775; Pub. L. 112–239, div. A, title XIV, §1413(a), Jan. 2, 2013, 126 Stat. 2048; Pub. L. 116–92, div. A, title IX, §902(90), Dec. 20, 2019, 133 Stat. 1554.)
 
+#### **Editorial Notes** ####
+
 #### Prior Provisions ####
 
 A prior section 98f, acts June 7, 1939, ch. 190, §7, 53 Stat. 812; July 23, 1946, ch. 590, 60 Stat. 599, related to investigations of domestic ores, minerals, and agriculture resources for purposes of development, etc., prior to repeal by section 2(a) of Pub. L. 96–41.

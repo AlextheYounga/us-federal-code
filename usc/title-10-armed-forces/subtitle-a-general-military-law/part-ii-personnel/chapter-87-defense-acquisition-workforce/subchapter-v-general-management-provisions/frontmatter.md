@@ -14,7 +14,7 @@ Sec.
 
 #### Amendments ####
 
-**2021**—Pub. L. 116–283, div. A, title X, §1081(c)(4), Jan. 1, 2021, 134 Stat. 3873, amended section 861(i)(2) of Pub. L. 116–92. See 2019 Amendment note below.
+**2021**—Pub. L. 116–283, div. A, title X, §1081(c)(4), Jan. 1, 2021, 134 Stat. 3873, amended Pub. L. 116–92, 861(i)(2). See 2019 Amendment note below.
 
 **2019**—Pub. L. 116–92, div. A, title VIII, §861(i)(2), Dec. 20, 2019, 133 Stat. 1519, as amended by Pub. L. 116–283, div. A, title X, §1081(c)(4), Jan. 1, 2021, 134 Stat. 3873, added item 1765.
 

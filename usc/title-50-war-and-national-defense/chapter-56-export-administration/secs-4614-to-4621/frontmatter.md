@@ -26,6 +26,8 @@ Section 2412, Pub. L. 91–184, §14, formerly §13, Dec. 30, 1969, 83 Stat. 847
 
 Section 2413, Pub. L. 91–184, §15, formerly §14, Dec. 30, 1969, 83 Stat. 847; Pub. L. 92–37, June 30, 1971, 85 Stat. 89; Pub. L. 92–150, Oct. 30, 1971, 85 Stat. 416; Pub. L. 92–284, Apr. 29, 1972, 86 Stat. 133; Pub. L. 92–412, title I, §106, Aug. 29, 1972, 86 Stat. 646; Pub. L. 93–327, June 30, 1974, 88 Stat. 287; Pub. L. 93–372, Aug. 14, 1974, 88 Stat. 444; Pub. L. 93–500, §13, Oct. 29, 1974, 88 Stat. 1557; renumbered §15 and amended Pub. L. 95–52, title I, §§101, 102, June 22, 1977, 91 Stat. 235, provided for the termination of authority granted by the Export Administration Act of 1969.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Application of Certain Provisions of Export Administration Act of 1979 ####
 
 Pub. L. 113–276, title II, §209, Dec. 18, 2014, 128 Stat. 2994, provided that:

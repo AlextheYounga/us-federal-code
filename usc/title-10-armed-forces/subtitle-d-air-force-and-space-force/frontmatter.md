@@ -89,7 +89,7 @@ Chap. Sec.
 
 #### Amendments ####
 
-**2021**—Pub. L. 116–283, div. A, title IX, §923(a)(1), (c)(3)(C), title X, §1081(a)(47), Jan. 1, 2021, 134 Stat. 3807, 3810, 3873, substituted "Air Force and Space Force" for "Air Force" in subtitle heading and "Appointments in the Regular Air Force and the Regular Space Force" for "Appointments in the Regular Air Force" in item for chapter 915 and struck out period at end of item for chapter 908.
+**2021**—Pub. L. 116–283, div. A, title IX, §923(a)(1), (c)(3)(C), title X, §1081(a)(47), Jan. 1, 2021, 134 Stat. 3807, 3810, 3873, substituted "Air Force and Space Force" for "Air Force" in subtitle heading, struck out period at end of item for chapter 908, and added item for chapter 915 and struck out former item for chapter 915 "Appointments in the Regular Air Force".
 
 **2019**—Pub. L. 116–92, div. A, title IX, §952(f), Dec. 20, 2019, 133 Stat. 1562, added item for chapter 908.
 

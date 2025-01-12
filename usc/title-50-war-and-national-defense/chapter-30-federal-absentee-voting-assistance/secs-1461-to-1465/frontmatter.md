@@ -1,5 +1,7 @@
 ### §§1461 to 1465. Transferred ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section 1461, act Aug. 9, 1955, ch. 656, title II, §201, 69 Stat. 585, which provided for a Presidential designee to coordinate and facilitate actions to discharge Federal responsibilities and to reports submitted by the designee, was transferred to section 1973cc–11 of Title 42, The Public Health and Welfare.

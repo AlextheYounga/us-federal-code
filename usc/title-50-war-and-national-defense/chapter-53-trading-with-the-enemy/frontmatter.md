@@ -84,9 +84,13 @@ Sec.
 
 4341. Motion picture prints, transfer of title.
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Act Oct. 6, 1917, ch. 106, 40 Stat. 411, comprising this chapter, was formerly set out in the Appendix to this title, prior to the elimination of the Appendix to this title and the editorial reclassification of the Act as this chapter. For disposition of sections of the former Appendix to this title, see Table II, set out preceding section 1 of this title.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Termination of World War and Emergency ####
 

@@ -16,6 +16,8 @@ Section 567, act May 5, 1950, ch. 169, §1, 64 Stat. 112, prohibited punishment 
 
 Section 568, act May 5, 1950, ch. 169, §1, 64 Stat. 112, related to delivery of offenders to civil authorities. See section 814 of Title 10.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Repeal effective Jan. 1, 1957, see act Aug. 10, 1956, ch. 1041, §53 footnote, 70A Stat. 680.

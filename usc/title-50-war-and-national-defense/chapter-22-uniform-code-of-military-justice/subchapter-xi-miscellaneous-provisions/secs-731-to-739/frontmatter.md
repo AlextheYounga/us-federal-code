@@ -18,6 +18,8 @@ Section 738, act May 5, 1950, ch. 169, §9, 64 Stat. 146, provided for removal o
 
 Section 739, act May 5, 1950, ch. 169, §10, 64 Stat. 146, related to dismissal of officers. See sections 1161 and 6408 of Title 10.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Repeal effective Jan. 1, 1957, see act Aug. 10, 1956, ch. 1041, §53 footnote, 70A Stat. 680.

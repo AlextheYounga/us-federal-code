@@ -39,7 +39,7 @@ Chap. Sec.
 
 #### Amendments ####
 
-**2021**—Pub. L. 116–283, div. A, title IX, §923(c)(3)(C), Jan. 1, 2021, 134 Stat. 3810, substituted "Appointments in the Regular Air Force and the Regular Space Force" for "Appointments in the Regular Air Force" in item for chapter 915.
+**2021**—Pub. L. 116–283, div. A, title IX, §923(c)(3)(C), Jan. 1, 2021, 134 Stat. 3810, added item for chapter 915 and struck out former item for chapter 915 "Appointments in the Regular Air Force".
 
 **2018**—Pub. L. 115–232, div. A, title VIII, §806(e)(2), Aug. 13, 2018, 132 Stat. 1834, redesignated items for chapters 831 to 875 as 911 to 949 and redesignated section numbers 8201 to 9061 as 9110 to 9381. Section numbers were conformed to the first section appearing in each chapter after renumbering by Pub. L. 115–232 to reflect the probable intent of Congress.
 

@@ -90,7 +90,7 @@ Sec.
 
 #### Amendment of Analysis ####
 
-Pub. L. 116–283, div. A, title XVIII, §§1801(d), 1844(b)(2)(B), Jan. 1, 2021, 134 Stat. 4151, 4246, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, this analysis is amended by striking the item relating to section 2681. See 2021 Amendment note below.
+Pub. L. 116–283, div. A, title XVIII, §§1801(d), 1844(b)(2)(B), Jan. 1, 2021, 134 Stat. 4151, 4246, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, this analysis is amended by striking item 2681. See 2021 Amendment note below.
 
 #### Historical and Revision Notes ####
 

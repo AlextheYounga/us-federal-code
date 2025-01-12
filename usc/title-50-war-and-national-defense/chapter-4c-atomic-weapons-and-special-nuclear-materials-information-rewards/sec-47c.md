@@ -4,6 +4,8 @@ If the information leading to an award under section 47b of this title is furnis
 
 (July 15, 1955, ch. 372, §4, 69 Stat. 366; Pub. L. 104–208, div. C, title III, §308(f)(7), Sept. 30, 1996, 110 Stat. 3009–622.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Immigration and Nationality Act, referred to in text, is act June 27, 1952, ch. 477, 66 Stat. 163, as amended, which is classified principally to chapter 12 (§1101 et seq.) of Title 8, Aliens and Nationality. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of Title 8 and Tables.
@@ -11,6 +13,8 @@ The Immigration and Nationality Act, referred to in text, is act June 27, 1952, 
 #### Amendments ####
 
 **1996**—Pub. L. 104–208 substituted "admission" for "entry".
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Change of Name ####
 

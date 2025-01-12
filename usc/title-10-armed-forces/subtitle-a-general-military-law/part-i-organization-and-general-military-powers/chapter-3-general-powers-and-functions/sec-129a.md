@@ -72,7 +72,7 @@ Provisions similar to those in this section were contained in section 115(b)(5) 
 
 Subsec. (c)(3). Pub. L. 116–283, §1808(d)(1), substituted "section 3001" for "section 2545".
 
-Subsec. (d)(1). Pub. L. 116–283, §1883(b)(2), substituted section 4505(c) for section 2330a(c).
+Subsec. (d)(1). Pub. L. 116–283, §1883(b)(2), substituted "section 4505(c)" for "section 2330a(c)".
 
 **2019**—Subsec. (c)(3). Pub. L. 116–92, §902(1), substituted "Under Secretary of Defense for Acquisition and Sustainment" for "Under Secretary of Defense for Acquisition, Technology, and Logistics".
 

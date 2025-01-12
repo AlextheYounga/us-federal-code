@@ -28,4 +28,4 @@ Sec.
 
 #### Amendments ####
 
-**2021**—Pub. L. 116–283, div. B, title XXVIII, §§2811(k)(1)(B), (2), 2814(d)(2), Jan. 1, 2021, 134 Stat. 4326, 4328, added items 2891c and 2892b, and struck out former items 2890a "Chief Housing Officer", 2891c "Financial transparency", and 2892b "Prohibition on requirement to disclose personally identifiable information in electronic requests for maintenance".
+**2021**—Pub. L. 116–283, div. B, title XXVIII, §§2811(k)(1)(B), (2), 2814(d)(2), Jan. 1, 2021, 134 Stat. 4326, 4328, added items 2891c and 2892b and struck out former items 2890a "Chief Housing Officer", 2891c "Financial transparency", and 2892b "Prohibition on requirement to disclose personally identifiable information in electronic requests for maintenance".

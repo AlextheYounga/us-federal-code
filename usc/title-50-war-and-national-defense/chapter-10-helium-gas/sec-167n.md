@@ -28,6 +28,8 @@ There is authorized to be appropriated to carry out this section $1,000,000.
 
 (Mar. 3, 1925, ch. 426, §16, as added Pub. L. 113–40, §6(3), Oct. 2, 2013, 127 Stat. 542.)
 
+#### **Editorial Notes** ####
+
 #### Prior Provisions ####
 
 A prior section 167n, act Mar. 3, 1925, ch. 426, §16, as added Pub. L. 86–777, §2, Sept. 13, 1960, 74 Stat. 923, directed the Secretary of the Interior to make annual reports to Congress, prior to repeal by Pub. L. 105–362, title IX, §901(q), Nov. 10, 1998, 112 Stat. 3291.

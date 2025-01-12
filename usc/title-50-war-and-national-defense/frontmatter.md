@@ -1397,6 +1397,8 @@ World War II License Agreements (50 U.S.C. App. 2371), act Aug. 16, 1950, ch. 71
 
 (Ex. Ord No. 8233, Sept. 5, 1939, 4 F.R. 3822, relating to regulations governing enforcement of neutrality of the United States.)
 
+#### **Executive Documents** ####
+
 ### I. PROCLAMATIONS OF STATE OF WAR ###
 
 Proc. No. 2374, Nov. 4, 1939, 12:04 p.m., 4 F.R. 4493, 54 Stat. 2671, proclaimed a state of war between Germany and France; Poland; and the United Kingdom, India, Australia, Canada, New Zealand and the Union of South Africa.
@@ -1597,7 +1599,7 @@ Article 23 of Chapter VII, above referred to, provides:
 
 #### Ratification of Japanese Peace Treaty ####
 
-The Treaty of Peace with Japan, signed at San Francisco on September 8, 1951, was ratified by the United States Senate on March 20, 1952. For Resolution of ratification, see Congressional Record, Vol. 98, No. 46, Thursday, March 20, 1952, p. 2634. According to Proc. No. 2974, eff. Apr. 29, 1952, 17 F.R. 3813, 66 Stat. c31, terminating the national emergencies proclaimed on September 8, 1939, and May 27, 1941, and set out above, such treaty came into force on Apr. 28, 1952.
+The Treaty of Peace with Japan, signed at San Francisco on September 8, 1951, was ratified by the United States Senate on March 20, 1952. For Resolution of ratification, see Cong. Rec., vol. 98, pt. 2, p. 2594, Mar. 20, 1952. According to Proc. No. 2974, eff. Apr. 29, 1952, 17 F.R. 3813, 66 Stat. c31, terminating the national emergencies proclaimed on September 8, 1939, and May 27, 1941, and set out above, such treaty came into force on Apr. 28, 1952.
 
 #### Germany ####
 

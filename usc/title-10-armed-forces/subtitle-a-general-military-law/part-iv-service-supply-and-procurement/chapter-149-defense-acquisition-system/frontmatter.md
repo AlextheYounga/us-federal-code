@@ -12,9 +12,9 @@ Sec.
 
 2548. Performance assessments of the defense acquisition system.
 
-#### Renumbering of Chapter ####
+#### Transfer of Chapter ####
 
-Pub. L. 116–283, div. A, title XVIII, §§1801(d), 1808(a)(1), Jan. 1, 2021, 134 Stat. 4151, 4159, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, this chapter is renumbered chapter 205 and transferred to part V of subtitle A. See Effective Date of 2021 Amendment note below.
+Pub. L. 116–283, div. A, title XVIII, §§1801(d), 1808(a)(1), Jan. 1, 2021, 134 Stat. 4151, 4159, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, this chapter is transferred to part V of subtitle A of this title, as added by section 801 of Pub. L. 115–232, inserted in place of chapter 205 as enacted by that section, and redesignated as chapter 205. See Effective Date of 2021 Amendment note below.
 
 #### Prior Provisions ####
 

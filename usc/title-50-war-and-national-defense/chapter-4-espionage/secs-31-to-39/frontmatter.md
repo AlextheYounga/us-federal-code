@@ -18,6 +18,8 @@ Section 38, act June 15, 1917, ch. 30, title I, §7, 40 Stat. 219, related to ju
 
 Section 39, act June 15, 1917, ch. 30, title XIII, §2, 40 Stat. 231; Proc. No. 2695, eff. July 4, 1946, 11 F.R. 7517, 60 Stat. 1352, related to jurisdiction of Canal Zone courts over offenses on high seas. See section 3241 of Title 18.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Repeal of sections 31 to 39 effective Sept. 1, 1948, see section 38 of act June 25, 1948, set out as an Effective Date note preceding section 1 of Title 28, Judiciary and Judicial Procedure.

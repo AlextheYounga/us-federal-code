@@ -4,6 +4,8 @@ Whenever there is a declared war between the United States and any foreign natio
 
 (R.S. §4067; Apr. 16, 1918, ch. 55, 40 Stat. 531.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 R.S. §4067 derived from act July 6, 1798, ch. 66, §1, 1 Stat. 577.
@@ -11,6 +13,8 @@ R.S. §4067 derived from act July 6, 1798, ch. 66, §1, 1 Stat. 577.
 #### Amendments ####
 
 **1918**—Act Apr. 16, 1918, struck out provision restricting this section to males.
+
+#### **Executive Documents** ####
 
 #### World War II Proclamations ####
 

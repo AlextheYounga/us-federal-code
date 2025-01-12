@@ -1,5 +1,7 @@
 ### §§161 to 164. Omitted ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Act Mar. 3, 1925, ch. 426, 43 Stat. 1110, as completely amended, renumbered, and revised by Pub. L. 86–777, Sept. 13, 1960, 74 Stat. 918, is classified to section 167 et seq. of this title.

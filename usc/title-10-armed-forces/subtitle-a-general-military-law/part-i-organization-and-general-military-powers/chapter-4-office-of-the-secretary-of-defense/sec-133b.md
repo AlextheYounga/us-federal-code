@@ -56,7 +56,7 @@ Another prior section 133b was renumbered section 118 of this title and was subs
 
 **2021**—Subsec. (b)(9). Pub. L. 116–283, §811(a)(2), added par. (9).
 
-Subsec. (b)(9)(C). Pub. L. 116–283, §1883(b)(2), substituted section 4801 for section 2500.
+Subsec. (b)(9)(C). Pub. L. 116–283, §1883(b)(2), substituted "section 4801" for "section 2500".
 
 **2019**—Subsec. (b)(2). Pub. L. 116–92, §902(92), inserted "appropriate prototyping activities," after "development,".
 
@@ -70,7 +70,7 @@ Subsec. (c)(2). Pub. L. 115–91, §910(c)(3)(B), inserted "the Chief Management
 
 #### Effective Date of 2021 Amendment ####
 
-Amendment by 1883(b)(2) of Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding section 3001 of this title.
+Amendment by section 1883(b)(2) of Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding section 3001 of this title.
 
 #### Effective Date of 2017 Amendment ####
 

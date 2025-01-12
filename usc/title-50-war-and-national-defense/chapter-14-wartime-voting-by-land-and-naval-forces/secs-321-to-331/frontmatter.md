@@ -24,6 +24,8 @@ Section 331, act Sept. 16, 1942, ch. 561, title II, §211, as added Apr. 19, 194
 
 A prior section 331, act Sept. 16, 1942, ch. 561, title III, §301, as added Apr. 1, 1944, ch. 150, 58 Stat. 140, related to establishment of United States War Ballot Commission and was repealed by act Apr. 19, 1946, ch. 142, 60 Stat. 96.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Additional Repeal ####
 
 Sections 321 to 331 were also repealed by act Aug. 10, 1956, ch. 1041, §53, 70A Stat. 641.

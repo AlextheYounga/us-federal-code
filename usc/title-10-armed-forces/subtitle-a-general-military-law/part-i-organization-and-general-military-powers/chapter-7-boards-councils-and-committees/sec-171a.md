@@ -140,7 +140,7 @@ Pub. L. 116–283, div. A, title XVIII, §§1801(d), 1845(c)(2), Jan. 1, 2021, 1
 
 Subsec. (i)(3). Pub. L. 116–283, §1883(b)(2), substituted "4251(d)" for "2366a(d)".
 
-Pub. L. 116–283, §1845(c)(2), which directed substitution of "sections 4172(e)" for "section 2366(e)", was executed by making substitution for "sections 2366(e)", to reflect the probably intent of Congress.
+Pub. L. 116–283, §1845(c)(2), which directed substitution of "sections 4172(e)" for "section 2366(e)", was executed by making the substitution for "sections 2366(e)", to reflect the probable intent of Congress.
 
 **2019**—Pub. L. 116–92 substituted "and Sustainment" for ", Technology, and Logistics" wherever appearing.
 

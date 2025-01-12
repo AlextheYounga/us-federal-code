@@ -40,7 +40,7 @@ A prior chapter 80, comprised of sections 1571 to 1577, relating to Exemplary Re
 
 #### Amendments ####
 
-**2021**—Pub. L. 116–283, div. A, title V, §§523(c), 532(a)(2), Jan. 1, 2021, 134 Stat. 3599, 3602, added items 1561b, 1563, and 1563a and struck out former item 1563 "Consideration of proposals for posthumous and honorary promotions and appointments: procedures for review." Item 1561b was added after item 1561a to reflect the probable intent of Congress, notwithstanding directory language adding it after item 1561b.
+**2021**—Pub. L. 116–283, div. A, title V, §§523(c), 532(a)(2), Jan. 1, 2021, 134 Stat. 3599, 3602, added items 1561b, 1563, and 1563a and struck out former item 1563 "Consideration of proposals for posthumous and honorary promotions and appointments: procedures for review". Item 1561b was added after item 1561a to reflect the probable intent of Congress, notwithstanding directory language adding it after item 1561b.
 
 **2018**—Pub. L. 115–232, div. A, title XVI, §1622(b), Aug. 13, 2018, 132 Stat. 2118, added item 1564b.
 

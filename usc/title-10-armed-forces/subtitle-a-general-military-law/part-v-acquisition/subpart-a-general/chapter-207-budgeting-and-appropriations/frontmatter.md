@@ -17,3 +17,7 @@ Sec.
 3137. Procurement of contract services: specification of amounts requested in budget.
 
 3138. Obligations for contract services: reporting in budget object classes.
+
+#### Prior Provisions ####
+
+A prior chapter 207 "BUDGETING AND APPROPRIATIONS MATTERS", as added by Pub. L. 115–232, div. A, title VIII, §801(a), Aug. 13, 2018, 132 Stat. 1826, and consisting of reserved section 3101, was repealed by Pub. L. 116–283, div. A, title XVIII, §1809(a), Jan. 1, 2021, 134 Stat. 4160.

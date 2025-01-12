@@ -13,3 +13,9 @@ Sec.
 4575. [Reserved].
 
 4576. Requirement for consideration of certain matters during acquisition of noncommercial computer software.
+
+#### Prior Provisions ####
+
+A prior chapter 345 "ACQUISITION OF INFORMATION TECHNOLOGY", consisting of reserved section 4571, was repealed by Pub. L. 116–283, div. A, title XVIII, §1857(a), Jan. 1, 2021, 134 Stat. 4276.
+
+Another prior chapter 345 was renumbered chapter 725 of this title.

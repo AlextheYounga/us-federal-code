@@ -4,6 +4,8 @@ Any awards granted under section 47b of this title shall be certified by the Att
 
 (July 15, 1955, ch. 372, §6, 69 Stat. 366; Pub. L. 93–377, §1(c), Aug. 17, 1974, 88 Stat. 473.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The National Security Act of 1947, as amended, referred to in text, is act July 26, 1947, ch. 343, 61 Stat. 495, which is classified principally to chapter 44 (§3001 et seq.) of this title. For complete classification of this Act to the Code, see Tables.
@@ -11,6 +13,8 @@ The National Security Act of 1947, as amended, referred to in text, is act July 
 #### Amendments ####
 
 **1974**—Pub. L. 93–377 substituted "Attorney General" for "Awards Board".
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Change of Name ####
 

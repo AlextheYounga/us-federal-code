@@ -6,6 +6,8 @@
 
 (July 15, 1955, ch. 372, §5, 69 Stat. 366; Pub. L. 93–377, §1(b), Aug. 17, 1974, 88 Stat. 473.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1974**—Pub. L. 93–377 designated existing provisions as subsec. (a), substituted "Attorney General" for "Board as administering agent", and added subsec. (b).

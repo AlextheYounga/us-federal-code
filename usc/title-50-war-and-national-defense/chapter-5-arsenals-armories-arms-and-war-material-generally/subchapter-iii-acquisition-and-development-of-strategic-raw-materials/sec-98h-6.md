@@ -36,6 +36,8 @@ The President shall include in the reports required under section 98h–2(a) of 
 
 (June 7, 1939, ch. 190, §15, as added Pub. L. 101–189, div. C, title XXXIII, §3312(a), Nov. 29, 1989, 103 Stat. 1687; amended Pub. L. 113–66, div. A, title XIV, §1411(c), Dec. 26, 2013, 127 Stat. 934; Pub. L. 114–328, div. A, title XIV, §1412(b), Dec. 23, 2016, 130 Stat. 2570.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2016**—Subsec. (a)(3), (4). Pub. L. 114–328 added pars. (3) and (4).

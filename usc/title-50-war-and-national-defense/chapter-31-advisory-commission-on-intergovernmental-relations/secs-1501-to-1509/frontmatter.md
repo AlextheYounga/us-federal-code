@@ -1,5 +1,7 @@
 ### §§1501 to 1509. Transferred ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section 1501, Pub. L. 86–380, §1, Sept. 24, 1959, 73 Stat. 703, which related to establishment of the Advisory Commission on Intergovernmental Relations, was transferred to section 4271 of Title 42, The Public Health and Welfare.

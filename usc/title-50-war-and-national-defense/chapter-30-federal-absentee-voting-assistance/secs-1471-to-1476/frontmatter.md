@@ -1,5 +1,7 @@
 ### §§1471 to 1476. Transferred ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section 1471, act Aug. 9, 1955, ch. 656, title III, §301, 69 Stat. 588, which related to definitions, was transferred to section 1973cc–21 of Title 42, The Public Health and Welfare.

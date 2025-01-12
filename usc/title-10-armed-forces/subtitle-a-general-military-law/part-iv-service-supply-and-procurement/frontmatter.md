@@ -19,7 +19,7 @@ Chap. Sec.
 
 139. Research and Development 2351
 
-140. Procurement of Commercial Products and Commercial Services 2375.
+140. Procurement of Commercial Products and Commercial Services 2375. 1
 
 141. Miscellaneous Procurement Provisions 2381
 
@@ -89,7 +89,7 @@ See 2021 Amendment note below.
 
 **2021**—Pub. L. 116–283, div. A, title XVIII, §§1808(a)(4), 1821(a)(4), 1851(d)(2), 1872(b)(2), 1880(a), 1881(b), 1882(a)(2), Jan. 1, 2021, 134 Stat. 4159, 4195, 4273, 4289, 4293, substituted "SERVICE, SUPPLY, AND PROPERTY" for "SERVICE, SUPPLY, AND PROCUREMENT" in heading for part IV and "Miscellaneous Provisions Relating to Property" for "Miscellaneous Procurement Provisions" in item for chapter 141 and struck out items for chapters 137 "Procurement Generally", 139 "Research and Development", 140 "Procurement of Commercial Products and Commercial Services", 142 "Procurement Technical Assistance Cooperative Agreement Program", 144 "Major Defense Acquisition Programs", 144B "Weapon Systems Development and Related Matters", 148 "National Defense Technology and Industrial Base, Defense Reinvestment, and Defense Conversion", and 149 "Defense Acquisition System".
 
-Pub. L. 116–283, div. A, title X, §1081(a)(3), Jan. 1, 2021, 134 Stat. 3870, substituted "2375" for "2377" in item for chapter 140.
+Pub. L. 116–283, div. A, title X, §1081(a)(3), Jan. 1, 2021, 134 Stat. 3870, substituted "2375." for "2377" in item for chapter 140.
 
 **2018**—Pub. L. 115–232, div. A, title VIII, §836(e)(12), Aug. 13, 2018, 132 Stat. 1870, substituted "Procurement of Commercial Products and Commercial Services" for "Procurement of Commercial Items" and "2377" for "2375" in item for chapter 140.
 
@@ -146,3 +146,5 @@ Pub. L. 99–433, title VI, §605(b), Oct. 1, 1986, 100 Stat. 1075a, added item 
 Pub. L. 97–214, §2(b), July 12, 1982, 96 Stat. 169, added item for chapter 169.
 
 **1980**—Pub. L. 96–323, §2(b), Aug. 4, 1980, 94 Stat. 1019, added item for chapter 138.
+
+[<sup>1</sup> So in original. The period probably should not appear.](#PARTIV_1)

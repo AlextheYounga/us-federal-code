@@ -12,6 +12,8 @@ Section 555, act May 5, 1950, ch. 169, §1, 64 Stat. 110, provided that this cha
 
 Section 556, act May 5, 1950, ch. 169, §1, 64 Stat. 110, related to judge advocates and legal officers. See section 806 of Title 10.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Repeal effective Jan. 1, 1957, see act Aug. 10, 1956, ch. 1041, §53 footnote, 70A Stat. 680.

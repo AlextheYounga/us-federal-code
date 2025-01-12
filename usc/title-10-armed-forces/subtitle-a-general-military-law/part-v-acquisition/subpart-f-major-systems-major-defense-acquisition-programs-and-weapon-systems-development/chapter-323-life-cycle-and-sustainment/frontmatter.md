@@ -18,4 +18,8 @@ Sec.
 
 4328. Weapon system design: sustainment factors.
 
+#### Prior Provisions ####
+
+A prior chapter 323 "INNOVATION", consisting of reserved section 4301, was repealed by Pub. L. 116–283, div. A, title XVIII, §1841(a)(1)(A), Jan. 1, 2021, 134 Stat. 4242.
+
 [<sup>1</sup> So in original. Does not conform to section catchline.](#CHAPTER323_1)

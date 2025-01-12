@@ -78,7 +78,7 @@
 
 #### References in Text ####
 
-Section 1004(a) of the William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021, referred to in subsec. (b)(1)(B)(xiii), is section 1004(a) of Pub. L. 116–283, div. A, title X, Jan. 1, 2021, 134 Stat. 3837, which is set out as a note below.
+Section 1004(a) of the William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021, referred to in subsec. (b)(1)(B)(xiii), is section 1004(a) of Pub. L. 116–283, which is set out as a note below.
 
 #### Codification ####
 

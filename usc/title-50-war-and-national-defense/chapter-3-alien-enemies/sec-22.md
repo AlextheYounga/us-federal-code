@@ -4,6 +4,8 @@ When an alien who becomes liable as an enemy, in the manner prescribed in sectio
 
 (R.S. §4068.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 R.S. §4068 derived from acts July 6, 1798, ch. 66, §1, 1 Stat. 577; July 6, 1812, ch. 130, 2 Stat. 781.

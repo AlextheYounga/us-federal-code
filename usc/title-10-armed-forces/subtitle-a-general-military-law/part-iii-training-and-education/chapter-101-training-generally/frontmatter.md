@@ -122,7 +122,7 @@ Pub. L. 116–283, div. A, title II, §246, Jan. 1, 2021, 134 Stat. 3490, provid
 
 "(d) Termination.—The requirement to carry out the pilot program under this section shall terminate five years after the date of the enactment of this Act."
 
-#### Pilot Program on Self-directed Training in Advanced Technologies ####
+#### Pilot Program on Self-Directed Training in Advanced Technologies ####
 
 Pub. L. 116–283, div. A, title II, §248, Jan. 1, 2021, 134 Stat. 3492, provided that:
 

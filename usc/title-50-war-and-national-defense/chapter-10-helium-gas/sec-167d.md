@@ -224,6 +224,8 @@ The Secretary shall offer for sale or auction during each fiscal year under subs
 
 (Mar. 3, 1925, ch. 426, §6, as added Pub. L. 86–777, §2, Sept. 13, 1960, 74 Stat. 921; amended Pub. L. 104–273, §4, Oct. 9, 1996, 110 Stat. 3317; Pub. L. 113–40, §5, Oct. 2, 2013, 127 Stat. 536.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2013**—Pub. L. 113–40 amended section generally. Prior to amendment, section related to sale of helium.
@@ -245,6 +247,8 @@ Pub. L. 104–273, §4(c)(1), inserted "crude" after "Sales of".
 Subsec. (d). Pub. L. 104–273, §4(d), inserted heading and amended text generally. Prior to amendment, text read as follows: "Compound interest on the amounts specified in clauses (1), (2), and (3) of subsection (c) which have not been paid to the Treasury shall be calculated annually at rates determined by the Secretary of the Treasury taking into consideration the current average market yields of outstanding marketable obligations of the United States having maturities comparable to the investments authorized by this chapter, except that the interest rate on the amounts specified in clause (1) of subsection (c) shall be determined as of Sept. 13, 1960, and the interest rate on the obligations specified in clauses (2) and (3) of subsection (c) as of the time of each borrowing."
 
 Subsecs. (e), (f). Pub. L. 104–273, §4(e), (f), redesignated subsec. (f) as (e)(1), added par. (2), and struck out former subsec. (e) which read as follows: "Helium shall be sold for medical purposes at prices which will permit its general use therefor; and all sales of helium to non-Federal purchasers shall be upon condition that the Federal Government shall have a right to repurchase helium so sold that has not been lost or dissipated, when needed for Government use, under terms and at prices established by regulations."
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Transfer of Functions ####
 

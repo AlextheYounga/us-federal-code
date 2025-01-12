@@ -116,6 +116,8 @@ Section 727, act May 5, 1950, ch. 169, §1, 64 Stat. 142, related to conduct unb
 
 Section 728, act May 5, 1950, ch. 169, §1, 64 Stat. 142, was a general article covering offenses not specifically defined. See section 934 of Title 10.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Repeal effective Jan. 1, 1957, see act Aug. 10, 1956, ch. 1041, §53 footnote, 70A Stat. 680.

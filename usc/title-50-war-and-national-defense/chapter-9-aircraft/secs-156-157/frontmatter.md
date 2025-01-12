@@ -1,5 +1,7 @@
 ### §§156, 157. Omitted ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section 156, acts Apr. 18, 1940, ch. 107, §1, 54 Stat. 134; Oct. 28, 1949, ch. 782, title XI, §1106(a), 63 Stat. 972, authorized National Advisory Committee for Aeronautics to pay compensation of a retired officer of the Army or Navy performing service for Committee. See note set out under sections 151 to 151f of this title.

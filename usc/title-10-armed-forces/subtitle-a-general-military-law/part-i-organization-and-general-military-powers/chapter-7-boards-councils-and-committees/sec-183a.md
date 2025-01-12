@@ -110,7 +110,7 @@
 
 **2021**—Subsec. (c)(2). Pub. L. 116–283, §311(1), designated existing provisions as subpar. (A) and added subpar. (B).
 
-Subsec. (c)(4) to (6). Pub. L. 116–283, §311(2), (3), added par. (4) and redesignated former pars. (4) and (5) as (5) and (6), respectively.
+Subsec. (c)(4) to (6). Pub. L. 116–283, §311(2), (3), added par. (4) and redesignated former pars. (4) and (5) as (5) and (6), respectively. Former par. (6) redesignated (7).
 
 Subsec. (c)(7). Pub. L. 116–283, §311(2), (4), redesignated par. (6) as (7) and struck out "Any setback for a project pursuant to the previous sentence shall not be more than what is determined to be necessary by a technical analysis conducted by the Lincoln Laboratory at the Massachusetts Institute of Technology or any successor entity." before "Material marked".
 

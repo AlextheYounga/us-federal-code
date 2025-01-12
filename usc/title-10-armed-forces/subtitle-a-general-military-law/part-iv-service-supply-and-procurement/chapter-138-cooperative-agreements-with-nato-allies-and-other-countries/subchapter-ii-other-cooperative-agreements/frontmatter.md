@@ -32,7 +32,7 @@ Participation in European program on multilateral exchange of surface transporta
 
 2350n. North Atlantic Treaty Organization Joint Force Command.
 
-2350o. Participation in programs relating to coordination or exchange of air refueling and air transportation services.
+2350 o. Participation in programs relating to coordination or exchange of air refueling and air transportation services.
 
 2350p. Reciprocal patient movement agreements.
 
@@ -40,7 +40,7 @@ Participation in European program on multilateral exchange of surface transporta
 
 #### Amendment of Analysis ####
 
-Pub. L. 116–283, div. A, title XVIII, §§1801(d), 1844(b)(2)(A), Jan. 1, 2021, 134 Stat. 4151, 4246, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, this analysis is amended by striking the item relating to section 2350l. See 2021 Amendment note below.
+Pub. L. 116–283, div. A, title XVIII, §§1801(d), 1844(b)(2)(A), Jan. 1, 2021, 134 Stat. 4151, 4246, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, this analysis is amended by striking item 2350l. See 2021 Amendment note below.
 
 #### Amendments ####
 

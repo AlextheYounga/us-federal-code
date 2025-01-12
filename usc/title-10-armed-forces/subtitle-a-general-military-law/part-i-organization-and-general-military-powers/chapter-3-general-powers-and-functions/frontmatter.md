@@ -70,8 +70,6 @@ Sec.
 
 [130j, 130k. Renumbered.]
 
-#### **Editorial Notes** ####
-
 #### Amendments ####
 
 **2021**—Pub. L. 116–283, div. A, title IX, §911(a)(2), title X, §1052(b), Jan. 1, 2021, 134 Stat. 3801, 3850, added items 125a and 127f.

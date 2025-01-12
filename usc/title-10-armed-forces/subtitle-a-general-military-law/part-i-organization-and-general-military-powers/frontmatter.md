@@ -37,7 +37,7 @@ Chap. Sec.
 
 19. 1 Cyber and Information Operations Matters 391
 
-19. 1 Cyber Matters 391
+19. 1 Cyber Matters 391. 2
 
 20. Humanitarian and Other Assistance 401
 
@@ -51,17 +51,17 @@ Chap. Sec.
 
 #### Amendments ####
 
-**2021**—Pub. L. 116–283, div. A, title X, §1081(a)(1), Jan. 1, 2021, 134 Stat. 3870, added item for chapter 19.
+**2021**—Pub. L. 116–283, div. A, title X, §1081(a)(1), Jan. 1, 2021, 134 Stat. 3870, added second item for chapter 19.
 
-**2019**—Pub. L. 116–92, div. A, title XVI, §1631(a)(2)(B), title XVII, §1731(a)(1), Dec. 20, 2019, 133 Stat. 1742, 1812, substituted "240a" for "251" in item for chapter 9A and "Cyber and Information Operations Matters" for "Cyber Matters" in item for chapter 19.
+**2019**—Pub. L. 116–92, div. A, title XVI, §1631(a)(2)(B), title XVII, §1731(a)(1), Dec. 20, 2019, 133 Stat. 1742, 1812, substituted "240a" for "251" in item for chapter 9A and "Cyber and Information Operations Matters" for "Cyber Matters" in first item for chapter 19.
 
 **2017**—Pub. L. 115–91, div. A, title X, §1002(a)(2), Dec. 12, 2017, 131 Stat. 1537, added item for chapter 9A.
 
 **2016**—Pub. L. 114–328, div. A, title XII, §1241(o)(1), Dec. 23, 2016, 130 Stat. 2512, redesignated item for chapter 13 "The Militia" as 12 and substituted "246" for "311", redesignated item for chapter 15 "Insurrection" as 13 and substituted "251" for "331", redesignated item for chapter 17 "Arming of American Vessels" as 14 and substituted "261" for "351", redesignated item for chapter 18 "Military Support for Civilian Law Enforcement Agencies" as 15 and substituted "271" for "371", and added item for chapter 16.
 
-**2015**—Pub. L. 114–92, div. A, title X, §1081(a)(1), Nov. 25, 2015, 129 Stat. 1000, substituted "Cyber Matters" for "Cyber matters" in item for chapter 19.
+**2015**—Pub. L. 114–92, div. A, title X, §1081(a)(1), Nov. 25, 2015, 129 Stat. 1000, substituted "Cyber Matters" for "Cyber matters" in first item for chapter 19.
 
-**2014**—Pub. L. 113–291, div. A, title XVI, §1632(d), Dec. 19, 2014, 128 Stat. 3640, added item for chapter 19.
+**2014**—Pub. L. 113–291, div. A, title XVI, §1632(d), Dec. 19, 2014, 128 Stat. 3640, added first item for chapter 19.
 
 **2013**—Pub. L. 113–66, div. A, title X, §1091(a)(1), Dec. 26, 2013, 127 Stat. 875, substituted "Nuclear Posture" for "Nuclear posture" in item for chapter 24.
 
@@ -100,3 +100,5 @@ Pub. L. 99–433, title VI, §605(a), Oct. 1, 1986, 100 Stat. 1075a, added items
 **1962**—Pub. L. 87–651, title II, §203, Sept. 7, 1962, 76 Stat. 519, added item for chapter 4.
 
 [<sup>1</sup> So in original. Two items for chapter 19 have been enacted.](#PARTI_1)
+
+[<sup>2</sup> So in original. The period probably should not appear.](#PARTI_2)

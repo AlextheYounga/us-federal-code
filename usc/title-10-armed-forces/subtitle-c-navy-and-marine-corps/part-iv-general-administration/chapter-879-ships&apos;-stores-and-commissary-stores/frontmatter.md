@@ -16,7 +16,7 @@ Sec.
 
 #### Amendments ####
 
-**2021**—Pub. L. 116–283, div. A, title IX, §924(d)(2)(C), Jan. 1, 2021, 134 Stat. 3826, added item 8802.
+**2021**—Pub. L. 116–283, div. A, title IX, §924(d)(2)(C), Jan. 1, 2021, 134 Stat. 3826, added item 8802 and struck out former item 8802 "Sales: members of Army and Air Force; prices".
 
 **2018**—Pub. L. 115–232, div. A, title VIII, §807(e)(4), (f)(1), Aug. 13, 2018, 132 Stat. 1838, redesignated chapter 651 of this title as this chapter and items 7601 to 7606 as 8801 to 8806, respectively.
 

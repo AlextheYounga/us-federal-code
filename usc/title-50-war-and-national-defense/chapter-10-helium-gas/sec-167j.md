@@ -36,6 +36,8 @@ Containing an area of 331 acres, more or less.
 
 (Mar. 3, 1925, ch. 426, §12, as added Pub. L. 86–777, §2, Sept. 13, 1960, 74 Stat. 923; amended Pub. L. 104–273, §6, Oct. 9, 1996, 110 Stat. 3318.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1996**—Pub. L. 104–273 amended section generally. Prior to amendment, section related to Secretary's authority under Federal helium refining program to obtain loans and issue obligations to carry out program.

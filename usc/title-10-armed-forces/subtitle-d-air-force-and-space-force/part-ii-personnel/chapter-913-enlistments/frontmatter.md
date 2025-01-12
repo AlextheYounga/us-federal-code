@@ -12,7 +12,7 @@ Sec.
 
 #### Amendments ####
 
-**2021**—Pub. L. 116–283, div. A, title IX, §923(c)(1)(C), (2)(C), Jan. 1, 2021, 134 Stat. 3810, substituted "Regular Air Force and Regular Space Force: gender-free basis for acceptance of original enlistments" for "Regular Air Force: gender-free basis for acceptance of original enlistments" in item 9132 and "Regular Air Force and Regular Space Force: reenlistment after service as an officer" for "Regular Air Force: reenlistment after service as an officer" in item 9138.
+**2021**—Pub. L. 116–283, div. A, title IX, §923(c)(1)(C), (2)(C), Jan. 1, 2021, 134 Stat. 3810, added items 9132 and 9138 and struck out former items 9132 "Regular Air Force: gender-free basis for acceptance of original enlistments" and 9138 "Regular Air Force: reenlistment after service as an officer".
 
 **2018**—Pub. L. 115–232, div. A, title VIII, §806(d)(3)(A), (e)(1), Aug. 13, 2018, 132 Stat. 1833, redesignated chapter 833 of this title as this chapter and items 8251, 8252, 8257, and 8258 as 9131, 9132, 9137, and 9138, respectively.
 

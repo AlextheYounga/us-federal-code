@@ -28,7 +28,7 @@ Sec.
 
 #### Amendments ####
 
-**2021**—Pub. L. 116–283, div. A, title IX, §923(e)(16)(C), (17)(C), Jan. 1, 2021, 134 Stat. 3818, 3819, substituted "Acceptance of donations: land for mobilization, training, supply base, aviation field, or space mission-related facility" for "Acceptance of donations: land for mobilization, training, supply base, or aviation field" in item 9771 and "Acquisition and construction: installations and depots" for "Acquisition and construction: air bases and depots" in item 9773.
+**2021**—Pub. L. 116–283, div. A, title IX, §923(e)(16)(C), (17)(C), Jan. 1, 2021, 134 Stat. 3818, 3819, added items 9771 and 9773 and struck out former items 9771 "Acceptance of donations: land for mobilization, training, supply base, or aviation field" and 9773 "Acquisition and construction: air bases and depots".
 
 **2018**—Pub. L. 115–232, div. A, title VIII, §806(d)(1), Aug. 13, 2018, 132 Stat. 1833, redesignated chapter 949 of this title as this chapter.
 

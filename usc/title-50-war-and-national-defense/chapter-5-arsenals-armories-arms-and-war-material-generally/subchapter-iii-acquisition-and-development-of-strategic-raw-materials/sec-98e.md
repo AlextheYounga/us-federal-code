@@ -48,6 +48,8 @@ The President may acquire leasehold interests in property, for periods not in ex
 
 (June 7, 1939, ch. 190, §6, as added Pub. L. 96–41, §2(a), July 30, 1979, 93 Stat. 321; amended Pub. L. 97–35, title II, §203(c), Aug. 13, 1981, 95 Stat. 382; Pub. L. 99–661, div. C, title II, §3207(b), Nov. 14, 1986, 100 Stat. 4069; Pub. L. 101–189, div. C, title XXXIII, §3314, Nov. 29, 1989, 103 Stat. 1688; Pub. L. 101–510, div. C, title XXXIII, §3301(a), (b), Nov. 5, 1990, 104 Stat. 1844; Pub. L. 102–190, div. C, title XXXIII, §3312, Dec. 5, 1991, 105 Stat. 1584; Pub. L. 103–337, div. C, title XXXIII, §3302, Oct. 5, 1994, 108 Stat. 3098; Pub. L. 104–106, div. A, title XV, §1502(e)(1), Feb. 10, 1996, 110 Stat. 509; Pub. L. 104–201, div. C, title XXXIII, §3312(b), (c), Sept. 23, 1996, 110 Stat. 2857; Pub. L. 105–85, div. C, title XXXIII, §3306, Nov. 18, 1997, 111 Stat. 2058; Pub. L. 106–65, div. A, title X, §1067(13), Oct. 5, 1999, 113 Stat. 775; Pub. L. 113–66, div. A, title XIV, §1411(a), Dec. 26, 2013, 127 Stat. 934.)
 
+#### **Editorial Notes** ####
+
 #### Prior Provisions ####
 
 A prior section 98e, acts June 7, 1939, ch. 190, §6, 53 Stat. 812; May 28, 1941, ch. 135, 55 Stat. 206; July 23, 1946, ch. 590, 60 Stat. 598; Ex. Ord. No. 9809, eff. Dec. 12, 1946, 11 F.R. 14281; Ex. Ord. No. 9841, eff. Apr. 23, 1947, 12 F.R. 2645; June 30, 1949, ch. 288, title I, §105, 63 Stat. 381; 1953 Reorg. Plan No. 3, §2(b), eff. June 12, 1953, 18 F.R. 3375, 67 Stat. 634; 1958 Reorg. Plan No. 1, §2, eff. July 1, 1958, 23 F.R. 4991, 72 Stat. 1799; Oct. 21, 1968, Pub. L. 90–608, §402, 82 Stat. 1194; Ex. Ord. No. 11725, §3, eff. June 29, 1973, 38 F.R. 17175, related to transfer of surplus materials to stock piles, prior to repeal by section 2(a) of Pub. L. 96–41. See section 98c(b) of this title.
@@ -90,10 +92,14 @@ Subsec. (d)(1). Pub. L. 101–189, §3314(2), substituted "paragraph (1) or (2)"
 
 **1981**—Subsec. (a)(6). Pub. L. 97–35 inserted reference to section 98d(b) of this title.
 
-#### Delegation of Functions ####
-
-Functions of President under this section delegated to Secretary of Defense by section 1 of Ex. Ord. No. 12636, Feb. 25, 1988, 53 F.R. 6114, set out under section 98 of this title.
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Acquisition of Depleted Uranium for National Defense Stockpile ####
 
 Pub. L. 101–511, title VIII, §8095, Nov. 5, 1990, 104 Stat. 1896, directed President, using funds available in National Defense Stockpile Transaction Fund, to acquire over a period of ten years from current domestic sources not less than thirty-six million pounds of depleted uranium to be held in National Defense Stockpile, prior to repeal by Pub. L. 102–172, title VIII, §8027A, Nov. 26, 1991, 105 Stat. 1177.
+
+#### **Executive Documents** ####
+
+#### Delegation of Functions ####
+
+Functions of President under this section delegated to Secretary of Defense by section 1 of Ex. Ord. No. 12636, Feb. 25, 1988, 53 F.R. 6114, set out under section 98 of this title.

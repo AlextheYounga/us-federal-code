@@ -219,7 +219,7 @@ Pub. L. 116–283, div. A, title V, §557, Jan. 1, 2021, 134 Stat. 3637, provide
 
 "(2) Exceptions.—
 
-"(A) Delayed implementation.—The Secretary of Defense may commence implementation of a recommendation described [in] paragraph (1) [not] later than March 1, 2023, if—
+"(A) Delayed implementation.—The Secretary of Defense may commence implementation of a recommendation described [in] paragraph (1) later than March 1, 2023, if—
 
 "(i) the Secretary submits to the congressional defense committees, not later than January 1, 2023, written notice of the intent of the Secretary to delay implementation of the recommendation; and
 

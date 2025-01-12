@@ -1,5 +1,7 @@
 ### §§158 to 159. Transferred ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section 158, act Aug. 1, 1947, ch. 433, §1(b), (c), as added July 13, 1949, ch. 332, §1, 63 Stat. 410, related to professional and scientific service on the Committee and was transferred to section 1161 of former Title 5, Executive Departments and Government Officers and Employees, prior to repeal by Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 378.

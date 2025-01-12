@@ -6,7 +6,7 @@ Sec.
 
 [202, 203. Repealed.]
 
-[204. Renumbered].
+204. Small Business Ombudsman for defense audit agencies.
 
 205. Missile Defense Agency.
 

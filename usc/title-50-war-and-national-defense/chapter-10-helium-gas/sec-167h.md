@@ -6,6 +6,8 @@
 
 (Mar. 3, 1925, ch. 426, §10, as added Pub. L. 86–777, §2, Sept. 13, 1960, 74 Stat. 922.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 In subsecs. (a) and (b), "subchapter II of chapter 5 of title 5" and "chapter 7 of title 5" substituted for "the Administrative Procedure Act of June 11, 1946 (60 Stat. 637; 5 U.S.C. 1001–1011), as amended", "the Administrative Procedure Act", and "section 10 of the Administrative Procedure Act", respectively, on authority of Pub. L. 89–554, §7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5, Government Organization and Employees.

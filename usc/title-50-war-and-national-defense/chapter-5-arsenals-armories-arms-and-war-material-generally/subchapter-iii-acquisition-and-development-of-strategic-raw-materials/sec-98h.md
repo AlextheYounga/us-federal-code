@@ -58,6 +58,8 @@ If, during a fiscal year, the National Defense Stockpile Manager barters materia
 
 (June 7, 1939, ch. 190, §9, as added Pub. L. 96–41, §2(a), July 30, 1979, 93 Stat. 323; amended Pub. L. 97–35, title II, §203(d), Aug. 13, 1981, 95 Stat. 382; Pub. L. 99–661, div. C, title II, §3203(a), Nov. 14, 1986, 100 Stat. 4067; Pub. L. 100–180, div. C, title II, §3204, Dec. 4, 1987, 101 Stat. 1247; Pub. L. 101–189, div. C, title XXXIII, §3312(b), Nov. 29, 1989, 103 Stat. 1688; Pub. L. 101–510, div. C, title XXXIII, §3301(c), Nov. 5, 1990, 104 Stat. 1845; Pub. L. 102–190, div. C, title XXXIII, §3311(a), Dec. 5, 1991, 105 Stat. 1584; Pub. L. 102–484, div. C, title XXXIII, §3313, Oct. 23, 1992, 106 Stat. 2653; Pub. L. 103–160, div. C, title XXXIII, §3313, Nov. 30, 1993, 107 Stat. 1962; Pub. L. 105–261, div. C, title XXXIII, §3304, Oct. 17, 1998, 112 Stat. 2264; Pub. L. 113–66, div. A, title XIV, §1411(b), Dec. 26, 2013, 127 Stat. 934.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Paragraphs (5) and (6) of section 98e(a) of this title, referred to in subsec. (b)(1), were redesignated as paragraphs (6) and (7) of section 98e(a) of this title by Pub. L. 113–66, div. A, title XIV, §1411(a), Dec. 26, 2013, 127 Stat. 934.
@@ -101,6 +103,8 @@ Subsec. (b)(2), (3). Pub. L. 99–661, §3203(a)(2), added pars. (2) and (3) and
 "(3) Moneys in the fund, when appropriated, shall remain available until expended, unless otherwise provided in appropriation Acts."
 
 **1981**—Subsec. (b). Pub. L. 97–35 in par. (1) struck out provisions relating to moneys remaining in the fund at the end of the third fiscal year following the fiscal year in which received, and in par. (3) substituted provisions respecting funds remaining available until expended, for provisions relating to funds remaining available for a period of five fiscal years.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Use of Funds From National Defense Stockpile Transaction Fund To Meet National Defense Stockpile Goals and Specifications in Effect on October 1, 1984 ####
 

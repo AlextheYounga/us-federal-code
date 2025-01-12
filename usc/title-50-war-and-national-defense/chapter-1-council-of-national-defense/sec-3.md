@@ -4,6 +4,8 @@ It shall be the duty of the Council of National Defense to supervise and direct 
 
 (Aug. 29, 1916, ch. 418, §2, 39 Stat. 649; Nov. 9, 1921, ch. 119, §3, 42 Stat. 212.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 The words "extensive highways and" which preceded "branch lines of railroad" omitted on authority of act Nov. 9, 1921, which transferred powers and duties of Council relating to highways to Secretary of Commerce.

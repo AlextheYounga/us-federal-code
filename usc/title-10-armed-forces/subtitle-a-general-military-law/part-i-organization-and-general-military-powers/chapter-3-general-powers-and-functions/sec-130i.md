@@ -126,7 +126,7 @@ The Presidential Protection Assistance Act of 1976, referred to in subsec. (j)(3
 
 #### Amendments ####
 
-**2021**—Subsec. (i)(1). Pub. L. 116–283, §1081(a)(8)(A), substituted "of subsection (j)(3)(C) shall" for "of subsection (j)(3)(C) shall", resulting in no change in text. See 2019 Amendment notes and Coordination of Amendments by Pub. L. 116–92 note below
+**2021**—Subsec. (i)(1). Pub. L. 116–283, §1081(a)(8)(A), substituted "of subsection (j)(3)(C) shall" for "of subsection (j)(3)(C) shall", resulting in no change in text. See 2019 Amendment notes and Coordination of Amendments by Pub. L. 116–92 note below.
 
 Subsec. (j)(3)(C)(ix). Pub. L. 116–283, §1845(c)(4), substituted "sections 4173(i)" for "section 196(i)".
 
@@ -146,7 +146,7 @@ Pub. L. 116–92, §1694(b)(2), substituted "in section 44801 of title 49" for "
 
 #### Effective Date of 2021 Amendment ####
 
-Amendment by 1845(c)(4) of Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding section 3001 of this title.
+Amendment by section 1845(c)(4) of Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding section 3001 of this title.
 
 #### Coordination of Amendments by Pub. L. 116–92 ####
 

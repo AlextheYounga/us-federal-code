@@ -11,3 +11,9 @@ Sec.
 3904. Research and educational programs and activities: historically black colleges and universities and minority-serving institutions of higher education.
 
 3905. Products of Federal Prison Industries: procedural requirements.
+
+#### Prior Provisions ####
+
+A prior chapter 285 "SMALL BUSINESS PROGRAMS", as added by Pub. L. 115–232, div. A, title VIII, §801(a), Aug. 13, 2018, 132 Stat. 1828, and consisting of reserved section 3901, was repealed by Pub. L. 116–283, div. A, title XVIII, §1871(a)(1), Jan. 1, 2021, 134 Stat. 4287.
+
+A prior chapter 287 "SOCIOECONOMIC PROGRAMS", as added by Pub. L. 115–232, div. A, title VIII, §801(a), Aug. 13, 2018, 132 Stat. 1829, and consisting of reserved section 3961, was repealed by Pub. L. 116–283, div. A, title XVIII, §1838(a), Jan. 1, 2021, 134 Stat. 4242.

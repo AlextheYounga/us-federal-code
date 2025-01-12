@@ -12,6 +12,8 @@ As used in this chapter—
 
 (July 15, 1955, ch. 372, §7, 69 Stat. 366.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Atomic Energy Act of 1954, referred to in subsec. (c), is act Aug. 1, 1946, ch. 724, as added by act Aug. 30, 1954, ch. 1073, §1, 68 Stat. 919, which is classified principally to chapter 23 (§2011 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of Title 42 and Tables.

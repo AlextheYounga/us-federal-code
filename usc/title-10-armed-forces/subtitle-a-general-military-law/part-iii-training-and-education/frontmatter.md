@@ -33,7 +33,7 @@ Chap. Sec.
 
 #### Amendments ####
 
-**2021**—Pub. L. 116–283, div. A, title X, §1081(c)(8), Jan. 1, 2021, 134 Stat. 3873, amended section 1731(a)(2) of Pub. L. 116–92. See 2019 Amendment note below.
+**2021**—Pub. L. 116–283, div. A, title X, §1081(c)(8), Jan. 1, 2021, 134 Stat. 3873, amended Pub. L. 116–92, §1731(a)(2). See 2019 Amendment note below.
 
 Pub. L. 116–283, div. A, title X, §1081(a)(2), Jan. 1, 2021, 134 Stat. 3870, which directed the amendment of the table of chapters "at the beginning of part IV" of this subtitle by adding item for chapter 113, was executed in the analysis for this part to reflect the probable intent of Congress.
 

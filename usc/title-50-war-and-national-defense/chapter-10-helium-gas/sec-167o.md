@@ -38,6 +38,8 @@ There is authorized to be appropriated to carry out this section $3,000,000.
 
 (Mar. 3, 1925, ch. 426, §17, as added Pub. L. 113–40, §6(3), Oct. 2, 2013, 127 Stat. 542.)
 
+#### **Editorial Notes** ####
+
 #### Prior Provisions ####
 
 A prior section 17 of act Mar. 3, 1925, ch. 426, was redesignated section 20 and is set out as a Separability note under section 167 of this title.

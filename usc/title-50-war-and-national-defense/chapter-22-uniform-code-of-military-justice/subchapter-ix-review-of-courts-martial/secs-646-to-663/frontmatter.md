@@ -36,6 +36,8 @@ Section 662, act May 5, 1950, ch. 169, §1, 64 Stat. 132, related to restoration
 
 Section 663, act May 5, 1950, ch. 169, §1, 64 Stat. 132, related to finality of court-martial judgments. See section 876 of Title 10.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Repeal effective Jan. 1, 1957, see act Aug. 10, 1956, ch. 1041, §53 footnote, 70A Stat. 680.

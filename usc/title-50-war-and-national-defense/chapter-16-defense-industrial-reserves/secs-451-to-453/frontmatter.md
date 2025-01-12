@@ -10,6 +10,8 @@ Section 452, acts July 2, 1948, ch. 811, §3, 62 Stat. 1225; Nov. 16, 1973, Pub.
 
 Section 453, acts July 2, 1948, ch. 811, §4, 62 Stat. 1226; Nov. 16, 1973, Pub. L. 93–155, title VIII, §809, 87 Stat. 617; Nov. 14, 1986, Pub. L. 99–661, div. A, title XIII, §1359(a), 100 Stat. 3999, related to powers and duties of Secretary of Defense, reimbursement for transferred Defense Industrial Reserve equipment, and regulations.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Short Title ####
 
 Act July 2, 1948, ch. 811, §1, 62 Stat. 1225, as amended by Pub. L. 93–155, title VIII, §809, Nov. 16, 1973, 87 Stat. 617, provided: "That this Act [enacting this chapter] may be cited as the 'Defense Industrial Reserve Act'."

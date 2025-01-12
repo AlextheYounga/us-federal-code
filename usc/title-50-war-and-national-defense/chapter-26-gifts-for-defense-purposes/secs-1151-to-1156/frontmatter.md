@@ -12,6 +12,8 @@ Section 1155, act July 27, 1954, ch. 582, §5, 68 Stat. 566, directed Secretary 
 
 Section 1156, act July 27, 1954, ch. 582, §6, 68 Stat. 566, provided that nothing in this chapter was to be construed to modify or repeal the authority to accept conditional gifts under any other provision of law.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Transfer of Funds ####
 
 Pub. L. 101–403, title II, §202(c), Oct. 1, 1990, 104 Stat. 874, provided that: "Any money in the special account provided for in section 3 of the Act [former 50 U.S.C. 1153] referred to in subsection (b) [repealing this chapter] on the date of the enactment of this Act [Oct. 1, 1990] shall be credited to the Defense Cooperation Account provided for in section 2608(b) of title 10, United States Code, as added by subsection (a)."

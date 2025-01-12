@@ -4,9 +4,13 @@ This subchapter may be cited as the "Strategic and Critical Materials Stock Pili
 
 (June 7, 1939, ch. 190, §1, as added Pub. L. 96–41, §2(a), July 30, 1979, 93 Stat. 319.)
 
+#### **Editorial Notes** ####
+
 #### Prior Provisions ####
 
 A prior section 98, acts June 7, 1939, ch. 190, §1, 53 Stat. 811; July 23, 1946, ch. 590, 60 Stat. 596, related to declaration of Congressional policy in enacting this subchapter, prior to repeal by section 2(a) of Pub. L. 96–41.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Short Title of 1987 Amendment ####
 

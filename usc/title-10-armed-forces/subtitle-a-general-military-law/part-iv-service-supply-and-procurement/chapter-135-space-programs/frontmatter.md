@@ -26,7 +26,7 @@ Sec.
 
 2279b. Council on Oversight of the Department of Defense Positioning, Navigation, and Timing Enterprise.
 
-[2279c. Renumbered §9081]
+[2279c. Renumbered.]
 
 2279d. Limitation on construction on United States territory of satellite positioning ground monitoring stations of certain foreign governments.
 

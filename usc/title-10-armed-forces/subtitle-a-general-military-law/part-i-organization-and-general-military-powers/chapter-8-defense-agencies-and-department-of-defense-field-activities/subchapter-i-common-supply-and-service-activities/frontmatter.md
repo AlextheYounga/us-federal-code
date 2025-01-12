@@ -12,7 +12,7 @@ Sec.
 
 195. Defense Automated Printing Service: applicability of Federal printing requirements.
 
-[196. Renumbered.]
+196. Department of Defense Test Resource Management Center.
 
 197. Defense Logistics Agency: fees charged for logistics information.
 

@@ -4,6 +4,8 @@ The Secretary of Defense and the Chairman of the Atomic Energy Commission may ea
 
 (Mar. 3, 1925, ch. 426, §7, as added Pub. L. 86–777, §2, Sept. 13, 1960, 74 Stat. 921.)
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Transfer of Functions ####
 
 Atomic Energy Commission abolished and functions transferred by sections 5814 and 5841 of Title 42, The Public Health and Welfare. See also Transfer of Functions notes set out under those sections.

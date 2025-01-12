@@ -36,6 +36,8 @@ The Secretary shall consider any applications for access to the Federal Helium P
 
 (Mar. 3, 1925, ch. 426, §5, as added Pub. L. 86–777, §2, Sept. 13, 1960, 74 Stat. 920; amended Pub. L. 104–273, §3, Oct. 9, 1996, 110 Stat. 3317; Pub. L. 113–40, §4, Oct. 2, 2013, 127 Stat. 535.)
 
+#### **Editorial Notes** ####
+
 #### Prior Provisions ####
 
 A prior section 5 of act Mar. 3, 1925, authorized governmental cooperation with Department of the Interior to effectuate the purposes of this chapter and was classified to section 166 of this title, prior to the general amendment of this chapter by Pub. L. 86–777.

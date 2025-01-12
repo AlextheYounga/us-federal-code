@@ -10,6 +10,8 @@ Section 45c, act Jan. 12, 1938, ch. 2, §4, 52 Stat. 4, related to definitions o
 
 Section 45d, act Jan. 12, 1938, ch. 2, §5, 52 Stat. 4, related to geographical application of law.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Repeal of sections 45 to 45d effective Sept. 1, 1948, see section 38 of act June 25, 1948, set out as an Effective Date note preceding section 1 of Title 28, Judiciary and Judicial Procedure.

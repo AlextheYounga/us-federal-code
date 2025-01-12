@@ -62,7 +62,7 @@
 
 (3) Activities or support of activities, directly or indirectly, that are inconsistent with the laws of armed conflict.
 
-(h) Oversight by ASD for SOLIC.—The Assistant Secretary of Defense for Special Operations and "Low Intensity" Conflict shall have primary responsibility within the Office of the Secretary of Defense for oversight of policies and programs for support authorized by this section.
+(h) Oversight by ASD for SOLIC.—The Assistant Secretary of Defense for Special Operations and Low Intensity Conflict shall have primary responsibility within the Office of the Secretary of Defense for oversight of policies and programs for support authorized by this section.
 
 (i) Biannual Reports.—
 
@@ -92,17 +92,17 @@
 
 #### Amendments ####
 
-**2021**—Subsec. (c). Pub. L. 116–283, §1051(1), added subsec. (c) and struck out former subsec. (c) which read as follows: "Procedures.—The authority in this section shall be exercised in accordance with such procedures as the Secretary shall establish for purposes of this section. The Secretary shall notify the congressional defense committees of any material modification of such procedures."
+**2021**—Subsec. (c). Pub. L. 116–283, §1051(1), added subsec. (c) and struck out former subsec. (c). Prior to amendment, text read as follows: "The authority in this section shall be exercised in accordance with such procedures as the Secretary shall establish for purposes of this section. The Secretary shall notify the congressional defense committees of any material modification of such procedures."
 
 Subsec. (d)(2)(G) to (I). Pub. L. 116–283, §1051(2), added subpars. (G) to (I).
 
 Subsecs. (e), (f). Pub. L. 116–283, §1051(3), (4), added subsec. (e) and redesignated former subsec. (e) as (f). Former subsec. (f) redesignated (g).
 
-Subsec. (g). Pub. L. 116–283, §1051(5), added subsec. (g) and struck out former subsec. (g) which read as follows: "Intelligence Activities.—This section does not constitute authority to conduct a covert action, as such term is defined in section 503(e) of the National Security Act of 1947 (50 U.S.C. 3093(e))."
+Subsec. (g). Pub. L. 116–283, §1051(5), added subsec. (g) and struck out former subsec. (g). Prior to amendment, text read as follows: "This section does not constitute authority to conduct a covert action, as such term is defined in section 503(e) of the National Security Act of 1947 (50 U.S.C. 3093(e))."
 
 Pub. L. 116–283, §1051(3), redesignated subsec. (f) as (g).
 
-Subsec. (h). Pub. L. 116–283, §1081(a)(7), which directed the substitution of "Low Intensity" for "Low-Intensity" in subsec. (g) as redesignated by section 1051 of Pub. L. 116–283, was executed by making substitution to subsec. (h) as redesignated by section 1051, to reflect the probable intent of Congress.
+Subsec. (h). Pub. L. 116–283, §1081(a)(7), which directed the substitution of "Low Intensity" for "Low-Intensity" in subsec. (g) as redesignated by section 1051 of Pub. L. 116–283, was executed by making substitution in subsec. (h) as redesignated by section 1051, to reflect the probable intent of Congress.
 
 Pub. L. 116–283, §1051(3), reesignated subsec. (g) as (h). Former subsec. (h) redesignated (i).
 

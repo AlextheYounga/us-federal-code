@@ -72,7 +72,7 @@ Sec.
 
 2538d. Incorporation of integrated surety architecture.
 
-2538e. W93 Nuclear warhead acquisition process.
+2538e. W93 nuclear warhead acquisition process.
 
 2538f. Earned value management and technology readiness levels for life extension programs.
 
