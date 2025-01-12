@@ -1,18 +1,12 @@
 ### §27. Certificate of authority to commence banking ###
 
-[]()
-
 (a) If, upon a careful examination of the facts so reported, and of any other facts which may come to the knowledge of the Comptroller, whether by means of a special commission appointed by him for the purpose of inquiring into the condition of such association, or otherwise, it appears that such association is lawfully entitled to commence the business of banking, the Comptroller shall give to such association a certificate, under his hand and official seal, that such association has complied with all the provisions required to be complied with before commencing the business of banking, and that such association is authorized to commence such business. But the Comptroller may withhold from an association his certificate authorizing the commencement of business, whenever he has reason to suppose that the shareholders have formed the same for any other than the legitimate objects contemplated by title 62 of the Revised Statutes. A National Bank Association, to which the Comptroller of the Currency has heretofore issued or hereafter issues such certificate, is not illegally constituted solely because its operations are or have been required by the Comptroller of the Currency to be limited to those of a trust company and activities related thereto.
-
-[]()[]()
 
 (b)(1) The Comptroller of the Currency may also issue a certificate of authority to commence the business of banking pursuant to this section to a national banking association which is owned exclusively (except to the extent directors' qualifying shares are required by law) by other depository institutions or depository institution holding companies and is organized to engage exclusively in providing services to or for other depository institutions, their holding companies, and the officers, directors, and employees of such institutions and companies, and in providing correspondent banking services at the request of other depository institutions or their holding companies (also referred to as a "banker's bank").
 
-[]()
-
 (2) Any national banking association chartered pursuant to paragraph (1) shall be subject to such rules, regulations, and orders as the Comptroller deems appropriate, and, except as otherwise specifically provided in such rules, regulations, or orders, shall be vested with or subject to the same rights, privileges, duties, restrictions, penalties, liabilities, conditions, and limitations that would apply under the national banking laws to a national bank.
 
-([R.S. §5169](/statviewer.htm?volume=rs&page=999); [Pub. L. 95–630, title XV, §1504, Nov. 10, 1978, 92 Stat. 3713](/statviewer.htm?volume=92&page=3713); [Pub. L. 96–221, title VII, §712(a), (c), Mar. 31, 1980, 94 Stat. 189](/statviewer.htm?volume=94&page=189), [190](/statviewer.htm?volume=94&page=190); [Pub. L. 97–320, title IV, §404(a), Oct. 15, 1982, 96 Stat. 1511](/statviewer.htm?volume=96&page=1511); [Pub. L. 103–325, title III, §322(a)(2), Sept. 23, 1994, 108 Stat. 2227](/statviewer.htm?volume=108&page=2227).)
+(R.S. §5169; Pub. L. 95–630, title XV, §1504, Nov. 10, 1978, 92 Stat. 3713; Pub. L. 96–221, title VII, §712(a), (c), Mar. 31, 1980, 94 Stat. 189, 190; Pub. L. 97–320, title IV, §404(a), Oct. 15, 1982, 96 Stat. 1511; Pub. L. 103–325, title III, §322(a)(2), Sept. 23, 1994, 108 Stat. 2227.)
 
 #### References in Text ####
 
@@ -20,7 +14,7 @@ Title 62 of the Revised Statutes, referred to in subsec. (a), was in the origina
 
 #### Codification ####
 
-[R.S. §5169](/statviewer.htm?volume=rs&page=999) derived from act [June 3, 1864, ch. 106, §§12, 18, 13 Stat. 102](/statviewer.htm?volume=13&page=102), [104](/statviewer.htm?volume=13&page=104), which was the National Bank Act. See section 38 of this title.
+R.S. §5169 derived from act June 3, 1864, ch. 106, §§12, 18, 13 Stat. 102, 104, which was the National Bank Act. See section 38 of this title.
 
 #### Amendments ####
 
@@ -36,11 +30,11 @@ Pub. L. 103–325, §322(a)(2)(B), which directed substitution of "services to o
 
 #### Termination Date of 1980 Amendment ####
 
-[Pub. L. 96–221, title VII, §712(c), Mar. 31, 1980, 94 Stat. 190](/statviewer.htm?volume=94&page=190), provided that: "The amendments made by this section [amending this section and section 1842 of this title] are hereby repealed on October 1, 1981."
+Pub. L. 96–221, title VII, §712(c), Mar. 31, 1980, 94 Stat. 190, provided that: "The amendments made by this section [amending this section and section 1842 of this title] are hereby repealed on October 1, 1981."
 
 #### Effective Date of 1978 Amendment ####
 
-[Pub. L. 95–630, title XV, §1505, Nov. 10, 1978, 92 Stat. 3713](/statviewer.htm?volume=92&page=3713), provided that: "This title [amending this section and sections 1715z–10 and 2902 of this title and amending provisions set out as a note under section 1666f of Title 15, Commerce and Trade] shall take effect upon enactment [Nov. 10, 1978]."
+Pub. L. 95–630, title XV, §1505, Nov. 10, 1978, 92 Stat. 3713, provided that: "This title [amending this section and sections 1715z–10 and 2902 of this title and amending provisions set out as a note under section 1666f of Title 15, Commerce and Trade] shall take effect upon enactment [Nov. 10, 1978]."
 
 #### Exception as to Transfer of Functions ####
 

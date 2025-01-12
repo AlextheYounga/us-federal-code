@@ -2,13 +2,13 @@
 
 Federal Reserve bank notes redeemed by the Treasurer of the United States under section 121a of this title shall be charged against the balance of deposits for the retirement of Federal Reserve bank notes under the provisions of sections 122 and 445 <sup><a href="#122a_1_target" name="122a_1">1</a></sup> of this title; and charges for Federal Reserve notes redeemed by the Treasurer of the United States under section 121a of this title shall be apportioned among the twelve Federal Reserve banks as determined by the Board of Governors of the Federal Reserve System.
 
-([June 13, 1933, ch. 62, §2, 48 Stat. 128](/statviewer.htm?volume=48&page=128); [Pub. L. 89–427, §4(b), May 20, 1966, 80 Stat. 161](/statviewer.htm?volume=80&page=161); [Pub. L. 103–325, title VI, §602(g)(8)(B), Sept. 23, 1994, 108 Stat. 2294](/statviewer.htm?volume=108&page=2294).)
+(June 13, 1933, ch. 62, §2, 48 Stat. 128; Pub. L. 89–427, §4(b), May 20, 1966, 80 Stat. 161; Pub. L. 103–325, title VI, §602(g)(8)(B), Sept. 23, 1994, 108 Stat. 2294.)
 
 #### References in Text ####
 
-Section 122 of this title, referred to in text, was repealed by [Pub. L. 97–258, §5(b), Sept. 13, 1982, 96 Stat. 1068](/statviewer.htm?volume=96&page=1068).
+Section 122 of this title, referred to in text, was repealed by Pub. L. 97–258, §5(b), Sept. 13, 1982, 96 Stat. 1068.
 
-Section 445 of this title, referred to in text, was repealed by act [June 12, 1945, ch. 186, §3, 59 Stat. 238](/statviewer.htm?volume=59&page=238).
+Section 445 of this title, referred to in text, was repealed by act June 12, 1945, ch. 186, §3, 59 Stat. 238.
 
 #### Amendments ####
 

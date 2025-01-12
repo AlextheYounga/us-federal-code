@@ -2,7 +2,7 @@
 
 The Export-Import Bank of the United States shall have a capital stock of $1,000,000,000 subscribed by the United States. Certificates evidencing stock ownership of the United States shall be issued by the Bank to the President of the United States, or to such other person or persons as the President may designate from time to time, to the extent of payments made for the capital stock of the Bank.
 
-([July 31, 1945, ch. 341, §4, 59 Stat. 528](/statviewer.htm?volume=59&page=528); [Pub. L. 90–267, §1(a), Mar. 13, 1968, 82 Stat. 47](/statviewer.htm?volume=82&page=47); [Pub. L. 98–181, title I [title VI, §620(c)], Nov. 30, 1983, 97 Stat. 1261](/statviewer.htm?volume=97&page=1261); [Pub. L. 102–429, title I, §121(b), Oct. 21, 1992, 106 Stat. 2198](/statviewer.htm?volume=106&page=2198).)
+(July 31, 1945, ch. 341, §4, 59 Stat. 528; Pub. L. 90–267, §1(a), Mar. 13, 1968, 82 Stat. 47; Pub. L. 98–181, title I [title VI, §620(c)], Nov. 30, 1983, 97 Stat. 1261; Pub. L. 102–429, title I, §121(b), Oct. 21, 1992, 106 Stat. 2198.)
 
 #### Amendments ####
 

@@ -2,17 +2,17 @@
 
 #### Codification ####
 
-Section 544, [R.S. §5215](/statviewer.htm?volume=rs&page=1008); act [Mar. 3, 1883, ch. 121, §1, 22 Stat. 488](/statviewer.htm?volume=22&page=488), related to half-yearly return of circulation.
+Section 544, R.S. §5215; act Mar. 3, 1883, ch. 121, §1, 22 Stat. 488, related to half-yearly return of circulation.
 
-Section 545, [R.S. §5216](/statviewer.htm?volume=rs&page=1009); act [Mar. 3, 1883, ch. 121, §1, 22 Stat. 488](/statviewer.htm?volume=22&page=488), related to penalty for failure to make return.
+Section 545, R.S. §5216; act Mar. 3, 1883, ch. 121, §1, 22 Stat. 488, related to penalty for failure to make return.
 
-Section 546, [R.S. §5217](/statviewer.htm?volume=rs&page=1009), related to enforcing tax on circulation.
+Section 546, R.S. §5217, related to enforcing tax on circulation.
 
-Section 547, [R.S. §5218](/statviewer.htm?volume=rs&page=1009); act [June 10, 1921, ch. 18, §304, 42 Stat. 24](/statviewer.htm?volume=42&page=24), related to refunding excess tax.
+Section 547, R.S. §5218; act June 10, 1921, ch. 18, §304, 42 Stat. 24, related to refunding excess tax.
 
 #### Repeals ####
 
-Effective July 1, 1935, the permanent appropriation provided for in former section 547 of this title was repealed by act [June 26, 1934, ch. 756, §2, 48 Stat. 1226](/statviewer.htm?volume=48&page=1226), such act authorizing in lieu thereof, an annual appropriation from the general fund of the Treasury.
+Effective July 1, 1935, the permanent appropriation provided for in former section 547 of this title was repealed by act June 26, 1934, ch. 756, §2, 48 Stat. 1226, such act authorizing in lieu thereof, an annual appropriation from the general fund of the Treasury.
 
 #### Redemption of Bonds; Termination of Circulating Notes ####
 

@@ -2,7 +2,7 @@
 
 The Comptroller of the Currency shall designate a Deputy Comptroller, who shall be responsible for the supervision and examination of Federal savings associations.
 
-([R.S. §327](/statviewer.htm?volume=rs&page=55)B, as added [Pub. L. 111–203, title III, §314(b), July 21, 2010, 124 Stat. 1524](/statviewer.htm?volume=124&page=1524).)
+(R.S. §327B, as added Pub. L. 111–203, title III, §314(b), July 21, 2010, 124 Stat. 1524.)
 
 #### Effective Date ####
 

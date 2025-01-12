@@ -2,11 +2,11 @@
 
 The president of the bank shall be a member of the board and shall be the chairman thereof, but the board may designate a director in lieu of the president to be chairman of the board, who shall perform such duties as may be designated by the board.
 
-([R.S. §5150](/statviewer.htm?volume=rs&page=995); [Feb. 25, 1927, ch. 191, §6, 44 Stat. 1228](/statviewer.htm?volume=44&page=1228).)
+(R.S. §5150; Feb. 25, 1927, ch. 191, §6, 44 Stat. 1228.)
 
 #### Codification ####
 
-[R.S. §5150](/statviewer.htm?volume=rs&page=995) derived from act [June 3, 1864, ch. 106, §9, 13 Stat. 102](/statviewer.htm?volume=13&page=102), which was the National Bank Act. See section 38 of this title.
+R.S. §5150 derived from act June 3, 1864, ch. 106, §9, 13 Stat. 102, which was the National Bank Act. See section 38 of this title.
 
 #### Amendments ####
 

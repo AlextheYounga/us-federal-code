@@ -2,7 +2,7 @@
 
 Whenever any Federal Reserve bank notes or Federal Reserve notes are presented to the Treasurer of the United States for redemption and such notes cannot be identified as to the bank of issue or the bank through which issued, the Treasurer of the United States may redeem such notes under such rules and regulations as the Secretary of the Treasury may prescribe.
 
-([June 13, 1933, ch. 62, §1, 48 Stat. 127](/statviewer.htm?volume=48&page=127); [Pub. L. 89–427, §4(a), May 20, 1966, 80 Stat. 161](/statviewer.htm?volume=80&page=161); [Pub. L. 103–325, title VI, §602(g)(8)(A), Sept. 23, 1994, 108 Stat. 2294](/statviewer.htm?volume=108&page=2294).)
+(June 13, 1933, ch. 62, §1, 48 Stat. 127; Pub. L. 89–427, §4(a), May 20, 1966, 80 Stat. 161; Pub. L. 103–325, title VI, §602(g)(8)(A), Sept. 23, 1994, 108 Stat. 2294.)
 
 #### Amendments ####
 

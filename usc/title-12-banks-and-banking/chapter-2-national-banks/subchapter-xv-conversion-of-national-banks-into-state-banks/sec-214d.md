@@ -2,7 +2,7 @@
 
 A national banking association may not convert to a State bank or State savings association during any period in which the national banking association is subject to a cease and desist order (or other formal enforcement order) issued by, or a memorandum of understanding entered into with, the Comptroller of the Currency with respect to a significant supervisory matter.
 
-(Aug. 17, 1950, ch. 729, §10, as added [Pub. L. 111–203, title VI, §612(a), July 21, 2010, 124 Stat. 1612](/statviewer.htm?volume=124&page=1612).)
+(Aug. 17, 1950, ch. 729, §10, as added Pub. L. 111–203, title VI, §612(a), July 21, 2010, 124 Stat. 1612.)
 
 #### Effective Date ####
 

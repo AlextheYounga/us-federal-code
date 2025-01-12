@@ -1,22 +1,18 @@
 ### §83. Loans by bank on its own stock ###
 
-[]()
-
 #### (a) General prohibition ####
 
 No national bank shall make any loan or discount on the security of the shares of its own capital stock.
-
-[]()
 
 #### (b) Exclusion ####
 
 For purposes of this section, a national bank shall not be deemed to be making a loan or discount on the security of the shares of its own capital stock if it acquires the stock to prevent loss upon a debt previously contracted for in good faith.
 
-([R.S. §5201](/statviewer.htm?volume=rs&page=1006); [Pub. L. 106–569, title XII, §1207(a), Dec. 27, 2000, 114 Stat. 3034](/statviewer.htm?volume=114&page=3034).)
+(R.S. §5201; Pub. L. 106–569, title XII, §1207(a), Dec. 27, 2000, 114 Stat. 3034.)
 
 #### Codification ####
 
-[R.S. §5201](/statviewer.htm?volume=rs&page=1006) derived from act [June 3, 1864, ch. 106, §35, 13 Stat. 110](/statviewer.htm?volume=13&page=110), which was the National Bank Act. See section 38 of this title.
+R.S. §5201 derived from act June 3, 1864, ch. 106, §35, 13 Stat. 110, which was the National Bank Act. See section 38 of this title.
 
 #### Amendments ####
 

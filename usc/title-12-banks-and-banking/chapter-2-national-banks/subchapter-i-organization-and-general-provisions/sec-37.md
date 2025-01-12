@@ -2,7 +2,7 @@
 
 The provisions of chapters 2, 3, and 4 of title 62 of the Revised Statutes, which are expressed without restrictive words, as applying to "national banking associations," or to "associations," apply to all associations organized to carry on the business of banking under any Act of Congress.
 
-([R.S. §5157](/statviewer.htm?volume=rs&page=997).)
+(R.S. §5157.)
 
 #### References in Text ####
 

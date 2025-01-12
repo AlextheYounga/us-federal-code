@@ -1,8 +1,8 @@
-### §§2709, 2710. Repealed. [Pub. L. 111–203, title XIV, §1496(b)(7), July 21, 2010, 124 Stat. 2209](/statviewer.htm?volume=124&page=2209) ###
+### §§2709, 2710. Repealed. Pub. L. 111–203, title XIV, §1496(b)(7), July 21, 2010, 124 Stat. 2209 ###
 
-Section 2709, [Pub. L. 94–50, title I, §110, July 2, 1975, 89 Stat. 253](/statviewer.htm?volume=89&page=253); [Pub. L. 94–375, §13(b), Aug. 3, 1976, 90 Stat. 1075](/statviewer.htm?volume=90&page=1075); [Pub. L. 98–479, title II, §204(m)(2), Oct. 17, 1984, 98 Stat. 2234](/statviewer.htm?volume=98&page=2234); [Pub. L. 111–203, title III, §361, July 21, 2010, 124 Stat. 1549](/statviewer.htm?volume=124&page=1549), related to waiver and relaxation by institutions and approved mortgagees of limitations with respect to mortgage delinquencies; notification to Federal supervisory agency prior to foreclosure proceedings.
+Section 2709, Pub. L. 94–50, title I, §110, July 2, 1975, 89 Stat. 253; Pub. L. 94–375, §13(b), Aug. 3, 1976, 90 Stat. 1075; Pub. L. 98–479, title II, §204(m)(2), Oct. 17, 1984, 98 Stat. 2234; Pub. L. 111–203, title III, §361, July 21, 2010, 124 Stat. 1549, related to waiver and relaxation by institutions and approved mortgagees of limitations with respect to mortgage delinquencies; notification to Federal supervisory agency prior to foreclosure proceedings.
 
-Section 2710, [Pub. L. 94–50, title I, §111, July 2, 1975, 89 Stat. 253](/statviewer.htm?volume=89&page=253); [Pub. L. 94–375, §13(c), Aug. 3, 1976, 90 Stat. 1075](/statviewer.htm?volume=90&page=1075), related to reports to Congress; time; contents.
+Section 2710, Pub. L. 94–50, title I, §111, July 2, 1975, 89 Stat. 253; Pub. L. 94–375, §13(c), Aug. 3, 1976, 90 Stat. 1075, related to reports to Congress; time; contents.
 
 #### Effective Date of Repeal ####
 

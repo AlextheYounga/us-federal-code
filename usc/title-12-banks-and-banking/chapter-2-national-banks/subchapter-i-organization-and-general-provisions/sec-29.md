@@ -16,7 +16,7 @@ For real estate in the possession of a national banking association upon applica
 
 Notwithstanding the five-year holding limitation of this section or any other provision of title 62 of the Revised Statutes, any national banking association which on October 15, 1982, held, directly or indirectly, real estate, including any subsurface rights or interests therein, that since December 31, 1979, had not been valued on the books of such association for more than a nominal amount, may continue to hold such real estate, rights, or interests for such longer period of time as would be permitted a State chartered bank by the law of the State in which the association is located if the aggregate amount of earnings from such real estate, rights, or interests is separately disclosed in the annual financial statements of the association.
 
-([R.S. §5137](/statviewer.htm?volume=rs&page=993); [Feb. 25, 1927, ch. 191, §3, 44 Stat. 1227](/statviewer.htm?volume=44&page=1227); [Pub. L. 96–221, title VII, §701(a), Mar. 31, 1980, 94 Stat. 186](/statviewer.htm?volume=94&page=186); [Pub. L. 97–25, title III, §302, July 27, 1981, 95 Stat. 145](/statviewer.htm?volume=95&page=145); [Pub. L. 97–320, title IV, §413, Oct. 15, 1982, 96 Stat. 1521](/statviewer.htm?volume=96&page=1521).)
+(R.S. §5137; Feb. 25, 1927, ch. 191, §3, 44 Stat. 1227; Pub. L. 96–221, title VII, §701(a), Mar. 31, 1980, 94 Stat. 186; Pub. L. 97–25, title III, §302, July 27, 1981, 95 Stat. 145; Pub. L. 97–320, title IV, §413, Oct. 15, 1982, 96 Stat. 1521.)
 
 #### References in Text ####
 
@@ -24,7 +24,7 @@ Title 62 of the Revised Statutes, referred to in last par., was in the original 
 
 #### Codification ####
 
-[R.S. §5137](/statviewer.htm?volume=rs&page=993) derived from act [June 3, 1864, ch. 106, §28, 13 Stat. 107](/statviewer.htm?volume=13&page=107), which was the National Bank Act. See section 38 of this title.
+R.S. §5137 derived from act June 3, 1864, ch. 106, §28, 13 Stat. 107, which was the National Bank Act. See section 38 of this title.
 
 #### Amendments ####
 

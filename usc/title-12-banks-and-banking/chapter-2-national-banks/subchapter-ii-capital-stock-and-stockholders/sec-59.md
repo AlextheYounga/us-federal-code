@@ -1,22 +1,18 @@
 ### §59. Reduction of capital ###
 
-[]()
-
 #### (a) In general ####
 
 Subject to the approval of the Comptroller of the Currency, a national banking association may, by a vote of shareholders owning, in the aggregate, two-thirds of its capital stock, reduce its capital.
-
-[]()
 
 #### (b) Shareholder distributions authorized ####
 
 As part of its capital reduction plan approved in accordance with subsection (a), and with the affirmative vote of shareholders owning at least two thirds of the shares of each class of its stock outstanding (each voting as a class), a national banking association may distribute cash or other assets to its shareholders.
 
-([R.S. §5143](/statviewer.htm?volume=rs&page=994); [Dec. 23, 1913, ch. 6, §28, 38 Stat. 274](/statviewer.htm?volume=38&page=274); [Aug. 23, 1935, ch. 614, title III, §334, 49 Stat. 720](/statviewer.htm?volume=49&page=720); [Pub. L. 109–351, title III, §304, Oct. 13, 2006, 120 Stat. 1970](/statviewer.htm?volume=120&page=1970).)
+(R.S. §5143; Dec. 23, 1913, ch. 6, §28, 38 Stat. 274; Aug. 23, 1935, ch. 614, title III, §334, 49 Stat. 720; Pub. L. 109–351, title III, §304, Oct. 13, 2006, 120 Stat. 1970.)
 
 #### Codification ####
 
-[R.S. §5143](/statviewer.htm?volume=rs&page=994) derived from act [June 3, 1864, ch. 106, §13, 13 Stat. 103](/statviewer.htm?volume=13&page=103), which was the National Bank Act. See section 38 of this title.
+R.S. §5143 derived from act June 3, 1864, ch. 106, §13, 13 Stat. 103, which was the National Bank Act. See section 38 of this title.
 
 #### Amendments ####
 

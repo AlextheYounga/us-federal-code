@@ -2,7 +2,7 @@
 
 The cost of transporting and redeeming outstanding national bank notes and Federal Reserve bank notes as may be presented to the Treasurer of the United States for redemption shall be paid from the regular annual appropriation for the Department of the Treasury.
 
-([Oct. 10, 1940, ch. 841, 54 Stat. 1093](/statviewer.htm?volume=54&page=1093); [Pub. L. 103–325, title VI, §602(g)(10), Sept. 23, 1994, 108 Stat. 2294](/statviewer.htm?volume=108&page=2294).)
+(Oct. 10, 1940, ch. 841, 54 Stat. 1093; Pub. L. 103–325, title VI, §602(g)(10), Sept. 23, 1994, 108 Stat. 2294.)
 
 #### Amendments ####
 

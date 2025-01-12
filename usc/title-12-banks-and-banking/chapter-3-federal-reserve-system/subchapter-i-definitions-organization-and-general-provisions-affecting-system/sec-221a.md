@@ -2,35 +2,23 @@
 
 As used in this chapter—
 
-[]()
-
 (a) The terms "banks", "national bank", "national banking association", "member bank", "board", "district", and "reserve bank" shall have the meanings assigned to them in section 221 of this title.
-
-[]()
 
 (b) Except where otherwise specifically provided, the term "affiliate" shall include any corporation, business trust, association, or other similar organization—
 
-[]()
-
 (1) Of which a member bank, directly or indirectly, owns or controls either a majority of the voting shares or more than 50 per centum of the number of shares voted for the election of its directors, trustees, or other persons exercising similar functions at the preceding election, or controls in any manner the election of a majority of its directors, trustees, or other persons exercising similar functions; or
-
-[]()
 
 (2) Of which control is held, directly or indirectly, through stock ownership or in any other manner, by the shareholders of a member bank who own or control either a majority of the shares of such bank or more than 50 per centum of the number of shares voted for the election of directors of such bank at the preceding election, or by trustees for the benefit of the shareholders of any such bank; or
 
-[]()
-
 (3) Of which a majority of its directors, trustees, or other persons exercising similar functions are directors of any one member bank; or
-
-[]()
 
 (4) Which owns or controls, directly or indirectly, either a majority of the shares of capital stock of a member bank or more than 50 per centum of the number of shares voted for the election of directors of a member bank at the preceding election, or controls in any manner the election of a majority of the directors of a member bank, or for the benefit of whose shareholders or members all or substantially all the capital stock of a member bank is held by trustees.
 
-([June 16, 1933, ch. 89, §2, 48 Stat. 162](/statviewer.htm?volume=48&page=162); [Aug. 23, 1935, ch. 614, title III, §301, 49 Stat. 707](/statviewer.htm?volume=49&page=707); [Pub. L. 89–485, §13(a), (b), July 1, 1966, 80 Stat. 242](/statviewer.htm?volume=80&page=242).)
+(June 16, 1933, ch. 89, §2, 48 Stat. 162; Aug. 23, 1935, ch. 614, title III, §301, 49 Stat. 707; Pub. L. 89–485, §13(a), (b), July 1, 1966, 80 Stat. 242.)
 
 #### References in Text ####
 
-As used in this chapter, referred to in text, was in the original "As used in this Act and in any provision of law amended by this Act", meaning act [June 16, 1933, ch. 89, 48 Stat. 162](/statviewer.htm?volume=48&page=162), as amended, known as the Banking Act of 1933. For complete classification of this Act to the Code, see References in Text note set out under section 227 of this title and Tables.
+As used in this chapter, referred to in text, was in the original "As used in this Act and in any provision of law amended by this Act", meaning act June 16, 1933, ch. 89, 48 Stat. 162, as amended, known as the Banking Act of 1933. For complete classification of this Act to the Code, see References in Text note set out under section 227 of this title and Tables.
 
 #### Amendments ####
 

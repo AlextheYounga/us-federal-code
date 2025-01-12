@@ -2,7 +2,7 @@
 
 Any receiver of a national banking association is authorized, with the approval of the Comptroller of the Currency and upon the order of a court of record of competent jurisdiction, to compromise, either before or after judgment, the individual liability of any shareholder of such association.
 
-([Feb. 25, 1930, ch. 58, 46 Stat. 74](/statviewer.htm?volume=46&page=74).)
+(Feb. 25, 1930, ch. 58, 46 Stat. 74.)
 
 #### Exception as to Transfer of Functions ####
 
@@ -10,4 +10,4 @@ Functions vested by any provision of law in Comptroller of the Currency, referre
 
 #### Application to District of Columbia ####
 
-Provisions of this section were made applicable to banks, etc., in the District of Columbia by act [Mar. 4, 1933, ch. 274, §4, 47 Stat. 1567](/statviewer.htm?volume=47&page=1567).
+Provisions of this section were made applicable to banks, etc., in the District of Columbia by act Mar. 4, 1933, ch. 274, §4, 47 Stat. 1567.

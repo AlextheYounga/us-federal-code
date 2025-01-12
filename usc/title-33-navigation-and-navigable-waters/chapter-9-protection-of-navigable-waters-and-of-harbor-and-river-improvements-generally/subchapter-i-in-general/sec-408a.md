@@ -60,7 +60,7 @@ In any case in which the Secretary fails make <sup><a href="#408a_1_target" nam
 
 #### (1) Submission to Congress ####
 
-#### The Secretary shall provide a copy of any written notice provided under subsection (d) to the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives. ####
+The Secretary shall provide a copy of any written notice provided under subsection (d) to the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives.
 
 #### (2) Public availability ####
 

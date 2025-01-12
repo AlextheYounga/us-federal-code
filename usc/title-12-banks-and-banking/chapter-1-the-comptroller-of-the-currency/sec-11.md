@@ -2,11 +2,11 @@
 
 It shall not be lawful for the Comptroller or the Deputy Comptroller of the Currency, either directly or indirectly, to hold an interest in any national bank or any Federal savings association.
 
-([R.S. §329](/statviewer.htm?volume=rs&page=55); [Pub. L. 106–569, title XII, §1233(b), Dec. 27, 2000, 114 Stat. 3037](/statviewer.htm?volume=114&page=3037); [Pub. L. 111–203, title III, §314(c), July 21, 2010, 124 Stat. 1524](/statviewer.htm?volume=124&page=1524).)
+(R.S. §329; Pub. L. 106–569, title XII, §1233(b), Dec. 27, 2000, 114 Stat. 3037; Pub. L. 111–203, title III, §314(c), July 21, 2010, 124 Stat. 1524.)
 
 #### Codification ####
 
-[R.S. §329](/statviewer.htm?volume=rs&page=55) derived from act [June 3, 1864, ch. 106, §1, 13 Stat. 99](/statviewer.htm?volume=13&page=99), which was the National Bank Act. See section 38 of this title.
+R.S. §329 derived from act June 3, 1864, ch. 106, §1, 13 Stat. 99, which was the National Bank Act. See section 38 of this title.
 
 #### Amendments ####
 

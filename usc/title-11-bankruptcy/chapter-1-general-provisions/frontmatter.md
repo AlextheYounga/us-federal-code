@@ -28,6 +28,6 @@ Sec.
 
 #### Amendments ####
 
-**2005**—[Pub. L. 109–8, title I, §106(e)(2), title II, §233(b), Apr. 20, 2005, 119 Stat. 41](/statviewer.htm?volume=119&page=41), [74](/statviewer.htm?volume=119&page=74), added items 111 and 112.
+**2005**—Pub. L. 109–8, title I, §106(e)(2), title II, §233(b), Apr. 20, 2005, 119 Stat. 41, 74, added items 111 and 112.
 
-**1994**—[Pub. L. 103–394, title III, §308(b), Oct. 22, 1994, 108 Stat. 4137](/statviewer.htm?volume=108&page=4137), added item 110.
+**1994**—Pub. L. 103–394, title III, §308(b), Oct. 22, 1994, 108 Stat. 4137, added item 110.

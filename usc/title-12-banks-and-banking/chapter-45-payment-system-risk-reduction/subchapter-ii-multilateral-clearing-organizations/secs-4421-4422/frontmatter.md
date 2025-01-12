@@ -1,8 +1,8 @@
-### §§4421, 4422. Repealed. [Pub. L. 111–203, title VII, §740, July 21, 2010, 124 Stat. 1729](/statviewer.htm?volume=124&page=1729) ###
+### §§4421, 4422. Repealed. Pub. L. 111–203, title VII, §740, July 21, 2010, 124 Stat. 1729 ###
 
-Section 4421, Pub. L. 102–242, title IV, §408, as added [Pub. L. 106–554, §1(a)(5) [title I, §112(a)(3)], Dec. 21, 2000, 114 Stat. 2763](/statviewer.htm?volume=114&page=2763), [2763A-391](/statviewer.htm?volume=114&page=2763A-391); amended [Pub. L. 111–203, title VII, §749(i), July 21, 2010, 124 Stat. 1748](/statviewer.htm?volume=124&page=1748), defined terms used in this subchapter.
+Section 4421, Pub. L. 102–242, title IV, §408, as added Pub. L. 106–554, §1(a)(5) [title I, §112(a)(3)], Dec. 21, 2000, 114 Stat. 2763, 2763A–391; amended Pub. L. 111–203, title VII, §749(i), July 21, 2010, 124 Stat. 1748, defined terms used in this subchapter.
 
-Section 4422, Pub. L. 102–242, title IV, §409, as added [Pub. L. 106–554, §1(a)(5) [title I, §112(a)(3)], Dec. 21, 2000, 114 Stat. 2763](/statviewer.htm?volume=114&page=2763), [2763A-392](/statviewer.htm?volume=114&page=2763A-392), related to multilateral clearing organizations.
+Section 4422, Pub. L. 102–242, title IV, §409, as added Pub. L. 106–554, §1(a)(5) [title I, §112(a)(3)], Dec. 21, 2000, 114 Stat. 2763, 2763A–392, related to multilateral clearing organizations.
 
 #### Effective Date of Repeal ####
 

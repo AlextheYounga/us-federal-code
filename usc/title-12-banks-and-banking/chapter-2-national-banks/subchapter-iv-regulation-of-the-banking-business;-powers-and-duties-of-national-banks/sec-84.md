@@ -1,114 +1,62 @@
 ### §84. Lending limits ###
 
-[]()
-
 #### (a) Total loans and extensions of credit ####
-
-[]()
 
 (1) The total loans and extensions of credit by a national banking association to a person outstanding at one time and not fully secured, as determined in a manner consistent with paragraph (2) of this subsection, by collateral having a market value at least equal to the amount of the loan or extension of credit shall not exceed 15 per centum of the unimpaired capital and unimpaired surplus of the association.
 
-[]()
-
 (2) The total loans and extensions of credit by a national banking association to a person outstanding at one time and fully secured by readily marketable collateral having a market value, as determined by reliable and continuously available price quotations, at least equal to the amount of the funds outstanding shall not exceed 10 per centum of the unimpaired capital and unimpaired surplus of the association. This limitation shall be separate from and in addition to the limitation contained in paragraph (1) of this subsection.
-
-[]()
 
 #### (b) Definitions ####
 
 For the purposes of this section—
 
-[]()
-
 (1) the term "loans and extensions of credit" shall include—
-
-[]()
 
 (A) all direct or indirect advances of funds to a person made on the basis of any obligation of that person to repay the funds or repayable from specific property pledged by or on behalf of the person;
 
-[]()
-
 (B) to the extent specified by the Comptroller of the Currency, any liability of a national banking association to advance funds to or on behalf of a person pursuant to a contractual commitment; and
-
-[]()
 
 (C) any credit exposure to a person arising from a derivative transaction, repurchase agreement, reverse repurchase agreement, securities lending transaction, or securities borrowing transaction between the national banking association and the person;
 
-[]()
-
 (2) the term "person" shall include an individual, sole proprietorship, partnership, joint venture, association, trust, estate, business trust, corporation, sovereign government or agency, instrumentality, or political subdivision thereof, or any similar entity or organization; and
 
-[]()
-
 (3) the term "derivative transaction" includes any transaction that is a contract, agreement, swap, warrant, note, or option that is based, in whole or in part, on the value of, any interest in, or any quantitative measure or the occurrence of any event relating to, one or more commodities, securities, currencies, interest or other rates, indices, or other assets.
-
-[]()
 
 #### (c) Exceptions ####
 
 The limitations contained in subsection (a) shall be subject to the following exceptions:
 
-[]()
-
 (1) Loans or extensions of credit arising from the discount of commercial or business paper evidencing an obligation to the person negotiating it with recourse shall not be subject to any limitation based on capital and surplus.
-
-[]()
 
 (2) The purchase of bankers' acceptances of the kind described in section 372 of this title and issued by other banks shall not be subject to any limitation based on capital and surplus.
 
-[]()
-
 (3) Loans and extensions of credit secured by bills of lading, warehouse receipts, or similar documents transferring or securing title to readily marketable staples shall be subject to a limitation of 35 per centum of capital and surplus in addition to the general limitations if the market value of the staples securing each additional loan or extension of credit at all times equals or exceeds 115 per centum of the outstanding amount of such loan or extension of credit. The staples shall be fully covered by insurance whenever it is customary to insure such staples.
-
-[]()
 
 (4) Loans or extensions of credit secured by bonds, notes, certificates of indebtedness, or Treasury bills of the United States or by other such obligations fully guaranteed as to principal and interest by the United States shall not be subject to any limitation based on capital and surplus.
 
-[]()
-
 (5) Loans or extensions of credit to or secured by unconditional takeout commitments or guarantees of any department, agency, bureau, board, commission, or establishment of the United States or any corporation wholly owned directly or indirectly by the United States shall not be subject to any limitation based on capital and surplus.
-
-[]()
 
 (6) Loans or extensions of credit secured by a segregated deposit account in the lending bank shall not be subject to any limitation based on capital and surplus.
 
-[]()
-
 (7) Loans or extensions of credit to any financial institution or to any receiver, conservator, superintendent of banks, or other agent in charge of the business and property of such financial institution, when such loans or extensions of credit are approved by the Comptroller of the Currency, shall not be subject to any limitation based on capital and surplus.
-
-[]()[]()
 
 (8)(A) Loans and extensions of credit arising from the discount of negotiable or nonnegotiable installment consumer paper which carries a full recourse endorsement or unconditional guarantee by the person transferring the paper shall be subject under this section to a maximum limitation equal to 25 per centum of such capital and surplus, notwithstanding the collateral requirements set forth in subsection (a)(2).
 
-[]()
-
 (B) If the bank's files or the knowledge of its officers of the financial condition of each maker of such consumer paper is reasonably adequate, and an officer of the bank designated for that purpose by the board of directors of the bank certifies in writing that the bank is relying primarily upon the responsibility of each maker for payment of such loans or extensions of credit and not upon any full or partial recourse endorsement or guarantee by the transferor, the limitations of this section as to the loans or extensions of credit of each such maker shall be the sole applicable loan limitations.
-
-[]()[]()
 
 (9)(A) Loans and extensions of credit secured by shipping documents or instruments transferring or securing title covering livestock or giving a lien on livestock when the market value of the livestock securing the obligation is not at any time less than 115 per centum of the face amount of the note covered, shall be subject under this section, notwithstanding the collateral requirements set forth in subsection (a)(2), to a maximum limitation equal to 25 per centum of such capital and surplus.
 
-[]()
-
 (B) Loans and extensions of credit which arise from the discount by dealers in dairy cattle of paper given in payment for dairy cattle, which paper carries a full recourse endorsement or unconditional guarantee of the seller, and which are secured by the cattle being sold, shall be subject under this section, notwithstanding the collateral requirements set forth in subsection (a)(2), to a limitation of 25 per centum of such capital and surplus.
-
-[]()
 
 (10) Loans or extensions of credit to the Student Loan Marketing Association shall not be subject to any limitation based on capital and surplus.
 
-[]()
-
 #### (d) Authority of Comptroller of the Currency ####
-
-[]()
 
 (1) The Comptroller of the Currency may prescribe rules and regulations to administer and carry out the purposes of this section, including rules or regulations to define or further define terms used in this section and to establish limits or requirements other than those specified in this section for particular classes or categories of loans or extensions of credit.
 
-[]()
-
 (2) The Comptroller of the Currency also shall have authority to determine when a loan putatively made to a person shall for purposes of this section be attributed to another person.
 
-([R.S. §5200](/statviewer.htm?volume=rs&page=1005); [June 22, 1906, ch. 3516, 34 Stat. 451](/statviewer.htm?volume=34&page=451); [Sept. 24, 1918, ch. 176, §6, 40 Stat. 967](/statviewer.htm?volume=40&page=967); [Oct. 22, 1919, ch. 79, §1, 41 Stat. 296](/statviewer.htm?volume=41&page=296); [Feb. 25, 1927, ch. 191, §10, 44 Stat. 1229](/statviewer.htm?volume=44&page=1229); [May 20, 1933, ch. 35, §1, 48 Stat. 73](/statviewer.htm?volume=48&page=73); [June 16, 1933, ch. 89, §26(a), 48 Stat. 191](/statviewer.htm?volume=48&page=191); [Aug. 23, 1935, ch. 614, title III, §321(b), 49 Stat. 713](/statviewer.htm?volume=49&page=713); [June 11, 1942, ch. 404, §8, 56 Stat. 356](/statviewer.htm?volume=56&page=356); [July 15, 1949, ch. 338, title VI, §602(b), 63 Stat. 440](/statviewer.htm?volume=63&page=440); July 22, 1937, ch. 517, §15(a), as added [Aug. 14, 1946, ch. 964, §5, 60 Stat. 1079](/statviewer.htm?volume=60&page=1079); amended [Pub. L. 85–748, §1(c), Aug. 25, 1958, 72 Stat. 841](/statviewer.htm?volume=72&page=841); [Pub. L. 86–251, §3, Sept. 9, 1959, 73 Stat. 488](/statviewer.htm?volume=73&page=488); [Pub. L. 87–723, §4(c)(4), Sept. 28, 1962, 76 Stat. 672](/statviewer.htm?volume=76&page=672); [Pub. L. 90–19, §27(b), May 25, 1967, 81 Stat. 29](/statviewer.htm?volume=81&page=29); [Pub. L. 92–318, title I, §133(c)(2), June 23, 1972, 86 Stat. 270](/statviewer.htm?volume=86&page=270); [Pub. L. 97–320, title IV, §401(a), Oct. 15, 1982, 96 Stat. 1508](/statviewer.htm?volume=96&page=1508); [Pub. L. 97–457, §17(a), Jan. 12, 1983, 96 Stat. 2509](/statviewer.htm?volume=96&page=2509); [Pub. L. 111–203, title VI, §610(a), July 21, 2010, 124 Stat. 1611](/statviewer.htm?volume=124&page=1611).)
+(R.S. §5200; June 22, 1906, ch. 3516, 34 Stat. 451; Sept. 24, 1918, ch. 176, §6, 40 Stat. 967; Oct. 22, 1919, ch. 79, §1, 41 Stat. 296; Feb. 25, 1927, ch. 191, §10, 44 Stat. 1229; May 20, 1933, ch. 35, §1, 48 Stat. 73; June 16, 1933, ch. 89, §26(a), 48 Stat. 191; Aug. 23, 1935, ch. 614, title III, §321(b), 49 Stat. 713; June 11, 1942, ch. 404, §8, 56 Stat. 356; July 15, 1949, ch. 338, title VI, §602(b), 63 Stat. 440; July 22, 1937, ch. 517, §15(a), as added Aug. 14, 1946, ch. 964, §5, 60 Stat. 1079; amended Pub. L. 85–748, §1(c), Aug. 25, 1958, 72 Stat. 841; Pub. L. 86–251, §3, Sept. 9, 1959, 73 Stat. 488; Pub. L. 87–723, §4(c)(4), Sept. 28, 1962, 76 Stat. 672; Pub. L. 90–19, §27(b), May 25, 1967, 81 Stat. 29; Pub. L. 92–318, title I, §133(c)(2), June 23, 1972, 86 Stat. 270; Pub. L. 97–320, title IV, §401(a), Oct. 15, 1982, 96 Stat. 1508; Pub. L. 97–457, §17(a), Jan. 12, 1983, 96 Stat. 2509; Pub. L. 111–203, title VI, §610(a), July 21, 2010, 124 Stat. 1611.)
 
 #### References in Text ####
 
@@ -116,7 +64,7 @@ Section 372 of this title, referred to in subsec. (c)(2), was in the original a 
 
 #### Codification ####
 
-[R.S. §5200](/statviewer.htm?volume=rs&page=1005) derived from act [June 3, 1864, ch. 106, §29, 13 Stat. 108](/statviewer.htm?volume=13&page=108), which was the National Bank Act. See section 38 of this title.
+R.S. §5200 derived from act June 3, 1864, ch. 106, §29, 13 Stat. 108, which was the National Bank Act. See section 38 of this title.
 
 #### Amendments ####
 
@@ -170,7 +118,7 @@ Par. (8). Pub. L. 86–251, §3(c), struck out "in the form of notes" after "cor
 
 Par. (13). Pub. L. 86–251, §3(d), added par. (13).
 
-**1958**—Par. (12). Pub. L. 85–748 amended section 15(a) of act July 22, 1937, as added by act Aug. 14, 1946, by inserting sentence amending [R.S. §5200](/statviewer.htm?volume=rs&page=1005) by adding par. (12).
+**1958**—Par. (12). Pub. L. 85–748 amended section 15(a) of act July 22, 1937, as added by act Aug. 14, 1946, by inserting sentence amending R.S. §5200 by adding par. (12).
 
 **1949**—Par. (11). Act July 15, 1949, added par. (11).
 
@@ -186,21 +134,21 @@ Par. (9). Act May 20, 1933, added par. (9).
 
 #### Effective Date of 2010 Amendment ####
 
-[Pub. L. 111–203, title VI, §610(c), July 21, 2010, 124 Stat. 1612](/statviewer.htm?volume=124&page=1612), provided that: "The amendments made by this section [amending this section and section 1464 of this title] shall take effect 1 year after the transfer date."
+Pub. L. 111–203, title VI, §610(c), July 21, 2010, 124 Stat. 1612, provided that: "The amendments made by this section [amending this section and section 1464 of this title] shall take effect 1 year after the transfer date."
 
 [For definition of "transfer date" as used in section 610(c) of Pub. L. 111–203, set out above, see section 5301 of this title.]
 
 #### Effective Date of 1982 Amendment ####
 
-[Pub. L. 97–320, title IV, §401(b), Oct. 15, 1982, 96 Stat. 1510](/statviewer.htm?volume=96&page=1510), provided that: "This section [amending this section] shall take effect upon the expiration of one hundred and eighty days after the date of its enactment [Oct. 15, 1982]."
+Pub. L. 97–320, title IV, §401(b), Oct. 15, 1982, 96 Stat. 1510, provided that: "This section [amending this section] shall take effect upon the expiration of one hundred and eighty days after the date of its enactment [Oct. 15, 1982]."
 
 #### Repeals ####
 
-Repealing provisions of Consolidated Farmers Home Administration Act of 1961 as not having the effect of repealing the amendment to this section enacted by act July 22, 1937, §15(a), as added Aug. 14, 1946, see section 341(a) of [Pub. L. 87–128, title III, Aug. 8, 1961, 75 Stat. 318](/statviewer.htm?volume=75&page=318), set out as a note under section 1921 of Title 7, Agriculture.
+Repealing provisions of Consolidated Farmers Home Administration Act of 1961 as not having the effect of repealing the amendment to this section enacted by act July 22, 1937, §15(a), as added Aug. 14, 1946, see section 341(a) of Pub. L. 87–128, title III, Aug. 8, 1961, 75 Stat. 318, set out as a note under section 1921 of Title 7, Agriculture.
 
 #### Savings Provision ####
 
-Act [June 16, 1933, ch. 89, §26(b), 48 Stat. 191](/statviewer.htm?volume=48&page=191), provided: "The amendment made by this section [amending this section] shall not apply to such obligations of subsidiaries held by such association on the date this section takes effect."
+Act June 16, 1933, ch. 89, §26(b), 48 Stat. 191, provided: "The amendment made by this section [amending this section] shall not apply to such obligations of subsidiaries held by such association on the date this section takes effect."
 
 #### Exception as to Transfer of Functions ####
 
@@ -208,4 +156,4 @@ Functions vested by any provision of law in Comptroller of the Currency, referre
 
 #### Application to District of Columbia ####
 
-Provisions of this section were made applicable to banks, etc., in the District of Columbia by act [Mar. 4, 1933, ch. 274, §3, 47 Stat. 1567](/statviewer.htm?volume=47&page=1567).
+Provisions of this section were made applicable to banks, etc., in the District of Columbia by act Mar. 4, 1933, ch. 274, §3, 47 Stat. 1567.

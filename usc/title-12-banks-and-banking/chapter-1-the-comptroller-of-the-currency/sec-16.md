@@ -4,14 +4,14 @@ The Comptroller of the Currency may collect an assessment, fee, or other charge 
 
 The Comptroller of the Currency shall have sole authority to determine the manner in which the obligations of the Office of the Comptroller of the Currency shall be incurred and its disbursements and expenses allowed and paid, in accordance with this section, except as provided in chapter 71 of title 5 (with respect to compensation).
 
-([R.S. §5240](/statviewer.htm?volume=rs&page=1013)A, as added [Pub. L. 111–203, title III, §318(b), July 21, 2010, 124 Stat. 1526](/statviewer.htm?volume=124&page=1526).)
+(R.S. §5240A, as added Pub. L. 111–203, title III, §318(b), July 21, 2010, 124 Stat. 1526.)
 
 #### References in Text ####
 
-Subchapter XV of chapter 3, referred to in first par., was in the original a reference to [section 5240 of the Revised Statutes](/statviewer.htm?volume=rs&page=1013).
+Subchapter XV of chapter 3, referred to in first par., was in the original a reference to section 5240 of the Revised Statutes.
 
 #### Effective Date ####
 
-[Pub. L. 111–203, title III, §318(e), July 21, 2010, 124 Stat. 1527](/statviewer.htm?volume=124&page=1527), provided that: "This section [enacting this section and amending sections 248, 481, 482, and 1820 of this title], and the amendments made by this section, shall take effect on the transfer date."
+Pub. L. 111–203, title III, §318(e), July 21, 2010, 124 Stat. 1527, provided that: "This section [enacting this section and amending sections 248, 481, 482, and 1820 of this title], and the amendments made by this section, shall take effect on the transfer date."
 
 [For definition of "transfer date" as used in section 318(e) of Pub. L. 111–203, set out above, see section 5301 of this title.]

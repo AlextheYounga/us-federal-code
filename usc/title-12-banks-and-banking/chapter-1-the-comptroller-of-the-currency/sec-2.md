@@ -2,11 +2,11 @@
 
 The Comptroller of the Currency shall be appointed by the President, by and with the advice and consent of the Senate, and shall hold his office for a term of five years unless sooner removed by the President, upon reasons to be communicated by him to the Senate.
 
-([R.S. §325](/statviewer.htm?volume=rs&page=54); [Aug. 23, 1935, ch. 614, title II, §209, 49 Stat. 707](/statviewer.htm?volume=49&page=707).)
+(R.S. §325; Aug. 23, 1935, ch. 614, title II, §209, 49 Stat. 707.)
 
 #### Codification ####
 
-[R.S. §325](/statviewer.htm?volume=rs&page=54) derived from act [June 3, 1864, ch. 106, §1, 13 Stat. 99](/statviewer.htm?volume=13&page=99), which was the National Bank Act. See section 38 of this title.
+R.S. §325 derived from act June 3, 1864, ch. 106, §1, 13 Stat. 99, which was the National Bank Act. See section 38 of this title.
 
 Provisions of this section which prescribed the annual basic compensation of the Comptroller of the Currency were omitted to conform to the provisions of the Executive Schedule. See section 5314 of Title 5, Government Organization and Employees.
 
@@ -16,7 +16,7 @@ Provisions of this section which prescribed the annual basic compensation of the
 
 #### Repeals ####
 
-Act [Oct. 15, 1949, ch. 695, §4, 63 Stat. 880](/statviewer.htm?volume=63&page=880), formerly cited as a credit to this section, was repealed by [Pub. L. 89–554, §8(a), Sept. 6, 1966, 80 Stat. 655](/statviewer.htm?volume=80&page=655).
+Act Oct. 15, 1949, ch. 695, §4, 63 Stat. 880, formerly cited as a credit to this section, was repealed by Pub. L. 89–554, §8(a), Sept. 6, 1966, 80 Stat. 655.
 
 #### Exception as to Transfer of Functions ####
 

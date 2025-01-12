@@ -1,82 +1,52 @@
 ### §635e. Aggregate loan, guarantee, and insurance authority ###
 
-[]()
-
 #### (a) Limitation on outstanding amounts ####
-
-[]()
 
 #### (1) In general ####
 
 The Export-Import Bank of the United States shall not have outstanding at any one time loans, guarantees, and insurance in an aggregate amount in excess of the applicable amount.
 
-[]()
-
 #### (2) Applicable amount defined ####
 
 In this subsection, the term "applicable amount", for each of fiscal years 2015 through 2019, means $135,000,000,000.
-
-[]()
 
 #### (3) Freezing of lending cap if default rate is 2 percent or more ####
 
 If the rate calculated under section 635g(g)(1) of this title is 2 percent or more for a quarter, the Bank may not exceed the amount of loans, guarantees, and insurance outstanding on the last day of that quarter until the rate calculated under section 635g(g)(1) of this title is less than 2 percent.
 
-[]()
-
 #### (4) Subject to appropriations ####
 
 All spending and credit authority provided under this subchapter shall be effective for any fiscal year only to such extent or in such amounts as are provided in appropriation Acts.
 
-[]()
-
 #### (b) Presidential determination ####
-
-[]()
 
 #### (1) In general ####
 
 Not later than March 31 of each fiscal year, the President of the United States shall determine whether the authority available to the Bank for such fiscal year will be sufficient to meet the Bank's needs, particularly those needs arising from—
 
-[]()
-
 (A) increases in the level of exports unforeseen at the time of the original budget request for such fiscal year;
-
-[]()
 
 (B) any increased foreign export credit subsidies; or
 
-[]()
-
 (C) the lack of progress in negotiations to reduce or eliminate export credit subsidies.
 
-[]()
-
 #### (2) Request for legislation ####
-
-[]()
 
 #### (A) In general ####
 
 If the President of the United States finds that the amount of direct loan authority or guarantee authority available to the Bank for the fiscal year involved exceeds the amount which will be necessary to carry out the Bank's functions consistent with the availability of qualified applications and limitations imposed by law during such year, the President of the United States shall promptly transmit to the Congress a request for legislation to eliminate the amount of such excess direct loan, loan guarantee, or insurance authority.
 
-[]()
-
 #### (B) Continued availability of authority ####
 
 The Bank shall continue to make remaining amounts of its authority available for the fiscal year involved, in accordance with its practices and the requirements of this subchapter, unless otherwise directed pursuant to law.
 
-([July 31, 1945, ch. 341, §6, formerly §7, 59 Stat. 529](/statviewer.htm?volume=59&page=529); [Oct. 3, 1951, ch. 445, §1(b), 65 Stat. 367](/statviewer.htm?volume=65&page=367); [May 21, 1953, ch. 64, §2, 67 Stat. 28](/statviewer.htm?volume=67&page=28); [Aug. 9, 1954, ch. 660, §3(b), 68 Stat. 678](/statviewer.htm?volume=68&page=678); [Pub. L. 85–424, §1(2), May 22, 1958, 72 Stat. 133](/statviewer.htm?volume=72&page=133); [Pub. L. 88–101, §1(b), Aug. 20, 1963, 77 Stat. 128](/statviewer.htm?volume=77&page=128); [Pub. L. 90–267, §1(a), (e), Mar. 13, 1968, 82 Stat. 47](/statviewer.htm?volume=82&page=47), [49](/statviewer.htm?volume=82&page=49); [Pub. L. 92–126, §1(b)(3), Aug. 17, 1971, 85 Stat. 345](/statviewer.htm?volume=85&page=345); [Pub. L. 93–646, §8, Jan. 4, 1975, 88 Stat. 2336](/statviewer.htm?volume=88&page=2336); [Pub. L. 95–630, title XIX, §§1905, 1914, Nov. 10, 1978, 92 Stat. 3725](/statviewer.htm?volume=92&page=3725), [3727](/statviewer.htm?volume=92&page=3727); [Pub. L. 97–35, title III, §381(a), Aug. 13, 1981, 95 Stat. 431](/statviewer.htm?volume=95&page=431); [Pub. L. 98–181, title I [title VI, §§615, 620(d)], Nov. 30, 1983, 97 Stat. 1256](/statviewer.htm?volume=97&page=1256), [1261](/statviewer.htm?volume=97&page=1261); [Pub. L. 99–472, §§13, 17, Oct. 15, 1986, 100 Stat. 1204](/statviewer.htm?volume=100&page=1204), [1205](/statviewer.htm?volume=100&page=1205); Pub. L. 102–145, §121(1), Oct. 28, 1991, as added [Pub. L. 102–266, §102, Apr. 1, 1992, 106 Stat. 95](/statviewer.htm?volume=106&page=95); renumbered §6 and amended [Pub. L. 102–429, title I, §§109(b), 121(c)(2), Oct. 21, 1992, 106 Stat. 2193](/statviewer.htm?volume=106&page=2193), [2199](/statviewer.htm?volume=106&page=2199); [Pub. L. 106–569, title XI, §1104(a)(3), Dec. 27, 2000, 114 Stat. 3031](/statviewer.htm?volume=114&page=3031); [Pub. L. 107–189, §5, June 14, 2002, 116 Stat. 699](/statviewer.htm?volume=116&page=699); [Pub. L. 109–438, §9, Dec. 20, 2006, 120 Stat. 3275](/statviewer.htm?volume=120&page=3275); [Pub. L. 112–122, §3, May 30, 2012, 126 Stat. 350](/statviewer.htm?volume=126&page=350); [Pub. L. 114–94, div. E, title LI, §§51001, 51002(a), Dec. 4, 2015, 129 Stat. 1763](/statviewer.htm?volume=129&page=1763).)
+(July 31, 1945, ch. 341, §6, formerly §7, 59 Stat. 529; Oct. 3, 1951, ch. 445, §1(b), 65 Stat. 367; May 21, 1953, ch. 64, §2, 67 Stat. 28; Aug. 9, 1954, ch. 660, §3(b), 68 Stat. 678; Pub. L. 85–424, §1(2), May 22, 1958, 72 Stat. 133; Pub. L. 88–101, §1(b), Aug. 20, 1963, 77 Stat. 128; Pub. L. 90–267, §1(a), (e), Mar. 13, 1968, 82 Stat. 47, 49; Pub. L. 92–126, §1(b)(3), Aug. 17, 1971, 85 Stat. 345; Pub. L. 93–646, §8, Jan. 4, 1975, 88 Stat. 2336; Pub. L. 95–630, title XIX, §§1905, 1914, Nov. 10, 1978, 92 Stat. 3725, 3727; Pub. L. 97–35, title III, §381(a), Aug. 13, 1981, 95 Stat. 431; Pub. L. 98–181, title I [title VI, §§615, 620(d)], Nov. 30, 1983, 97 Stat. 1256, 1261; Pub. L. 99–472, §§13, 17, Oct. 15, 1986, 100 Stat. 1204, 1205; Pub. L. 102–145, §121(1), Oct. 28, 1991, as added Pub. L. 102–266, §102, Apr. 1, 1992, 106 Stat. 95; renumbered §6 and amended Pub. L. 102–429, title I, §§109(b), 121(c)(2), Oct. 21, 1992, 106 Stat. 2193, 2199; Pub. L. 106–569, title XI, §1104(a)(3), Dec. 27, 2000, 114 Stat. 3031; Pub. L. 107–189, §5, June 14, 2002, 116 Stat. 699; Pub. L. 109–438, §9, Dec. 20, 2006, 120 Stat. 3275; Pub. L. 112–122, §3, May 30, 2012, 126 Stat. 350; Pub. L. 114–94, div. E, title LI, §§51001, 51002(a), Dec. 4, 2015, 129 Stat. 1763.)
 
 #### Amendment of Section ####
 
-[Pub. L. 114–94, div. E, title LI, §51002, Dec. 4, 2015, 129 Stat. 1763](/statviewer.htm?volume=129&page=1763), provided that, effective on the date that is one year after Dec. 4, 2015, this section is amended:
-
-[]()
+Pub. L. 114–94, div. E, title LI, §51002, Dec. 4, 2015, 129 Stat. 1763, provided that, effective on the date that is one year after Dec. 4, 2015, this section is amended:
 
 (1) by redesignating subsection (b) as subsection (c); and
-
-[]()
 
 (2) by inserting after subsection (a) the following:
 
@@ -140,7 +110,7 @@ Subsec. (b). Pub. L. 93–646, §8(3), added subsec. (b).
 
 #### Effective Date of 2015 Amendment ####
 
-[Pub. L. 114–94, div. E, title LI, §51002(b), Dec. 4, 2015, 129 Stat. 1763](/statviewer.htm?volume=129&page=1763), provided that: "The amendment made by subsection (a) [amending this section] shall take effect on the date that is one year after the date of the enactment of this Act [Dec. 4, 2015]."
+Pub. L. 114–94, div. E, title LI, §51002(b), Dec. 4, 2015, 129 Stat. 1763, provided that: "The amendment made by subsection (a) [amending this section] shall take effect on the date that is one year after the date of the enactment of this Act [Dec. 4, 2015]."
 
 #### Effective Date of 1978 Amendment ####
 

@@ -1,6 +1,6 @@
-### [§728. Repealed. [Pub. L. 109–8, title VII, §719(b)(1), Apr. 20, 2005, 119 Stat. 133](/statviewer.htm?volume=119&page=133)] ###
+### [§728. Repealed. Pub. L. 109–8, title VII, §719(b)(1), Apr. 20, 2005, 119 Stat. 133] ###
 
-Section, [Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2611](/statviewer.htm?volume=92&page=2611); [Pub. L. 98–353, title III, §481, July 10, 1984, 98 Stat. 382](/statviewer.htm?volume=98&page=382); [Pub. L. 99–554, title II, §257(t), Oct. 27, 1986, 100 Stat. 3116](/statviewer.htm?volume=100&page=3116), related to special tax provisions.
+Section, Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2611; Pub. L. 98–353, title III, §481, July 10, 1984, 98 Stat. 382; Pub. L. 99–554, title II, §257(t), Oct. 27, 1986, 100 Stat. 3116, related to special tax provisions.
 
 #### Effective Date of Repeal ####
 

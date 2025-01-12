@@ -2,7 +2,7 @@
 
 The Comptroller of the Currency may designate a national bank examiner to act as chief of the examining division in his office.
 
-([Jan. 3, 1923, ch. 22, 42 Stat. 1096](/statviewer.htm?volume=42&page=1096).)
+(Jan. 3, 1923, ch. 22, 42 Stat. 1096.)
 
 #### Codification ####
 
@@ -14,4 +14,4 @@ Functions vested by any provision of law in Comptroller of the Currency, referre
 
 #### Similar Provisions ####
 
-Similar provisions were contained in act [Feb. 17, 1922, ch. 55, 42 Stat. 375](/statviewer.htm?volume=42&page=375), and in earlier appropriation acts.
+Similar provisions were contained in act Feb. 17, 1922, ch. 55, 42 Stat. 375, and in earlier appropriation acts.

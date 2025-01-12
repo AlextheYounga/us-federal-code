@@ -2,7 +2,7 @@
 
 After one year from June 16, 1933, notwithstanding any other provision of law, the board of directors, board of trustees, or other similar governing body of every national banking association and of every State bank or trust company which is a member of the Federal Reserve System shall consist of not less than five nor more than twenty-five members, except that the Comptroller of the Currency may, by regulation or order, exempt a national bank from the 25-member limit established by this section. If any national banking association violates the provisions of this section and continues such violation after thirty days' notice from the Comptroller of the Currency, the said Comptroller may appoint a receiver or conservator therefor, in accordance with the provisions of existing law. If any State bank or trust company which is a member of the Federal Reserve System violates the provisions of this section and continues such violation after thirty days' notice from the Board of Governors of the Federal Reserve System, it shall be subject to the forfeiture of its membership in the Federal Reserve System in accordance with the provisions of section 327 of this title.
 
-([June 16, 1933, ch. 89, §31, 48 Stat. 194](/statviewer.htm?volume=48&page=194); [June 16, 1934, ch. 546, §4, 48 Stat. 971](/statviewer.htm?volume=48&page=971); [Aug. 23, 1935, ch. 614, title II, §203(a), title III, §306, 49 Stat. 704](/statviewer.htm?volume=49&page=704), [708](/statviewer.htm?volume=49&page=708); [Pub. L. 106–569, title XII, §1205(b), Dec. 27, 2000, 114 Stat. 3034](/statviewer.htm?volume=114&page=3034).)
+(June 16, 1933, ch. 89, §31, 48 Stat. 194; June 16, 1934, ch. 546, §4, 48 Stat. 971; Aug. 23, 1935, ch. 614, title II, §203(a), title III, §306, 49 Stat. 704, 708; Pub. L. 106–569, title XII, §1205(b), Dec. 27, 2000, 114 Stat. 3034.)
 
 #### Amendments ####
 
@@ -14,7 +14,7 @@ After one year from June 16, 1933, notwithstanding any other provision of law, t
 
 #### Change of Name ####
 
-Act [Aug. 23, 1935, ch. 614, title II, §203(a), 49 Stat. 704](/statviewer.htm?volume=49&page=704), changed name of Federal Reserve Board to Board of Governors of the Federal Reserve System.
+Act Aug. 23, 1935, ch. 614, title II, §203(a), 49 Stat. 704, changed name of Federal Reserve Board to Board of Governors of the Federal Reserve System.
 
 #### Exception as to Transfer of Functions ####
 

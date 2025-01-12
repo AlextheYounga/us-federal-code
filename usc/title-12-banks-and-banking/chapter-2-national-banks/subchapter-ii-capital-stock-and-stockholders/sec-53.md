@@ -2,11 +2,11 @@
 
 All of the capital stock of every national banking association shall be paid in before it shall be authorized to commence business.
 
-([R.S. §5140](/statviewer.htm?volume=rs&page=994); [Pub. L. 86–230, §4, Sept. 8, 1959, 73 Stat. 457](/statviewer.htm?volume=73&page=457).)
+(R.S. §5140; Pub. L. 86–230, §4, Sept. 8, 1959, 73 Stat. 457.)
 
 #### Codification ####
 
-[R.S. §5140](/statviewer.htm?volume=rs&page=994) derived from act [June 3, 1864, ch. 106, §14, 13 Stat. 103](/statviewer.htm?volume=13&page=103), which was the National Bank Act. See section 38 of this title.
+R.S. §5140 derived from act June 3, 1864, ch. 106, §14, 13 Stat. 103, which was the National Bank Act. See section 38 of this title.
 
 #### Amendments ####
 

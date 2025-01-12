@@ -2,7 +2,7 @@
 
 Each director, when appointed or elected, shall take an oath that he will, so far as the duty devolves on him, diligently and honestly administer the affairs of such association, and will not knowingly violate or willingly permit to be violated any of the provisions of title 62 of the Revised Statutes, and that he is the owner in good faith, and in his own right, of the number of shares of stock required by title 62 of the Revised Statutes, subscribed by him, or standing in his name on the books of the association, and that the same is not hypothecated, or in any way pledged, as security for any loan or debt. The oath shall be taken before a notary public, properly authorized and commissioned by the State in which he resides, or before any other officer having an official seal and authorized by the State to administer oaths, except that the oath shall not be taken before any such notary public or other officer who is an officer of the director's bank. The oath, subscribed by the director making it, and certified by the notary public or other officer before whom it is taken, shall be immediately transmitted to the Comptroller of the Currency and shall be filed and preserved in his office for a period of ten years.
 
-([R.S. §5147](/statviewer.htm?volume=rs&page=995); [Feb. 20, 1925, ch. 274, 43 Stat. 955](/statviewer.htm?volume=43&page=955).)
+(R.S. §5147; Feb. 20, 1925, ch. 274, 43 Stat. 955.)
 
 #### References in Text ####
 
@@ -10,7 +10,7 @@ Title 62 of the Revised Statutes, referred to in text, was in the original "this
 
 #### Codification ####
 
-[R.S. §5147](/statviewer.htm?volume=rs&page=995) derived from act [June 3, 1864, ch. 106, §9, 13 Stat. 102](/statviewer.htm?volume=13&page=102), which was the National Bank Act. See section 38 of this title.
+R.S. §5147 derived from act June 3, 1864, ch. 106, §9, 13 Stat. 102, which was the National Bank Act. See section 38 of this title.
 
 #### Exception as to Transfer of Functions ####
 

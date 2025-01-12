@@ -2,11 +2,11 @@
 
 When the day fixed in the bylaws for the regular annual meeting of the shareholders falls on a legal holiday in the State in which the bank is located, the shareholders meeting shall be held, and the directors elected, on the next following banking day. If, from any cause, an election of directors is not made on the day fixed, or in the event of a legal holiday, on the next following banking day, an election may be held on any subsequent day within sixty days of the day fixed, to be designated by the board of directors, or, if the directors fail to fix the day, by shareholders representing two-thirds of the shares, at least ten days' notice thereof in all cases having been given by first-class mail to the shareholders.
 
-([R.S. §5149](/statviewer.htm?volume=rs&page=995); [Pub. L. 86–230, §9, Sept. 8, 1959, 73 Stat. 457](/statviewer.htm?volume=73&page=457); [Pub. L. 88–232, §2, Dec. 23, 1963, 77 Stat. 472](/statviewer.htm?volume=77&page=472).)
+(R.S. §5149; Pub. L. 86–230, §9, Sept. 8, 1959, 73 Stat. 457; Pub. L. 88–232, §2, Dec. 23, 1963, 77 Stat. 472.)
 
 #### Codification ####
 
-[R.S. §5149](/statviewer.htm?volume=rs&page=995) derived from act [June 3, 1864, ch. 106, §10, 13 Stat. 102](/statviewer.htm?volume=13&page=102), which was the National Bank Act. See section 38 of this title.
+R.S. §5149 derived from act June 3, 1864, ch. 106, §10, 13 Stat. 102, which was the National Bank Act. See section 38 of this title.
 
 #### Amendments ####
 

@@ -2,4 +2,4 @@
 
 #### Amendments ####
 
-**1988**—[Pub. L. 100–399, title IV, §408(m), Aug. 17, 1988, 102 Stat. 1002](/statviewer.htm?volume=102&page=1002), redesignated subpart 3 as 4.
+**1988**—Pub. L. 100–399, title IV, §408(m), Aug. 17, 1988, 102 Stat. 1002, redesignated subpart 3 as 4.

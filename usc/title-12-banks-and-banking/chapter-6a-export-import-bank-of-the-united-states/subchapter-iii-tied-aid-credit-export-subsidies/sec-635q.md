@@ -1,48 +1,30 @@
 ### §635q. Establishment of tied aid credit program in United States Export-Import Bank ###
 
-[]()
-
 #### (a) Establishment and elements of program; cooperation with Trade and Development Agency and private institutions and entities ####
-
-[]()
 
 (1) The Chairman of the Export-Import Bank of the United States shall establish, within the Export-Import Bank of the United States, a program of tied aid credits for United States exports.
 
-[]()
-
 (2) The program shall be carried out in cooperation with the Trade and Development Agency and with private financial institutions or entities, as appropriate.
-
-[]()
 
 (3) The program may include—
 
-[]()
-
 (A) the combined use of the credits, loans, or guarantees offered by the Export-Import Bank of the United States with concessional financing or grants made available under section 635r(d) of this title, by methods including the blending of the financing of, or parallel financing by, the Bank and the Trade and Development Agency; and
 
-[]()
-
 (B) the combined use of credits, loans, or guarantees offered by the Bank, with financing offered by private financial institutions or entities, by methods including the blending of the financing of, or parallel financing by, the Bank and private institutions or entities.
-
-[]()
 
 #### (b) Purpose of program ####
 
 The purpose of the tied aid credit program under this section is to offer or arrange for financing for the export of United States goods and services which is substantially as concessional as foreign financing for which there is reasonable proof that such foreign financing is being offered to, or arranged for, a bona fide foreign competitor for a United States export sale.
 
-[]()
-
 #### (c) Fund ####
 
 The Chairman of the Bank is authorized to establish a fund, as necessary, for carrying out the tied aid credit program described in this section.
-
-[]()
 
 #### (d) Availability of concessional financing or grants ####
 
 Concessional financing or grants made available under section 635r(d) of this title for the purposes of the mixed financing program established under this section shall be made available in accordance with the provisions of section 635r(c) of this title.
 
-([Pub. L. 98–181, title I [title VI, §644], Nov. 30, 1983, 97 Stat. 1264](/statviewer.htm?volume=97&page=1264); [Pub. L. 100–418, title II, §2204(c)(1)(A), Aug. 23, 1988, 102 Stat. 1330](/statviewer.htm?volume=102&page=1330); [Pub. L. 102–549, title II, §202(c)(1), Oct. 28, 1992, 106 Stat. 3658](/statviewer.htm?volume=106&page=3658).)
+(Pub. L. 98–181, title I [title VI, §644], Nov. 30, 1983, 97 Stat. 1264; Pub. L. 100–418, title II, §2204(c)(1)(A), Aug. 23, 1988, 102 Stat. 1330; Pub. L. 102–549, title II, §202(c)(1), Oct. 28, 1992, 106 Stat. 3658.)
 
 #### Amendments ####
 
@@ -56,7 +38,7 @@ Subsec. (d). Pub. L. 100–418, §2204(c)(1)(A)(iii), substituted "made availabl
 
 #### Transition Provisions ####
 
-[Pub. L. 100–418, title II, §2204(d)(2), Aug. 23, 1988, 102 Stat. 1331](/statviewer.htm?volume=102&page=1331), provided that:
+Pub. L. 100–418, title II, §2204(d)(2), Aug. 23, 1988, 102 Stat. 1331, provided that:
 
 "(A) The Administrator of the Agency for International Development shall transfer to the Director of the Trade and Development Program [now Trade and Development Agency] all records, contracts, applications, and any other documents or information in connection with the functions transferred by virtue of the amendments made by subsection (c)(1) [amending sections 635q and 635r of this title].
 

@@ -1,6 +1,6 @@
-### [§304. Repealed. [Pub. L. 109–8, title VIII, §802(d)(3), Apr. 20, 2005, 119 Stat. 146](/statviewer.htm?volume=119&page=146)] ###
+### [§304. Repealed. Pub. L. 109–8, title VIII, §802(d)(3), Apr. 20, 2005, 119 Stat. 146] ###
 
-Section, [Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2560](/statviewer.htm?volume=92&page=2560), related to cases ancillary to foreign proceedings.
+Section, Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2560, related to cases ancillary to foreign proceedings.
 
 #### Effective Date of Repeal ####
 
