@@ -50,7 +50,7 @@ The term "Chairman" means the Chairman of the National Advisory Council on Inter
 
 #### (2) International financial institutions ####
 
-The term "international financial institutions" means the International Monetary Fund, International Bank for Reconstruction and Development, European Bank for Reconstruction and Development, International Development Association, International Finance Corporation, Multilateral Investment Guarantee Agency, African Development Bank, African Development Fund, Asian Development Bank, Inter-American Development Bank <sup><a href="#262r_1_target" name="262r_1">1</a></sup> Bank for Economic Cooperation and Development in the Middle East and North Africa,,<sup><a href="#262r_2_target" name="262r_2">2</a></sup> and Inter-American Investment Corporation.
+The term "international financial institutions" means the International Monetary Fund, International Bank for Reconstruction and Development, European Bank for Reconstruction and Development, International Development Association, International Finance Corporation, Multilateral Investment Guarantee Agency, African Development Bank, African Development Fund, Asian Development Bank, Inter-American Development Bank <sup><a href="#262r_2_target" name="262r_2">2</a></sup> Bank for Economic Cooperation and Development in the Middle East and North Africa,,<sup><a href="#262r_3_target" name="262r_3">3</a></sup> and Inter-American Investment Corporation.
 
 #### (3) Multilateral development institutions ####
 
@@ -212,6 +212,6 @@ Pub. L. 105–277, div. A, §101(d) [title VI, §607], Oct. 21, 1998, 112 Stat. 
 
 [<sup>1</sup> See References in Text note below.](#262r_1)
 
-[<sup>1</sup> So in original. Probably should be followed by a comma.](#262r_1)
+[<sup>2</sup> So in original. Probably should be followed by a comma.](#262r_2)
 
-[<sup>2</sup> So in original.](#262r_2)
+[<sup>3</sup> So in original.](#262r_3)

@@ -30,11 +30,15 @@ Sec.
 
 153. Appointment of judges.
 
+154. Arctic maritime domain awareness.
+
 #### Historical and Revision Notes ####
 
 In connection with its maritime police, promoting safety of life and property at sea, and aiding navigation functions, the Coast Guard frequently finds it advisable to utilize the services of other agencies and correlatively, frequently finds its facilities useful to other agencies. This high degree of cooperation, a natural attribute of a producing and servicing agency, is important not only because it greatly promotes the quantity and quality of the services performed, but because the concentration of these functions in one agency results in savings to the Government of man-power, funds, and equipment. In the belief that legislative recognition of and specific power to continue this needed cooperation are desirable, Chapter 7 of this title contains a group of sections on cooperation with designated agencies. This is not meant to be a complete listing of cooperating agencies, but rather the designation of the principal ones. In addition, the first section of the chapter deals with availability of Coast Guard personnel and facilities to other agencies and the availability of other agency personnel and facilities to the Coast Guard. 81st Congress, House Report No. 557.
 
 #### Amendments ####
+
+**2014**—Pub. L. 113–281, title V, §502(b), Dec. 18, 2014, 128 Stat. 3058, added item 154.
 
 **2010**—Pub. L. 111–281, title II, §201(b), title IX, §903(b)(1), Oct. 15, 2010, 124 Stat. 2909, 3011, inserted period at end of item 149 and added item 153.
 

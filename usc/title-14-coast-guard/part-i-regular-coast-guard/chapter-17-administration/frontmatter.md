@@ -42,7 +42,7 @@ Sec.
 
 650. Coast Guard Supply Fund.
 
-651. Annual report.
+[651. Repealed.]
 
 652. Removing restrictions.
 
@@ -54,7 +54,7 @@ Sec.
 
 656. Use of certain appropriated funds.
 
-657. Dependent school children.
+[657. Renumbered.]
 
 658. Confidential investigative expenses.
 
@@ -65,6 +65,8 @@ Sec.
 661. Authorization of personnel end strengths.
 
 662. Requirement for prior authorization of appropriations.
+
+662a. Transmission of annual Coast Guard authorization request.
 
 663. Capital investment plan.
 
@@ -100,7 +102,13 @@ Sec.
 
 678. Aircraft accident investigations.
 
+679. Inventory of real property.
+
+680. 1 Retired service members and dependents serving on advisory committees.
+
 #### Amendments ####
+
+**2014**—Pub. L. 113–281, title II, §§214(b)(2)(D), 216(b), 217(b), 218(b), 221(a)(2), Dec. 18, 2014, 128 Stat. 3034–3037, added items 662a, 679, and 680 and struck out items 651 "Annual report" and 657 "Dependent school children".
 
 **2012**—Pub. L. 112–213, title II, §§212(b)(2), 213(c)(1), 214(b), 217(9), Dec. 20, 2012, 126 Stat. 1552, 1553, 1555, 1558, added items 656, 663, 669, 674, and 678 and struck out former items 656 "Use of moneys appropriated for acquisition, construction, and improvement; for research, development, test, and evaluation; and for the alteration of bridges over the navigable waters", 663 "Submission of plans to Congress", 669 "Telephone Installation and Charges", and 674 "Small boat station capability".
 
@@ -159,3 +167,5 @@ Pub. L. 100–448, §§26(b), 29(b), Sept. 28, 1988, 102 Stat. 1848, 1849, added
 **1958**—Pub. L. 85–861, §5(1), Sept. 2, 1958, 72 Stat. 1547, struck out item 640.
 
 **1956**—Act Aug. 7, 1956, ch. 1023, §1(b), 70 Stat. 1077, substituted "Coast Guard Supply Fund" for "Coast Guard supply fund and supply account" in item 650.
+
+[<sup>1</sup> Another item 680 appears in the analysis for chapter 18 of this title.](#CHAPTER17_1)

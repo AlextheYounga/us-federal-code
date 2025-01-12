@@ -17,6 +17,8 @@ Chap. Sec.
 
 13. Pay, Allowances, Awards, and Other Rights and Benefits 461
 
+14. Coast Guard Family Support and Child Care 531
+
 15. Acquisitions 561
 
 17. Administration 631
@@ -26,6 +28,8 @@ Chap. Sec.
 19. Coast Guard Environmental Compliance and Restoration Program 1 690
 
 #### Amendments ####
+
+**2014**—Pub. L. 113–281, title II, §214(b)(2)(A), Dec. 18, 2014, 128 Stat. 3033, added item for chapter 14.
 
 **2010**—Pub. L. 111–281, title IV, §402(b), Oct. 15, 2010, 124 Stat. 2950, added item for chapter 15.
 

@@ -1,8 +1,8 @@
 ### §44. Commandant; appointment ###
 
-The President may appoint, by and with the advice and consent of the Senate, one Commandant for a period of four years, who may be reappointed for further periods of four years, who shall act as Chief of the Coast Guard. The Commandant shall be appointed from the officers on the active duty promotion list serving above the grade of captain who have completed at least ten years of active service as a commissioned officer in the Coast Guard. The Commandant while so serving shall have the grade of admiral.
+The President may appoint, by and with the advice and consent of the Senate, one Commandant for a period of four years, who may be reappointed for further periods of four years, who shall act as Chief of the Coast Guard. The term of an appointment, and any reappointment, shall begin on June 1 of the appropriate year and end on May 31 of the appropriate year, except that, in the event of death, retirement, resignation, or reassignment, or when the needs of the Service demand, the Secretary may alter the date on which a term begins or ends if the alteration does not result in the term exceeding a period of 4 years. The Commandant shall be appointed from the officers on the active duty promotion list serving above the grade of captain who have completed at least ten years of active service as a commissioned officer in the Coast Guard. The Commandant while so serving shall have the grade of admiral.
 
-(Aug. 4, 1949, ch. 393, 63 Stat. 498; Pub. L. 86–474, §1(3), May 14, 1960, 74 Stat. 144; Pub. L. 88–130, §1(3), Sept. 24, 1963, 77 Stat. 175; Pub. L. 89–444, §1(3), June 9, 1966, 80 Stat. 195; Pub. L. 92–451, §1(3), Oct. 2, 1972, 86 Stat. 755.)
+(Aug. 4, 1949, ch. 393, 63 Stat. 498; Pub. L. 86–474, §1(3), May 14, 1960, 74 Stat. 144; Pub. L. 88–130, §1(3), Sept. 24, 1963, 77 Stat. 175; Pub. L. 89–444, §1(3), June 9, 1966, 80 Stat. 195; Pub. L. 92–451, §1(3), Oct. 2, 1972, 86 Stat. 755; Pub. L. 113–281, title II, §202, Dec. 18, 2014, 128 Stat. 3024.)
 
 #### Historical and Revision Notes ####
 
@@ -13,6 +13,8 @@ Said section has been divided. The provisions of the first proviso are placed in
 The grade of the Commandant is fixed as vice admiral rather than that prescribed for Bureau Chiefs of the Navy. The additional qualifications that an officer appointed Commandant must have at least 10 years commissioned service in the Coast Guard has been inserted. 81st Congress, House Report No. 557.
 
 #### Amendments ####
+
+**2014**—Pub. L. 113–281 inserted after first sentence "The term of an appointment, and any reappointment, shall begin on June 1 of the appropriate year and end on May 31 of the appropriate year, except that, in the event of death, retirement, resignation, or reassignment, or when the needs of the Service demand, the Secretary may alter the date on which a term begins or ends if the alteration does not result in the term exceeding a period of 4 years."
 
 **1972**—Pub. L. 92–451 substituted "above the grade of captain" for "in the grade of captain or above" in second sentence.
 

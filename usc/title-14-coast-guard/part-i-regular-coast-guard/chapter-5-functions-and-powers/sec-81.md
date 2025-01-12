@@ -40,6 +40,10 @@ Pub. L. 85–726, title XV, §1505(2), Aug. 23, 1958, 72 Stat. 810, provided tha
 
 For termination of Trust Territory of the Pacific Islands, see note set out preceding section 1681 of Title 48, Territories and Insular Possessions.
 
+#### Improved Safety Information for Vessels ####
+
+Pub. L. 113–281, title II, §228, Dec. 18, 2014, 128 Stat. 3040, provided that: "Not later than 1 year after the date of enactment of this Act [Dec. 18, 2014], the Secretary of the department in which the Coast Guard is operating shall establish a process that allows an operator of a marine exchange or other non-Federal vessel traffic information service to use the automatic identification system to transmit weather, ice, and other important navigation safety information to vessels."
+
 #### Aids to Navigation Report ####
 
 Pub. L. 105–383, title II, §208, Nov. 13, 1998, 112 Stat. 3416, provided that: "Not later than 18 months after the date of the enactment of this Act [Nov. 13, 1998], the Commandant of the Coast Guard shall submit to Congress a report on the use of the Coast Guard's aids to navigation system. The report shall include an analysis of the respective use of the aids to navigation system by commercial interests, members of the general public for personal recreation, Federal and State government for public safety, defense, and other similar purposes. To the extent practicable within the time allowed, the report shall include information regarding degree of use of the various portions of the system."

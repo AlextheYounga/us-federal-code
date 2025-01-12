@@ -10,7 +10,7 @@ Except as provided in subsection (b) of this section, no funds made available to
 
 #### (b) Certification by President of necessity of continued assistance; disapproval by Congress ####
 
-(1) Notwithstanding subsection (a) of this section, the President may furnish assistance which would otherwise be prohibited under such subsection if he determines and certifies in writing to the Speaker of the House of Representatives and the Committee on Foreign Relations of the Senate that—
+(1) Notwithstanding subsection (a) of this section, the President may furnish assistance which would otherwise be prohibited under such subsection if he determines and certifies in writing to the Speaker of the House of Representatives, the Committee on Foreign Affairs of the House of Representatives, and the Committee on Foreign Relations of the Senate that—
 
 (A) the termination of such assistance would have a serious adverse effect on vital United States interests; and
 
@@ -22,7 +22,7 @@ Such certification shall set forth the reasons supporting such determination in 
 
 (B) Any joint resolution under this paragraph shall be considered in the Senate in accordance with the provisions of section 601(b) of the International Security Assistance and Arms Export Control Act of 1976.
 
-(Pub. L. 90–629, ch. 10, §101, as added Pub. L. 103–236, title VIII, §826(a), Apr. 30, 1994, 108 Stat. 515.)
+(Pub. L. 90–629, ch. 10, §101, as added Pub. L. 103–236, title VIII, §826(a), Apr. 30, 1994, 108 Stat. 515; amended Pub. L. 113–276, title II, §208(a)(1), Dec. 18, 2014, 128 Stat. 2992.)
 
 #### References in Text ####
 
@@ -35,6 +35,10 @@ Section 601(b) of the International Security Assistance and Arms Export Control 
 #### References to Sections 2429 and 2429a of This Title Deemed To Be References to Sections 2799aa and 2799aa–1 of This Title ####
 
 Pub. L. 103–236, title VIII, §826(c), Apr. 30, 1994, 108 Stat. 519, provided that: "Any reference in law as of the date of enactment of this Act [Apr. 30, 1994] to section 669 or 670 of the Foreign Assistance Act of 1961 [former 22 U.S.C. 2429, 2429a] shall, after such date, be deemed to be a reference to section 101 or 102, as the case may be, of the Arms Export Control Act [22 U.S.C. 2799aa, 2799aa–1]."
+
+#### Amendments ####
+
+**2014**—Subsec. (b)(1). Pub. L. 113–276 substituted "the Speaker of the House of Representatives, the Committee on Foreign Affairs of the House of Representatives, and" for "the Speaker of the House of Representatives and" in introductory provisions.
 
 #### Effective Date ####
 

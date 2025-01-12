@@ -26,6 +26,10 @@ Sec.
 
 11112. Master's lien for wages.
 
+11113. Treatment of abandoned seafarers.
+
 #### Amendments ####
+
+**2014**—Pub. L. 113–281, title III, §320(b), Dec. 18, 2014, 128 Stat. 3054, added item 11113.
 
 **1986**—Pub. L. 99–307, §1(19)(A), May 19, 1986, 100 Stat. 446, added item 11112.

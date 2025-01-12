@@ -16,11 +16,15 @@ Sec.
 
 8107. Use of force against piracy.
 
+8108. Merchant Marine Personnel Advisory Committee.
+
 #### Historical and Revision Notes ####
 
 Chapter 81 provides for the composition, citizenship, working hours, and other limitations affecting the complement of licensed individuals and crew on certain vessels, a safety watch onboard passenger vessels, membership in the Naval Reserve for certain deck and engineer officers, and penalties for violating, and regulatory authority for implementing its provisions.
 
 #### Amendments ####
+
+**2014**—Pub. L. 113–281, title III, §310(b), Dec. 18, 2014, 128 Stat. 3047, added item 8108.
 
 **2010**—Pub. L. 111–281, title IX, §§903(c)(1), 912(b), Oct. 15, 2010, 124 Stat. 3011, 3017, inserted period at end of item 8106 and added item 8107.
 

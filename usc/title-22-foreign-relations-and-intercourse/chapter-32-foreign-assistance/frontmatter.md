@@ -98,7 +98,7 @@ Sec.
 
 2152g. Annual report.
 
-2152h. Assistance to provide safe water and sanitation.
+2152h. Assistance to provide safe water, sanitation, and hygiene.
 
 #### Part II—Other Programs ####
 

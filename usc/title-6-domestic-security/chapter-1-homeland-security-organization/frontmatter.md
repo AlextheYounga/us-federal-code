@@ -76,13 +76,21 @@ Sec.
 
 142. Privacy officer.
 
-143. Enhancement of non-Federal cybersecurity.
+143. Enhancement of Federal and non-Federal cybersecurity.
 
 144. NET Guard.
 
 145. Cyber Security Enhancement Act of 2002.
 
 146. Cybersecurity workforce assessment and strategy.
+
+147. Cybersecurity recruitment and retention.
+
+148. National cybersecurity and communications integration center.
+
+149. Cyber incident response plan.
+
+150. Clearances.
 
 #### Part D—Office of Science and Technology ####
 

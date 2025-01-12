@@ -96,6 +96,8 @@ Sec.
 
 295. Deferment of retirement or separation for medical reasons.
 
+296. Flag officers.
+
 [301 to 315. Repealed.]
 
 #### e. separation for cause ####
@@ -196,6 +198,8 @@ Sec.
 
 427. Prohibition of certain involuntary administrative separations.
 
+428. Sea service letters.
+
 #### SPECIAL PROVISIONS ####
 
 [431. Repealed.]
@@ -211,6 +215,8 @@ This chapter, dealing with the appointment, enlistment, promotion, retirement an
 The subject matter seemed to break down into the sub-heads of "Commissioned Officers", "Warrant Officers", "Enlisted Men", and "General Provisions". Each of the first three sub-heads parallels the other two, insofar as the applicability of statutes of the three groups permits. The last sub-head includes the broad provisions which, in the same terms, can be made applicable to all military personnel. In accord with existing Navy and Coast Guard law, the term "commissioned officer" includes commissioned warrant officers unless specifically excepted, or manifestly inapplicable. Heretofore Coast Guard statutes have designated commissioned warrant officers as chief warrant officers; in line with Navy designation it is changed to commissioned warrant officers throughout this title. Terms such as "Coast Guard personnel" or "personnel of the Coast Guard", as used throughout this title, are intended to include all employees of the Service, civilian and military. 81st Congress, House Report No. 557.
 
 #### Amendments ####
+
+**2014**—Pub. L. 113–281, title II, §212(b), title III, §305(b)(2), Dec. 18, 2014, 128 Stat. 3029, 3044, added items 296 and 428.
 
 **2012**—Pub. L. 112–213, title II, §§208(d), 209(b), Dec. 20, 2012, 126 Stat. 1549, 1550, added items 263 and 427.
 

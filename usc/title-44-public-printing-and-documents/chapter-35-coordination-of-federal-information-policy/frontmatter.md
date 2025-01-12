@@ -46,45 +46,35 @@ Sec.
 
 3521. Authorization of appropriations.
 
+#### [SUBCHAPTER II—REPEALED] ####
+
+[3531 to 3538. Repealed.]
+
+#### [SUBCHAPTER III—REPEALED] ####
+
+[3541 to 3549. Repealed.]
+
 #### SUBCHAPTER II—INFORMATION SECURITY ####
 
-3531. Purposes.
+3551. Purposes.
 
-3532. Definitions.
+3552. Definitions.
 
-3533. Authority and functions of the Director.
+3553. Authority and functions of the Director and the Secretary.
 
-3534. Federal agency responsibilities.
+3554. Federal agency responsibilities.
 
-3535. Annual independent evaluation.
+3555. Annual independent evaluation.
 
-3536. National security systems.
+3556. Federal information security incident center.
 
-3537. Authorization of appropriations.
+3557. National security systems.
 
-3538. Effect on existing law.
-
-#### SUBCHAPTER III—INFORMATION SECURITY ####
-
-3541. Purposes.
-
-3542. Definitions.
-
-3543. Authority and functions of the Director.
-
-3544. Federal agency responsibilities.
-
-3545. Annual independent evaluation.
-
-3546. Federal information security incident center.
-
-3547. National security systems.
-
-3548. Authorization of appropriations.
-
-3549. Effect on existing law.
+3558. Effect on existing law.
 
 #### Amendments ####
+
+**2014**—Pub. L. 113–283, §2(e)(1), Dec. 18, 2014, 128 Stat. 3086, added heading for subchapter II and items 3551 to 3558 and struck out heading for former subchapter II and items 3531 to 3538 and heading for subchapter III and items 3541 to 3549. Prior to amendment, headings for both subchapters II and III read "INFORMATION SECURITY" and items under each subchapter were substantially similar to items 3551 to 3558.
 
 **2002**—Pub. L. 107–347, title III, §301(b)(2), Dec. 17, 2002, 116 Stat. 2955, added heading for subchapter III and items 3541 to 3549.
 

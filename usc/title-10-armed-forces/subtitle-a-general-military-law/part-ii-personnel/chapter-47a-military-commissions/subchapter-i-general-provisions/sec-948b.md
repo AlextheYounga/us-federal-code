@@ -12,17 +12,13 @@
 
 (B) Sections 831(a), (b), and (d) (articles 31(a), (b), and (d) of the Uniform Code of Military Justice), relating to compulsory self-incrimination.
 
-(C) Section 832 (article 32 of the Uniform Code of Military Justice), relating to pretrial investigation.
+(C) Section 832 (article 32 of the Uniform Code of Military Justice), relating to preliminary hearing.
 
 (2) Other provisions of chapter 47 of this title shall apply to trial by military commission under this chapter only to the extent provided by the terms of such provisions or by this chapter.
 
 (e) Geneva Conventions Not Establishing Private Right of Action.—No alien unprivileged enemy belligerent subject to trial by military commission under this chapter may invoke the Geneva Conventions as a basis for a private right of action.
 
 (Added Pub. L. 111–84, div. A, title XVIII, §1802, Oct. 28, 2009, 123 Stat. 2575; amended Pub. L. 113–66, div. A, title XVII, §1702(c)(3)(E), Dec. 26, 2013, 127 Stat. 958.)
-
-#### Amendment of Subsection (d)(1)(C) ####
-
-Pub. L. 113–66, div. A, title XVII, §1702(c)(3)(E), (d)(1), Dec. 26, 2013, 127 Stat. 958, provided that, effective one year after Dec. 26, 2013, and applicable with respect to offenses committed under chapter 47 of this title on or after that effective date, subsection (d)(1)(C) of this section is amended by striking "pretrial investigation" and inserting "preliminary hearing". See 2013 Amendment note below.
 
 #### Prior Provisions ####
 

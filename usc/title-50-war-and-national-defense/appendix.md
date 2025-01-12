@@ -680,21 +680,23 @@ Pub. L. 95–223, title I, §101(b), (c), Dec. 28, 1977, 91 Stat. 1625, provided
 
 #### Continuation of the Exercise of Certain Authorities Under the Trading With the Enemy Act ####
 
-Determination of President of the United States, No. 2013–13, Sept. 12, 2013, 78 F.R. 57225, provided:
+Determination of President of the United States, No. 2014–14, Sept. 5, 2014, 79 F.R. 54183, provided:
 
 Memorandum for the Secretary of State [and] the Secretary of the Treasury
 
-Under section 101(b) of Public Law 95–223 (91 Stat. 1625; 50 U.S.C. App. 5(b) note) and a previous determination on September 10, 2012 (77 FR 56753, September 13, 2012), the exercise of certain authorities under the Trading With the Enemy Act is scheduled to terminate on September 14, 2013.
+Under section 101(b) of Public Law 95–223 (91 Stat. 1625; 50 U.S.C. App. 5(b) note), and a previous determination on September 12, 2013 (78 FR 57225, September 17, 2013), the exercise of certain authorities under the Trading With the Enemy Act is scheduled to terminate on September 14, 2014.
 
 I hereby determine that the continuation for 1 year of the exercise of those authorities with respect to Cuba is in the national interest of the United States.
 
-Therefore, consistent with the authority vested in me by section 101(b) of Public Law 95–223, I continue for 1 year, until September 14, 2014, the exercise of those authorities with respect to Cuba, as implemented by the Cuban Assets Control Regulations, 31 CFR Part 515.
+Therefore, consistent with the authority vested in me by section 101(b) of Public Law 95–223, I continue for 1 year, until September 14, 2015, the exercise of those authorities with respect to Cuba, as implemented by the Cuban Assets Control Regulations, 31 C.F.R. Part 515.
 
 The Secretary of the Treasury is authorized and directed to publish this determination in the Federal Register.
 
 Barack Obama.
 
 Prior extensions were contained in the following:
+
+Determination of President of the United States, No. 2013–13, Sept. 12, 2013, 78 F.R. 57225.
 
 Determination of President of the United States, No. 2012–14, Sept. 10, 2012, 77 F.R. 56753.
 
@@ -2720,13 +2722,15 @@ Except as otherwise provided by the terms of this Act [sections 321 to 329 of th
 
 ### §330. Destruction of records; use of appropriations; procedures; transfers to other agencies ###
 
-Appropriations for the Selective Service System may on and after August 28, 1958, be used for the destruction of records accumulated under the Selective Training and Service Act of 1940, as amended [sections 301 to 318 of this Appendix], by the Director of Selective Service after compliance with the procedures for the destruction of records prescribed pursuant to the Records Disposal Act of 1943, as amended (44 U.S.C. 366–380): *Provided*, That no records may be transferred to any other agency without the approval of the Director of Selective Service.
+Appropriations for the Selective Service System may on and after August 28, 1958, be used for the destruction of records accumulated under the Selective Training and Service Act of 1940, as amended [former sections 301 to 318 of this Appendix], by the Director of Selective Service after compliance with the procedures for the destruction of records prescribed pursuant to the Records Disposal Act of 1943, as amended (44 U.S.C. 366–380): *Provided*, That no records may be transferred to any other agency without the approval of the Director of Selective Service.
 
 (Pub. L. 85–844, title I, Aug. 28, 1958, 72 Stat. 1073.)
 
 #### References in Text ####
 
-The Records Disposal Act of 1943, as amended (44 U.S.C. 366–380), is act July 7, 1943, ch. 192, 57 Stat. 380, which enacted sections 366 to 380 of former Title 44, Public Printing and Documents. Sections 366 to 376, and 378 to 380 of former Title 44 were repealed by Pub. L. 90–620, §3, Oct. 22, 1968, 82 Stat. 1306, and reenacted as sections 3301 to 3303 and 3304 to 3314, respectively, of Title 44, Public Printing and Documents. Sections 3304 to 3307 of Title 44 were repealed by Pub. L. 91–287, §2(c), June 23, 1970, 84 Stat. 321. Section 377 of former Title 44 was also repealed by Pub. L. 90–620, §3, Oct. 22, 1968, 82 Stat. 1306.
+The Selective Training and Service Act of 1940, referred to in text, is act Sept. 16, 1940, ch. 720, 54 Stat. 885, which was classified to sections 301 to 318 of this Appendix, and expired Mar. 31, 1947. For complete classification of this Act to the Code, see Tables.
+
+The Records Disposal Act of 1943, as amended (44 U.S.C. 366–380), referred to in text, is act July 7, 1943, ch. 192, 57 Stat. 380, which enacted sections 366 to 380 of former Title 44, Public Printing and Documents. Sections 366 to 376, and 378 to 380 of former Title 44 were repealed by Pub. L. 90–620, §3, Oct. 22, 1968, 82 Stat. 1306, and reenacted as sections 3301 to 3303 and 3304 to 3314, respectively, of Title 44, Public Printing and Documents. Sections 3304 to 3307 of Title 44 were repealed by Pub. L. 91–287, §2(c), June 23, 1970, 84 Stat. 321. Section 377 of former Title 44 was also repealed by Pub. L. 90–620, §3, Oct. 22, 1968, 82 Stat. 1306.
 
 #### Codification ####
 
@@ -4742,6 +4746,10 @@ A prior section 501, act Oct. 17, 1940, ch. 888, §1, 54 Stat. 1178, provided th
 
 Pub. L. 108–189, §3, Dec. 19, 2003, 117 Stat. 2866, provided that: "The amendment made by section 1 [enacting sections 501 to 515 and 516 to 596 of this Appendix] shall apply to any case that is not final before the date of the enactment of this Act [Dec. 19, 2003]."
 
+#### Short Title of 2014 Amendment ####
+
+Pub. L. 113–286, §1, Dec. 18, 2014, 128 Stat. 3093, provided that: "This Act [amending provisions set out as notes under section 533 of this Appendix] may be cited as the 'Foreclosure Relief and Extension for Servicemembers Act of 2014'."
+
 #### Short Title of 2010 Amendment ####
 
 Pub. L. 111–346, §1, Dec. 29, 2010, 124 Stat. 3622, provided that: "This Act [amending provisions set out as a note under section 533 of this Appendix] may be cited as the 'Helping Heroes Keep Their Homes Act of 2010'."
@@ -5552,9 +5560,9 @@ Pub. L. 112–154, §710(a), (b), (d)(1), temporarily substituted "within one ye
 
 Pub. L. 112–154, title VII, §710(c), Aug. 6, 2012, 126 Stat. 1208, provided that: "The amendments made by subsections (a) and (b) [amending this section] shall take effect on the date that is 180 days after the date of the enactment of this Act [Aug. 6, 2012]."
 
-Pub. L. 112–154, title VII, §710(d)(1), Aug. 6, 2012, 126 Stat. 1208, provided that: "The amendments made by subsections (a) and (b) [amending this section] shall expire on December 31, 2014."
+Pub. L. 112–154, title VII, §710(d)(1), Aug. 6, 2012, 126 Stat. 1208, as amended by Pub. L. 113–286, §2(1), Dec. 18, 2014, 128 Stat. 3093, provided that: "The amendments made by subsections (a) and (b) [amending this section] shall expire on December 31, 2015."
 
-Pub. L. 112–154, title VII, §710(d)(3), Aug. 6, 2012, 126 Stat. 1208, provided that: "Effective January 1, 2015, the provisions of subsections (b) and (c) of section 303 of the Servicemembers Civil Relief Act (50 U.S.C. App. 533), as in effect on July 29, 2008, are hereby revived."
+Pub. L. 112–154, title VII, §710(d)(3), Aug. 6, 2012, 126 Stat. 1208, as amended by Pub. L. 113–286, §2(2), Dec. 18, 2014, 128 Stat. 3093, provided that: "Effective January 1, 2016, the provisions of subsections (b) and (c) of section 303 of the Servicemembers Civil Relief Act (50 U.S.C. App. 533), as in effect on July 29, 2008, are hereby revived."
 
 #### Effective Date of 2008 Amendment ####
 
@@ -20899,6 +20907,14 @@ Subsec. (c)(3). Pub. L. 97–145, §3, added par. (3).
 #### Transfer of Functions ####
 
 For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+
+#### Application of Certain Provisions of Export Administration Act of 1979 ####
+
+Pub. L. 113–276, title II, §209, Dec. 18, 2014, 128 Stat. 2994, provided that:
+
+"(a) Protection of Information.—Section 12(c) of the Export Administration Act of 1979 (50 U.S.C. App. 2411(c)) has been in effect from August 20, 2001, and continues in effect on and after the date of the enactment of this Act [Dec. 18, 2014], pursuant to the International Emergency Economic Powers Act (50 U.S.C. 1701 et seq.) and notwithstanding section 20 of the Export Administration Act of 1979 (50 U.S.C. App. 2419). Section 12(c)(1) of the Export Administration Act of 1979 is a statute covered by section 552(b)(3) of title 5, United States Code.
+
+"(b) Termination Date.—Subsection (a) terminates at the end of the 4-year period beginning on the date of the enactment of this Act [Dec. 18, 2014]."
 
 ### §2411a. Omitted ###
 

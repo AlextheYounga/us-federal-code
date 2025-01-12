@@ -120,7 +120,7 @@ Amendment by Pub. L. 93–596 effective Jan. 2, 1975, see section 4 of Pub. L. 9
 
 #### USPTO Law School Clinic Certification Program ####
 
-Pub. L. 113–227, Dec. 16, 2014, 128 Stat. 2114, provided that:
+Pub. L. 113–227, §1, Dec. 16, 2014, 128 Stat. 2114, provided that:
 
 "(a) Establishment.—The Law School Clinic Certification Program of the United States Patent and Trademark Office, as implemented by the Office, is established as a program entitled the 'Law School Clinic Certification Program'. The Program shall allow students enrolled in a participating law school's clinic to practice patent and trademark law before the Office by drafting, filing, and prosecuting patent or trademark applications, or both, on a pro-bono basis for clients that qualify for assistance from the law school's clinic. The Director shall establish regulations and procedures for application to and participation in the Program. All law schools accredited by the American Bar Association are eligible for participation in the Program, and shall be examined for acceptance using identical criteria established by the Director. The Program shall be in effect for the 10-year period beginning on the date of the enactment of this Act [Dec. 16, 2014].
 

@@ -26,6 +26,10 @@ Changes were made in phraseology. 81st Congress, House Report No. 557.
 
 Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department of Homeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under section 101 of Title 10, Armed Forces.
 
+#### Short Title of 2014 Amendment ####
+
+Pub. L. 113–281, §1, Dec. 18, 2014, 128 Stat. 3022, provided that: "This Act [see Tables for classification] may be cited as the 'Howard Coble Coast Guard and Maritime Transportation Act of 2014'."
+
 #### Short Title of 2012 Amendment ####
 
 Pub. L. 112–213, §1(a), Dec. 20, 2012, 126 Stat. 1540, provided that: "This Act [see Tables for classification] may be cited as the 'Coast Guard and Maritime Transportation Act of 2012'."

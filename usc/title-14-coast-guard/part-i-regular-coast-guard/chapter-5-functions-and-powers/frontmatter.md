@@ -14,13 +14,13 @@ Sec.
 
 86. Marking of obstructions.
 
-[87. Repealed.]
+87. Icebreaking in polar regions.
 
 88. Saving life and property.
 
 89. Law enforcement.
 
-[90. Repealed.]
+90. Arctic maritime transportation 1
 
 91. Safety of naval vessels.
 
@@ -44,7 +44,13 @@ Sec.
 
 101. Appeals and waivers.
 
+102. Agreements.
+
+103. Notification of certain determinations.
+
 #### Amendments ####
+
+**2014**—Pub. L. 113–281, title II, §§206(c), 210(b), title V, §§501(b), 506(b), Dec. 18, 2014, 128 Stat. 3026, 3027, 3057, 3060, added items 87, 90, 102, and 103.
 
 **2012**—Pub. L. 112–213, title II, §216(b), (c), Dec. 20, 2012, 126 Stat. 1555, struck out items 82 "Cooperation with Administrator of the Federal Aviation Administration" and 90 "Ocean stations".
 
@@ -73,3 +79,5 @@ Pub. L. 111–281, title II, §208(c), Oct. 15, 2010, 124 Stat. 2912, as amended
 **1958**—Pub. L. 85–726, title XIV, §1404, Aug. 23, 1958, 72 Stat. 808, substituted "Administrator of the Federal Aviation Agency" for "Administrator of Civil Aeronautics" in item 82.
 
 **1956**—Act June 4, 1956, ch. 351, §3, 70 Stat. 227, substituted "Aids to maritime navigation on fixed structures" for "Failure to maintain lights" in item 85.
+
+[<sup>1</sup> So in original. Probably should be followed by a period.](#CHAPTER5_1)

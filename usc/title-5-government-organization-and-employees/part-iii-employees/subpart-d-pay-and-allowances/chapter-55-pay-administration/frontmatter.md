@@ -110,7 +110,7 @@ Sec.
 
 5549. Effect on other statutes.
 
-[5550. Repealed.]
+5550. Border patrol rate of pay.
 
 5550a. Compensatory time off for religious observances.
 
@@ -167,6 +167,8 @@ Sec.
 5597. Separation pay.
 
 #### Amendments ####
+
+**2014**—Pub. L. 113–277, §2(g)(3), Dec. 18, 2014, 128 Stat. 3005, added item 5550.
 
 **2009**—Pub. L. 111–8, div. D, title VII, §751(b), Mar. 11, 2009, 123 Stat. 695, added item 5538.
 
