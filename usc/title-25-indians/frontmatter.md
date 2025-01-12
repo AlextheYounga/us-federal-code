@@ -99,6 +99,8 @@ Chap. Sec.
 
 44. Native American Business Development, Trade Promotion, and Tourism 4301
 
+44A. Native American Tourism and Improving Visitor Experience 4351
+
 45. Protection of Indians and Conservation of Resources 5101
 
 46. Indian Self-Determination and Education Assistance 5301
