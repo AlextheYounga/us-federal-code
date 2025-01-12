@@ -48,7 +48,9 @@ The term "tropical disease" means any of the following:
 
 (P) Yaws.
 
-(Q) Any other infectious disease for which there is no significant market in developed nations and that disproportionately affects poor and marginalized populations, designated by regulation by the Secretary.
+(Q) Filoviruses.
+
+(R) Any other infectious disease for which there is no significant market in developed nations and that disproportionately affects poor and marginalized populations, designated by order of the Secretary.
 
 #### (4) Tropical disease product application ####
 
@@ -72,7 +74,7 @@ The Secretary shall award a priority review voucher to the sponsor of a tropical
 
 #### (2) Transferability ####
 
-The sponsor of a tropical disease product that receives a priority review voucher under this section may transfer (including by sale) the entitlement to such voucher to a sponsor of a human drug for which an application under section 355(b)(1) of this title or section 262 of title 42 will be submitted after the date of the approval of the tropical disease product application.
+The sponsor of a tropical disease product that receives a priority review voucher under this section may transfer (including by sale) the entitlement to such voucher to a sponsor of a human drug for which an application under section 355(b)(1) of this title or section 262 of title 42 will be submitted after the date of the approval of the tropical disease product application. There is no limit on the number of times a priority review voucher may be transferred before such voucher is used.
 
 #### (3) Limitation ####
 
@@ -86,7 +88,7 @@ The Secretary shall issue a priority review voucher to the sponsor of a tropical
 
 #### (4) Notification ####
 
-The sponsor of a human drug application shall notify the Secretary not later than 365 days prior to submission of the human drug application that is the subject of a priority review voucher of an intent to submit the human drug application, including the date on which the sponsor intends to submit the application. Such notification shall be a legally binding commitment to pay for the user fee to be assessed in accordance with this section.
+The sponsor of a human drug application shall notify the Secretary not later than 90 days prior to submission of the human drug application that is the subject of a priority review voucher of an intent to submit the human drug application, including the date on which the sponsor intends to submit the application. Such notification shall be a legally binding commitment to pay for the user fee to be assessed in accordance with this section.
 
 #### (c) Priority review user fee ####
 
@@ -124,8 +126,16 @@ Fees collected pursuant to this subsection for any fiscal year—
 
 (B) shall not be collected for any fiscal year except to the extent provided in advance in appropriation Acts.
 
-(June 25, 1938, ch. 675, §524, as added Pub. L. 110–85, title XI, §1102, Sept. 27, 2007, 121 Stat. 972.)
+(June 25, 1938, ch. 675, §524, as added Pub. L. 110–85, title XI, §1102, Sept. 27, 2007, 121 Stat. 972; amended Pub. L. 113–233, §2, Dec. 16, 2014, 128 Stat. 2127.)
 
 #### References in Text ####
 
 Section 101(c) of the Food and Drug Administration Amendments Act of 2007, referred to in subsec. (a)(1), is section 101(c) of Pub. L. 110–85, which is set out as a note under section 379g of this title.
+
+#### Amendments ####
+
+**2014**—Subsec. (a)(3)(Q), (R). Pub. L. 113–233, §2(1), added subpar. (Q), redesignated former subpar. (Q) as (R), and in subpar. (R) substituted "order of" for "regulation by".
+
+Subsec. (b)(2). Pub. L. 113–233, §2(2)(A), inserted at end "There is no limit on the number of times a priority review voucher may be transferred before such voucher is used."
+
+Subsec. (b)(4). Pub. L. 113–233, §2(2)(B), substituted "90 days" for "365 days".

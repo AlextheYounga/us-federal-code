@@ -58,6 +58,8 @@ Sec.
 
 44927. Expedited screening for severely injured or disabled members of the Armed Forces and severely injured or disabled veterans.
 
+44928. Honor Flight program.
+
 #### SUBCHAPTER II—ADMINISTRATION AND PERSONNEL ####
 
 [44931, 44932. Repealed.]
@@ -89,6 +91,8 @@ Sec.
 44945. Disposition of unclaimed money and clothing.
 
 #### Amendments ####
+
+**2014**—Pub. L. 113–221, §2(b), Dec. 16, 2014, 128 Stat. 2094, which directed amendment of analysis for title 49 by adding item 44928 after item 44927, was executed by adding item 44928 to analysis for this chapter, to reflect the probable intent of Congress.
 
 **2013**—Pub. L. 113–27, §2(b), Aug. 9, 2013, 127 Stat. 504, which directed amendment of analysis for subchapter I of chapter 449 by adding item 44927 after item 44926, was executed by adding item 44927 to analysis for this chapter to reflect the probable intent of Congress.
 
