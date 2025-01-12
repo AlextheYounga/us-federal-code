@@ -6,13 +6,13 @@ TITLE 11—APPENDIX
 FEDERAL RULES OF BANKRUPTCY PROCEDURE
 ==========
 
-(Effective August 1, 1983, as amended to January 5, 2023)
+(Effective August 1, 1983, as amended to December 1, 2023)
 
 #### Historical Note ####
 
 The Federal Rules of Bankruptcy Procedure were adopted by order of the Supreme Court on Apr. 25, 1983, transmitted to Congress by the Chief Justice on the same day, and became effective Aug. 1, 1983.
 
-The Rules have been amended Aug. 30, 1983, Pub. L. 98–91, §2(a), 97 Stat. 607, eff. Aug. 1, 1983; July 10, 1984, Pub. L. 98–353, title III, §321, 98 Stat. 357; Apr. 29, 1985, eff. Aug. 1, 1985; Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 25, 1989, eff. Aug. 1, 1989; Apr. 30, 1991, eff. Aug. 1, 1991; Apr. 22, 1993, eff. Aug. 1, 1993; Apr. 29, 1994, eff. Aug. 1, 1994; Oct. 22, 1994, Pub. L. 103–394, title I, §114, 108 Stat. 4118; Apr. 27, 1995, eff. Dec. 1, 1995; Apr. 23, 1996, eff. Dec. 1, 1996; Apr. 11, 1997, eff. Dec. 1, 1997; Apr. 26, 1999, eff. Dec. 1, 1999; Apr. 17, 2000, eff. Dec. 1, 2000; Apr. 23, 2001, eff. Dec. 1, 2001; Apr. 29, 2002, eff. Dec. 1, 2002; Mar. 27, 2003, eff. Dec. 1, 2003; Apr. 26, 2004, eff. Dec. 1, 2004; Apr. 25, 2005, eff. Dec. 1, 2005; Apr. 12, 2006, eff. Dec. 1, 2006; Apr. 30, 2007, eff. Dec. 1, 2007; Apr. 23, 2008, eff. Dec. 1, 2008; Mar. 26, 2009, eff. Dec. 1, 2009; Apr. 28, 2010, eff. Dec. 1, 2010; Apr. 26, 2011, eff. Dec. 1, 2011; Apr. 23, 2012, eff. Dec. 1, 2012; Apr. 16, 2013, eff. Dec. 1, 2013; Apr. 25, 2014, eff. Dec. 1, 2014; Apr. 29, 2015, eff. Dec. 1, 2015; Apr. 28, 2016, eff. Dec. 1, 2016; Apr. 27, 2017, eff. Dec. 1, 2017; Apr. 26, 2018, eff. Dec. 1, 2018; Apr. 25, 2019, eff. Dec. 1, 2019; Apr. 27, 2020, eff. Dec. 1, 2020; Apr. 14, 2021, eff. Dec. 1, 2021; Apr. 11, 2022, eff. Dec. 1, 2022.
+The Rules have been amended Aug. 30, 1983, Pub. L. 98–91, §2(a), 97 Stat. 607, eff. Aug. 1, 1983; July 10, 1984, Pub. L. 98–353, title III, §321, 98 Stat. 357; Apr. 29, 1985, eff. Aug. 1, 1985; Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 25, 1989, eff. Aug. 1, 1989; Apr. 30, 1991, eff. Aug. 1, 1991; Apr. 22, 1993, eff. Aug. 1, 1993; Apr. 29, 1994, eff. Aug. 1, 1994; Oct. 22, 1994, Pub. L. 103–394, title I, §114, 108 Stat. 4118; Apr. 27, 1995, eff. Dec. 1, 1995; Apr. 23, 1996, eff. Dec. 1, 1996; Apr. 11, 1997, eff. Dec. 1, 1997; Apr. 26, 1999, eff. Dec. 1, 1999; Apr. 17, 2000, eff. Dec. 1, 2000; Apr. 23, 2001, eff. Dec. 1, 2001; Apr. 29, 2002, eff. Dec. 1, 2002; Mar. 27, 2003, eff. Dec. 1, 2003; Apr. 26, 2004, eff. Dec. 1, 2004; Apr. 25, 2005, eff. Dec. 1, 2005; Apr. 12, 2006, eff. Dec. 1, 2006; Apr. 30, 2007, eff. Dec. 1, 2007; Apr. 23, 2008, eff. Dec. 1, 2008; Mar. 26, 2009, eff. Dec. 1, 2009; Apr. 28, 2010, eff. Dec. 1, 2010; Apr. 26, 2011, eff. Dec. 1, 2011; Apr. 23, 2012, eff. Dec. 1, 2012; Apr. 16, 2013, eff. Dec. 1, 2013; Apr. 25, 2014, eff. Dec. 1, 2014; Apr. 29, 2015, eff. Dec. 1, 2015; Apr. 28, 2016, eff. Dec. 1, 2016; Apr. 27, 2017, eff. Dec. 1, 2017; Apr. 26, 2018, eff. Dec. 1, 2018; Apr. 25, 2019, eff. Dec. 1, 2019; Apr. 27, 2020, eff. Dec. 1, 2020; Apr. 14, 2021, eff. Dec. 1, 2021; Apr. 11, 2022, eff. Dec. 1, 2022; Apr. 24, 2023, eff. Dec. 1, 2023.
 
 Rule
 
@@ -487,6 +487,8 @@ Rule
 9036. Notice and Service by Electronic Transmission.
 
 9037. Privacy Protection For Filings Made with the Court.
+
+9038. Bankruptcy Rules Emergency.
 
 #### PART X. [ABROGATED] ####
 
@@ -3826,9 +3828,11 @@ The rule is amended in response to the enactment of the Small Business Reorganiz
 
 ### Rule 3011. Unclaimed Funds in Cases Under Chapter 7, Subchapter V of Chapter 11, Chapter 12, and Chapter 13 ###
 
-The trustee shall file a list of all known names and addresses of the entities and the amounts which they are entitled to be paid from remaining property of the estate that is paid into court pursuant to §347(a) of the Code.
+(a) The trustee shall file a list of all known names and addresses of the entities and the amounts which they are entitled to be paid from remaining property of the estate that is paid into court pursuant to §347 <sup><a href="#Rule_3011_1_target" name="Rule_3011_1">1</a></sup> of the Code.
 
-(As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 30, 1991, eff. Aug. 1, 1991; Apr. 11, 2022, eff. Dec. 1, 2022.)
+(b) On the court's website, the clerk must provide searchable access to information about funds deposited under §347(a). The court may, for cause, limit access to information about funds in a specific case.
+
+(As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 30, 1991, eff. Aug. 1, 1991; Apr. 11, 2022, eff. Dec. 1, 2022; Apr. 24, 2023, eff. Dec. 1, 2023.)
 
 #### Notes of Advisory Committee on Rules—1983 ####
 
@@ -3841,6 +3845,12 @@ The title of this rule is amended to include chapter 12 cases. The words "with t
 #### Committee Notes on Rules—2022 Amendment ####
 
 The rule is amended in response to the enactment of the Small Business Reorganization Act of 2019, Pub. L. No. 116–54, 133 Stat. 1079. That law gives a small business debtor the option of electing to be a debtor under subchapter V of chapter 11. The rule is amended to include such cases because §347(a) of the Code applies to them.
+
+#### Committee Notes on Rules—2023 Amendment ####
+
+Rule 3011 is amended to require the clerk to provide searchable access (as by providing a link to the U.S. Bankruptcy Unclaimed Funds Locator) on the court's website to information about unclaimed funds deposited pursuant to §347(a). The court may limit access to information about such funds in a specific case for cause, including, for example, if such access risks disclosing the identity of claimants whose privacy should be protected, or if the information about the unclaimed funds is so old as to be unreliable.
+
+[<sup>1</sup> So in House Document 118–32. Probably should be "§347(a)". Prior to amendment, such reference was to "§347(a)", and while proposed amendment in House Document 118–32 contained only "§347", it did not explicitly delete "(a)".](#Rule_3011_1)
 
 ### Rule 3012. Determining the Amount of Secured and Priority Claims ###
 
@@ -6926,6 +6936,10 @@ The reference to the venue section of title 28 is amended to conform to the 1984
 
 ### PART VIII—APPEALS TO DISTRICT COURT OR BANKRUPTCY APPELLATE PANEL <sup><a href="#I_1_target" name="I_1">1</a></sup> ###
 
+#### Length Limits Stated in Part VIII of the Federal Rules of Bankruptcy Procedure ####
+
+For the length limits stated in this part, see the Appendix, set out following the Official Forms following Part X of these rules.
+
 [<sup>1</sup> The 2014 amendments to Part VIII of the Bankruptcy Rules are comprehensive. Proposed amendment of the heading, "Part VIII. Bankruptcy Appeals", was not transmitted for Congressional review.](#I_1)
 
 ### Rule 8001. Scope of Part VIII Rules; Definition of "BAP"; Method of Transmission ###
@@ -7084,11 +7098,23 @@ The amended rule also provides that a notice is timely without a declaration or 
 
 (A) conform substantially to the appropriate Official Form;
 
-(B) be accompanied by the judgment, order, or decree, or the part of it, being appealed; and
+(B) be accompanied by the judgment—or the appealable order or decree—from which the appeal is taken; and
 
 (C) be accompanied by the prescribed fee.
 
-(4) *Additional Copies*. If requested to do so, the appellant must furnish the bankruptcy clerk with enough copies of the notice to enable the clerk to comply with subdivision (c).
+(4) *Merger*. The notice of appeal encompasses all orders that, for purposes of appeal, merge into the identified judgment or appealable order or decree. It is not necessary to identify those orders in the notice of appeal.
+
+(5) *Final Judgment*. The notice of appeal encompasses the final judgment, whether or not that judgment is set out in a separate document under Rule 7058, if the notice identifies:
+
+(A) an order that adjudicates all remaining claims and the rights and liabilities of all remaining parties; or
+
+(B) an order described in Rule 8002(b)(1).
+
+(6) *Limited Appeal*. An appellant may identify only part of a judgment or appealable order or decree by expressly stating that the notice of appeal is so limited. Without such an express statement, specific identifications do not limit the scope of the notice of appeal.
+
+(7) *Impermissible Ground for Dismissal*. An appeal must not be dismissed for failure to properly identify the judgment or appealable order or decree if the notice of appeal was filed after entry of the judgment or appealable order or decree and identifies an order that merged into that judgment or appealable order or decree.
+
+(8) *Additional Copies*. If requested to do so, the appellant must furnish the bankruptcy clerk with enough copies of the notice to enable the clerk to comply with subdivision (c).
 
 (b) Joint or Consolidated Appeals.
 
@@ -7110,7 +7136,7 @@ The amended rule also provides that a notice is timely without a declaration or 
 
 (2) *Docketing in the District Court or BAP*. Upon receiving the notice of appeal, the district or BAP clerk must docket the appeal under the title of the bankruptcy case and the title of any adversary proceeding, and must identify the appellant, adding the appellant's name if necessary.
 
-(Added Apr. 25, 2014, eff. Dec. 1, 2014.)
+(Added Apr. 25, 2014, eff. Dec. 1, 2014; Apr. 24, 2023, eff. Dec. 1, 2023.)
 
 #### Prior Rule ####
 
@@ -7129,6 +7155,20 @@ Subdivision (c) is derived from former Rule 8004 and F.R.App.P. 3(d). Under Rule
 Subdivision (d) modifies the provision of former Rule 8007(b), which delayed the docketing of an appeal by the district court or BAP until the record was complete and the bankruptcy clerk transmitted it. The new provision, adapted from F.R.App.P. 3(d) and 12(a), requires the bankruptcy clerk to promptly transmit the notice of appeal to the clerk of the district court or BAP. Upon receipt of the notice of appeal, the district or BAP clerk must docket the appeal. Under this procedure, motions filed in the district court or BAP prior to completion and transmission of the record can generally be placed on the docket of an already pending appeal.
 
 *Changes Made After Publication and Comment*. In subdivision (d)(2), the direction for docketing a bankruptcy appeal was changed to reflect the fact that many bankruptcy appeals have dual titles—the bankruptcy case itself and the adversary proceeding that is the subject of the appeal. Stylistic changes were made to subdivision (c)(1). Conforming changes were made to the Committee Note.
+
+#### Committee Notes on Rules—2023 Amendment ####
+
+Subdivision (a) is amended to conform to recent amendments to Fed. R. App. P. 3(c), which clarified that the designation of a particular interlocutory order in a notice of appeal does not prevent the appellate court from reviewing all orders that merged into the judgment or appealable order or decree. These amendments reflect that a notice of appeal is supposed to be a simple document that provides notice that a party is appealing and invokes the jurisdiction of the appellate court. It therefore must state who is appealing, what is being appealed, and to what court the appeal is being taken. It is the role of the briefs, not the notice of appeal, to focus the issues on appeal.
+
+Subdivision (a)(3)(B) is amended in an effort to avoid the misconception that it is necessary or appropriate to identify each and every order of the bankruptcy court that the appellant may wish to challenge on appeal. It requires the attachment of "the judgment—or the appealable order or decree—from which the appeal is taken"—and the phrase "or the part of it" is deleted. In most cases, because of the merger principle, it is appropriate to identify and attach only the judgment or the appealable order or decree from which the appeal as of right is taken.
+
+Subdivision (a)(4) now calls attention to the merger principle. The general merger rule can be stated simply: an appeal from a final judgment or appealable order or decree permits review of all rulings that led up to the judgment, order, or decree. Because this general rule is subject to some exceptions and complications, the amendment does not attempt to codify the merger principle but instead leaves its details to case law. The amendment does not change the principle established in *Budinich v. Becton Dickinson & Co.*, 486 U.S. 196, 202–03 (1988), that "a decision on the merits is a 'final decision' . . . whether or not there remains for adjudication a request for attorney's fees attributable to the case."
+
+Sometimes a party who is aggrieved by a final judgment will make a motion in the bankruptcy court instead of immediately filing a notice of appeal. Rule 8002(b)(1) permits a party who makes certain motions to await disposition of those motions before appealing. But some courts treat a notice of appeal that identifies only the order disposing of such a motion as limited to that order, rather than bringing the final judgment before the appellate court for review. To reduce the unintended loss of appellate rights in this situation, subdivision (a)(5) is added. This amendment does not alter the requirement of Rule 8002(b)(3) (requiring a notice of appeal or an amended notice of appeal if a party intends to challenge an order disposing of certain motions).
+
+Subdivision (a)(6) is added to enable deliberate limitations of the notice of appeal. It allows an appellant to identify only part of a judgment or appealable order or decree by expressly stating that the notice of appeal is so limited. Without such an express statement, however, specific identifications do not limit the scope of the notice of appeal.
+
+On occasion, a party may file a notice of appeal after a judgment or appealable order or decree but identify only a previously nonappealable order that merged into that judgment or appealable order or decree. To deal with this situation, subdivision (a)(7) is added to provide that an appeal must not be dismissed for failure to properly identify the judgment or appealable order or decree if the notice of appeal was filed after entry of the judgment or appealable order or decree and identifies an order that merged into the judgment, order, or decree from which the appeal is taken. In this situation, a court should act as if the notice had properly identified the judgment or appealable order or decree. In determining whether a notice of appeal was filed after the entry of judgment, Rules 8002(a)(2) and (b)(2) apply.
 
 ### Rule 8004. Appeal by Leave—How Taken; Docketing the Appeal ###
 
@@ -8792,7 +8832,7 @@ The Federal Rules of Civil Procedure, referred to in text, are set out in the Ap
 
 (6) *"Legal Holiday" Defined*. "Legal holiday" means:
 
-(A) the day set aside by statute for observing New Year's Day, Martin Luther King Jr.'s Birthday, Washington's Birthday, Memorial Day, Independence Day, Labor Day, Columbus Day, Veterans' Day, Thanksgiving Day, or Christmas Day;
+(A) the day set aside by statute for observing New Year's Day, Martin Luther King Jr.'s Birthday, Washington's Birthday, Memorial Day, Juneteenth National Independence Day, Independence Day, Labor Day, Columbus Day, Veterans' Day, Thanksgiving Day, or Christmas Day;
 
 (B) any day declared a holiday by the President or Congress; and
 
@@ -8820,7 +8860,7 @@ The Federal Rules of Civil Procedure, referred to in text, are set out in the Ap
 
 (g) Grain Storage Facility Cases. This rule shall not limit the court's authority under §557 of the Code to enter orders governing procedures in cases in which the debtor is an owner or operator of a grain storage facility.
 
-(As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 25, 1989, eff. Aug. 1, 1989; Apr. 30, 1991, eff. Aug. 1, 1991; Apr. 23, 1996, eff. Dec. 1, 1996; Apr. 26, 1999, eff. Dec. 1, 1999; Apr. 23, 2001, eff. Dec. 1, 2001; Apr. 25, 2005, eff. Dec. 1, 2005; Apr. 23, 2008, eff. Dec. 1, 2008; Mar. 26, 2009, eff. Dec. 1, 2009; Apr. 16, 2013, eff. Dec. 1, 2013; Apr. 28, 2016, eff. Dec. 1, 2016.)
+(As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 25, 1989, eff. Aug. 1, 1989; Apr. 30, 1991, eff. Aug. 1, 1991; Apr. 23, 1996, eff. Dec. 1, 1996; Apr. 26, 1999, eff. Dec. 1, 1999; Apr. 23, 2001, eff. Dec. 1, 2001; Apr. 25, 2005, eff. Dec. 1, 2005; Apr. 23, 2008, eff. Dec. 1, 2008; Mar. 26, 2009, eff. Dec. 1, 2009; Apr. 16, 2013, eff. Dec. 1, 2013; Apr. 28, 2016, eff. Dec. 1, 2016; Apr. 24, 2023, eff. Dec. 1, 2023.)
 
 #### Notes of Advisory Committee on Rules—1983 ####
 
@@ -8993,6 +9033,10 @@ Electronic service after business hours, or just before or during a weekend or h
 Eliminating Rule 5(b) subparagraph (2)(E) from the modes of service that allow three added days means that the three added days cannot be retained by consenting to service by electronic means. Consent to electronic service in registering for electronic case filing, for example, does not count as consent to service "by any other means" of delivery under subparagraph (F).
 
 Subdivision (f) is also amended to conform to a corresponding amendment of Civil Rule 6(d). The amendment clarifies that only the party that is served by mail or under the specified provisions of Civil Rule 5—and not the party making service—is permitted to add three days to any prescribed period for taking action after service is made.
+
+#### Committee Notes on Rules—2023 Amendment ####
+
+The amendment adds "Juneteenth National Independence Day" to the list of legal holidays. See Juneteenth National Independence Day Act, P.L. 117–17 (2021) (amending 5 U.S.C. §6103(a)).
 
 #### References in Text ####
 
@@ -9989,6 +10033,68 @@ Because the filing of the motion to redact may call attention to the existence o
 If the court grants the motion to redact, the court must docket the redacted document, and public access to the motion and the unredacted document should remain restricted. If the court denies the motion, generally the restriction on public access to the motion and the document should be lifted.
 
 This procedure does not affect the availability of any remedies that an individual whose personal identifiers are exposed may have against the entity that filed the unredacted document.
+
+### Rule 9038. Bankruptcy Rules Emergency ###
+
+(a) Conditions for an Emergency. The Judicial Conference of the United States may declare a Bankruptcy Rules emergency if it determines that extraordinary circumstances relating to public health or safety, or affecting physical or electronic access to a bankruptcy court, substantially impair the court's ability to perform its functions in compliance with these rules.
+
+(b) Declaring an Emergency.
+
+(1) *Content*. The declaration must:
+
+(A) designate the bankruptcy court or courts affected;
+
+(B) state any restrictions on the authority granted in (c); and
+
+(C) be limited to a stated period of no more than 90 days.
+
+(2) *Early Termination*. The Judicial Conference may terminate a declaration for one or more bankruptcy courts before the termination date.
+
+(3) *Additional Declarations*. The Judicial Conference may issue additional declarations under this rule.
+
+(c) Tolling and Extending Time Limits.
+
+(1) *In an Entire District or Division*. When an emergency is in effect for a bankruptcy court, the chief bankruptcy judge may, for all cases and proceedings in the district or in a division:
+
+(A) order the extension or tolling of a Bankruptcy Rule, local rule, or order that requires or allows a court, a clerk, a party in interest, or the United States trustee, by a specified deadline, to commence a proceeding, file or send a document, hold or conclude a hearing, or take any other action, despite any other Bankruptcy Rule, local rule, or order; or
+
+(B) order that, when a Bankruptcy Rule, local rule, or order requires that an action be taken "promptly," "forthwith," "immediately," or "without delay," it be taken as soon as is practicable or by a date set by the court in a specific case or proceeding.
+
+(2) *In a Specific Case or Proceeding*. When an emergency is in effect for a bankruptcy court, a presiding judge may take the action described in (1) in a specific case or proceeding.
+
+(3) *When an Extension or Tolling Ends*. A period extended or tolled under (1) or (2) terminates on the later of:
+
+(A) the last day of the time period as extended or tolled or 30 days after the emergency declaration terminates, whichever is earlier; or
+
+(B) the last day of the time period originally required, imposed, or allowed by the relevant Bankruptcy Rule, local rule, or order that was extended or tolled.
+
+(4) *Further Extensions or Shortenings*. A presiding judge may lengthen or shorten an extension or tolling in a specific case or proceeding. The judge may do so only for good cause after notice and a hearing and only on the judge's own motion or on motion of a party in interest or the United States trustee.
+
+(5) *Exception*. A time period imposed by statute may not be extended or tolled.
+
+(Added Apr. 24, 2023, eff. Dec. 1, 2023.)
+
+#### Committee Notes on Rules—2023 ####
+
+The rule is new. It provides authority to extend or toll the time limits in these rules during times of major emergencies affecting the bankruptcy courts. The continuing operation of the bankruptcy courts during the COVID–19 pandemic showed that the existing rules are flexible enough to accommodate remote proceedings, service by mail, and electronic transmission of documents. Nevertheless, it appeared that greater flexibility than Rule 9006(b) provides might be needed to allow the extension of certain time periods in specific cases or any extension on a district-wide basis in response to an emergency.
+
+Emergency rule provisions have also been added to the Civil, Criminal, and Appellate Rules. Along with the Bankruptcy Rule, these rules have been made as uniform as possible. But each set of rules serves distinctive purposes, shaped by different origins, traditions, functions, and needs. Different provisions were compelled by these different purposes.
+
+Subdivision (a) specifies the limited circumstances under which the authority conferred by this rule may be exercised. The Judicial Conference of the United States has the exclusive authority to declare a Bankruptcy Rules emergency, and it may do so only under extraordinary circumstances. Those circumstances must relate to public health or safety or affect physical or electronic access to a bankruptcy court. And, importantly, the court's ability to operate in compliance with the Bankruptcy Rules must be substantially impaired.
+
+Under subdivision (b)(1), a Bankruptcy Rules emergency declaration must specify the bankruptcy courts to which it applies because, instead of being nationwide, an emergency might be limited to one area of the country or even to a particular state. The declaration must also specify a termination date that is no later than 90 days from the declaration's issuance. Under subdivisions (b)(2) and (b)(3), however, that time period may be extended by the issuance of additional declarations or reduced by early termination if circumstances change. The declaration must also specify any limitations placed on the authority granted in subdivision (c) to modify time periods.
+
+Subdivisions (c)(1) and (c)(2) grant the authority, during declared Bankruptcy Rules emergencies, to extend or toll deadlines to the chief bankruptcy judge of a district on a district- or division-wide basis or to the presiding judge in specific cases. Unless limited by the emergency declaration, this authority extends to all time periods in the rules that are not also imposed by statute. It also applies to directives to take quick action, such as rule provisions that require action to be taken "promptly," "forthwith," "immediately," or "without delay."
+
+Subdivision (c)(3), which addresses the termination of extensions and tolling, provides a "soft landing" upon the termination of a Bankruptcy Rules emergency. It looks to three possible dates for a time period to expire. An extended or tolled time period will terminate either 30 days after the rules-emergency declaration terminates or when the original time period would have expired, whichever is later—unless the extension or tolling itself expires sooner than 30 days after the declaration's termination. In that case, the extended expiration date will apply.
+
+Subdivision (c)(4) allows fine tuning in individual cases of extensions of time or tollings that have been granted.
+
+Subdivision (c)(5) excepts from the authority to extend time periods any time provision imposed by statute. The Bankruptcy Rules Enabling Act, 28 U.S.C. §2075, does not authorize the Bankruptcy Rules to supersede conflicting laws. Accordingly, a time limit in a rule that is a restatement of a deadline imposed by statute or an incorporation by reference of such a deadline may not be extended under this rule. However, if a statute merely incorporates by reference a time period imposed by a rule, that period may be extended.
+
+#### References in Text ####
+
+Bankruptcy Rules, referred to in subds. (a) and (c)(1)(A), (B), (3)(B), probably means the Federal Rules of Bankruptcy Procedure, which are set out in this Appendix.
 
 ### [PART X—UNITED STATES TRUSTEES] (Abrogated Apr. 30, 1991, eff. Aug. 1, 1991) ###
 

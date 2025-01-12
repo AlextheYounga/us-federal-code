@@ -36,13 +36,13 @@ Pub. L. 96–190, Feb. 12, 1980, 94 Stat. 17, known as the Dispute Resolution Ac
 FEDERAL RULES OF APPELLATE PROCEDURE
 ==========
 
-(As amended to January 5, 2023)
+(As amended to December 1, 2023)
 
 #### Historical Note ####
 
 The Federal Rules of Appellate Procedure were adopted by order of the Supreme Court on Dec. 4, 1967, transmitted to Congress by the Chief Justice on Jan. 15, 1968, and became effective on July 1, 1968.
 
-The Rules have been amended Mar. 30, 1970, eff. July 1, 1970; Mar. 1, 1971, eff. July 1, 1971; Apr. 24, 1972, eff. Oct. 1, 1972; Apr. 30, 1979, eff. Aug. 1, 1979; Oct. 12, 1984, Pub. L. 98–473, title II, §210, 98 Stat 1987; Mar. 10, 1986, eff. July 1, 1986; Nov. 18, 1988, Pub. L. 100–690, title VII, §7111, 102 Stat. 4419; Apr. 25, 1989, eff. Dec. 1, 1989; Apr. 30, 1991, eff. Dec. 1, 1991; Apr. 22, 1993, eff. Dec. 1, 1993; Apr. 29, 1994, eff. Dec. 1, 1994; Apr. 27, 1995, eff. Dec. 1, 1995; Apr. 23, 1996, eff. Dec. 1, 1996; Apr. 24, 1996, Pub. L. 104–132, title I, §103, 110 Stat. 1218; Apr. 24, 1998, eff. Dec. 1, 1998; Apr. 29, 2002, eff. Dec. 1, 2002; Mar. 27, 2003, eff. Dec. 1, 2003; Apr. 25, 2005, eff. Dec. 1, 2005; Apr. 12, 2006, eff. Dec. 1, 2006; Apr. 30, 2007, eff. Dec. 1, 2007; Mar. 26, 2009, eff. Dec. 1, 2009; Apr. 28, 2010, eff. Dec. 1, 2010; Apr. 26, 2011, eff. Dec. 1, 2011; Apr. 16, 2013, eff. Dec. 1, 2013; Apr. 25, 2014, eff. Dec. 1, 2014; Apr. 28, 2016, eff. Dec. 1, 2016; Apr. 27, 2017, eff. Dec. 1, 2017; Apr. 26, 2018, eff. Dec. 1, 2018; Apr. 25, 2019, eff. Dec. 1, 2019; Apr. 27, 2020, eff. Dec. 1, 2020; Apr. 14, 2021, eff. Dec. 1, 2021; Apr. 11, 2022, eff. Dec. 1, 2022.
+The Rules have been amended Mar. 30, 1970, eff. July 1, 1970; Mar. 1, 1971, eff. July 1, 1971; Apr. 24, 1972, eff. Oct. 1, 1972; Apr. 30, 1979, eff. Aug. 1, 1979; Oct. 12, 1984, Pub. L. 98–473, title II, §210, 98 Stat 1987; Mar. 10, 1986, eff. July 1, 1986; Nov. 18, 1988, Pub. L. 100–690, title VII, §7111, 102 Stat. 4419; Apr. 25, 1989, eff. Dec. 1, 1989; Apr. 30, 1991, eff. Dec. 1, 1991; Apr. 22, 1993, eff. Dec. 1, 1993; Apr. 29, 1994, eff. Dec. 1, 1994; Apr. 27, 1995, eff. Dec. 1, 1995; Apr. 23, 1996, eff. Dec. 1, 1996; Apr. 24, 1996, Pub. L. 104–132, title I, §103, 110 Stat. 1218; Apr. 24, 1998, eff. Dec. 1, 1998; Apr. 29, 2002, eff. Dec. 1, 2002; Mar. 27, 2003, eff. Dec. 1, 2003; Apr. 25, 2005, eff. Dec. 1, 2005; Apr. 12, 2006, eff. Dec. 1, 2006; Apr. 30, 2007, eff. Dec. 1, 2007; Mar. 26, 2009, eff. Dec. 1, 2009; Apr. 28, 2010, eff. Dec. 1, 2010; Apr. 26, 2011, eff. Dec. 1, 2011; Apr. 16, 2013, eff. Dec. 1, 2013; Apr. 25, 2014, eff. Dec. 1, 2014; Apr. 28, 2016, eff. Dec. 1, 2016; Apr. 27, 2017, eff. Dec. 1, 2017; Apr. 26, 2018, eff. Dec. 1, 2018; Apr. 25, 2019, eff. Dec. 1, 2019; Apr. 27, 2020, eff. Dec. 1, 2020; Apr. 14, 2021, eff. Dec. 1, 2021; Apr. 11, 2022, eff. Dec. 1, 2022; Apr. 24, 2023, eff. Dec. 1, 2023.
 
 #### TITLE I. APPLICABILITY OF RULES ####
 
@@ -250,9 +250,29 @@ The language and organization of the rule are amended to make the rule more easi
 
 ### Rule 2. Suspension of Rules ###
 
-On its own or a party's motion, a court of appeals may—to expedite its decision or for other good cause—suspend any provision of these rules in a particular case and order proceedings as it directs, except as otherwise provided in Rule 26(b).
+(a) In a Particular Case. On its own or a party's motion, a court of appeals may—to expedite its decision or for other good cause—suspend any provision of these rules in a particular case and order proceedings as it directs, except as otherwise provided in Rule 26(b).
 
-(As amended Apr. 24, 1998, eff. Dec. 1, 1998.)
+(b) In an Appellate Rules Emergency.
+
+(1) *Conditions for an Emergency.* The Judicial Conference of the United States may declare an Appellate Rules emergency if it determines that extraordinary circumstances relating to public health or safety, or affecting physical or electronic access to a court, substantially impair the court's ability to perform its functions in compliance with these rules.
+
+(2) *Content.* The declaration must:
+
+(A) designate the circuit or circuits affected; and
+
+(B) be limited to a stated period of no more than 90 days.
+
+(3) *Early Termination.* The Judicial Conference may terminate a declaration for one or more circuits before the termination date.
+
+(4) *Additional Declarations.* The Judicial Conference may issue additional declarations under this rule.
+
+(5) *Proceedings in a Rules Emergency.* When a rules emergency is declared, the court may:
+
+(A) suspend in all or part of that circuit any provision of these rules, other than time limits imposed by statute and described in Rule 26(b)(1)–(2); and
+
+(B) order proceedings as it directs.
+
+(As amended Apr. 24, 1998, eff. Dec. 1, 1998; Apr. 24, 2023, eff. Dec. 1, 2023.)
 
 #### Notes of Advisory Committee on Rules—1967 ####
 
@@ -261,6 +281,18 @@ The primary purpose of this rule is to make clear the power of the courts of app
 #### Committee Notes on Rules—1998 Amendment ####
 
 The language of the rule is amended to make the rule more easily understood. In addition to changes made to improve the understanding, the Advisory Committee has changed language to make style and terminology consistent throughout the appellate rules. These changes are intended to be stylistic only.
+
+#### Committee Notes on Rules—2023 Amendment ####
+
+Flexible application of the Federal Rules of Appellate Procedure, including Rule 2, has enabled the courts of appeals to continue their operations despite the coronavirus pandemic. Future emergencies, however, may pose problems that call for broader authority to suspend provisions of the Federal Rules of Appellate Procedure. For that reason, the amendment adds a new subdivision authorizing broader suspension authority when the Judicial Conference of the United States declares an Appellate Rules emergency. The amendment is designed to add to the authority of courts of appeals; it should not be interpreted to restrict the authority previously exercised by the courts of appeals.
+
+The circumstances warranting the declaration of an Appellate Rules emergency mirror those warranting a declaration of a Civil Rules emergency and a Bankruptcy Rules emergency: extraordinary circumstances relating to public health or safety, or affecting physical or electronic access to a court, that substantially impair the court's ability to perform its functions in compliance with these rules. A declaration must designate the circuit or circuits affected. It must also have a sunset provision so that the declaration is in effect for no more than 90 days unless the Judicial Conference makes an additional declaration. The Judicial Conference may also terminate the declaration for one or more circuits before the termination date.
+
+When a rules emergency is declared, the court of appeals may suspend in all or part of that circuit any provision of these rules, other than time limits imposed by statute and described in Rule 26(b)(1)–(2). This enables the court of appeals to suspend the time to appeal or seek review set only by a rule, but it does not authorize the court of appeals to suspend jurisdictional time limits imposed by statute. Sometimes when a rule is suspended, there is no need to provide any alternative to the suspended rule. For example, if the requirement of submitting paper copies of briefs is suspended, it may be enough to rely on electronic submissions. However, to deal with situations in which an alternative is required, the amendment empowers the court to "order proceedings as it directs," the same language that existed in Rule 2—now Rule 2(a)—before this amendment.
+
+#### References in Text ####
+
+Appellate Rules, referred to in subd. (b), probably means the Federal Rules of Appellate Procedure, which are set out in this Appendix.
 
 ### TITLE II. APPEAL FROM A JUDGMENT OR ORDER OF A DISTRICT COURT ###
 
@@ -474,7 +506,7 @@ As a result of the statutory amendments, subdivision (a) of Rule 3.1 is no longe
 
 (v) for a new trial under Rule 59; or
 
-(vi) for relief under Rule 60 if the motion is filed no later than 28 days after the judgment is entered.
+(vi) for relief under Rule 60 if the motion is filed within the time allowed for filing a motion under Rule 59.
 
 (B)(i) If a party files a notice of appeal after the court announces or enters a judgment—but before it disposes of any motion listed in Rule 4(a)(4)(A)—the notice becomes effective to appeal a judgment or order, in whole or in part, when the order disposing of the last such remaining motion is entered.
 
@@ -576,7 +608,7 @@ As a result of the statutory amendments, subdivision (a) of Rule 3.1 is no longe
 
 (d) Mistaken Filing in the Court of Appeals. If a notice of appeal in either a civil or a criminal case is mistakenly filed in the court of appeals, the clerk of that court must note on the notice the date when it was received and send it to the district clerk. The notice is then considered filed in the district court on the date so noted.
 
-(As amended Apr. 30, 1979, eff. Aug. 1, 1979; Pub. L. 100–690, title VII, §7111, Nov. 18, 1988, 102 Stat. 4419; Apr. 30, 1991, eff. Dec. 1, 1991; Apr. 22, 1993, eff. Dec. 1, 1993; Apr. 27, 1995, eff. Dec. 1, 1995; Apr. 24, 1998, eff. Dec. 1, 1998; Apr. 29, 2002, eff. Dec. 1, 2002; Apr. 25, 2005, eff. Dec. 1, 2005; Mar. 26, 2009, eff. Dec. 1, 2009; Apr. 28, 2010, eff. Dec. 1, 2010; Apr. 26, 2011, eff. Dec. 1, 2011; Apr. 28, 2016, eff. Dec. 1, 2016; Apr. 27, 2017, eff. Dec. 1, 2017.)
+(As amended Apr. 30, 1979, eff. Aug. 1, 1979; Pub. L. 100–690, title VII, §7111, Nov. 18, 1988, 102 Stat. 4419; Apr. 30, 1991, eff. Dec. 1, 1991; Apr. 22, 1993, eff. Dec. 1, 1993; Apr. 27, 1995, eff. Dec. 1, 1995; Apr. 24, 1998, eff. Dec. 1, 1998; Apr. 29, 2002, eff. Dec. 1, 2002; Apr. 25, 2005, eff. Dec. 1, 2005; Mar. 26, 2009, eff. Dec. 1, 2009; Apr. 28, 2010, eff. Dec. 1, 2010; Apr. 26, 2011, eff. Dec. 1, 2011; Apr. 28, 2016, eff. Dec. 1, 2016; Apr. 27, 2017, eff. Dec. 1, 2017; Apr. 24, 2023, eff. Dec. 1, 2023.)
 
 #### Notes of Advisory Committee on Rules—1967 ####
 
@@ -838,15 +870,35 @@ The amended rule also provides that a notice is timely without a declaration or 
 
 *Subdivision (a)(4)(B)(iii)*. This technical amendment restores the former subdivision (a)(4)(B)(iii) that was inadvertently deleted in 2009.
 
+#### Committee Notes on Rules—2023 Amendment ####
+
+The amendment is designed to make Rule 4 operate smoothly with Emergency Civil Rule 6(b)(2) if that emergency Civil Rule is ever in effect, while not making any change to the operation of Rule 4 at any other time. It does this by replacing the phrase "no later than 28 days after the judgment is entered" in Rule 4(a)(4)(A)(vi) with the phrase "within the time allowed for filing a motion under Rule 59."
+
+Certain post-judgment motions—for example, a renewed motion for judgment as a matter of law under Civil Rule 50(b) and a motion for a new trial under Civil Rule 59—may be made in the district court shortly after judgment is entered. Recognizing that it makes sense to await the district court's decision on these motions before pursuing an appeal, Rule 4(a)(4)(A) resets the time to appeal from the judgment so that it does not run until entry of an order disposing of the last such motion.
+
+Rule 4 gives this resetting effect only to motions that are filed within the time allowed by the Civil Rules. For most of these motions, the Civil Rules require that the motion be filed within 28 days of the judgment. See Civil Rules 50(b) and (d), 52(b), 59(b), (d), and (e). The time requirements for a Civil Rule 60(b) motion, however, are notably different. It must be filed "within a reasonable time," and for certain Civil Rule 60(b) motions, no more than a year after judgment. For this reason, Rule 4 does not give resetting effect to all Civil Rule 60(b) motions that are filed within the time allowed by the Civil Rules, but only to those Civil Rule 60(b) motions that are filed within 28 days of the entry of judgment. That is why most of the motions listed in Rule 4(a)(4)(A) are governed simply by the general requirement that they be filed within the time allowed by the Civil Rules, but Rule 4(a)(4)(A)(vi) adds the requirement that a Civil Rule 60(b) motion has resetting effect only if "filed no later than 28 days after the judgment is entered."
+
+Significantly, Civil Rule 6(b)(2) prohibits the district court from extending the time to act under Rules 50(b) and (d), 52(b), 59(b), (d), and (e), and 60(b). That means that when Rule 4 requires that a motion be filed within the time allowed by the Civil Rules, the time allowed by those Rules for motions under Rules 50(b) and (d), 52(b), 59(b), (d), and (e) will be 28 days—matching the 28-day requirement in Rule 4(a)(4)(A)(vi) applicable to Rule 60(b) motions.
+
+However, Emergency Civil Rule 6(b)(2)—which would be operative only if the Judicial Conference of the United States were to declare a Civil Rules emergency under Civil Rule 87—authorizes district courts to grant extensions that they are otherwise prohibited from granting. If that emergency Civil Rule is in effect, district courts may grant extensions to file motions under Civil Rules 50(b) and (d), 52(b), 59(b), (d), and (e), and 60(b). For all these motions except Civil Rule 60(b) motions, Rule 4 works seamlessly. Rule 4 requires only that those motions be filed "within the time allowed by" the Civil Rules, and a motion filed within a properly granted extension is filed "within the time allowed by" those rules. An emergency Civil Rule is no less a Civil Rule simply because it is operative only in a Civil Rules emergency.
+
+Without amendment, Rule 4 would not work seamlessly with the Emergency Civil Rule for Rule 60(b) motions because the 28-day requirement in Rule 4(a)(4)(A)(vi) would not correspond to the extended time to file other resetting motions. For this reason, the amendment replaces the phrase "if the motion is filed <sup><a href="#Rule_4_1_target" name="Rule_4_1">1</a></sup> no later than 28 days after the judgment is entered" with the phrase "within the time allowed for filing a motion under Rule 59."
+
+At all times that no Civil Rules emergency has been declared, the amended Rule 4 functions exactly as it did prior to the amendment. A Civil Rule 60(b) motion has resetting effect only if it is filed within the time allowed for filing a motion under Civil Rule 59—which is 28 days.
+
+When a Civil Rules emergency has been declared, however, if a district court grants an extension of time to file a Civil Rule 59 motion and a party files a Civil Rule 60(b) motion, that Civil Rule 60(b) motion has resetting effect so long as it is filed within the extended time set for filing a Civil Rule 59 motion. The Civil Rule 60(b) motion has this resetting effect even if no Civil Rule 59 motion is filed.
+
 #### References in Text ####
 
-The Federal Rules of Civil Procedure, referred to in subd. (a)(4), (6), and (7), are set out in this Appendix.
+The Federal Rules of Civil Procedure, referred to in subd. (a)(4), (6), (7), are set out in this Appendix.
 
 The Federal Rules of Criminal Procedure, referred to in subd. (b)(3), (5), are set out in the Appendix to Title 18, Crimes and Criminal Procedure.
 
 #### Amendment by Public Law ####
 
 **1988**—Subd. (b). Pub. L. 100–690 inserted "(i)" and "or (ii) a notice of appeal by the Government" in first sentence, and "(i)" and "or (ii) a notice of appeal by any defendant" in fifth sentence.
+
+[<sup>1</sup> So in House Document 118–34. The phrase "if the motion is filed" probably should not appear in quotation marks because it is not being replaced in the proposed amendment.](#Rule_4_1)
 
 ### Rule 5. Appeal by Permission ###
 
@@ -2292,7 +2344,7 @@ The Railroad Retirement Act, referred to in subd. (a)(5), probably means the Rai
 
 (6) *"Legal Holiday" Defined.* "Legal holiday" means:
 
-(A) the day set aside by statute for observing New Year's Day, Martin Luther King Jr.'s Birthday, Washington's Birthday, Memorial Day, Independence Day, Labor Day, Columbus Day, Veterans' Day, Thanksgiving Day, or Christmas Day;
+(A) the day set aside by statute for observing New Year's Day, Martin Luther King Jr.'s Birthday, Washington's Birthday, Memorial Day, Juneteenth National Independence Day, Independence Day, Labor Day, Columbus Day, Veterans' Day, Thanksgiving Day, or Christmas Day;
 
 (B) any day declared a holiday by the President or Congress; and
 
@@ -2306,7 +2358,7 @@ The Railroad Retirement Act, referred to in subd. (a)(5), probably means the Rai
 
 (c) Additional Time After Certain Kinds of Service. When a party may or must act within a specified time after being served, and the paper is not served electronically on the party or delivered to the party on the date stated in the proof of service, 3 days are added after the period would otherwise expire under Rule 26(a).
 
-(As amended Mar. 1, 1971, eff. July 1, 1971; Mar. 10, 1986, eff. July 1, 1986; Apr. 25, 1989, eff. Dec. 1, 1989; Apr. 30, 1991, eff. Dec. 1, 1991; Apr. 23, 1996, eff. Dec. 1, 1996; Apr. 24, 1998, eff. Dec. 1, 1998; Apr. 29, 2002, eff. Dec. 1, 2002; Apr. 25, 2005, eff. Dec. 1, 2005; Mar. 26, 2009, eff. Dec. 1, 2009; Apr. 28, 2016, eff. Dec. 1, 2016; Apr. 26, 2018, eff. Dec. 1, 2018; Apr. 25, 2019, eff. Dec. 1, 2019.)
+(As amended Mar. 1, 1971, eff. July 1, 1971; Mar. 10, 1986, eff. July 1, 1986; Apr. 25, 1989, eff. Dec. 1, 1989; Apr. 30, 1991, eff. Dec. 1, 1991; Apr. 23, 1996, eff. Dec. 1, 1996; Apr. 24, 1998, eff. Dec. 1, 1998; Apr. 29, 2002, eff. Dec. 1, 2002; Apr. 25, 2005, eff. Dec. 1, 2005; Mar. 26, 2009, eff. Dec. 1, 2009; Apr. 28, 2016, eff. Dec. 1, 2016; Apr. 26, 2018, eff. Dec. 1, 2018; Apr. 25, 2019, eff. Dec. 1, 2019; Apr. 24, 2023, eff. Dec. 1, 2023.)
 
 #### Notes of Advisory Committee on Rules—1967 ####
 
@@ -2437,6 +2489,10 @@ The amendments adjust references to subdivisions of Rule 25 that have been renum
 #### Committee Notes on Rules—2019 Amendment ####
 
 The amendment in subdivision (c) simplifies the expression of the current rules for when three days are added. In addition, the amendment revises the subdivision to conform to the amendments to Rule 25(d).
+
+#### Committee Notes on Rules—2023 Amendment ####
+
+The amendment adds "Juneteenth National Independence Day" to the list of legal holidays. See Juneteenth National Independence Day Act, P.L. 117–17 (2021) (amending 5 U.S.C. §6103(a)).
 
 ### Rule 26.1. Disclosure Statement ###
 
@@ -4161,7 +4217,7 @@ Rule 44 has been amended to correct this omission. The text of former Rule 44 re
 
 (1) *Qualifications.* The circuit clerk must take the oath and post any bond required by law. Neither the clerk nor any deputy clerk may practice as an attorney or counselor in any court while in office.
 
-(2) *When Court Is Open.* The court of appeals is always open for filing any paper, issuing and returning process, making a motion, and entering an order. The clerk's office with the clerk or a deputy in attendance must be open during business hours on all days except Saturdays, Sundays, and legal holidays. A court may provide by local rule or by order that the clerk's office be open for specified hours on Saturdays or on legal holidays other than New Year's Day, Martin Luther King, Jr.'s Birthday, Washington's Birthday, Memorial Day, Independence Day, Labor Day, Columbus Day, Veterans' Day, Thanksgiving Day, and Christmas Day.
+(2) *When Court Is Open.* The court of appeals is always open for filing any paper, issuing and returning process, making a motion, and entering an order. The clerk's office with the clerk or a deputy in attendance must be open during business hours on all days except Saturdays, Sundays, and legal holidays. A court may provide by local rule or by order that the clerk's office be open for specified hours on Saturdays or on legal holidays other than New Year's Day, Martin Luther King Jr.'s Birthday, Washington's Birthday, Memorial Day, Juneteenth National Independence Day, Independence Day, Labor Day, Columbus Day, Veterans' Day, Thanksgiving Day, and Christmas Day.
 
 (b) Records.
 
@@ -4175,7 +4231,7 @@ Rule 44 has been amended to correct this omission. The text of former Rule 44 re
 
 (d) Custody of Records and Papers. The circuit clerk has custody of the court's records and papers. Unless the court orders or instructs otherwise, the clerk must not permit an original record or paper to be taken from the clerk's office. Upon disposition of the case, original papers constituting the record on appeal or review must be returned to the court or agency from which they were received. The clerk must preserve a copy of any brief, appendix, or other paper that has been filed.
 
-(As amended Mar. 1, 1971, eff. July 1, 1971; Mar. 10, 1986, eff. July 1, 1986; Apr. 24, 1998, eff. Dec. 1, 1998; Apr. 29, 2002, eff. Dec. 1, 2002; Apr. 25, 2005, eff. Dec. 1, 2005.)
+(As amended Mar. 1, 1971, eff. July 1, 1971; Mar. 10, 1986, eff. July 1, 1986; Apr. 24, 1998, eff. Dec. 1, 1998; Apr. 29, 2002, eff. Dec. 1, 2002; Apr. 25, 2005, eff. Dec. 1, 2005; Apr. 24, 2023, eff. Dec. 1, 2023.)
 
 #### Notes of Advisory Committee on Rules—1967 ####
 
@@ -4206,6 +4262,10 @@ The language and organization of the rule are amended to make the rule more easi
 *Subdivision (a)(2).* Rule 45(a)(2) has been amended to refer to the third Monday in February as "Washington's Birthday." A federal statute officially designates the holiday as "Washington's Birthday," reflecting the desire of Congress specially to honor the first president of the United States. *See* 5 U.S.C. §6103(a). During the 1998 restyling of the Federal Rules of Appellate Procedure, references to "Washington's Birthday" were mistakenly changed to "Presidents' Day." The amendment corrects that error.
 
 *Changes Made After Publication and Comments.* No changes were made to the text of the proposed amendment or to the Committee Note.
+
+#### Committee Notes on Rules—2023 Amendment ####
+
+The amendment adds "Juneteenth National Independence Day" to the list of legal holidays. See Juneteenth National Independence Day Act, P.L. 117–17 (2021) (amending 5 U.S.C. §6103(a)). A stylistic change was made.
 
 ### Rule 46. Attorneys ###
 
@@ -4522,13 +4582,13 @@ Signed on \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_[*insert date*]
 FEDERAL RULES OF CIVIL PROCEDURE
 ==========
 
-(As amended to January 5, 2023)
+(As amended to December 1, 2023)
 
 #### Historical Note ####
 
 The original Rules of Civil Procedure for the District Courts were adopted by order of the Supreme Court on Dec. 20, 1937, transmitted to Congress by the Attorney General on Jan. 3, 1938, and became effective on Sept. 16, 1938.
 
-The Rules have been amended Dec. 28, 1939, eff. Apr. 3, 1941; Dec. 27, 1946, eff. Mar. 19, 1948; Dec. 29, 1948, eff. Oct. 20, 1949; Apr. 30, 1951, eff. Aug. 1, 1951; Apr. 17, 1961, eff. July 19, 1961; Jan. 21, 1963, eff. July 1, 1963; Feb. 28, 1966, eff. July 1, 1966; Dec. 4, 1967, eff. July 1, 1968; Mar. 30, 1970, eff. July 1, 1970; Mar. 1, 1971, eff. July 1, 1971; Nov. 20, 1972, and Dec. 18, 1972, eff. July 1, 1975; Apr. 29, 1980, eff. Aug. 1, 1980; Oct. 21, 1980, Pub. L. 96–481, title II, §205(a), (b), 94 Stat. 2330; Jan. 12, 1983, Pub. L. 97–462, §§2–4, 96 Stat. 2527–2530, eff. Feb. 26, 1983; Apr. 28, 1983, eff. Aug. 1, 1983; Apr. 29, 1985, eff. Aug. 1, 1985; Mar. 2, 1987, eff. Aug. 1, 1987; Apr. 25, 1988, eff. Aug. 1, 1988; Nov. 18, 1988, Pub. L. 100–690, title VII, §§7047(b), 7049, 7050, 102 Stat. 4401; Apr. 30, 1991, eff. Dec. 1, 1991; Dec. 9, 1991, Pub. L. 102–198, §11, 105 Stat. 1626; Apr. 22, 1993, eff. Dec. 1, 1993; Apr. 27, 1995, eff. Dec. 1, 1995; Apr. 23, 1996, eff. Dec. 1, 1996; Apr. 11, 1997, eff. Dec. 1, 1997; Apr. 24, 1998, eff. Dec. 1, 1998; Apr. 26, 1999, eff. Dec. 1, 1999; Apr. 17, 2000, eff. Dec. 1, 2000; Apr. 23, 2001, eff. Dec. 1, 2001; Apr. 29, 2002, eff. Dec. 1, 2002; Mar. 27, 2003, eff. Dec. 1, 2003; Apr. 25, 2005, eff. Dec. 1, 2005; Apr. 12, 2006, eff. Dec. 1, 2006; Apr. 30, 2007, eff. Dec. 1, 2007; Apr. 23, 2008, eff. Dec. 1, 2008; Mar. 26, 2009, eff. Dec. 1, 2009; Apr. 28, 2010, eff. Dec. 1, 2010; Apr. 16, 2013, eff. Dec. 1, 2013; Apr. 25, 2014, eff. Dec. 1, 2014; Apr. 29, 2015, eff. Dec. 1, 2015; Apr. 28, 2016, eff. Dec. 1, 2016; Apr. 27, 2017, eff. Dec. 1, 2017; Apr. 26, 2018, eff. Dec. 1, 2018; Apr. 27, 2020, eff. Dec. 1, 2020; Apr. 11, 2022, eff. Dec. 1, 2022.
+The Rules have been amended Dec. 28, 1939, eff. Apr. 3, 1941; Dec. 27, 1946, eff. Mar. 19, 1948; Dec. 29, 1948, eff. Oct. 20, 1949; Apr. 30, 1951, eff. Aug. 1, 1951; Apr. 17, 1961, eff. July 19, 1961; Jan. 21, 1963, eff. July 1, 1963; Feb. 28, 1966, eff. July 1, 1966; Dec. 4, 1967, eff. July 1, 1968; Mar. 30, 1970, eff. July 1, 1970; Mar. 1, 1971, eff. July 1, 1971; Nov. 20, 1972, and Dec. 18, 1972, eff. July 1, 1975; Apr. 29, 1980, eff. Aug. 1, 1980; Oct. 21, 1980, Pub. L. 96–481, title II, §205(a), (b), 94 Stat. 2330; Jan. 12, 1983, Pub. L. 97–462, §§2–4, 96 Stat. 2527–2530, eff. Feb. 26, 1983; Apr. 28, 1983, eff. Aug. 1, 1983; Apr. 29, 1985, eff. Aug. 1, 1985; Mar. 2, 1987, eff. Aug. 1, 1987; Apr. 25, 1988, eff. Aug. 1, 1988; Nov. 18, 1988, Pub. L. 100–690, title VII, §§7047(b), 7049, 7050, 102 Stat. 4401; Apr. 30, 1991, eff. Dec. 1, 1991; Dec. 9, 1991, Pub. L. 102–198, §11, 105 Stat. 1626; Apr. 22, 1993, eff. Dec. 1, 1993; Apr. 27, 1995, eff. Dec. 1, 1995; Apr. 23, 1996, eff. Dec. 1, 1996; Apr. 11, 1997, eff. Dec. 1, 1997; Apr. 24, 1998, eff. Dec. 1, 1998; Apr. 26, 1999, eff. Dec. 1, 1999; Apr. 17, 2000, eff. Dec. 1, 2000; Apr. 23, 2001, eff. Dec. 1, 2001; Apr. 29, 2002, eff. Dec. 1, 2002; Mar. 27, 2003, eff. Dec. 1, 2003; Apr. 25, 2005, eff. Dec. 1, 2005; Apr. 12, 2006, eff. Dec. 1, 2006; Apr. 30, 2007, eff. Dec. 1, 2007; Apr. 23, 2008, eff. Dec. 1, 2008; Mar. 26, 2009, eff. Dec. 1, 2009; Apr. 28, 2010, eff. Dec. 1, 2010; Apr. 16, 2013, eff. Dec. 1, 2013; Apr. 25, 2014, eff. Dec. 1, 2014; Apr. 29, 2015, eff. Dec. 1, 2015; Apr. 28, 2016, eff. Dec. 1, 2016; Apr. 27, 2017, eff. Dec. 1, 2017; Apr. 26, 2018, eff. Dec. 1, 2018; Apr. 27, 2020, eff. Dec. 1, 2020; Apr. 11, 2022, eff. Dec. 1, 2022; Apr. 24, 2023, eff. Dec. 1, 2023.
 
 #### TITLE I. SCOPE OF RULES; FORM OF ACTION ####
 
@@ -4747,6 +4807,8 @@ Rule
 85. Title.
 
 86. Effective Dates.
+
+87. Civil Rules Emergency.
 
 #### APPENDIX OF FORMS ####
 
@@ -6286,7 +6348,7 @@ Subdivision (e) was published with a standard for protective orders, referring t
 
 (6) *"Legal Holiday" Defined.* "Legal holiday" means:
 
-(A) the day set aside by statute for observing New Year's Day, Martin Luther King Jr.'s Birthday, Washington's Birthday, Memorial Day, Independence Day, Labor Day, Columbus Day, Veterans' Day, Thanksgiving Day, or Christmas Day;
+(A) the day set aside by statute for observing New Year's Day, Martin Luther King Jr.'s Birthday, Washington's Birthday, Memorial Day, Juneteenth National Independence Day, Independence Day, Labor Day, Columbus Day, Veterans' Day, Thanksgiving Day, or Christmas Day;
 
 (B) any day declared a holiday by the President or Congress; and
 
@@ -6316,7 +6378,7 @@ Subdivision (e) was published with a standard for protective orders, referring t
 
 (d) Additional Time After Certain Kinds of Service. When a party may or must act within a specified time after being served and service is made under Rule 5(b)(2)(C) (mail), (D) (leaving with the clerk), or (F) (other means consented to), 3 days are added after the period would otherwise expire under Rule 6(a).
 
-(As amended Dec. 27, 1946, eff. Mar. 19, 1948; Jan. 21, 1963, eff. July 1, 1963; Feb. 28, 1966, eff. July 1, 1966; Dec. 4, 1967, eff. July 1, 1968; Mar. 1, 1971, eff. July 1, 1971; Apr. 28, 1983, eff. Aug. 1, 1983; Apr. 29, 1985, eff. Aug. 1, 1985; Mar. 2, 1987, eff. Aug. 1, 1987; Apr. 26, 1999, eff. Dec. 1, 1999; Apr. 23, 2001, eff. Dec. 1, 2001; Apr. 25, 2005, eff. Dec. 1, 2005; Apr. 30, 2007, eff. Dec. 1, 2007; Mar. 26, 2009, eff. Dec. 1, 2009; Apr. 28, 2016, eff. Dec. 1, 2016.)
+(As amended Dec. 27, 1946, eff. Mar. 19, 1948; Jan. 21, 1963, eff. July 1, 1963; Feb. 28, 1966, eff. July 1, 1966; Dec. 4, 1967, eff. July 1, 1968; Mar. 1, 1971, eff. July 1, 1971; Apr. 28, 1983, eff. Aug. 1, 1983; Apr. 29, 1985, eff. Aug. 1, 1985; Mar. 2, 1987, eff. Aug. 1, 1987; Apr. 26, 1999, eff. Dec. 1, 1999; Apr. 23, 2001, eff. Dec. 1, 2001; Apr. 25, 2005, eff. Dec. 1, 2005; Apr. 30, 2007, eff. Dec. 1, 2007; Mar. 26, 2009, eff. Dec. 1, 2009; Apr. 28, 2016, eff. Dec. 1, 2016; Apr. 24, 2023, eff. Dec. 1, 2023.)
 
 #### Notes of Advisory Committee on Rules—1937 ####
 
@@ -6483,6 +6545,10 @@ Electronic service after business hours, or just before or during a weekend or h
 Eliminating Rule 5(b) subparagraph (2)(E) from the modes of service that allow 3 added days means that the 3 added days cannot be retained by consenting to service by electronic means. Consent to electronic service in registering for electronic case filing, for example, does not count as consent to service "by any other means" of delivery under subparagraph (F).
 
 What is now Rule 6(d) was amended in 2005 "to remove any doubt as to the method for calculating the time to respond after service by mail, leaving with the clerk of court, electronic means, or by other means consented to by the party served." A potential ambiguity was created by substituting "after service" for the earlier references to acting after service "upon the party" if a paper or notice "is served upon the party" by the specified means. "[A]fter service" could be read to refer not only to a party that has been served but also to a party that has made service. That reading would mean that a party who is allowed a specified time to act after making service can extend the time by choosing one of the means of service specified in the rule, something that was never intended by the original rule or the amendment. Rules setting a time to act after making service include Rules 14(a)(1), 15(a)(1)(A), and 38(b)(1). "[A]fter being served" is substituted for "after service" to dispel any possible misreading.
+
+#### Committee Notes on Rules—2023 Amendment ####
+
+The amendment adds "Juneteenth National Independence Day" to the list of legal holidays. See Juneteenth National Independence Day Act, P.L. 117–17 (2021) (amending 5 U.S.C. §6103(a)).
 
 ### TITLE III. PLEADINGS AND MOTIONS ###
 
@@ -7388,7 +7454,7 @@ The time set in the former rule at 10 days has been revised to 14 days. See the 
 
 (a) Amendments Before Trial.
 
-(1) *Amending as a Matter of Course.* A party may amend its pleading once as a matter of course within:
+(1) *Amending as a Matter of Course.* A party may amend its pleading once as a matter of course no later than:
 
 (A) 21 days after serving it, or
 
@@ -7422,7 +7488,7 @@ The time set in the former rule at 10 days has been revised to 14 days. See the 
 
 (d) Supplemental Pleadings. On motion and reasonable notice, the court may, on just terms, permit a party to serve a supplemental pleading setting out any transaction, occurrence, or event that happened after the date of the pleading to be supplemented. The court may permit supplementation even though the original pleading is defective in stating a claim or defense. The court may order that the opposing party plead to the supplemental pleading within a specified time.
 
-(As amended Jan. 21, 1963, eff. July 1, 1963; Feb. 28, 1966, eff. July 1, 1966; Mar. 2, 1987, eff. Aug. 1, 1987; Apr. 30, 1991, eff. Dec. 1, 1991; Pub. L. 102–198, §11(a), Dec. 9, 1991, 105 Stat. 1626; Apr. 22, 1993, eff. Dec. 1, 1993; Apr. 30, 2007, eff. Dec. 1, 2007; Mar. 26, 2009, eff. Dec. 1, 2009.)
+(As amended Jan. 21, 1963, eff. July 1, 1963; Feb. 28, 1966, eff. July 1, 1966; Mar. 2, 1987, eff. Aug. 1, 1987; Apr. 30, 1991, eff. Dec. 1, 1991; Pub. L. 102–198, §11(a), Dec. 9, 1991, 105 Stat. 1626; Apr. 22, 1993, eff. Dec. 1, 1993; Apr. 30, 2007, eff. Dec. 1, 2007; Mar. 26, 2009, eff. Dec. 1, 2009; Apr. 24, 2023, eff. Dec. 1, 2023.)
 
 #### Notes of Advisory Committee on Rules—1937 ####
 
@@ -7503,6 +7569,10 @@ Finally, amended Rule 15(a)(1) extends from 20 to 21 days the period to amend a 
 Abrogation of Rule 13(f) establishes Rule 15 as the sole rule governing amendment of a pleading to add a counterclaim.
 
 Amended Rule 15(a)(3) extends from 10 to 14 days the period to respond to an amended pleading.
+
+#### Committee Notes on Rules—2023 Amendment ####
+
+Rule 15(a)(1) is amended to substitute "no later than" for "within" to measure the time allowed to amend once as a matter of course. A literal reading of "within" would lead to an untoward practice if a pleading is one to which a responsive pleading is required and neither a responsive pleading nor one of the Rule 12 motions has been served within 21 days after service of the pleading. Under this reading, the time to amend once as a matter of course lapses 21 days after the pleading is served and is revived only on the later service of a responsive pleading or one of the Rule 12 motions. There is no reason to suspend the right to amend in this way. "No later than" makes it clear that the right to amend continues without interruption until 21 days after the earlier of the events described in Rule 15(a)(1)(B).
 
 #### Amendment by Public Law ####
 
@@ -15025,13 +15095,13 @@ The times set in the former rule at 20 days have been revised to 21 days. See th
 
 (b) Dispositive Motions and Prisoner Petitions.
 
-(1) *Findings and Recommendations.* A magistrate judge must promptly conduct the required proceedings when assigned, without the parties' consent, to hear a pretrial matter dispositive of a claim or defense or a prisoner petition challenging the conditions of confinement. A record must be made of all evidentiary proceedings and may, at the magistrate judge's discretion, be made of any other proceedings. The magistrate judge must enter a recommended disposition, including, if appropriate, proposed findings of fact. The clerk must promptly mail a copy to each party.
+(1) *Findings and Recommendations.* A magistrate judge must promptly conduct the required proceedings when assigned, without the parties' consent, to hear a pretrial matter dispositive of a claim or defense or a prisoner petition challenging the conditions of confinement. A record must be made of all evidentiary proceedings and may, at the magistrate judge's discretion, be made of any other proceedings. The magistrate judge must enter a recommended disposition, including, if appropriate, proposed findings of fact. The clerk must immediately serve a copy on each party as provided in Rule 5(b).
 
 (2) *Objections.* Within 14 days after being served with a copy of the recommended disposition, a party may serve and file specific written objections to the proposed findings and recommendations. A party may respond to another party's objections within 14 days after being served with a copy. Unless the district judge orders otherwise, the objecting party must promptly arrange for transcribing the record, or whatever portions of it the parties agree to or the magistrate judge considers sufficient.
 
 (3) *Resolving Objections.* The district judge must determine de novo any part of the magistrate judge's disposition that has been properly objected to. The district judge may accept, reject, or modify the recommended disposition; receive further evidence; or return the matter to the magistrate judge with instructions.
 
-(As added Apr. 28, 1983, eff. Aug. 1, 1983; amended Apr. 30, 1991, eff. Dec. 1, 1991; Apr. 22, 1993, eff. Dec. 1, 1993; Apr. 30, 2007, eff. Dec. 1, 2007; Mar. 26, 2009, eff. Dec. 1, 2009.)
+(As added Apr. 28, 1983, eff. Aug. 1, 1983; amended Apr. 30, 1991, eff. Dec. 1, 1991; Apr. 22, 1993, eff. Dec. 1, 1993; Apr. 30, 2007, eff. Dec. 1, 2007; Mar. 26, 2009, eff. Dec. 1, 2009; Apr. 24, 2023, eff. Dec. 1, 2023.)
 
 #### Notes of Advisory Committee on Rules—1983 ####
 
@@ -15064,6 +15134,10 @@ The language of Rule 72 has been amended as part of the general restyling of the
 #### Committee Notes on Rules—2009 Amendment ####
 
 The times set in the former rule at 10 days have been revised to 14 days. See the Note to Rule 6.
+
+#### Committee Notes on Rules—2023 Amendment ####
+
+Rule 72(b)(1) is amended to permit the clerk to serve a copy of a magistrate judge's recommended disposition by any of the means provided in Rule 5(b).
 
 ### Rule 73. Magistrate Judges: Trial by Consent; Appeal ###
 
@@ -15798,6 +15872,88 @@ Sections 2–4 of the Order of the Supreme Court, dated Feb. 28, 1966, 383 U.S. 
 "3. That the Chief Justice be, and he hereby is, authorized to transmit to the Congress the foregoing amendments and additions to the Rules of Civil Procedure in accordance with the provisions of Title 28, U.S.C., §§2072 and 2073.
 
 "4. That: (a) subdivision (c) of Rule 6 of the Rules of Civil Procedure for the United States District Courts promulgated by this court on December 20, 1937, effective September 16, 1938; (b) Rule 2 of the Rules for Practice and Procedure under section 25 of An Act To amend and consolidate the Acts respecting copyright, approved March 4, 1909, promulgated by this court on June 1, 1909, effective July 1, 1909; and (c) the Rules of Practice in Admiralty and Maritime Cases, promulgated by this court on December 6, 1920, effective March 7, 1921, as revised, amended and supplemented be, and they hereby are, rescinded, effective July 1, 1966."
+
+### Rule 87. Civil Rules Emergency ###
+
+(a) Conditions for an Emergency. The Judicial Conference of the United States may declare a Civil Rules emergency if it determines that extraordinary circumstances relating to public health or safety, or affecting physical or electronic access to a court, substantially impair the court's ability to perform its functions in compliance with these rules.
+
+(b) Declaring an Emergency.
+
+(1) *Content.* The declaration:
+
+(A) must designate the court or courts affected;
+
+(B) adopts all the emergency rules in Rule 87(c) unless it excepts one or more of them; and
+
+(C) must be limited to a stated period of no more than 90 days.
+
+(2) *Early Termination.* The Judicial Conference may terminate a declaration for one or more courts before the termination date.
+
+(3) *Additional Declarations.* The Judicial Conference may issue additional declarations under this rule.
+
+(c) Emergency Rules.
+
+(1) *Emergency Rules 4(e), (h)(1), (i), and (j)(2), and for serving a minor or incompetent person.* The court may by order authorize service on a defendant described in Rule 4(e), (h)(1), (i), or (j)(2)—or on a minor or incompetent person in a judicial district of the United States—by a method that is reasonably calculated to give notice. A method of service may be completed under the order after the declaration ends unless the court, after notice and an opportunity to be heard, modifies or rescinds the order.
+
+(2) *Emergency Rule 6(b)(2).*
+
+(A) *Extension of Time to File Certain Motions.* A court may, by order, apply Rule 6(b)(1)(A) to extend for a period of no more than 30 days after entry of the order the time to act under Rules 50(b) and (d), 52(b), 59(b), (d), and (e), and 60(b).
+
+(B) *Effect on Time to Appeal.* Unless the time to appeal would otherwise be longer:
+
+(i) if the court denies an extension, the time to file an appeal runs for all parties from the date the order denying the motion to extend is entered;
+
+(ii) if the court grants an extension, a motion authorized by the court and filed within the extended period is, for purposes of Appellate Rule 4(a)(4)(A), filed "within the time allowed by" the Federal Rules of Civil Procedure; and
+
+(iii) if the court grants an extension and no motion authorized by the court is made within the extended period, the time to file an appeal runs for all parties from the expiration of the extended period.
+
+(C) *Declaration Ends.* An act authorized by an order under this emergency rule may be completed under the order after the emergency declaration ends.
+
+(As added Apr. 24, 2023, eff. Dec. 1, 2023.)
+
+#### Committee Notes on Rules—2023 ####
+
+*Subdivision (a)*. This rule addresses the prospect that extraordinary circumstances may so substantially interfere with the ability of the court and parties to act in compliance with a few of these rules as to substantially impair the court's ability to effectively perform its functions under these rules. The responses of the courts and parties to the COVID–19 pandemic provided the immediate occasion for adopting a formal rule authorizing departure from the ordinary constraints of a rule text that substantially impairs a court's ability to perform its functions. At the same time, these responses showed that almost all challenges can be effectively addressed through the general rules provisions. The emergency rules authorized by this rule allow departures only from a narrow range of rules that, in rare and extraordinary circumstances, may raise unreasonably high obstacles to effective performance of judicial functions.
+
+The range of the extraordinary circumstances that might give rise to a rules emergency is wide, in both time and space. An emergency may be local—familiar examples include hurricanes, flooding, explosions, or civil unrest. The circumstance may be more widely regional, or national. The emergency may be tangible or intangible, including such events as a pandemic or disruption of electronic communications. The concept is pragmatic and functional. The determination of what relates to public health or safety, or what affects physical or electronic access to a court, need not be literal. The ability of the court to perform its functions in compliance with these rules may be affected by the ability of the parties to comply with a rule in a particular emergency. A shutdown of interstate travel in response to an external threat, for example, might constitute a rules emergency even though there is no physical barrier that impedes access to the court or the parties.
+
+Responsibility for declaring a rules emergency is vested exclusively in the Judicial Conference. But a court may, absent a declaration by the Judicial Conference, utilize all measures of discretion and all the flexibility already embedded in the character and structure of the Civil Rules.
+
+A pragmatic and functional determination whether there is a Civil Rules emergency should be carefully limited to problems that cannot be resolved by construing, administering, and employing the flexibility deliberately incorporated in the structure of the Civil Rules. The rules rely extensively on sensible accommodations among the litigants and on wise management by judges when the litigants are unable to resolve particular problems. The effects of an emergency on the ability of the court and the parties to comply with a rule should be determined in light of the flexible responses to particular situations generally available under that rule. And even if a rules emergency is declared, the court and parties should explore the opportunities for flexible use of a rule before turning to rely on an emergency departure. Adoption of this rule, or a declaration of a rules emergency, does not imply any limitation of the courts' ability to respond to emergency circumstances by wise use of the discretion and opportunities for effective adaptation that inhere in the Civil Rules themselves.
+
+*Subdivision (b)*. A declaration of a rules emergency must designate the court or courts affected by the emergency. An emergency may be so local that only a single court is designated. The declaration adopts all of the emergency rules listed in subdivision (c) unless it excepts one or more of them. An emergency rule supplements the Civil Rule for the period covered by the declaration.
+
+A declaration must be limited to a stated period of no more than 90 days, but the Judicial Conference may terminate a declaration for one or more courts before the end of the stated period. A declaration may be succeeded by a new declaration made under this rule. And additional declarations may be made under this rule before an earlier declaration terminates. An additional declaration may modify an earlier declaration to respond to new emergencies or a better understanding of the original emergency. Changes may be made in the courts affected by the emergency or in the emergency rules adopted by the declaration.
+
+*Subdivision (c)*. Subdivision (c) lists the only Emergency Rules that may be authorized by a declaration of a rules emergency.
+
+*Emergency Rules 4*. Each of the Emergency Rules 4 authorizes the court to order service by means not otherwise provided in Rule 4 by a method that is appropriate to the circumstances of the emergency declared by the Judicial Conference and that is reasonably calculated to give notice. The nature of some emergencies will make it appropriate to rely on case-specific orders tailored to the particular emergency and the identity of the parties. The court should explore the opportunities to make effective service under the traditional methods provided by Rule 4, along with the difficulties that may impede effective service under Rule 4. Any means of service authorized by the court must be calculated to fulfill the fundamental role of serving the summons and complaint in providing notice of the action and the opportunity to respond. Other emergencies may make it appropriate for a court to adopt a general practice by entering a standing order that specifies one or possibly more than one means of service appropriate for most cases. Service by a commercial carrier requiring a return receipt might be an example.
+
+The final sentence of Emergency Rule 4 addresses a situation in which a declaration of a civil rules [sic] emergency ends after an order for service is entered but before service is completed. Service may be completed under the order unless the court modifies or rescinds the order. A modification that continues to allow a method of service specified by the order but not within Rule 4, or rescission that requires service by a method within Rule 4, may provide for effective service. But it may be better to permit completion of service in compliance with the original order. For example, the summons and complaint may have been delivered to a commercial carrier that has not yet delivered them to the party to be served. Allowing completion and return of confirmation of delivery may be the most efficient course. Allowing completion of a method authorized by the order may be particularly important when a claim is governed by a statute of limitations that requires actual service within a stated period after the action is filed.
+
+*Emergency Rule 6(b)(2)*. Emergency Rule 6(b)(2) supersedes the flat prohibition in Rule 6(b)(2) of any extension of the time to act under Rules 50(b) and (d), 52(b), 59(b), (d), and (e), and 60(b). The court may extend those times under Rule 6(b)(1)(A). Rule 6(b)(1)(A) requires the court to find good cause. Some emergencies may justify a standing order that finds good cause in general terms, but the period allowed by the extension ordinarily will depend on case-specific factors as well.
+
+Rule 6(b)(1)(A) authorizes the court to extend the time to act under Rules 50(b), 50(d), 52(b), 59(b), 59(d), 59(e), and 60(b) only if it acts, or if a request is made, before the original time allowed by those rules or an extension granted under Emergency Rule 6(b)(2) expires. For all but Rule 60(b), the time allowed by those rules is 28 days after the entry of judgment. For Rule 60(b), the time allowed is governed by Rule 60(c)(1), which requires that the motion be made within a reasonable time, and, for motions under Rule 60(b)(1), (2), or (3), no more than a year after the entry of judgment. The maximum extension is not more than 30 days after entry of the order granting an extension. If the court acts on its own, extensions for Rule 50, 52, and 59 motions can extend no later than 58 days after the entry of judgment unless the court acts before expiration of an earlier extension. If an extension is sought by motion, an extension can extend no later than 30 days after entry of the order granting the extension.
+
+Appeal time must be reset to support an orderly determination whether to order an extension and, if an extension is ordered, to make and dispose of any motion authorized by the extension. Subparagraph 6(b)(2)(B) integrates the emergency rule with Appellate Rule 4(a)(4)(A) for four separate situations.
+
+The first situation is governed by the initial text: "Unless the time to appeal would otherwise be longer." One example that illustrates this situation would be a motion by the plaintiff for a new trial within the time allowed by Rule 59, followed by a timely motion by the defendant for an extension of time to file a renewed motion for judgment as a matter of law under Rule 50(b). The court denies the motion for an extension without yet ruling on the plaintiff's motion. The time to appeal after denial of the plaintiff's motion is longer for all parties than the time after denial of the defendant's motion for an extension.
+
+Item (B)(i) resets appeal time to run for all parties from the date of entry of an order denying a motion to extend.
+
+Items (B)(ii) and (iii) reset appeal time after the court grants an extended period to file a post-judgment motion. Appellate Rule 4(a)(4)(A) is incorporated, giving the authorized motion the effect of a motion filed "within the time allowed by" the Federal Rules of Civil Procedure. If more than one authorized motion is filed, appeal time is reset to run from the order "disposing of the last such remaining motion." If no authorized motion is made, appeal time runs from the expiration of the extended period.
+
+These provisions for resetting appeal time are supported for the special timing provisions for Rule 60(b) motions by a parallel amendment of Appellate Rule 4(a)(4)(A)(vi) that resets appeal time on a timely motion "for relief under Rule 60 if the motion is filed within the time allowed for filing a motion under Rule 59." This Rule 4 provision, as amended, will assure that a Rule 60(b) motion resets appeal time for review of the final judgment only if it is filed within the 28 days ordinarily allowed for post-judgment motions under Rule 59 or any extended period for filing a Rule 59 motion that a court might authorize under Emergency Rule 6(b)(2). A timely Rule 60(b) motion filed after that period, whether it is timely under Rule 60(c)(1) or under an extension ordered under Emergency Rule 6(b)(2), supports an appeal from disposition of the Rule 60(b) motion, but does not support an appeal from the original final judgment.
+
+Emergency Rule 6(b)(2)(C) addresses a situation in which a declaration of a Civil Rules emergency ends after an order is entered, whether the order grants or denies an extension. This rule preserves the integration of Emergency Rule 6(b)(2) with the appeal time provisions of Appellate Rule 4(a)(4)(A). An act authorized by the order, which may be either a motion or an appeal, may be completed under the order. If the order denies a timely motion for an extension, the time to appeal runs from the order. If an extension is granted, a motion may be filed within the extended period. Appeal time starts to run from the order that disposes of the last remaining authorized motion. If no authorized motion is filed within the extended period, appeal time starts to run on expiration of the extended period. Any other approach would sacrifice opportunities for post-judgment relief or appeal that could have been preserved if no emergency rule motion had been made.
+
+Emergency rules provisions were added to the Appellate, Bankruptcy, Civil, and Criminal Rules in the wake of the COVID–19 pandemic. They were made as uniform as possible. But each set of rules serves distinctive purposes, shaped by different origins, traditions, functions, and needs. Different provisions were compelled by these different purposes.
+
+#### References in Text ####
+
+Civil Rules, referred to in subd. (a), probably means the Federal Rules of Civil Procedure, which are set out in this Appendix.
+
+Appellate Rule 4(a)(4)(A), referred to in subd. (c)(2)(B)(ii), probably means Rule 4(a)(4)(A) of the Federal Rules of Appellate Procedure, which is set out in this Appendix.
 
 ### APPENDIX OF FORMS ###
 
@@ -16898,7 +17054,7 @@ Rules 6, 7, and 8 set the times for serving the briefs: 30 days after the answer
 FEDERAL RULES OF EVIDENCE
 ==========
 
-(As amended to January 5, 2023)
+(As amended to December 1, 2023)
 
 #### Effective Date and Application of Rules ####
 
@@ -16908,7 +17064,7 @@ Pub. L. 93–595, §1, Jan. 2, 1975, 88 Stat. 1926, provided: "That the followin
 
 The Federal Rules of Evidence were adopted by order of the Supreme Court on Nov. 20, 1972, transmitted to Congress by the Chief Justice on Feb. 5, 1973, and to have become effective on July 1, 1973. Pub. L. 93–12, Mar. 30, 1973, 87 Stat. 9, provided that the proposed rules "shall have no force or effect except to the extent, and with such amendments, as they may be expressly approved by Act of Congress". Pub. L. 93–595, Jan. 2, 1975, 88 Stat. 1926, enacted the Federal Rules of Evidence proposed by the Supreme Court, with amendments made by Congress, to take effect on July 1, 1975.
 
-The Rules have been amended Oct. 16, 1975, Pub. L. 94–113, §1, 89 Stat. 576, eff. Oct. 31, 1975; Dec. 12, 1975, Pub. L. 94–149, §1, 89 Stat. 805; Oct. 28, 1978, Pub. L. 95–540, §2, 92 Stat. 2046; Nov. 6, 1978, Pub. L. 95–598, title II, §251, 92 Stat. 2673, eff. Oct. 1, 1979; Apr. 30, 1979, eff. Dec. 1, 1980; Apr. 2, 1982, Pub. L. 97–164, title I, §142, title IV, §402, 96 Stat. 45, 57, eff. Oct. 1, 1982; Oct. 12, 1984, Pub. L. 98–473, title IV, §406, 98 Stat. 2067; Mar. 2, 1987, eff. Oct. 1, 1987; Apr. 25, 1988, eff. Nov. 1, 1988; Nov. 18, 1988, Pub. L. 100–690, title VII, §§7046, 7075, 102 Stat. 4400, 4405; Jan. 26, 1990, eff. Dec. 1, 1990; Apr. 30, 1991, eff. Dec. 1, 1991; Apr. 22, 1993, eff. Dec. 1, 1993; Apr. 29, 1994, eff. Dec. 1, 1994; Sept. 13, 1994, Pub. L. 103–322, title IV, §40141, title XXXII, §320935, 108 Stat. 1918, 2135; Apr. 11, 1997, eff. Dec. 1, 1997; Apr. 24, 1998, eff. Dec. 1, 1998; Apr. 17, 2000, eff. Dec. 1, 2000; Mar. 27, 2003, eff. Dec. 1, 2003; Apr. 12, 2006, eff. Dec. 1, 2006; Sept. 19, 2008, Pub. L. 110–322, §1(a), 122 Stat. 3537; Apr. 28, 2010, eff. Dec. 1, 2010; Apr. 26, 2011, eff. Dec. 1, 2011; Apr. 13, 2013, eff. Dec. 1, 2013; Apr. 25, 2014, eff. Dec. 1, 2014; Apr. 27, 2017, eff. Dec. 1, 2017; Apr. 25, 2019, eff. Dec. 1, 2019; Apr. 27, 2020, eff. Dec. 1, 2020.
+The Rules have been amended Oct. 16, 1975, Pub. L. 94–113, §1, 89 Stat. 576, eff. Oct. 31, 1975; Dec. 12, 1975, Pub. L. 94–149, §1, 89 Stat. 805; Oct. 28, 1978, Pub. L. 95–540, §2, 92 Stat. 2046; Nov. 6, 1978, Pub. L. 95–598, title II, §251, 92 Stat. 2673, eff. Oct. 1, 1979; Apr. 30, 1979, eff. Dec. 1, 1980; Apr. 2, 1982, Pub. L. 97–164, title I, §142, title IV, §402, 96 Stat. 45, 57, eff. Oct. 1, 1982; Oct. 12, 1984, Pub. L. 98–473, title IV, §406, 98 Stat. 2067; Mar. 2, 1987, eff. Oct. 1, 1987; Apr. 25, 1988, eff. Nov. 1, 1988; Nov. 18, 1988, Pub. L. 100–690, title VII, §§7046, 7075, 102 Stat. 4400, 4405; Jan. 26, 1990, eff. Dec. 1, 1990; Apr. 30, 1991, eff. Dec. 1, 1991; Apr. 22, 1993, eff. Dec. 1, 1993; Apr. 29, 1994, eff. Dec. 1, 1994; Sept. 13, 1994, Pub. L. 103–322, title IV, §40141, title XXXII, §320935, 108 Stat. 1918, 2135; Apr. 11, 1997, eff. Dec. 1, 1997; Apr. 24, 1998, eff. Dec. 1, 1998; Apr. 17, 2000, eff. Dec. 1, 2000; Mar. 27, 2003, eff. Dec. 1, 2003; Apr. 12, 2006, eff. Dec. 1, 2006; Sept. 19, 2008, Pub. L. 110–322, §1(a), 122 Stat. 3537; Apr. 28, 2010, eff. Dec. 1, 2010; Apr. 26, 2011, eff. Dec. 1, 2011; Apr. 13, 2013, eff. Dec. 1, 2013; Apr. 25, 2014, eff. Dec. 1, 2014; Apr. 27, 2017, eff. Dec. 1, 2017; Apr. 25, 2019, eff. Dec. 1, 2019; Apr. 27, 2020, eff. Dec. 1, 2020; Apr. 24, 2023, eff. Dec. 1, 2023.
 
 #### ARTICLE I. GENERAL PROVISIONS ####
 
@@ -16924,7 +17080,7 @@ Rule
 
 105. Limiting evidence that is not admissible against other parties or for other purposes.
 
-106. Remainder of or related writings on recorded statements.
+106. Remainder of or related statements.
 
 #### ARTICLE II. JUDICIAL NOTICE ####
 
@@ -17004,7 +17160,7 @@ Rule
 
 614. Court's calling or examining a witness.
 
-615. Excluding witnesses.
+615. Excluding witnesses from the courtroom; preventing an excluded witness's access to trial testimony.
 
 #### ARTICLE VII. OPINIONS AND EXPERT TESTIMONY ####
 
@@ -17340,11 +17496,11 @@ Rule 106 as submitted by the Supreme Court (now Rule 105 in the bill) dealt with
 
 The language of Rule 105 has been amended as part of the restyling of the Evidence Rules to make them more easily understood and to make style and terminology consistent throughout the rules. These changes are intended to be stylistic only. There is no intent to change any result in any ruling on evidence admissibility.
 
-### Rule 106. Remainder of or Related Writings or Recorded Statements ###
+### Rule 106. Remainder of or Related Statements ###
 
-If a party introduces all or part of a writing or recorded statement, an adverse party may require the introduction, at that time, of any other part—or any other writing or recorded statement—that in fairness ought to be considered at the same time.
+If a party introduces all or part of a statement, an adverse party may require the introduction, at that time, of any other part—or any other statement—that in fairness ought to be considered at the same time. The adverse party may do so over a hearsay objection.
 
-(Pub. L. 93–595, §1, Jan. 2, 1975, 88 Stat. 1930; Mar. 2, 1987, eff. Oct. 1, 1987; Apr. 26, 2011, eff. Dec. 1, 2011.)
+(Pub. L. 93–595, §1, Jan. 2, 1975, 88 Stat. 1930; Mar. 2, 1987, eff. Oct. 1, 1987; Apr. 26, 2011, eff. Dec. 1, 2011; Apr. 24, 2023, eff. Dec. 1, 2023.)
 
 #### Notes of Advisory Committee on Proposed Rules ####
 
@@ -17361,6 +17517,24 @@ The amendments are technical. No substantive change is intended.
 #### Committee Notes on Rules—2011 Amendment ####
 
 The language of Rule 106 has been amended as part of the restyling of the Evidence Rules to make them more easily understood and to make style and terminology consistent throughout the rules. These changes are intended to be stylistic only. There is no intent to change any result in any ruling on evidence admissibility.
+
+#### Committee Notes on Rules—2023 Amendment ####
+
+Rule 106 has been amended in two respects:
+
+(1) First, the amendment provides that if the existing fairness standard requires completion, then that completing statement is admissible over a hearsay objection. Courts have been in conflict over whether completing evidence properly required for completion under Rule 106 can be admitted over a hearsay objection. The Committee has determined that the rule of completeness, grounded in fairness, cannot fulfill its function if the party that creates a misimpression about the meaning of a proffered statement can then object on hearsay grounds and exclude a statement that would correct the misimpression. *See United States v. Sutton*, 801 F.2d 1346, 1368 (D.C. Cir. 1986) (noting that "[a] contrary construction raises the specter of distorted and misleading trials, and creates difficulties for both litigants and the trial court"). For example, assume the defendant in a murder case admits that he owned the murder weapon, but also simultaneously states that he sold it months before the murder. In this circumstance, admitting only the statement of ownership creates a misimpression because it suggests that the defendant implied that he owned the weapon at the time of the crime—when that is not what he said. In this example the prosecution, which has created the situation that makes completion necessary, should not be permitted to invoke the hearsay rule and thereby allow the misleading statement to remain unrebutted. A party that presents a distortion can fairly be said to have forfeited its right to object on hearsay grounds to a statement that would be necessary to correct the misimpression. For similar results[,] see Rules 502(a), 410(b)(1), and 804(b)(6).
+
+The courts that have permitted completion over hearsay objections have not usually specified whether the completing remainder may be used for its truth or only for its non-hearsay value in showing context. Under the amended rule, the use to which a completing statement can be put will depend on the circumstances. In some cases, completion will be sufficient for the proponent of the completing statement if it is admitted to provide context for the initially proffered statement. In such situations, the completing statement is properly admitted over a hearsay objection because it is offered for a non-hearsay purpose. An example would be a completing statement that corrects a misimpression about what a party heard before undertaking a disputed action, where the party's state of mind is relevant. The completing statement in this example is admitted only to show what the party actually heard, regardless of the underlying truth of the completing statement. But in some cases, a completing statement places an initially proffered statement in context only if the completing statement is true. An example is the defendant in a murder case who admits that he owned the murder weapon, but also simultaneously states that he sold it months before the murder. The statement about selling the weapon corrects a misimpression only if it is offered for its truth. In such cases, Rule 106 operates to allow the completing statement to be offered as proof of a fact.
+
+(2) Second, Rule 106 has been amended to cover all statements, including oral statements that have not been recorded. Most courts have already found unrecorded completing statements to be admissible under either Rule 611(a) or the common-law rule of completeness. This procedure, while reaching the correct result, is cumbersome and creates a trap for the unwary. Most questions of completion arise when a statement is offered in the heat of trial—where neither the parties nor the court should be expected to consider the nuances of Rule 611(a) or the common law in resolving completeness questions. The amendment, as a matter of convenience, covers these questions under one rule. The rule is expanded to now cover all statements, in any form—including statements made through conduct or sign language.
+
+The original committee note cites "practical reasons" for limiting the coverage of the rule to writings and recordings. To the extent that the concern was about disputes over the content or existence of an unrecorded statement, that concern does not justify excluding all unrecorded statements completely from the coverage of the rule. *See United States v. Bailey*, 2017 WL 5126163, at \*7 (D. Md. Nov. 16, 2017 [Nov. 6, 2017]) ("A blanket rule of prohibition is unwarranted, and invites abuse. Moreover, if the content of some oral statements are disputed and difficult to prove, others are not—because they have been summarized . . . , or because they were witnessed by enough people to assure that what was actually said can be established with sufficient certainty."). A party seeking completion with an unrecorded statement would of course need to provide admissible evidence that the statement was made. Otherwise, there would be no showing that the original statement is misleading, and the request for completion should be denied. In some cases, the court may find that the difficulty in proving the completing statement substantially outweighs its probative value—in which case exclusion is possible under Rule 403.
+
+The rule retains the language that completion is made at the time the original portion is introduced. That said, many courts have held that the trial court has discretion to allow completion at a later point. *See, e.g.*, *Phoenix Assocs. III v. Stone*, 60 F.3d 95, 103 (2d Cir. 1995) ("While the wording of Rule 106 appears to require the adverse party to proffer the associated document or portion contemporaneously with the introduction of the primary document, we have not applied this requirement rigidly."). Nothing in the amendment is intended to limit the court's discretion to allow completion at a later point.
+
+The intent of the amendment is to displace the common-law rule of completeness. In *Beech Aircraft Corp. v. Rainey*, 488 U.S. 153, 171–72 (1988), the Court in dictum referred to Rule 106 as a partial codification of the common-law rule of completeness. There is no other rule of evidence that is interpreted as coexisting with common-law rules of evidence, and the practical problem of a rule of evidence operating with a common-law supplement is apparent—especially when the rule is one, like the rule of completeness, that arises most often during the trial.
+
+The amendment does not give a green light of admissibility to all excised portions of statements. It does not change the basic rule, which applies only to the narrow circumstances in which a party has created a misimpression about the statement, and the adverse party proffers a statement that in fact corrects the misimpression. The mere fact that a statement is probative and contradicts a statement offered by the opponent is not enough to justify completion under Rule 106. So, for example, the mere fact that a defendant denies guilt before later admitting it does not, without more, mandate the admission of his previous denial. *See United States v. Williams*, 930 F.3d 44 (2d Cir. 2019).
 
 ### ARTICLE II. JUDICIAL NOTICE ###
 
@@ -19140,19 +19314,25 @@ The language of Rule 613 has been amended as part of the restyling of the Eviden
 
 The language of Rule 614 has been amended as part of the restyling of the Evidence Rules to make them more easily understood and to make style and terminology consistent throughout the rules. These changes are intended to be stylistic only. There is no intent to change any result in any ruling on evidence admissibility.
 
-### Rule 615. Excluding Witnesses ###
+### Rule 615. Excluding Witnesses from the Courtroom; Preventing an Excluded Witness's Access to Trial Testimony ###
 
-At a party's request, the court must order witnesses excluded so that they cannot hear other witnesses' testimony. Or the court may do so on its own. But this rule does not authorize excluding:
+(a) Excluding Witnesses. At a party's request, the court must order witnesses excluded from the courtroom so that they cannot hear other witnesses' testimony. Or the court may do so on its own. But this rule does not authorize excluding:
 
-(a) a party who is a natural person;
+(1) a party who is a natural person;
 
-(b) an officer or employee of a party that is not a natural person, after being designated as the party's representative by its attorney;
+(2) one officer or employee of a party that is not a natural person if that officer or employee has been designated as the party's representative by its attorney;
 
-(c) a person whose presence a party shows to be essential to presenting the party's claim or defense; or
+(3) any person whose presence a party shows to be essential to presenting the party's claim or defense; or
 
-(d) a person authorized by statute to be present.
+(4) a person authorized by statute to be present.
 
-(Pub. L. 93–595, §1, Jan. 2, 1975, 88 Stat. 1937; Mar. 2, 1987, eff. Oct. 1, 1987; Apr. 25, 1988, eff. Nov. 1, 1988; Pub. L. 100–690, title VII, §7075(a), Nov. 18, 1988, 102 Stat. 4405; Apr. 24, 1998, eff. Dec. 1, 1998; Apr. 26, 2011, eff. Dec. 1, 2011.)
+(b) Additional Orders to Prevent Disclosing and Accessing Testimony. An order under (a) operates only to exclude witnesses from the courtroom. But the court may also, by order:
+
+(1) prohibit disclosure of trial testimony to witnesses who are excluded from the courtroom; and
+
+(2) prohibit excluded witnesses from accessing trial testimony.
+
+(Pub. L. 93–595, §1, Jan. 2, 1975, 88 Stat. 1937; Mar. 2, 1987, eff. Oct. 1, 1987; Apr. 25, 1988, eff. Nov. 1, 1988; Pub. L. 100–690, title VII, §7075(a), Nov. 18, 1988, 102 Stat. 4405; Apr. 24, 1998, eff. Dec. 1, 1998; Apr. 26, 2011, eff. Dec. 1, 2011; Apr. 24, 2023, eff. Dec. 1, 2023.)
 
 #### Notes of Advisory Committee on Proposed Rules ####
 
@@ -19181,6 +19361,20 @@ The amendment is in response to: (1) the Victim's Rights and Restitution Act of 
 #### Committee Notes on Rules—2011 Amendment ####
 
 The language of Rule 615 has been amended as part of the restyling of the Evidence Rules to make them more easily understood and to make style and terminology consistent throughout the rules. These changes are intended to be stylistic only. There is no intent to change any result in any ruling on evidence admissibility.
+
+#### Committee Notes on Rules—2023 Amendment ####
+
+Rule 615 has been amended for two purposes:
+
+(1) Most importantly, the amendment clarifies that the court, in entering an order under this rule, may also prohibit excluded witnesses from learning about, obtaining, or being provided with trial testimony. Many courts have found that a "Rule 615 order" extends beyond the courtroom, to prohibit excluded witnesses from obtaining access to or being provided with trial testimony. But the terms of the rule did not so provide; and other courts have held that a Rule 615 order was limited to exclusion of witnesses from the trial. On the one hand, the courts extending Rule 615 beyond courtroom exclusion properly recognized that the core purpose of the rule is to prevent witnesses from tailoring their testimony to the evidence presented at trial—and that purpose can only be effectuated by regulating out-of-court exposure to trial testimony. *See United States v. Robertson*, 895 F.3d 1206, 1215 (9th Cir. 2018) ("The danger that earlier testimony could improperly shape later testimony is equally present whether the witness hears that testimony in court or reads it from a transcript."). On the other hand, a rule extending an often vague "Rule 615 order" outside the courtroom raised questions of fair notice, given that the text of the rule itself was limited to exclusion of witnesses from the courtroom.
+
+An order under subdivision (a) operates only to exclude witnesses from the courtroom. This includes exclusion of witnesses from a virtual trial. Subdivision (b) emphasizes that the court may by order extend the sequestration beyond the courtroom, to prohibit those subject to the order from disclosing trial testimony to excluded witnesses, as well as to directly prohibit excluded witnesses from trying to access trial testimony. Such an extension is often necessary to further the rule's policy of preventing tailoring of testimony.
+
+The rule gives the court discretion to determine what requirements, if any, are appropriate in a particular case to protect against the risk that witnesses excluded from the courtroom will obtain trial testimony.
+
+Nothing in the language of the rule bars a court from prohibiting counsel from disclosing trial testimony to a sequestered witness. To the extent that an order governing counsel's disclosure of trial testimony to prepare a witness raises questions of professional responsibility and effective assistance of counsel, as well as the right to confrontation in criminal cases, the court should address those questions on a case-by-case basis.
+
+(2) Second, the rule has been amended to clarify that the exception from exclusion for entity representatives is limited to one designated representative per entity. This limitation, which has been followed by most courts, generally provides parity for individual and entity parties. The rule does not prohibit the court from exercising discretion to allow an entity-party to swap one representative for another as the trial progresses, so long as only one witness-representative is exempt at any one time. If an entity seeks to have more than one witness-representative protected from exclusion, it needs to show under subdivision (a)(3) that the witness is essential to presenting the party's claim or defense. Nothing in this amendment prohibits a court from exempting from exclusion multiple witnesses if they are found essential under (a)(3).
 
 #### Amendment by Public Law ####
 
@@ -19240,7 +19434,7 @@ The Committee deleted all reference to an "inference" on the grounds that the de
 
 ### Rule 702. Testimony by Expert Witnesses ###
 
-A witness who is qualified as an expert by knowledge, skill, experience, training, or education may testify in the form of an opinion or otherwise if:
+A witness who is qualified as an expert by knowledge, skill, experience, training, or education may testify in the form of an opinion or otherwise if the proponent demonstrates to the court that it is more likely than not that:
 
 (a) the expert's scientific, technical, or other specialized knowledge will help the trier of fact to understand the evidence or to determine a fact in issue;
 
@@ -19248,9 +19442,9 @@ A witness who is qualified as an expert by knowledge, skill, experience, trainin
 
 (c) the testimony is the product of reliable principles and methods; and
 
-(d) the expert has reliably applied the principles and methods to the facts of the case.
+(d) the expert's opinion reflects a reliable application of the principles and methods to the facts of the case.
 
-(Pub. L. 93–595, §1, Jan. 2, 1975, 88 Stat. 1937; Apr. 17, 2000, eff. Dec. 1, 2000; Apr. 26, 2011, eff. Dec. 1, 2011.)
+(Pub. L. 93–595, §1, Jan. 2, 1975, 88 Stat. 1937; Apr. 17, 2000, eff. Dec. 1, 2000; Apr. 26, 2011, eff. Dec. 1, 2011; Apr. 24, 2023, eff. Dec. 1, 2023.)
 
 #### Notes of Advisory Committee on Proposed Rules ####
 
@@ -19323,6 +19517,28 @@ The amendment continues the practice of the original Rule in referring to a qual
 #### Committee Notes on Rules—2011 Amendment ####
 
 The language of Rule 702 has been amended as part of the restyling of the Evidence Rules to make them more easily understood and to make style and terminology consistent throughout the rules. These changes are intended to be stylistic only. There is no intent to change any result in any ruling on evidence admissibility.
+
+#### Committee Notes on Rules—2023 Amendment ####
+
+Rule 702 has been amended in two respects:
+
+(1) First, the rule has been amended to clarify and emphasize that expert testimony may not be admitted unless the proponent demonstrates to the court that it is more likely than not that the proffered testimony meets the admissibility requirements set forth in the rule. *See* Rule 104(a). This is the preponderance of the evidence standard that applies to most of the admissibility requirements set forth in the evidence rules. *See Bourjaily v. United States*, 483 U.S. 171, 175 (1987) ("The preponderance standard ensures that before admitting evidence, the court will have found it more likely than not that the technical issues and policy concerns addressed by the Federal Rules of Evidence have been afforded due consideration."); *Huddleston v. United States*, 485 U.S. 681, 687 n.5 (1988) ("preliminary factual findings under Rule 104(a) are subject to the preponderance-of-the-evidence standard"). But many courts have held that the critical questions of the sufficiency of an expert's basis, and the application of the expert's methodology, are questions of weight and not admissibility. These rulings are an incorrect application of Rules 702 and 104(a).
+
+There is no intent to raise any negative inference regarding the applicability of the Rule 104(a) standard of proof for other rules. The Committee concluded that emphasizing the preponderance standard in Rule 702 specifically was made necessary by the courts that have failed to apply correctly the reliability requirements of that rule. Nor does the amendment require that the court make a finding of reliability in the absence of objection.
+
+The amendment clarifies that the preponderance standard applies to the three reliability-based requirements added in 2000—requirements that many courts have incorrectly determined to be governed by the more permissive Rule 104(b) standard. But it remains the case that other admissibility requirements in the rule (such as that the expert must be qualified and the expert's testimony must help the trier of fact) are governed by the Rule 104(a) standard as well.
+
+Some challenges to expert testimony will raise matters of weight rather than admissibility even under the Rule 104(a) standard. For example, if the court finds it more likely than not that an expert has a sufficient basis to support an opinion, the fact that the expert has not read every single study that exists will raise a question of weight and not admissibility. But this does not mean, as certain courts have held, that arguments about the sufficiency of an expert's basis always go to weight and not admissibility. Rather it means that once the court has found it more likely than not that the admissibility requirement has been met, any attack by the opponent will go only to the weight of the evidence.
+
+It will often occur that experts come to different conclusions based on contested sets of facts. Where that is so, the Rule 104(a) standard does not necessarily require exclusion of either side's experts. Rather, by deciding the disputed facts, the jury can decide which side's experts to credit. "[P]roponents 'do not have to demonstrate to the judge by a preponderance of the evidence that the assessments of their experts are correct, they only have to demonstrate by a preponderance of evidence that their opinions are reliable. . . . The evidentiary requirement of reliability is lower than the merits standard of correctness.' " Advisory Committee Note to the 2000 amendment to Rule 702, quoting *In re Paoli R.R. Yard PCB Litigation*, 35 F.3d 717, 744 (3d Cir. 1994).
+
+Rule 702 requires that the expert's knowledge "help" the trier of fact to understand the evidence or to determine a fact in issue. Unfortunately, some courts have required the expert's testimony to "appreciably help" the trier of fact. Applying a higher standard than helpfulness to otherwise reliable expert testimony is unnecessarily strict.
+
+(2) Rule 702(d) has also been amended to emphasize that each expert opinion must stay within the bounds of what can be concluded from a reliable application of the expert's basis and methodology. Judicial gatekeeping is essential because just as jurors may be unable, due to lack of specialized knowledge, to evaluate meaningfully the reliability of scientific and other methods underlying expert opinion, jurors may also lack the specialized knowledge to determine whether the conclusions of an expert go beyond what the expert's basis and methodology may reliably support.
+
+The amendment is especially pertinent to the testimony of forensic experts in both criminal and civil cases. Forensic experts should avoid assertions of absolute or one hundred percent certainty—or to a reasonable degree of scientific certainty—if the methodology is subjective and thus potentially subject to error. In deciding whether to admit forensic expert testimony, the judge should (where possible) receive an estimate of the known or potential rate of error of the methodology employed, based (where appropriate) on studies that reflect how often the method produces accurate results. Expert opinion testimony regarding the weight of feature comparison evidence (i.e., evidence that a set of features corresponds between two examined items) must be limited to those inferences that can reasonably be drawn from a reliable application of the principles and methods. This amendment does not, however, bar testimony that comports with substantive law requiring opinions to a particular degree of certainty.
+
+Nothing in the amendment imposes any new, specific procedures. Rather, the amendment is simply intended to clarify that Rule 104(a)'s requirement applies to expert opinions under Rule 702. Similarly, nothing in the amendment requires the court to nitpick an expert's opinion in order to reach a perfect expression of what the basis and methodology can support. The Rule 104(a) standard does not require perfection. On the other hand, it does not permit the expert to make claims that are unsupported by the expert's basis and methodology.
 
 ### Rule 703. Bases of an Expert's Opinion Testimony ###
 

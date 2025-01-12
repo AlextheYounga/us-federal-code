@@ -495,13 +495,13 @@ That this Act may be cited as the "Classified Information Procedures Act".
 FEDERAL RULES OF CRIMINAL PROCEDURE
 ==========
 
-(As amended to January 5, 2023)
+(As amended to December 1, 2023)
 
 #### Historical Note ####
 
 The original Federal Rules of Criminal Procedure were adopted by order of the Supreme Court on Dec. 26, 1944, transmitted to Congress by the Attorney General on Jan. 3, 1945, and became effective on Mar. 21, 1946.
 
-The Rules have been amended Dec. 27, 1948, eff. Jan. 1, 1949; Dec. 27, 1948, eff. Oct. 20, 1949; Apr. 12, 1954, eff. July 1, 1954; Apr. 9, 1956, eff. July 8, 1956; Feb. 28, 1966, eff. July 1, 1966; Dec. 4, 1967, eff. July 1, 1968; Mar. 1, 1971, eff. July 1, 1971; Apr. 24, 1972, eff. Oct. 1, 1972; Nov. 20, 1972, eff. July 1, 1975, pursuant to Pub. L. 93–595; Mar. 18, 1974, eff. July 1, 1974; Apr. 22, 1974, eff. in part Aug. 1, 1975, and Dec. 1, 1975, pursuant to Pub. L. 93–361 and Pub. L. 94–64; Dec. 12, 1975, Pub. L. 94–149, §5, 89 Stat. 806; Apr. 26, 1976, eff. in part Aug. 1, 1976, and Oct. 1, 1977, pursuant to Pub. L. 94–349 and Pub. L. 95–78; Apr. 30, 1979, eff. in part Aug. 1, 1979, and Dec. 1, 1980, pursuant to Pub. L. 96–42; Apr. 28, 1982, eff. Aug. 1, 1982; Oct. 12, 1982, Pub. L. 97–291, §3, 96 Stat. 1249; Apr. 28, 1983, eff. Aug. 1, 1983; Oct. 12, 1984, Pub. L. 98–473, title II, §§209, 215, 404, 98 Stat. 1986, 2014, 2067; Oct. 30, 1984, Pub. L. 98–596, §11(a), (b), 98 Stat. 3138; Apr. 29, 1985, eff. Aug. 1, 1985; Oct. 27, 1986, Pub. L. 99–570, title I, §1009(a), 100 Stat. 3207–8; Nov. 10, 1986, Pub. L. 99–646, §§12(b), 24, 25(a), 54(a), 100 Stat. 3594, 3597, 3607; Mar. 9, 1987, eff. Aug. 1, 1987; Apr. 25, 1988, eff. Aug. 1, 1988; Nov. 18, 1988, Pub. L. 100–690, title VI, §6483, title VII, §§7076, 7089(c), 102 Stat. 4382, 4406, 4409; Apr. 25, 1989, eff. Dec. 1, 1989; May 1, 1990, eff. Dec. 1, 1990; Apr. 30, 1991, eff. Dec. 1, 1991; Apr. 22, 1993, eff. Dec. 1, 1993; Apr. 29, 1994, eff. Dec. 1, 1994; Sept. 13, 1994, Pub. L. 103–322, title XXIII, §230101(b), title XXXIII, §330003(h), 108 Stat. 2078, 2141; Apr. 27, 1995, eff. Dec. 1, 1995; Apr. 23, 1996, eff. Dec. 1, 1996; Apr. 24, 1996, Pub. L. 104–132, title II, §207(a), 110 Stat. 1236; Apr. 11, 1997, eff. Dec. 1, 1997; Apr. 24, 1998, eff. Dec. 1, 1998; Apr. 26, 1999, eff. Dec. 1, 1999; Apr. 17, 2000, eff. Dec. 1, 2000; Oct. 26, 2001, Pub. L. 107–56, title II, §§203(a), 219, 115 Stat. 278, 291; Apr. 29, 2002, eff. Dec. 1, 2002; Nov. 2, 2002, Pub. L. 107–273, div. C, title I, §11019(b), 116 Stat. 1825; Nov. 25, 2002, Pub. L. 107–296, title VIII, §895, 116 Stat. 2256; Apr. 30, 2003, Pub. L. 108–21, title VI, §610(b), 117 Stat. 692; Apr. 26, 2004, eff. Dec. 1, 2004; Pub. L. 108–458, title VI, §6501(a), Dec. 17, 2004, 118 Stat. 3760; Apr. 25, 2005, eff. Dec. 1, 2005; Apr. 12, 2006, eff. Dec. 1, 2006; Apr. 30, 2007, eff. Dec. 1, 2007; Apr. 23, 2008, eff. Dec. 1, 2008; Mar. 26, 2009, eff. Dec. 1, 2009; Apr. 28, 2010, eff. Dec. 1, 2010; Apr. 26, 2011, eff. Dec. 1, 2011; Apr. 23, 2012, eff. Dec. 1, 2012; Apr. 16, 2013, eff. Dec. 1, 2013; Apr. 25, 2014; eff. Dec. 1, 2014; Apr. 28, 2016, eff. Dec. 1, 2016; Pub. L. 114–324, §2(c), Dec. 16, 2016, 130 Stat. 1948; Apr. 26, 2018, eff. Dec. 1, 2018; Apr. 25, 2019, eff. Dec. 1, 2019; Pub. L. 116–182, §2, Oct. 21, 2020, 134 Stat. 894; Apr. 11, 2022, eff. Dec. 1, 2022; Pub. L. 117–347, title III, §323(a)(1)(A), Jan. 5, 2023, 136 Stat. 6206.
+The Rules have been amended Dec. 27, 1948, eff. Jan. 1, 1949; Dec. 27, 1948, eff. Oct. 20, 1949; Apr. 12, 1954, eff. July 1, 1954; Apr. 9, 1956, eff. July 8, 1956; Feb. 28, 1966, eff. July 1, 1966; Dec. 4, 1967, eff. July 1, 1968; Mar. 1, 1971, eff. July 1, 1971; Apr. 24, 1972, eff. Oct. 1, 1972; Nov. 20, 1972, eff. July 1, 1975, pursuant to Pub. L. 93–595; Mar. 18, 1974, eff. July 1, 1974; Apr. 22, 1974, eff. in part Aug. 1, 1975, and Dec. 1, 1975, pursuant to Pub. L. 93–361 and Pub. L. 94–64; Dec. 12, 1975, Pub. L. 94–149, §5, 89 Stat. 806; Apr. 26, 1976, eff. in part Aug. 1, 1976, and Oct. 1, 1977, pursuant to Pub. L. 94–349 and Pub. L. 95–78; Apr. 30, 1979, eff. in part Aug. 1, 1979, and Dec. 1, 1980, pursuant to Pub. L. 96–42; Apr. 28, 1982, eff. Aug. 1, 1982; Oct. 12, 1982, Pub. L. 97–291, §3, 96 Stat. 1249; Apr. 28, 1983, eff. Aug. 1, 1983; Oct. 12, 1984, Pub. L. 98–473, title II, §§209, 215, 404, 98 Stat. 1986, 2014, 2067; Oct. 30, 1984, Pub. L. 98–596, §11(a), (b), 98 Stat. 3138; Apr. 29, 1985, eff. Aug. 1, 1985; Oct. 27, 1986, Pub. L. 99–570, title I, §1009(a), 100 Stat. 3207–8; Nov. 10, 1986, Pub. L. 99–646, §§12(b), 24, 25(a), 54(a), 100 Stat. 3594, 3597, 3607; Mar. 9, 1987, eff. Aug. 1, 1987; Apr. 25, 1988, eff. Aug. 1, 1988; Nov. 18, 1988, Pub. L. 100–690, title VI, §6483, title VII, §§7076, 7089(c), 102 Stat. 4382, 4406, 4409; Apr. 25, 1989, eff. Dec. 1, 1989; May 1, 1990, eff. Dec. 1, 1990; Apr. 30, 1991, eff. Dec. 1, 1991; Apr. 22, 1993, eff. Dec. 1, 1993; Apr. 29, 1994, eff. Dec. 1, 1994; Sept. 13, 1994, Pub. L. 103–322, title XXIII, §230101(b), title XXXIII, §330003(h), 108 Stat. 2078, 2141; Apr. 27, 1995, eff. Dec. 1, 1995; Apr. 23, 1996, eff. Dec. 1, 1996; Apr. 24, 1996, Pub. L. 104–132, title II, §207(a), 110 Stat. 1236; Apr. 11, 1997, eff. Dec. 1, 1997; Apr. 24, 1998, eff. Dec. 1, 1998; Apr. 26, 1999, eff. Dec. 1, 1999; Apr. 17, 2000, eff. Dec. 1, 2000; Oct. 26, 2001, Pub. L. 107–56, title II, §§203(a), 219, 115 Stat. 278, 291; Apr. 29, 2002, eff. Dec. 1, 2002; Nov. 2, 2002, Pub. L. 107–273, div. C, title I, §11019(b), 116 Stat. 1825; Nov. 25, 2002, Pub. L. 107–296, title VIII, §895, 116 Stat. 2256; Apr. 30, 2003, Pub. L. 108–21, title VI, §610(b), 117 Stat. 692; Apr. 26, 2004, eff. Dec. 1, 2004; Pub. L. 108–458, title VI, §6501(a), Dec. 17, 2004, 118 Stat. 3760; Apr. 25, 2005, eff. Dec. 1, 2005; Apr. 12, 2006, eff. Dec. 1, 2006; Apr. 30, 2007, eff. Dec. 1, 2007; Apr. 23, 2008, eff. Dec. 1, 2008; Mar. 26, 2009, eff. Dec. 1, 2009; Apr. 28, 2010, eff. Dec. 1, 2010; Apr. 26, 2011, eff. Dec. 1, 2011; Apr. 23, 2012, eff. Dec. 1, 2012; Apr. 16, 2013, eff. Dec. 1, 2013; Apr. 25, 2014; eff. Dec. 1, 2014; Apr. 28, 2016, eff. Dec. 1, 2016; Pub. L. 114–324, §2(c), Dec. 16, 2016, 130 Stat. 1948; Apr. 26, 2018, eff. Dec. 1, 2018; Apr. 25, 2019, eff. Dec. 1, 2019; Pub. L. 116–182, §2, Oct. 21, 2020, 134 Stat. 894; Apr. 11, 2022, eff. Dec. 1, 2022; Pub. L. 117–347, title III, §323(a)(1)(A), Jan. 5, 2023, 136 Stat. 6206; Apr. 24, 2023, eff. Dec. 1, 2023.
 
 #### TITLE I. APPLICABILITY ####
 
@@ -674,6 +674,8 @@ Rule
 60. Victim's Rights.
 
 61. Title.
+
+62. Criminal Rules Emergency.
 
 ### TITLE I. APPLICABILITY ###
 
@@ -3913,7 +3915,7 @@ Amendments of this rule embraced in the order of the United States Supreme Court
 
 • states in the disclosure why the defendant could not obtain the witness's signature through reasonable efforts; or
 
-• has previously provided under (F) a report, signed by the witness, that contains all the opinions and the bases and reasons for them required by (iii).
+• has previously provided under (B) a report, signed by the witness, that contains all the opinions and the bases and reasons for them required by (iii).
 
 (vi) Supplementing and Correcting a Disclosure. The defendant must supplement or correct the defendant's disclosures in accordance with (c).
 
@@ -3949,7 +3951,7 @@ Amendments of this rule embraced in the order of the United States Supreme Court
 
 (D) enter any other order that is just under the circumstances.
 
-(As amended Feb. 28, 1966, eff. July 1, 1966; Apr. 22, 1974, eff. Dec. 1, 1975; Pub. L. 94–64, §3(20)–(28), July 31, 1975, 89 Stat. 374, 375; Pub. L. 94–149, §5, Dec. 12, 1975, 89 Stat. 806; Apr. 28, 1983, eff. Aug. 1, 1983; Mar. 9, 1987, eff. Aug. 1, 1987; Apr. 30, 1991, eff. Dec. 1, 1991; Apr. 22, 1993, eff. Dec. 1, 1993; Apr. 29, 1994, eff. Dec. 1, 1994; Apr. 11, 1997, eff. Dec. 1, 1997; Apr. 29, 2002, eff. Dec. 1, 2002; Pub. L. 107–273, div. C, title I, §11019(b), Nov. 2, 2002, 117 Stat. 1825; Apr. 16, 2013, eff. Dec. 1, 2013; Apr. 11, 2022, eff. Dec. 1, 2022.)
+(As amended Feb. 28, 1966, eff. July 1, 1966; Apr. 22, 1974, eff. Dec. 1, 1975; Pub. L. 94–64, §3(20)–(28), July 31, 1975, 89 Stat. 374, 375; Pub. L. 94–149, §5, Dec. 12, 1975, 89 Stat. 806; Apr. 28, 1983, eff. Aug. 1, 1983; Mar. 9, 1987, eff. Aug. 1, 1987; Apr. 30, 1991, eff. Dec. 1, 1991; Apr. 22, 1993, eff. Dec. 1, 1993; Apr. 29, 1994, eff. Dec. 1, 1994; Apr. 11, 1997, eff. Dec. 1, 1997; Apr. 29, 2002, eff. Dec. 1, 2002; Pub. L. 107–273, div. C, title I, §11019(b), Nov. 2, 2002, 117 Stat. 1825; Apr. 16, 2013, eff. Dec. 1, 2013; Apr. 11, 2022, eff. Dec. 1, 2022; Apr. 24, 2023, eff. Dec. 1, 2023.)
 
 #### Notes of Advisory Committee on Rules—1944 ####
 
@@ -4264,6 +4266,10 @@ Items (a)(1)(G)(iv) and (b)(1)(C)(iv) also recognize that, in some situations, i
 Items (a)(1)(G)(v) and (b)(1)(C)(v) of the amended rule require that the expert witness approve and sign the disclosure. However, the amended provisions also recognize two exceptions to this requirement. First, the rule recognizes the possibility that a party may not be able to obtain a witness's approval and signature despite reasonable efforts to do so. This may occur, for example, when the party has not retained or specially employed the witness to present testimony, such as when a party calls a treating physician to testify. In that situation, the party is responsible for providing the required information, but may be unable to procure a witness's approval and signature following a request. An unsigned disclosure is acceptable so long as the party states why it was unable to procure the expert's signature following reasonable efforts. Second, the expert need not sign the disclosure if a complete statement of all of the opinions as well as the bases and reasons for those opinions, were already set forth in a report, signed by the witness, previously provided under subparagraph (a)(1)(F)—for government disclosures—or (b)(1)(B)—for defendant's disclosures. In that situation, the prior signed report and accompanying documents, combined with the attorney's representation of the expert's qualifications, publications, and prior testimony, provide the information and signature needed to prepare to meet the testimony.
 
 Items (a)(1)(G)(vi) and (b)(1)(C)(vi) require the parties to supplement or correct each disclosure to the other party in accordance with Rule 16(c). This provision is intended to ensure that, if there is any modification of a party's expert testimony or change in the identity of an expert after the initial disclosure, the other party will receive prompt notice of that modification or correction.
+
+#### Committee Notes on Rules—2023 Amendment ####
+
+The amendment corrects the cross reference in Rule 16(b)(1)(C)(v), which refers to expert reports previously provided by the defense under Rule 16(b)(1)(B).
 
 #### References in Text ####
 
@@ -8133,7 +8139,7 @@ Amendment of this rule by addition of subd. (c) by order of the United States Su
 
 (6) *"Legal Holiday" Defined.* "Legal holiday" means:
 
-(A) the day set aside by statute for observing New Year's Day, Martin Luther King Jr.'s Birthday, Washington's Birthday, Memorial Day, Independence Day, Labor Day, Columbus Day, Veterans' Day, Thanksgiving Day, or Christmas Day;
+(A) the day set aside by statute for observing New Year's Day, Martin Luther King Jr.'s Birthday, Washington's Birthday, Memorial Day, Juneteenth National Independence Day, Independence Day, Labor Day, Columbus Day, Veterans' Day, Thanksgiving Day, or Christmas Day;
 
 (B) any day declared a holiday by the President or Congress; and
 
@@ -8151,7 +8157,7 @@ Amendment of this rule by addition of subd. (c) by order of the United States Su
 
 (c) Additional Time After Certain Kinds of Service. Whenever a party must or may act within a specified time after being served and service is made under Rule 49(a)(4)(C), (D), and (E), 3 days are added after the period would otherwise expire under subdivision (a).
 
-(As amended Feb. 28, 1966, eff. July 1, 1966; Dec. 4, 1967, eff. July 1, 1968; Mar. 1, 1971, eff. July 1, 1971; Apr. 28, 1982, eff. Aug. 1, 1982; Apr. 29, 1985, eff. Aug. 1, 1985; Mar. 9, 1987, eff. Aug. 1, 1987; Apr. 29, 2002, eff. Dec. 1, 2002; Apr. 25, 2005, eff. Dec. 1, 2005; Apr. 30, 2007, eff. Dec. 1, 2007; Apr. 23, 2008, eff. Dec. 1, 2008; Mar. 26, 2009, eff. Dec. 1, 2009; Apr. 28, 2016, eff. Dec. 1, 2016; Apr. 26, 2018, eff. Dec. 1, 2018.)
+(As amended Feb. 28, 1966, eff. July 1, 1966; Dec. 4, 1967, eff. July 1, 1968; Mar. 1, 1971, eff. July 1, 1971; Apr. 28, 1982, eff. Aug. 1, 1982; Apr. 29, 1985, eff. Aug. 1, 1985; Mar. 9, 1987, eff. Aug. 1, 1987; Apr. 29, 2002, eff. Dec. 1, 2002; Apr. 25, 2005, eff. Dec. 1, 2005; Apr. 30, 2007, eff. Dec. 1, 2007; Apr. 23, 2008, eff. Dec. 1, 2008; Mar. 26, 2009, eff. Dec. 1, 2009; Apr. 28, 2016, eff. Dec. 1, 2016; Apr. 26, 2018, eff. Dec. 1, 2018; Apr. 24, 2023, eff. Dec. 1, 2023.)
 
 #### Notes of Advisory Committee on Rules—1944 ####
 
@@ -8290,6 +8296,10 @@ Electronic service after business hours, or just before or during a weekend or h
 #### Committee Notes on Rules—2018 Amendment ####
 
 Rule 49 previously required service and filing in a "manner provided" in the Civil Rules, and the time counting provisions in Criminal Rule 45(c) referred to certain means of service under Civil Rule 5. A contemporaneous amendment moves the instructions for filing and service in criminal cases from Civil Rule 5 into Criminal Rule 49. This amendment revises the cross references in Rule 45(c) to reflect this change.
+
+#### Committee Notes on Rules—2023 Amendment ####
+
+The amendment adds "Juneteenth National Independence Day" to the list of legal holidays. See Juneteenth National Independence Day Act, P.L. 117–17 (2021) (amending 5 U.S.C. §6103(a)).
 
 ### Rule 46. Release from Custody; Supervising Detention ###
 
@@ -8947,9 +8957,9 @@ The language of Rule 55 has been amended as part of the general restyling of the
 
 (b) Office Hours. The clerk's office—with the clerk or a deputy in attendance—must be open during business hours on all days except Saturdays, Sundays, and legal holidays.
 
-(c) Special Hours. A court may provide by local rule or order that its clerk's office will be open for specified hours on Saturdays or legal holidays other than those set aside by statute for observing New Year's Day, Martin Luther King, Jr.'s Birthday, Washington's Birthday, Memorial Day, Independence Day, Labor Day, Columbus Day, Veterans' Day, Thanksgiving Day, and Christmas Day.
+(c) Special Hours. A court may provide by local rule or order that its clerk's office will be open for specified hours on Saturdays or legal holidays other than those set aside by statute for observing New Year's Day, Martin Luther King Jr.'s Birthday, Washington's Birthday, Memorial Day, Juneteenth National Independence Day, Independence Day, Labor Day, Columbus Day, Veterans' Day, Thanksgiving Day, and Christmas Day.
 
-(As amended Dec. 27, 1948, eff. Oct. 20, 1949; Feb. 28, 1966, eff. July 1, 1966; Dec. 4, 1967, eff. July 1, 1968; Mar. 1, 1971, eff. July 1, 1971; Apr. 25, 1988, eff. Aug. 1, 1988; Apr. 29, 2002, eff. Dec. 1, 2002.)
+(As amended Dec. 27, 1948, eff. Oct. 20, 1949; Feb. 28, 1966, eff. July 1, 1966; Dec. 4, 1967, eff. July 1, 1968; Mar. 1, 1971, eff. July 1, 1971; Apr. 25, 1988, eff. Aug. 1, 1988; Apr. 29, 2002, eff. Dec. 1, 2002; Apr. 24, 2023, eff. Dec. 1, 2023.)
 
 #### Notes of Advisory Committee on Rules—1944 ####
 
@@ -8984,6 +8994,10 @@ The amendment is technical. No substantive change is intended.
 #### Committee Notes on Rules—2002 Amendment ####
 
 The language of Rule 56 has been amended as part of the general restyling of the Criminal Rules to make them more easily understood and to make style and terminology consistent throughout the rules. These changes are intended to be stylistic only.
+
+#### Committee Notes on Rules—2023 Amendment ####
+
+The amendment adds "Juneteenth National Independence Day" to the list of legal holidays. See Juneteenth National Independence Day Act, P.L. 117–17 (2021) (amending 5 U.S.C. §6103(a)). A stylistic change was made.
 
 ### Rule 57. District Court Rules ###
 
@@ -9328,3 +9342,157 @@ No changes have been made to Rule 60, as a result of the general restyling of th
 *Excerpt from Report of the Advisory Committee on Federal Rules of Criminal Procedure*. This amendment renumbers current Rule 60 as Rule 61 to accommodate the new victims' rights rule.
 
 *Changes Made to Proposed Amendment Released for Public Comment*. No changes were made.
+
+### Rule 62. Criminal Rules Emergency ###
+
+(a) Conditions for an Emergency. The Judicial Conference of the United States may declare a Criminal Rules emergency if it determines that:
+
+(1) extraordinary circumstances relating to public health or safety, or affecting physical or electronic access to a court, substantially impair the court's ability to perform its functions in compliance with these rules; and
+
+(2) no feasible alternative measures would sufficiently address the impairment within a reasonable time.
+
+(b) Declaring an Emergency.
+
+(1) *Content.* The declaration must:
+
+(A) designate the court or courts affected;
+
+(B) state any restrictions on the authority granted in (d) and (e); and
+
+(C) be limited to a stated period of no more than 90 days.
+
+(2) *Early Termination.* The Judicial Conference may terminate a declaration for one or more courts before the termination date.
+
+(3) *Additional Declarations.* The Judicial Conference may issue additional declarations under this rule.
+
+(c) Continuing a Proceeding After a Termination. Termination of a declaration for a court ends its authority under (d) and (e). But if a particular proceeding is already underway and resuming compliance with these rules for the rest of the proceeding would not be feasible or would work an injustice, it may be completed with the defendant's consent as if the declaration had not terminated.
+
+(d) Authorized Departures from These Rules After a Declaration.
+
+(1) *Public Access to a Proceeding.* If emergency conditions substantially impair the public's in-person attendance at a public proceeding, the court must provide reasonable alternative access, contemporaneous if feasible.
+
+(2) *Signing or Consenting for a Defendant.* If any rule, including this rule, requires a defendant's signature, written consent, or written waiver—and emergency conditions limit a defendant's ability to sign—defense counsel may sign for the defendant if the defendant consents on the record. Otherwise, defense counsel must file an affidavit attesting to the defendant's consent. If the defendant is pro se, the court may sign for the defendant if the defendant consents on the record.
+
+(3) *Alternate Jurors.* A court may impanel more than 6 alternate jurors.
+
+(4) *Correcting or Reducing a Sentence.* Despite Rule 45(b)(2), if emergency conditions provide good cause, a court may extend the time to take action under Rule 35 as reasonably necessary.
+
+(e) Authorized Use of Videoconferencing and Teleconferencing After a Declaration.
+
+(1) *Videoconferencing for Proceedings Under Rules 5, 10, 40, and 43(b)(2).* This rule does not modify a court's authority to use videoconferencing for a proceeding under Rules 5, 10, 40, or 43(b)(2), except that if emergency conditions substantially impair the defendant's opportunity to consult with counsel, the court must ensure that the defendant will have an adequate opportunity to do so confidentially before and during those proceedings.
+
+(2) *Videoconferencing for Certain Proceedings at Which the Defendant Has a Right to Be Present.* Except for felony trials and as otherwise provided under (e)(1) and (3), for a proceeding at which a defendant has a right to be present, a court may use videoconferencing if:
+
+(A) the district's chief judge finds that emergency conditions substantially impair a court's ability to hold in-person proceedings in the district within a reasonable time;
+
+(B) the court finds that the defendant will have an adequate opportunity to consult confidentially with counsel before and during the proceeding; and
+
+(C) the defendant consents after consulting with counsel.
+
+(3) *Videoconferencing for Felony Pleas and Sentencings.* For a felony proceeding under Rule 11 or 32, a court may use videoconferencing only if, in addition to the requirement in (2)(B):
+
+(A) the district's chief judge finds that emergency conditions substantially impair a court's ability to hold in-person felony pleas and sentencings in the district within a reasonable time;
+
+(B) the defendant, before the proceeding and after consulting with counsel, consents in a writing signed by the defendant that the proceeding be conducted by videoconferencing; and
+
+(C) the court finds that further delay in that particular case would cause serious harm to the interests of justice.
+
+(4) *Teleconferencing by One or More Participants.* A court may conduct a proceeding, in whole or in part, by teleconferencing if:
+
+(A) the requirements under any applicable rule, including this rule, for conducting the proceeding by videoconferencing have been met;
+
+(B) the court finds that:
+
+(i) videoconferencing is not reasonably available for any person who would participate by teleconference; and
+
+(ii) the defendant will have an adequate opportunity to consult confidentially with counsel before and during the proceeding if held by teleconference; and
+
+(C) the defendant consents.
+
+(Added Apr. 24, 2023, eff. Dec. 1, 2023.)
+
+#### Committee Notes on Rules—2023 ####
+
+*Subdivision (a)*. This rule defines the conditions for a Criminal Rules emergency that would support a declaration authorizing a court to depart from one or more of the other Federal Rules of Criminal Procedure. Rule 62 refers to the other, non-emergency rules—currently Rules 1–61—as "these rules." This committee note uses "these rules" or "the rules" to refer to the non-emergency rules, and uses "this rule" or "this emergency rule" to refer to new Rule 62.
+
+The rules have been promulgated under the Rules Enabling Act and carefully designed to protect constitutional and statutory rights and other interests. Any authority to depart from the rules must be strictly limited. Compliance with the rules cannot be cast aside because of cost or convenience, or without consideration of alternatives that would permit compliance to continue. Subdivision (a) narrowly restricts the conditions that would permit a declaration granting emergency authority to depart from the rules and defines who may make that declaration.
+
+First, subdivision (a) specifies that the power to declare a rules emergency rests solely with the Judicial Conference of the United States, the governing body of the judicial branch. To find that a rules emergency exists, the Judicial Conference will need information about the ability of affected courts to comply with the rules, as well as the existence of reasonable alternatives to continue court functions in compliance with the rules. The judicial council of a circuit, for example, may be able to provide helpful information it has received from judges within the circuit regarding local conditions and available resources.
+
+Paragraph (a)(1) requires that before declaring a Criminal Rules emergency, the Judicial Conference must determine that circumstances are extraordinary and that they relate to public health or safety or affect physical or electronic access to a court. These requirements are intended to prohibit the use of this emergency rule to respond to other challenges, such as those arising from staffing or budget issues. Second, those extraordinary circumstances must substantially impair the ability of a court to perform its functions in compliance with the rules.
+
+In addition, paragraph (a)(2) requires that even if the Judicial Conference determines the extraordinary circumstances defined in (a)(1), it cannot declare a Criminal Rules emergency unless it also determines that no feasible alternative measures would sufficiently address the impairment and allow the affected court to perform its functions in compliance with the rules within a reasonable time. For example, in the districts devastated by hurricanes Katrina and Maria, the ability of courts to function in compliance with the rules was substantially impaired for extensive periods of time. But there would have been no Criminal Rules emergency under this rule because those districts were able to remedy that impairment and function effectively in compliance with the rules by moving proceedings to other districts under 28 U.S.C. §141. Another example might be a situation in which the judges in a district are unable to carry out their duties as a result of an emergency that renders them unavailable, but courthouses remain safe. The unavailability of judges would substantially impair that court's ability to function in compliance with the rules, but temporary assignment of judges from other districts under 28 U.S.C. §292(b) and (d) would eliminate that impairment.
+
+Subdivision (a) also recognizes that emergency circumstances may affect only one or a small number of courts—familiar examples include hurricanes, floods, explosions, or terroristic threats—or may have widespread impact, such as a pandemic or a regional disruption of electronic communications. This rule provides a uniform procedure that is sufficiently flexible to accommodate different types of emergency conditions with local, regional, or nationwide impact.
+
+*Paragraph (b)(1)*. Paragraph (b)(1) specifies what must be included in a declaration of a Criminal Rules emergency. Subparagraph (A) requires that each declaration of a Criminal Rules emergency designate the court or courts affected by the Criminal Rules emergency as defined in subdivision (a). Some emergencies may affect all courts, some will be local or regional. The declaration must be no broader than the Criminal Rules emergency. That is, every court identified in a declaration must be one in which extraordinary circumstances that relate to public health or safety or that affect physical or electronic access to the court are substantially impairing its ability to perform its functions in compliance with these rules, and in which compliance with the rules cannot be achieved within a reasonable time by alternative measures. A court may not exercise authority under (d) and (e) unless the Judicial Conference includes the court in its declaration, and then only in a manner consistent with that declaration, including any limits imposed under (b)(1)(B).
+
+Subparagraph (b)(1)(B) provides that the Judicial Conference's declaration of a Criminal Rules emergency must state any restrictions on the authority granted by subdivisions (d) and (e) to depart from the rules. For example, if the emergency arises from a disruption in electronic communications, there may be no reason to authorize videoconferencing for proceedings in which the rules require in-person appearance. But (b)(1)(B) does not allow a declaration to expand departures from the rules beyond those authorized by subdivisions (d) and (e).
+
+Under (b)(1)(C), each declaration must state when it will terminate, which may not exceed 90 days from the date of the declaration. This sunset clause is included to ensure that these extraordinary deviations from the rules last no longer than necessary.
+
+*Paragraph (b)(2)*. If emergency conditions end before the termination date of the declaration for some or all courts included in that declaration, (b)(2) provides that the Judicial Conference may terminate the declaration for the courts no longer affected. This provision also ensures that any authority to depart from the rules lasts no longer than necessary.
+
+*Paragraph (b)(3)* recognizes that the conditions that justified the declaration of a Criminal Rules emergency may continue beyond the term of the declaration. The conditions may also change, shifting in nature or affecting more districts. An example might be a flood that leads to a contagious disease outbreak. Rather than provide for extensions, renewals, or modifications of an initial declaration, paragraph (b)(3) gives the Judicial Conference the authority to respond to such situations by issuing additional declarations. Each additional declaration must meet the requirements of subdivision (a), and must include the contents required by (b)(1).
+
+*Subdivision (c)*. In general, the termination of a declaration of emergency ends all authority to depart from the other Federal Rules of Criminal Procedure. It does not terminate, however, the court's authority to complete an ongoing trial with alternate jurors who have been impaneled under (d)(3), because the proceeding authorized by (d)(3) is the completed impanelment. In addition, subdivision (c) carves out a narrow exception for certain proceedings commenced under a declaration of emergency but not completed before the declaration terminates. If it would not be feasible to conclude a proceeding commenced before a declaration terminates with procedures that comply with the rules, or if resuming compliance with the rules would work an injustice, the court may complete that proceeding using procedures authorized by this emergency rule, but only if the defendant consents to the use of emergency procedures after the declaration ends. Subdivision (c) recognizes the need for some accommodation and flexibility during the transition period, but also the importance of returning promptly to the rules to protect the defendant's rights and other interests.
+
+*Subdivisions (d) and (e)* describe the authority to depart from the rules after a declaration.
+
+*Paragraph (d)(1)* addresses the courts' obligation to provide alternative access when emergency conditions have substantially impaired in-person attendance by the public at public proceedings. The term "public proceeding" is intended to capture proceedings that the rules require to be conducted "in open court," proceedings to which a victim must be provided access, and proceedings that must be open to the public under the First and Sixth Amendments. The rule creates a duty to provide the public with "reasonable alternative access," notwithstanding Rule 53's ban on the "broadcasting of judicial proceedings." Under appropriate circumstances, the reasonable alternative could be audio access to a video proceeding.
+
+The duty arises only when the substantial impairment of in-person access by the public is caused by emergency conditions. The rule does not apply when reasons other than emergency conditions restrict access. The duty arises not only when emergency conditions substantially impair the attendance of anyone, but also when conditions would allow participants but not the public to attend, as when capacity must be restricted to prevent contagion.
+
+Alternative access must be contemporaneous when feasible. For example, if public health conditions limit courtroom capacity, contemporaneous transmission to an overflow courthouse space ordinarily could be provided.
+
+When providing "reasonable alternative access," courts must comply with the constitutional guarantees of public access and any applicable statutory provision, including the Crime Victims' Rights Act, 18 U.S.C. §3771.
+
+*Paragraph (d)(2)* recognizes that emergency conditions may disrupt compliance with a rule that requires the defendant's signature, written consent, or written waiver. If emergency situations limit the defendant's ability to sign, (d)(2) provides an alternative, allowing defense counsel to sign if the defendant consents. To ensure that there is a record of the defendant's consent to this procedure, the amendment provides two options: (1) defense counsel may sign for the defendant if the defendant consents on the record, or, (2) without the defendant's consent on the record, defense counsel must file an affidavit attesting to the defendant's consent to the procedure. The defendant's oral agreement on the record alone will not substitute for the defendant's signature. The written document signed by counsel on behalf of the defendant provides important additional evidence of the defendant's consent.
+
+The court may sign for a pro se defendant, if that defendant consents on the record. There is no provision for the court to sign for a counseled defendant, even if the defendant provides consent on the record. The Committee concluded that rules requiring the defendant's signature, written consent, or written waiver protect important rights, and permitting the judge to bypass defense counsel and sign once the defendant agrees could result in a defendant perceiving pressure from the judge to sign. Requiring a writing from defense counsel is an essential protection when the defendant's own signature is not reasonably available because of emergency conditions.
+
+It is generally helpful for the court to conduct a colloquy with the defendant to ensure that defense counsel consulted with the defendant with regard to the substance and import of the pleading or document being signed, and that the consent to allow counsel to sign was knowing and voluntary.
+
+*Paragraph (d)(3)* allows the court to impanel more than six alternate jurors, creating an emergency exception to the limit imposed by Rule 24(c)(1). This flexibility may be particularly useful for a long trial conducted under emergency conditions—such as a pandemic—that increase the likelihood that jurors will be unable to complete the trial. Because it is not possible to anticipate all of the situations in which this authority might be employed, the amendment leaves to the discretion of the district court whether to impanel more alternates, and if so, how many. The same uncertainty about emergency conditions that supports flexibility in the rule for the provision of additional alternates also supports avoiding mandates for additional peremptory challenges when more than six alternates are provided. Nonetheless, if more than six alternates are impaneled and emergency conditions allow, the court should consider permitting each party one or more additional peremptory challenges, consistent with the policy in Rule 24(c)(4).
+
+*Paragraph (d)(4)* provides an emergency exception to Rule 45(b)(2), which prohibits the court from extending the time to take action under Rule 35 "except as stated in that rule." When emergency conditions provide good cause for extending the time to take action under Rule 35, the amendment allows the court to extend the time for taking action "as reasonably necessary." The amendment allows the court to extend the 14-day period for correcting a clear error in the sentence under Rule 35(a) and the one-year period for government motions for sentence reductions based on substantial assistance under Rule 35(b)(1). Nothing in this provision is intended to expand the authority to correct or reduce a sentence under Rule 35. This emergency rule does not address the extension of other time limits because Rule 45(b)(1) already provides the necessary flexibility for courts to consider emergency circumstances. It allows the court to extend the time for taking other actions on its own or on a party's motion for good cause shown.
+
+*Subdivision (e)* provides authority for a court to use videoconferencing or teleconferencing under specified circumstances after the declaration of a Criminal Rules emergency. The term "videoconferencing" is used throughout, rather than the term "video teleconferencing" (which appears elsewhere in the rules), to more clearly distinguish conferencing with visual images from "teleconferencing" with audio only. The first three paragraphs in (e) describe a court's authority to use videoconferencing, depending upon the type of proceeding, while the last describes a court's authority to use teleconferencing when videoconferencing is not reasonably available. The defendant's consent to the use of conferencing technology is required for all proceedings addressed by subdivision (e).
+
+Subdivision (e) applies to the use of videoconferencing and teleconferencing for the proceedings defined in paragraphs (1) through (3), for all or part of the proceeding, by one or more participants. But it does not regulate the use of video and teleconferencing technology for all possible proceedings in a criminal case. It does not speak to or prohibit the use of videoconferencing or teleconferencing for proceedings, such as scheduling conferences, at which the defendant has no right to be present. Instead, it addresses three groups of proceedings: (1) proceedings for which the rules already authorize videoconferencing; (2) certain other proceedings at which a defendant has the right to be present, excluding felony trials; and (3) felony pleas and sentencings. The new rule does not address the use of technology to maintain communication with a defendant who has been removed from a proceeding for misconduct.
+
+*Paragraph (e)(1)* addresses first appearances, arraignments, and certain misdemeanor proceedings under Rules 5, 10, 40, and 43(b)(2), where the rules already provide for videoconferencing if the defendant consents. *See* Rules 5(f), 10(c), 40(d), and 43(b)(2) (written consent). This paragraph was included to eliminate any confusion about the interaction between existing videoconferencing authority and this rule. It clarifies that this rule does not change the court's existing authority to use videoconferencing for these proceedings, except that it requires the court to address emergency conditions that significantly impair the defendant's opportunity to consult with counsel. In that situation, the court must ensure that the defendant will have an adequate opportunity for confidential consultation before and during videoconference proceedings under Rules 5, 10, 40, and 43(b)(2). Paragraphs (e)(2) through (4) apply this requirement to all emergency video and teleconferencing authority granted by the rule after a declaration.
+
+The requirement is based upon experience during the COVID–19 pandemic, when conditions dramatically limited the ability of counsel to meet or even speak with clients. The Committee believed it was essential to include this prerequisite for conferencing under Rules 5, 10, 40, and 43(b)(2), as well as conferencing authorized only during a declaration by paragraphs (e)(2), (3), and (4), in order to safeguard the defendant's constitutional right to counsel. The rule does not specify any particular means of providing an adequate opportunity for private communication.
+
+*Paragraph (e)(2)* addresses videoconferencing authority for proceedings "at which a defendant has a right to be present" under the Constitution, statute, or rule, excluding felony trials and proceedings addressed in either (e)(1) or (e)(3). Such proceedings include, for example, revocations of release under Rule 32.1, preliminary hearings under Rule 5.1, and waivers of indictment under Rule 7(b). During a declaration, an affected court may use videoconferencing for these proceedings, but only if the three circumstances are met.
+
+First, subparagraph (e)(2)(A) restricts videoconferencing authority to affected districts in which the chief judge (or alternate under 28 U.S.C. §136(e)) has found that emergency conditions substantially impair a court's ability to hold proceedings in person within a reasonable time. Recognizing that important policy concerns animate existing limitations in Rule 43 on virtual proceedings, even with the defendant's consent, this district-wide finding is not an invitation to substitute virtual conferencing for in-person proceedings without regard to conditions in a particular division, courthouse, or case. If a proceeding can be conducted safely in-person within a reasonable time, a court should hold it in person.
+
+Second, subparagraph (e)(2)(B) conditions videoconferencing upon the court's finding that the defendant will have an adequate opportunity to consult confidentially with counsel before and during the proceeding. If emergency conditions prevent the defendant's presence, and videoconferencing is employed as a substitute, counsel will not have the usual physical proximity to the defendant during the proceeding and may not have ordinary access to the defendant before and after the proceeding.
+
+Third, subparagraph (e)(2)(C) requires that the defendant consent to videoconferencing after consulting with counsel. Insisting on consultation with counsel before consent assures that the defendant will be informed of the potential disadvantages and risks of virtual proceedings. It also provides some protection against potential pressure to consent, from the government or the judge.
+
+The Committee declined to provide authority in this rule to conduct felony trials without the physical presence of the defendant, even if the defendant wishes to appear at trial by videoconference during an emergency declaration. And this rule does not address the use of technology to maintain communication with a defendant who has been removed from a proceeding for misconduct. Nor does it address if or when trial participants other than the defendant may appear by videoconferencing.
+
+*Paragraph (e)(3)* addresses the use of videoconferencing for a third set of proceedings: felony pleas and sentencings under Rules 11 and 32. The physical presence of the defendant together in the courtroom with the judge and counsel is a critical part of any plea or sentencing proceeding. Other than trial itself, in no other context does the communication between the judge and the defendant consistently carry such profound consequences. The importance of defendant's physical presence at plea and sentence is reflected in Rules 11 and 32. The Committee's intent was to carve out emergency authority to substitute virtual presence for physical presence at a felony plea or sentence only as a last resort, in cases where the defendant would likely be harmed by further delay. Accordingly, the prerequisites for using videoconferencing for a felony plea or sentence include three circumstances in addition to those required for the use of videoconferencing under (e)(2).
+
+Subparagraph (e)(3)(A) requires that the chief judge of the district (or alternate under 28 U.S.C. §136(e)) make a district-wide finding that emergency conditions substantially impair a court's ability to hold felony pleas and sentencings in person in that district within a reasonable time. This finding serves as assurance that videoconferencing may be necessary and that individual judges cannot on their own authorize virtual pleas and sentencings when in-person proceedings might be manageable with patience or adaptation. Although the finding serves as assurance that videoconferencing might be necessary in the district, as under (e)(2), individual courts within the district may not conduct virtual plea and sentencing proceedings in individual cases unless they find the remaining criteria of (e)(3) and (4) are satisfied.
+
+As protection against undue pressure to waive physical presence, subparagraph (e)(3)(B) states that, before the proceeding and after consultation with counsel, the defendant must consent in writing that the proceeding be conducted by videoconferencing. This requirement of writing is, like other requirements of writing in the rules, subject to the emergency provisions in (d)(2), unless the relevant emergency declaration excludes the authority in (d)(2). To ensure that the defendant consulted with counsel with regard to this decision, and that the defendant's consent was knowing and voluntary, the court may need to conduct a colloquy with the defendant before accepting the written request.
+
+Subparagraph (e)(3)(C) requires that before a court may conduct a plea or sentencing proceeding by videoconference, it must find that the proceeding in that particular case cannot be further delayed without serious harm to the interests of justice. Examples may include some pleas and sentencings that would allow transfer to a facility preferred by the defense, or result in immediate release, home confinement, probation, or a sentence shorter than the time expected before conditions would allow in-person proceedings. A judge might also conclude that under certain emergency conditions, delaying certain guilty pleas under Rule 11(c)(1)(C), even those calling for longer sentences, may result in serious harm to the interests of justice.
+
+*Paragraph (e)(4)* details conditions for the use of teleconferencing to conduct proceedings for which videoconferencing is authorized. Videoconferencing is always a better option than an audio-only conference because it allows participants to see as well as hear each other. To ensure that participants communicate through audio alone only when videoconferencing is not feasible, (e)(4) sets out four prerequisites. Because the rule applies to teleconferencing "in whole or in part," it mandates these prerequisites whenever the entire proceeding is held by teleconference from start to finish, or when one or more participants in the proceeding are connected by audio only, for part or all of a proceeding.
+
+The first prerequisite, in (e)(4)(A), is that all of the conditions for the use of videoconferencing for the proceeding must be met before a court may conduct a proceeding, in whole or in part, by audio-only. For example, videoconferencing for a sentencing under Rule 32 requires compliance with (e)(3)(A), (B), and (C). No part of a felony sentencing proceeding may be held by teleconference, nor may any person participate in such a proceeding by audio only, unless those videoconferencing requirements have been met. Likewise, for a misdemeanor proceeding, teleconferencing requires compliance with (e)(1) and Rule 43(b)(2).
+
+Second, (e)(4)(B)(i) requires the court to find that videoconferencing for all or part of the proceeding is not reasonably available before allowing participation by audio only. Because it focuses on what is "reasonably available," this requirement is flexible. It is intended to allow courts to use audio only connections when necessary, but not otherwise. For example, it precludes the use of teleconferencing alone if videoconferencing—though generally limited—is available for all participants in a particular proceeding. But it permits the use of teleconferencing in other circumstances. For example, if only an audio connection with a defendant were feasible because of security concerns at the facility where the defendant is housed, a court could find that videoconferencing for that defendant in the particular proceeding is not reasonably available. Or, if the video connection fails for one or more participants during a proceeding started by videoconference and audio is the only option for completing that proceeding expeditiously, this rule permits the affected participants to use audio technology to finish the proceeding.
+
+Third, (e)(4)(B)(ii) provides that the court must find that the defendant will have an adequate opportunity to consult confidentially with counsel before and during the teleconferenced proceeding. Opportunities for confidential consultation may be more limited with teleconferencing than they are with videoconferencing as when a defendant or a defense attorney has only one telephone line to use to call into the conference, and there are no "breakout rooms" for private conversations like those videoconferencing platforms provide. This situation may arise not only when a proceeding is held entirely by phone, but also when, in the midst of a videoconference, video communication fails for either the defendant or defense counsel. An attorney or client may have to call into the conference using the devices they had previously been using for confidential communication. Experiences like these prompted this requirement that the court specifically find that an alternative opportunity for confidential consultation is in place before permitting teleconferencing in whole or in part.
+
+Finally, recognizing the differences between videoconferencing and teleconferencing, subparagraph (e)(4)(C) provides that the defendant must consent to teleconferencing for the proceeding, even if the defendant previously requested or consented to videoconferencing. A defendant who is willing to be sentenced with a videoconference connection with the judge may balk, understandably, at being sentenced over the phone. Subparagraph (e)(4)(C) does not require that consent to teleconferencing be given only after consultation with counsel. By requiring only "consent," it recognizes that the defendant would have already met the consent requirements for videoconferencing for that proceeding, and it allows the court more flexibility to address varied situations. To give one example, if the video but not audio feed drops for the defendant or another participant near the very end of a videoconference, and the judge asks the defendant, "do you want to talk to your lawyer about finishing this now without the video?," an answer "No, I'm ok, we can finish now" would be sufficient consent under (e)(4)(C).
+
+#### References in Text ####
+
+Criminal Rules, referred to in subd. (a), probably means the Federal Rules of Criminal Procedure, which are set out in this Appendix.
