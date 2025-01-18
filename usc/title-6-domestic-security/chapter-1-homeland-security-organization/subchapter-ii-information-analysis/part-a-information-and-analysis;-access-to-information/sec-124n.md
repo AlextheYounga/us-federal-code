@@ -132,7 +132,7 @@ Nothing in this section may be construed to—
 
 #### (i) Termination ####
 
-The authority to carry out this section with respect to a covered facility or asset specified in subsection (k)(3) shall terminate on December 20, 2024.
+The authority to carry out this section with respect to a covered facility or asset specified in subsection (k)(3) shall terminate on March 14, 2025.
 
 #### (j) Scope of authority ####
 
@@ -232,7 +232,7 @@ Not later than 1 year after October 5, 2018, the Secretary shall conduct, in coo
 
 The report required under paragraph (1) shall be submitted in unclassified form, but may contain a classified annex.
 
-(Pub. L. 107–296, title II, §210G, as added Pub. L. 115–254, div. H, §1602(a), Oct. 5, 2018, 132 Stat. 3522; amended Pub. L. 118–15, div. B, title II, §2221, Sept. 30, 2023, 137 Stat. 86; Pub. L. 118–22, div. B, title III, §601, Nov. 17, 2023, 137 Stat. 123; Pub. L. 118–35, div. B, title III, §301, Jan. 19, 2024, 138 Stat. 7; Pub. L. 118–41, title III, §301, Mar. 8, 2024, 138 Stat. 24; Pub. L. 118–63, title XI, §1112, May 16, 2024, 138 Stat. 1419; Pub. L. 118–83, div. B, title I, §101, Sept. 26, 2024, 138 Stat. 1534.)
+(Pub. L. 107–296, title II, §210G, as added Pub. L. 115–254, div. H, §1602(a), Oct. 5, 2018, 132 Stat. 3522; amended Pub. L. 118–15, div. B, title II, §2221, Sept. 30, 2023, 137 Stat. 86; Pub. L. 118–22, div. B, title III, §601, Nov. 17, 2023, 137 Stat. 123; Pub. L. 118–35, div. B, title III, §301, Jan. 19, 2024, 138 Stat. 7; Pub. L. 118–41, title III, §301, Mar. 8, 2024, 138 Stat. 24; Pub. L. 118–63, title XI, §1112, May 16, 2024, 138 Stat. 1419; Pub. L. 118–83, div. B, title I, §101, Sept. 26, 2024, 138 Stat. 1534; Pub. L. 118–158, div. E, §5102, Dec. 21, 2024, 138 Stat. 1771.)
 
 #### **Editorial Notes** ####
 
@@ -246,7 +246,9 @@ This chapter, referred to in subsec. (l)(1)(A), was in the original "this Act", 
 
 #### Amendments ####
 
-**2024**—Subsec. (i). Pub. L. 118–83 substituted "December 20, 2024" for "October 1, 2024".
+**2024**—Subsec. (i). Pub. L. 118–158 substituted "March 14, 2025" for "December 20, 2024".
+
+Pub. L. 118–83 substituted "December 20, 2024" for "October 1, 2024".
 
 Pub. L. 118–63 substituted "October 1, 2024" for "May 11, 2024".
 

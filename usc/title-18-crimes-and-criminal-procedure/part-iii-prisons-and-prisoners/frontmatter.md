@@ -1,4 +1,5 @@
-### **PART III—PRISONS AND PRISONERS** ###
+PART III—PRISONS AND PRISONERS
+----------
 
 Chap. Sec.
 

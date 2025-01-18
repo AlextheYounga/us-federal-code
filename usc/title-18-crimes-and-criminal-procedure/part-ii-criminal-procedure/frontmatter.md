@@ -1,4 +1,5 @@
-### **PART II—CRIMINAL PROCEDURE** ###
+PART II—CRIMINAL PROCEDURE
+----------
 
 Chap. Sec.
 
