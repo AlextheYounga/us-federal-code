@@ -90,7 +90,7 @@ Not later than one year after the date of enactment of this Act <sup><a href="#
 
 #### (b) Sunset ####
 
-The applicability of this section shall expire after March 31, 2025.
+The applicability of this section shall expire after September 30, 2025.
 
 #### (c) Definitions ####
 
@@ -140,7 +140,7 @@ The term "covered activities" shall not include, with respect to a meeting or co
 
 (vii) Entering into any agreement or engaging in any other conduct restricting or setting the price at which a countermeasure or product is offered for sale, whether by bid or otherwise.
 
-(July 1, 1944, ch. 373, title III, §319L–1, formerly Pub. L. 109–417, title IV, §405, Dec. 19, 2006, 120 Stat. 2875, as amended Pub. L. 113–5, §402(e)(1), Mar. 13, 2013, 127 Stat. 195; renumbered §319L–1 of act July 1, 1944, and amended Pub. L. 116–22, title VII, §701(e)(1), June 24, 2019, 133 Stat. 961; Pub. L. 118–22, div. B, title II, §203(c), Nov. 17, 2023, 137 Stat. 120; Pub. L. 118–35, div. B, title I, §103(c), Jan. 19, 2024, 138 Stat. 5; Pub. L. 118–42, div. G, title I, §103(c), Mar. 9, 2024, 138 Stat. 398; Pub. L. 118–158, div. C, title I, §3103(c), Dec. 21, 2024, 138 Stat. 1763.)
+(July 1, 1944, ch. 373, title III, §319L–1, formerly Pub. L. 109–417, title IV, §405, Dec. 19, 2006, 120 Stat. 2875, as amended Pub. L. 113–5, §402(e)(1), Mar. 13, 2013, 127 Stat. 195; renumbered §319L–1 of act July 1, 1944, and amended Pub. L. 116–22, title VII, §701(e)(1), June 24, 2019, 133 Stat. 961; Pub. L. 118–22, div. B, title II, §203(c), Nov. 17, 2023, 137 Stat. 120; Pub. L. 118–35, div. B, title I, §103(c), Jan. 19, 2024, 138 Stat. 5; Pub. L. 118–42, div. G, title I, §103(c), Mar. 9, 2024, 138 Stat. 398; Pub. L. 118–158, div. C, title I, §3103(c), Dec. 21, 2024, 138 Stat. 1763; Pub. L. 119–4, div. B, title I, §2103(c), Mar. 15, 2025, 139 Stat. 41.)
 
 #### **Editorial Notes** ####
 
@@ -159,6 +159,8 @@ Section was formerly set out as a note under section 247d–6a of this title pri
 A prior section 247d–7f, act July 1, 1944, ch. 373, title III, §319M, as added Pub. L. 109–417, title IV, §402, Dec. 19, 2006, 120 Stat. 2872; amended Pub. L. 113–5, title IV, §404, Mar. 13, 2013, 127 Stat. 197, which related to National Biodefense Science Board and working groups, was transferred to section 247d–7g of this title.
 
 #### Amendments ####
+
+**2025**—Subsec. (b). Pub. L. 119–4 substituted "September 30, 2025" for "March 31, 2025".
 
 **2024**—Subsec. (b). Pub. L. 118–158 substituted "March 31, 2025" for "December 31, 2024".
 

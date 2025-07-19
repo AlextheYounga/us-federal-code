@@ -116,8 +116,6 @@ A State child health plan shall provide that, in the case of a targeted low-inco
 
 Amendment of section by section 205(b)(1) of title I of div. G of Pub. L. 118–42 applicable beginning Jan. 1, 2026. See 2024 Amendment notes below.
 
-Amendment of section by section 5121(c)(1) of Pub. L. 117–328 applicable beginning on the first day of the first calendar quarter that begins on or after the date that is 24 months after Dec. 29, 2022. See 2022 Amendment note below.
-
 #### **Editorial Notes** ####
 
 #### References in Text ####

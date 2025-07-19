@@ -1,10 +1,10 @@
-### §§621 to 629. Omitted. ###
+### §§621 to 629. Omitted ###
 
 #### **Editorial Notes** ####
 
 #### Codification ####
 
-Sections 621 to 629, comprising subchapter XVI of this chapter, terminated on July 27, 2023, pursuant to section 5 of Pub. L. 113–254, set out as a note below.
+The authority provided under sections 621 to 629, comprising subchapter XVI of this chapter, terminated on July 27, 2023, pursuant to section 5 of Pub. L. 113–254, set out as a note below.
 
 Section 621, Pub. L. 107–296, title XXI, §2101, as added Pub. L. 113–254, §2(a), Dec. 18, 2014, 128 Stat. 2898, provided definitions for this subchapter.
 

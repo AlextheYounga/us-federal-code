@@ -28,7 +28,7 @@ The Secretary shall biennially submit to the Committee on Ways and Means of the 
 
 (2) the Secretary is assisting States and Indian tribes to improve implementation of Federal standards established under the Indian Child Welfare Act of 1978.
 
-(Pub. L. 118–258, title I, §107(a)(2)(B), Jan. 4, 2025, 138 Stat. 2954.)
+(Aug. 14, 1935, ch. 531, title IV, §429B, as added Pub. L. 118–258, title I, §107(a)(2)(B), Jan. 4, 2025, 138 Stat. 2954.)
 
 #### **Editorial Notes** ####
 

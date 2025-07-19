@@ -111,8 +111,6 @@ Chap. Sec.
 
 65. Senate Officers and Administration 6501
 
-#### **Editorial Notes** ####
-
 |                                               *Title 2<br/><br/>Former Classification*                                               |*Title 2<br/><br/>New Classification*|
 |--------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------|
 |                                                                 29d                                                                  |                4711                 |

@@ -46,6 +46,8 @@ Sec.
 
 5332. The General Schedule.
 
+5332a. Special base rates of pay for wildland firefighters.
+
 5333. Minimum rate for new appointments.
 
 5334. Rate on change of position or type of appointment; regulations.
@@ -153,6 +155,8 @@ Sec.
 #### **Editorial Notes** ####
 
 #### Amendments ####
+
+**2025**—Pub. L. 119–4, div. A, title VIII, §1807, Mar. 15, 2025, 139 Stat. 30, which directed amendment of the table of sections for subchapter III of this chapter by adding item 5332a, was executed to the table of sections for this chapter, to reflect the probable intent of Congress. Amendment is based on section 456(b) of H.R. 8998, from the 118th Congress, as passed by the House of Representatives on July 24, 2024, which was enacted into law by section 1807 of div. A of Pub. L. 119–4.
 
 **2000**—Pub. L. 106–554, §1(a)(3) [title VI, §645(a)(3)], Dec. 21, 2000, 114 Stat. 2763, 2763A–170, added item 5372b.
 

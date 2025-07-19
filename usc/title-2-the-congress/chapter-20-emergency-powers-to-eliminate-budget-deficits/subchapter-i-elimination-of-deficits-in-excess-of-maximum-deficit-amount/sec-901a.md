@@ -88,9 +88,9 @@ Except as provided by paragraphs (10), (11), (12), and (13), on the date of the 
 
 (D) On the date on which the President submits the budget under section 1105 of title 31 for fiscal year 2032, the President shall order a sequestration of payments for the Medicare programs specified in section 906(d) of this title, effective upon issuance, such that, notwithstanding the 2 percent limit specified in subparagraph (A) for such payments—
 
-(i) with respect to the first 8 months in which such order is effective for such fiscal year, the payment reduction shall be 2.0 percent; and
+(i) with respect to the first 10 months in which such order is effective for such fiscal year, the payment reduction shall be 2.0 percent; and
 
-(ii) with respect to the last 4 months in which such order is effective for such fiscal year, the payment reduction shall be 0 percent.
+(ii) with respect to the last 2 months in which such order is effective for such fiscal year, the payment reduction shall be 0 percent.
 
 (E) The sequestration order issued by the President under subparagraph (D) shall also include, effective upon issuance, that—
 
@@ -134,7 +134,7 @@ On the dates specified in paragraph (2), OMB shall submit a report to Congress c
 
 (B) Paragraph (5)(B) shall not be implemented for fiscal years 2020 and 2021.
 
-(Pub. L. 99–177, title II, §251A, as added Pub. L. 112–25, title III, §302(a), Aug. 2, 2011, 125 Stat. 256; amended Pub. L. 112–240, title IX, §901(a), (c), Jan. 2, 2013, 126 Stat. 2370; Pub. L. 113–67, div. A, title I, §101(b), (c), (d)(2), div. B, title II, §1205, Dec. 26, 2013, 127 Stat. 1167, 1168, 1200; Pub. L. 113–82, §1, Feb. 15, 2014, 128 Stat. 1009; Pub. L. 113–93, title II, §222, Apr. 1, 2014, 128 Stat. 1077; Pub. L. 114–74, title I, §101(b), (c), Nov. 2, 2015, 129 Stat. 586; Pub. L. 115–123, div. C, title I, §30101(b), (c), Feb. 9, 2018, 132 Stat. 123; Pub. L. 116–37, title I, §101(d), title IV, §402, Aug. 2, 2019, 133 Stat. 1050, 1058; Pub. L. 116–136, div. A, title III, §3709(b), Mar. 27, 2020, 134 Stat. 422; Pub. L. 117–7, §1(b), Apr. 14, 2021, 135 Stat. 251; Pub. L. 117–58, div. I, §90001, Nov. 15, 2021, 135 Stat. 1341; Pub. L. 117–71, §2(b), Dec. 10, 2021, 135 Stat. 1506; Pub. L. 117–328, div. FF, title IV, §4163, Dec. 29, 2022, 136 Stat. 5931; Pub. L. 118–31, div. A, title XVIII, §1852, Dec. 22, 2023, 137 Stat. 709; Pub. L. 118–42, div. G, title III, §303, Mar. 9, 2024, 138 Stat. 452; Pub. L. 118–47, div. G, title I, §109, Mar. 23, 2024, 138 Stat. 857.)
+(Pub. L. 99–177, title II, §251A, as added Pub. L. 112–25, title III, §302(a), Aug. 2, 2011, 125 Stat. 256; amended Pub. L. 112–240, title IX, §901(a), (c), Jan. 2, 2013, 126 Stat. 2370; Pub. L. 113–67, div. A, title I, §101(b), (c), (d)(2), div. B, title II, §1205, Dec. 26, 2013, 127 Stat. 1167, 1168, 1200; Pub. L. 113–82, §1, Feb. 15, 2014, 128 Stat. 1009; Pub. L. 113–93, title II, §222, Apr. 1, 2014, 128 Stat. 1077; Pub. L. 114–74, title I, §101(b), (c), Nov. 2, 2015, 129 Stat. 586; Pub. L. 115–123, div. C, title I, §30101(b), (c), Feb. 9, 2018, 132 Stat. 123; Pub. L. 116–37, title I, §101(d), title IV, §402, Aug. 2, 2019, 133 Stat. 1050, 1058; Pub. L. 116–136, div. A, title III, §3709(b), Mar. 27, 2020, 134 Stat. 422; Pub. L. 117–7, §1(b), Apr. 14, 2021, 135 Stat. 251; Pub. L. 117–58, div. I, §90001, Nov. 15, 2021, 135 Stat. 1341; Pub. L. 117–71, §2(b), Dec. 10, 2021, 135 Stat. 1506; Pub. L. 117–328, div. FF, title IV, §4163, Dec. 29, 2022, 136 Stat. 5931; Pub. L. 118–31, div. A, title XVIII, §1852, Dec. 22, 2023, 137 Stat. 709; Pub. L. 118–42, div. G, title III, §303, Mar. 9, 2024, 138 Stat. 452; Pub. L. 118–47, div. G, title I, §109, Mar. 23, 2024, 138 Stat. 857; Pub. L. 119–4, div. B, title II, §2211, Mar. 15, 2025, 139 Stat. 44.)
 
 #### **Editorial Notes** ####
 
@@ -157,6 +157,10 @@ The Bipartisan Budget Act of 2019, referred to in par. (13)(A), is Pub. L. 116�
 A prior section 901a, Pub. L. 99–177, title II, §251A, as added Pub. L. 103–322, title XXXI, §310001(g)(1), Sept. 13, 1994, 108 Stat. 2104, related to sequestration with respect to Violent Crime Reduction Trust Fund, prior to repeal by Pub. L. 105–33, title X, §10204(a)(1), Aug. 5, 1997, 111 Stat. 702.
 
 #### Amendments ####
+
+**2025**—Par. (6)(D)(i). Pub. L. 119–4, §2211(1), substituted "10 months" for "8 months".
+
+Par. (6)(D)(ii). Pub. L. 119–4, §2211(2), substituted "2 months" for "4 months".
 
 **2024**—Par. (6)(D)(i). Pub. L. 118–42, §303(1), substituted "8 months" for "7 months".
 

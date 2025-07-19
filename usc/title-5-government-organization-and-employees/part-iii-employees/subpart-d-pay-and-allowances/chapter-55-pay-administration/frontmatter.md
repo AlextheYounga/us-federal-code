@@ -92,13 +92,15 @@ Sec.
 
 5543. Compensatory time off.
 
-5544. Wage-board overtime and Sunday rates; computation.
+5544. Wage-board overtime, Sunday rates, and other premium pay.
 
 5545. Night, standby, irregular, and hazardous duty differential.
 
 5545a. Availability pay for criminal investigators.
 
 5545b. Pay for firefighters.
+
+5545c. Incident response premium pay for employees engaged in wildland firefighting.
 
 5546. Pay for Sunday and holiday work.
 
@@ -169,6 +171,8 @@ Sec.
 #### **Editorial Notes** ####
 
 #### Amendments ####
+
+**2025**—Pub. L. 119–4, div. A, title VIII, §1807, Mar. 15, 2025, 139 Stat. 30, which directed amendment of the table of sections for subchapter V of this chapter by adding item 5545c and by amending item 5544 generally, resulting in substitution of ", Sunday rates, and other premium pay" for "and Sunday rates; computation", was executed to the table of sections for this chapter, to reflect the probable intent of Congress. Amendment is based on section 457(c) of H.R. 8998, from the 118th Congress, as passed by the House of Representatives on July 24, 2024, which was enacted into law by section 1807 of div. A of Pub. L. 119–4.
 
 **2016**—Pub. L. 114–328, div. A, title XI, §1134(c)(2), Dec. 23, 2016, 130 Stat. 2459, substituted "Advance payments for new appointees and employees relocating within the United States and its territories" for "Advance payments for new appointees" in item 5524a.
 
