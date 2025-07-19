@@ -32,7 +32,7 @@ Sec.
 
 3147. Grants for training, research, and technical assistance.
 
-3148. Repealed.
+3148. Investment priorities.
 
 3149. Grants for economic adjustment.
 
@@ -52,7 +52,15 @@ Sec.
 
 3154c. Direct expenditure or redistribution by recipient.
 
-3154d. Brightfields demonstration program.
+3154d. Renewable energy program.
+
+3154e. Workforce training grants.
+
+3154f. Congressional notification requirements.
+
+3154g. High-speed broadband deployment initiative.
+
+3154h. Critical Supply Chain Site Development grant program.
 
 #### SUBCHAPTER III—ELIGIBILITY; COMPREHENSIVE ECONOMIC DEVELOPMENT STRATEGIES ####
 
@@ -88,6 +96,12 @@ Sec.
 
 3197. Notification of reorganization.
 
+3198. Office of Tribal Economic Development.
+
+3199. Office of Disaster Recovery and Resilience.
+
+3200. Technical Assistance Liaisons.
+
 #### SUBCHAPTER VI—MISCELLANEOUS ####
 
 3211. Powers of Secretary.
@@ -122,4 +136,4 @@ Sec.
 
 3233. Authorization of appropriations for disaster economic recovery activities.
 
-3234. Funding for grants for planning and grants for administrative expenses.
+3234. Repealed.

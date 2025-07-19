@@ -106,7 +106,7 @@ For other definitions of other terms used in this subpart, see section 675 of th
 
 #### Amendment of Section ####
 
-Pub. L. 118–258, title I, §§106(a), (b), 107(a)(3)(B), 110(a), 111(a), 113(b), 117, 138 Stat. 2951, 2955, 2959, 2961, 2967, 2969, made numerous amendments to this section, effective Oct. 1, 2025, and applicable to payments under this part for calendar quarters beginning on or after such date, with delay permitted if either State legislation or tribal action is required to meet additional requirements. After such effective date, this section will read as follows:
+Pub. L. 118–258, title I, §§106(a), (b), 107(a)(3)(B), 110(a), 111(a), 113(b), 117, 138 Stat. 2951, 2955, 2959, 2961, 2967, 2969, made numerous amendments to this section, effective Oct. 1, 2025, and applicable to payments under this part for calendar quarters beginning on or after such date, with delay permitted if either State legislation or tribal action is required to meet additional requirements. After such effective date, text of this section will read as follows:
 
 #### *(a) In general* ####
 

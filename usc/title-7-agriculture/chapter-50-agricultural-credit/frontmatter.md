@@ -306,7 +306,7 @@ Sec.
 
 2009aa–12. Authorization of appropriations.
 
-2009aa–13. Termination of authority.
+2009aa–13. Repealed.
 
 #### SUBCHAPTER VII—NORTHERN GREAT PLAINS REGIONAL AUTHORITY ####
 
@@ -338,7 +338,7 @@ Sec.
 
 2009bb–12. Authorization of appropriations.
 
-2009bb–13. Termination of authority.
+2009bb–13. Repealed.
 
 #### SUBCHAPTER VIII—RURAL BUSINESS INVESTMENT PROGRAM ####
 

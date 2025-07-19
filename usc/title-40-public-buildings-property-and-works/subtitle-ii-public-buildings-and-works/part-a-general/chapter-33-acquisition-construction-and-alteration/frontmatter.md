@@ -40,9 +40,13 @@ Sec.
 
 3318. 1 Availability of Federal building project information.
 
+3319. Interagency space coordination.
+
 #### **Editorial Notes** ####
 
 #### Amendments ####
+
+**2025**—Pub. L. 118–272, div. B, title III, §2304(e)(2), Jan. 4, 2025, 138 Stat. 3224, added item 3319.
 
 **2022**—Pub. L. 117–202, §3(b), Oct. 17, 2022, 136 Stat. 2226, added item 3313 and struck out former item 3313 "Use of energy efficient lighting fixtures and bulbs".
 

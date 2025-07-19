@@ -156,6 +156,8 @@ Sec.
 
 579f. Budgetary evaluation metrics and transparency; public participation.
 
+579g. Annual reports.
+
 #### SUBCHAPTER II—PAY AND ALLOWANCES; TRAVELING EXPENSES AND SUBSISTENCE ####
 
 581. Hiring special means of transportation.
@@ -191,6 +193,10 @@ Sec.
 598. Resettlement of displaced families, individuals, and business concerns.
 
 598a. Property acquisition.
+
+598b. Minimum real estate interest.
+
+598c. Easements for hurricane and storm damage reduction projects.
 
 #### SUBCHAPTER IV—PARTICULAR WORK OR IMPROVEMENTS ####
 
