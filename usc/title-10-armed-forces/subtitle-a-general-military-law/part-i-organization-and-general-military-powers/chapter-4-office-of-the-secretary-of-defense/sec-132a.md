@@ -54,15 +54,7 @@ Pub. L. 118–159, div. A, title IX, §902(c), Dec. 23, 2024, 138 Stat. 2026, pr
 
 #### Transfer of Duties and Responsibilities of the Chief Management Officer ####
 
-Pub. L. 116–283, div. A, title IX, §901(b)–(d), Jan. 1, 2021, 134 Stat. 3794, 3795, as amended by Pub. L. 117–81, div. A, title IX, §904, Dec. 27, 2021, 135 Stat. 1871, provided for the transfer of duties and responsibilites, personnel, functions, and assets of the Chief Management Officer not later than one year after Jan. 1, 2021.
-
-#### Qualifications for Appointment as Deputy Chief Management Officer of a Military Department ####
-
-Pub. L. 115–232, div. A, title IX, §916, Aug. 13, 2018, 132 Stat. 1924, provided for qualifications for Deputy Chief Managament Officer appointments in the Departments of the Army, Navy and Air Force.
-
-#### Execution of Authority in Subsection (c) ####
-
-Pub. L. 115–232, div. A, title IX, §921(a)(2)(B), Aug. 13, 2018, 132 Stat. 1927, required the Chief Management Officer of the Department of Defense to do certain actions to execute authority in subsection (c) of former section 132a of this title.
+Pub. L. 116–283, div. A, title IX, §901(b)–(d), Jan. 1, 2021, 134 Stat. 3794, 3795, as amended by Pub. L. 117–81, div. A, title IX, §904, Dec. 27, 2021, 135 Stat. 1871, provided for the transfer of duties and responsibilities, personnel, functions, and assets of the Chief Management Officer of the Department of Defense not later than one year after Jan. 1, 2021.
 
 #### Service of Incumbent Deputy Chief Management Officer as Chief Management Officer Upon Commencement of Latter Position Without Further Appointment ####
 

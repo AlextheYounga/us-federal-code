@@ -10,7 +10,7 @@ Sec.
 
 4704. Defense contractors: listing of suitable employment openings with local employment service office.
 
-4705. Notice of contract cancellation or termination relating to remote or isolated installations
+4705. Notice of contract cancellation or termination relating to remote or isolated installations.
 
 #### **Editorial Notes** ####
 

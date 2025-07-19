@@ -44,7 +44,7 @@ Sec.
 
 4127. Defense Innovation Unit.
 
-4128. 1 . Laboratory Quality Enhancement Program.
+4128. 1 Laboratory Quality Enhancement Program.
 
 4128. 1 Joint Federated Assurance Center.
 

@@ -44,7 +44,7 @@
 
 #### References in Text ####
 
-Section 222b of this title, referred to in subsec. (c)(1), was repealed by Pub. L. 118–159, div. A, title XVI, §1649(b)(1), Dec. 23, 2024, 138 Stat. 2199. See section 5513 of this title.
+Section 222b of this title, referred to in subsec. (c)(1), was repealed by Pub. L. 118–159, div. A, title XVI, §1649(b)(1), Dec. 23, 2024, 138 Stat. 2199. For provisions similar to those in former section 222b of this title, see section 5513 of this title.
 
 #### Codification ####
 

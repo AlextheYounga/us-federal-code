@@ -24,4 +24,4 @@ The date of the enactment of the National Defense Authorization Act for Fiscal Y
 
 #### Amendments ####
 
-**2024**—Pub. L. 118–159 renumbered section 505 of this title, relating to establishment of an electromagnetic spectrum enterprise operational lead for joint electromagnetic spectrum operations, as this section.
+**2024**—Pub. L. 118–159 renumbered section 505 of this title, relating to establishment of an Electromagnetic Spectrum Enterprise Operational Lead for Joint Electromagnetic Spectrum Operations, as this section.

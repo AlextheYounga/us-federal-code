@@ -30,7 +30,7 @@ Sec.
 
 #### Amendments ####
 
-**2024**—Pub. L. 118–159, div. A, title V, 595(a), Dec. 23, 2024, 138 Stat. 1919, added item 2164b. Amendment was made pursuant to operation of section 102 of this title.
+**2024**—Pub. L. 118–159, div. A, title V, §595(a), Dec. 23, 2024, 138 Stat. 1919, added item 2164b. Amendment was made pursuant to operation of section 102 of this title.
 
 **2023**—Pub. L. 118–31, div. A, title V, §589(a), Dec. 22, 2023, 137 Stat. 284, added item 2164a. Amendment was made pursuant to operation of section 102 of this title.
 

@@ -1,4 +1,4 @@
-### §430c. Senior intelligence oversight official ###
+### §430c. Senior intelligence oversight official <sup><a href="#430b_1_target" name="430b_1">1</a></sup> ###
 
 (a) Establishment.—The Secretary of Defense, or a designee of the Secretary determined by regulations prescribed by the Secretary, shall designate a civilian employee of the Department of Defense in the Senior Executive Service to serve as the Senior Intelligence Oversight Official.
 
@@ -17,3 +17,5 @@
 #### Review of Regulations ####
 
 Pub. L. 118–159, div. A, title IX, §921(b), Dec. 23, 2024, 138 Stat. 2036, provided that: "The Secretary of Defense shall review and update, as appropriate, Department of Defense Directive 5148.13, and any associated or successor regulation or directive, to conform to section 430c of title 10, United States Code, as added by subsection (a)."
+
+[<sup>1</sup> So in original. Appears in text capitalized as "Senior Intelligence Oversight Official".](#430c_1)
