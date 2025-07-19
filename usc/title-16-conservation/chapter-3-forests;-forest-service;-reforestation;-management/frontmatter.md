@@ -74,13 +74,19 @@ Sec.
 
 557b, 558. Omitted or Repealed.
 
-558a. Volunteers in the National Forests Program.
+558a. Purpose.
 
-558b. Incidental expenses of program volunteers.
+558b. Definition of Secretaries.
 
-558c. Employment status of volunteers.
+558c. Authorization.
 
-558d. Authorization of appropriations.
+558d. Incidental expenses.
+
+558e. .Consideration as Federal employee.
+
+558f. Promotion of volunteer opportunities.
+
+558g. Liability insurance.
 
 559. Arrests by employees of Forest Service for violations of laws and regulations.
 
