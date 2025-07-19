@@ -46,6 +46,8 @@ Sec.
 
 8679. Construction of vessels in foreign shipyards: prohibition.
 
+8679a. Contracting with shipyards controlled by a foreign adversary country: prohibition.
+
 8680. Overhaul, repair, etc. of vessels in foreign shipyards: restrictions.
 
 8681. Repair or maintenance of naval vessels: handling of hazardous waste.
@@ -89,6 +91,8 @@ Sec.
 #### **Editorial Notes** ####
 
 #### Amendments ####
+
+**2024**—Pub. L. 118–159, div. A, title X, §1025, Dec. 23, 2024, 138 Stat. 2055, added item 8679a. Amendment was made pursuant to operation of section 102 of this title.
 
 **2023**—Pub. L. 118–31, div. A, title XVIII, §1801(a)(39), Dec. 22, 2023, 137 Stat. 685, renumbered item 8696 "Battle force ship employment, maintenance, and manning baseline plans" as 8697. Amendment was made pursuant to operation of section 102 of this title.
 

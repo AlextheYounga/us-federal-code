@@ -122,15 +122,151 @@ In this subsection—
 
 The Administrator, in coordination with the Administrator of General Services, shall provide access to and manage the distribution of surplus property, and foreign excess property returned to a State for handling as surplus property, owned by the United States under chapter 7 of title 40, to small business concerns owned and controlled by veterans (as verified by the Secretary of Veterans Affairs under section 8127 of title 38) pursuant to a memorandum of agreement between the Administrator, the Administrator of General Services, and the head of the applicable state agency for surplus properties and in accordance with section 549 of title 40.
 
-(Pub. L. 85–536, §2[32], as added Pub. L. 106–50, title II, §201(b)(2), Aug. 17, 1999, 113 Stat. 235; amended Pub. L. 108–447, div. K, title I, §145, Dec. 8, 2004, 118 Stat. 3455; Pub. L. 110–186, title I, §§102, 104, Feb. 14, 2008, 122 Stat. 624, 625; Pub. L. 115–416, §2, Jan. 3, 2019, 132 Stat. 5436.)
+#### (h) Boots to Business Program ####
+
+#### (1) Covered individual defined ####
+
+In this subsection, the term "covered individual" means—
+
+(A) an individual who is participating in the Transition Assistance Program established under section 1144 of title 10, subject to an availability determination by the Secretary of the military department concerned;
+
+(B) a servicemember in the National Guard or Reserves not on active duty.
+
+(C) an individual who—
+
+(i) served on active duty in any branch of the Armed Forces, including the National Guard or Reserves; and
+
+(ii) was discharged or released from such service under conditions other than dishonorable; or
+
+(D) a spouse or dependent of an individual described in subparagraph (A), (B), or (C).
+
+#### (2) Establishment ####
+
+During the period beginning on December 23, 2024, and ending on September 30, 2028, the Administrator shall carry out a program to be known as the "Boots to Business Program" to provide entrepreneurship training to covered individuals.
+
+#### (3) Goals ####
+
+The goals of the Boots to Business Program are to—
+
+(A) provide assistance and in-depth training to covered individuals interested in business ownership; and
+
+(B) provide covered individuals with the tools, skills, and knowledge necessary to identify a business opportunity, draft a business plan, identify sources of capital, connect with local resources for small business concerns, and start up a small business concern.
+
+#### (4) Program components ####
+
+#### (A) In general ####
+
+The Boots to Business Program may include—
+
+(i) a presentation providing exposure to the considerations involved in self-employment and ownership of a small business concern;
+
+(ii) an online, self-study course focused on the basic skills of entrepreneurship, the language of business, and the considerations involved in self-employment and ownership of a small business concern;
+
+(iii) an in-person classroom instruction component providing an introduction to the foundations of self-employment and ownership of a small business concern; and
+
+(iv) in-depth training delivered through online instruction, including an online course that leads to the creation of a business plan.
+
+#### (B) Collaboration ####
+
+The Administrator may—
+
+(i) collaborate with public and private entities to develop course curricula for the Boots to Business Program; and
+
+(ii) modify program components in coordination with entities participating in a Warriors in Transition program, as defined in section 738(e) of the National Defense Authorization Act for Fiscal Year 2013 (10 U.S.C. 1071 note).
+
+#### (C) Use of resource partners and district offices ####
+
+#### (i) In general ####
+
+The Administrator shall—
+
+(I) ensure that Veteran Business Outreach Centers regularly participate, on a nationwide basis, in the Boots to Business Program; and
+
+(II) to the maximum extent practicable, use district offices of the Administration and a variety of other resource partners and entities in administering the Boots to Business Program.
+
+#### (ii) Grant authority ####
+
+In carrying out clause (i), the Administrator may make grants, subject to the availability of appropriations in advance, to Veteran Business Outreach Centers, other resource partners, or other entities to carry out components of the Boots to Business Program.
+
+#### (D) Availability to Department of Defense and the Department of Labor ####
+
+The Administrator shall make available to the Secretary of Defense and the Secretary of Labor information regarding the Boots to Business Program, including all course materials and outreach materials related to the Boots to Business Program, for inclusion on the websites of the Department of Defense and the Department of Labor relating to the Transition Assistance Program, in the Transition Assistance Program manual, and in other relevant materials available for distribution from the Secretary of Defense and the Secretary of Labor.
+
+#### (E) Availability to Department of Veterans Affairs ####
+
+In consultation with the Secretary of Veterans Affairs, the Administrator shall make available for distribution and display on the website of the Department of Veterans Affairs and at local facilities of the Department of Veterans Affairs outreach materials regarding the Boots to Business Program, which shall, at a minimum—
+
+(i) describe the Boots to Business Program and the services provided; and
+
+(ii) include eligibility requirements for participating in the Boots to Business Program.
+
+#### (F) Availability to other participating agencies ####
+
+The Administrator shall ensure information regarding the Boots to Business Program, including all course materials and outreach materials related to the Boots to Business Program, is made available to other participating agencies in the Transition Assistance Program and upon request of other agencies.
+
+#### (5) Competitive bidding procedures ####
+
+The Administration shall use relevant competitive bidding procedures with respect to any contract or cooperative agreement executed by the Administration under the Boots to Business Program.
+
+#### (6) Publication of notice of funding opportunity ####
+
+Not later than 30 days before the deadline for submitting applications for any funding opportunity under the Boots to Business Program, the Administration shall publish a notice of the funding opportunity.
+
+#### (7) Report ####
+
+Not later than 180 days after December 23, 2024, and not less frequently than annually thereafter, the Administrator shall submit to the Committee on Small Business and Entrepreneurship of the Senate and the Committee on Small Business of the House of Representatives a report on the performance and effectiveness of the Boots to Business Program, which—
+
+(A) may be included as part of another report submitted to such committees by the Administrator related to the Office of Veterans Business Development; and
+
+(B) shall summarize available information relating to—
+
+(i) grants awarded under paragraph (4)(C);
+
+(ii) the total cost of the Boots to Business Program;
+
+(iii) the number of program participants using each component of the Boots to Business Program;
+
+(iv) the completion rates for each component of the Boots to Business Program;
+
+(v) to the extent possible—
+
+(I) the demographics of program participants, to include gender, age, race, ethnicity, and relationship to military;
+
+(II) the number of program participants that connect with a district office of the Administration, a Veteran Business Outreach Center, or another resource partner of the Administration;
+
+(III) the number of program participants that start a small business concern;
+
+(IV) the results of the Boots to Business and Boots to Business Reboot course quality surveys conducted by the Office of Veterans Business Development before and after attending each of those courses, including a summary of any comments received from program participants;
+
+(V) the results of the Boots to Business Program outcome surveys conducted by the Office of Veterans Business Development, including a summary of any comments received from program participants; and
+
+(VI) the results of other germane participant satisfaction surveys;
+
+(C) an evaluation of the overall effectiveness of the Boots to Business Program based on each geographic region covered by the Administration during the most recent fiscal year;
+
+(D) an assessment of additional performance outcome measures for the Boots to Business Program, as identified by the Administrator;
+
+(E) any recommendations of the Administrator for improvement of the Boots to Business Program, which may include expansion of the types of individuals who are covered individuals;
+
+(F) an explanation of how the Boots to Business Program has been integrated with other transition programs and related resources of the Administration and other Federal agencies; and
+
+(G) any additional information the Administrator determines necessary.
+
+(Pub. L. 85–536, §2[32], as added Pub. L. 106–50, title II, §201(b)(2), Aug. 17, 1999, 113 Stat. 235; amended Pub. L. 108–447, div. K, title I, §145, Dec. 8, 2004, 118 Stat. 3455; Pub. L. 110–186, title I, §§102, 104, Feb. 14, 2008, 122 Stat. 624, 625; Pub. L. 115–416, §2, Jan. 3, 2019, 132 Stat. 5436; Pub. L. 118–159, div. A, title VIII, §873(a), Dec. 23, 2024, 138 Stat. 2008.)
 
 #### **Editorial Notes** ####
+
+#### References in Text ####
+
+Section 738(e) of the National Defense Authorization Act for Fiscal Year 2013, referred to in subsec. (h)(4)(B)(ii), is section 738(e) of Pub. L. 112–239, which is set out in a note under section 1071 of Title 10, Armed Forces.
 
 #### Prior Provisions ####
 
 A prior section 2[32] of Pub. L. 85–536 was renumbered section 2[49] and is set out as a note under section 631 of this title.
 
 #### Amendments ####
+
+**2024**—Subsec. (h). Pub. L. 118–159 added subsec. (h).
 
 **2019**—Subsec. (g). Pub. L. 115–416 added subsec. (g).
 

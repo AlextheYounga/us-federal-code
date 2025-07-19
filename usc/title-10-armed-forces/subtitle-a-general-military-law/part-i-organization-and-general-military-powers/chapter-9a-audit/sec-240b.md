@@ -50,8 +50,6 @@
 
 (viii) An identification of the manner in which the corrective action plan or plans of each department, agency, component, or element of the Department of Defense, and the corrective action plan of the Department as a whole, support the National Defense Strategy (NDS) of the United States.
 
-(ix) A description of the incentives available pursuant to the guidance required by section 1004(a) of the William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021, including a detailed explanation of how such incentives were provided during the fiscal year covered by the report.
-
 (2) Semiannual briefings.—(A) Not later than January 31 and July 31 each year, the Under Secretary of Defense (Comptroller) and the comptrollers of the military departments shall provide a briefing to the congressional defense committees on the status of the corrective action plan.
 
 (B) Not later than January 31 and July 31 each year, the Under Secretary of Defense (Comptroller) and the comptrollers of the military departments shall provide a briefing to the congressional defense committees on the status of the corrective action plan.
@@ -60,19 +58,17 @@
 
 (c) Selection of Audit Remediation Services.—The selection of audit remediation service providers shall be based, among other appropriate criteria, on qualifications, relevant experience, and capacity to develop and implement corrective action plans to address internal control and compliance deficiencies identified during a financial statement or program audit.
 
-(Added and amended Pub. L. 115–91, div. A, title X, §1002(c)(1)–(3), Dec. 12, 2017, 131 Stat. 1538, §252; renumbered §240b and amended Pub. L. 115–232, div. A, title X, §1002(a)(1)(A), (2)–(c), Aug. 13, 2018, 132 Stat. 1945, 1946; Pub. L. 116–92, div. A, title X, §§1003, 1008–1009(b), Dec. 20, 2019, 133 Stat. 1571, 1575, 1576; Pub. L. 116–283, div. A, title X, §§1003, 1004(b), 1081(a)(14), Jan. 1, 2021, 134 Stat. 3836, 3837, 3871; Pub. L. 117–81, div. A, title X, §1081(a)(7), Dec. 27, 2021, 135 Stat. 1920; Pub. L. 118–31, div. A, title IX, §901(c), title X, §1061(h), Dec. 22, 2023, 137 Stat. 354, 400.)
+(Added and amended Pub. L. 115–91, div. A, title X, §1002(c)(1)–(3), Dec. 12, 2017, 131 Stat. 1538, §252; renumbered §240b and amended Pub. L. 115–232, div. A, title X, §1002(a)(1)(A), (2)–(c), Aug. 13, 2018, 132 Stat. 1945, 1946; Pub. L. 116–92, div. A, title X, §§1003, 1008–1009(b), Dec. 20, 2019, 133 Stat. 1571, 1575, 1576; Pub. L. 116–283, div. A, title X, §§1003, 1004(b), 1081(a)(14), Jan. 1, 2021, 134 Stat. 3836, 3837, 3871; Pub. L. 117–81, div. A, title X, §1081(a)(7), Dec. 27, 2021, 135 Stat. 1920; Pub. L. 118–31, div. A, title IX, §901(c), title X, §1061(h), Dec. 22, 2023, 137 Stat. 354, 400; Pub. L. 118–159, div. A, title X, §1002, Dec. 23, 2024, 138 Stat. 2047.)
 
 #### **Editorial Notes** ####
-
-#### References in Text ####
-
-Section 1004(a) of the William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021, referred to in subsec. (b)(1)(B)(xiii), is section 1004(a) of Pub. L. 116–283, which is set out as a note below.
 
 #### Codification ####
 
 Subsec. (a) of this section, as added by Pub. L. 115–91, is based on text of subsec. (a) of section 1003 of Pub. L. 111–84, div. A, title X, Oct. 28, 2009, 123 Stat. 2439, which was formerly set out as a note under section 2222 of this title, prior to repeal by Pub. L. 115–91, div. A, title X, §1002(c)(4), Dec. 12, 2017, 131 Stat. 1540.
 
 #### Amendments ####
+
+**2024**—Subsec. (b)(1)(B)(ix). Pub. L. 118–159 struck out cl. (ix) which read as follows: "A description of the incentives available pursuant to the guidance required by section 1004(a) of the William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021, including a detailed explanation of how such incentives were provided during the fiscal year covered by the report."
 
 **2023**—Subsec. (a)(1). Pub. L. 118–31, §901(c)(1), substituted "The Under Secretary of Defense (Comptroller) shall, in consultation with the Performance Improvement Officer of the Department of Defense," for "The Chief Management Officer of the Department of Defense shall, in consultation with the Under Secretary of Defense (Comptroller),".
 

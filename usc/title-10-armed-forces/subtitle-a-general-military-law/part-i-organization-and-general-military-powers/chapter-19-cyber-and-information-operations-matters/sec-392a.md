@@ -86,7 +86,7 @@
 
 (viii) To coordinate and consult with stakeholders in the cyberspace domain across the Department in order to identify other issues on cyberspace for the attention of senior leadership of the Department.
 
-(ix) On behalf of the Principal Cyber Advisor, to lead the cross-functional team established pursuant to 932(c)(3) <sup><a href="#392a_1_target" name="392a_1">1</a></sup> of the National Defense Authorization Act for Fiscal Year 2014 (10 U.S.C. 2224 note) <sup><a href="#392a_2_target" name="392a_2">2</a></sup> in order to synchronize and coordinate military and civilian cyber forces and activities of the Department.
+(ix) On behalf of the Principal Cyber Advisor, to lead the cross-functional team established pursuant to section 932(c)(3) of the National Defense Authorization Act for Fiscal Year 2014 (10 U.S.C. 2224 note) <sup><a href="#392a_1_target" name="392a_1">1</a></sup> in order to synchronize and coordinate military and civilian cyber forces and activities of the Department.
 
 (c) Cyber Governance Structures and Principal Cyber Advisors on Military Cyber Force Matters.—
 
@@ -144,7 +144,7 @@
 
 (5) Principal Cyber Advisors' Briefing to Congress.—Not later than February 1, 2021, and biannually thereafter, each Principal Cyber Advisor under paragraph (1) shall brief the Committees on Armed Services of the Senate and House of Representatives on that Advisor's activities and ability to perform the functions specified in paragraph (2).
 
-(Added and amended Pub. L. 117–263, div. A, title XV, §1501(b), Dec. 23, 2022, 136 Stat. 2877; Pub. L. 118–31, div. A, title XVIII, §1801(a)(5), Dec. 22, 2023, 137 Stat. 683.)
+(Added and amended Pub. L. 117–263, div. A, title XV, §1501(b), Dec. 23, 2022, 136 Stat. 2877; Pub. L. 118–31, div. A, title XVIII, §1801(a)(5), Dec. 22, 2023, 137 Stat. 683; Pub. L. 118–159, div. A, title XVII, §1701(a)(8), Dec. 23, 2024, 138 Stat. 2203.)
 
 #### **Editorial Notes** ####
 
@@ -165,6 +165,8 @@ The text of section 905 of Pub. L. 116–92, formerly set out as a note under se
 The text of section 1657 of Pub. L. 116–92, formerly set out as a note under section 391 of this title, which was transferred to this section, redesignated as subsec. (c), and amended by Pub. L. 117–263, §1501(b)(4), was based on Pub. L. 116–92, div. A, title XVI, §1657, Dec. 20, 2019, 133 Stat. 1767.
 
 #### Amendments ####
+
+**2024**—Subsec. (b)(3)(B)(ix). Pub. L. 118–159 inserted "section" before "932(c)(3)".
 
 **2023**—Subsec. (b)(2)(B). Pub. L. 118–31, §1801(a)(5)(A), substituted "designated" for "designed" in introductory provisions.
 
@@ -200,6 +202,4 @@ Subsec. (c)(6)(B). Pub. L. 117–263, §1501(b)(4)(B)(ii), (v), substituted "sub
 
 Subsec. (c)(6)(C). Pub. L. 117–263, §1501(b)(4)(B)(ii), substituted "subparagraph (A)" for "paragraph (1)".
 
-[<sup>1</sup> So in original. Probably should be preceded by "section".](#392a_1)
-
-[<sup>2</sup> See References in Text note below.](#392a_2)
+[<sup>1</sup> See References in Text note below.](#392a_1)

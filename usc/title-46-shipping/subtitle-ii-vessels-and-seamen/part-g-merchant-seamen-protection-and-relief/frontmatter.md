@@ -1,4 +1,5 @@
-### Part G—Merchant Seamen Protection and Relief ###
+Part G—Merchant Seamen Protection and Relief
+----------
 
 #### Historical and Revision Notes ####
 

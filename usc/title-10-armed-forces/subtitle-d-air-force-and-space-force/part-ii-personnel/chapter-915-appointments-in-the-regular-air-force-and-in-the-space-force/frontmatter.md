@@ -4,11 +4,11 @@ Sec.
 
 9151. Commissioned officer grades.
 
-9160. Warrant officers: original appointment; qualifications.
-
 #### **Editorial Notes** ####
 
 #### Amendments ####
+
+**2024**—Pub. L. 118–159, div. A, title V, §509D(b), Dec. 23, 2024, 138 Stat. 1874, struck out item 9160 "Warrant officers: original appointment; qualifications".
 
 **2023**—Pub. L. 118–31, div. A, title XVII, §1721(a)(5)(A), Dec. 22, 2023, 137 Stat. 665, substituted "APPOINTMENTS IN THE REGULAR AIR FORCE AND IN THE SPACE FORCE" for "APPOINTMENTS IN THE REGULAR AIR FORCE AND THE REGULAR SPACE FORCE" in chapter heading.
 

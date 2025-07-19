@@ -1,14 +1,10 @@
 ### §867a. Art. 67a. Review by the Supreme Court ###
 
-(a) Decisions of the United States Court of Appeals for the Armed Forces are subject to review by the Supreme Court by writ of certiorari as provided in section 1259 of title 28. The Supreme Court may not review by a writ of certiorari under this section any action of the United States Court of Appeals for the Armed Forces in refusing to grant a petition for review.
+(a) Decisions of the United States Court of Appeals for the Armed Forces are subject to review by the Supreme Court by writ of certiorari as provided in section 1259 of title 28.
 
 (b) The accused may petition the Supreme Court for a writ of certiorari without prepayment of fees and costs or security therefor and without filing the affidavit required by section 1915(a) of title 28.
 
 (Added Pub. L. 101–189, div. A, title XIII, §1301(b), Nov. 29, 1989, 103 Stat. 1569; amended Pub. L. 103–337, div. A, title IX, §924(c)(1), Oct. 5, 1994, 108 Stat. 2831; Pub. L. 114–328, div. E, title LIX, §5332, Dec. 23, 2016, 130 Stat. 2935; Pub. L. 118–31, div. A, title V, §533(a)(2)(A), Dec. 22, 2023, 137 Stat. 261.)
-
-#### Amendment of Subsection (a) ####
-
-Pub. L. 118–31, div. A, title V, §533(a)(2)(A), (b), Dec. 22, 2023, 137 Stat. 261, provided that, effective on the date that is one year after Dec. 22, 2023, and applicable with respect to any action of the United States Court of Appeals for the Armed Forces in granting or refusing to grant a petition for review submitted to such Court for the first time on or after Dec. 22, 2023, with certain provisos, subsection (a) of this section is amended to striking out at end "The Supreme Court may not review by a writ of certiorari under this section any action of the United States Court of Appeals for the Armed Forces in refusing to grant a petition for review." See 2023 Amendment note below.
 
 #### **Editorial Notes** ####
 

@@ -16,7 +16,7 @@ Sec.
 
 2855. Law applicable to contracts for architectural and engineering services and construction design.
 
-2856. Covered military unaccompanied housing: design standards. 1
+2856. Military unaccompanied housing: standards.
 
 2856a. Covered military unaccompanied housing: waivers of covered privacy and configuration standards.
 
@@ -53,6 +53,8 @@ Sec.
 #### **Editorial Notes** ####
 
 #### Amendments ####
+
+**2024**—Pub. L. 118–159, div. A, title XVII, §1701(a)(30), Dec. 23, 2024, 138 Stat. 2204, substituted "Military unaccompanied housing: standards" for "Covered military unaccompanied housing: design standards" in item 2856.
 
 **2023**—Pub. L. 118–31, div. B, title XXVIII, §§2831(a)(2), 2832(a), 2833(b), Dec. 22, 2023, 137 Stat. 753–755, substituted "Covered military unaccompanied housing: design standards" for "Military unaccompanied housing: local comparability of floor areas" in item 2856 and added items 2856a and 2856b. Addition of items 2856a and 2856b was made pursuant to operation of section 102 of this title.
 
@@ -106,6 +108,62 @@ Pub. L. 108–375, div. B, title XXVIII, §2804(a)(2), Oct. 28, 2004, 118 Stat. 
 
 #### **Statutory Notes and Related Subsidiaries** ####
 
+#### Analysis of Housing Availability for Critical Civilian and Contractor Personnel Near Rural Military Installations ####
+
+Pub. L. 118–159, div. B, title XXVIII, §2828, Dec. 23, 2024, 138 Stat. 2258, provided that:
+
+"(a) In General.—Not later than one year after the date of the enactment of this Act [Dec. 23, 2024], the Secretary of Defense shall revise the Department of Defense Manual 4165.63–M titled 'DoD Housing Management' issued October 28, 2010, to require an analysis of the availability of suitable housing located in close proximity to a military installation in a rural area for civilian personnel and defense contractors that provide critical functions for the operations of such military installation, as determined by the Secretary.
+
+"(b) Definitions.—In this section:
+
+"(1) The term 'military installation' has the meaning given such term in section 2801 of title 10, United States Code.
+
+"(2) The term 'rural area' has the meaning given such term in section 2391 of such title."
+
+#### Digital Facilities Management Systems for Military Departments ####
+
+Pub. L. 118–159, div. B, title XXVIII, §2829, Dec. 23, 2024, 138 Stat. 2258, provided that:
+
+"(a) Digital Facilities Management Systems for Military Departments.—
+
+"(1) Criteria.—Not later than 180 days after the date of the enactment of this Act [Dec. 23, 2024], the Assistant Secretary of Defense for Energy, Installations, and Environment, in coordination with each covered Assistant Secretary, shall develop criteria for a new or established digital facilities management system for each military department. Each such system shall have the capability to, with respect to each military installation—
+
+"(A) track conditions of individual facilities, applying the uniform index developed under section 2838 of the National Defense Authorization Act for Fiscal Year 2024 (Public Law 118–31) [set out as a note below], for each military installation under the jurisdiction of each such covered Assistant Secretary;
+
+"(B) plan for maintenance actions for each facility; and
+
+"(C) generate reports that include data on—
+
+"(i) the type and function of each facility;
+
+"(ii) the overall condition of each facility;
+
+"(iii) planned maintenance for each facility during a five-year period following the date of submission of the criteria;
+
+"(iv) conditions that may lead to a failure to maintain minimum physical security or configuration standards for members of the Armed Forces during the 12-month period following the date of submission of the criteria; and
+
+"(v) the date on which the facility will have been in use for 40 years.
+
+"(2) Briefing.—Not later than 30 days after the date on which the Assistant Secretary of Defense for Energy, Installations, and Environment develops the criteria required under paragraph (1), the Assistant Secretary shall provide to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] a briefing on such criteria.
+
+"(3) Implementation.—Not later than one year after the date on which the Assistant Secretary of Defense for Energy, Installations, and Environment develops the criteria required under paragraph (1), each covered Assistant Secretary shall implement a digital facilities management system for the military department under the jurisdiction of that covered Assistant Secretary that meets the criteria described in paragraph (1).
+
+"(b) Definitions.—In this section:
+
+"(1) The term 'covered Assistant Secretary' means—
+
+"(A) the Assistant Secretary of the Army for Installations, Energy, and Environment;
+
+"(B) the Assistant Secretary of the Navy for Energy, Installations, and Environment; and
+
+"(C) the Assistant Secretary of the Air Force for Installations, Environment, and Energy [probably should be "Energy, Installations, and Environment"].
+
+"(2) The term 'facility' has the meaning given in section 2801 of title 10, United States Code.
+
+"(3) The term 'military department' has the meaning given in section 101 of such title.
+
+"(4) The term 'military installation' has the meaning given in section 2801 of such title."
+
 #### Establishment of Civilian Employees for Oversight of Covered Military Unaccompanied Housing ####
 
 Pub. L. 118–31, div. B, title XXVIII, §2836, Dec. 22, 2023, 137 Stat. 759, provided that:
@@ -136,7 +194,9 @@ Pub. L. 118–31, div. B, title XXVIII, §2836, Dec. 22, 2023, 137 Stat. 759, pr
 
 #### Maintenance Work Order Management Process for Covered Military Unaccompanied Housing ####
 
-Pub. L. 118–31, div. B, title XXVIII, §2837, Dec. 22, 2023, 137 Stat. 759, provided that:
+Pub. L. 118–159, div. B, title XXVIII, §2826(b), Dec. 23, 2024, 138 Stat. 2258, provided that: "The Secretary of Defense shall issue guidance with respect to the requirements of such subsection [section 2837(b) of Pub. L. 118–31, set out below] (as amended by subsection (a)) not later than 60 days after the date of the enactment of this Act [Dec. 23, 2024]."
+
+Pub. L. 118–31, div. B, title XXVIII, §2837, Dec. 22, 2023, 137 Stat. 759, as amended by Pub. L. 118–159, div. B, title XXVIII, §2826(a), Dec. 23, 2024, 138 Stat. 2257, provided that:
 
 "(a) In General.—Not later than 60 days after the date of the enactment of this Act [Dec. 22, 2023], the Secretary of Defense shall issue rules to establish for each military department a process associated with maintenance work order management for covered military unaccompanied housing under the jurisdiction of such military department that is—
 
@@ -148,9 +208,11 @@ Pub. L. 118–31, div. B, title XXVIII, §2837, Dec. 22, 2023, 137 Stat. 759, pr
 
 "(1) quality assurance for maintenance completed;
 
-"(2) communication of maintenance progress and resolution with individuals responsible for the management of the covered military unaccompanied housing and the residents of such housing; and
+"(2) a digital system through which residents of covered military unaccompanied housing may submit to individuals responsible for the management of such housing requests for maintenance work orders;
 
-"(3) standardized performance metrics, such as the timeliness of completion of maintenance work orders.
+"(3) communication of maintenance progress and resolution with individuals responsible for the management of the covered military unaccompanied housing and the residents of such housing; and
+
+"(4) standardized performance metrics, such as the timeliness of completion of maintenance work orders.
 
 "(c) Administration.—The Secretary of each military department shall administer the process for maintenance work order management required under subsection (a) for the military department under the jurisdiction of such Secretary and shall issue or update relevant guidance as necessary.
 
@@ -209,5 +271,3 @@ Pub. L. 117–81, div. B, title XXVIII, §2815, Dec. 27, 2021, 135 Stat. 2193, p
 "(A) a cost estimate to make any improvements recommended pursuant to the assessment under subsection (a), disaggregated by military department and installation; and
 
 "(B) an estimated schedule for making such improvements."
-
-[<sup>1</sup> So in original. Does not conform to section catchline.](#I_1)

@@ -8,27 +8,27 @@ Sec.
 
 222a. Unfunded priorities of the armed forces and combatant commands: annual report.
 
-222b. Unfunded priorities of the Missile Defense Agency: annual report.
+[222b. Repealed.]
 
 222c. Armed forces: Out-Year Unconstrained Total Munitions Requirements; Out-Year inventory numbers.
 
 222d. Annual report on industrial base constraints for munitions.
 
-222e. Programs, projects, and activities that were internally changed in the submission of the President's budget: annual report.
+222e. 1 Programs, projects, and activities that were internally changed in the submission of the President's budget: annual report.
 
-222e. Unfunded priorities of the Under Secretary of Defense for Research and Engineering: annual report.
+222e. 1 Unfunded priorities of the Under Secretary of Defense for Research and Engineering: annual report.
 
-223. Ballistic missile defense programs: program elements.
+[223. Repealed.]
 
 223a. Ballistic missile defense programs: procurement.
 
-224. Ballistic missile defense programs: display of amounts for research, development, test, and evaluation.
-
-225. Acquisition accountability reports on the ballistic missile defense system.
+[224, 225. Repealed.]
 
 226. Special operations forces: display of service-common and other support and enabling capabilities.
 
-[227, 228. Repealed.]
+227. Budget justification for covered military unaccompanied housing Facilities Sustainment, Restoration, and Modernization projects.
+
+[228. Repealed.]
 
 229. Programs for combating terrorism: display of budget information.
 
@@ -56,7 +56,7 @@ Sec.
 
 239. National security space programs: major force program and budget assessment.
 
-239a. Missile defense and defeat programs: major force program and budget assessment.
+[239a. Repealed.]
 
 239b. Certain intelligence-related programs: budget justification materials.
 
@@ -69,6 +69,8 @@ Sec.
 #### **Editorial Notes** ####
 
 #### Amendments ####
+
+**2024**—Pub. L. 118–159, div. A, title XVI, §1649(b)(1), div. B, title XXVIII, §2821, Dec. 23, 2024, 138 Stat. 2199, 2253, added item 227 and struck out items 222b "Unfunded priorities of the Missile Defense Agency: annual report", 223 "Ballistic missile defense programs: program elements", 224 "Ballistic missile defense programs: display of amounts for research, development, test, and evaluation", 225 "Acquisition accountability reports on the ballistic missile defense system", and 239a Missile defense and defeat programs: major force program and budget assessment". Amendments were made pursuant to operation of section 102 of this title.
 
 **2023**—Pub. L. 118–31, div. A, title I, §151, title II, §211, title X, §1002, title XVI, §1631, title XVIII, §1801(a)(3)(A), Dec. 22, 2023, 137 Stat. 179, 182, 378, 591, 683, added item 222e "Programs, projects, and activities that were internally changed in the submission of the President's budget: annual report", 222e "Unfunded priorities of the Under Secretary of Defense for Research and Engineering: annual report", and items 233a and 239e and substituted "plans and certifications" for "plan and certification" in item 231. Amendments were made pursuant to operation of section 102 of this title.
 
@@ -127,3 +129,5 @@ Pub. L. 111–383, div. A, title X, §1023(b), Jan. 7, 2011, 124 Stat. 4350, add
 **1992**—Pub. L. 102–484, div. A, title X, §1002(d)(2), Oct. 23, 1992, 106 Stat. 2481, added items 221 and 222 and redesignated former item 221 as 226.
 
 **1991**—Pub. L. 102–190, div. A, title X, §1002(a)(1), Dec. 5, 1991, 105 Stat. 1455, substituted "DEFENSE BUDGET MATTERS" for "REGULAR COMPONENTS" in chapter heading and added item 221.
+
+[<sup>1</sup> So in original. Two sections 222e have been enacted.](#CHAPTER9_1)

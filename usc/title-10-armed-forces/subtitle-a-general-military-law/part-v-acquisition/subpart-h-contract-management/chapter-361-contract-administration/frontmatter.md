@@ -18,6 +18,10 @@ Another prior chapter 361, consisting of sections 3811 to 3820 relating to separ
 
 #### **Statutory Notes and Related Subsidiaries** ####
 
+#### Promulgate Guidance Relating to Certain Department of Defense Contracts ####
+
+Pub. L. 118–159, div. A, title VIII, §867, Dec. 23, 2024, 138 Stat. 2006, provided that: "Not later than January 31, 2025, the Secretary of Defense shall issue guidance on the governance and oversight of the contracts of the Department of Defense that support or enable sensitive activities."
+
 #### Modification of Contracts and Options To Provide Economic Price Adjustments ####
 
 Pub. L. 118–31, div. A, title VIII, §826, Dec. 22, 2023, 137 Stat. 335, provided that:
@@ -30,13 +34,13 @@ Pub. L. 118–31, div. A, title VIII, §826, Dec. 22, 2023, 137 Stat. 335, provi
 
 Pub. L. 118–31, div. A, title VIII, §827, Dec. 22, 2023, 137 Stat. 335, provided that:
 
-"(a) In General.—Not later than 180 days after the date of the enactment of this Act [Dec. 22, 2023], the Department of Defense Supplement to the Federal Acquisition Regulation shall be revised to—
+"(a) In General.—Not later than 180 days after the date of the enactment of the National Defense Authorization Act for Fiscal Year 2025 [Dec. 23, 2024], the Department of Defense Supplement to the Federal Acquisition Regulation shall be revised to—
 
 "(1) exempt all software contracts and subcontracts of the Department of Defense from earned value management system requirements;
 
-"(2) impose earned value management system requirements for cost contracts or incentive contracts with a value greater than or equal to $20,000,000 and less than $50,000,000; and
+"(2) increase the contract value threshold associated with earned value management system requirements for cost contracts or incentive contracts from $20,000,000 to $50,000,000; and
 
-"(3) require a defense contractor to use an earned value management system for contracts awarded with a value greater than or equal to $50,000,000 and less than $100,000,000.
+"(3) increase the contract value threshold associated requiring a defense contractor to use an approved earned value management system from $50,000,000 to $100,000,000.
 
 "(b) Implementation.—If the Department of Defense Supplement to the Federal Acquisition Regulation is not revised as described in subsection (a) before the deadline specified in such subsection, the Under Secretary of Defense for Acquisition and Sustainment shall provide to the Committees on Armed Services of the Senate and the House of Representatives a briefing on the timeline for such revisions."
 

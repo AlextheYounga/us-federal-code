@@ -32,4 +32,4 @@ Dec. 29, 1981, Pub. L. 97–114, title VII, §771, 95 Stat. 1590.
 
 #### Effective Date of Repeal ####
 
-Pub. L. 117–81, div. A, title VI, §604(a), Dec. 27, 2021, 135 Stat. 1767, provided that the repeal of this subchapter is effective December 31, 2021.
+Pub. L. 117–81, div. A, title VI, §604(a), Dec. 27, 2021, 135 Stat. 1767, provided that the repeal of this subchapter is effective Dec. 31, 2021.

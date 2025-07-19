@@ -4,6 +4,12 @@ Sec.
 
 3601. Procedures for urgent acquisition and deployment of capabilities needed in response to urgent operational needs or vital national security interest.
 
+3602. Middle tier of acquisition for rapid prototyping and rapid fielding.
+
+3603. Software acquisition pathways.
+
+3604. Program to accelerate the procurement and fielding of innovative technologies.
+
 #### **Editorial Notes** ####
 
 #### Prior Provisions ####
@@ -11,6 +17,8 @@ Sec.
 A prior chapter 253 "EMERGENCY AND RAPID ACQUISITIONS", as added by Pub. L. 115–232, div. A, title VIII, §801(a), Aug. 13, 2018, 132 Stat. 1828, and consisting of reserved section 3601, was repealed by Pub. L. 116–283, div. A, title XVIII, §1824(a), Jan. 1, 2021, 134 Stat. 4205.
 
 #### Amendments ####
+
+**2024**—Pub. L. 118–159, div. A, title VIII, §§804(a), 805(a), 861(a), Dec. 23, 2024, 138 Stat. 1966, 1969, 1999, added items 3602 to 3604. Amendments were made pursuant to operation of section 102 of this title.
 
 **2022**—Pub. L. 117–263, div. A, title VIII, §804(a), Dec. 23, 2022, 136 Stat. 2696, amended chapter analysis generally, substituting "RAPID ACQUISITION PROCEDURES" for "[Reserved]" in heading and item 3601 for former items for subchapters I and II, which were both "[Reserved]".
 

@@ -10,6 +10,10 @@ Sec.
 
 20404. Selection of officers for early retirement or discharge.
 
-20404. 1 Force shaping authority.
+20405. Force shaping authority.
 
-[<sup>1</sup> So in original. Probably should be "20405".](#CHAPTER2009_1)
+#### **Editorial Notes** ####
+
+#### Amendments ####
+
+**2024**—Pub. L. 118–159, div. A, title XVII, §1701(a)(49), Dec. 23, 2024, 138 Stat. 2206, renumbered item 20404 "Force shaping authority" as 20405.

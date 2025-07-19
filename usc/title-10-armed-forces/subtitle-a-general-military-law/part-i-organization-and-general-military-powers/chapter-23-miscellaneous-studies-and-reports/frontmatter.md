@@ -14,11 +14,9 @@ Sec.
 
 484. Quarterly cyber operations briefings.
 
-485. Monthly counterterrorism operations briefings.
+485. Quarterly briefings on counterterrorism operations, irregular warfare, and sensitive activities.
 
-486. Annual reports on racial and ethnic demographics in the military justice system.
-
-487. Biannual briefing on missile defense and related activities.
+[486, 487. Repealed.]
 
 488. Management and review of electromagnetic spectrum.
 
@@ -27,6 +25,8 @@ Sec.
 #### **Editorial Notes** ####
 
 #### Amendments ####
+
+**2024**—Pub. L. 118–159, div. A, title V, §566(b)(1), title XII, §1204(b), title XVI, §1649(b)(1), Dec. 23, 2024, 138 Stat. 1905, 2094, 2199, added item 485 and struck out items 485 "Monthly counterterrorism operations briefings", 486 "Annual reports on racial and ethnic demographics in the military justice system", and 487 "Biannual briefing on missile defense and related activities". Amendments striking out items 486 and 487 were made pursuant to operation of section 102 of this title.
 
 **2022**—Pub. L. 117–263, div. A, title XVI, §1651, Dec. 23, 2022, 136 Stat. 2947, added item 487.
 

@@ -28,9 +28,13 @@ Sec.
 
 2264. Reimbursement for assistance provided to nongovernmental entertainment-oriented media producers.
 
+2265. Access to broadband internet access service for certain members of the armed forces.
+
 #### **Editorial Notes** ####
 
 #### Amendments ####
+
+**2024**—Pub. L. 118–159, div. A, title VI, §651(a), Dec. 23, 2024, 138 Stat. 1938, added item 2265. Amendment was made pursuant to operation of section 102 of this title.
 
 **2014**—Pub. L. 113–291, div. A, title VIII, §859(b), Dec. 19, 2014, 128 Stat. 3461, added item 2264.
 
@@ -53,6 +57,14 @@ Pub. L. 109–163, div. A, title V, §589(a)(2), Jan. 6, 2006, 119 Stat. 3279, a
 **1992**—Pub. L. 102–484, div. A, title X, §1071(a)(2), Oct. 23, 1992, 106 Stat. 2508, added item 2254.
 
 #### **Statutory Notes and Related Subsidiaries** ####
+
+#### Implementation of Comptroller General Recommendations Relating to the Food Program of the Department of Defense ####
+
+Pub. L. 118–159, div. A, title X, §1093, Dec. 23, 2024, 138 Stat. 2083, provided that: "Not later than 18 months after the date of the enactment of this Act [Dec. 23, 2024], the Secretary of Defense shall—
+
+"(1) implement the recommendations of the Comptroller General of the United States contained in the report published by the Comptroller General in June 2024 and titled 'DOD Food Program: Additional Actions Needed to Implement, Oversee, and Evaluate Nutrition Efforts for Service Members' (GAO–24–106155); or
+
+"(2) if the Secretary does not implement any such recommendation, submit to the Committees on Armed Services of the Senate and the House of Representatives a report explaining why the Secretary has not implemented those recommendations."
 
 #### Clarification of Food Ingredient Requirements for Food or Beverages Provided by the Department of Defense ####
 

@@ -34,6 +34,8 @@ Sec.
 
 9024. Director of Small Business Programs.
 
+9025. Office of Expanded Competition.
+
 #### **Editorial Notes** ####
 
 #### Prior Provisions ####
@@ -41,6 +43,8 @@ Sec.
 A prior chapter 903, consisting of sections 9331 to 9362, related to the United States Air Force Academy, prior to renumbering as chapter 953 of this title.
 
 #### Amendments ####
+
+**2024**—Pub. L. 118–159, div. A, title IX, §924(a), Dec. 23, 2024, 138 Stat. 2039, added item 9025. Amendment was made pursuant to operation of section 102 of this title.
 
 **2023**—Pub. L. 118–31, div. A, title V, §509B, Dec. 22, 2023, 137 Stat. 243, added item 9023a. Amendment was made pursuant to operation of section 102 of this title.
 

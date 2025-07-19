@@ -10,7 +10,7 @@
 
 #### Pilot Program on Dynamic Shaping of the Workforce To Improve the Technical Skills and Expertise at Certain Department of Defense Laboratories ####
 
-Pub. L. 114–92, div. A, title XI, §1109, Nov. 25, 2015, 129 Stat. 1028, as amended by Pub. L. 115–232, div. A, title XI, §1112(b), Aug. 13, 2018, 132 Stat. 2012; Pub. L. 117–81, div. A, title II, §215(d)(3), Dec. 27, 2021, 135 Stat. 1593; Pub. L. 117–263, div. A, title XI, §1110, Dec. 23, 2022, 136 Stat. 2820, provided that:
+Pub. L. 114–92, div. A, title XI, §1109, Nov. 25, 2015, 129 Stat. 1028, as amended by Pub. L. 115–232, div. A, title XI, §1112(b), Aug. 13, 2018, 132 Stat. 2012; Pub. L. 117–81, div. A, title II, §215(d)(3), Dec. 27, 2021, 135 Stat. 1593; Pub. L. 117–263, div. A, title XI, §1110, Dec. 23, 2022, 136 Stat. 2820; Pub. L. 118–159, div. A, title XI, §1113, Dec. 23, 2024, 138 Stat. 2090, provided that:
 
 "(a) Pilot Program Required.—The Secretary of Defense shall establish a pilot program to utilize the authorities specified in subsection (b) at the Department of Defense laboratories specified in subsection (c) to provide the directors of such laboratories the authority to dynamically shape the mix of technical skills and expertise in the workforces of such laboratories in order to achieve one or more of the following:
 
@@ -38,9 +38,9 @@ Pub. L. 114–92, div. A, title XI, §1109, Nov. 25, 2015, 129 Stat. 1028, as am
 
 "(2) Reemployment of annuitants.—Authorities to authorize the director of any science and technology reinvention laboratory (in this section referred to as 'STRL') to reemploy annuitants in accordance with section 9902(g) of title 5, United States Code, except that as a condition for reemployment the director may authorize the deduction from the pay of any annuitant so reemployed of an amount up to the amount of the annuity otherwise payable to such annuitant allocable to the period of actual employment of such annuitant, which amount shall be determined in a manner specified by the director for purposes of this paragraph to ensure the most cost effective execution of designated missions by the laboratory while retaining critical technical skills.
 
-"(3) Early retirement incentives.—Authorities to authorize the director of any STRL to authorize voluntary early retirement of employees in accordance with section 8336 of title 5, United States Code, without regard to section 8336(d)(2)(D) or 3522 of such title, and with employees so separated voluntarily from service.
+"(3) Early retirement incentives.—Authorities to authorize the director of any STRL to authorize voluntary early retirement of employees in accordance with section 8336 or 8414 of title 5, United States Code, without regard to section 8336(d)(2)(D) or 8414(b)(1)(B) of such title, and with employees so separated voluntarily from service.
 
-"(4) Separation incentive pay.—Authorities to authorize the director of any STRL to pay voluntary separation pay to employees in accordance with section 8414(b)(1)(B) of title 5, United States Code, without regard to clause (iv) or (v) of such section or section 3522 of such title, and with—
+"(4) Separation incentive pay.—Authorities to authorize the director of any STRL to pay voluntary separation pay to employees in accordance with section 3522 of title 5, United States Code, and with—
 
 "(A) employees so separated voluntarily from service under regulations prescribed by the Secretary of Defense for purposes of the pilot program; and
 
@@ -50,7 +50,7 @@ Pub. L. 114–92, div. A, title XI, §1109, Nov. 25, 2015, 129 Stat. 1028, as am
 
 "(ii) paragraph (1) or (3) of section 3523(b) of such title.
 
-"(c) Laboratories.—The Department of Defense laboratories specified in this subsection are the laboratories designated under section 4121(b) of title 10, United States Code.
+"(c) Laboratories.—The Department of Defense laboratories specified in this subsection are the laboratories designated under subsections (a) and (b) of section 4121 of title 10, United States Code.
 
 "(d) Expiration.—
 

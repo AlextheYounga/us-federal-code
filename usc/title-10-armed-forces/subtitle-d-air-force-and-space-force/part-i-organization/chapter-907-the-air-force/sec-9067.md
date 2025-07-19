@@ -10,7 +10,7 @@ There is an Assistant Surgeon General for Dental Services in the Air Force who i
 
 A prior section 9067 was renumbered section 9063 of this title.
 
-A prior section 9068 of this title resulted from the redesignation of section 9084 of this title as section 9068 of this title by section 952(b)(1) of Pub. L. 116–92. Such section 9068 was renumbered section 9083 of this title by section 952(e) of Pub. L. 116–92.
+A prior section 9068 of this title resulted from the redesignation of section 9084 of this title as section 9068 of this title by section 952(b)(1) of Pub. L. 116–92. Such section 9068 was renumbered section 9083 of this title by section 952(e) of Pub. L. 116–92 and subsequently repealed by Pub. L. 116–283, div. A, title IX, §921(a), Jan. 1, 2021, 134 Stat. 3804.
 
 A prior section 9069 was renumbered section 9064 of this title.
 

@@ -6,6 +6,8 @@ Sec.
 
 51302. Nomination and competitive appointment of cadets.
 
+51302a. Nomination in event of death, resignation, or expulsion from office of Senator otherwise authorized to nominate.
+
 51303. Non-competitive appointments.
 
 51304. Additional appointments from particular areas.
@@ -61,6 +63,8 @@ Sec.
 #### **Editorial Notes** ####
 
 #### Amendments ####
+
+**2024**—Pub. L. 118–159, div. C, title XXXV, §3537(b), Dec. 23, 2024, 138 Stat. 2316, added item 51302a.
 
 **2022**—Pub. L. 117–263, div. C, title XXXV, §3531(c), Dec. 23, 2022, 136 Stat. 3087, added items 51325 to 51328.
 

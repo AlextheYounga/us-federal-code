@@ -4,6 +4,8 @@ Sec.
 
 14701. Selection of officers for continuation on the reserve active-status list.
 
+14701a. Continuation on reserve active-status list: officers in certain military specialties and career tracks.
+
 14702. Retention on reserve active-status list of certain officers in the grade of major, lieutenant colonel, colonel, or brigadier general.
 
 14703. Authority to retain chaplains and officers in medical specialties until specified age.
@@ -17,5 +19,7 @@ Sec.
 #### **Editorial Notes** ####
 
 #### Amendments ####
+
+**2024**—Pub. L. 118–159, div. A, title V, §513(b), Dec. 23, 2024, 138 Stat. 1876, added item 14701a.
 
 **2008**—Pub. L. 110–417, [div. A], title V, §514(c)(2), Oct. 14, 2008, 122 Stat. 4442, added item 14702 and struck out former item 14702 "Retention on reserve active-status list of certain officers until age 60".

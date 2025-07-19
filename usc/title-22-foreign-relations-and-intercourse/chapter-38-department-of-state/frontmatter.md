@@ -122,6 +122,8 @@ Sec.
 
 2680–2. Facilitating access to Department of State.
 
+2680–3. Responsiveness to Congressional Research Service inquiries and Congressional Budget Office inquiries.
+
 2680a. Compensation for disability or death.
 
 2680b. Special rules for certain monthly workers' compensation payments and other payments for Department of State personnel under chief of mission authority.
@@ -290,6 +292,8 @@ Sec.
 
 2735a. Presidential Envoy for the Abraham Accords, Negev Forum, and Related Integration and Normalization Fora and Agreements.
 
+2735b. National Museum of American Diplomacy.
+
 2736. Exit interviews for workforce.
 
 2736a. Recruitment and retention.
@@ -309,3 +313,7 @@ Sec.
 2738. Mid-Career Mentoring Program.
 
 2739. Civil service rotational program.
+
+2740. Career intermission program adjustment to enhance retention.
+
+2741. Authority to pay for or reimburse for certain security services.

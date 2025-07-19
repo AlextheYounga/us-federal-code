@@ -20,7 +20,7 @@ Sec.
 
 8458. Midshipmen: qualifications for admission.
 
-8459. Midshipmen: agreement for length of service.
+8459. Midshipmen: service obligation.
 
 8460. Midshipmen: clothing and equipment; uniform allowance.
 
@@ -75,6 +75,8 @@ Sec.
 A prior chapter 853, consisting of sections 8681 to 8693, related to miscellaneous rights and benefits in the Air Force, prior to renumbering as chapter 933 of this title.
 
 #### Amendments ####
+
+**2024**—Pub. L. 118–159, div. A, title V, §557(b)(1), Dec. 23, 2024, 138 Stat. 1897, substituted "service obligation" for "agreement for length of service" in item 8459. Amendment was made pursuant to operation of section 102 of this title.
 
 **2021**—Pub. L. 117–81, div. A, title V, §553(b)(2), Dec. 27, 2021, 135 Stat. 1737, added item 8454a.
 

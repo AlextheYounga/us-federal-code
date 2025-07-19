@@ -1,28 +1,28 @@
 ### §167b. Unified combatant command for cyber operations ###
 
-(a) Establishment.—(1) With the advice and assistance of the Chairman of the Joint Chiefs of Staff, the President, through the Secretary of Defense, shall establish under section 161 of this title a unified combatant command for cyber operations forces (hereinafter in this section referred to as the "cyber command").
+(a) Establishment.—(1) With the advice and assistance of the Chairman of the Joint Chiefs of Staff, the President, through the Secretary of Defense, shall establish under section 161 of this title a unified combatant command for cyber operations forces (hereinafter in this section referred to as the "United States Cyber Command").
 
-(2) The principal mission of the Cyber Command is to direct, synchronize, and coordinate military cyberspace planning and operations to defend and advance national interests in collaboration with domestic and international partners.
+(2) The principal mission of the United States Cyber Command is to direct, synchronize, and coordinate military cyberspace planning and operations to defend and advance national interests in collaboration with domestic and international partners.
 
-(b) Assignment of Forces.—(1) Active and reserve cyber forces of the armed forces shall be assigned to the Cyber Command through the Global Force Management Process, as approved by the Secretary of Defense.
+(b) Assignment of Forces.—(1) Active and reserve cyber forces of the armed forces shall be assigned to the United States Cyber Command through the Global Force Management Process, as approved by the Secretary of Defense.
 
-(2) Cyber forces not assigned to Cyber Command remain assigned to combatant commands or service-retained.
+(2) Cyber forces not assigned to United States Cyber Command remain assigned to combatant commands or service-retained.
 
-(c) Grade of Commander.—The commander of the cyber command shall hold the grade of general or, in the case of an officer of the Navy, admiral while serving in that position, without vacating that officer's permanent grade. The commander of such command shall be appointed to that grade by the President, by and with the advice and consent of the Senate, for service in that position.
+(c) Grade of Commander.—The Commander of the United States Cyber Command shall hold the grade of general or, in the case of an officer of the Navy, admiral while serving in that position, without vacating that officer's permanent grade. The Commander of such Command shall be appointed to that grade by the President, by and with the advice and consent of the Senate, for service in that position.
 
-(d) Authority of Combatant Commander.—(1) In addition to the authority prescribed in section 164(c) of this title, the commander of the cyber command shall be responsible for, and shall have the authority to conduct, all affairs of such command relating to cyber operations activities.
+(d) Authority of Combatant Commander.—(1) In addition to the authority prescribed in section 164(c) of this title, the Commander of the United States Cyber Command shall be responsible for, and shall have the authority to conduct, all affairs of such Command relating to cyber operations activities.
 
-(2)(A) Subject to the authority, direction, and control of the Principal Cyber Advisor to the Secretary of Defense under section 392a(a) of this title, the commander of such command shall be responsible for, and shall have the authority to conduct, the following functions relating to cyber operations activities (whether or not relating to the cyber command):
+(2)(A) Subject to the authority, direction, and control of the Principal Cyber Advisor to the Secretary of Defense under section 392a(a) of this title, the Commander of such Command shall be responsible for, and shall have the authority to conduct, the following functions relating to cyber operations activities (whether or not relating to the United States Cyber Command):
 
 (i) Developing strategy, doctrine, and tactics.
 
-(ii) Preparing and submitting to the Secretary of Defense program recommendations and budget proposals for cyber operations forces and for other forces assigned to the cyber command.
+(ii) Preparing and submitting to the Secretary of Defense program recommendations and budget proposals for cyber operations forces and for other forces assigned to the United States Cyber Command.
 
 (iii) Exercising authority, direction, and control over the expenditure of funds—
 
-(I) for forces assigned directly to the cyber command; and
+(I) for forces assigned directly to the United States Cyber Command; and
 
-(II) for cyber operations forces assigned to unified combatant commands other than the cyber command, with respect to all matters covered by section 807 of the National Defense Authorization Act for Fiscal Year 2016 (Public Law 114–92; 129 Stat. 886; 10 U.S.C. 2224 note) and, with respect to a matter not covered by such section, to the extent directed by the Secretary of Defense.
+(II) for cyber operations forces assigned to unified combatant commands other than the United States Cyber Command, with respect to all matters covered by section 807 of the National Defense Authorization Act for Fiscal Year 2016 (Public Law 114–92; 129 Stat. 886; 10 U.S.C. 2224 note) and, with respect to a matter not covered by such section, to the extent directed by the Secretary of Defense.
 
 (iv) Training and certification of assigned joint forces.
 
@@ -38,21 +38,21 @@
 
 (x) Monitoring the promotion of cyber operation forces and coordinating with the military departments regarding the assignment, retention, training, professional military education, and special and incentive pays of cyber operation forces.
 
-(B) The authority, direction, and control exercised by the Principal Cyber Advisor for purposes of this section is authority, direction, and control with respect to the administration and support of the cyber command, including readiness and organization of cyber operations forces, cyber operations-peculiar equipment and resources, and civilian personnel.
+(B) The authority, direction, and control exercised by the Principal Cyber Advisor for purposes of this section is authority, direction, and control with respect to the administration and support of the United States Cyber Command, including readiness and organization of cyber operations forces, cyber operations-peculiar equipment and resources, and civilian personnel.
 
 (C) Nothing in this section shall be construed as providing the Principal Cyber Advisor authority, direction, and control of operational matters that are subject to the operational chain of command of the combatant commands or the exercise of authority, direction, and control of personnel, resources, equipment, and other matters that are not cyber-operations peculiar and that are in the purview of the armed forces.
 
-(3) The commander of the cyber command shall be responsible for—
+(3) The Commander of the United States Cyber Command shall be responsible for—
 
-(A) ensuring the combat readiness of forces assigned to the cyber command; and
+(A) ensuring the combat readiness of forces assigned to the United States Cyber Command; and
 
-(B) monitoring the preparedness to carry out assigned missions of cyber forces assigned to unified combatant commands other than the cyber command.
+(B) monitoring the preparedness to carry out assigned missions of cyber forces assigned to unified combatant commands other than the United States Cyber Command.
 
-(C) The staff of the commander shall include an inspector general who shall conduct internal audits and inspections of purchasing and contracting actions through the cyber operations command and such other inspector general functions as may be assigned.
+(C) The staff of the Commander shall include an inspector general who shall conduct internal audits and inspections of purchasing and contracting actions through the cyber operations command and such other inspector general functions as may be assigned.
 
 (e) Intelligence and Special Activities.—This section does not constitute authority to conduct any activity which, if carried out as an intelligence activity by the Department of Defense, would require a notice to the Select Committee on Intelligence of the Senate and the Permanent Select Committee on Intelligence of the House of Representatives under title V of the National Security Act of 1947 (50 U.S.C. 3091 et seq.).
 
-(Added Pub. L. 114–328, div. A, title IX, §923(a), Dec. 23, 2016, 130 Stat. 2357; amended Pub. L. 115–91, div. A, title X, §1081(a)(12), title XVI, §1635, Dec. 12, 2017, 131 Stat. 1595, 1741; Pub. L. 116–283, div. A, title XVII, §1701(1), Jan. 1, 2021, 134 Stat. 4079; Pub. L. 117–263, div. A, title XV, §1501(c)(1), Dec. 23, 2022, 136 Stat. 2878.)
+(Added Pub. L. 114–328, div. A, title IX, §923(a), Dec. 23, 2016, 130 Stat. 2357; amended Pub. L. 115–91, div. A, title X, §1081(a)(12), title XVI, §1635, Dec. 12, 2017, 131 Stat. 1595, 1741; Pub. L. 116–283, div. A, title XVII, §1701(1), Jan. 1, 2021, 134 Stat. 4079; Pub. L. 117–263, div. A, title XV, §1501(c)(1), Dec. 23, 2022, 136 Stat. 2878; Pub. L. 118–159, div. A, title XVII, §1701(a)(4), Dec. 23, 2024, 138 Stat. 2203.)
 
 #### **Editorial Notes** ####
 
@@ -61,6 +61,16 @@
 The National Security Act of 1947, referred to in subsec. (e), is act July 26, 1947, ch. 343, 61 Stat. 495. Title V of the Act is classified generally to subchapter III (§3091 et seq.) of chapter 44 of Title 50. For complete classification of this Act to the Code, see Tables.
 
 #### Amendments ####
+
+**2024**—Subsec. (a)(1). Pub. L. 118–159, §1701(a)(4)(A)(i), substituted "referred to as the 'United States Cyber Command' " for "referred to as the 'cyber command' ".
+
+Subsec. (a)(2). Pub. L. 118–159, §1701(a)(4)(A)(ii), substituted "United States Cyber Command" for "Cyber Command".
+
+Subsec. (b). Pub. L. 118–159, §1701(a)(4)(B), substituted "United States Cyber Command" for "Cyber Command" in pars. (1) and (2).
+
+Subsec. (c). Pub. L. 118–159, §1701(a)(4)(C), substituted "Commander" for "commander" in two places, "United States Cyber Command" for "cyber command", and "such Command" for "such command".
+
+Subsec. (d). Pub. L. 118–159, §1701(a)(4)(C), substituted "Commander" for "commander" and "United States Cyber Command" for "cyber command" wherever appearing and "such Command" for "such command" in two places.
 
 **2022**—Subsec. (d)(2)(A). Pub. L. 117–263 inserted "to the Secretary of Defense under section 392a(a) of this title" after "Principal Cyber Advisor" in introductory provisions.
 
@@ -77,6 +87,18 @@ Subsec. (e)(2)(A)(iii)(II). Pub. L. 115–91, §1081(a)(12), substituted "Fiscal
 Subsec. (f). Pub. L. 115–91, §1635(2), redesignated subsec. (f) as (e).
 
 #### **Statutory Notes and Related Subsidiaries** ####
+
+#### Department of Defense Information Network Subordinate Unified Command ####
+
+Pub. L. 118–159, div. A, title XV, §1502, Dec. 23, 2024, 138 Stat. 2131, provided that:
+
+"(a) In General.—Not later than 120 days after the date of the enactment of this Act [Dec. 23, 2024], the Secretary of Defense shall designate the Joint Force Headquarters-Department of Defense Information Network as a subordinate unified command under the United States Cyber Command.
+
+"(b) Designation Notice.—On the date on which the Secretary of Defense makes the designation required by subsection (a), the Secretary shall issue to the Secretary of each military department (as defined in section 101(a) of title 10, United States Code), the Chairman of the Joint Chiefs of Staff, the Under Secretaries of the Department of Defense, the Chief of the National Guard Bureau, the General Counsel of the Department of Defense, the Director of Cost Assessment and Program Evaluation, the Inspector General of the Department of Defense, the Director of Operational Test and Evaluation, the Chief Information Officer of the Department of Defense, the Assistant Secretary of Defense for Legislative Affairs, the Assistant Secretary of Defense for Special Operations and Low Intensity Conflict, the Chief Digital and Artificial Intelligence Officer of the Department of Defense, the commander of each combatant command, and the head of each Defense Agency and Department of Defense Field Activity (as such terms are defined, respectively, in section 101(a) of title 10, United States Code) a notice regarding—
+
+"(1) the designation of the Joint Force Headquarters-Department of Defense Information Network as a subordinate unified command under the United States Cyber Command; and
+
+"(2) the mission of the Joint Force Headquarters-Department of Defense Information Network as the lead organization for the network operations, security, and defense of the Department of Defense Information Network."
 
 #### Development of Cyber Support Mechanisms for Geographic Combatant Commands ####
 

@@ -28,6 +28,10 @@ Pub. L. 97–241, title I, §116(b)(2), Aug. 24, 1982, 96 Stat. 279, provided th
 
 Pub. L. 90–428, §4, July 26, 1968, 82 Stat. 446, provided that: "This Act [amending this section and sections 213 and 214 of this title] shall take effect on the thirtieth day following the date of its enactment [July 26, 1968]."
 
+#### Revision to Date of Expiration of United States Passports ####
+
+Pub. L. 118–159, div. G, title LXXV, §7507(c), Dec. 23, 2024, 138 Stat. 2547, provided that: "The Secretary [of State] may take such actions as may be necessary to provide for the date of expiration of each United States passport issued or renewed on or after the date that is 180 days after the date of the enactment of this Act [Dec. 23, 2024] to be the same date as the date of birth of the applicant or holder of the passport."
+
 #### Notification of Passport Expiration ####
 
 Pub. L. 118–31, div. F, title LXI, §6110, Dec. 22, 2023, 137 Stat. 968, provided that: "The Secretary [of State] shall take such steps as may be necessary to ensure that each individual holding a valid United States passport is notified of the upcoming expiration of such passport not later than one year before the date of such expiration."

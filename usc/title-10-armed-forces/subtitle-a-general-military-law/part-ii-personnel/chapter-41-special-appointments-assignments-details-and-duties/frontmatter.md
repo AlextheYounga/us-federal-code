@@ -10,7 +10,7 @@ Sec.
 
 713. State Department: assignment or detail as couriers and building inspectors.
 
-714. Senior leaders of the Department of Defense and other specified persons: authority to provide protection within the United States.
+714. Senior leaders of the Department of Defense and other specified persons: authority to provide protection.
 
 715. Attending Physician to the Congress: grade.
 
@@ -29,6 +29,8 @@ Sec.
 #### **Editorial Notes** ####
 
 #### Amendments ####
+
+**2024**—Pub. L. 118–159, div. A, title V, §522(a)(1), Dec. 23, 2024, 138 Stat. 1883, struck out "within the United States" after "provide protection" in item 714. Amendment was made pursuant to operation of section 102 of this title.
 
 **2021**—Pub. L. 116–283, div. A, title X, §§1064(b), 1081(a)(19), Jan. 1, 2021, 134 Stat. 3860, 3871, moved item 714 to appear immediately after item 713, inserted period at end of item 715, and added item 723.
 

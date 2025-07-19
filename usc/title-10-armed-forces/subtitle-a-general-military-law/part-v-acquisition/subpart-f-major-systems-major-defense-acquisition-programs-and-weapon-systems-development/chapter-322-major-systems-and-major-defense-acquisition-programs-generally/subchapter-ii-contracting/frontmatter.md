@@ -54,7 +54,7 @@ Pub. L. 112–239, div. A, title VIII, §812, Jan. 2, 2013, 126 Stat. 1829, dire
 
 #### Determination of Contract Type for Development Programs ####
 
-Pub. L. 109–364, div. A, title VIII, §818(b)–(f), Oct. 17, 2006, 120 Stat. 2329, 2330, as amended by Pub. L. 117–263, div. A, title VIII, §808(a), Dec. 23, 2022, 136 Stat. 2705, provided that:
+Pub. L. 109–364, div. A, title VIII, §818(b)–(g), Oct. 17, 2006, 120 Stat. 2329, 2330, as amended by Pub. L. 117–263, div. A, title VIII, §808(a), Dec. 23, 2022, 136 Stat. 2705; Pub. L. 118–159, div. A, title VIII, §823, Dec. 23, 2024, 138 Stat. 1983, provided that:
 
 "(b) Modification of Regulations.—Not later than 120 days after the date of the enactment of this Act [Oct. 17, 2006], the Secretary of Defense shall modify the regulations of the Department of Defense regarding the determination of contract type for development programs.
 
@@ -94,6 +94,20 @@ Pub. L. 109–364, div. A, title VIII, §818(b)–(f), Oct. 17, 2006, 120 Stat. 
 
 "(C) The term 'major defense acquisition program' has the meaning given in section 4201 of title 10, United States Code.
 
-"(D) The term 'Milestone B approval' has the meaning given in section 4172(e) of title 10, United States Code."
+"(D) The term 'Milestone B approval' has the meaning given in section 4172(e) of title 10, United States Code.
+
+"(g) Conditions With Respect to Certain Shipbuilding Contracts.—
+
+"(1) Limitation.—With respect to a fixed-price type contract for the procurement of shipbuilding associated with a major defense acquisition program, the number of ships to be procured under such contract, including all options, may not be more than two if the scope of the work of such contract includes the detail design and the construction of items for such a major defense acquisition program.
+
+"(2) Waiver.—The Secretary concerned may waive the limitation in paragraph (1) if such Secretary submits to the congressional defense committees, not later than 30 days after issuance of such waiver, a written notification of such waiver that includes a certification that the basic and functional design of any ship to be procured under a contract described in paragraph (1) are [sic] complete.
+
+"(3) Definitions.—In this subsection:
+
+"(A) The term 'basic and functional design' has the meaning given in section 8669c of title 10, United States Code.
+
+"(B) The term 'construction' means steel cutting and module fabrication, assembly, and outfitting, keel laying, and module erection supporting the launch and eventual delivery of a completed ship.
+
+"(C) The term 'detail design' means design using computer-aided modeling to enable the generation of work instructions for construction of the ship, where such work instructions show detailed system information and support construction, including guidance for subcontractors and suppliers, installation drawings, schedules, material lists, and lists of prefabricated materials and parts."
 
 [Pub. L. 117–263, div. A, title VIII, §808(b), Dec. 23, 2022, 136 Stat. 2705, provided that: "Not later than 120 days after the date of the enactment of this Act [Dec. 23, 2022], the Secretary of Defense shall revise the Department of Defense Supplement to the Federal Acquisition Regulation and any applicable regulations regarding the use of fixed-price type contracts for a major defense acquisition program (as defined in section 4201 of title 10, United States Code) to carry out this section [enacting section 818(f) of Pub. L. 109–364, set out above] and the amendments made by this section."]

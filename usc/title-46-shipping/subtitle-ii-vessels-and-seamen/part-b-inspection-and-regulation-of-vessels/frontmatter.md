@@ -1,4 +1,5 @@
-### Part B—Inspection and Regulation of Vessels ###
+Part B—Inspection and Regulation of Vessels
+----------
 
 #### Historical and Revision Notes ####
 

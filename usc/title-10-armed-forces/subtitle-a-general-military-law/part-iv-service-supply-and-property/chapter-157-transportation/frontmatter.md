@@ -120,6 +120,18 @@ Pub. L. 99–550, §2(a)(2), Oct. 27, 1986, 100 Stat. 3070, struck out item 2637
 
 #### **Statutory Notes and Related Subsidiaries** ####
 
+#### Notification of Changes to Certain Transportation Contracts ####
+
+Pub. L. 118–159, div. A, title VIII, §852, Dec. 23, 2024, 138 Stat. 1995, provided that:
+
+"(a) In General.—The Secretary of Defense shall provide a written notification and briefing to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] not later than 90 days before the date on which the Secretary will implement any rule, regulation, or policy change which would—
+
+"(1) waive, exempt, or reduce any requirement, including any security clearance requirements, regarding transportation protective services for any transportation service provider; or
+
+"(2) allow the award of a contract or order to a transportation service provider for any shipment that requires any transportation protective service if such transportation service provider is not authorized by the Department of Defense to transport cargo regarding such a transportation protective service.
+
+"(b) Transportation Protective Service; Transportation Service Provider Defined.—In this section, the terms 'transportation protective service' and 'transportation service provider' have the meanings given such terms, respectively, in the publication of the Military Surface Deployment and Distribution Command of the Department of Defense issued September 12, 2022, and titled 'MILITARY FREIGHT TRAFFIC UNIFIED RULES PUBLICATION-1 (MFTURP-1)', or any successor thereto."
+
 #### Air Transportation of Civilian Department of Defense Personnel To and From Afghanistan ####
 
 Pub. L. 115–91, div. A, title X, §1098, Dec. 12, 2017, 131 Stat. 1626, provided that:

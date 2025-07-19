@@ -30,6 +30,40 @@ Pub. L. 116–283, div. A, title XVIII, §1821(a)(1), (3), (b)(1)(B), (7)(C), Ja
 
 #### **Statutory Notes and Related Subsidiaries** ####
 
+#### Use of Capability-Based Analysis of Price of Goods or Services Offered by Nontraditional Defense Contractors ####
+
+Pub. L. 118–159, div. A, title VIII, §864, Dec. 23, 2024, 138 Stat. 2002, provided that:
+
+"(a) Pilot Program.—A contracting officer of the Department of Defense may use alternative capability-based analysis to determine whether the proposed price or fee for a commercial product or commercial service offered by a nontraditional defense contractor (as that term is defined in section 3014 of title 10, United States Code) is fair and reasonable.
+
+"(b) Report.—Not later than February 1, 2028, the Under Secretary of Defense for Acquisition and Sustainment shall submit to the Committees on Armed Services of the Senate and the House of Representatives a report evaluating the use of the authority under subsection (a), including the following elements:
+
+"(1) A summary of activities conducted because of the inclusion of alternative capability-based analysis into the evaluation of proposals offered by nontraditional contractors, including specific examples.
+
+"(2) An analysis of the effectiveness of the authority under subsection (a) in increasing nontraditional defense contractor participation in the defense industrial base and in increasing access by the Department of Defense to new technologies or capabilities.
+
+"(3) Recommendations on—
+
+"(A) the continuation of the authority under subsection (a);
+
+"(B) changes to existing law; and
+
+"(C) the expansion of the program to include other contractors.
+
+"(c) Sunset.—The authority under subsection (a) shall expire on September 30, 2029.
+
+"(d) Alternative Capacity-based Analysis Defined.—In this section, the term 'alternative capability-based analysis' means an analysis of the value to the Federal Government of a commercial product or commercial service that considers one or more of the following elements:
+
+"(1) The fitness of the product or service for the particular purpose such commercial product or commercial service is being procured.
+
+"(2) The unique nature of, technical expertise required to produce or provide, and the non-Federal resources expended to develop such commercial product or commercial service.
+
+"(3) The business model or financial projections of the nontraditional defense contractor, commensurate with the scale of the potential investment by the Secretary of Defense, which may include cost information, self-funded risk, financial projections, expenditure rates, estimates of total sales market, and other financial, technical, or management data.
+
+"(4) The estimated total cost avoidance or increased capacity afforded by such commercial product or commercial service in relation to current and future costs of programs and operations that provide the same or similar capabilities.
+
+"(5) Input from the anticipated users of such commercial product or commercial service on the potential value added by the improved capabilities or production processes resulting from such commercial product or commercial service."
+
 #### Procurement of Commercial Services ####
 
 Pub. L. 110–181, div. A, title VIII, §805, Jan. 28, 2008, 122 Stat. 212, as amended by Pub. L. 110–417, [div. A], title X, §1061(b)(4), Oct. 14, 2008, 122 Stat. 4613; Pub. L. 113–291, div. A, title X, §1071(b)(2)(A), Dec. 19, 2014, 128 Stat. 3506; Pub. L. 115–232, div. A, title VIII, §836(f)(6), Aug. 13, 2018, 132 Stat. 1871, provided that:

@@ -10,6 +10,8 @@ Sec.
 
 4704. Defense contractors: listing of suitable employment openings with local employment service office.
 
+4705. Notice of contract cancellation or termination relating to remote or isolated installations
+
 #### **Editorial Notes** ####
 
 #### Prior Provisions ####
@@ -17,6 +19,10 @@ Sec.
 A prior chapter 365 "CONTRACTOR WORKFORCE", consisting of reserved section 4701, was repealed by Pub. L. 116–283, div. A, title XVIII, §1863(a), Jan. 1, 2021, 134 Stat. 4278.
 
 Another prior chapter 365, consisting of sections 3881 to 3889 relating to retirement for age of certain commissioned officers, some of which had previously been repealed, was repealed in its entirety by Pub. L. 96–513, title II, §216, title VII, §701, Dec. 12, 1980, 94 Stat. 2886, 2955, effective Sept. 15, 1981.
+
+#### Amendments ####
+
+**2024**—Pub. L. 118–159, div. A, title VIII, §808, Dec. 23, 2024, 138 Stat. 1977, added item 4705. Amendment was made pursuant to operation of section 102 of this title.
 
 #### **Statutory Notes and Related Subsidiaries** ####
 

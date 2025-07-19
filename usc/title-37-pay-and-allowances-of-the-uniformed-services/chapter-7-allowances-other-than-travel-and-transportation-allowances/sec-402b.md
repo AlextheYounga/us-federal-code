@@ -6,9 +6,7 @@
 
 (1) the member has completed initial entry training;
 
-(2)(A) the gross household income of the member during the most recent calendar year did not exceed an amount equal to 150 percent of the Federal poverty guidelines of the Department of Health and Human Services for the location of the member and the number of individuals in the household of the member for such year; or
-
-(B) if the Secretary concerned determines it appropriate (based on location, household need, or special circumstance), the gross household income of the member during the most recent calendar year did not exceed an amount equal to 200 percent of the Federal poverty guidelines of the Department of Health and Human Services for the location of the member and the number of individuals in the household of the member for such year; and
+(2) the gross household income of the member during the most recent calendar year did not exceed an amount equal to 200 percent of the Federal poverty guidelines of the Department of Health and Human Services for the location of the member and the number of individuals in the household of the member for such year; and
 
 (3) the member—
 
@@ -18,7 +16,7 @@
 
 (c) Amount of Allowance.—The amount of the monthly allowance payable to a member under subsection (a) shall be the amount equal to—
 
-(1)(A) 150 percent (or, in the case of a member described in subsection (b)(2)(B), 200 percent) of the Federal poverty guidelines of the Department of Health and Human Services for the calendar year during which the allowance is paid based on the location of the member and the number of individuals in the household of the member during the month for which the allowance is paid; minus
+(1)(A) 200 percent of the Federal poverty guidelines of the Department of Health and Human Services for the calendar year during which the allowance is paid based on the location of the member and the number of individuals in the household of the member during the month for which the allowance is paid; minus
 
 (B) the gross household income of the member during the preceding calendar year; divided by
 
@@ -88,7 +86,7 @@
 
 (2) Household.—The term "household" means a member of the armed forces and any dependents of the member enrolled in the Defense Enrollment Eligibility Reporting System, regardless of the location of those dependents.
 
-(Added Pub. L. 117–81, div. A, title VI, §601(a), Dec. 27, 2021, 135 Stat. 1761; amended Pub. L. 117–263, div. A, title VI, §611(a), Dec. 23, 2022, 136 Stat. 2622; Pub. L. 117–328, div. O, title II, §201(a), Dec. 29, 2022, 136 Stat. 5226; Pub. L. 118–31, div. A, title VI, §621(a), Dec. 22, 2023, 137 Stat. 293.)
+(Added Pub. L. 117–81, div. A, title VI, §601(a), Dec. 27, 2021, 135 Stat. 1761; amended Pub. L. 117–263, div. A, title VI, §611(a), Dec. 23, 2022, 136 Stat. 2622; Pub. L. 117–328, div. O, title II, §201(a), Dec. 29, 2022, 136 Stat. 5226; Pub. L. 118–31, div. A, title VI, §621(a), Dec. 22, 2023, 137 Stat. 293; Pub. L. 118–159, div. A, title VI, §621, Dec. 23, 2024, 138 Stat. 1933.)
 
 #### **Editorial Notes** ####
 
@@ -97,6 +95,10 @@
 The date of the enactment of the National Defense Authorization Act for Fiscal Year 2022, referred to in subsecs. (i) and (j)(1), is the date of enactment of Pub. L. 117–81, which was approved Dec. 27, 2021.
 
 #### Amendments ####
+
+**2024**—Subsec. (b)(2). Pub. L. 118–159, §621(a), struck out subpar. (A) designation before "the gross household income", substituted "200 percent" for "150 percent" and "; and" for "; or", and struck out subpar. (B) which read as follows: "if the Secretary concerned determines it appropriate (based on location, household need, or special circumstance), the gross household income of the member during the most recent calendar year did not exceed an amount equal to 200 percent of the Federal poverty guidelines of the Department of Health and Human Services for the location of the member and the number of individuals in the household of the member for such year; and".
+
+Subsec. (c)(1)(A). Pub. L. 118–159, §621(b), substituted "200 percent" for "150 percent (or, in the case of a member described in subsection (b)(2)(B), 200 percent)".
 
 **2023**—Subsec. (k)(1)(B). Pub. L. 118–31 inserted "or that otherwise has a demonstrated need" after "high cost of living".
 

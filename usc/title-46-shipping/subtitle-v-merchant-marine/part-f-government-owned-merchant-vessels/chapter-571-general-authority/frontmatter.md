@@ -26,9 +26,13 @@ Sec.
 
 57111. Definition of obsolete vessel.
 
+57112. Requirements for purchasing federally auctioned vessels.
+
 #### **Editorial Notes** ####
 
 #### Amendments ####
+
+**2024**—Pub. L. 118–159, div. C, title XXXV, §3532(b), Dec. 23, 2024, 138 Stat. 2313, added item 57112.
 
 **2023**—Pub. L. 118–31, div. C, title XXXV, §3514(j)(6), Dec. 22, 2023, 137 Stat. 812, added items 57102, 57103, and 57111, struck out former items 57102 "Disposition of vessels not worth preserving" and 57103 "Donation of nonretention vessels in the National Defense Reserve Fleet", and renumbered former item 57111 as 57110.
 

@@ -64,7 +64,7 @@ Sec.
 
 [130g. Renumbered.]
 
-130h. Prohibitions relating to missile defense information and systems.
+[130h. Repealed.]
 
 130i. Protection of certain facilities and assets from unmanned aircraft.
 
@@ -73,6 +73,8 @@ Sec.
 #### **Editorial Notes** ####
 
 #### Amendments ####
+
+**2024**—Pub. L. 118–159, div. A, title XVI, §1649(b)(1), Dec. 23, 2024, 138 Stat. 2199, struck out item 130h "Prohibitions relating to missile defense information and systems". Amendment was made pursuant to operation of section 102 of this title.
 
 **2023**—Pub. L. 118–31, div. A, title XII, §§1201(b), 1221(b), Dec. 22, 2023, 137 Stat. 441, 453, added items 127d and 127f and struck out former item 127f "Expenditure of funds for clandestine activities that support operational preparation of the environment".
 

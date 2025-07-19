@@ -26,6 +26,94 @@ A prior chapter 221 "PLANNING AND SOLICITATION GENERALLY", as added by Pub. L. 1
 
 #### **Statutory Notes and Related Subsidiaries** ####
 
+#### Policy on Qualifications of Contractors for Into-Plane Fuel Deliveries for Heavy-Lift Aircraft ####
+
+Pub. L. 118–159, div. A, title I, §163, Dec. 23, 2024, 138 Stat. 1817, provided that:
+
+"(a) Establishment of Policy.—Not later than one year after the date of the enactment of this Act [Dec. 23, 2024], the Director of the Defense Logistics Agency shall develop and implement a policy pursuant to which acquisition planning shall be performed for any contract providing for the into-plane procurement for heavy-lift aircraft of an estimated 5,000,000 gallons or more of aviation fuel per year within the continental United States.
+
+"(b) Use of Evaluation Factors.—As part of the acquisition planning required under subsection (a), the Director of the Defense Logistics Agency shall determine whether to use evaluation factors to assess the qualifications of fixed-based operators bidding on contracts described in such subsection. In the event the Director determines it is appropriate to use such evaluation factors, the factors may include the following:
+
+"(1) Whether the fixed-base operator is able to maintain sufficient onsite fuel storage.
+
+"(2) Whether the fixed-base operator's total number of employees is sufficient to service military customers.
+
+"(3) Whether the fixed-based operator is capable of performing a sufficient range of cargo on-load, off-load, and handling operations, including for dangerous goods and cargo, for military aircraft of all sizes.
+
+"(4) Whether the fixed-based operator has acceptable past performance history on similar procurements.
+
+"(5) Any other factors the Director determines appropriate.
+
+"(c) Consultation.—The Director of the Defense Logistics Agency shall, as appropriate, consult with appropriate personnel of the military departments in developing mission requirements at commercial airports for purposes of the acquisition planning required under subsection (a).
+
+"(d) Heavy-lift Aircraft Defined.—In this section, the term 'heavy-lift aircraft' means an aircraft with a maximum gross takeoff weight in excess of 107,000 pounds."
+
+#### Procurement of Cleaning Products ####
+
+Pub. L. 118–159, div. A, title VIII, §856, Dec. 23, 2024, 138 Stat. 1997, provided that: "The Secretary of Defense shall procure, to the maximum extent practicable, only those cleaning products that are identified—
+
+"(1) under the Safer Choice program; or
+
+"(2) by an independent third-party organization that provides certifications in a manner consistent with the Safer Choice program."
+
+#### Procurement of Covered Hearing Protection Devices ####
+
+Pub. L. 118–159, div. A, title VIII, §858, Dec. 23, 2024, 138 Stat. 1998, provided that:
+
+"(a) In General.—The Secretary of Defense, in coordination with the head of the Hearing Center of Excellence, may enter into one or more contracts to procure covered hearing protection devices for members of the Armed Forces.
+
+"(b) Prioritization.—The Secretary shall prioritize the award of such a contract to a domestic offeror.
+
+"(c) Definitions.—In this section:
+
+"(1) The term 'covered hearing protection device' means an active hearing protection device—
+
+"(A) that is a commercially available off-the-shelf item (as defined in section 104 of title 41, United States Code); and
+
+"(C) [sic] that has been identified, tested, and qualified by the Hearing Center of Excellence.
+
+"(2) The term 'Hearing Center of Excellence' means the center of excellence for hearing loss and auditory system injury established pursuant to section 721 of the Duncan Hunter National Defense Authorization Act for Fiscal Year 2009 (Public Law 110–417) [10 U.S.C. 1071 note]."
+
+#### Procurement of Department of Defense Batteries ####
+
+Pub. L. 118–159, div. A, title VIII, §883, Dec. 23, 2024, 138 Stat. 2018, provided that:
+
+"(a) In General.—The Secretary of Defense shall—
+
+"(1) coordinate a Department of Defense-wide approach to establishing a battery strategy to further leverage the advancements of domestic and allied commercial industry with respect to batteries; and
+
+"(2) in coordination with the Secretaries of the military departments and the other relevant elements of the Department of Defense, identify mechanisms for measuring and addressing risks to the defense supply chain, diminishing manufacturing capability, and material shortages for legacy system batteries by transitioning the Department to safer batteries with higher energy capabilities with supply chain growth.
+
+"(b) Legacy Battery Strategy Contents.—The strategy established pursuant to subsection (a)(1) strategy shall include the following:
+
+"(1) The establishment of a Department of Defense-wide accounting of advanced batteries for current and future applications, including obsolete batteries in existing systems, and improved mechanisms for aligning the battery procurement requirements across the Department.
+
+"(2) Requirements for the supply chain for batteries for the Department of Defense to enable to [sic] Department to leverage advancements by domestic industry and industry located in allies of the United States with respect to batteries.
+
+"(3) The application of the requirements described in paragraph (2) to the near-term, mid-term, and long-term horizons of the Department.
+
+"(4) Creating a Department of Defense-wide Science and Technology battery strategy, in coordination with the military services, to define an approach, technical targets, and link into procurement activities.
+
+"(5) Consideration of the existing battery strategies completed by the services.
+
+"(6) A determination of how the military services can standardize the battery systems across the existing and future programs of such Armed Service.
+
+"(7) Identify obstacles with respect to the raw materials required to achieve the goals of the strategy established pursuant to subsection (a)(1) and determine ways to overcome such obstacles, including through the Industrial Base Analysis and Sustainment program of the Department of Defense and the use of authorities under the Defense Production Act [of 1950] (50 U.S.C. 4501 et seq.).
+
+"(8) Processes and guidelines for rapid testing and certification to field batteries.
+
+"(9) A discussion of the workforce challenges, if any, that may inhibit the Department of Defense from achieving the goals of the strategy established pursuant to subsection (a)(1).
+
+"(c) Briefings and Final Report.—
+
+"(1) Initial briefing.—Not later than 180 days after enactment [probably means the date of the enactment of this Act, Dec. 23, 2024], the Secretary of Defense, in consultation with the Secretaries of the military departments and the other relevant elements of the Department of Defense, shall brief the Committees on Armed Services of the Senate and [the] House of Representatives on the approach to establishing the strategy described in subsection (a)(1).
+
+"(2) Update briefings.—Not later than 180 days after the date of the briefing under paragraph (1), and not less frequently than every 6 months thereafter until the strategy described in subsection (a)(1) is established, the Secretary of Defense, in consultation with the Secretaries of the military departments and the other relevant elements of the Department of Defense, shall provide to the Committees on Armed Services of the Senate and House of Representatives a briefing on the status of the establishment of such strategy.
+
+"(3) Final report.—Not later than September 30, 2026, the Secretary of Defense, in consultation with the Secretaries of the military departments and the other relevant elements of the Department of Defense, shall submit to the Committees on Armed Services of the Senate and the House of Representatives a final report on the establishment of the strategy pursuant to subsection (a).
+
+"(d) Military Department Defined.—In this section, the term 'military department' has the meaning given such term in section 101(a) of title 10, United States Code."
+
 #### Prohibition on Solicitation of Proprietary Armor for Certain Tactical Vehicles ####
 
 Pub. L. 118–31, div. A, title I, §153, Dec. 22, 2023, 137 Stat. 180, provided that:
@@ -94,7 +182,7 @@ Pub. L. 117–263, div. A, title III, §345, Dec. 23, 2022, 136 Stat. 2530, prov
 
 Pub. L. 116–92, div. A, title VIII, §837, Dec. 20, 2019, 133 Stat. 1497, provided that:
 
-"(a) Report.—Not later than December 15, 2019, the Under Secretary of Defense for Acquisition and Sustainment shall submit to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] a report that includes the guidance required under section 804(a) of the National Defense Authorization Act for Fiscal Year 2016 (Public Law 114–92; 10 U.S.C. 2302 note [now 10 U.S.C. 3201 note prec., set out below]). The Under Secretary of Defense for Acquisition and Sustainment shall ensure such guidance includes the business case elements required by an acquisition program established pursuant to such guidance and the metrics required to assess the performance of such a program.
+"(a) Report.—Not later than December 15, 2019, the Under Secretary of Defense for Acquisition and Sustainment shall submit to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] a report that includes the guidance required under [former] section 804(a) of the National Defense Authorization Act for Fiscal Year 2016 (Public Law 114–92; 10 U.S.C. 2302 note [former 10 U.S.C. 3201 note prec., formerly set out below] [see 10 U.S.C. 3602(a)]). The Under Secretary of Defense for Acquisition and Sustainment shall ensure such guidance includes the business case elements required by an acquisition program established pursuant to such guidance and the metrics required to assess the performance of such a program.
 
 "(b) Limitation.—
 
@@ -102,7 +190,7 @@ Pub. L. 116–92, div. A, title VIII, §837, Dec. 20, 2019, 133 Stat. 1497, prov
 
 "(2) Funds specified.—The funds specified in this paragraph are the funds authorized to be appropriated by this Act or otherwise made available for fiscal year 2020 for the Department of Defense that remain unobligated as of December 15, 2019, for the following:
 
-"(A) The execution of any acquisition program established pursuant to the guidance required under such section 804(a).
+"(A) The execution of any acquisition program established pursuant to the guidance required under such [former] section 804(a) [see 10 U.S.C. 3602(a)].
 
 "(B) The operations of the Office of the Under Secretary of Defense for Research & Engineering.
 
@@ -112,85 +200,7 @@ Pub. L. 116–92, div. A, title VIII, §837, Dec. 20, 2019, 133 Stat. 1497, prov
 
 "(E) The operations of the offices of the service acquisition executives of the military departments."
 
-Pub. L. 114–92, div. A, title VIII, §804, Nov. 25, 2015, 129 Stat. 882, as amended by Pub. L. 114–328, div. A, title VIII, §§849(a), 864(b), 897, title X, §1081(c)(2), Dec. 23, 2016, 130 Stat. 2293, 2304, 2327, 2419; Pub. L. 115–91, div. A, title VIII, §866, Dec. 12, 2017, 131 Stat. 1495; Pub. L. 116–92, div. A, title IX, §902(33), Dec. 20, 2019, 133 Stat. 1546; Pub. L. 116–283, div. A, title VIII, §805, Jan. 1, 2021, 134 Stat. 3742, provided that:
-
-"(a) Guidance Required.—Not later than 180 days after the date of the enactment of this Act [Nov. 25, 2015], the Under Secretary of Defense for Acquisition and Sustainment, in consultation with the Comptroller of the Department of Defense and the Vice Chairman of the Joint Chiefs of Staff, shall establish guidance for a 'middle tier' of acquisition programs that are intended to be completed in a period of two to five years.
-
-"(b) Acquisition Pathways.—The guidance required by subsection (a) shall cover the following two acquisition pathways:
-
-"(1) Rapid prototyping.—The rapid prototyping pathway shall provide for the use of innovative technologies to rapidly develop fieldable prototypes to demonstrate new capabilities and meet emerging military needs. The objective of an acquisition program under this pathway shall be to field a prototype that can be demonstrated in an operational environment and provide for a residual operational capability within five years of the development of an approved requirement.
-
-"(2) Rapid fielding.—The rapid fielding pathway shall provide for the use of proven technologies to field production quantities of new or upgraded systems with minimal development required. The objective of an acquisition program under this pathway shall be to begin production within six months and complete fielding within five years of the development of an approved requirement.
-
-"(c) Expedited Process.—
-
-"(1) In general.—The guidance required by subsection (a) shall provide for a streamlined and coordinated requirements, budget, and acquisition process that results in the development of an approved requirement for each program in a period of not more than six months from the time that the process is initiated. Programs that are subject to the guidance shall not be subject to the Joint Capabilities Integration and Development System Manual and Department of Defense Directive 5000.01, except to the extent specifically provided in the guidance.
-
-"(2) Rapid prototyping.—With respect to the rapid prototyping pathway, the guidance shall include—
-
-"(A) a merit-based process for the consideration of innovative technologies and new capabilities to meet needs communicated by the Joint Chiefs of Staff and the combatant commanders;
-
-"(B) a process for developing and implementing acquisition and funding strategies for the program;
-
-"(C) a process for demonstrating and evaluating the performance of fieldable prototypes developed pursuant to the program in an operational environment; and
-
-"(D) a process for transitioning successful prototypes to new or existing acquisition programs for production and fielding under the rapid fielding pathway or the traditional acquisition system.
-
-"(3) Rapid fielding.—With respect to the rapid fielding pathway, the guidance shall include—
-
-"(A) a merit-based process for the consideration of existing products and proven technologies to meet needs communicated by the Joint Chiefs of Staff and the combatant commanders;
-
-"(B) a process for demonstrating performance and evaluating for current operational purposes the proposed products and technologies;
-
-"(C) a process for developing and implementing acquisition and funding strategies for the program;
-
-"(D) a process for considering lifecycle costs and addressing issues of logistics support and system interoperability; and
-
-"(E) a process for identifying and exploiting opportunities to use the rapid fielding pathway to reduce total ownership costs.
-
-"(4) Streamlined procedures.—The guidance for the programs may provide for any of the following streamlined procedures:
-
-"(A) The service acquisition executive of the military department concerned shall appoint a program manager for such program from among candidates from among civilian employees or members of the Armed Forces who have significant and relevant experience managing large and complex programs.
-
-"(B) The program manager for each program shall report with respect to such program directly, without intervening review or approval, to the service acquisition executive of the military department concerned.
-
-"(C) The service acquisition executive of the military department concerned shall evaluate the job performance of such manager on an annual basis. In conducting an evaluation under this paragraph, a service acquisition executive shall consider the extent to which the manager has achieved the objectives of the program for which the manager is responsible, including quality, timeliness, and cost objectives.
-
-"(D) The program manager of a defense streamlined program shall be authorized staff positions for a technical staff, including experts in business management, contracting, auditing, engineering, testing, and logistics, to enable the manager to manage the program without the technical assistance of another organizational unit of an agency to the maximum extent practicable.
-
-"(E) The program manager of a defense streamlined program shall be authorized, in coordination with the users of the equipment and capability to be acquired and the test community, to make trade-offs among life-cycle costs, requirements, and schedules to meet the goals of the program.
-
-"(F) The service acquisition executive, acting in coordination with the defense acquisition executive, shall serve as the milestone decision authority for the program.
-
-"(G) The program manager of a defense streamlined program shall be provided a process to expeditiously seek a waiver from Congress from any statutory or regulatory requirement that the program manager determines adds little or no value to the management of the program.
-
-"(d) Rapid Prototyping Funds.—
-
-"(1)Department of defense rapid prototyping fund.—
-
-"(A) In general.—The Secretary of Defense shall establish a fund to be known as the 'Department of Defense Rapid Prototyping Fund' to provide funds, in addition to other funds that may be available, for acquisition programs under the rapid prototyping pathway established pursuant to this section and other purposes specified in law. The Fund shall be managed by a senior official of the Department of Defense designated by the Deputy Secretary of Defense. The Fund shall consist of—
-
-"(i) amounts appropriated to the Fund;
-
-"(ii) amounts credited to the Fund pursuant to section 828 of this Act [set out as a note preceding section 4201 of this title]; and
-
-"(iii) any other amounts appropriated to, credited to, or transferred to the Fund.
-
-"(B) Transfer authority.—Amounts available in the Fund may be transferred to a military department for the purpose of carrying out an acquisition program under the rapid prototyping pathway established pursuant to this section. Any amount so transferred shall be credited to the account to which it is transferred. The transfer authority provided in this paragraph is in addition to any other transfer authority available to the Department of Defense.
-
-"(C) Congressional notice.—The senior official designated to manage the Fund shall notify the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] of all transfers under paragraph (2) within 5 business days after such transfer. Each notification shall specify the amount transferred, the purpose of the transfer, and the total projected cost and estimated cost to complete the acquisition program to which the funds were transferred."
-
-"(2) Rapid prototyping funds for the military departments.—The Secretary of each military department may establish a military department-specific fund (and, in the case of the Secretary of the Navy, including the Marine Corps) to provide funds, in addition to other funds that may be available to the military department concerned, for acquisition programs under the rapid fielding and prototyping pathways established pursuant to this section. Each military department-specific fund shall consist of amounts appropriated or credited to the fund.
-
-"(e) Report.—Not later than 30 days after the date of termination of an acquisition program commenced using the authority under this section, the Secretary of Defense shall submit to Congress a notification of such termination. Such notice shall include—
-
-"(1) the initial amount of a contract awarded under such acquisition program;
-
-"(2) the aggregate amount of funds awarded under such contract; and
-
-"(3) written documentation of the reason for termination of such acquisition program."
-
-[Pub. L. 114–328, div. A, title X, §1081(c), Dec. 23, 2016, 130 Stat. 2419, provided that the amendment made by section 1081(c)(2) to section 804 of Pub. L. 114–92, set out above, is effective as of Nov. 25, 2015, and as if included in Pub. L. 114–92 as enacted.]
+Pub. L. 114–92, div. A, title VIII, §804, Nov. 25, 2015, 129 Stat. 882, as amended by Pub. L. 114–328, div. A, title VIII, §§849(a), 864(b), 897, title X, §1081(c)(2), Dec. 23, 2016, 130 Stat. 2293, 2304, 2327, 2419; Pub. L. 115–91, div. A, title VIII, §866, Dec. 12, 2017, 131 Stat. 1495; Pub. L. 116–92, div. A, title IX, §902(33), Dec. 20, 2019, 133 Stat. 1546; Pub. L. 116–283, div. A, title VIII, §805, Jan. 1, 2021, 134 Stat. 3742, which authorized the Under Secretary of Defense for Acquisition and Sustainment, in consultation with the Comptroller of the Department of Defense and the Vice Chairman of the Joint Chiefs of Staff, to establish guidance for a middle tier of acquisition programs covering rapid prototyping and rapid fielding pathways, was repealed by Pub. L. 118–159, div. A, title VIII, §804(b), Dec. 23, 2024, 138 Stat. 1968. See section 3602 of this title.
 
 #### Use of Alternative Acquisition Paths To Acquire Critical National Security Capabilities ####
 

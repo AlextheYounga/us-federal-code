@@ -1,4 +1,5 @@
-### Part A—General Provisions ###
+Part A—General Provisions
+----------
 
 #### Historical and Revision Notes ####
 

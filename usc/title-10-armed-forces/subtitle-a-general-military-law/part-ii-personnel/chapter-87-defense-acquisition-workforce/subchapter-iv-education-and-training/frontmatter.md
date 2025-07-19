@@ -20,9 +20,13 @@ Sec.
 
 1748. Fulfillment standards for acquisition workforce training.
 
+1749. Field training for acquisition and sustainment.
+
 #### **Editorial Notes** ####
 
 #### Amendments ####
+
+**2024**—Pub. L. 118–159, div. A, title VIII, §832(b), Dec. 23, 2024, 138 Stat. 1986, which directed amendment of analysis for chapter 87 of this title by adding item 1749 after item 1748, was executed to analysis for this subchapter to reflect the probable intent of Congress.
 
 **2022**—Pub. L. 117–263, div. A, title VIII, §801(b), Dec. 23, 2022, 136 Stat. 2693, which directed amendment of analysis for chapter 87 of this title by adding item 1743 after item 1742, was executed to analysis for this subchapter to reflect the probable intent of Congress.
 

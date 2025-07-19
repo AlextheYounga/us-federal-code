@@ -1,8 +1,8 @@
-### §492a. Annual report on the plan for the nuclear weapons stockpile, nuclear weapons complex, nuclear weapons delivery systems, and nuclear weapons command and control system ###
+### §492a. Biennial report on the plan for the nuclear weapons stockpile, nuclear weapons complex, nuclear weapons delivery systems, and nuclear weapons command and control system ###
 
 (a) Report Required.—
 
-(1) In general.—Not later than 30 days after the submission to Congress of the budget of the President under section 1105(a) of title 31, United States Code, for each of fiscal years 2013 through 2029, the President, in consultation with the Secretary of Defense and the Secretary of Energy, shall transmit to the congressional defense committees, the Committee on Foreign Relations of the Senate, and the Committee on Foreign Affairs of the House of Representatives a detailed report on the plan for the nuclear weapons stockpile, nuclear weapons complex, nuclear weapons delivery systems, and nuclear weapons command and control system.
+(1) In general.—Not later than 30 days after the submission to Congress of the budget of the President under section 1105(a) of title 31, United States Code, for each of the odd-numbered fiscal years 2013 through 2029, the President, in consultation with the Secretary of Defense and the Secretary of Energy, shall transmit to the congressional defense committees, the Committee on Foreign Relations of the Senate, and the Committee on Foreign Affairs of the House of Representatives a detailed report on the plan for the nuclear weapons stockpile, nuclear weapons complex, nuclear weapons delivery systems, and nuclear weapons command and control system.
 
 (2) Elements.—Each report required under paragraph (1) shall include the following:
 
@@ -18,7 +18,7 @@
 
 (F) In accordance with paragraph (3), a detailed estimate of the budget requirements associated with sustaining and modernizing the nuclear deterrent of the United States and the nuclear weapons stockpile of the United States, including the costs associated with the plans outlined under subparagraphs (A) through (E), over the 10-year period following the date of the report, including the applicable and appropriate costs associated with the procurement, military construction, operation and maintenance, and research, development, test, and evaluation accounts of the Department of Defense. The Secretary may include information and data for a period beyond such 10-year period if the Secretary determines that such information and data is accurate and useful in understanding the long-term nuclear modernization plan.
 
-(G) A detailed description of the steps taken to implement the plan submitted in the previous year, including difficulties encountered in implementing the plan in the previous year.
+(G) A detailed description of the steps taken to implement the plan submitted in the previous report, including difficulties encountered in implementing the plan in the previous report.
 
 (3) Budget estimate contents and methodology.— Each budget estimate under paragraph (2)(F) shall include a detailed description of the costs included in such estimate and the methodology used to create such estimate.
 
@@ -32,25 +32,15 @@
 
 (B) Limitation.—In no case may the President transmit a report required by paragraph (1) for a fiscal year to the committees specified in that paragraph later than 60 days after the submission to Congress of the budget of the President for that fiscal year.
 
-(b) Estimate of Costs by Congressional Budget Office.—
+(b) Estimate of Costs by Congressional Budget Office.—Not later than July 1 of each year in which the President transmits a report required under subsection (a), the Director of the Congressional Budget Office shall submit to the congressional defense committees a report that includes—
 
-(1) Budgets for odd-numbered fiscal years.—Not later than July 1 of each year in which the President transmits a covered odd-numbered fiscal year report, the Director of the Congressional Budget Office shall submit to the congressional defense committees a report that includes—
+(1) an estimate of the costs during the 10-year period beginning on the date of such report associated with fielding and maintaining the current nuclear weapons and nuclear weapon delivery systems of the United States;
 
-(A) an estimate of the costs during the 10-year period beginning on the date of such covered odd-numbered fiscal year report associated with fielding and maintaining the current nuclear weapons and nuclear weapon delivery systems of the United States;
+(2) an estimate of the costs during such period of any life extension, modernization, or replacement of any current nuclear weapons or nuclear weapon delivery systems of the United States that is anticipated as of the date of such report, including an estimate of the acquisition costs during such period for programs relating to such life extension, modernization, or replacement;
 
-(B) an estimate of the costs during such period of any life extension, modernization, or replacement of any current nuclear weapons or nuclear weapon delivery systems of the United States that is anticipated as of the date of such covered odd-numbered fiscal year report, including an estimate of the acquisition costs during such period for programs relating to such life extension, modernization, or replacement;
+(3) an estimate of the relative percentage of total defense spending during such period represented by the costs estimated under subparagraphs (A) and (B); and
 
-(C) an estimate of the relative percentage of total defense spending during such period represented by the costs estimated under subparagraphs (A) and (B); and
-
-(D) an estimate of the relative percentage of total acquisition costs of the military departments and of the Department of Defense during such period represented by the acquisition costs estimated under subparagraph (B).
-
-(2) Budgets for even-numbered fiscal years.—If the Director determines that a covered even-numbered fiscal year report contains a significant change that affects the estimates of the Director included in the report submitted under paragraph (1) in the year prior to the year in which such covered even-numbered fiscal year report is submitted, the Director shall submit to the congressional defense committees a letter describing such significant changes.
-
-(3) Definitions.—In this subsection:
-
-(A) The term "covered even-numbered fiscal year report" means a report required to be transmitted under subsection (a)(1) not later than 30 days after the submission to Congress of the budget of the President for an even-numbered fiscal year.
-
-(B) The term "covered odd-numbered fiscal year report" means a report required to be transmitted under subsection (a)(1) not later than 30 days after the submission to Congress of the budget of the President for an odd-numbered fiscal year.
+(4) an estimate of the relative percentage of total acquisition costs of the military departments and of the Department of Defense during such period represented by the acquisition costs estimated under subparagraph (B).
 
 (c) Comptroller General Review.—The Comptroller General of the United States shall—
 
@@ -82,7 +72,7 @@
 
 (B) Submission to congress.—Not later than 15 days after the Chairman of the Nuclear Weapons Council receives an assessment required by paragraph (1), the Chairman shall transmit the assessment, without change, to the congressional defense committees.
 
-(Added and amended Pub. L. 116–92, div. A, title XVI, §1665(c)(1), Dec. 20, 2019, 133 Stat. 1773; Pub. L. 116–283, div. A, title XVI, §1633, Jan. 1, 2021, 134 Stat. 4059; Pub. L. 117–263, div. A, title XVI, §1635, Dec. 23, 2022, 136 Stat. 2939; Pub. L. 118–31, div. A, title XVI, §1633, Dec. 22, 2023, 137 Stat. 592.)
+(Added and amended Pub. L. 116–92, div. A, title XVI, §1665(c)(1), Dec. 20, 2019, 133 Stat. 1773; Pub. L. 116–283, div. A, title XVI, §1633, Jan. 1, 2021, 134 Stat. 4059; Pub. L. 117–263, div. A, title XVI, §1635, Dec. 23, 2022, 136 Stat. 2939; Pub. L. 118–31, div. A, title XVI, §1633, Dec. 22, 2023, 137 Stat. 592; Pub. L. 118–159, div. A, title XVI, §1624, Dec. 23, 2024, 138 Stat. 2173.)
 
 #### **Editorial Notes** ####
 
@@ -91,6 +81,14 @@
 Section, as added and amended by Pub. L. 116–92, is based on Pub. L. 112–81, div. A, title X, §1043, Dec. 31, 2011, 125 Stat. 1576, as amended by Pub. L. 112–239, div. A, title X, §1041(a), Jan. 2, 2013, 126 Stat. 1931; Pub. L. 113–66, div. A, title X, §1054, Dec. 26, 2013, 127 Stat. 861; Pub. L. 113–291, div. A, title XVI, §1643, Dec. 19, 2014, 128 Stat. 3650; Pub. L. 115–91, div. A, title XVI, §1665, Dec. 12, 2017, 131 Stat. 1767; Pub. L. 115–232, div. A, title XVI, §1670, Aug. 13, 2018, 132 Stat. 2157; Pub. L. 116–92, div. A, title XVI, §1665(a), (b), Dec. 20, 2019, 133 Stat. 1773, which was transferred to this chapter and renumbered as this section.
 
 #### Amendments ####
+
+**2024**—Pub. L. 118–159, §1624(1), substituted "Biennial" for "Annual" in section catchline.
+
+Subsec. (a)(1). Pub. L. 118–159, §1624(2)(A), inserted "the odd-numbered" after "for each of".
+
+Subsec. (a)(2)(G). Pub. L. 118–159, §1624(2)(B), substituted "report" for "year" in two places.
+
+Subsec. (b). Pub. L. 118–159, §1624(3), struck out par. (1) designation and heading "Budgets for odd-numbered fiscal years" before "Not later than July 1"; redesignated subpars. (A) to (D) of former par. (1) as pars. (1) to (4), respectively; substituted "report required under subsection (a)" for "covered odd-numbered fiscal year report" in introductory provisions; struck out "covered odd-numbered fiscal year" before "report" in pars. (1) and (2); and struck out former pars. (2) and (3) which provided for budget updates in even-numbered fiscal years and defined terms for covered even-numbered and odd-numbered fiscal year reports, respectively.
 
 **2023**—Subsec. (d). Pub. L. 118–31 added subsec. (d).
 

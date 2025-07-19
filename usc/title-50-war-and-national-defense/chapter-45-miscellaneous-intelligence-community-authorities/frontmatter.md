@@ -114,6 +114,8 @@ Sec.
 
 3334t. Program for beyond 5G.
 
+3334u. Notification of referral to Department of Justice.
+
 #### SUBCHAPTER III—SECURITY CLEARANCES AND CLASSIFIED INFORMATION ####
 
 3341. Security clearances.
@@ -214,7 +216,7 @@ Sec.
 
 3370. Supply Chain and Counterintelligence Risk Management Task Force.
 
-3370a. Biennial report on foreign investment risks.
+3370a. Repealed.
 
 3370b. Collaboration between intelligence community and Department of Commerce to counter foreign commercial threats.
 

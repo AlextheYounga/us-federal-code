@@ -22,7 +22,9 @@ Sec.
 
 2391. Military base reuse studies and community planning assistance.
 
-[2392 to 2395. Renumbered.]
+2392. Process for strategic basing actions for the Department of the Air Force.
+
+[2393 to 2395. Renumbered.]
 
 2396. Advances for payments for compliance with foreign laws, rent in foreign countries, tuition, public utility services, and pay and supplies of armed forces of friendly foreign countries.
 
@@ -31,6 +33,8 @@ Sec.
 #### **Editorial Notes** ####
 
 #### Amendments ####
+
+**2024**—Pub. L. 118–159, div. B, title XXVIII, §2803(a), Dec. 23, 2024, 138 Stat. 2247, added item 2392. Amendment was made pursuant to operation of section 102 of this title.
 
 **2021**—Pub. L. 116–283, div. A, title XVIII, §1882(a)(1), (c), Jan. 1, 2021, 134 Stat. 4293, amended analysis generally, substituting items 2385 to 2396 for former items 2381 to 2410s, and directed amendment of chapter heading by substituting "PART 141—MISCELLANEOUS PROVISIONS RELATING TO PROPERTY" for "CHAPTER 141—MISCELLANEOUS PROCUREMENT PROVISIONS" which was executed by substituting "MISCELLANEOUS PROVISIONS RELATING TO PROPERTY" for "MISCELLANEOUS PROCUREMENT PROVISIONS" to reflect the probable intent of Congress.
 

@@ -6,23 +6,35 @@ Under regulations to be prescribed by the Secretary of Defense, the Secretary ma
 
 (1) the children of full-time, locally-hired employees of the Department of Defense in an overseas area if such employees are citizens or nationals of the United States; and
 
-(2) the children of a foreign military member assigned to the Supreme Headquarters Allied Powers, Europe, but only in a school of the defense dependents' education system in Mons, Belgium.
+(2) the children of foreign military members assigned to—
+
+(A) the Supreme Headquarters Allied Powers, Europe, but only in a school of the defense dependents' education system in Mons, Belgium; or
+
+(B) the United Nations Command, but only in a school of the defense dependents' education system in South Korea or Japan.
 
 #### (b) Funding ####
 
 The Secretary may use funds available for the defense dependents' education system to provide for the education of children enrolled in the defense dependents' education system under subsection (a).
 
-#### (c) Special rules regarding enrollment of dependents of foreign military members assigned to Supreme Headquarters Allied Powers, Europe ####
+#### (c) Special rules regarding enrollment of dependents of foreign military members ####
 
-(1) In the regulations required by subsection (a), the Secretary shall prescribe a methodology based on the estimated total number of dependents of sponsors under section 932(2) of this title enrolled in schools of the defense dependents' education system in Mons, Belgium, to determine the number of children described in paragraph (2) of subsection (a) who will be authorized to enroll under such subsection. The Secretary shall prescribe such methodology with the advice and assistance of the commander of the geographic combatant command with jurisdiction over Mons, Belgium.
+(1) In the regulations required by subsection (a), the Secretary shall prescribe a methodology based on the estimated total number of dependents of sponsors under section 932(2) of this title enrolled in schools of the defense dependents' education system described in paragraph (2) of subsection (a) to determine the number of children described in that paragraph who will be authorized to enroll under such subsection. The Secretary shall prescribe such methodology with the advice and assistance of the commanders of the geographic combatant commands with jurisdiction over the locations described in paragraph (2) of subsection (a).
 
-(2) If the number of children described in paragraph (2) of subsection (a) who seek enrollment in schools of the defense dependents' education system in Mons, Belgium, exceeds the number authorized by the Secretary under paragraph (1), the Secretary may enroll the additional children on a space-available, tuition-free basis notwithstanding section 923(d)(2) of this title.
+(2) If the number of children described in paragraph (2) of subsection (a) who seek enrollment in schools of the defense dependents' education system exceeds the number authorized by the Secretary under paragraph (1), the Secretary may enroll the additional children on a space-available, tuition-free basis notwithstanding section 923(d)(2) of this title.
 
-(Pub. L. 95–561, title XIV, §1404A, as added Pub. L. 109–163, div. A, title V, §571, Jan. 6, 2006, 119 Stat. 3270; amended Pub. L. 109–364, div. A, title V, §571(a), Oct. 17, 2006, 120 Stat. 2225; Pub. L. 110–181, div. A, title X, §1063(e)(1), Jan. 28, 2008, 122 Stat. 323; Pub. L. 111–84, div. A, title V, §535, Oct. 28, 2009, 123 Stat. 2292.)
+(Pub. L. 95–561, title XIV, §1404A, as added Pub. L. 109–163, div. A, title V, §571, Jan. 6, 2006, 119 Stat. 3270; amended Pub. L. 109–364, div. A, title V, §571(a), Oct. 17, 2006, 120 Stat. 2225; Pub. L. 110–181, div. A, title X, §1063(e)(1), Jan. 28, 2008, 122 Stat. 323; Pub. L. 111–84, div. A, title V, §535, Oct. 28, 2009, 123 Stat. 2292; Pub. L. 118–159, div. A, title V, §597, Dec. 23, 2024, 138 Stat. 1921.)
 
 #### **Editorial Notes** ####
 
 #### Amendments ####
+
+**2024**—Subsec. (a)(2). Pub. L. 118–159, §597(1), substituted "foreign military members assigned to—" for "a foreign military member assigned to", designated remainder of existing provisions as subpar. (A), and added subpar. (B).
+
+Subsec. (c). Pub. L. 118–159, §597(2)(A), struck out "assigned to Supreme Headquarters Allied Powers, Europe" after "members" in heading.
+
+Subsec. (c)(1). Pub. L. 118–159, §597(2)(B), substituted "described in paragraph (2) of subsection (a) to determine the number of children described in that paragraph" for "in Mons, Belgium, to determine the number of children described in paragraph (2) of subsection (a)" in first sentence and "the commanders of the geographic combatant commands with jurisdiction over the locations described in paragraph (2) of subsection (a)" for "the commander of the geographic combatant command with jurisdiction over Mons, Belgium" in second sentence.
+
+Subsec. (c)(2). Pub. L. 118–159, §597(2)(C), struck out "in Mons, Belgium," after "education system".
 
 **2009**—Subsec. (a)(2). Pub. L. 111–84, §535(a), struck out ", and only through the 2010–2011 school year" before period at end.
 

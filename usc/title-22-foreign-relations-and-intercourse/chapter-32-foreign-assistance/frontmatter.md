@@ -334,6 +334,8 @@ Sec.
 
 2291n. Exchange program on demand reduction matters relating to illicit use of covered synthetic drugs.
 
+2291o. Fentanyl reporting and authorities.
+
 #### Part IX—International Disaster Assistance ####
 
 2292. General provisions.

@@ -4,11 +4,11 @@ Any person who—
 
 (1) aids, or attempts to aid, the enemy with arms, ammunition, supplies, money, or other things; or
 
-(2) without proper authority, knowingly harbors or protects or gives intelligence to, or communicates or corresponds with or holds any intercourse with the enemy, either directly or indirectly;
+(2) without proper authority, knowingly harbors or protects or gives intelligence to, provides military education, military training, or tactical advice to, or communicates or corresponds with or holds any intercourse with the enemy, either directly or indirectly;
 
 shall suffer death or such other punishment as a court-martial or military commission may direct. This section does not apply to a military commission established under chapter 47A of this title.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 70, §904; Pub. L. 109–366, §4(a)(2), Oct. 17, 2006, 120 Stat. 2631; renumbered §903b, Pub. L. 114–328, div. E, title LX, §5401(5), Dec. 23, 2016, 130 Stat. 2938.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 70, §904; Pub. L. 109–366, §4(a)(2), Oct. 17, 2006, 120 Stat. 2631; renumbered §903b, Pub. L. 114–328, div. E, title LX, §5401(5), Dec. 23, 2016, 130 Stat. 2938; Pub. L. 118–159, div. A, title V, §564, Dec. 23, 2024, 138 Stat. 1904.)
 
 |*Revised section*|*Source (U.S. Code)*|           *Source (Statutes at Large)*           |
 |-----------------|--------------------|--------------------------------------------------|
@@ -17,6 +17,8 @@ shall suffer death or such other punishment as a court-martial or military commi
 #### **Editorial Notes** ####
 
 #### Amendments ####
+
+**2024**—Par. (2). Pub. L. 118–159 inserted "provides military education, military training, or tactical advice to," after "gives intelligence to,".
 
 **2016**—Pub. L. 114–328 renumbered section 904 of this title as this section.
 

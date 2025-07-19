@@ -50,6 +50,8 @@ Sec.
 
 3034c. Intelligence Community Innovation Unit.
 
+3034d. National Intelligence Management Council.
+
 3035. Central Intelligence Agency.
 
 3036. Director of the Central Intelligence Agency.
@@ -89,6 +91,8 @@ Sec.
 3049. Non-reimbursable detail of other personnel.
 
 3049a. Special pay authority for science, technology, engineering, or mathematics positions and positions requiring banking or financial services expertise.
+
+3049b. Enabling intelligence community integration.
 
 3050. Annual report on hiring and retention of minority employees.
 
@@ -291,6 +295,8 @@ Sec.
 3227b. Reporting.
 
 3227c. Continued applicability of the Federal Advisory Committee Act to the Board of Visitors.
+
+3227d. National Intelligence University acceptance of grants.
 
 #### SUBCHAPTER IX—ADDITIONAL MISCELLANEOUS PROVISIONS ####
 

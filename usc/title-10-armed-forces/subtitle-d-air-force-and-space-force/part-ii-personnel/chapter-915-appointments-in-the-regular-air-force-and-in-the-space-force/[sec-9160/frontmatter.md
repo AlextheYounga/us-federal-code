@@ -1,0 +1,3 @@
+### [§9160. Repealed. Pub. L. 118–159, div. A, title V, §509D(a), Dec. 23, 2024, 138 Stat. 1874] ###
+
+Section, act Aug. 10, 1956, ch. 1041, 70A Stat. 518, §8310; renumbered §9160, Pub. L. 115–232, div. A, title VIII, §806(b)(3), Aug. 13, 2018, 132 Stat. 1832; Pub. L. 116–283, div. A, title IX, §923(c)(3)(A), Jan. 1, 2021, 134 Stat. 3810; Pub. L. 118–31, div. A, title XVII, §1721(a)(3), Dec. 22, 2023, 137 Stat. 665, provided that original appointments as warrant officers in the Regular Air Force or the Space Force would be made from persons who had served on active duty at least one year in the Air Force or the Space Force.

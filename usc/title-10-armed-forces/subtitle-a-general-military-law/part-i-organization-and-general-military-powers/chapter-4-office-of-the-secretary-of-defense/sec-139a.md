@@ -76,9 +76,9 @@
 
 (3) Briefings.—Not later than 15 days after the submission of each report required by paragraph (1), the Director of Cost Assessment and Program Evaluation shall provide to the congressional defense committees a briefing on the contents of the report.
 
-(h) Quarterly Briefings.—Beginning not later than 30 days after the date of the enactment of this subsection, and on a quarterly basis thereafter, the Director of Cost Assessment and Program Evaluation shall provide to the congressional defense committees a briefing on the activities carried out by Director <sup><a href="#139a_2_target" name="139a_2">2</a></sup> during the preceding quarter an <sup><a href="#139a_3_target" name="139a_3">3</a></sup> any ongoing activities of the Director as of the date of briefing.
+(h) Quarterly Briefings.—Beginning not later than 30 days after the date of the enactment of this subsection, and on a quarterly basis thereafter, the Director of Cost Assessment and Program Evaluation shall provide to the congressional defense committees a briefing on the activities carried out by the Director during the preceding quarter and any ongoing activities of the Director as of the date of briefing.
 
-(Added Pub. L. 111–23, title I, §101(a)(1), May 22, 2009, 123 Stat. 1705, §139c; renumbered §139a and amended Pub. L. 111–383, div. A, title IX, §901(f), title X, §1075(b)(5), Jan. 7, 2011, 124 Stat. 4322, 4369; Pub. L. 112–239, div. A, title X, §1076(f)(4), Jan. 2, 2013, 126 Stat. 1952; Pub. L. 115–91, div. A, title IX, §912(c), Dec. 12, 2017, 131 Stat. 1521; Pub. L. 116–92, div. A, title IX, §902(5), title XVI, §1621(e)(1)(A)(iii), Dec. 20, 2019, 133 Stat. 1543, 1733; Pub. L. 116–283, div. A, title XVIII, §1883(b)(2), Jan. 1, 2021, 134 Stat. 4294; Pub. L. 118–31, div. A, title IX, §902(a), Dec. 22, 2023, 137 Stat. 355.)
+(Added Pub. L. 111–23, title I, §101(a)(1), May 22, 2009, 123 Stat. 1705, §139c; renumbered §139a and amended Pub. L. 111–383, div. A, title IX, §901(f), title X, §1075(b)(5), Jan. 7, 2011, 124 Stat. 4322, 4369; Pub. L. 112–239, div. A, title X, §1076(f)(4), Jan. 2, 2013, 126 Stat. 1952; Pub. L. 115–91, div. A, title IX, §912(c), Dec. 12, 2017, 131 Stat. 1521; Pub. L. 116–92, div. A, title IX, §902(5), title XVI, §1621(e)(1)(A)(iii), Dec. 20, 2019, 133 Stat. 1543, 1733; Pub. L. 116–283, div. A, title XVIII, §1883(b)(2), Jan. 1, 2021, 134 Stat. 4294; Pub. L. 118–31, div. A, title IX, §902(a), Dec. 22, 2023, 137 Stat. 355; Pub. L. 118–159, div. A, title XVII, §1701(a)(3), Dec. 23, 2024, 138 Stat. 2203.)
 
 #### **Editorial Notes** ####
 
@@ -95,6 +95,8 @@ A prior section 139a was renumbered section 138b of this title.
 Another prior section 139a was renumbered section 4351 of this title.
 
 #### Amendments ####
+
+**2024**—Subsec. (h). Pub. L. 118–159 substituted "out by the Director" for "out by Director" and "and any" for "an any".
 
 **2023**—Subsec. (d)(5). Pub. L. 118–31, §902(a)(1)(A), substituted "and ensuring" for ", ensuring" and struck out ", and assessing the effect of spending by the Department of Defense on the United States economy" after "accurately and completely".
 
@@ -203,7 +205,3 @@ Pub. L. 118–31, div. A, title IX, §902(b)–(d), Dec. 22, 2023, 137 Stat. 357
 "(d) Rule of Construction.—Nothing in subsection (b) or (c) shall be construed to interfere with the authority of the Chiefs of Staff of the Armed Forces to establish military requirements, performance requirements, and joint performance requirements, or the authority of the Joint Requirements Oversight Council to validate such requirements under section 181 of title 10, United States Code."
 
 [<sup>1</sup> See References in Text note below.](#139a_1)
-
-[<sup>2</sup> So in original. Probably should be preceded by "the".](#139a_2)
-
-[<sup>3</sup> So in original.](#139a_3)

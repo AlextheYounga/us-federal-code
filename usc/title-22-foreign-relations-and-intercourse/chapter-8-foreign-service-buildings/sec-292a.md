@@ -58,4 +58,10 @@ Section 101(a)(1) of this Act, referred to in subsec. (d), means section 101(a)(
 
 Section was not enacted as part of the Foreign Service Buildings Act, 1926, which comprises this chapter.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
+#### Restrictions on the Use of Funds for Solar Panels ####
+
+Pub. L. 118–159, div. G, title LXXII, §7208, Dec. 23, 2024, 138 Stat. 2532, provided that: "The Department [of State] may not use Federal funds to procure any solar energy products that were manufactured in the Xinjiang Uyghur Autonomous Region of the People's Republic of China or other regions in the country, which are known to be produced with forced labor."
+
 [<sup>1</sup> See References in Text note below.](#292a_1)

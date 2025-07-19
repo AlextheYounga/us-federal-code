@@ -28,11 +28,9 @@ is guilty of rape of a child and shall be punished as a court-martial may direct
 
 (e) Proof of Threat.—In a prosecution under this section, in proving that a person made a threat, it need not be proven that the person actually intended to carry out the threat or had the ability to carry out the threat.
 
-(f) Marriage.—In a prosecution under subsection (b) (sexual assault of a child) or subsection (c) (sexual abuse of a child), it is a defense, which the accused must prove by a preponderance of the evidence, that the persons engaging in the sexual act or lewd act were at that time married to each other, except where the accused commits a sexual act upon the person when the accused knows or reasonably should know that the other person is asleep, unconscious, or otherwise unaware that the sexual act is occurring or when the other person is incapable of consenting to the sexual act due to impairment by any drug, intoxicant, or other similar substance, and that condition was known or reasonably should have been known by the accused.
+(f) Consent.—Lack of consent is not an element and need not be proven in any prosecution under this section. A child cannot consent to any sexual act, lewd act, or use of force.
 
-(g) Consent.—Lack of consent is not an element and need not be proven in any prosecution under this section. A child not legally married to the person committing the sexual act, lewd act, or use of force cannot consent to any sexual act, lewd act, or use of force.
-
-(h) Definitions.—In this section:
+(g) Definitions.—In this section:
 
 (1) Sexual act and sexual contact.—The terms "sexual act" and "sexual contact" have the meanings given those terms in section 920(g) of this title (article 120(g)), except that the term "sexual act" also includes the intentional touching, not through the clothing, of the genitalia of another person who has not attained the age of 16 years with an intent to abuse, humiliate, harass, degrade, or arouse or gratify the sexual desire of any person.
 
@@ -60,11 +58,15 @@ In the case of a parent-child or similar relationship, the use or abuse of paren
 
 (D) any indecent conduct, intentionally done with or in the presence of a child, including via any communication technology, that amounts to a form of immorality relating to sexual impurity which is grossly vulgar, obscene, and repugnant to common propriety, and tends to excite sexual desire or deprave morals with respect to sexual relations.
 
-(Added Pub. L. 112–81, div. A, title V, §541(b), Dec. 31, 2011, 125 Stat. 1407; amended Pub. L. 112–239, div. A, title X, §1076(a)(3), Jan. 2, 2013, 126 Stat. 1948; Pub. L. 114–328, div. E, title LX, §5430(c), Dec. 23, 2016, 130 Stat. 2950.)
+(Added Pub. L. 112–81, div. A, title V, §541(b), Dec. 31, 2011, 125 Stat. 1407; amended Pub. L. 112–239, div. A, title X, §1076(a)(3), Jan. 2, 2013, 126 Stat. 1948; Pub. L. 114–328, div. E, title LX, §5430(c), Dec. 23, 2016, 130 Stat. 2950; Pub. L. 118–159, div. A, title V, §565, Dec. 23, 2024, 138 Stat. 1904.)
 
 #### **Editorial Notes** ####
 
 #### Amendments ####
+
+**2024**—Subsec. (f). Pub. L. 118–159 redesignated subsec. (g) as (f), struck out "not legally married to the person committing the sexual act, lewd act, or use of force" before "cannot consent to any sexual act" and struck out former subsec. (f). Prior to amendment, text of subsec. (f) read as follows: "In a prosecution under subsection (b) (sexual assault of a child) or subsection (c) (sexual abuse of a child), it is a defense, which the accused must prove by a preponderance of the evidence, that the persons engaging in the sexual act or lewd act were at that time married to each other, except where the accused commits a sexual act upon the person when the accused knows or reasonably should know that the other person is asleep, unconscious, or otherwise unaware that the sexual act is occurring or when the other person is incapable of consenting to the sexual act due to impairment by any drug, intoxicant, or other similar substance, and that condition was known or reasonably should have been known by the accused."
+
+Subsecs. (g), (h). Pub. L. 118–159, §565(2), redesignated subsec. (h) as (g). Former subsec. (g) redesignated (f).
 
 **2016**—Subsec. (h)(1). Pub. L. 114–328 inserted before period at end ", except that the term 'sexual act' also includes the intentional touching, not through the clothing, of the genitalia of another person who has not attained the age of 16 years with an intent to abuse, humiliate, harass, degrade, or arouse or gratify the sexual desire of any person".
 

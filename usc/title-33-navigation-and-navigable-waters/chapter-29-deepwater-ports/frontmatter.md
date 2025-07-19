@@ -48,4 +48,4 @@ Sec.
 
 1523. General procedures; issuance and enforcement of orders; scope of authority; evidentiary matters.
 
-1524. Authorization of appropriations.
+1524. Repealed.

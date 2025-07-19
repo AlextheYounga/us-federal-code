@@ -38,6 +38,14 @@ A prior chapter 223 "PLANNING AND SOLICITATION RELATING TO PARTICULAR ITEMS OR S
 
 #### **Statutory Notes and Related Subsidiaries** ####
 
+#### Supply Chain Illumination Incentives ####
+
+Pub. L. 118–159, div. A, title VIII, §849, Dec. 23, 2024, 138 Stat. 1994, provided that:
+
+"(a) In General.—Not later than April 1, 2026, the Secretary of Defense shall develop and implement policies, procedures, and tools to incentivize each contractor of the Department of Defense to assess and monitor the entire supply chain of goods and services provided to the Department by such contractor to identify potential vulnerabilities and noncompliance risks with respect to such goods and services.
+
+"(b) Briefing.—Not later than September 30, 2025, the Secretary of Defense shall provide to the Committees on Armed Services of the Senate and House of Representatives a briefing on the development and implementation of the policies, procedures, and tools under subsection (a), including information on obstacles to developing and implementing such policies, if any, and additional authorities or resources required to develop and implement such policies."
+
 #### Pilot Program To Analyze and Monitor Certain Supply Chains ####
 
 Pub. L. 118–31, div. A, title VIII, §856, Dec. 22, 2023, 137 Stat. 345, provided that:
@@ -183,6 +191,32 @@ Pub. L. 117–263, div. A, title II, §220, Dec. 23, 2022, 136 Stat. 2478, provi
 "(g) Sunset.—The provisions of this section shall terminate on December 31, 2030."
 
 #### Risk Management for Department of Defense Pharmaceutical Supply Chains ####
+
+Pub. L. 118–159, div. A, title VIII, §850, Dec. 23, 2024, 138 Stat. 1994, provided that:
+
+"(a) In General.—Not later than two years after the date of the enactment of this Act [Dec. 23, 2024], the Under Secretary of Defense for Acquisition and Sustainment shall—
+
+"(1) submit to the Committees on Armed Services of the Senate and the House of Representatives a report on—
+
+"(A) existing information streams within the Federal Government, if any, for excipients and key starting materials for final drug products that may be used to assess the reliance by the Department of Defense on high-risk foreign suppliers analyzed in the report required under section 860(a) of the National Defense Authorization Act for Fiscal Year 2023 (Public Law 117–263; 136 Stat. 2734; 10 U.S.C. 3241 note prec.) [set out below];
+
+"(B) active pharmaceutical ingredients, final drug products, and respective excipients and key starting materials analyzed in such report that are manufactured in a high-risk foreign country, as determined by the Secretary of Defense;
+
+"(C) any limitations on the ability of the Secretary to—
+
+"(i) obtain or analyze the information identified under subparagraphs (A) and (B);
+
+"(ii) monitor the temperature of active pharmaceutical ingredients, final drug products, and respective excipients and key starting materials throughout the supply chain of the Department; and
+
+"(iii) use data analytics to monitor vulnerabilities in the pharmaceutical supply chain of the Department;
+
+"(D) how the Secretary plans to address the limitations identified under subparagraph (C); and
+
+"(E) any recommendations of the Secretary to address those limitations; and
+
+"(2) update risk management guidance developed by the Under Secretary under section 860(a)(1) of the National Defense Authorization Act for Fiscal Year 2023 (Public Law 117–263; 10 U.S.C. 3241 note prec.) to include any relevant findings identified in paragraph (1).
+
+"(b) FDA Determinations.—For the purposes of this section, the excipients and key starting materials for final drug products shall be such excipients and key starting materials as determined by the Food and Drug Administration or under regulations issued by the Food and Drug Administration."
 
 Pub. L. 117–263, div. A, title VIII, §860, Dec. 23, 2022, 136 Stat. 2734, provided that:
 
@@ -546,17 +580,7 @@ Pub. L. 112–81, div. A, title VIII, §818(a)–(g), Dec. 31, 2011, 125 Stat. 1
 
 #### Contracts for Commercial Imaging Satellite Capacities ####
 
-Pub. L. 111–383, div. A, title I, §127, Jan. 7, 2011, 124 Stat. 4161, provided that:
-
-"(a) Telescope Requirements Under Contracts After 2010.—Except as provided in subsection (b), any contract for additional commercial imaging satellite capability or capacity entered into by the Department of Defense after December 31, 2010, shall require that the imaging telescope providing such capability or capacity under such contract has an aperture of not less than 1.5 meters.
-
-"(b) Waiver.—The Secretary of Defense may waive the limitation in subsection (a) if—
-
-"(1) the Secretary submits to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] written certification that the waiver is in the national security interests of the United States; and
-
-"(2) a period of 30 days has elapsed following the date on which the certification under paragraph (1) is submitted.
-
-"(c) Continuation of Current Contracts.—The limitation in subsection (a) may not be construed to prohibit or prevent the Secretary of Defense from continuing or maintaining current commercial imaging satellite capability or capacity in orbit or under contract by December 31, 2010."
+Pub. L. 111–383, div. A, title I, §127, Jan. 7, 2011, 124 Stat. 4161, which required any contract, entered into by the Department of Defense after Dec. 31, 2010, for additional commercial imaging satellite capability or capacity to have aperture of not less than 1.5 meters, was repealed by Pub. L. 118–159, div. A, title VIII, §811(a)(1)(C), Dec. 23, 2024, 138 Stat. 1979.
 
 #### Pilot Program on Acquisition of Military Purpose Nondevelopmental Items ####
 
@@ -748,45 +772,7 @@ Pub. L. 110–417, [div. A], title II, §254, Oct. 14, 2008, 122 Stat. 4402, as 
 
 #### Enhanced Authority To Acquire Products and Services Produced in Afghanistan ####
 
-Pub. L. 110–181, div. A, title VIII, §886, Jan. 28, 2008, 122 Stat. 266, as amended by Pub. L. 112–239, div. A, title VIII, §842, Jan. 2, 2013, 126 Stat. 1845; Pub. L. 114–92, div. A, title VIII, §886(a), Nov. 25, 2015, 129 Stat. 949, provided that:
-
-"(a) In General.—In the case of a product or service to be acquired in support of military operations or stability operations in Afghanistan (including security, transition, reconstruction, and humanitarian relief activities) for which the Secretary of Defense makes a determination described in subsection (b), and except as provided in subsection (d), the Secretary may conduct a procurement in which—
-
-"(1) competition is limited to products or services that are from Afghanistan;
-
-"(2) procedures other than competitive procedures are used to award a contract to a particular source or sources from Afghanistan; or
-
-"(3) a preference is provided for products or services that are from Afghanistan.
-
-"(b) Determination.—A determination described in this subsection is a determination by the Secretary that—
-
-"(1) the product or service concerned is to be used only by the military forces, police, or other security personnel of Afghanistan; or
-
-"(2) it is in the national security interest of the United States to limit competition, use procedures other than competitive procedures, or provide a preference as described in subsection (a) because—
-
-"(A) such limitation, procedure, or preference is necessary to provide a stable source of jobs in Afghanistan; and
-
-"(B) such limitation, procedure, or preference will not adversely affect—
-
-"(i) military operations or stability operations in Afghanistan; or
-
-"(ii) the United States industrial base.
-
-"(c) Products, Services, and Sources From Afghanistan.—For the purposes of this section:
-
-"(1) A product is from Afghanistan if it is mined, produced, or manufactured in Afghanistan.
-
-"(2) A service is from Afghanistan if it is performed in Afghanistan by citizens or permanent resident aliens of Afghanistan.
-
-"(3) A source is from Afghanistan if it—
-
-"(A) is located in Afghanistan; and
-
-"(B) offers products or services that are from Afghanistan.
-
-"(d) Exclusion of Items on the AbilityOne Procurement Catalog.—The authority under subsection (a) shall not be available for the procurement of any good that is contained in the procurement catalog described in section 8503(a) of title 41, United States Code, in Afghanistan if such good can be produced and delivered by a qualified nonprofit agency for the blind or a nonprofit agency for other severely disabled [sic] in a timely fashion to support mission requirements."
-
-[Pub. L. 112–239, div. A, title VIII, §842(1), Jan. 2, 2013, 126 Stat. 1845, which directed amendment of section 886 of Pub. L. 110–181, set out above, by striking "Iraq or" in section heading, was executed by striking "Iraq and", to reflect the probable intent of Congress.]
+Pub. L. 110–181, div. A, title VIII, §886, Jan. 28, 2008, 122 Stat. 266, as amended by Pub. L. 112–239, div. A, title VIII, §842, Jan. 2, 2013, 126 Stat. 1845; Pub. L. 114–92, div. A, title VIII, §886(a), Nov. 25, 2015, 129 Stat. 949, which allowed the Secretary of Defense to procure products or services acquired in support of military operations or stability operations in Afghanistan (including security, transition, reconstruction, and humanitarian relief activities), was repealed by Pub. L. 118–159, div. A, title VIII, §811(a)(1)(B), Dec. 23, 2024, 138 Stat. 1979.
 
 #### Prevention of Export Control Violations ####
 

@@ -32,9 +32,15 @@ Sec.
 
 711. 1 Parental leave for members of the reserve component of the armed forces.
 
+#### Amendment of Analysis ####
+
+Pub. L. 118–159, div. A, title VI, §603(b)(2), (c), Dec. 23, 2024, 138 Stat. 1931, provided that, effective Oct. 1, 2025, this analysis is amended by renumbering item 711 as 710a. See 2024 Amendment note below.
+
 #### **Editorial Notes** ####
 
 #### Amendments ####
+
+**2024**—Pub. L. 118–159, div. A, title VI, §603(b)(2), Dec. 23, 2024, 138 Stat. 1931, renumbered item 711 as 710a. Amendment was made pursuant to operation of section 102 of this title.
 
 **2023**—Pub. L. 118–31, div. A, title VI, §601(a)(2), Dec. 22, 2023, 137 Stat. 288, added item 711.
 

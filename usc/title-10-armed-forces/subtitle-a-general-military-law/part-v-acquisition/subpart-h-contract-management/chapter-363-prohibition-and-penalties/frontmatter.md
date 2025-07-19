@@ -26,6 +26,8 @@ Sec.
 
 4662. Prohibition on the transfer of certain data on employees of the Department of Defense to third parties.
 
+4663. Prohibition on contracting with covered entities that contract with lobbyists for Chinese military companies.
+
 #### **Editorial Notes** ####
 
 #### Prior Provisions ####
@@ -36,11 +38,171 @@ Another prior chapter 363, consisting of sections 3841 to 3855 relating to separ
 
 #### Amendments ####
 
+**2024**—Pub. L. 118–159, div. A, title VIII, §851(a), Dec. 23, 2024, 138 Stat. 1995, added item 4663. Amendment was made pursuant to operation of section 102 of this title.
+
 **2023**—Pub. L. 118–31, div. A, title VIII, §803, Dec. 22, 2023, 137 Stat. 312, added item 4662. Amendment was made pursuant to operation of section 102 of this title.
 
 **2022**—Pub. L. 117–263, div. A, title VIII, §855(c), Dec. 23, 2022, 136 Stat. 2723, added item 4661.
 
 #### **Statutory Notes and Related Subsidiaries** ####
+
+#### Prohibition on Operation, Procurement, and Contracting Related to Foreign-Made Light Detection and Ranging Technology ####
+
+Pub. L. 118–159, div. A, title I, §164, Dec. 23, 2024, 138 Stat. 1818, provided that:
+
+"(a) Prohibition on Agency Operation or Procurement.—The Secretary of Defense shall not operate or enter into or renew a contract for the procurement of—
+
+"(1) a covered light detection and ranging technology (referred to in this section as 'LiDAR technology') that—
+
+"(A) is manufactured in a covered foreign country or by an entity domiciled in a covered foreign country;
+
+"(B) uses operating software developed in a covered foreign country or by an entity domiciled in a covered foreign country; or
+
+"(C) uses network connectivity or data storage located in or administered by an entity domiciled in a covered foreign country; or
+
+"(2) a system or systems that incorporates, interfaces with, or otherwise uses LiDAR technology as described in paragraph (1).
+
+"(b) Exemption.—The prohibition under subsection (a) shall not apply if the operation, procurement, or contracting action is for the purposes of intelligence, electronic warfare, and information warfare operations, testing, analysis, and training.
+
+"(c) Waiver.—The Secretary of Defense may waive the prohibition under subsection (a) on a case-by-case basis if the Secretary certifies, in writing, to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] that the operation, procurement, or contracting action is required in the national interest of the United States.
+
+"(d) Effective Date.—The prohibition under section (a) shall take effect on June 30, 2026.
+
+"(e) Definitions.—In this section:
+
+"(1) The term 'covered foreign country' means any of the following:
+
+"(A) The People's Republic of China.
+
+"(B) The Islamic Republic of Iran.
+
+"(C) The Democratic People's Republic of North Korea.
+
+"(D) The Russian Federation.
+
+"(2) The term 'covered LiDAR company' means any of the following:
+
+"(A) Hesai Technology (or any subsidiary or affiliate of Hesai Technology).
+
+"(B) Any entity that produces or provides LiDAR and that is included on—
+
+"(i) the Consolidated Screening List maintained by the International Trade Administration of the Department of Commerce; or
+
+"(ii) the civil-military fusion list maintained under section 1260h [1260H] of the William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021 (Public Law 116–283; 10 U.S.C. 113 note).
+
+"(C) Any entity that produces or provides LiDAR and that—
+
+"(i) is domiciled in a covered foreign country; or
+
+"(ii) is subject to unmitigated foreign ownership, control or influence by a covered foreign country, as determined by the Secretary of Defense in accordance with the National Industrial Security Program or any successor to such program.
+
+"(3) The term 'covered LiDAR technology' means LiDAR technology and any related services and equipment manufactured by a covered LiDAR company.
+
+"(4) The terms 'light detection and ranging' and 'LiDAR' mean a sensor that emits light, often in the form of a pulsed or modulated laser, and scans or flashes the environment to detect and measure the range of its surroundings."
+
+#### Prohibition on Procurement of Covered Semiconductor Products and Services From Companies Providing Covered Semiconductor Products and Services to Huawei ####
+
+Pub. L. 118–159, div. A, title VIII, §853, Dec. 23, 2024, 138 Stat. 1996, provided that:
+
+"(a) Prohibition.—Beginning on the date that is 270 days after the enactment of this Act [Dec. 23, 2024], the Secretary of Defense shall not enter into or renew a contract for the procurement of any covered semiconductor products and services for the Department of Defense with any entity that knowingly provides covered semiconductor products and services to Huawei.
+
+"(b) Certification Process.—The Secretary of Defense shall, not later than the date on which the prohibition in subsection (a) takes effect, develop and implement a process requiring each entity seeking to provide covered semiconductor products and services to the Department of Defense to certify to the Department that such entity is not an entity covered by such prohibition.
+
+"(c) Waiver.—The Secretary of Defense may waive the prohibition under subsection (a) on a case-by-case basis as may be necessary in the interest of national security, if the Secretary determines that the covered semiconductor products and services to be acquired are—
+
+"(1) only available from an entity otherwise covered by such prohibition; and
+
+"(2) are required for national security systems or priority missions of the Department of Defense.
+
+"(d) Definitions.—In this section:
+
+"(1) The term 'covered semiconductor products and services' means—
+
+"(A) semiconductors;
+
+"(B) equipment for manufacturing semiconductors; and
+
+"(C) tools for designing semiconductors.
+
+"(2) The term 'Huawei' means—
+
+"(A) Huawei Technologies Company;
+
+"(B) any entity that is a subsidiary, owner, beneficial owner, affiliate, or successor of Huawei Technologies Company; and
+
+"(C) any entity that is directly or indirectly controlled by Huawei Technologies Company."
+
+#### Prohibition on Contracts for Online Tutoring Services ####
+
+Pub. L. 118–159, div. A, title VIII, §854, Dec. 23, 2024, 138 Stat. 1997, provided that: "The Secretary of Defense may not enter into a contract for online tutoring services which could result in personal data of citizens of the United States being transferred to the control of the People's Republic of China."
+
+#### Study and Report on Department of Defense Use of Unmanned Ground Vehicle Systems Manufactured by Certain Foreign Entities ####
+
+Pub. L. 118–159, div. A, title X, §1078, Dec. 23, 2024, 138 Stat. 2075, provided that:
+
+"(a) Study on Department of Defense Use of Certain Unmanned Ground Vehicle Systems.—
+
+"(1) Study.—The Secretary of Defense shall conduct a study on the use by the Department of Defense of covered unmanned ground vehicle systems manufactured by covered foreign entities.
+
+"(2) Report.—Not later than 180 days after the date of the enactment of this Act [Dec. 23, 2024], the Secretary shall submit to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] a report on the study required under paragraph (1). Such report shall include each of the following:
+
+"(A) An assessment of the extent to which covered unmanned ground vehicle systems manufactured by covered foreign entities are used by the Department, including a list of all such covered unmanned ground vehicle systems.
+
+"(B) An assessment of the national security threats associated with using covered unmanned ground vehicle systems in applications of the Department, including with respect to—
+
+"(i) cybersecurity;
+
+"(ii) technological maturity of the systems; and
+
+"(iii) technological vulnerabilities in the systems that may be exploited by foreign adversaries of the United States.
+
+"(C) A description of any actions taken by the Department to identify covered foreign entities that—
+
+"(i) develop or manufacture covered unmanned ground vehicle systems; and
+
+"(ii) have a military-civil nexus on the list maintained by the Department under section 1260H(b) of the William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021 (Public Law 116–283; 10 U.S.C. 113 note).
+
+"(D) An assessment of the feasibility and advisability of directing the Defense Innovation Unit, or another entity in the Department of Defense, to develop a list of United States manufacturers of covered unmanned ground vehicle systems.
+
+"(E) A recommendation on whether a prohibition on the procurement and operation of covered unmanned ground vehicle systems is in the best interest of the national security of the United States.
+
+"(F) The findings and recommendations of the Secretary with respect to the matters covered by the study and report.
+
+"(b) Prohibition on Procurement and Operation by Department of Defense.—
+
+"(1) In general.—Subject to paragraph (3), and except as provided in paragraph (2), beginning on the date that is one year after the date of the submission of the report required under subsection (a)(2), the Secretary of Defense may not procure or operate any covered unmanned ground vehicle system that is manufactured by a covered foreign entity.
+
+"(2) Exception for national security.—Paragraph (1) shall not apply with respect to the procurement or operation of a covered unmanned ground vehicle system that is manufactured by a covered foreign entity if the Secretary of Defense or the Secretary of a military department determines that the procurement or operation of such system is in the national interest of the United States.
+
+"(3) Applicability.—Paragraph (1) shall not apply unless the Secretary of Defense includes in the report required under paragraph (2) of subsection (a) a recommendation pursuant to subparagraph (E) of that paragraph that a prohibition on the procurement and operation of covered unmanned ground vehicle systems is in the best interest of the national security of the United States.
+
+"(c) Definitions.—In this section:
+
+"(1) The term 'covered foreign country' means any of the following:
+
+"(A) The People's Republic of China.
+
+"(B) The Russian Federation.
+
+"(C) The Islamic Republic of Iran.
+
+"(D) The Democratic People's Republic of Korea.
+
+"(2) The term 'covered foreign entity' means an entity that is domiciled in a covered foreign country or subject to influence or control by the government of a covered foreign country, as determined by the Secretary of Defense.
+
+"(3) The term 'covered unmanned ground vehicle system'—
+
+"(A) means a mechanical device that—
+
+"(i) is capable of locomotion, navigation, or movement on the ground; and
+
+"(ii) operates at a distance from one or more operators or supervisors based on commands or in response to sensor data, or through any combination thereof; and
+
+"(B) includes—
+
+"(i) remote surveillance vehicles, autonomous patrol technologies, mobile robotics, and humanoid robots; and
+
+"(ii) the vehicle, its payload, and any external device used to control the vehicle."
 
 #### Prohibition on Availability of Funds for Procurement of Certain Batteries ####
 
@@ -94,13 +256,13 @@ Pub. L. 118–31, div. A, title II, §244, Dec. 22, 2023, 137 Stat. 209, provide
 
 #### Prohibition on Required Disclosure by Department of Defense Contractors of Information Relating to Greenhouse Gas Emissions ####
 
-Pub. L. 118–31, div. A, title III, §318, Dec. 22, 2023, 137 Stat. 218, provided that:
+Pub. L. 118–31, div. A, title III, §318, Dec. 22, 2023, 137 Stat. 218, as amended by Pub. L. 118–159, div. A, title III, §316, Dec. 23, 2024, 138 Stat. 1852, provided that:
 
 "(a) Prohibition on Disclosure Requirements.—
 
 "(1) Nontraditional defense contractors.—The Secretary of Defense may not require that any nontraditional defense contractor, as a condition of being awarded a contract with the Secretary, disclose a greenhouse gas inventory or any other report on greenhouse gas emissions, unless the Secretary determines that requiring such disclosure is necessary to verify a voluntary disclosure of such inventory or other report by the nontraditional defense contractor.
 
-"(2) Other than nontraditional defense contractors.—During the one-year period beginning on the date of the enactment of this Act [Dec. 22, 2023], the Secretary of Defense may not require that any individual or entity other than a nontraditional defense contractor, as a condition of being awarded a contract with the Secretary, disclose a greenhouse gas inventory or any other report on greenhouse gas emissions, unless the Secretary determines that requiring such disclosure is necessary to verify a voluntary disclosure of such inventory or other report by the individual or entity.
+"(2) Other than nontraditional defense contractors.—During the three-year period beginning on the date of the enactment of this Act [Dec. 22, 2023], the Secretary of Defense may not require that any individual or entity other than a nontraditional defense contractor, as a condition of being awarded a contract with the Secretary, disclose a greenhouse gas inventory or any other report on greenhouse gas emissions, unless the Secretary determines that requiring such disclosure is necessary to verify a voluntary disclosure of such inventory or other report by the individual or entity.
 
 "(b) Waiver.—The Secretary of Defense may issue a waiver on a contract-by-contract basis provided that the information provided is directly related to the performance of the contract. In issuing such a waiver, the Secretary of Defense shall ensure that any information that is required is clearly identifiable.
 
@@ -280,19 +442,37 @@ Pub. L. 117–81, div. A, title VIII, §848, Dec. 27, 2021, 135 Stat. 1843, whic
 
 #### Employment Transparency Regarding Individuals Who Perform Work in the People's Republic of China ####
 
-Pub. L. 117–81, div. A, title VIII, §855, Dec. 27, 2021, 135 Stat. 1850, provided that:
+Pub. L. 117–81, div. A, title VIII, §855, Dec. 27, 2021, 135 Stat. 1850, as amended by Pub. L. 118–159, div. A, title VIII, §839, Dec. 23, 2024, 138 Stat. 1988, provided that:
 
 "(a) Disclosure Requirements.—
 
-"(1) Initial disclosures.—The Secretary of Defense shall require each covered entity to disclose to the Secretary of Defense if the entity employs one or more individuals who will perform work in the People's Republic of China on a covered contract when the entity submits a bid or proposal for such covered contract, except that such disclosure shall not be required to the extent that the Secretary determines that such disclosure would not be in the interest of national security.
+"(1) Initial disclosures.—The Secretary of Defense shall require each covered entity to disclose to the Secretary of Defense if the entity employs one or more individuals who will perform work in, for, or are subject to the laws or control of the People's Republic of China on a covered contract when the entity submits a bid or proposal for such covered contract, except that such disclosure shall not be required to the extent that the Secretary determines that such disclosure would not be in the interest of national security.
 
 "(2) Recurring disclosures.—For each of fiscal years 2023 and 2024, the Secretary of Defense shall require each covered entity that is a party to one or more covered contracts in the fiscal year to disclose to the Secretary if the entity employs one or more individuals who perform work in the People's Republic of China on any such contract.
 
-"(3) Matters to be included.—If a covered entity required to make a disclosure under paragraph (1) or (2) employs any individual who will perform work in the People's Republic of China on a covered contract, such disclosure shall include—
+"(3) Matters to be included.—
 
-"(A) the total number of such individuals who will perform work in the People's Republic of China on the covered contracts funded by the Department of Defense; and
+"(A) In general.—If a covered company required to make a disclosure under paragraph (1) or (2) employs any individual who will perform work in, for, or are subject to the laws or control of the People's Republic of China on a covered contract, such disclosure shall include—
 
-"(B) a description of the physical presence in the People's Republic of China where work on the covered contract will be performed.
+"(i) the total number of such individuals who will perform such work on the covered contracts funded by the Department of Defense; and
+
+"(ii) a description of the physical presence in the People's Republic of China and each other location where work on the covered contract will be performed; and
+
+"(iii) whether an agency or instrumentality of the People's Republic of China or any other covered entity has requested access to data or otherwise acquired data from the covered entity required to make a disclosure under paragraph (1) or (2) pursuant to any law or regulation of the People's Republic of China.
+
+"(B) Additional disclosure of information and additional measures regarding certain entities.—
+
+"(i) In general.—If a covered entity performing a covered contract for services dealing with commercial computer software or noncommercial computer software and is required to make a disclosure under paragraph (1) or (2), such covered entity shall—
+
+ "(I) describe the process for disclosing a cybersecurity vulnerability, if such covered entity is also required to disclose any cybersecurity vulnerability to the Ministry of Industry and Information Technology or any other agency or instrumentality of the People's Republic of China; and
+
+ "(II) provide any information related to how a United States affiliate is notified of a vulnerability described in subclause (I).
+
+"(ii) Issuance of regulations.—Not later than 180 days after the date of the enactment of this subparagraph [Dec. 23, 2024], the Secretary shall revise the Defense Federal Acquisition Regulation Supplement to require—
+
+ "(I) a covered entity to require that an individual or entity performing work on a covered contract in the People's Republic of China on behalf of the covered entity to notify the covered entity within 48 hours of such individual or entity reporting any software vulnerability related to such covered contract to the Ministry of Industry and Information Technology or any other agency or instrumentality of the People's Republic of China; and
+
+ "(II) the covered entity to retain and furnish to the Department of Defense information regarding any cybersecurity vulnerability reported to the Ministry of Industry and Information Technology or any other agency or instrumentality of the People's Republic of China with respect to which the covered entity received a notice pursuant to subclause (I).
 
 "(b) Funding for Covered Entities.—The Secretary of Defense may not award a covered contract to, or renew a covered contract with, a covered entity unless such covered entity has submitted each disclosure such covered entity is required to submit under subsection (a).
 
@@ -300,9 +480,9 @@ Pub. L. 117–81, div. A, title VIII, §855, Dec. 27, 2021, 135 Stat. 1850, prov
 
 "(d) Definitions.—In this section:
 
-"(1) Covered contract.—The term 'covered contract' means any Department of Defense contract or subcontract with a value in excess of $5,000,000, excluding contracts for commercial products or services.
+"(1) Covered contract.—The term 'covered contract' means any Department of Defense contract or subcontract for, or including, any information and communications technology, including contracts for commercial products or services.
 
-"(2) Covered entity.—The term 'covered entity' means any corporation, company, limited liability company, limited partnership, business trust, business association, or other similar entity, including any subsidiary thereof, performing work on a covered contract in the People's Republic of China, including by leasing or owning real property used in the performance of the covered contract in the People's Republic of China.
+"(2) Covered entity.—The term 'covered entity' means any corporation, company, limited liability company, limited partnership, business trust, business association, or other similar entity, including any subsidiary thereof, performing work on a covered contract in, for, or subject to the laws or control of the People's Republic of China, including by leasing or owning real property used in the performance of the covered contract in the People's Republic of China.
 
 "(e) Effective Date.—This section shall take effect on July 1, 2022."
 
@@ -338,7 +518,7 @@ Pub. L. 109–163, div. A, title XII, §1211, Jan. 6, 2006, 119 Stat. 3461, as a
 
 "(e) Definitions.—In this section:
 
-"(1) The term 'Chinese military company' has the meaning given that term by section 1260H(d)(1) of the William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021 (Public Law 116–283; 10 U.S.C. 113 note).
+"(1) The term 'Chinese military company' has the meaning given that term by section 1260H(d)(1) [now 1260H(g)(1)] of the William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021 (Public Law 116–283; 10 U.S.C. 113 note).
 
 "(2) The term 'Commerce Control List' means the list maintained by the Bureau of Industry and Security and set forth in Supplement No. 1 to part 774 of the Export Administration Regulations.
 

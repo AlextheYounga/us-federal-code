@@ -1,4 +1,5 @@
-### Part C—Load Lines of Vessels ###
+Part C—Load Lines of Vessels
+----------
 
 #### Historical and Revision Notes ####
 

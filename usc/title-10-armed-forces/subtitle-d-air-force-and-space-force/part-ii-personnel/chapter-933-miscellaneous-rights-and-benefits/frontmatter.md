@@ -8,6 +8,8 @@ Sec.
 
 9253. Flying officer rating: qualifications.
 
+9254. Authority to designate certain separated members of the Air Force as honorary separated members of the Space Force.
+
 #### **Editorial Notes** ####
 
 #### Prior Provisions ####
@@ -15,6 +17,8 @@ Sec.
 A prior chapter 933, consisting of sections 9531 to 9541, related to procurement, prior to renumbering as chapter 963 of this title.
 
 #### Amendments ####
+
+**2024**—Pub. L. 118–159, div. A, title V, §525, Dec. 23, 2024, 138 Stat. 1885, added item 9254. Amendment was made pursuant to operation of section 102 of this title.
 
 **2018**—Pub. L. 115–232, div. A, title VIII, §806(d)(3)(A), (e)(1), Aug. 13, 2018, 132 Stat. 1833, redesignated chapter 853 of this title as this chapter and items 8681, 8684, and 8691 as 9251, 9252, and 9253, respectively.
 

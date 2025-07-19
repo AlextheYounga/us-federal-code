@@ -6,7 +6,9 @@ Sec.
 
 132. Deputy Secretary of Defense.
 
-[132a, 133. Repealed.]
+132a. Performance improvement officer. 1
+
+[133. Repealed.]
 
 133a. Under Secretary of Defense for Research and Engineering.
 
@@ -65,6 +67,8 @@ Sec.
 #### **Editorial Notes** ####
 
 #### Amendments ####
+
+**2024**—Pub. L. 118–159, div. A, title IX, §902(a), Dec. 23, 2024, 138 Stat. 2025, added item 132a. Amendment was made pursuant to operation of section 102 of this title.
 
 **2023**—Pub. L. 118–31, div. A, title II, §241(a), title IX, §903(a), Dec. 22, 2023, 137 Stat. 205, 358, added items 148 and 149. Amendment was made pursuant to operation of section 102 of this title.
 
@@ -167,3 +171,5 @@ Pub. L. 114–328, div. A, title IX, §901(g)(2), Dec. 23, 2016, 130 Stat. 2342,
 #### Effective Date of 2014 Amendment ####
 
 Pub. L. 113–291, div. A, title IX, §901(l)(1)(A), Dec. 19, 2014, 128 Stat. 3468, which provided that the amendment made by section 901(l)(1)(A) was effective on the effective date specified in former section 901(a)(1) of Pub. L. 113–291, which was Feb. 1, 2017, was repealed by Pub. L. 115–91, div. A, title X, §1081(b)(1)(B), Dec. 12, 2017, 131 Stat. 1597, effective as of Dec. 23, 2016.
+
+[<sup>1</sup> So in original. Probably should be capitalized as "Performance Improvement Officer".](#CHAPTER4_1)

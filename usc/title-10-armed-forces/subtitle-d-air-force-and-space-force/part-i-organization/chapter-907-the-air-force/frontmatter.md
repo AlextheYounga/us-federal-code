@@ -6,6 +6,8 @@ Sec.
 
 9062. Policy; composition; aircraft authorization.
 
+9062a. Annual report on Air Force tactical fighter aircraft force structure.
+
 9063. Designation: officers to perform certain professional functions.
 
 9064. Air Force nurses: Chief; appointment.
@@ -25,6 +27,8 @@ Sec.
 A prior chapter 907, consisting of sections 9411 to 9417, related to schools and camps, prior to renumbering as chapter 957 of this title.
 
 #### Amendments ####
+
+**2024**—Pub. L. 118–159, div. A, title I, §142, Dec. 23, 2024, 138 Stat. 1809, added item 9062a. Amendment was made pursuant to operation of section 102 of this title.
 
 **2019**—Pub. L. 116–92, div. A, title IX, §952(g), Dec. 20, 2019, 133 Stat. 1563, added items 9063 to 9067 and struck out former item 9067 "Designation: officers to perform certain professional functions" and items 9069 "Air Force nurses: Chief; appointment", 9074 "Commands: territorial organization", 9075 "Regular Air Force: composition", 9081 "Assistant Surgeon General for Dental Services", and 9084 "Officer career field for space".
 

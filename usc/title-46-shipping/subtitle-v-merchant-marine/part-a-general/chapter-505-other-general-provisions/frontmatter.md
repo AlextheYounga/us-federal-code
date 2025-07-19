@@ -9,3 +9,11 @@ Sec.
 50503. Oceanographic research vessels.
 
 50504. Sailing school vessels.
+
+50505. Consistent approval of existing categorical exclusions.
+
+#### **Editorial Notes** ####
+
+#### Amendments ####
+
+**2024**—Pub. L. 118–159, div. C, title XXXV, §3511(b)(2), Dec. 23, 2024, 138 Stat. 2306, added item 50505.

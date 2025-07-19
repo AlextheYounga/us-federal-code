@@ -720,6 +720,8 @@ Sec.
 
 7908. Armed Forces recruiter access to students and student recruiting information.
 
+7908a. Military recruiter access to secondary school campuses.
+
 7909. Prohibition on federally sponsored testing.
 
 7910. Limitations on national testing or certification for teachers, principals, or other school leaders.
