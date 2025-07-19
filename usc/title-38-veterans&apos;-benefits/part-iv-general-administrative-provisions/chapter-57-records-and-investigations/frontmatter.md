@@ -58,6 +58,92 @@ Pub. L. 102–40, title IV, §402(c)(1), May 7, 1991, 105 Stat. 239, renumbered 
 
 #### **Statutory Notes and Related Subsidiaries** ####
 
+#### Plan on Adoption of Certain Health Information Standards for Department of Veterans Affairs and Certain Health Care Providers ####
+
+Pub. L. 118–210, title I, §108, Jan. 2, 2025, 138 Stat. 2720, provided that:
+
+"(a) Plan for Certain Health Information Standards.—
+
+"(1) In general.—The Secretary of Veterans Affairs, in consultation with the Secretary of Health and Human Services, the Administrator of the Centers for Medicare & Medicaid Services, and the National Coordinator for Health Information Technology of the Department of Health and Human Services, shall create and implement a plan to adopt, as rapidly and to the most comprehensive extent feasible, national health information interoperability standards for the Department of Veterans Affairs and community care providers with respect to—
+
+"(A) coordination of—
+
+"(i) care; and
+
+"(ii) benefits;
+
+"(B) patient identity matching;
+
+"(C) measurement and reporting of quality;
+
+"(D) population health; and
+
+"(E) public health.
+
+"(2) Consideration.—In developing the plan under paragraph (1), the Secretary of Veterans Affairs shall consider challenges faced by—
+
+"(A) small community care providers; and
+
+"(B) community care providers located in rural areas.
+
+"(b) Plan on Electronic Health Record Exchange.—
+
+"(1) In general.—Not later than one year after the date of enactment of this Act [Jan. 2, 2025], the Secretary shall submit to the Committees on Veterans' Affairs of the Senate and the House of Representatives a plan to provide, at no cost, to community care providers of the Department, through Third Party Administrators, a capability to facilitate the electronic direct exchange, between such providers and the Department, of—
+
+"(A) the health records of veterans; and
+
+"(B) documents relating to health care of veterans, clinical notes, and any other information the Secretary determines necessary.
+
+"(2) Prioritization.—In developing the plan required under paragraph (1), the Secretary shall prioritize providing the capability described in such paragraph to community care providers that—
+
+"(A) provide care under the laws administered by the Secretary to—
+
+"(i) a lower volume of veterans; and
+
+"(ii) veterans who are located in rural areas; and
+
+"(B) are unable or unwilling to exchange the records and documents described in subparagraphs (A) and (B) of such paragraph with the Department through standards-based or direct exchange mechanisms in effect as of the date of the enactment of this Act.
+
+"(c) Reports on Plan for Interoperability Standards.—
+
+"(1) Initial report.—Not later than one year after the date of the enactment of this Act [Jan. 2, 2025], the Secretary of Veterans Affairs shall submit to the Committees on Veterans' Affairs of the Senate and the House of Representatives—
+
+"(A) the plan required by subsection (a); and
+
+"(B) a report that includes—
+
+"(i) an analysis of gaps, if any, between the use, by the Department and other agencies, health information exchanges, and technology companies, of national health information interoperability standards and the potential, or optimal, use of such national health information interoperability standards;
+
+"(ii) an analysis and description of the participation by the Department, community care providers, and other relevant entities in the Trusted Exchange Framework and Common Agreement program of the Department of Health and Human Services as of the date of the enactment of this Act;
+
+"(iii) recommendations of the Secretary with respect to development of health information interoperability standards;
+
+"(iv) timelines or schedules to implement the plan required by subsection (a); and
+
+"(v) an identification of any legislative authorities or resources the Secretary requires to implement such plan.
+
+"(2) Recurring report requirement.—
+
+"(A) In general.—Not later than 18 months after the date of the enactment of this Act, and every 180 days thereafter for four years, the Secretary of Veterans Affairs shall submit to Committees on Veterans' Affairs of the Senate and the House of Representatives a report on the status of implementation of the plan required under subsection (a).
+
+"(B) Elements of subsequent reports.—Each report under subparagraph (A) submitted after the date on which the first report required by such subparagraph is submitted shall include a description of any revisions to—
+
+"(i) the plan required by subsection (a) made during the period covered by the report; and
+
+"(ii) the analysis, recommendations, timelines, and legislative authorities reported pursuant to paragraph (1).
+
+"(d) Definitions.—In this section:
+
+"(1) The term 'community care provider' means a non-Department health care provider providing care (including dental care)—
+
+"(A) under section 1703 of title 38, United States Code;
+
+"(B) pursuant to a Veterans Care Agreement under section 1703A of such title; or
+
+"(C) under any other law administered by the Secretary of Veterans Affairs.
+
+"(2) The term 'Third Party Administrator' means an entity that manages a provider network and performs administrative services related to such network under section 1703 of title 38, United States Code."
+
 #### Removal of Dependents From Award of Compensation or Pension ####
 
 Pub. L. 116–315, title II, §2008, Jan. 5, 2021, 134 Stat. 4977, provided that: "Beginning not later than 90 days after the date of the enactment of this Act [Jan. 5, 2021], the Secretary of Veterans Affairs shall ensure that—

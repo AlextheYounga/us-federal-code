@@ -84,9 +84,13 @@ Sec.
 
 2068. Mental health consultations.
 
+2069. Access to telehealth services.
+
 #### **Editorial Notes** ####
 
 #### Amendments ####
+
+**2025**—Pub. L. 118–210, title IV, §404(b), Jan. 2, 2025, 138 Stat. 2797, added item 2069.
 
 **2022**—Pub. L. 117–328, div. U, title III, §305(b)(4), div. V, title IV, §404(b)(2), Dec. 29, 2022, 136 Stat. 5472, 5513, added items 2014 to 2016 and 2068 and struck out former item 2014 "Authorization of appropriations".
 

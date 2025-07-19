@@ -16,9 +16,11 @@ Sec. 1
 
 6306. Use of other agencies.
 
-6307. Outreach for eligible dependents.
+6307. Grants to States and Indian Tribes to improve outreach to veterans.
 
-6308. Biennial report to Congress.
+6308. Outreach for eligible dependents.
+
+6309. Biennial report to Congress.
 
 #### SUBCHAPTER II—OTHER OUTREACH PROGRAMS AND ACTIVITIES ####
 
@@ -27,6 +29,8 @@ Sec. 1
 #### **Editorial Notes** ####
 
 #### Amendments ####
+
+**2025**—Pub. L. 118–210, title III, §302(b), Jan. 2, 2025, 138 Stat. 2791, added items 6307 to 6309 and struck out former items 6307 "Outreach for eligible dependents" and 6308 "Biennial report to Congress".
 
 **2022**—Pub. L. 117–205, §2(c), Oct. 17, 2022, 136 Stat. 2233, added subchapter I heading and added item for subchapter II and item 6320.
 

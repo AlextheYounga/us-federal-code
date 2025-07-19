@@ -98,6 +98,8 @@ Sec.
 
 3762. Direct housing loans to Native American veterans; program administration.
 
+3762A. Native community development financial institution relending program.
+
 3763. Native American Veteran Housing Loan Program Account.
 
 3764. Qualified non-Native American veterans.
@@ -111,6 +113,8 @@ Sec.
 #### **Editorial Notes** ####
 
 #### Amendments ####
+
+**2025**—Pub. L. 118–210, title II, §232(b), Jan. 2, 2025, 138 Stat. 2788, added item 3762A.
 
 **2018**—Pub. L. 115–174, title III, §309(a)(4), May 24, 2018, 132 Stat. 1350, added item 3709.
 

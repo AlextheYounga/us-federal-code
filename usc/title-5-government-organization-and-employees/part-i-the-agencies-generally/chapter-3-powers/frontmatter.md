@@ -28,12 +28,26 @@ Sec.
 
 315. Advisory Committee on Data for Evidence Building.
 
+#### SUBCHAPTER III—FEDERAL GOVERNMENT SERVICE DELIVERY ####
+
+321. Definitions.
+
+322. Federal Government service delivery.
+
+323. Lead agency officials for Government service delivery.
+
+324. Rule of construction 1
+
 #### **Editorial Notes** ####
 
 #### Amendments ####
+
+**2025**—Pub. L. 118–231, §2(b), Jan. 4, 2025, 138 Stat. 2831, added item for subchapter III and items 321 to 324.
 
 **2019**—Pub. L. 115–435, title I, §101(b), Jan. 14, 2019, 132 Stat. 5532, added headings for subchapters I and II and items 311 to 315.
 
 **2011**—Pub. L. 111–352, §13(a), Jan. 4, 2011, 124 Stat. 3882, added item 306 and struck out former item 306 "Strategic plans".
 
 **1993**—Pub. L. 103–62, §11(a), Aug. 3, 1993, 107 Stat. 295, added item 306.
+
+[<sup>1</sup> So in original. Probably should be followed by a period.](#CHAPTER3_1)
