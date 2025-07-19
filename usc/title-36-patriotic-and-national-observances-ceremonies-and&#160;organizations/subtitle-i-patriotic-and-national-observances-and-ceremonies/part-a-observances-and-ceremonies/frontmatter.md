@@ -1,1 +1,2 @@
-### Part A—Observances and Ceremonies ###
+Part A—Observances and Ceremonies
+----------

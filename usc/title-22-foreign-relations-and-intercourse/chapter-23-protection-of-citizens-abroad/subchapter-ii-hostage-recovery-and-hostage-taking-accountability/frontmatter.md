@@ -234,6 +234,8 @@ Sec. 15. (a) Nothing in this order shall be construed to impair or otherwise aff
 
 J.R. Biden, Jr.
 
-Continuation of national emergency declared by Ex. Ord. No. 14078 was contained in the following:
+Continuations of national emergency declared by Ex. Ord. No. 14078 were contained in the following:
+
+Notice of President of the United States, dated July 16, 2024, 89 F.R. 58613.
 
 Notice of President of the United States, dated July 12, 2023, 88 F.R. 45327.

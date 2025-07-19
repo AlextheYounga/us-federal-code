@@ -58,6 +58,8 @@ Colombia.—Determination No. 2022–14, May 23, 2022, 87 F.R. 32943.
 
 Jordan.—Determination No. 97–4, Nov. 12, 1996, 61 F.R. 59809.
 
+Kenya.—Determination No. 2024–05, June 24, 2024, 89 F.R. 57055.
+
 Kuwait.—Determination No. 2004–21, Jan. 15, 2004, 69 F.R. 4843.
 
 Morocco.—Determination No. 2004–35, June 3, 2004, 69 F.R. 34049.

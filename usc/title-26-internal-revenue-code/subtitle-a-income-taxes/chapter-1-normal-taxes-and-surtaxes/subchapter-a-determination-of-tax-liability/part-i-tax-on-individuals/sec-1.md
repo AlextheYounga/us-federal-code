@@ -1377,6 +1377,10 @@ Pub. L. 88–272, title I, §131, Feb. 26, 1964, 78 Stat. 30, as amended by Pub.
 
 #### Short Title of 2024 Amendment ####
 
+Pub. L. 118–168, §1, Dec. 23, 2024, 138 Stat. 2586, provided that: "This Act [amending sections 4980H, 6055, 6056, and 6501 of this title and enacting provisions set out as notes under sections 4980H, 6055, and 6501 of this title] may be cited as the 'Employer Reporting Improvement Act'."
+
+Pub. L. 118–167, §1, Dec. 23, 2024, 138 Stat. 2584, provided that: "This Act [amending sections 6055 and 6056 of this title and enacting provisions set out as a note under section 6055 of this title] may be cited as the 'Paperwork Burden Reduction Act'."
+
 Pub. L. 118–146, §1, Dec. 12, 2024, 138 Stat. 1673, provided that: "This Act [amending section 170 of this title] may be cited as the 'VSO Equal Tax Treatment Act' or as the 'VETT Act'."
 
 Pub. L. 118–60, §1, May 10, 2024, 138 Stat. 1018, provided that: "This Act [amending section 9502 of this title] may be cited as the 'Airport and Airway Extension Act of 2024, Part II'."

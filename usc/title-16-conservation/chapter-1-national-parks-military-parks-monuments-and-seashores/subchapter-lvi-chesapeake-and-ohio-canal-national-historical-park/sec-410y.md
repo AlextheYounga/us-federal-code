@@ -20,6 +20,10 @@ As used in this subchapter—
 
 #### **Statutory Notes and Related Subsidiaries** ####
 
+#### Short Title of 2024 Amendment ####
+
+Pub. L. 118–163, §1, Dec. 23, 2024, 138 Stat. 2578, provided that: "This Act [amending section 410y–4 of this title] may be cited as the 'Chesapeake and Ohio Canal National Historical Park Commission Extension Act'."
+
 #### Short Title ####
 
 Pub. L. 91–664, §1, Jan. 8, 1971, 84 Stat. 1978, provided: "That this Act [enacting this subchapter] shall be known as the 'Chesapeake and Ohio Canal Development Act'."

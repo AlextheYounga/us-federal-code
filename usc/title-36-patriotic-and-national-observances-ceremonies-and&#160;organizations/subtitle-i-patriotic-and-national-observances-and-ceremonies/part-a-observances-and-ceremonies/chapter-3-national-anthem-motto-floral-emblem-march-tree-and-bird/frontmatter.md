@@ -1,4 +1,4 @@
-### **CHAPTER 3—NATIONAL ANTHEM, MOTTO, FLORAL EMBLEM, MARCH, AND TREE** ###
+### **CHAPTER 3—NATIONAL ANTHEM, MOTTO, FLORAL EMBLEM, MARCH, TREE, AND BIRD** ###
 
 Sec.
 
@@ -12,9 +12,13 @@ Sec.
 
 305. National tree.
 
+306. National bird.
+
 #### **Editorial Notes** ####
 
 #### Amendments ####
+
+**2024**—Pub. L. 118–206, §1(c), Dec. 23, 2024, 138 Stat. 2700, substituted "TREE, AND BIRD" for "AND TREE" in chapter heading and added item 306.
 
 **2014**—Pub. L. 113–237, §3(c)(1), Dec. 18, 2014, 128 Stat. 2840, substituted "FLORAL EMBLEM, MARCH" for "FLORAL EMBLEM MARCH" in chapter heading.
 

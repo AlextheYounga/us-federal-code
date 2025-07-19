@@ -321,3 +321,5 @@ Sec.
 2279j. Conversion authority.
 
 2279k. Authorization of protection operations for the Secretary of Agriculture and others.
+
+2279 l. National Detector Dog Training Center.

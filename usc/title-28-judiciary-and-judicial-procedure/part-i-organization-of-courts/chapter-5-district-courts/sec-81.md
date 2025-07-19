@@ -4,35 +4,27 @@ Alabama is divided into three judicial districts to be known as the Northern, Mi
 
 ### Northern District ###
 
-(a) The Northern District comprises seven divisions.
+(a) The Northern District comprises five divisions.
 
-(1) The Northwestern Division comprises the counties of Colbert, Franklin, and Lauderdale.
+(1) The Northwestern Division comprises the counties of Colbert, Franklin, Lauderdale, and Lawrence.
 
 Court for the Northwestern Division shall be held at Florence.
 
-(2) The Northeastern Division comprises the counties of Cullman, Jackson, Lawrence, Limestone, Madison, and Morgan.
+(2) The Northeastern Division comprises the counties of Cullman, Jackson, Limestone, Madison, Marshall, and Morgan.
 
-Court for the Northeastern Division shall be held at Huntsville and Decatur.
+Court for the Northeastern Division shall be held at Huntsville.
 
 (3) The Southern Division comprises the counties of Blount, Jefferson, and Shelby.
 
 Court for the Southern Division shall be held at Birmingham.
 
-(4) The Eastern Division comprises the counties of Calhoun, Clay, Cleburne, and Talladega.
+(4) The Eastern Division comprises the counties of Calhoun, Cherokee, Clay, Cleburne, DeKalb, Etowah, Saint Clair, and Talladega.
 
 Court for the Eastern Division shall be held at Anniston.
 
-(5) The Western Division comprises the counties of Bibb, Greene, Pickens, Sumter, and Tuscaloosa.
+(5) The Western Division comprises the counties of Bibb, Fayette, Greene, Lamar, Marion, Pickens, Sumter, Tuscaloosa, Walker, and Winston.
 
 Court for the Western Division shall be held at Tuscaloosa.
-
-(6) The Middle Division comprises the counties of Cherokee, De Kalb, Etowah, Marshall, and Saint Clair.
-
-Court for the Middle Division shall be held at Gadsden.
-
-(7) The Jasper Division comprises the counties of Fayette, Lamar, Marion, Walker, and Winston.
-
-Court for the Jasper Division shall be held at Jasper.
 
 ### Middle District ###
 
@@ -62,7 +54,7 @@ Court for the Northern Division shall be held at Selma.
 
 Court for the Southern Division shall be held at Mobile.
 
-(June 25, 1948, ch. 646, 62 Stat. 873; Pub. L. 87–36, §3(a), May 19, 1961, 75 Stat. 83.)
+(June 25, 1948, ch. 646, 62 Stat. 873; Pub. L. 87–36, §3(a), May 19, 1961, 75 Stat. 83; Pub. L. 118–179, §1, Dec. 23, 2024, 138 Stat. 2613.)
 
 #### Historical and Revision Notes ####
 
@@ -81,5 +73,23 @@ Changes in arrangement and phraseology were made.
 #### **Editorial Notes** ####
 
 #### Amendments ####
+
+**2024**—Subsec. (a). Pub. L. 118–179, §1(1), substituted "five" for "seven" in introductory provisions.
+
+Subsec. (a)(1). Pub. L. 118–179, §1(2), substituted "Lauderdale, and Lawrence" for "and Lauderdale".
+
+Subsec. (a)(2). Pub. L. 118–179, §1(3), struck out Lawrence and added Marshall to the counties comprising the Northeastern Division of the Northern District and struck out "and Decatur" after "Huntsville".
+
+Subsec. (a)(4). Pub. L. 118–179, §1(4), substituted "Cherokee, Clay, Cleburne, DeKalb, Etowah, Saint Clair," for "Clay, Cleburne,".
+
+Subsec. (a)(5). Pub. L. 118–179, §1(5), substituted "Fayette, Greene, Lamar, Marion, Pickens, Sumter, Tuscaloosa, Walker, and Winston" for "Greene, Pickens, Sumter, and Tuscaloosa".
+
+Subsec. (a)(6). Pub. L. 118–179, §1(6), struck out par. (6) which read as follows: "The Middle Division comprises the counties of Cherokee, De Kalb, Etowah, Marshall, and Saint Clair.
+
+ "Court for the Middle Division shall be held at Gadsden."
+
+Subsec. (a)(7). Pub. L. 118–179, §1(7), struck out par. (7) which read as follows: "The Jasper Division comprises the counties of Fayette, Lamar, Marion, Walker, and Winston.
+
+ "Court for the Jasper Division shall be held at Jasper."
 
 **1961**—Subsec. (a)(2). Pub. L. 87–36 provided for holding court at Decatur.

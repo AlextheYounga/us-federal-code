@@ -171,9 +171,7 @@ Subtitle II—Patriotic and National Organizations
 
 1503. National Academy of Sciences 150301
 
-1504. National American Indian Veterans, Incorporated
-
-150401
+1504. National American Indian Veterans, Incorporated 150401
 
 1505. National Conference of State Societies, Washington, District of Columbia 150501
 

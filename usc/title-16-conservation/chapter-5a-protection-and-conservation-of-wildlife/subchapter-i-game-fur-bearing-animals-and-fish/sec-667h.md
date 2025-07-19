@@ -24,7 +24,7 @@ The term "Secretaries" means the Secretary of Agriculture, acting through the Ad
 
 #### (1) In general ####
 
-The Secretaries shall establish within the United States Fish and Wildlife Service a task force, to be known as the "Chronic Wasting Disease Task Force" (referred to in this subsection as the "Task Force") after the completion of the study required by subsection (c).
+The Secretaries shall establish within the United States Fish and Wildlife Service a task force, to be known as the "Chronic Wasting Disease Task Force" (referred to in this subsection as the "Task Force").
 
 #### (2) Duties ####
 
@@ -90,7 +90,7 @@ The Co-Chairs of the Task Force shall be—
 
 #### (A) In general ####
 
-The members of the Task Force shall be appointed not later than 180 days after the date on which the study is completed under subsection (c).
+The members of the Task Force shall be appointed not later than 90 days after December 23, 2024. The efforts of the Task Force shall not be contingent on the completion of the study required by subsection (c).
 
 #### (B) Notification ####
 
@@ -230,10 +230,20 @@ Not later than 60 days after the date of completion of the study, the Secretarie
 
 There are authorized to be appropriated to carry out this section—
 
-(1) for the period of fiscal years 2021 through 2025, $5,000,000 to the Secretary of the Interior, acting through the Director of the United States Fish and Wildlife Service, to carry out administrative activities under subsection (b);
+(1) for the period of fiscal years 2021 through 2030, $5,000,000 to the Secretary of the Interior, acting through the Director of the United States Fish and Wildlife Service, to carry out administrative activities under subsection (b);
 
 (2) for fiscal year 2021, $1,200,000 to the Secretary of the Interior, acting through the Director of the United States Geological Survey, to carry out activities to fund research under subsection (c); and
 
 (3) for fiscal year 2021, $1,200,000 to the Secretary of Agriculture, acting through the Administrator of the Animal and Plant Health Inspection Service, to carry out activities to fund research under subsection (c).
 
-(Pub. L. 116–188, title I, §104, Oct. 30, 2020, 134 Stat. 911.)
+(Pub. L. 116–188, title I, §104, Oct. 30, 2020, 134 Stat. 911; Pub. L. 118–198, title I, §103, Dec. 23, 2024, 138 Stat. 2680.)
+
+#### **Editorial Notes** ####
+
+#### Amendments ####
+
+**2024**—Subsec. (b)(1). Pub. L. 118–198, §103(1)(A), struck out "after the completion of the study required by subsection (c)" before period at end.
+
+Subsec. (b)(5)(A). Pub. L. 118–198, §103(1)(B), substituted "90 days after December 23, 2024. The efforts of the Task Force shall not be contingent on the completion of the study required by subsection (c)" for "180 days after the date on which the study is completed under subsection (c)".
+
+Subsec. (d)(1). Pub. L. 118–198, §103(2), substituted "2030" for "2025".

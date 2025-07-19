@@ -36,7 +36,7 @@ Sec.
 
 1594. Colorado River Basin Salinity Control Advisory Council.
 
-1595. Salinity control units; authority and functions of Secretary of the Interior.
+1595. Salinity control units; authority and functions of the Secretary of the Interior.
 
 1596. Biennial report to President, Congress, and Advisory Council.
 
