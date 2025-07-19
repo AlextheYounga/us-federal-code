@@ -48,7 +48,59 @@ The Secretary shall reserve for awarding grants under section 629g(f) of this ti
 
 Out of any money in the Treasury of the United States not otherwise appropriated, there are appropriated to the Secretary for fiscal year 2018, $8,000,000 for the Secretary to make competitive grants to States, Indian tribes, or tribal consortia to support the recruitment and retention of high-quality foster families to increase their capacity to place more children in family settings, focused on States, Indian tribes, or tribal consortia with the highest percentage of children in non-family settings. The amount appropriated under this subparagraph shall remain available through fiscal year 2022.
 
-(Aug. 14, 1935, ch. 531, title IV, §436, as added Pub. L. 107–133, title I, §106(a)(1), Jan. 17, 2002, 115 Stat. 2416; amended Pub. L. 109–171, title VII, §7402, Feb. 8, 2006, 120 Stat. 150; Pub. L. 109–288, §§3(a), 4(a)(1), (b)(1), 5(a)(1), (3), (b)(1)(B), Sept. 28, 2006, 120 Stat. 1234, 1236, 1237, 1242, 1243; Pub. L. 111–242, §133(1), Sept. 30, 2010, 124 Stat. 2613; Pub. L. 112–34, title I, §§102(a)(1), 103(a), (b), Sept. 30, 2011, 125 Stat. 371, 373; Pub. L. 115–123, div. E, title VII, §§50751(b), 50752(b)(1), (c), Feb. 9, 2018, 132 Stat. 262, 263; Pub. L. 116–260, div. CC, title III, §305(a), Dec. 27, 2020, 134 Stat. 2994; Pub. L. 117–328, div. FF, title VI, §6103(a)(1)–(3), Dec. 29, 2022, 136 Stat. 5964, 5965.)
+(Aug. 14, 1935, ch. 531, title IV, §436, as added Pub. L. 107–133, title I, §106(a)(1), Jan. 17, 2002, 115 Stat. 2416; amended Pub. L. 109–171, title VII, §7402, Feb. 8, 2006, 120 Stat. 150; Pub. L. 109–288, §§3(a), 4(a)(1), (b)(1), 5(a)(1), (3), (b)(1)(B), Sept. 28, 2006, 120 Stat. 1234, 1236, 1237, 1242, 1243; Pub. L. 111–242, §133(1), Sept. 30, 2010, 124 Stat. 2613; Pub. L. 112–34, title I, §§102(a)(1), 103(a), (b), Sept. 30, 2011, 125 Stat. 371, 373; Pub. L. 115–123, div. E, title VII, §§50751(b), 50752(b)(1), (c), Feb. 9, 2018, 132 Stat. 262, 263; Pub. L. 116–260, div. CC, title III, §305(a), Dec. 27, 2020, 134 Stat. 2994; Pub. L. 117–328, div. FF, title VI, §6103(a)(1)–(3), Dec. 29, 2022, 136 Stat. 5964, 5965; Pub. L. 118–258, title I, §§103(b), 104(a), 105(a), 107(b)(2), 112(a), (c), 115(b)(1), Jan. 4, 2025, 138 Stat. 2948, 2949, 2955, 2962, 2968.)
+
+#### Amendment of Subsections (a) and (b) ####
+
+Pub. L. 118–258, title I, §§103(b), 104(a), 105(a), 107(b)(2), 112(a), (c), 115(b)(1), 117, Jan. 4, 2025, 138 Stat. 2948, 2949, 2955, 2962, 2968, 2969, made numerous amendments to subsections (a) and (b) of this section, effective Oct. 1, 2025, and applicable to payments under this part for calendar quarters beginning on or after such date, with delay permitted if either State legislation or tribal action is required to meet additional requirements. After such effective date, subsections (a) and (b) will read as follows:
+
+#### *(a) Authorization* ####
+
+*In addition to any amount otherwise made available to carry out this subpart, there are authorized to be appropriated to carry out this subpart $345,000,000 for fiscal year 2025 and $420,000,000 for each of fiscal years 2026 through 2029.*
+
+#### *(b) Reservation of certain amounts* ####
+
+*From the amount specified in subsection (a) for a fiscal year, the Secretary shall reserve amounts as follows:*
+
+#### *(1) State court improvements* ####
+
+*The Secretary shall reserve $30,000,000 for fiscal year 2025 and $40,000,000 for fiscal year 2026 and each succeeding fiscal year for grants under section 629h of this title.*
+
+#### *(2) Indian tribes or tribal consortia* ####
+
+*The Secretary shall reserve 3 percent for allotment to Indian tribes or tribal consortia in accordance with section 629c(a) of this title.*
+
+#### *(3) Support for monthly caseworker visits* ####
+
+#### *(A) Reservation* ####
+
+*The Secretary shall reserve for allotment in accordance with section 629c(e) of this title $20,000,000 for fiscal year 2025 and $26,000,000 for fiscal year 2026 and each succeeding fiscal year.*
+
+#### *(B) Use of funds* ####
+
+#### *(i) In general* ####
+
+*A State to which an amount is paid from amounts reserved under subparagraph (A) shall use the amount to improve the quality of monthly caseworker visits with children who are in foster care under the responsibility of the State, with an emphasis on—*
+
+*(I) reducing caseload ratios and the administrative burden on caseworkers, to improve caseworker decision making on the safety, permanency, and well-being of foster children and on activities designed to increase retention, recruitment, and training of caseworkers;*
+
+*(II) implementing technology solutions to streamline caseworker duties and modernize systems, ensuring improved efficiency and effectiveness in child welfare services;*
+
+*(III) improving caseworker safety;*
+
+*(IV) mental health resources to support caseworker well-being, including peer-to-peer support programs; and*
+
+*(V) recruitment campaigns aimed at attracting qualified caseworker candidates.*
+
+#### *(ii) Nonsupplantation* ####
+
+*A State to which an amount is paid from amounts reserved pursuant to subparagraph (A) shall not use the amount to supplant any Federal funds paid to the State under part E that could be used as described in clause (i).*
+
+#### *(4) Regional partnership grants* ####
+
+*The Secretary shall reserve for awarding grants under section 629g(f) of this title $20,000,000 for fiscal year 2025 and $30,000,000 for fiscal year 2026 and each succeeding fiscal year.*
+
+See 2025 Amendment notes below.
 
 #### **Editorial Notes** ####
 
@@ -57,6 +109,20 @@ Out of any money in the Treasury of the United States not otherwise appropriated
 A prior section 436 of act Aug. 14, 1935, was classified to section 636 of this title prior to repeal by Pub. L. 100–485.
 
 #### Amendments ####
+
+**2025**—Subsec. (a). Pub. L. 118–258, §103(b), substituted "fiscal year 2025 and $420,000,000 for each of fiscal years 2026 through 2029" for "each of fiscal years 2017 through 2023".
+
+Subsec. (b). Pub. L. 118–258, §115(b)(1), redesignated pars. (2) to (5) as (1) to (4), respectively, and struck out former par. (1) which related to reservation of amounts for evaluation, research, training, and technical assistance. Amendment notes below relate to pars. prior to redesignation.
+
+Subsec. (b)(2). Pub. L. 118–258, §104(a), inserted "for fiscal year 2025 and $40,000,000 for fiscal year 2026 and each succeeding fiscal year" before "for grants".
+
+Subsec. (b)(3). Pub. L. 118–258, §107(b)(2), substituted "The Secretary" for "After applying paragraphs (4) and (5) (but before applying paragraphs (1) or (2)), the Secretary".
+
+Subsec. (b)(4)(A). Pub. L. 118–258, §112(a), substituted "fiscal year 2025 and $26,000,000 for fiscal year 2026 and each succeeding fiscal year" for "each of fiscal years 2017 through 2023".
+
+Subsec. (b)(4)(B)(i). Pub. L. 118–258, §112(c), amended cl. (i) generally. Prior to amendment, text read as follows: "A State to which an amount is paid from amounts reserved under subparagraph (A) shall use the amount to improve the quality of monthly caseworker visits with children who are in foster care under the responsibility of the State, with an emphasis on improving caseworker decision making on the safety, permanency, and well-being of foster children and on activities designed to increase retention, recruitment, and training of caseworkers."
+
+Subsec. (b)(5). Pub. L. 118–258, §105(a), substituted "fiscal year 2025 and $30,000,000 for fiscal year 2026 and each succeeding fiscal year" for "each of fiscal years 2017 through 2023".
 
 **2022**—Subsecs. (a), (b)(4)(A), (5). Pub. L. 117–328 substituted "2023" for "2022".
 
@@ -113,6 +179,10 @@ Subsec. (b)(4). Pub. L. 109–288, §4(a)(1), added par. (4).
 Subsec. (b)(5). Pub. L. 109–288, §4(b)(1), added par. (5).
 
 #### **Statutory Notes and Related Subsidiaries** ####
+
+#### Effective Date of 2025 Amendment ####
+
+Amendment by Pub. L. 118–258 effective Oct. 1, 2025, and applicable to payments under this part for calendar quarters beginning on or after such date, with delay permitted if either State legislation or tribal action is required to meet additional requirements, see section 117 of Pub. L. 118–258, set out as a note under section 622 of this title.
 
 #### Effective Date of 2020 Amendment ####
 

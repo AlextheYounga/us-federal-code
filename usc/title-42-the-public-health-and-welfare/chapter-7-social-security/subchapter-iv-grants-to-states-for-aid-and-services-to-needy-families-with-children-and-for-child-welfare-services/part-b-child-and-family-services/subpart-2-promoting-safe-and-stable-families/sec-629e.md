@@ -164,7 +164,167 @@ The Secretary shall publish on an internet website maintained by the Secretary t
 
 In addition to any amounts otherwise made available to carry out this subpart, out of any money in the Treasury of the United States not otherwise appropriated, there are appropriated $15,000,000 for fiscal year 2019 to carry out the project, which shall remain available through fiscal year 2026.
 
-(Aug. 14, 1935, ch. 531, title IV, §435, as added Pub. L. 103–66, title XIII, §13711(a)(2), Aug. 10, 1993, 107 Stat. 654; amended Pub. L. 107–133, title I, §105, Jan. 17, 2002, 115 Stat. 2415; Pub. L. 109–288, §§4(c), 5(b)(3)(C), Sept. 28, 2006, 120 Stat. 1242, 1243; Pub. L. 115–271, title VIII, §8082(a), Oct. 24, 2018, 132 Stat. 4098.)
+(Aug. 14, 1935, ch. 531, title IV, §435, as added Pub. L. 103–66, title XIII, §13711(a)(2), Aug. 10, 1993, 107 Stat. 654; amended Pub. L. 107–133, title I, §105, Jan. 17, 2002, 115 Stat. 2415; Pub. L. 109–288, §§4(c), 5(b)(3)(C), Sept. 28, 2006, 120 Stat. 1242, 1243; Pub. L. 115–271, title VIII, §8082(a), Oct. 24, 2018, 132 Stat. 4098; Pub. L. 118–258, title I, §§105(e), 106(g), 108(a), 115(a), Jan. 4, 2025, 138 Stat. 2950, 2953, 2956, 2968.)
+
+#### Amendment of Section ####
+
+Pub. L. 118–258, title I, §§105(e), 106(g), 108(a), 115(a), 117, Jan. 4, 2025, 138 Stat. 2950, 2953, 2956, 2968, 2969, provided that, effective Oct. 1, 2025, and applicable to payments under this part for calendar quarters beginning on or after such date, with delay permitted if either State legislation or tribal action is required to meet additional requirements, this section is amended as follows:
+
+(1) in subsection (a)(2)(B), by inserting "including community-based partners with expertise in preventing unnecessary child welfare system involvement" before the semicolon;
+
+(2) by amending subsection (c) to read as follows:
+
+#### *"(c) Evaluation, research, and technical assistance with respect to targeted program resources* ####
+
+*"Of the amount reserved under section 629g(b)(1) of this title for a fiscal year, the Secretary shall use not less than—*
+
+*"(1) $1,000,000 for technical assistance to grantees under section 629g(f) of this title and to support design of local site evaluations with the goal of publishing and submitting evaluation findings to the clearinghouse established under section 676(d) of this title, or to award grants to allow current or former grantees under section 629g(f) of this title to analyze, publish, and submit to the clearinghouse data collected during past grants; and*
+
+*"(2) $1,000,000 for technical assistance required under section 628d of this title to support effective implementation of the Indian Child Welfare Act of 1978 and to support development of associated State plan measures described pursuant to section 622(b)(9) of this title.";*
+
+(3) in subsection (d), by striking "and" at the end of paragraph (4), by striking the period at the end of paragraph (5) and inserting "; and", and by adding at the end the following new paragraph:
+
+*"(6) use grants under section 629g(f) of this title in coordination with other Federal funds to better serve families in the child welfare system that are affected by a substance use disorder."; and*
+
+(4) by adding at the end the following:
+
+#### *(f) Prevention services evaluation partnerships* ####
+
+#### *(1) Purpose* ####
+
+*The purpose of this subsection is to authorize the Secretary to make competitive grants to support the timely evaluation of—*
+
+*(A) services and programs described in section 671(e) of this title; or*
+
+*(B) kinship navigator programs described in section 674(a)(7) of this title.*
+
+#### *(2) Grants* ####
+
+*In accordance with applications approved under this subsection, the Secretary may make grants, on a competitive basis, to eligible entities to carry out projects designed to evaluate a service or program provided by the eligible entity, or an entity in partnership with the eligible entity, with respect to the requirements for a promising practice, supported practice, or well-supported practice described in section 671(e)(4)(C) of this title.*
+
+#### *(3) Applications* ####
+
+#### *(A) In general* ####
+
+*An eligible entity may apply to the Secretary for a grant under this subsection to carry out a project that meets the following requirements:*
+
+*(i) The project is designed in accordance with paragraph (2).*
+
+*(ii) The project is to be carried out by the applicant in partnership with—*
+
+*(I) a State agency that administers, or supervises the administration of, the State plan approved under part E, or an agency administering the plan under the supervision of the State agency; and*
+
+*(II) if the applicant is unable or unwilling to do so, at least 1 external evaluator to carry out the evaluation of the service or program provided by the applicant.*
+
+#### *(B) Contents* ####
+
+*The application shall contain the following:*
+
+*(i) A description of the project, including—*
+
+*(I) a statement explaining why a grant is necessary to carry out the project; and*
+
+*(II) the amount of grant funds that would be disbursed to each entity described in subparagraph (A)(ii) in partnership with the applicant.*
+
+*(ii) A certification from each entity described in subparagraph (A)(ii) that provides assurances that the individual or entity is in partnership with the applicant and will fulfill the responsibilities of the entity specified in the description provided pursuant to clause (i) of this subparagraph.*
+
+*(iii) A certification from the applicant that provides assurances that the applicant intends to comply with subparagraph (A)(ii)(II), if applicable.*
+
+*(iv) At the option of the eligible entity, a certification from the applicant that the applicant requires an external evaluator secured by the Secretary pursuant to paragraph (5), if applicable.*
+
+#### *(4) Priorities* ####
+
+*In approving applications under this subsection, the Secretary shall prioritize the following:*
+
+*(A) Addressing, with respect to the clearinghouse of practices described in section 676(d)(2) of this title, deficiencies or gaps identified by the Secretary in consultation with—*
+
+*(i) States, political subdivisions of a State, and tribal communities carrying out, or receiving the benefits of, a service or program; and*
+
+*(ii) child welfare experts, including individuals with lived experience.*
+
+*(B) Maximizing the number of evidence-based services or programs to be included in the clearinghouse of practices described in section 676(d)(2) of this title.*
+
+*(C) Timely completion of evaluations and the production of evidence.*
+
+*(D) Supporting services or programs that are based on, or are adaptations to new population settings of, a service or program with reliable evidence about the benefits and risks of the service or program.*
+
+#### *(5) Availability of external evaluators* ####
+
+#### *(A) In general* ####
+
+*Before accepting applications under this subsection, the Secretary shall make reasonable efforts to identify at least 1 entity to serve as an external evaluator for any eligible entity that includes a certification under paragraph (3)(B)(iv) with an application under this subsection.*
+
+#### *(B) No effect on consideration of application* ####
+
+*The Secretary may not consider whether an eligible entity is in partnership with an external evaluator described in paragraph (A) in approving an application under this subsection submitted by the eligible entity.*
+
+#### *(6) Reports* ####
+
+#### *(A) By grant recipients* ####
+
+*Within 1 year after receiving a grant under this subsection, and every year thereafter for the next 5 years, the grant recipient shall submit to the Secretary a written report on—*
+
+*(i) the use of grant funds;*
+
+*(ii) whether the program or service evaluated by the project meets a requirement specified in section 671(e)(4)(C) of this title, including information about—*
+
+*(I) how the program or service is being carried out in accordance with standards specified in the requirement;*
+
+*(II) any outcomes of the program or service; and*
+
+*(III) any outcome with respect to which the service or program compares favorably to a comparison practice; and*
+
+*(iii) whether the Secretary has included the program or service in an update to the clearinghouse of practices described in section 676(d)(2) of this title.*
+
+#### *(B) By the Secretary* ####
+
+*The Secretary shall submit to the Committee on Ways and Means of the House of Representatives and to the Committee on Finance of the Senate an annual written report on—*
+
+*(i) the grants awarded under this subsection;*
+
+*(ii) the programs funded by the grants;*
+
+*(iii) any technical assistance provided by the Secretary in carrying out this subsection, including with respect to the efforts to secure external evaluators pursuant to paragraph (5); and*
+
+*(iv) any efforts by the Secretary to support program evaluation and review pursuant to section 671(e) of this title and inclusion of programs in the pre-approved list of services and programs described in section 671(e)(4)(D) of this title or the clearinghouse of practices described in section 676(d)(2) of this title.*
+
+#### *(7) Funding* ####
+
+#### *(A) Limitations* ####
+
+*Of the amounts available to carry out this subsection, the Secretary may use not more than 5 percent to provide technical assistance.*
+
+#### *(B) Carryover* ####
+
+*Amounts made available to carry out this subsection shall remain available until expended.*
+
+#### *(8) Definitions* ####
+
+*In this subsection:*
+
+#### *(A) Eligible entity* ####
+
+*The term "eligible entity" means any of the following providing a service or program or, in the sole determination of the Secretary, able to provide a service or program if awarded a grant under this subsection:*
+
+*(i) A State, a political subdivision of a State, or an agency or department of a State or political subdivision of a State.*
+
+*(ii) An entity described in subparagraph (A) or (B) of section 626(a)(1) of this title.*
+
+*(iii) An Indian tribe or tribal organization.*
+
+#### *(B) External evaluator* ####
+
+*The term "external evaluator" means an entity with the ability and willingness to evaluate a service or program pursuant to paragraph (2) that is not provided by the entity.*
+
+#### *(C) Service or program* ####
+
+*The term "service or program"—*
+
+*(i) means a service or program described in section 671(e) of this title; and*
+
+*(ii) includes a kinship navigator program described in section 674(a)(7) of this title.*
+
+See 2025 Amendment notes below.
 
 #### **Editorial Notes** ####
 
@@ -173,6 +333,14 @@ In addition to any amounts otherwise made available to carry out this subpart, o
 A prior section 435 of act Aug. 14, 1935, was classified to section 635 of this title prior to repeal by Pub. L. 100–485.
 
 #### Amendments ####
+
+**2025**—Subsec. (a)(2)(B). Pub. L. 118–258, §106(g), inserted before the semicolon "including community-based partners with expertise in preventing unnecessary child welfare system involvement".
+
+Subsec. (c). Pub. L. 118–258, §115(a), amended subsec. (c) generally. Prior to amendment, subsec. (c) related to evaluation, research, and technical assistance with respect to targeted program resources.
+
+Subsec. (d)(6). Pub. L. 118–258, §105(e), added par. (6).
+
+Subsec. (f). Pub. L. 118–258, §108(a), added subsec. (f).
 
 **2018**—Subsec. (e). Pub. L. 115–271 added subsec. (e).
 
@@ -189,6 +357,10 @@ Subsec. (a)(3). Pub. L. 107–133, §105(2), added par. (3).
 Subsecs. (c), (d). Pub. L. 107–133, §105(3), added subsecs. (c) and (d).
 
 #### **Statutory Notes and Related Subsidiaries** ####
+
+#### Effective Date of 2025 Amendment ####
+
+Amendment by Pub. L. 118–258 effective Oct. 1, 2025, and applicable to payments under this part for calendar quarters beginning on or after such date, with delay permitted if either State legislation or tribal action is required to meet additional requirements, see section 117 of Pub. L. 118–258, set out as a note under section 622 of this title.
 
 #### Effective Date of 2006 Amendment ####
 

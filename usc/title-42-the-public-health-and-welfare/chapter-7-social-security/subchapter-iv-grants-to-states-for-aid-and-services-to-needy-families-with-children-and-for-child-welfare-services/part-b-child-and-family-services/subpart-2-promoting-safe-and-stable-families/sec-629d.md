@@ -34,7 +34,11 @@ The Secretary shall pay any amount to which an Indian tribe or tribal consortium
 
 The Secretary shall not make a payment to a State under this section with respect to expenditures for administrative costs during a fiscal year, to the extent that the total amount of the expenditures exceeds 10 percent of the total expenditures of the State during the fiscal year under the State plan approved under section 629b of this title.
 
-(Aug. 14, 1935, ch. 531, title IV, §434, as added Pub. L. 103–66, title XIII, §13711(a)(2), Aug. 10, 1993, 107 Stat. 653; amended Pub. L. 107–133, title I, §104, Jan. 17, 2002, 115 Stat. 2415; Pub. L. 109–288, §§3(f)(1), 4(a)(3), 5(b)(3)(B), Sept. 28, 2006, 120 Stat. 1236, 1237, 1243.)
+(Aug. 14, 1935, ch. 531, title IV, §434, as added Pub. L. 103–66, title XIII, §13711(a)(2), Aug. 10, 1993, 107 Stat. 653; amended Pub. L. 107–133, title I, §104, Jan. 17, 2002, 115 Stat. 2415; Pub. L. 109–288, §§3(f)(1), 4(a)(3), 5(b)(3)(B), Sept. 28, 2006, 120 Stat. 1236, 1237, 1243; Pub. L. 118–258, title I, §115(b)(2)(C), Jan. 4, 2025, 138 Stat. 2969.)
+
+#### Amendment of Subsection (a)(2)(A) ####
+
+Pub. L. 118–258, title I, §§115, 117, Jan. 4, 2025, 138 Stat. 2969, provided that, effective Oct. 1, 2025, and applicable to payments under this part for calendar quarters beginning on or after such date, with delay permitted if either State legislation or tribal action is required to meet additional requirements, subsection (a)(2)(A) of this section is amended by striking "629f(b)(4)(B)" and inserting "629f(b)(3)(B)". See 2025 Amendment note below.
 
 #### **Editorial Notes** ####
 
@@ -43,6 +47,8 @@ The Secretary shall not make a payment to a State under this section with respec
 A prior section 434 of act Aug. 14, 1935, was classified to section 634 of this title prior to repeal by Pub. L. 100–485.
 
 #### Amendments ####
+
+**2025**—Subsec. (a)(2)(A). Pub. L. 118–258 substituted "629f(b)(3)(B) of this title" for "629f(b)(4)(B) of this title".
 
 **2006**—Subsec. (a). Pub. L. 109–288, §4(a)(3), substituted "the sum of—" for "the lesser of—" in introductory provisions, added pars. (1) and (2), and struck out former pars. (1) and (2) which read as follows:
 
@@ -63,6 +69,10 @@ Subsec. (b)(1). Pub. L. 107–133, §104(b)(1), struck out "paragraph (1) or (2)
 Subsec. (b)(2). Pub. L. 107–133, §104(b)(2), substituted "subsection (a)" for "subsection (a)(1)".
 
 #### **Statutory Notes and Related Subsidiaries** ####
+
+#### Effective Date of 2025 Amendment ####
+
+Amendment by Pub. L. 118–258 effective Oct. 1, 2025, and applicable to payments under this part for calendar quarters beginning on or after such date, with delay permitted if either State legislation or tribal action is required to meet additional requirements, see section 117 of Pub. L. 118–258, set out as a note under section 622 of this title.
 
 #### Effective Date of 2006 Amendment ####
 

@@ -304,7 +304,241 @@ The Secretary, in consultation with the Secretariat for the Interstate Compact o
 
 (C) improving the ability of States to quickly comply with background check requirements of section 671(a)(20) of this title, including checks of child abuse and neglect registries as required by section 671(a)(20)(B) of this title.
 
-(Aug. 14, 1935, ch. 531, title IV, §437, as added Pub. L. 107–133, title I, §106(b), Jan. 17, 2002, 115 Stat. 2417; amended Pub. L. 109–288, §§3(b), 4(b)(2), 5(a)(2), (b)(2), 6(f)(5), Sept. 28, 2006, 120 Stat. 1234, 1238, 1242, 1243, 1247; Pub. L. 110–234, title IV, §4002(b)(1)(D), (2)(V), May 22, 2008, 122 Stat. 1096, 1097; Pub. L. 110–246, §4(a), title IV, §4002(b)(1)(D), (2)(V), June 18, 2008, 122 Stat. 1664, 1857, 1858; Pub. L. 112–34, title I, §§102(a)(2), 103(c)(1), (2), Sept. 30, 2011, 125 Stat. 371, 373; Pub. L. 115–123, div. E, title VII, §§50722(c), (d), 50723, 50752(b)(2), Feb. 9, 2018, 132 Stat. 246–248, 263; Pub. L. 117–328, div. FF, title VI, §6103(b)(2)–(4), Dec. 29, 2022, 136 Stat. 5965.)
+(Aug. 14, 1935, ch. 531, title IV, §437, as added Pub. L. 107–133, title I, §106(b), Jan. 17, 2002, 115 Stat. 2417; amended Pub. L. 109–288, §§3(b), 4(b)(2), 5(a)(2), (b)(2), 6(f)(5), Sept. 28, 2006, 120 Stat. 1234, 1238, 1242, 1243, 1247; Pub. L. 110–234, title IV, §4002(b)(1)(D), (2)(V), May 22, 2008, 122 Stat. 1096, 1097; Pub. L. 110–246, §4(a), title IV, §4002(b)(1)(D), (2)(V), June 18, 2008, 122 Stat. 1664, 1857, 1858; Pub. L. 112–34, title I, §§102(a)(2), 103(c)(1), (2), Sept. 30, 2011, 125 Stat. 371, 373; Pub. L. 115–123, div. E, title VII, §§50722(c), (d), 50723, 50752(b)(2), Feb. 9, 2018, 132 Stat. 246–248, 263; Pub. L. 117–328, div. FF, title VI, §6103(b)(2)–(4), Dec. 29, 2022, 136 Stat. 5965; Pub. L. 118–258, title I, §§103(c), 105(b)–(d), (f)–(l), 108(b), 110(b)(2), 115(b)(2)(D), (E), Jan. 4, 2025, 138 Stat. 2948–2951, 2958, 2961, 2969.)
+
+#### Amendment of Section ####
+
+Pub. L. 118–258, title I, §§103(c), 108(b), 110(b)(2), 115(b)(2)(D), 117, Jan. 4, 2025, 138 Stat. 2948, 2958, 2961, 2969, provided that, effective Oct. 1, 2025, and applicable to payments under this part for calendar quarters beginning on or after such date, with delay permitted if either State legislation or tribal action is required to meet additional requirements, this section is amended as follows:
+
+(1) in subsection (a), by striking "2017 through 2023" and inserting "2025 through 2029"; and
+
+(2) in subsection (b)—
+
+(A) in paragraph (1), by striking "629f(b)(1) of this title" and inserting "629e of this title"; and
+
+(B) by adding at the end the following:
+
+#### *(5) Preventive services evaluation partnerships* ####
+
+*The Secretary shall reserve $5,000,000 for grants under section 629e(f) of this title for each of fiscal years 2026 through 2029.*
+
+#### *(6) Kinship navigators* ####
+
+*The Secretary shall reserve $10,000,000 for grants under section 627 of this title for each of fiscal years 2026 through 2029.*
+
+Pub. L. 118–258, title I, §§105(b)–(d), (f)–(l), 115(b)(2)(E), 117, Jan. 4, 2025, 138 Stat. 2949–2951, 2969, made numerous amendments to subsection (f) of this section, effective Oct. 1, 2025, and applicable to payments under this part for calendar quarters beginning on or after such date, with delay permitted if either State legislation or tribal action is required to meet additional requirements. After such effective date, subsection (f) of this section will read as follows:
+
+#### *(f) Targeted grants to implement IV–E prevention services, and improve the well-being of, and improve permanency outcomes for, children and families affected by heroin, opioids, and other substance abuse* ####
+
+#### *(1) Purpose* ####
+
+*The purpose of this subsection is to authorize the Secretary to make competitive grants to regional partnerships to provide, through interagency collaboration and integration of programs and services, services and activities that are designed to increase the well-being of, improve permanency outcomes for, and enhance the safety of children who are in an out-of-home placement or are at risk of being placed in an out-of-home placement as a result of a parent's or caretaker's substance abuse, and expand the scope of the evidence-based services that may be approved by the clearinghouse established under section 676(d) of this title.*
+
+#### *(2) Regional partnership defined* ####
+
+*In this subsection, the term "regional partnership" means a collaborative agreement (which may be established on an interstate, State, or intrastate basis) entered into by the following:*
+
+#### *(A) Mandatory partners for all partnership grants* ####
+
+*(i) The State child welfare agency that is responsible for the administration of the State plan under this part and part E.*
+
+*(ii) The State agency responsible for administering the substance abuse prevention and treatment block grant provided under subpart II of part B of title XIX of the Public Health Service Act [42 U.S.C. 300x–21 et seq.].*
+
+*(iii) The most appropriate administrative office of the juvenile court or State court overseeing court proceedings involving families who come to the attention of the court due to child abuse or neglect.*
+
+#### *(B) Optional partners* ####
+
+*At the option of the partnership, any of the following:*
+
+*(i) An Indian tribe or tribal consortium.*
+
+*(ii) Nonprofit child welfare service providers.*
+
+*(iii) For-profit child welfare service providers.*
+
+*(iv) Community health service providers, including substance abuse treatment providers.*
+
+*(v) Community mental health providers.*
+
+*(vi) Local law enforcement agencies.*
+
+*(vii) School personnel.*
+
+*(viii) Tribal child welfare agencies (or a consortia of the agencies).*
+
+*(ix) State or local agencies that administer Federal health care, housing, family support, or other related programs.*
+
+*(x) Any other providers, agencies, personnel, officials, or entities that are related to the provision of child and family services under a State plan approved under this subpart.*
+
+#### *(C) Exception for regional partnerships where the lead applicant is an Indian tribe or tribal consortia* ####
+
+*If an Indian tribe or tribal consortium enters into a regional partnership for purposes of this subsection, the Indian tribe or tribal consortium—*
+
+*(i) may (but is not required to) include the State child welfare agency as a partner in the collaborative agreement and*
+
+*(ii) may not enter into a collaborative agreement only with tribal child welfare agencies (or a consortium of the agencies).*
+
+#### *(3) Authority to award grants* ####
+
+#### *(A) In general* ####
+
+*The Secretary shall award grants under this subsection, from the amounts reserved for each of fiscal years 2025 through 2029 under section 629f(b)(4) of this title, to regional partnerships that satisfy the requirements of this subsection, in amounts that are not less than $250,000 and not more than $1,000,000 per grant per fiscal year.*
+
+#### *(B) Required minimum period of approval; planning* ####
+
+#### *(i) In general* ####
+
+*A grant shall be awarded under this subsection for a period of not less than 2, and not more than 5, fiscal years, subject to clauses (ii) and (iii).*
+
+#### *(ii) Extension of grant* ####
+
+*On application of the grantee, the Secretary may extend for not more than 2 fiscal years the period for which a grant is awarded under this subsection.*
+
+#### *(iii) Sufficient planning* ####
+
+#### *(I) In general* ####
+
+*A grant awarded under this subsection shall be disbursed in two phases: a planning phase (not to exceed 2 years) and an implementation phase. The total disbursement to a grantee for the planning phase may not exceed the total anticipated funding for the implementation phase.*
+
+#### *(II) Exception* ####
+
+*The Secretary, on a case-by-case basis, may waive the planning phase for a partnership that demonstrates that the partnership has engaged in sufficient planning before submitting an application for a grant under this subsection.*
+
+#### *(C) Multiple grants allowed* ####
+
+*This subsection shall not be interpreted to prevent a grantee from applying for, or being awarded, separate grants under this subsection.*
+
+#### *(D) Limitation on payment for a fiscal year* ####
+
+*No payment shall be made under subparagraph (A) or (C) for a fiscal year until the Secretary determines that the eligible partnership has made sufficient progress in meeting the goals of the grant and that the members of the eligible partnership are coordinating to a reasonable degree with the other members of the eligible partnership.*
+
+#### *(4) Application requirements* ####
+
+*To be eligible for a grant under this subsection, a regional partnership shall submit to the Secretary a written application containing the following:*
+
+*(A) Recent evidence demonstrating that substance abuse has had a substantial impact on the number of out-of-home placements for children, or the number of children who are at risk of being placed in an out-of-home placement, in the partnership region.*
+
+*(B) A description of the goals and outcomes to be achieved during the funding period for the grant that will—*
+
+*(i) enhance the well-being of children, parents, and families receiving services or taking part in activities conducted with funds provided under the grant;*
+
+*(ii) lead to safe, permanent caregiving relationships for the children;*
+
+*(iii) improve the substance abuse treatment outcomes for parents including retention in treatment and successful completion of treatment;*
+
+*(iv) facilitate the implementation, delivery, and effectiveness of prevention services and programs under section 671(e) of this title; and*
+
+*(v) decrease the number of out-of-home placements for children, increase reunification rates for children who have been placed in out-of-home care, or decrease the number of children who are at risk of being placed in an out-of-home placement, in the partnership region.*
+
+*(C) A description of the joint activities to be funded in whole or in part with the funds provided under the grant, including the sequencing of the activities proposed to be conducted under the funding period for the grant.*
+
+*(D) A description of the strategies for integrating programs and services determined to be appropriate for the child and the child's family.*
+
+*(E) A description of a plan for sustaining the services provided by or activities funded under the grant after the conclusion of the grant period, including through the use of prevention services and programs under section 671(e) of this title and other funds provided to the State for child welfare and substance abuse prevention and treatment services.*
+
+*(F) Additional information needed by the Secretary to determine that the proposed activities and implementation will be consistent with research or evaluations showing which practices and approaches are most effective.*
+
+#### *(5) Use of funds* ####
+
+*Funds made available under a grant made under this subsection shall only be used for services or activities that are consistent with the purpose of this subsection and may include the following:*
+
+*(A) Family-based comprehensive long-term substance use disorder treatment including medication assisted treatment and in-home substance abuse disorder treatment and recovery services.*
+
+*(B) Early intervention and preventative services.*
+
+*(C) Children and family counseling.*
+
+*(D) Mental health services.*
+
+*(E) Parenting skills training.*
+
+*(F) Replication of successful models for providing family-based comprehensive long-term substance abuse treatment services.*
+
+#### *(6) Matching requirement* ####
+
+#### *(A) Federal share* ####
+
+*A grant awarded under this subsection shall be available to pay a percentage share of the costs of services provided or activities conducted under such grant, not to exceed—*
+
+*(i) 85 percent for the first and second fiscal years for which the grant is awarded to a recipient;*
+
+*(ii) 80 percent for the third and fourth such fiscal years;*
+
+*(iii) 75 percent for the fifth such fiscal year;*
+
+*(iv) 70 percent for the sixth such fiscal year; and*
+
+*(v) 65 percent for the seventh such fiscal year.*
+
+#### *(B) Non-Federal share* ####
+
+*The non-Federal share of the cost of services provided or activities conducted under a grant awarded under this subsection may be in cash or in kind. In determining the amount of the non-Federal share, the Secretary may attribute fair market value to goods, services, and facilities contributed from non-Federal sources.*
+
+#### *(7) Considerations in awarding grants* ####
+
+*In awarding grants under this subsection, the Secretary shall take into consideration the extent to which applicant regional partnerships—*
+
+*(A) demonstrate that substance abuse by parents or caretakers has had a substantial impact on the number of out-of-home placements for children, or the number of children who are at risk of being placed in an out-of-home placement, in the partnership region;*
+
+*(B) have limited resources for addressing the needs of children affected by such abuse;*
+
+*(C) have a lack of capacity for, or access to, comprehensive family treatment services;*
+
+*(D) demonstrate a track record of successful collaboration among child welfare, substance abuse disorder treatment and mental health agencies;*
+
+*(E) demonstrate a plan for sustaining the services provided by or activities funded under the grant after the conclusion of the grant period;*
+
+*(F) have submitted information pursuant to paragraph (4)(F) that demonstrates the capability to participate in rigorous evaluation of program effectiveness; and*
+
+*(G) are a State or public agency, or outline a plan to increase the availability of services funded under the grant statewide.*
+
+#### *(8) Performance indicators* ####
+
+#### *(A) In general* ####
+
+*Not later than 9 months after September 28, 2006, the Secretary shall review indicators that are used to assess periodically the performance of the grant recipients under the Protecting America's Children by Strengthening Families Act and establish a set of core indicators related to child safety, child permanency, reunification, re-entry into care, parental recovery, parenting capacity, and family well-being, and access to services for families with substance use disorder, including those with children who are overrepresented in foster care, difficult to place, or have disproportionately low permanency rates. In developing the core indicators, to the extent possible, indicators shall be made consistent with the outcome measures described in section 671(e)(6) of this title.*
+
+#### *(B) Consultation required* ####
+
+*In establishing the performance indicators required by subparagraph (A), the Secretary shall base the performance measures on lessons learned from prior rounds of regional partnership grants under this subsection, and consult with the following:*
+
+*(i) The Assistant Secretary for the Administration for Children and Families.*
+
+*(ii) The Administrator of the Substance Abuse and Mental Health Services Administration.*
+
+*(iii) The Administrator of the National Institute on Drug Abuse.*
+
+*(iv) Other stakeholders or constituencies as determined by the Secretary.*
+
+#### *(9) Reports* ####
+
+#### *(A) Grantee reports* ####
+
+#### *(i) Semiannual reports* ####
+
+*Not later than September 30 of each fiscal year in which a recipient of a grant under this subsection is paid funds under the grant, and every 6 months thereafter, the grant recipient shall submit to the Secretary a report on the services provided and activities carried out during the reporting period, progress made in achieving the goals of the program, the number of children, adults, and families receiving services, and such additional information as the Secretary determines is necessary. The report due not later than September 30 of the last such fiscal year shall include, at a minimum, data on each of the performance indicators included in the evaluation of the regional partnership.*
+
+#### *(ii) Incorporation of information related to performance indicators* ####
+
+*Each recipient of a grant under this subsection shall incorporate into the first annual report required by clause (i) that is submitted after the establishment of performance indicators under paragraph (8), information required in relation to such indicators.*
+
+#### *(B) Reports to Congress* ####
+
+*On the basis of the reports submitted under subparagraph (A), the Secretary annually shall submit to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate a report on—*
+
+*(i) the services provided and activities conducted with funds provided under grants awarded under this subsection;*
+
+*(ii) the performance indicators established under paragraph (8);*
+
+*(iii) the progress that has been made in addressing the needs of families with substance abuse problems who come to the attention of the child welfare system and in achieving the goals of child safety, permanence, and family stability; and*
+
+*(iv) whether any programs funded by the grants were submitted to the clearinghouse established under section 676(d) of this title for review and the results of any such review.*
+
+#### *(10) Limitation on use of funds for administrative expenses of the Secretary* ####
+
+*Not more than 5 percent of the amounts appropriated or reserved for awarding grants under this subsection may be used by the Secretary for salaries and Department of Health and Human Services administrative expenses in administering this subsection.*
+
+See 2025 Amendment notes below.
 
 #### **Editorial Notes** ####
 
@@ -321,6 +555,44 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 A prior section 437 of act Aug. 14, 1935, was classified to section 637 of this title prior to repeal by Pub. L. 100–485.
 
 #### Amendments ####
+
+**2025**—Subsec. (a). Pub. L. 118–258, §103(c), substituted "2025 through 2029" for "2017 through 2023".
+
+Subsec. (b)(1). Pub. L. 118–258, §115(b)(2)(D), substituted "629e of this title" for "629f(b)(1) of this title".
+
+Subsec. (b)(5). Pub. L. 118–258, §108(b), added par. (5).
+
+Subsec. (b)(6). Pub. L. 118–258, §110(b)(2), added par. (6).
+
+Subsec. (f)(1). Pub. L. 118–258, §105(d)(1), inserted ", and expand the scope of the evidence-based services that may be approved by the clearinghouse established under section 676(d) of this title" before period at end.
+
+Subsec. (f)(2)(A)(iii). Pub. L. 118–258, §105(j), added cl. (iii).
+
+Subsec. (f)(2)(B), (C). Pub. L. 118–258, §105(l)(2), redesignated subpars. (C) and (D) as (B) and (C), respectively, and struck out former subpar. (B). Prior to amendment, text of subpar. (B) read as follows: "If the partnership proposes to serve children in out-of-home placements, the Juvenile Court or Administrative Office of the Court that is most appropriate to oversee the administration of court programs in the region to address the population of families who come to the attention of the court due to child abuse or neglect."
+
+Subsec. (f)(2)(C)(ix), (x). Pub. L. 118–258, §105(k), added cl. (ix) and redesignated former cl. (ix) as (x).
+
+Subsec. (f)(2)(D). Pub. L. 118–258, §105(l)(2), redesignated subpar. (D) as (C).
+
+Subsec. (f)(2)(D)(iii). Pub. L. 118–258, §105(l)(1), struck out cl. (iii) which read as follows: "if the condition described in paragraph (2)(B) applies, may include tribal court organizations in lieu of other judicial partners."
+
+Subsec. (f)(3)(A). Pub. L. 118–258, §115(b)(2)(E), substituted "629f(b)(4) of this title" for "629f(b)(5) of this title".
+
+Pub. L. 118–258, §105(b)(1), substituted "The Secretary" for "In addition to amounts authorized to be appropriated to carry out this section, the Secretary" and "2025 through 2029" for "2017 through 2023".
+
+Subsec. (f)(3)(B)(iii). Pub. L. 118–258, §105(c), designated existing provisions as subcl. (I) and inserted heading, struck out "may not exceed $250,000, and" after "planning phase", and added subcl. (II).
+
+Subsec. (f)(7)(F). Pub. L. 118–258, §105(d)(2), added subpar. (F).
+
+Subsec. (f)(7)(G). Pub. L. 118–258, §105(i), added subpar. (G).
+
+Subsec. (f)(8)(A). Pub. L. 118–258, §105(f), in first sentence, substituted "the Protecting America's Children by Strengthening Families Act" for "this subsection" and inserted "child permanency, reunification, re-entry into care," before "parental recovery" and ", and access to services for families with substance use disorder, including those with children who are overrepresented in foster care, difficult to place, or have disproportionately low permanency rates" before period at end.
+
+Subsec. (f)(8)(B)(iii), (iv). Pub. L. 118–258, §105(g), added cl. (iii) and redesignated former cl. (iii) as (iv).
+
+Subsec. (f)(9)(B)(iv). Pub. L. 118–258, §105(h), added cl. (iv).
+
+Subsec. (f)(10). Pub. L. 118–258, §105(b)(2), struck out "for each of fiscal years 2017 through 2023" before "may be used".
 
 **2022**—Subsecs. (a), (f)(3)(A), (10). Pub. L. 117–328 substituted "2023" for "2021".
 
@@ -433,6 +705,10 @@ Subsec. (e). Pub. L. 109–288, §4(b)(2)(B)(ii), substituted "subsection (a)" f
 Subsec. (f). Pub. L. 109–288, §4(b)(2)(A), added subsec. (f).
 
 #### **Statutory Notes and Related Subsidiaries** ####
+
+#### Effective Date of 2025 Amendment ####
+
+Amendment by Pub. L. 118–258 effective Oct. 1, 2025, and applicable to payments under this part for calendar quarters beginning on or after such date, with delay permitted if either State legislation or tribal action is required to meet additional requirements, see section 117 of Pub. L. 118–258, set out as a note under section 622 of this title.
 
 #### Effective Date of 2018 Amendment ####
 
