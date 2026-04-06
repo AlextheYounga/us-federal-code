@@ -112,4 +112,4 @@ Pub. L. 95–251, §2(c)(2), Mar. 27, 1978, 92 Stat. 184, substituted "administr
 
 [1 So in original. Does not conform to section catchline.](#CHAPTER31_1)
 
-[\\2\\ So in original. Probably should be followed by a period.](#CHAPTER31_I)
+[2 So in original. Probably should be followed by a period.](#CHAPTER31_2)

@@ -1136,8 +1136,6 @@ where "P" is the hospital's disproportionate patient percentage (as defined in c
 
 Subclause (I)(bb) shall apply for purposes of payment under clause (ii) only for discharges of a hospital occurring on or after the effective date of a determination of medicare-dependent small rural hospital status made by the Secretary with respect to the hospital after February 9, 2018. For purposes of applying subclause (II) of paragraph (8)(E)(ii) under subclause (I)(bb), such subclause (II) shall be applied by inserting "as of January 1, 2018," after "such State" each place it appears.
 
-  
-
 (H) The Secretary may provide for such adjustments to the payment amounts under this subsection as the Secretary deems appropriate to take into account the unique circumstances of hospitals located in Alaska and Hawaii.
 
 (I)(i) The Secretary shall provide by regulation for such other exceptions and adjustments to such payment amounts under this subsection as the Secretary deems appropriate.
