@@ -144,11 +144,11 @@ Pub. L. 114–41, §1103(2), substituted "for each fiscal year ending before Oct
 
 Pub. L. 114–21, §1103(2), substituted "July 31, 2015," for "May 31, 2015,".
 
-Subsec. (b)(2). Pub. L. 114–94, §10001(b)(2)(B), (C), added par. (2) and redesignated former par. (2) as (3).
+Subsec. (b)(2). Pub. L. 114–94, §10001(b)(2)(C), added par. (2). Former par. (2) redesignated (3).
 
 Subsec. (b)(3). Pub. L. 114–94, §10001(b)(2)(B), redesignated par. (2) as (3).
 
-Subsec. (b)(3)(A). Pub. L. 114–94, §10001(b)(2)(D)(i), substituted "until the end of the subsequent fiscal year." for "until the end of the fiscal year.".
+Subsec. (b)(3)(A). Pub. L. 114–94, §10001(b)(2)(D)(i), substituted "until the end of the subsequent fiscal year." for "until the end of the fiscal year."
 
 Subsec. (b)(3)(B). Pub. L. 114–94, §10001(b)(2)(D)(ii), substituted "under subsection (c)" for "under subsection (e)".
 
