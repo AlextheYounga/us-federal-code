@@ -23,9 +23,17 @@ Historical and Revision Notes
 
 In subsection (b)(1), the words "of this section" are omitted as surplusage.
 
+  
+
+#### **Editorial Notes**
+
 #### Amendments
 
 **2016**—Pub. L. 114–328 renumbered section 903 of this title as this section.
+
+  
+
+#### **Statutory Notes and Related Subsidiaries**
 
 #### Effective Date of 2016 Amendment
 

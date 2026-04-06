@@ -20,6 +20,8 @@ A prior subpart B, consisting of sections 4091 to 4093, related to taxation of a
 
   
 
+#### **Editorial Notes**
+
 #### Amendments
 
 **2004**—Pub. L. 108–357, title III, §303(b), title VIII, §§853(d)(1), (2)(T), 866(b), Oct. 22, 2004, 118 Stat. 1466, 1612, 1614, 1622, redesignated subpart C as B, substituted "Special Provisions Applicable to Fuels Tax" for "Special Provisions Applicable to Petroleum Products" in subpart heading, and added items 4104 and 4105.

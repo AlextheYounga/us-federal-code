@@ -24,6 +24,8 @@ Sec.
 
         
 
+#### **Editorial Notes**
+
 #### Prior Provisions
 
 A prior chapter 941, consisting of sections 9651 to 9656, related to issue of serviceable material other than to Armed Forces, prior to renumbering as chapter 971 of this title.

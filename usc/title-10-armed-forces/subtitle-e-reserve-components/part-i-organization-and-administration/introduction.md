@@ -20,6 +20,10 @@ Chap. Sec.
 
         
 
+  
+
+#### **Editorial Notes**
+
 #### Amendments
 
 **1996**—Pub. L. 104–201, div. A, title XII, §1211(a)(2), Sept. 23, 1996, 110 Stat. 2691, added item for chapter 1006.

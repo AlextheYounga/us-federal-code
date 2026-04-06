@@ -17,9 +17,17 @@ Historical and Revision Notes
 | ----------------- | -------------------- | ------------------------------------------------- |
 | 898               | 50:692.              | May 5, 1950, ch. 169, §1 (Art. 98), 64 Stat. 137. |
 
+  
+
+#### **Editorial Notes**
+
 #### Amendments
 
 **2016**—Pub. L. 114–328 renumbered section 898 of this title as this section.
+
+  
+
+#### **Statutory Notes and Related Subsidiaries**
 
 #### Effective Date of 2016 Amendment
 

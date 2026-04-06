@@ -116,8 +116,6 @@ Chap. Sec.
 
         
 
-#### **Editorial Notes**
-
 Disposition Table  
 (Showing disposition of former sections of Title 25)
 | *Former Classification*                                                                                                      | *New Classification or Disposition* |

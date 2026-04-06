@@ -8,6 +8,10 @@ II. Nurse Officer Candidate Accession Program 2130a
 
         
 
+  
+
+#### **Editorial Notes**
+
 #### Amendments
 
 **1994**—Pub. L. 103–337, div. A, title XVI, §1663(c)(7)(A), Oct. 5, 1994, 108 Stat. 3008, redesignated item for subchapter III as item for subchapter II and struck out former item for subchapter II "Health Professions Stipend Program for Reserve Service".

@@ -4,9 +4,7 @@ Sec.
 
 4231\. Major systems: determination of quantity for low-rate initial production.
 
-4232\. Use of lowest price technically acceptable source selection process: prohibition. 1
-
-        
+4232\. Prohibition on use of lowest price technically acceptable source selection process.
 
 4233\. \[Reserved\].
 
@@ -18,4 +16,8 @@ Sec.
 
         
 
-[1 So in original. Does not conform to section catchline.](#I_1)
+#### **Editorial Notes**
+
+#### Amendments
+
+**2021**—Pub. L. 117–81, div. A, title XVII, §1701(f)(8), Dec. 27, 2021, 135 Stat. 2139, added item 4232 and struck out former item 4232 "Use of lowest price technically acceptable source selection process: prohibition".

@@ -22,7 +22,7 @@ Section 445 of this title, referred to in text, was repealed by act June 12, 194
 
   
 
-#### **Statutory Notes and Related Subsidiaries**
+#### **Executive Documents**
 
 #### Transfer of Functions
 

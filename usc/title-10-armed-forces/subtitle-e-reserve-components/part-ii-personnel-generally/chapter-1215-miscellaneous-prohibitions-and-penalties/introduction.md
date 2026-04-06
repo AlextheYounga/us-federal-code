@@ -8,6 +8,8 @@ Sec.
 
         
 
+#### **Editorial Notes**
+
 #### Amendments
 
 **2002**—Pub. L. 107–314, div. A, title V, §515(b), Dec. 2, 2002, 116 Stat. 2540, struck out item 12551 "Prohibition of use of Air Force Reserve AGR personnel for Air Force base security functions".

@@ -12,6 +12,8 @@ Sec.
 
         
 
+#### **Editorial Notes**
+
 #### Amendments
 
 **2018**—Pub. L. 115–232, div. A, title VIII, §808(e)(2)(B), (f)(1), Aug. 13, 2018, 132 Stat. 1839, redesignated chapter 373 of this title as this chapter and items 4021, 4024, 4025, and 4027 as 7371, 7374, 7375, and 7377, respectively.

@@ -6,6 +6,8 @@ Sec.
 
         
 
+#### **Editorial Notes**
+
 #### Prior Provisions
 
 A prior chapter 935, consisting of sections 9561 to 9565, related to issue of serviceable material to Armed Forces, prior to renumbering as chapter 965 of this title.

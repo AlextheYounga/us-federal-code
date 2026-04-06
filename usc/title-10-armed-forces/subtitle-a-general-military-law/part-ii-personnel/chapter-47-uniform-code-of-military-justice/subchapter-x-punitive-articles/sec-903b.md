@@ -17,9 +17,17 @@ Historical and Revision Notes
 | ----------------- | -------------------- | -------------------------------------------------- |
 | 904               | 50:698.              | May 5, 1950, ch. 169, §1 (Art. 104), 64 Stat. 138. |
 
+  
+
+#### **Editorial Notes**
+
 #### Amendments
 
 **2016**—Pub. L. 114–328 renumbered section 904 of this title as this section.
+
+  
+
+#### **Statutory Notes and Related Subsidiaries**
 
 #### Effective Date of 2016 Amendment
 

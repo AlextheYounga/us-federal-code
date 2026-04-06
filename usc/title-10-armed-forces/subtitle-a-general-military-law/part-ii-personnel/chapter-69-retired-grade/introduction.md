@@ -20,6 +20,8 @@ Sec.
 
         
 
+#### **Editorial Notes**
+
 #### Amendments
 
 **2021**—Pub. L. 116–283, div. A, title V, §508(a)(2), Jan. 1, 2021, 134 Stat. 3584, added items 1370 and 1370a and struck out former item 1370 "Commissioned officers: general rule; exceptions".

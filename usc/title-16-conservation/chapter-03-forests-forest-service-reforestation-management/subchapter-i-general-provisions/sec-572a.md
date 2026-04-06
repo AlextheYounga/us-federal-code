@@ -4,6 +4,10 @@ The Forest Service may accept money from timber purchasers for deposit into the 
 
 (Sept. 21, 1944, ch. 412, title II, §210, 58 Stat. 737.)
 
+  
+
+#### **Editorial Notes**
+
 #### Codification
 
 Section was enacted as a part of the Department of Agriculture Organic Act of 1944.

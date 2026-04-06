@@ -60,6 +60,8 @@ Sec.
 
 124h. Department of Homeland Security State, Local, and Regional Fusion Center Initiative.
 
+124h–1. Threat information sharing.
+
 124i. Homeland Security Information Sharing Fellows Program.
 
 124j. Rural Policing Institute.
@@ -155,6 +157,8 @@ Sec.
 195f. EMP and GMD mitigation research and development and threat assessment, response, and recovery.
 
 195g. Countering Unmanned Aircraft Systems Coordinator.
+
+195h. National Urban Security Technology Laboratory.
 
         
 
@@ -370,6 +374,8 @@ Sec.
 
 321q. Coordination of Department of Homeland Security efforts related to food, agriculture, and veterinary defense against terrorism.
 
+321r. Transfer of equipment during a public health emergency.
+
 322\. Continuity of the economy plan.
 
         
@@ -401,6 +407,12 @@ Sec.
 349\. Office of Strategy, Policy, and Plans.
 
 350\. Workforce health and medical support.
+
+351\. Employee engagement.
+
+352\. Annual employee award program.
+
+353\. Acquisition professional career program.
 
         
 
@@ -559,6 +571,8 @@ Sec.
 472\. Annual weaponry report.
 
 473\. Cyber Crimes Center, Child Exploitation Investigations Unit, Computer Forensics Unit, and Cyber Crimes Unit.
+
+474\. Homeland security critical domain research and development.
 
         
 
@@ -776,6 +790,8 @@ Sec.
 
 597\. Chief Medical Officer.
 
+597a. Medical countermeasures.
+
         
 
 #### SUBCHAPTER XV—HOMELAND SECURITY GRANTS
@@ -900,6 +916,12 @@ Sec.
 
 665f. Cybersecurity education and training programs.
 
+665g. State and Local Cybersecurity Grant Program.
+
+665h. National Cyber Exercise Program.
+
+665i. CyberSentry program.
+
         
 
 #### Part B—Critical Infrastructure Information
@@ -911,5 +933,25 @@ Sec.
 673\. Protection of voluntarily shared critical infrastructure information.
 
 674\. No private right of action.
+
+        
+
+#### Part C—Declaration of a Significant Incident
+
+677\. Sense of Congress.
+
+677a. Definitions.
+
+677b. Declaration.
+
+677c. Cyber Response and Recovery Fund.
+
+677d. Notification and reporting.
+
+677e. Rule of construction.
+
+677f. Authorization of appropriations.
+
+677g. Sunset.
 
         

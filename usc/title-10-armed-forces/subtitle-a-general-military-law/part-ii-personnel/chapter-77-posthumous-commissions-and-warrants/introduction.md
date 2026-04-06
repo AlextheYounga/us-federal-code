@@ -12,6 +12,8 @@ Sec.
 
         
 
+#### **Editorial Notes**
+
 #### Amendments
 
 **1966**—Pub. L. 89–718, §12(a)(2), Nov. 2, 1966, 80 Stat. 1117, added item 1524.

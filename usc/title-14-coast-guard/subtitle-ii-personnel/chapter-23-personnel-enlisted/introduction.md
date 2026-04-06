@@ -42,7 +42,7 @@ Sec.
 
         
 
-#### **Editoral Notes**
+#### **Editorial Notes**
 
 #### Prior Provisions
 

@@ -22,6 +22,8 @@ Sec.
 
         
 
+#### **Editorial Notes**
+
 #### Amendments
 
 **2016**—Pub. L. 114–183, §2(c)(2), June 22, 2016, 130 Stat. 516, substituted "Funding" for "Authorization of appropriations" in item 6107.
