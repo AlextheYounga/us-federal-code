@@ -206,7 +206,7 @@ Chap. Sec.
 
 \[140. Transferred.\]
 
-141\. Miscellaneous Procurement Provisions 2381
+141\. Miscellaneous Provisions Relating to Property 2381
 
 \[142. Repealed.\]
 
@@ -220,7 +220,11 @@ Chap. Sec.
 
 147\. Commissaries and Exchanges and Other Morale, Welfare, and Recreation Activities 2481
 
-\[148 to 150. Repealed.\]
+\[148. Repealed.\]
+
+\[149. Transferred.\]
+
+\[150. Repealed.\]
 
 152\. Issue of Supplies, Services, and Facilities 2551
 
@@ -306,8 +310,6 @@ Chap. Sec.
 
 258\. Other Types of Contracts Used for Procurements for Particular Purposes 3681
 
-258\. Other Types of Contracts Used for Procurements for Particular Purposes 5 3681
-
         
 
 #### subpart d—general contracting provisions
@@ -328,7 +330,7 @@ Chap. Sec.
 
 283\. \[Reserved\]
 
-287\. Other Contracting Programs 3961 6
+287\. Other Contracting Programs 3961 5
 
         
 
@@ -338,7 +340,7 @@ Chap. Sec.
 
 303\. Research and Engineering Activities 4061
 
-305\. Universities 4131 7
+305\. Universities 4131 6
 
         
 
@@ -348,15 +350,15 @@ Chap. Sec.
 
 #### subpart f—major systems, major defense acquisition programs, and weapon systems development
 
-321\. General Matters 4201 8
+321\. General Matters 4201 7
 
         
 
-322\. Major Systems and Major Defense Acquisition Programs Generally 4211 8
+322\. Major Systems and Major Defense Acquisition Programs Generally 4211 7
 
-323\. Life-Cycle And Sustainment 4321 8
+323\. Life-Cycle And Sustainment 4321 7
 
-324\. Program Status—Selected Acquisition Reports 4350 8
+324\. Program Status—Selected Acquisition Reports 4350 7
 
 325\. Cost Growth—Unit Cost Reports (Nunn-McCurdy) 4371 7
 
@@ -558,10 +560,8 @@ Pub. L. 87–649, §3(2), Sept. 7, 1962, 76 Stat. 493, added item for chapter 40
 
 [4 So in original. The period probably should not appear.](#PARTIanalysis_4)
 
-[5 Editorially supplied. Chapter 258 added by Pub. L. 116–283 without corresponding amendment of subtitle analysis.](#PARTVanalysis_5)
+[5So in original. Probably should be "3901".](#PARTVanalysis_5)
 
-[6So in original. Probably should be "3901".](#PARTVanalysis_6)
+[6So in original. Probably should be "4141".](#PARTVanalysis_6)
 
-[7So in original. Probably should be "4141".](#PARTVanalysis_7)
-
-[8 Editorially supplied.](#PARTVanalysis_8)
+[7 Editorially supplied.](#PARTVanalysis_7)
