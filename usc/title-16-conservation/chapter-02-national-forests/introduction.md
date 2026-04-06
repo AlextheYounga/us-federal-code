@@ -322,6 +322,8 @@ Sec.
 
 539r. Rocky Mountain Front Conservation Management Area and wilderness additions.
 
+539s. Frank and Jeanne Moore Wild Steelhead Special Management Area.
+
         
 
 #### SUBCHAPTER II—SCENIC AREAS

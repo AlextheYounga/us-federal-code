@@ -44,6 +44,6 @@ Sec.
 
         
 
-#### Elimination of Title 50, Appendix
+#### Codification
 
-Title I of act June 24, 1948, ch. 625, which is classified principally to this chapter, was formerly set out in the Appendix to this title, prior to the elimination of the Appendix to this title and the editorial reclassification of title I principally as this chapter, see provisions set out as a note preceding section 1 of this title. For disposition of sections of the former Appendix to this title, see Elimination of Title 50, Appendix note and Table II, set out preceding section 1 of this title.
+Title I of act June 24, 1948, ch. 625, which is classified principally to this chapter, was formerly set out in the Appendix to this title, prior to the elimination of the Appendix to this title and the editorial reclassification of title I principally as this chapter. For disposition of sections of the former Appendix to this title, see Table II, set out preceding section 1 of this title.
