@@ -160,7 +160,7 @@ Pub. L. 117–263, div. E, title LIX, §5947(a)(1), (c), Dec. 23, 2022, 136 Stat
 
   
 
-(B) does not include any non-binding instrument that is signed or otherwise becomes operative or is implemented pursuant to the authorities relied upon by the Department of Defense, the Armed Forces of the United States, or any element of the intelligence community.
+*(B) does not include any non-binding instrument that is signed or otherwise becomes operative or is implemented pursuant to the authorities relied upon by the Department of Defense, the Armed Forces of the United States, or any element of the intelligence community.*
 
   
 
