@@ -10,6 +10,10 @@ Sec.
 
 104\. National biodefense strategy.
 
+105\. Biodefense analysis and budget submission.
+
+106\. Update of national biodefense implementation plan.
+
         
 
 #### SUBCHAPTER I—DEPARTMENT OF HOMELAND SECURITY
@@ -366,6 +370,8 @@ Sec.
 
 321q. Coordination of Department of Homeland Security efforts related to food, agriculture, and veterinary defense against terrorism.
 
+322\. Continuity of the economy plan.
+
         
 
 #### SUBCHAPTER VI—TREATMENT OF CHARITABLE TRUSTS FOR MEMBERS OF THE ARMED FORCES OF THE UNITED STATES AND OTHER GOVERNMENTAL ORGANIZATIONS
@@ -451,6 +457,8 @@ Sec.
 415\. Homeland Security Education Program.
 
 416\. Use of protective equipment or measures by employees.
+
+417\. Rotational cybersecurity research program.
 
         
 
@@ -852,6 +860,8 @@ Sec.
 
 652\. Cybersecurity and Infrastructure Security Agency.
 
+652a. Sector risk management agencies.
+
 653\. Cybersecurity Division.
 
 654\. Infrastructure Security Division.
@@ -879,6 +889,16 @@ Sec.
 665\. Duties and authorities relating to .gov internet domain.
 
 665a. Intelligence and cybersecurity diversity fellowship program.
+
+665b. Joint cyber planning office.
+
+665c. Cybersecurity State Coordinator.
+
+665d. Sector risk management agencies.
+
+665e. Cybersecurity Advisory Committee.
+
+665f. Cybersecurity education and training programs.
 
         
 

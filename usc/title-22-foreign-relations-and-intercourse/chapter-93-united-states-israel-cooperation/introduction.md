@@ -14,4 +14,6 @@ Sec.
 
 8606\. United States-Israel cooperation on energy, water, homeland security, agriculture, and alternative fuel technologies.
 
+8607\. Other matters of cooperation.
+
         
