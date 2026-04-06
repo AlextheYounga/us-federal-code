@@ -38,8 +38,6 @@ Sec.
 
 4534\. Defense Production Act Fund.
 
-4535\. Reports on exercise of authorities.
-
         
 
 #### SUBCHAPTER III—GENERAL PROVISIONS

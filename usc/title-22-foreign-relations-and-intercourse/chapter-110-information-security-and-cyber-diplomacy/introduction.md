@@ -14,8 +14,4 @@ Sec.
 
 10306\. Vulnerability disclosure policy and bug bounty program report.
 
-10307\. Digital Connectivity and Cybersecurity Partnership.
-
-10308\. Cyber protection support for personnel of the Department of State in positions highly vulnerable to cyber attack.
-
         

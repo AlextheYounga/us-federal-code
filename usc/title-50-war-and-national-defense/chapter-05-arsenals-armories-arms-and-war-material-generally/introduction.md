@@ -34,8 +34,6 @@ Sec.
 
 98e–1. Transferred.
 
-98e–2. Multiyear procurement authority for domestically processed critical minerals.
-
 98f. Special Presidential disposal authority.
 
 98g. Materials development and research.
@@ -52,7 +50,7 @@ Sec.
 
 98h–5. Biennial report on stockpile requirements.
 
-98h–6. Development and conservation of reliable sources.
+98h–6. Development of domestic sources.
 
 98h–7. National Defense Stockpile Manager.
 

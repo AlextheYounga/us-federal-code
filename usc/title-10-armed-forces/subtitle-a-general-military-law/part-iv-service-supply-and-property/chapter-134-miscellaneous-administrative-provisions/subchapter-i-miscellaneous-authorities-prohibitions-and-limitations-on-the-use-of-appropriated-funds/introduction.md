@@ -22,7 +22,13 @@ Sec.
 
 2246\. Authorization of certain support for military service academy foundations.
 
-\[2247 to 2249a. Renumbered or Repealed.\]
+\[2247, 2248. Renumbered or Repealed.\]
+
+2249\. Prohibition on use of funds for documenting economic or employment impact of certain acquisition programs. 1
+
+        
+
+\[2249a. Renumbered.\]
 
 2249b. Display of State, District of Columbia, commonwealth, and territorial flags by the armed forces.
 
@@ -33,8 +39,6 @@ Sec.
 #### **Editorial Notes**
 
 #### Amendments
-
-**2023**—Pub. L. 118–31, div. A, title XVIII, §1801(a)(20), Dec. 22, 2023, 137 Stat. 684, which directed amendment of analysis for chapter 134 of this title by striking item 2249 "Prohibition on use of funds for documenting economic or employment impact of certain acquisition programs", was executed to analysis for this subchapter to reflect the probable intent of Congress.
 
 **2022**—Pub. L. 117–263, div. A, title V, §551(b), Dec. 23, 2022, 136 Stat. 2592, added item 2246.
 
@@ -77,3 +81,5 @@ Pub. L. 103–337, div. A, title III, §372(b), title X, §1063(b), Oct. 5, 1994
 Pub. L. 101–510, div. A, title IX, §904(b), Nov. 5, 1990, 104 Stat. 1621, added item 2244.
 
 **1989**—Pub. L. 101–189, div. A, title III, §326(b), Nov. 29, 1989, 103 Stat. 1416, added item 2243.
+
+[1 So in original. Section 2249 was renumbered by Pub. L. 116–283 without corresponding amendment of chapter analysis.](#I_1)
