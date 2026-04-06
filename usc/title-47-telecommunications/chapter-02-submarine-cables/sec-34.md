@@ -14,6 +14,14 @@ Section was not enacted as part of the Submarine Cable Act which comprises this 
 
   
 
+#### **Statutory Notes and Related Subsidiaries**
+
+#### Short Title
+
+Act May 27, 1921, ch. 12, which enacted sections 34 to 39 of this title, is popularly known as the Cable Landing Licensing Act.
+
+  
+
 #### **Executive Documents**
 
 #### Delegation of Functions
