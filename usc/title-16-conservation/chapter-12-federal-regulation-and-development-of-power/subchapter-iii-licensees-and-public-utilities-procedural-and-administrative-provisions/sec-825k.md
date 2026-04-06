@@ -14,7 +14,7 @@ The Commission may provide for the publication of its reports and decisions in s
 
   
 
-#### **Statutory Notes and ARelated Subsidiaries**
+#### **Statutory Notes and Related Subsidiaries**
 
 #### Change of Name
 

@@ -30,6 +30,8 @@ Sec.
 
 2204b–3. Council on Rural Community Innovation and Economic Development.
 
+2204b–4. Institute for Rural Partnerships.
+
 2204c. Water management for rural areas.
 
 2204d. Encouragement of private contracting.

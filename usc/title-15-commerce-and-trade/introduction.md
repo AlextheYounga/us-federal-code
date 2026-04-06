@@ -246,6 +246,8 @@ Chap. Sec.
 
 94\. Privacy 6801
 
+94A. Visual Depiction Privacy 6851
+
 95\. Microenterprise Technical Assistance and Capacity Building Program 6901
 
 96\. Electronic Signatures in Global and National Commerce 7001
@@ -297,5 +299,7 @@ Chap. Sec.
 118\. Sustainable Chemistry 9301
 
 119\. National Artificial Intelligence Initiative 9401
+
+120\. Minority Business Development 9501
 
         

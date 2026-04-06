@@ -247,5 +247,3 @@ Subsec. (e). Pub. L. 117–81, §6410(d), substituted "Administrator of General 
 **2020**—Subsec. (b)(4)(A). Pub. L. 116–260, which directed substitution of "December 16, 2021" for "4 years after December 16, 2016", was executed by making the substitution for original text reading "4 years after the date of the enactment of this section", which had been translated as "4 years after December 16, 2016", to reflect the probable intent of Congress.
 
 [1 So in original.](#301a_1)
-
-[1 So in original.](#301a_1)

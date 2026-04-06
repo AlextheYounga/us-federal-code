@@ -32,7 +32,7 @@ In the last par. of subsec. (b), "subchapter I of chapter 81 of title 5" substit
 
   
 
-#### **Statutory Notes and Statutory Notes**
+#### **Statutory Notes and Related Subsidiaries**
 
 #### Effective Date of 2004 Amendment
 
