@@ -586,7 +586,27 @@ Sec.
 
         
 
-#### Part C—William D. Ford Federal Direct Loan Program
+#### Part C—Federal Work-Study Programs
+
+1087–51. Purpose; appropriations authorized.
+
+1087–52. Allocation of funds.
+
+1087–53. Grants for Federal work-study programs.
+
+1087–54. Sources of matching funds.
+
+1087–55. Flexible use of funds.
+
+1087–56. Job location and development programs.
+
+1087–57. Additional funds to conduct community service work-study programs.
+
+1087–58. Work colleges.
+
+        
+
+#### Part D—William D. Ford Federal Direct Loan Program
 
 1087a. Program authority.
 
@@ -614,7 +634,7 @@ Sec.
 
         
 
-#### Part D—Federal Perkins Loans
+#### Part E—Federal Perkins Loans
 
 1087aa. Appropriations authorized.
 
@@ -638,7 +658,7 @@ Sec.
 
         
 
-#### Part E—Need Analysis
+#### Part F—Need Analysis
 
 1087kk. Amount of need.
 
@@ -668,7 +688,7 @@ Sec.
 
         
 
-#### Part F—General Provisions Relating to Student Assistance Programs
+#### Part G—General Provisions Relating to Student Assistance Programs
 
 1088\. Definitions.
 
@@ -740,7 +760,7 @@ Sec.
 
         
 
-#### Part F–1—Higher Education Relief Opportunities for Students
+#### Part G–1—Higher Education Relief Opportunities for Students
 
 1098aa. Short title; findings; reference.
 
@@ -756,7 +776,7 @@ Sec.
 
         
 
-#### Part G—Program Integrity
+#### Part H—Program Integrity
 
 #### subpart 1—state role
 
@@ -780,15 +800,9 @@ Sec.
 
         
 
-#### Part H—Competitive Loan Auction Pilot Program
+#### Part I—Competitive Loan Auction Pilot Program
 
 1099d. Competitive loan auction pilot program.
-
-        
-
-#### Part I—Transferred
-
-1099e. Transferred.
 
         
 
