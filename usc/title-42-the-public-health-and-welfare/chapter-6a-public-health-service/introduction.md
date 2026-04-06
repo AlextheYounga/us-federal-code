@@ -350,7 +350,7 @@ Sec.
 
 247d–7e. Biomedical Advanced Research and Development Authority.
 
-247d–7f. Collaboration and Coordination.
+247d–7f. Collaboration and coordination.
 
 247d–7g. National Biodefense Science Board and working groups.
 
