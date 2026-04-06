@@ -116,7 +116,7 @@ Sec.
 
 505\. Demonstration projects.
 
-506\. Grants to states for reemployment services and eligibility assessments.
+506\. Grants to States for reemployment services and eligibility assessments.
 
         
 
