@@ -568,6 +568,8 @@ Sec.
 
 10651\. Adult and juvenile collaboration programs.
 
+10651a. Veteran Treatment Court Program.
+
 10652\. National criminal justice and mental health training and technical assistance.
 
         
