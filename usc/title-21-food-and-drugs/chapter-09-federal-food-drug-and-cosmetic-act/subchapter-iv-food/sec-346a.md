@@ -622,7 +622,7 @@ Not later than 2 years after August 3, 1996, the Administrator shall in consulta
 
 #### (2) Implementation
 
-Not later than 3 years after August 3, 1996, after obtaining public comment and review of the screening program described in paragraph (1) by the scientific advisory panel established under section 25(d) of the Federal Insecticide, Fungicide, and Rodenticide Act \[7 U.S.C. 136w(d)\] or the science advisory board established by section 4365 [2](#346a_2_target) of title 42, the Administrator shall implement the program.
+Not later than 3 years after August 3, 1996, after obtaining public comment and review of the screening program described in paragraph (1) by the scientific advisory panel established under section 25(d) of the Federal Insecticide, Fungicide, and Rodenticide Act \[7 U.S.C. 136w(d)\] or the science advisory board established by section 4365 [1](#346a_1_target) of title 42, the Administrator shall implement the program.
 
 #### (3) Substances
 
@@ -692,7 +692,7 @@ The Administrator shall review tolerances and exemptions for pesticide chemical 
 
   
 
-In conducting a review of a tolerance or exemption, the Administrator shall determine whether the tolerance or exemption meets the requirements of subsections [3](#346a_3_target) (b)(2) or (c)(2) and shall, by the deadline for the review of the tolerance or exemption, issue a regulation under subsection (d)(4) or (e)(1) to modify or revoke the tolerance or exemption if the tolerance or exemption does not meet such requirements.
+In conducting a review of a tolerance or exemption, the Administrator shall determine whether the tolerance or exemption meets the requirements of subsections [2](#346a_2_target) (b)(2) or (c)(2) and shall, by the deadline for the review of the tolerance or exemption, issue a regulation under subsection (d)(4) or (e)(1) to modify or revoke the tolerance or exemption if the tolerance or exemption does not meet such requirements.
 
 #### (2) Priorities
 
@@ -816,6 +816,4 @@ Pub. L. 104–170, title III, §301, Aug. 3, 1996, 110 Stat. 1511, provided that
 
 [1 See References in Text note below.](#346a_1)
 
-[2 See References in Text note below.](#346a_2)
-
-[3 So in original. Probably should be "subsection".](#346a_3)
+[2 So in original. Probably should be "subsection".](#346a_2)

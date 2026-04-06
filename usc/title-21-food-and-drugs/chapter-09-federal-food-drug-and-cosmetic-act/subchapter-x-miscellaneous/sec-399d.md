@@ -132,7 +132,7 @@ Subsection (a) shall not apply with respect to an employee of an entity engaged 
 
   
 
-#### **Editorial Notes**
+#### **Statutory Notes and Related Subsidiaries**
 
 #### Construction
 
