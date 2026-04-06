@@ -10,6 +10,8 @@ Sec.
 
 2102A. Assistance for individuals residing temporarily in housing owned by a family member.
 
+2102B. Adaptations to residences of veterans in rehabilitation programs.
+
 2103\. Furnishing of plans and specifications.
 
 2104\. Benefits additional to benefits under other laws.
@@ -27,6 +29,8 @@ Sec.
         
 
 #### Amendments
+
+**2018**—Pub. L. 115–177, §1(d), June 1, 2018, 132 Stat. 1378, added item 2102B.
 
 **2012**—Pub. L. 112–154, title VII, §701(a)(2), Aug. 6, 2012, 126 Stat. 1203, added item 2109.
 
