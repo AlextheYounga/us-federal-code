@@ -74,6 +74,10 @@ Sec.
 
 701h–2. No adverse effect on processes.
 
+701h–3. State Contribution of Funds for Certain Operation and Maintenance Costs.
+
+701h–4. Acceptance of funds for harbor dredging.
+
 701i. Elimination from protection of areas subject to evacuation.
 
 701j. Installation in dams of facilities for future development of hydroelectric power.
@@ -90,11 +94,15 @@ Sec.
 
 701n–2. Monthly report to Congress.
 
+701n–3. Permanent measures to reduce emergency flood fighting needs for communities subject to repetitive flooding.
+
 701 o. Omitted.
 
 701p. Railroad bridge alterations at Federal expense.
 
 701q. Repair and protection of highways, railroads, and utilities damaged by operation of dams or reservoir.
+
+701q–1. Repair and restoration of embankments.
 
 701r. Protection of highways, bridge approaches, public works, and nonprofit public services.
 

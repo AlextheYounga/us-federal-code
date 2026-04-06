@@ -910,6 +910,8 @@ Sec.
 
 1395i–5. Conditions for coverage of religious nonmedical health care institutional services.
 
+1395i–6. Hospice program survey and enforcement procedures.
+
         
 
 #### Part B—Supplementary Medical Insurance Benefits for Aged and Disabled
