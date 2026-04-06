@@ -232,7 +232,7 @@ Sec.
 
 6344\. Additional incentives for recovery, use, and prevention of industrial waste energy.
 
-6345\. CHP Technical Assistance Partnership Program.
+6345\. Clean Energy Application Centers.
 
 6346, 6347. Repealed or Omitted.
 
@@ -283,8 +283,6 @@ Sec.
 6371i. Records.
 
 6371j. Application of sections 3141–3144, 3146, and 3147 of title 40.
-
-6371k. Coordination of energy retrofitting assistance for schools.
 
         
 

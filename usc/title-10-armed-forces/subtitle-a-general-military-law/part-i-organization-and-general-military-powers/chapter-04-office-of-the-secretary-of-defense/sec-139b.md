@@ -1,56 +1,46 @@
-### §139b. Secretariat for Special Operations; Special Operations Policy and Oversight Council
+### §139b. Special Operations Policy and Oversight Council
 
-(a) Secretariat for Special Operations.—
+(a) In General.—In order to fulfill the responsibilities specified in section 138(b)(4) [1](#139b_1_target) of this title, the Assistant Secretary of Defense for Special Operations and Low Intensity Conflict, or the designee of the Assistant Secretary, shall establish and lead a team to be known as the "Special Operations Policy and Oversight Council" (in this section referred to as the "Council").
 
-(1) In general.—In order to fulfill the responsibilities of the Assistant Secretary of Defense for Special Operations and Low Intensity Conflict specified in section 138(b)(2)(A)(i) of this title, there shall be within the Office of the Assistant Secretary of Defense for Special Operations and Low Intensity Conflict an office to be known as the "Secretariat for Special Operations".
+(b) Purpose.—The purpose of the Council is to integrate the functional activities of the headquarters of the Department of Defense in order to most efficiently and effectively provide for special operations forces and capabilities. In fulfilling this purpose, the Council shall develop and continuously improve policy, joint processes, and procedures that facilitate the development, acquisition, integration, employment, and sustainment of special operations forces and capabilities.
 
-(2) Purpose.—The purpose of the Secretariat is to assist the Assistant Secretary in exercising authority, direction, and control with respect to the special operations-peculiar administration and support of the special operations command, including the readiness and organization of special operations forces, resources and equipment, and civilian personnel as specified in such section.
+(c) Membership.—The Council shall include the following:
 
-(3) Director.—The Director of the Secretariat for Special Operations shall be appointed by the Secretary of Defense from among individuals qualified to serve as the Director. An individual serving as Director shall, while so serving, be a member of the Senior Executive Service.
+(1) The Assistant Secretary, who shall act as leader of the Council.
 
-(4) Administrative chain of command.—For purposes of the support of the Secretariat for the Assistant Secretary in the fulfillment of the responsibilities referred to in paragraph (1), the administrative chain of command is as specified in section 167(f) of this title. Unless otherwise directed by the President, no officer below the Secretary of Defense (other than the Assistant Secretary) may intervene to exercise authority, direction, or control over the Secretariat in its support of the Assistant Secretary in the discharge of such responsibilities.
+(2) Appropriate senior representatives of each of the following:
 
-  
+(A) The Under Secretary of Defense for Research and Engineering.
 
-(b) Special Operations Policy and Oversight Council.—
+(B) The Under Secretary of Defense for Management and Support.
 
-(1) In general.—In order to fulfill the responsibilities specified in section 138(b)(2)(A)(i) of this title, the Assistant Secretary of Defense for Special Operations and Low Intensity Conflict shall establish and lead a team known as the "Special Operation Policy and Oversight Council" (in this subsection referred to as the "Council").
+(C) The Under Secretary of Defense (Comptroller).
 
-(2) Purpose.—The purpose of the Council is to integrate the functional activities of the headquarters of the Department of Defense in order to most efficiently and effectively provide for special operations forces and capabilities. In fulfilling this purpose, the Council shall develop and continuously improve policy, joint processes, and procedures that facilitate the development, acquisition, integration, employment, and sustainment of special operations forces and capabilities.
+(D) The Under Secretary of Defense for Personnel and Readiness.
 
-(3) Membership.—The Council shall include the following:
+(E) The Under Secretary of Defense for Intelligence and Security.
 
-(A) The Assistant Secretary.
+(F) The General Counsel of the Department of Defense.
 
-(B) Appropriate senior representatives of each of the following:
+(G) The other Assistant Secretaries of Defense under the Under Secretary of Defense for Policy.
 
-(i) The Under Secretary of Defense for Research and Engineering.
+(H) The military departments.
 
-(ii) The Under Secretary of Defense for Acquisition and Sustainment.
+(I) The Joint Staff.
 
-(iii) The Under Secretary of Defense (Comptroller).
+(J) The United States Special Operations Command.
 
-(iv) The Under Secretary of Defense for Personnel and Readiness.
-
-(v) The Under Secretary of Defense for Intelligence.
-
-(vi) The General Counsel of the Department of Defense.
-
-(vii) The other Assistant Secretaries of Defense under the Under Secretary of Defense for Policy.
-
-(viii) The military departments.
-
-(ix) The Joint Staff.
-
-(x) The United States Special Operations Command.
-
-(xi) Such other officers or Agencies, elements, or components of the Department of Defense as the Secretary of Defense considers appropriate.
+(K) Such other officials or Agencies, elements, or components of the Department of Defense as the Secretary of Defense considers appropriate.
 
   
 
-(4) Operation.—The Council shall operate continuously.
+(d) Operation.—The Council shall operate continuously.
 
-(Added Pub. L. 114–328, div. A, title IX, §922(b)(1), Dec. 23, 2016, 130 Stat. 2355; amended Pub. L. 115–91, div. A, title X, §1081(a)(7), Dec. 12, 2017, 131 Stat. 1594; Pub. L. 116–92, div. A, title XVI, §1621(e)(1)(A)(iv), Dec. 20, 2019, 133 Stat. 1733; Pub. L. 116–283, div. A, title IX, §902(b)(1), Jan. 1, 2021, 134 Stat. 3795.)
+(Added Pub. L. 114–328, div. A, title IX, §922(b)(1), Dec. 23, 2016, 130 Stat. 2355; amended Pub. L. 115–91, div. A, title X, §1081(a)(7), Dec. 12, 2017, 131 Stat. 1594; Pub. L. 116–92, div. A, title XVI, §1621(e)(1)(A)(iv), Dec. 20, 2019, 133 Stat. 1733.)
+
+#### References in Text
+
+Section 138(b)(4) of this title, referred to in subsec. (a), was redesignated section 138(b)(2) of this title by Pub. L. 115–91, div. A, title IX, §907(b)(2), Dec. 12, 2017, 131 Stat. 1514.
 
 #### Prior Provisions
 
@@ -62,8 +52,8 @@ Another prior section 139b was renumbered section 2433 of this title.
 
 #### Amendments
 
-**2021**—Pub. L. 116–283 amended section generally. Prior to amendment, section related to Special Operations Policy and Oversight Council.
-
 **2019**—Subsec. (c)(2)(E). Pub. L. 116–92 substituted "Under Secretary of Defense for Intelligence and Security" for "Under Secretary of Defense for Intelligence".
 
 **2017**—Subsec. (c)(2)(K). Pub. L. 115–91 inserted period at end.
+
+[1 See References in Text note below.](#139b_1)

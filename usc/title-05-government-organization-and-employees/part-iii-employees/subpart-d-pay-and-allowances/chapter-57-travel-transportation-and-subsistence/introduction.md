@@ -32,7 +32,7 @@ Sec.
 
 5710\. Authority for travel expenses test programs.
 
-5711\. Authority for telework travel expenses programs.
+5711\. Authority for telework travel expenses test programs.
 
         
 
@@ -130,8 +130,6 @@ Sec.
 
 #### Amendments
 
-**2021**—Pub. L. 116–283, div. A, title XI, §1112(b), Jan. 1, 2021, 134 Stat. 3984, which directed amendment of item 5711 in table of sections for subchapter I of chapter 57 by substituting "Authority for telework travel expenses programs" for "Authority for telework travel expenses test programs", was executed to table of sections for this chapter to reflect the probable intent of Congress.
-
 **2019**—Pub. L. 116–92, div. A, title XI, §1114(b), Dec. 20, 2019, 133 Stat. 1604, substituted "Taxes on reimbursements for travel, transportation, and relocation expenses" for "Taxes on reimbursements for travel, transportation, and relocation expenses of employees transferred" in item 5724b.
 
 **2010**—Pub. L. 111–292, §3(b), Dec. 9, 2010, 124 Stat. 3173, added item 5711.
@@ -182,4 +180,4 @@ Pub. L. 90–83 §1(37)(B), Sept. 11, 1967, 81 Stat. 205, added item 5724a.
 
 [1 So in original. Probably should be followed by a period.](#CHAPTER57_1)
 
-[2 So in original. Two sections 5757 have been enacted.](#CHAPTER57_2)
+[1 So in original. Two sections 5757 have been enacted.](#CHAPTER57_1)

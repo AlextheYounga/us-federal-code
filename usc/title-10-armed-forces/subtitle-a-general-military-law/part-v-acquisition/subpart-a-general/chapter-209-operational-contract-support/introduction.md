@@ -1,9 +1,5 @@
 ### **CHAPTER 209—OPERATIONAL CONTRACT SUPPORT**
 
-Subchapter Sec.
+#### Amendments
 
-I. Joint Policies on Requirements Definition, Contingency Program Management, and Contingency Contracting 3151
-
-II. Other Provisions Relating to Operational Contract Support 3171
-
-        
+**2018**—Pub. L. 115–232, div. A, title VIII, §801(a), Aug. 13, 2018, 132 Stat. 1827, added chapter heading.

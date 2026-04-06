@@ -116,6 +116,4 @@ Sec.
 
 1476a. Unsworn written statements subject to penalties of presenting false claims.
 
-1477\. Snow water supply forecasting.
-
         

@@ -144,9 +144,9 @@ Sec.
 
 59g. Steele and Washington Bayous, and Lake Washington, Mississippi.
 
-59h. San Francisco, California, Waterfront Area.
+59h. Northern Embarcadero area, San Francisco, California.
 
-59h–1. Repealed.
+59h–1. San Francisco, California, waterfront area.
 
 59i. Patapsco River, Maryland.
 
@@ -217,7 +217,5 @@ Sec.
 59kk. Wateree River.
 
 59 ll. Central Delaware River, Philadelphia, Pennsylvania.
-
-59mm. Coalbank Slough Deemed not Navigable Waters of the United States for Certain Purposes.
 
         

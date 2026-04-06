@@ -70,8 +70,6 @@ Sec.
 
 3043a. National intelligence strategy.
 
-3043b. Annual reports on worldwide threats.
-
 3044\. Software licensing.
 
 3045\. National mission of National Geospatial-Intelligence Agency.
@@ -280,18 +278,6 @@ Sec.
 
         
 
-#### Part D—National Intelligence University
-
-3227\. Transfer date.
-
-3227a. Degree-granting authority.
-
-3227b. Reporting.
-
-3227c. Continued applicability of the Federal Advisory Committee Act to the Board of Visitors.
-
-        
-
 #### SUBCHAPTER IX—ADDITIONAL MISCELLANEOUS PROVISIONS
 
 3231\. Applicability to United States intelligence activities of Federal laws implementing international treaties and agreements.
@@ -306,15 +292,9 @@ Sec.
 
 3236\. Inspector General external review panel.
 
-3237\. Annual reports on influence operations and campaigns in the United States by the Chinese Communist Party.
-
-3237a. Annual reports on security services of the People's Republic of China in the Hong Kong Special Administrative Region.
+3237\. Annual reports on influence operations and campaigns in the United States by the Communist Party of China.
 
 3238\. Annual reports on influence operations and campaigns in the United States by the Russian Federation.
-
-3239\. Requirement to buy certain satellite component from American sources.
-
-3240\. Report on best practices to protect privacy, civil liberties, and civil rights of Chinese Americans.
 
         
 

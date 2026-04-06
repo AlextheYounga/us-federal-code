@@ -14,11 +14,7 @@ Sec.
 
 403b. Cost-of-living allowance in the continental United States.
 
-\[404. Repealed.\]
-
-405\. Travel and transportation allowances: per diem while on duty outside the continental United States.
-
-\[406 to 412. Repealed.\]
+\[404 to 412. Repealed.\]
 
 413\. Chairman and Vice Chairman of the Joint Chiefs of Staff.
 
@@ -56,9 +52,7 @@ Sec.
 
 433a. Allowance for participation in Ready Reserve screening.
 
-\[434. Repealed.\]
-
-435\. Funeral honors duty: allowance.
+\[434, 435. Repealed.\]
 
 436\. High-deployment allowance: lengthy or numerous deployments; frequent mobilizations.
 
@@ -75,8 +69,6 @@ Sec.
 #### **Editorial Notes**
 
 #### Amendments
-
-**2021**—Pub. L. 116–283, div. A, title VI, §604(c)(1), Jan. 1, 2021, 134 Stat. 3672, added items 405 and 435.
 
 **2017**—Pub. L. 115–91, div. A, title VI, §604(a)(2), Dec. 12, 2017, 131 Stat. 1420, added item 403a.
 

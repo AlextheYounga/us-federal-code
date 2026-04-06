@@ -4,8 +4,6 @@ Sec.
 
 2851\. Supervision of military construction projects.
 
-2851a. Supervision of military housing by Chief Housing Officer.
-
 2852\. Military construction projects: waiver of certain restrictions.
 
 2853\. Authorized cost and scope of work variations.
@@ -44,13 +42,11 @@ Sec.
 
 2869\. Exchange of property at military installations.
 
-\[2870. Repealed.\]
+2870\. Use of qualified apprentices by military construction contractors.
 
         
 
 #### Amendments
-
-**2021**—Pub. L. 116–283, div. A, title VIII, §818(b)(1), div. B, title XXVIII, §2811(k)(1)(A), Jan. 1, 2021, 134 Stat. 3751, 4326, added item 2851a and struck out item 2870 "Use of qualified apprentices by military construction contractors".
 
 **2019**—Pub. L. 116–92, div. A, title VIII, §865(a)(2), Dec. 20, 2019, 133 Stat. 1524, added item 2870.
 
