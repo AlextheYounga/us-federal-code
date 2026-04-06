@@ -202,10 +202,6 @@ The authority provided by this section to impose assessments terminates on Septe
 
 The Harmonized Tariff Schedule of the United States, referred to in subsec. (a)(2)(B), is not set out in the Code. See Publication of Harmonized Tariff Schedule note set out under section 1202 of Title 19, Customs Duties.
 
-#### Effective Date
-
-Section applicable to the 2005 and subsequent crops of tobacco, see section 643 of Pub. L. 108–357, set out as a note under section 518 of this title.
-
 [1 So in original.](#518d_1)
 
 [2 So in original. Probably should be "chapter".](#518d_2)

@@ -30,8 +30,6 @@ Sec.
 
 3734\. Limitation on availability of funds for Cooperative Threat Reduction activities with Russian Federation.
 
-3735\. Limitation on availability of funds for Cooperative Threat Reduction activities in People's Republic of China.
-
         
 
 #### SUBCHAPTER III—RECURRING CERTIFICATIONS AND REPORTS

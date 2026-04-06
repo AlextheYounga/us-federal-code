@@ -6,8 +6,6 @@ Sec.
 
 222\. Future-years mission budget.
 
-222a. Unfunded priorities of the armed forces and combatant commands: annual report.
-
 223\. Ballistic missile defense programs: program elements.
 
 223a. Ballistic missile defense programs: procurement.
@@ -46,9 +44,7 @@ Sec.
 
 #### Amendments
 
-**2016**—Pub. L. 114–328, div. A, title X, §1064(a)(2), Dec. 23, 2016, 130 Stat. 2409, added item 222a.
-
-**2015**—Pub. L. 114–92, div. A, title X, §1073(a)(2), title XVI, §1601(a)(2), Nov. 25, 2015, 129 Stat. 995, 1096, struck out item 228 "Biannual reports on allocation of funds within operation and maintenance budget subactivities" and added item 239.
+Pub. L. 114–92, div. A, title X, §1073(a)(2), title XVI, §1601(a)(2), Nov. 25, 2015, 129 Stat. 995, 1096, struck out item 228 "Biannual reports on allocation of funds within operation and maintenance budget subactivities" and added item 239.
 
 **2014**—Pub. L. 113–291, div. A, title XVI, §1631(a)(2), Dec. 19, 2014, 128 Stat. 3638, added item 238.
 
