@@ -408,7 +408,7 @@ See 2025 Amendment notes below.
 
 #### Amendment of Subsection (c)(5), (6)
 
-Pub. L. 119–21, title VII, §71303(a), (c), July 4, 2025, 139 Stat. 323, 324, provided that, applyicable to taxable years beginning after Dec.ember 31, 2027, subsection (c) of this section is amended by adding at the end the following new paragraphs:
+Pub. L. 119–21, title VII, §71303(a), (c), July 4, 2025, 139 Stat. 323, 324, provided that, applicable to taxable years beginning after Dec. 31, 2027, subsection (c) of this section is amended by adding at the end the following new paragraphs:
 
 #### *"(5) Exchange enrollment verification requirement*
 

@@ -342,7 +342,7 @@ A prior section 59A, added Pub. L. 99–499, title V, §516(a), Oct. 17, 1986, 1
 
 Subsec. (b)(1)(A). Pub. L. 119–21, §70331(a)(1), substituted "10.5 percent" for "10 percent".
 
-Pub. L. 119–21, §70331(a)(2), redesignated par. (3) as (2) and struck out former subpar. (2) which related to modifications for taxable years beginning after 2025.
+Subsec. (b)(2). Pub. L. 119–21, §70331(a)(2), redesignated par. (3) as (2) and struck out former subpar. (2) which related to modifications for taxable years beginning after 2025.
 
 Subsec. (b)(2)(A). Pub. L. 119–21, §70331(b)(2), substituted "the percentages otherwise in effect under paragraph (1)(A) shall be increased" for "the percentage otherwise in effect under paragraphs (1)(A) and (2)(A) shall each be increased".
 
