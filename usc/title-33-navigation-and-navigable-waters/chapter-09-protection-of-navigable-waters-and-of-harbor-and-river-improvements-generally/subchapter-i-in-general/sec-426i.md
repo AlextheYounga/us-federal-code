@@ -10,7 +10,7 @@ The costs of implementing measures, including a study, shall be cost-shared in t
 
 #### (c) Requirement for specific authorization
 
-No such project shall be initiated without specific authorization by Congress if the Federal first cost exceeds $12,500,000.
+No such project shall be initiated without specific authorization by Congress if the Federal first cost exceeds $15,000,000.
 
 #### (d) Coordination
 
@@ -24,13 +24,15 @@ The Secretary shall—
 
 Beginning on December 16, 2016, in any case in which the Secretary implements a project under this section, the Secretary shall reimburse or credit the non-Federal interest for any amounts contributed for the study evaluating the damage in excess of the non-Federal share of the costs, as determined under subsection (b).
 
-(Pub. L. 90–483, title I, §111, Aug. 13, 1968, 82 Stat. 735; Pub. L. 99–662, title IX, §§915(f), 940, Nov. 17, 1986, 100 Stat. 4191, 4199; Pub. L. 106–53, title II, §214, Aug. 17, 1999, 113 Stat. 291; Pub. L. 113–121, title I, §1030(c), June 10, 2014, 128 Stat. 1232; Pub. L. 114–322, title I, §1169, Dec. 16, 2016, 130 Stat. 1671; Pub. L. 115–270, title I, §1157(c), Oct. 23, 2018, 132 Stat. 3794.)
+(Pub. L. 90–483, title I, §111, Aug. 13, 1968, 82 Stat. 735; Pub. L. 99–662, title IX, §§915(f), 940, Nov. 17, 1986, 100 Stat. 4191, 4199; Pub. L. 106–53, title II, §214, Aug. 17, 1999, 113 Stat. 291; Pub. L. 113–121, title I, §1030(c), June 10, 2014, 128 Stat. 1232; Pub. L. 114–322, title I, §1169, Dec. 16, 2016, 130 Stat. 1671; Pub. L. 115–270, title I, §1157(c), Oct. 23, 2018, 132 Stat. 3794; Pub. L. 118–272, div. A, title I, §1107(h), Jan. 4, 2025, 138 Stat. 3005.)
 
   
 
 #### **Editorial Notes**
 
 #### Amendments
+
+**2025**—Subsec. (c). Pub. L. 118–272 substituted "$15,000,000" for "$12,500,000".
 
 **2018**—Subsec. (c). Pub. L. 115–270 substituted "$12,500,000" for "$10,000,000".
 

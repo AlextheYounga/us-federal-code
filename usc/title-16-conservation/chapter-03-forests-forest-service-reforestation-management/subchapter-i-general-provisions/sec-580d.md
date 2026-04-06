@@ -18,7 +18,7 @@ The Secretary of Agriculture, under such regulations as he may prescribe and at 
 
 #### Authorization for Lease of Forest Service Sites
 
-Pub. L. 115–334, title VIII, §8623, Dec. 20, 2018, 132 Stat. 4853, provided that:
+Pub. L. 115–334, title VIII, §8623, Dec. 20, 2018, 132 Stat. 4853, as amended by Pub. L. 118–234, title I, §151, Jan. 4, 2025, 138 Stat. 2866, provided that:
 
 "(a) Definitions.—In this section:
 
@@ -62,7 +62,7 @@ Pub. L. 115–334, title VIII, §8623, Dec. 20, 2018, 132 Stat. 4853, provided t
 
 "(C) a research station or laboratory;
 
-"(D) a dwelling;
+"(D) a dwelling or multiunit dwelling;
 
 "(E) a warehouse;
 
@@ -84,7 +84,7 @@ Pub. L. 115–334, title VIII, §8623, Dec. 20, 2018, 132 Stat. 4853, provided t
 
 "(b) Authorization.—The Secretary may lease an administrative site that is under the jurisdiction of the Secretary in accordance with this section.
 
-"(c) Identification of Eligible Sites.—A regional forester, in consultation with forest supervisors in the region, may submit to the Secretary a recommendation for administrative sites in the region that the regional forester considers eligible for leasing under this section.
+"(c) Identification of Eligible Sites.—A regional forester, in consultation with forest supervisors in the region, may submit to the Chief of the Forest Service, or their designee a recommendation for administrative sites in the region that the regional forester considers eligible for leasing under this section.
 
 "(d) Consultation With Local Government and Public Notice.—Before making an administrative site available for lease under this section, the Secretary shall—
 
@@ -116,11 +116,19 @@ Pub. L. 115–334, title VIII, §8623, Dec. 20, 2018, 132 Stat. 4853, provided t
 
 "(ii) in-kind, including—
 
-     "(I) the construction of new facilities or improvements, the title to which shall be transferred by the lessee to the Secretary;
+     "(I) the construction of new facilities or improvements, such as housing, the title to which shall be transferred by the lessee to the Secretary;
 
-     "(II) the maintenance, repair, improvement, or restoration of existing facilities or improvements; and
+     "(II) the maintenance, repair, improvement, or restoration of existing facilities or improvements;
 
-     "(III) other services relating to activities that occur on the administrative site, as determined by the Secretary; or
+     "(III) other services relating to activities that occur on the administrative site, as determined by the Secretary;and
+
+     "(IV) services occurring off the administrative site that—
+
+"(aa) occur at another administrative site in the same unit in which the administrative site is located or a different unit of the National Forest System;
+
+"(bb) benefit the National Forest System; and
+
+"(cc) support activities occurring within the unit of the National Forest System in which the administrative site is located; or
 
 "(iii) any combination of the consideration described in clauses (i) and (ii).
 
@@ -141,6 +149,20 @@ Pub. L. 115–334, title VIII, §8623, Dec. 20, 2018, 132 Stat. 4853, provided t
 "(4) Conditions.—The lease of an administrative site under this section shall be subject to such conditions, including bonding, as the Secretary determines to be appropriate.
 
 "(5) Right of first refusal.—Subject to terms and conditions that the Secretary determines to be necessary, the Secretary shall offer to lease an administrative site to the municipality or county in which the administrative site is located before seeking to lease the administrative site to any other person.
+
+"(6) Lease term.—
+
+"(A) In general.—The term of a lease of an administrative site under this section shall be not more than 100 years.
+
+"(B) Reauthorization of use.—A lease of an administrative site under this section shall include a provision for reauthorization of the use if the—
+
+"(i) use of the administrative site, at the time of reauthorization, is still being used for the purposes authorized;
+
+"(ii) use to be authorized under the new lease is consistent with the applicable land management plan; and
+
+"(iii) lessee is in compliance with all the terms of the existing lease.
+
+"(C) Savings.—A reauthorization of use under subparagraph (B) may include new terms in the use, as determined by the Chief of the Forest Service, or their designee.
 
 "(f) Relation to Other Laws.—
 
@@ -166,7 +188,7 @@ Pub. L. 115–334, title VIII, §8623, Dec. 20, 2018, 132 Stat. 4853, provided t
 
 "(4) Compliance with local laws.—A person that leases an administrative site under this section shall comply with all applicable State and local zoning laws, building codes, and permit requirements for any construction activities that occur on the administrative site.
 
-"(g) Prohibition.—No agency of the Federal Government shall make any cash payments to a leaseholder relating to the use or occupancy of any administrative site or facility that has been improved under this section.
+"(g) Prohibition.—No agency of the Federal Government shall make any cash payments relating to the use or occupancy of any administrative site or facility that has been improved or constructed under this section.
 
 "(h) Congressional Notifications.—
 
@@ -184,9 +206,9 @@ Pub. L. 115–334, title VIII, §8623, Dec. 20, 2018, 132 Stat. 4853, provided t
 
 "(i) Expiration of Authority.—
 
-"(1) In general.—The authority of the Secretary to make a lease of an administrative site under this section expires on October 1, 2023.
+"(1) In general.—The authority of the Secretary to make a lease of an administrative site under this section expires on October 1, 2028.
 
-"(2) Effect on lease agreement.—Paragraph (1) shall not affect the authority of the Secretary to carry out this section in the case of any lease agreement that was entered into by the Secretary before October 1, 2023."
+"(2) Effect on lease agreement.—Paragraph (1) shall not affect the authority of the Secretary to carry out this section in the case of any lease agreement that was entered into by the Secretary before October 1, 2028."
 
 \[For definition of "National Forest System" as used in section 8623 of Pub. L. 115–334, set out above, see section 8601 of Pub. L. 115–334, set out below.\]
 

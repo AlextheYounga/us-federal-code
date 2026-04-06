@@ -76,27 +76,39 @@
 
 Not later than 1 year after October 12, 1996, in accordance with chapter 5 of title 5, the Secretary of the Army shall prepare a manual describing the maintenance and upkeep responsibilities that the Corps of Engineers requires of a non-Federal interest in order for the non-Federal interest to receive Federal assistance under this section. The Secretary shall provide a copy of the manual at no cost to each non-Federal interest that is eligible to receive Federal assistance under this section.
 
-#### (2) Compliance
+#### (2) Systemwide improvement plan
 
 #### (A) In general
 
-Notwithstanding the status of compliance of a non-Federal interest with the requirements of a levee owner's manual described in paragraph (1), or with any other eligibility requirement established by the Secretary related to the maintenance and upkeep responsibilities of the non-Federal interest, the Secretary shall consider the non-Federal interest to be eligible for repair and rehabilitation assistance under this section if the non-Federal interest—
+Notwithstanding the status of compliance of a non-Federal interest with the requirements of a levee owner's manual described in paragraph (1), or any other eligibility requirement established by the Secretary related to the maintenance and upkeep responsibilities of the non-Federal interest, the Secretary shall consider the non-Federal interest to be eligible for repair and rehabilitation assistance under this section if—
 
-(i) enters into a written agreement with the Secretary that identifies any items of deferred or inadequate maintenance and upkeep identified by the Secretary prior to the natural disaster; and
+(i) in coordination with the Secretary, the non-Federal interest develops a systemwide improvement plan, prior to the natural disaster, that—
 
-(ii) pays, during performance of the repair and rehabilitation work, all costs to address—
+(I) identifies any items of deferred or inadequate maintenance and upkeep, including any such items identified by the Secretary or through periodic inspection of the flood control work;
 
-(I) any items of deferred or inadequate maintenance and upkeep identified by the Secretary; and
+(II) identifies any additional measures, including repair and rehabilitation work, that the Secretary determines necessary to ensure that the flood control work performs as designed and intended;
 
-(II) any repair or rehabilitation work necessary to address damage the Secretary attributes to such deferred or inadequate maintenance or upkeep.
+(III) includes specific timelines for addressing such items and measures;
 
-#### (B) Eligibility
+(IV) requires the non-Federal interest to be responsible for the cost of addressing the items and measures identified under subclauses (I) and (II); and
 
-The Secretary may only enter into one agreement under subparagraph (A) with any non-Federal interest.
+  
 
-#### (C) Sunset
+(ii) the Secretary—
 
-The authority of the Secretary to enter into agreements under paragraph (2) shall terminate on the date that is 5 years after December 27, 2020.
+(I) determines that the systemwide improvement plan meets the requirements of clause (i) and the Secretary, acting through the District Commander, approves such plan; and
+
+(II) determines that the non-Federal interest makes satisfactory progress in meeting the timelines described in subclause (III) of that clause.
+
+#### (B) Grandfathered encroachments
+
+At the request of the non-Federal interest, the Secretary—
+
+(i) shall review documentation developed by the non-Federal interest showing a covered encroachment does not negatively impact the integrity of the flood control work;
+
+(ii) shall make a written determination with respect to whether removal or modification of such covered encroachment is necessary to ensure the encroachment does not negatively impact the integrity of the flood control work; and
+
+(iii) may not determine that a covered encroachment is a deficiency requiring corrective action unless such action is necessary to ensure the encroachment does not negatively impact the integrity of the flood control work.
 
 #### (3) Authorization of appropriations
 
@@ -106,11 +118,21 @@ There is authorized to be appropriated $1,000,000 to carry out paragraph (1).
 
 In this subsection, the following definitions apply:
 
-#### (A) Maintenance and upkeep
+#### (A) Covered encroachment
+
+The term "covered encroachment" means a permanent nonproject structure that—
+
+(i) is located inside the boundaries of a flood control work;
+
+(ii) is depicted on construction drawings or operation and maintenance plans for the flood control work that are signed by an engineer of record; and
+
+(iii) is determined by the Secretary to be an encroachment of such flood control work.
+
+#### (B) Maintenance and upkeep
 
 The term "maintenance and upkeep" means all maintenance and general upkeep of a levee performed on a regular and consistent basis that is not repair and rehabilitation.
 
-#### (B) Repair and rehabilitation
+#### (C) Repair and rehabilitation
 
 The term "repair and rehabilitation"—
 
@@ -142,7 +164,7 @@ In conducting repair or restoration work under subsection (a), at the request of
 
 The Secretary shall notify and consult with the non-Federal sponsor regarding the opportunity to request implementation of nonstructural alternatives to the repair or restoration of a flood control work under subsection (a).
 
-(Aug. 18, 1941, ch. 377, §5, 55 Stat. 650; July 24, 1946, ch. 596, §12, 60 Stat. 652; July 26, 1947, ch. 343, title II, §205(a), 61 Stat. 501; June 30, 1948, ch. 771, title II, §206, 62 Stat. 1182; May 17, 1950, ch. 188, title II, §210, 64 Stat. 183; June 28, 1955, ch. 194, 69 Stat. 186; Pub. L. 87–874, title II, §206, Oct. 23, 1962, 76 Stat. 1194; Pub. L. 93–251, title I, §82, Mar. 7, 1974, 88 Stat. 34; Pub. L. 95–51, §2, June 20, 1977, 91 Stat. 233; Pub. L. 99–662, title IX, §917, Nov. 17, 1986, 100 Stat. 4192; Pub. L. 100–45, §9, May 27, 1987, 101 Stat. 323; Pub. L. 100–707, title I, §109(m), Nov. 23, 1988, 102 Stat. 4709; Pub. L. 101–640, title III, §302, Nov. 28, 1990, 104 Stat. 4633; Pub. L. 104–303, title II, §202(e), (f), Oct. 12, 1996, 110 Stat. 3675; Pub. L. 113–121, title III, §3029(a), June 10, 2014, 128 Stat. 1305; Pub. L. 114–322, title I, §1176, Dec. 16, 2016, 130 Stat. 1673; Pub. L. 115–270, title I, §§1160, 1161(a), 1162, Oct. 23, 2018, 132 Stat. 3795, 3796; Pub. L. 116–260, div. AA, title I, §120, Dec. 27, 2020, 134 Stat. 2633; Pub. L. 117–263, div. H, title LXXXI, §8102(a), Dec. 23, 2022, 136 Stat. 3695.)
+(Aug. 18, 1941, ch. 377, §5, 55 Stat. 650; July 24, 1946, ch. 596, §12, 60 Stat. 652; July 26, 1947, ch. 343, title II, §205(a), 61 Stat. 501; June 30, 1948, ch. 771, title II, §206, 62 Stat. 1182; May 17, 1950, ch. 188, title II, §210, 64 Stat. 183; June 28, 1955, ch. 194, 69 Stat. 186; Pub. L. 87–874, title II, §206, Oct. 23, 1962, 76 Stat. 1194; Pub. L. 93–251, title I, §82, Mar. 7, 1974, 88 Stat. 34; Pub. L. 95–51, §2, June 20, 1977, 91 Stat. 233; Pub. L. 99–662, title IX, §917, Nov. 17, 1986, 100 Stat. 4192; Pub. L. 100–45, §9, May 27, 1987, 101 Stat. 323; Pub. L. 100–707, title I, §109(m), Nov. 23, 1988, 102 Stat. 4709; Pub. L. 101–640, title III, §302, Nov. 28, 1990, 104 Stat. 4633; Pub. L. 104–303, title II, §202(e), (f), Oct. 12, 1996, 110 Stat. 3675; Pub. L. 113–121, title III, §3029(a), June 10, 2014, 128 Stat. 1305; Pub. L. 114–322, title I, §1176, Dec. 16, 2016, 130 Stat. 1673; Pub. L. 115–270, title I, §§1160, 1161(a), 1162, Oct. 23, 2018, 132 Stat. 3795, 3796; Pub. L. 116–260, div. AA, title I, §120, Dec. 27, 2020, 134 Stat. 2633; Pub. L. 117–263, div. H, title LXXXI, §8102(a), Dec. 23, 2022, 136 Stat. 3695; Pub. L. 118–272, div. A, title I, §1146(a), Jan. 4, 2025, 138 Stat. 3036.)
 
   
 
@@ -153,6 +175,10 @@ The Secretary shall notify and consult with the non-Federal sponsor regarding th
 The Disaster Relief and Emergency Assistance Act, referred to in subsec. (a)(1), is Pub. L. 93–288, May 22, 1974, 88 Stat. 143, known as the Robert T. Stafford Disaster Relief and Emergency Assistance Act, which is classified principally to chapter 68 (§5121 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 5121 of Title 42 and Tables.
 
 #### Amendments
+
+**2025**—Subsec. (c)(2). Pub. L. 118–272, §1146(a)(1), added par. (2) and struck out former par. (2) which related to eligibility of non-Federal interest for repair and rehabilitation assistance under this section.
+
+Subsec. (c)(4)(A) to (C). Pub. L. 118–272, §1146(a)(2), added subpar. (A) and redesignated former subpars. (A) and (B) as (B) and (C), respectively.
 
 **2022**—Subsec. (a)(1). Pub. L. 117–263 substituted "in the repair and restoration of any federally authorized hurricane or shore protective structure or project damaged or destroyed by wind, wave, or water action of other than an ordinary nature to the pre-storm level of protection, to the design level of protection, or, notwithstanding the authorized dimensions of the structure or project, to a level sufficient to meet the authorized purpose of such structure or project, whichever provides greater protection, when, in the discretion of the Chief of Engineers, such repair and restoration is warranted for the adequate functioning of the structure or project for hurricane or shore protection, including to ensure the structure or project is functioning adequately to protect against projected changes in wave action or height or storm surge (including changes that result from relative sea level change over the useful life of the structure or project), subject to the condition that the Chief of Engineers may, if requested by the non-Federal sponsor, include modifications to the structure or project (including the addition of new project features) to address major deficiencies, increase resilience, increase benefits from the reduction of damages from inundation, wave action, or erosion, or implement nonstructural alternatives to the repair or restoration of the structure." for "in the repair and restoration of any federally authorized hurricane or shore protective structure or project damaged or destroyed by wind, wave, or water action of other than an ordinary nature to either the pre-storm level or the design level of protection, whichever provides greater protection, when, in the discretion of the Chief of Engineers, such repair and restoration is warranted for the adequate functioning of the structure or project for hurricane or shore protection, subject to the condition that the Chief of Engineers may include modifications to the structure or project to address major deficiencies or implement nonstructural alternatives to the repair or restoration of the structure if requested by the non-Federal sponsor."
 
@@ -220,6 +246,14 @@ Subsec. (c). Pub. L. 104–303, §202(f), added subsec. (c).
 
 Department of War designated Department of the Army and title of Secretary of War changed to Secretary of the Army by section 205(a) of act July 26, 1947, ch. 343, title II, 61 Stat. 501. Section 205(a) of act July 26, 1947, was repealed by section 53 of act Aug. 10, 1956, ch. 1041, 70A Stat. 641. Section 1 of act Aug. 10, 1956, enacted "Title 10, Armed Forces" which in sections 3010 to 3013 continued Department of the Army under administrative supervision of Secretary of the Army.
 
+#### Transition
+
+Pub. L. 118–272, div. A, title I, §1146(c), Jan. 4, 2025, 138 Stat. 3038, provided that: "The amendments made by this section \[amending this section and repealing provisions set out as a note below\] shall have no effect on any written agreement signed by the Secretary and a non-Federal interest pursuant to paragraph (2) of section 5(c) of the Act of August 18, 1941 (33 U.S.C. 701n(c)) (as in effect on the day before the date of enactment of this Act \[Jan. 4, 2025\]), if the non-Federal interest otherwise continues to meet the requirements of that paragraph (as so in effect)."
+
+#### Participation in Preparedness Exercises
+
+Pub. L. 118–272, div. A, title I, §1146(d), Jan. 4, 2025, 138 Stat. 3038, provided that: "The Secretary \[of the Army\] may not condition the eligibility of a non-Federal interest for rehabilitation assistance under section 5 of the Act of August 18, 1941 (33 U.S.C. 701n), on the participation of the non-Federal interest in disaster preparedness exercises that are unrelated to necessary repairs, rehabilitation, maintenance, and upkeep of a flood control work."
+
 #### Great Lakes Advance Measures Assistance
 
 Pub. L. 117–263, div. H, title LXXXI, §8102(b), Dec. 23, 2022, 136 Stat. 3696, provided that:
@@ -244,7 +278,7 @@ Pub. L. 115–270, title I, §1161(b), Oct. 23, 2018, 132 Stat. 3796, as amended
 
 #### Systemwide Improvement Framework
 
-Pub. L. 113–121, title III, §3011, June 10, 2014, 128 Stat. 1284, provided that: "A levee system shall remain eligible for rehabilitation assistance under the authority provided by section 5 of the Act of August 18, 1941 (33 U.S.C. 701n) as long as the levee system sponsor continues to make satisfactory progress, as determined by the Secretary \[of the Army\], on an approved systemwide improvement framework or letter of intent."
+Pub. L. 113–121, title III, §3011, June 10, 2014, 128 Stat. 1284, which provided that levee system remained eligible for rehabilitation assistance under this section as long as levee system sponsor continued to make satisfactory progress on approved systemwide improvement framework or letter of intent, was repealed by Pub. L. 118–272, div. A, title I, §1146(b)(1), Jan. 4, 2025, 138 Stat. 3038. See subsection (c)(2) of this section.
 
 #### Vegetation Management Guidelines
 

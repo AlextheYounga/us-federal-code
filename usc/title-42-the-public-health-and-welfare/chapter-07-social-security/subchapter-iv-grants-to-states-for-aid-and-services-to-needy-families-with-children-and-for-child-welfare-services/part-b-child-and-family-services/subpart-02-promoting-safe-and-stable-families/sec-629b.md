@@ -100,7 +100,43 @@ The compilation shall include the individual State reports and tables that synth
 
 Not later than September 30 of each year, the Secretary shall publish the compilation on the website of the Department of Health and Human Services in a location easily accessible by the public.
 
-(Aug. 14, 1935, ch. 531, title IV, §432, as added Pub. L. 103–66, title XIII, §13711(a)(2), Aug. 10, 1993, 107 Stat. 651; amended Pub. L. 105–89, title III, §305(b)(1), (c)(1), Nov. 19, 1997, 111 Stat. 2130, 2131; Pub. L. 105–200, title IV, §410(c), July 16, 1998, 112 Stat. 673; Pub. L. 109–288, §§3(e)(1), (2), 5(b)(3)(A), (c), Sept. 28, 2006, 120 Stat. 1235, 1243, 1244; Pub. L. 112–34, title I, §102(b), (e), (g)(1), Sept. 30, 2011, 125 Stat. 371, 372; Pub. L. 115–123, div. E, title VII, §50721(b)(2), Feb. 9, 2018, 132 Stat. 245.)
+(Aug. 14, 1935, ch. 531, title IV, §432, as added Pub. L. 103–66, title XIII, §13711(a)(2), Aug. 10, 1993, 107 Stat. 651; amended Pub. L. 105–89, title III, §305(b)(1), (c)(1), Nov. 19, 1997, 111 Stat. 2130, 2131; Pub. L. 105–200, title IV, §410(c), July 16, 1998, 112 Stat. 673; Pub. L. 109–288, §§3(e)(1), (2), 5(b)(3)(A), (c), Sept. 28, 2006, 120 Stat. 1235, 1243, 1244; Pub. L. 112–34, title I, §102(b), (e), (g)(1), Sept. 30, 2011, 125 Stat. 371, 372; Pub. L. 115–123, div. E, title VII, §50721(b)(2), Feb. 9, 2018, 132 Stat. 245; Pub. L. 118–258, title I, §§107(b)(1), 109(b), 111(b), Jan. 4, 2025, 138 Stat. 2955, 2958, 2961.)
+
+#### Amendment of Section
+
+Pub. L. 118–258, title I, §§107(b)(1), 109(b), 111(b), 117, Jan. 4, 2025, 138 Stat. 2955, 2958, 2961, 2969, provided that, effective Oct. 1, 2025, and applicable to payments under this part for calendar quarters beginning on or after such date, with delay permitted if either State legislation or tribal action is required to meet additional requirements, this section is amended as follows:
+
+(1) in subsection (a), by striking "and" after the semicolon in paragraph (9), by striking the period and inserting "; and" in paragraph (10), and by adding at the end the following:
+
+*"(11) provides a description of policies in place, including training for employees, to address child welfare reports and investigations of neglect concerning the living arrangements or subsistence needs of a child with the goal to prevent the separation of a child from a parent of the child solely due to poverty, to ensure access to services described in section 629a(a)(1)(H) of this title.";*
+
+(2) in subsection (b)—
+
+(A) by amending par. (1) to read as follows:
+
+#### *"(1) In general*
+
+*"The Secretary shall approve a plan that meets the requirements of subsection (a) only if—*
+
+*"(A) the plan was developed jointly by the Secretary and the State, and the State, in developing the plan, consulted with—*
+
+*"(i) appropriate public and nonprofit private agencies;*
+
+*"(ii) community-based organizations involved in providing services for children and families in the areas of family preservation, family support, family reunification, foster care, kinship, and adoption promotion and support;*
+
+*"(iii) parents with child welfare experience, foster parents, adoptive parents, and kinship caregivers; and*
+
+*"(iv) children, youth, and young adults with experience in the child welfare system, including State boards and councils comprised of youth with lived experience who represent the diversity of children in the State to whom the plan would apply; and*
+
+  
+
+*"(B) the State has made publicly accessible on a website of the State agency a report that outlines how the State has implemented the suggestions of the children and youth referred to in subparagraph (A)(iv)."; and*
+
+  
+
+(B) in paragraph (2)(B), by striking "section 629c(a) of this title" the 1st place it appears and inserting "sections 629c(a) and 629g(c)(1) of this title combined" and by striking "section 629c(a) of this title" the 2nd place it appears and inserting "such sections".
+
+See 2025 Amendment notes below.
 
   
 
@@ -111,6 +147,12 @@ Not later than September 30 of each year, the Secretary shall publish the compil
 A prior section 432 of act Aug. 14, 1935, was classified to section 632 of this title prior to repeal by Pub. L. 100–485.
 
 #### Amendments
+
+**2025**—Subsec. (a)(11). Pub. L. 118–258, §111(b), added par. (11).
+
+Subsec. (b)(1). Pub. L. 118–258, §109(b), amended par. (1) generally. Prior to amendment, text read as follows: "The Secretary shall approve a plan that meets the requirements of subsection (a) only if the plan was developed jointly by the Secretary and the State, after consultation by the State agency with appropriate public and nonprofit private agencies and community-based organizations with experience in administering programs of services for children and families (including family preservation, family support, family reunification, and adoption promotion and support services)."
+
+Subsec. (b)(2)(B). Pub. L. 118–258, §107(b)(1), substituted "would be made under sections 629c(a) and 629g(c)(1) of this title combined" for "would be made under section 629c(a) of this title" and "if allotments were made under such sections" for "if allotments were made under section 629c(a) of this title".
 
 **2018**—Subsec. (a)(4). Pub. L. 115–123, §50721(b)(2), struck out "time-limited" before "family reunification services".
 
@@ -149,6 +191,10 @@ Subsec. (b)(1). Pub. L. 105–89, §305(b)(1)(B), substituted ", family support
   
 
 #### **Statutory Notes and Related Subsidiaries**
+
+#### Effective Date of 2025 Amendment
+
+Amendment by Pub. L. 118–258 effective Oct. 1, 2025, and applicable to payments under this part for calendar quarters beginning on or after such date, with delay permitted if either State legislation or tribal action is required to meet additional requirements, see section 117 of Pub. L. 118–258, set out as a note under section 622 of this title.
 
 #### Effective Date of 2018 Amendment
 

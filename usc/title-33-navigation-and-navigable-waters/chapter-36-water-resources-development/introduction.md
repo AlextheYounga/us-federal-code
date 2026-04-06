@@ -150,6 +150,10 @@ Sec.
 
 2281b. Corps of Engineers support for underserved communities; outreach.
 
+2281c. Continuing authority programs.
+
+2281d. Declaration of policy.
+
 2282\. Feasibility reports.
 
 2282a. Planning.
@@ -167,6 +171,8 @@ Sec.
 2282f. Review of resiliency assessments.
 
 2282g. Scope of feasibility studies.
+
+2282h. Economic, hydraulic, and hydrologic modeling.
 
 2283\. Fish and wildlife mitigation.
 
@@ -194,11 +200,15 @@ Sec.
 
 2289a. Consideration of measures.
 
+2289b. Stormwater management projects.
+
 2290\. Flood control in Trust Territory of the Pacific Islands.
 
 2291\. Federal Project Repayment District.
 
 2292\. Surveying and mapping.
+
+2292a. National coastal mapping program.
 
 2293\. Reprogramming during national emergencies.
 
@@ -215,6 +225,8 @@ Sec.
 2297\. Operation and maintenance on recreation lands.
 
 2298\. Impact of proposed projects on existing recreation facilities.
+
+2298a. Databases of Corps recreational sites.
 
 2299\. Acquisition of beach fill.
 
@@ -236,7 +248,7 @@ Sec.
 
 2309\. Great Lakes Commodities Marketing Board.
 
-2309a. Project modifications for improvement of environment.
+2309a. Project modifications for improvement of environment or drought resiliency.
 
 2310\. Cost sharing for Territories and Indian tribes.
 
@@ -314,6 +326,10 @@ Sec.
 
 2326h. Five-year regional dredged material management plans.
 
+2326i. Beneficial use of dredged material.
+
+2326j. Transfer of suitable dredged material.
+
 2327\. Definition of rehabilitation for inland waterway projects.
 
 2327a. Rehabilitation of Corps of Engineers constructed pump stations.
@@ -375,6 +391,8 @@ Sec.
 2345\. Electronic submission and tracking of permit applications.
 
 2346\. Project administration.
+
+2346a. Real estate administrative fees.
 
 2347\. Coordination and scheduling of Federal, State, and local actions.
 

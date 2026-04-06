@@ -1,8 +1,48 @@
-### §467d. National dam inventory
+### §467d. National inventory of dams and low-head dams
 
-The Secretary of the Army shall maintain and update information on the inventory of dams in the United States. Such inventory of dams shall include any available information assessing each dam based on inspections completed by either a Federal agency or a State dam safety agency.
+#### (a) In general
 
-(Pub. L. 92–367, §6, as added Pub. L. 104–303, title II, §215(c)(8), Oct. 12, 1996, 110 Stat. 3687; amended Pub. L. 109–460, §1(b), Dec. 22, 2006, 120 Stat. 3401.)
+The Secretary of the Army shall maintain and update information on the inventory of dams and low-head dams in the United States.
+
+#### (b) Dams
+
+The inventory maintained under subsection (a) shall include any available information assessing each dam based on inspections completed by a Federal agency, a State dam safety agency, or a Tribal government.
+
+#### (c) Low-head dams
+
+The inventory maintained under subsection (a) shall include—
+
+(1) the location, ownership, description, current use, condition, height, and length of each low-head dam;
+
+(2) any information on public safety conditions at each low-head dam; and
+
+(3) any other relevant information concerning low-head dams.
+
+#### (d) Data
+
+In carrying out this section, the Secretary shall—
+
+(1) coordinate with Federal and State agencies, Tribal governments, and other relevant entities; and
+
+(2) use data provided to the Secretary by those agencies and entities.
+
+#### (e) Public availability
+
+The Secretary shall make the inventory maintained under subsection (a) publicly available (including on a publicly available website), including—
+
+(1) public safety information on the dangers of low-head dams; and
+
+(2) a directory of financial and technical assistance resources available to reduce safety hazards and fish passage barriers at low-head dams.
+
+#### (f) Clarification
+
+Nothing in this section provides authority to the Secretary to carry out an activity, with respect to a low-head dam, that is not explicitly authorized under this section.
+
+#### (g) Low-head dam defined
+
+In this section, the term "low-head dam" means a river-wide artificial barrier that generally spans a stream channel, blocking the waterway and creating a backup of water behind the barrier, with a drop off over the wall of not less than 6 inches and not more than 25 feet.
+
+(Pub. L. 92–367, §6, as added Pub. L. 104–303, title II, §215(c)(8), Oct. 12, 1996, 110 Stat. 3687; amended Pub. L. 109–460, §1(b), Dec. 22, 2006, 120 Stat. 3401; Pub. L. 118–272, div. A, title I, §1132(b), Jan. 4, 2025, 138 Stat. 3021.)
 
   
 
@@ -15,5 +55,7 @@ A prior section 467d, Pub. L. 92–367, §5, Aug. 8, 1972, 86 Stat. 507, directe
 A prior section 6 of Pub. L. 92–367 was classified to section 467e of this title prior to repeal by Pub. L. 104–303.
 
 #### Amendments
+
+**2025**—Pub. L. 118–272 amended section generally. Prior to amendment, text of section read as follows: "The Secretary of the Army shall maintain and update information on the inventory of dams in the United States. Such inventory of dams shall include any available information assessing each dam based on inspections completed by either a Federal agency or a State dam safety agency."
 
 **2006**—Pub. L. 109–460 amended section generally. Prior to amendment, section read as follows: "The Secretary of the Army, acting through the Chief of Engineers, may maintain and periodically publish updated information on the inventory of dams in the United States."
