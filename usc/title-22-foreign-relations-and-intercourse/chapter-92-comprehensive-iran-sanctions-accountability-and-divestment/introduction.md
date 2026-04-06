@@ -79,3 +79,17 @@ Sec.
 8566\. Exception relating to importation of goods.
 
         
+
+#### SUBCHAPTER VI—STOP HARBORING IRANIAN PETROLEUM
+
+8571\. Statement of policy.
+
+8572\. Imposition of sanctions with respect to Iranian petroleum.
+
+8573\. Report on Iranian petroleum and petroleum products exports.
+
+8574\. Strategy to counter role of the People's Republic of China in evasion of sanctions with respect to Iran.
+
+8575\. Definitions.
+
+        

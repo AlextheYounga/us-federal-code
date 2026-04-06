@@ -354,7 +354,7 @@ Chap. Sec.
 
 325\. Cost Growth-Unit Cost Reports (Nunn-McCurdy) 4371
 
-326\. 4 Weapon Systems Development And Related Matters 4401
+326\. 4 Weapon Systems Development And 5 Related Matters 4401
 
         
 
@@ -573,3 +573,5 @@ Pub. L. 87–649, §3(2), Sept. 7, 1962, 76 Stat. 493, added item for chapter 40
 [3 See Amendment note below for Pub. L. 118–31, div. A, title XVIII, §1801(a)(1)(G).](#PARTVanalysis_3)
 
 [4 So in original. Probably should be "327."](#PARTVanalysis_4)
+
+[5 So in original. Probably should not be capitalized.](#PARTVanalysis_5)

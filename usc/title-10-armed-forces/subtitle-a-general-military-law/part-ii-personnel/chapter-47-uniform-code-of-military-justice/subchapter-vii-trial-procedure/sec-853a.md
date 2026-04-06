@@ -18,6 +18,8 @@
 
 (2) in the case of an offense for which the President has not established a sentencing parameter pursuant to section 539E(e) of the National Defense Authorization Act for Fiscal Year 2022, the military judge may reject a plea agreement that proposes a sentence if the military judge determines that the proposed sentence is plainly unreasonable.
 
+  
+
 (c) Limitation on Acceptance of Plea Agreements.—The military judge of a general or special court-martial shall reject a plea agreement that—
 
 (1) contains a provision that has not been accepted by both parties;
