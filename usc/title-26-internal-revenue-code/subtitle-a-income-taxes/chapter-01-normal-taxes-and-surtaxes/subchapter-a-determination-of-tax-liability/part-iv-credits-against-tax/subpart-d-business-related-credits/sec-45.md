@@ -270,6 +270,8 @@ In the case of a facility using closed-loop biomass to produce electricity, the 
 
 (ii) owned by the taxpayer which before January 1, 2014, is originally placed in service and modified to use closed-loop biomass to co-fire with coal, with other biomass, or with both, but only if the modification is approved under the Biomass Power for Rural Development Programs or is part of a pilot project of the Commodity Credit Corporation as described in 65 Fed. Reg. 63052.
 
+  
+
 For purposes of clause (ii), a facility shall be treated as modified before January 1, 2014, if the construction of such modification begins before such date.
 
 #### (B) Expansion of facility
@@ -903,6 +905,8 @@ Section applicable to taxable years ending after Dec. 31, 1992, see section 1914
 #### Inflation Adjusted Items for Certain Tax Years
 
 Provisions relating to inflation adjustment of items in this section for certain tax years were contained in the following:
+
+**2013**—Internal Revenue Notice 2013–33.
 
 **2012**—Internal Revenue Notice 2012–35.
 

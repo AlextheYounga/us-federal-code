@@ -1124,7 +1124,7 @@ Sec.
 
 1395hhh. Health care infrastructure improvement program.
 
-1395iii. Medicare Improvement Fund.
+1395iii. Transitional Fund for Sustainable Growth Rate (SGR) Reform.
 
 1395jjj. Shared savings program.
 
@@ -1152,7 +1152,7 @@ Sec.
 
 1396e. Enrollment of individuals under group health plans.
 
-1396e–1. Premium assistance option for children.
+1396e–1. Premium assistance.
 
 1396f. Observance of religious beliefs.
 

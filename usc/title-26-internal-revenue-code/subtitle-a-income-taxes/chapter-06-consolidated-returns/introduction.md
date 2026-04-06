@@ -2,9 +2,9 @@
 
 Subchapter Sec. 1
 
-A. Returns and Payment of Tax 1501
-
         
+
+A. Returns and Payment of Tax 1501
 
 B. Related Rules 1551
 
