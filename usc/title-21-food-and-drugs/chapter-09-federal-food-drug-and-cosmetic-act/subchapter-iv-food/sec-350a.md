@@ -169,43 +169,43 @@ is exempt from the requirements of subsections (a), (b), and (c). The manufactur
 (B) revise the required level for any nutrient required by the table.
 
 NUTRIENTS
-| Nutrient                            |        | Minimum a                             | Maximum a        |
-| ----------------------------------- | ------ | ------------------------------------- | ---------------- |
-| Protein (gm)                        | 1.8 b  |                                       |  4.5.            |
-| Fat:                                |        |                                       |                  |
-| gm                                  | 3.3    |                                       |  6.0.            |
-| percent cal                         | 30.0   |                                       |  54.0.           |
-| Essential fatty acids   (linoeate): |        |                                       |                  |
-| percent cal                         | 2.7    |                                       |                  |
-| mg                                  | 300.0  |                                       |                  |
-| Vitamins:                           |        |                                       |                  |
-| A (IU)                              | 250.0  | (75 µg)c                              | 750.0 (225 µg).c |
-| D (IU)                              | 40.0   |                                       | 100.0.           |
-| K (µg)                              | 4.0    |                                       |                  |
-| E (IU)                              | 0.7    | (with 0.7 IU/gm linoleic acid)        |                  |
-| C (ascorbic acid) (mg)              | 8.0    |                                       |                  |
-| B**1** (thiamine) (µg)              | 40.0   |                                       |                  |
-| B**2** (riboflavin) (µg)            | 60.0   |                                       |                  |
-| B**6** (pyridoxine) (µg)            | 35.0   | (with 15 µg/gm of protein in formula) |                  |
-| B**12** (µg)                        | 0.15   |                                       |                  |
-| Niacin (µg)                         | 250.0  |                                       |                  |
-| Folic acid (µg)                     | 4.0    |                                       |                  |
-| Pantothenic acid (µg)               | 300.0  |                                       |                  |
-| Biotin (µg)                         | 1.5 d  |                                       |                  |
-| Choline (mg)                        | 7.0 d  |                                       |                  |
-| Inositol (mg)                       | 4.0 d  |                                       |                  |
-| Minerals:                           |        |                                       |                  |
-| Calcium (mg)                        | 50.0 e |                                       |                  |
-| Phosphorus (mg)                     | 25.0 e |                                       |                  |
-| Magnesium (mg)                      | 6.0    |                                       |                  |
-| Iron (mg)                           | 0.15   |                                       |                  |
-| Iodine (µg)                         | 5.0    |                                       |                  |
-| Zinc (mg)                           | 0.5    |                                       |                  |
-| Copper (µg)                         | 60.0   |                                       |                  |
-| Manganese (µg)                      | 5.0    |                                       |                  |
-| Sodium (mg)                         | 20.0   |                                       |  60.0.           |
-| Potassium (mg)                      | 80.0   |                                       | 200.0.           |
-| Chloride (mg)                       | 55.0   |                                       | 150.0.           |
+| Nutrient                             |        | Minimum a                             | Maximum a        |
+| ------------------------------------ | ------ | ------------------------------------- | ---------------- |
+| Protein (gm)                         | 1.8 b  |                                       |  4.5.            |
+| Fat:                                 |        |                                       |                  |
+| gm                                   | 3.3    |                                       |  6.0.            |
+| percent cal                          | 30.0   |                                       |  54.0.           |
+| Essential fatty acids   (linoleate): |        |                                       |                  |
+| percent cal                          | 2.7    |                                       |                  |
+| mg                                   | 300.0  |                                       |                  |
+| Vitamins:                            |        |                                       |                  |
+| A (IU)                               | 250.0  | (75 µg)c                              | 750.0 (225 µg).c |
+| D (IU)                               | 40.0   |                                       | 100.0.           |
+| K (µg)                               | 4.0    |                                       |                  |
+| E (IU)                               | 0.7    | (with 0.7 IU/gm linoleic acid)        |                  |
+| C (ascorbic acid) (mg)               | 8.0    |                                       |                  |
+| B**1** (thiamine) (µg)               | 40.0   |                                       |                  |
+| B**2** (riboflavin) (µg)             | 60.0   |                                       |                  |
+| B**6** (pyridoxine) (µg)             | 35.0   | (with 15 µg/gm of protein in formula) |                  |
+| B**12** (µg)                         | 0.15   |                                       |                  |
+| Niacin (µg)                          | 250.0  |                                       |                  |
+| Folic acid (µg)                      | 4.0    |                                       |                  |
+| Pantothenic acid (µg)                | 300.0  |                                       |                  |
+| Biotin (µg)                          | 1.5 d  |                                       |                  |
+| Choline (mg)                         | 7.0 d  |                                       |                  |
+| Inositol (mg)                        | 4.0 d  |                                       |                  |
+| Minerals:                            |        |                                       |                  |
+| Calcium (mg)                         | 50.0 e |                                       |                  |
+| Phosphorus (mg)                      | 25.0 e |                                       |                  |
+| Magnesium (mg)                       | 6.0    |                                       |                  |
+| Iron (mg)                            | 0.15   |                                       |                  |
+| Iodine (µg)                          | 5.0    |                                       |                  |
+| Zinc (mg)                            | 0.5    |                                       |                  |
+| Copper (µg)                          | 60.0   |                                       |                  |
+| Manganese (µg)                       | 5.0    |                                       |                  |
+| Sodium (mg)                          | 20.0   |                                       |  60.0.           |
+| Potassium (mg)                       | 80.0   |                                       | 200.0.           |
+| Chloride (mg)                        | 55.0   |                                       | 150.0.           |
 
 a Stated per 100 kilocalories.
 
