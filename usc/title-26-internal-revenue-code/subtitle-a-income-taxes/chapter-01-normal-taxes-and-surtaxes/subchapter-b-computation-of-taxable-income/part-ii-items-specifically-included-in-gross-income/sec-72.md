@@ -127,13 +127,13 @@ Rules similar to the rules of paragraphs (2) and (3) of subsection (b) shall app
 If the annuity is payable over the life of a single individual, the number of anticipated payments shall be determined as follows:
 
  
-|  If the age of the annuitant on the    annuity starting date is: | **The  number of anticipated payments is:** |
-| ---------------------------------------------------------------- | ------------------------------------------- |
-| Not more than 55                                                 | 360                                         |
-| More than 55 but not more than 60                                | 310                                         |
-| More than 60 but not more than 65                                | 260                                         |
-| More than 65 but not more than 70                                | 210                                         |
-| More than 70                                                     | 160.                                        |
+|  If the age of the annuitant on the    annuity starting date is: | **The number of anticipated payments is:** |
+| ---------------------------------------------------------------- | ------------------------------------------ |
+| Not more than 55                                                 | 360                                        |
+| More than 55 but not more than 60                                | 310                                        |
+| More than 60 but not more than 65                                | 260                                        |
+| More than 65 but not more than 70                                | 210                                        |
+| More than 70                                                     | 160.                                       |
 
   
 
@@ -142,13 +142,13 @@ If the annuity is payable over the life of a single individual, the number of an
 If the annuity is payable over the lives of more than 1 individual, the number of anticipated payments shall be determined as follows:
 
  
-|  **If the combined ages of annuitants are:** | **The  number is:** |
-| -------------------------------------------- | ------------------- |
-| Not more than 110                            | 410                 |
-| More than 110 but not more than 120          | 360                 |
-| More than 120 but not more than 130          | 310                 |
-| More than 130 but not more than 140          | 260                 |
-| More than 140                                | 210.                |
+|  **If the combined ages of annuitants are:** | **The number is:** |
+| -------------------------------------------- | ------------------ |
+| Not more than 110                            | 410                |
+| More than 110 but not more than 120          | 360                |
+| More than 120 but not more than 130          | 310                |
+| More than 130 but not more than 140          | 260                |
+| More than 140                                | 210.               |
 
   
 

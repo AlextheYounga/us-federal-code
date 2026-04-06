@@ -60,7 +60,7 @@ Sec.
 
 #### Part IV—Service-Learning Impact Study
 
-12565\. Study and report.
+12565\. Repealed.
 
         
 
