@@ -224,8 +224,6 @@ Chap. Sec.
 
 \[149. Transferred.\]
 
-\[150. Repealed.\]
-
 152\. Issue of Supplies, Services, and Facilities 2551
 
 153\. Exchange of Material and Disposal of Obsolete, Surplus, or Unclaimed Property 2571
@@ -280,7 +278,7 @@ Chap. Sec.
 
 223\. Other Provisions Relating to Planning and Solicitation Generally 3241
 
-225\. Planning and Solicitation Relating to Particular Items or Services 3271
+225\. Planning and Solicitation Relating to Particular Items or Services 5 3271
 
         
 
@@ -316,7 +314,7 @@ Chap. Sec.
 
 271\. Truthful Cost or Pricing Data (Truth in Negotiations) 3701
 
-272\. Other Provisions Relating to Cost or Pricing Data 3721
+272\. Other Provisions Relating to Cost or Pricing Data 5 3721
 
 273\. Allowable Costs 3741
 
@@ -330,7 +328,7 @@ Chap. Sec.
 
 283\. \[Reserved\]
 
-287\. Other Contracting Programs 3961 5
+287\. Other Contracting Programs 3961 6
 
         
 
@@ -340,7 +338,7 @@ Chap. Sec.
 
 303\. Research and Engineering Activities 4061
 
-305\. Universities 4131 6
+305\. Universities 4131 7
 
         
 
@@ -350,19 +348,19 @@ Chap. Sec.
 
 #### subpart f—major systems, major defense acquisition programs, and weapon systems development
 
-321\. General Matters 4201 7
+321\. General Matters 4201 8
 
         
 
-322\. Major Systems and Major Defense Acquisition Programs Generally 4211 7
+322\. Major Systems and Major Defense Acquisition Programs Generally 4211 8
 
-323\. Life-Cycle And Sustainment 4321 7
+323\. Life-Cycle And Sustainment 4321 8
 
-324\. Program Status—Selected Acquisition Reports 4350 7
+324\. Program Status—Selected Acquisition Reports 5 4350 8
 
-325\. Cost Growth—Unit Cost Reports (Nunn-McCurdy) 4371 7
+325\. Cost Growth—Unit Cost Reports (Nunn-McCurdy) 4371 8
 
-327\. Weapon Systems Development and Related Matters 4401 7
+327\. Weapon Systems Development and Related Matters 4401 8
 
         
 
@@ -560,8 +558,10 @@ Pub. L. 87–649, §3(2), Sept. 7, 1962, 76 Stat. 493, added item for chapter 40
 
 [4 So in original. The period probably should not appear.](#PARTIanalysis_4)
 
-[5 So in original. Probably should be "3901".](#PARTVanalysis_5)
+[5 Chapter heading amended by Pub. L. 117–81 without corresponding amendment of subtitle analysis.](#PARTVanalysis_5)
 
-[6 So in original. Probably should be "4141".](#PARTVanalysis_6)
+[6 So in original. Probably should be "3901".](#PARTVanalysis_6)
 
-[7 Editorially supplied.](#PARTVanalysis_7)
+[7 So in original. Probably should be "4141".](#PARTVanalysis_7)
+
+[8 Editorially supplied.](#PARTVanalysis_8)
