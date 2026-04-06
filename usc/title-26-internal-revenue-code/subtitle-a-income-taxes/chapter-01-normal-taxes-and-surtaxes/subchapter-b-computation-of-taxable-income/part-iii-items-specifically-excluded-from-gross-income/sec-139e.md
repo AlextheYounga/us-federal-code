@@ -48,7 +48,7 @@ Any items of cultural significance, reimbursement of costs, or cash honorarium f
 
   
 
-#### **Statutory Notes and Related Subsidiaries**
+#### **Editorial Notes**
 
 #### References in Text
 
