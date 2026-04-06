@@ -4,7 +4,7 @@
 
 Sections 1330 to 1336h were omitted as not of general application, and as covered by the Canal Zone Code. The Canal Zone Code was subsequently redesignated the Panama Canal Code by Pub. L. 96–70, §3303(b), and repealed by Pub. L. 104–201, §3549.
 
-Section 1330, act Aug. 24, 1912, ch. 390, 12, 37 Stat. 569, related to extradition of fugitives.
+Section 1330, act Aug. 24, 1912, ch. 390, §12, 37 Stat. 569, related to extradition of fugitives.
 
 Section 1330–1, act Dec. 16, 1941, ch. 580, §2, 55 Stat. 802, related to extradition to and from the United States.
 

@@ -4,7 +4,7 @@
 
 Sections 1344a to 1355 were omitted as not of general application, and as covered by the Canal Zone Code. The Canal Zone Code was subsequently redesignated the Panama Canal Code by Pub. L. 96–70, §3303(b), and repealed by Pub. L. 104–201, §3549.
 
-Section 1344a, acts Aug. 12, 1912, ch. 390, §8, 37 Stat. 565; Sept. 21, 1922, ch. 370, §2, 42 Stat. 1005; Feb. 16, 1933, ch. 91, §2, 47 Stat. 816, related to orders made when outside jurisdiction.
+Section 1344a, acts Aug. 24, 1912, ch. 390, §8, 37 Stat. 565; Sept. 21, 1922, ch. 370, §2, 42 Stat. 1005; Feb. 16, 1933, ch. 91, §2, 47 Stat. 816, related to orders made when outside jurisdiction.
 
 Section 1345, acts Aug. 24, 1912, ch. 390, §8, 37 Stat. 565; Sept. 21, 1922, ch. 370, §2, 42 Stat. 1005; Feb. 16, 1933, ch. 91, §2, 47 Stat. 815, related to general jurisdiction of district court.
 

@@ -11,7 +11,7 @@
 | 834\. | 34\. | Advice of staff judge advocate and reference for trial. |
 | 835\. | 35\. | Service of charges.                                     |
 
-1 So in original. Probably should be "830a."
+ 
 
 #### Amendment of Analysis
 
@@ -32,3 +32,5 @@ See 2016 Amendment note below.
 **2016**—Pub. L. 114–328, div. E, title LXIII, §5541(3), Dec. 23, 2016, 130 Stat. 2965, added item 830 relating to certain proceedings conducted before referral and substituted "Preliminary hearing required before referral to general court-martial" for "Preliminary hearing" in item 832, "Disposition guidance" for "Forwarding of charges" in item 833, "Advice to convening authority before referral for trial" for "Advice of staff judge advocate and reference for trial" in item 834, and "Service of charges; commencement of trial" for "Service of charges" in item 835.
 
 **2013**—Pub. L. 113–66, div. A, title XVII, §1702(a)(2), Dec. 26, 2013, 127 Stat. 955, substituted "Preliminary hearing" for "Investigation" in item 832.
+
+[1 So in original. Probably should be "830a."](#I_1)

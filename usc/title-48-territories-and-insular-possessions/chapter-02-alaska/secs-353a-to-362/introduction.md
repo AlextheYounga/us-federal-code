@@ -26,13 +26,13 @@ Section 357, acts May 17, 1906, ch. 2469, 34 Stat. 197; Aug. 2, 1956, ch. 891, �
 
 Section 357a, act May 17, 1906, ch. 2469, §2, as added Aug. 2, 1956, ch. 891, §1(e), 70 Stat. 954, which permitted allotments of land in national forests if the land was certified as chiefly valuable for agricultural or grazing uses, was transferred to section 270–2 of Title 43, and was subsequently repealed by Pub. L. 92–203, §18(a), Dec. 18, 1971, 85 Stat. 710.
 
-Section 357b, act May 27, 1906, ch. 2469, §2, as added Aug. 2, 1956, ch. 891, §1(e), 70 Stat. 954, which prohibited the making of an allotment unless the person made satisfactory proof of substantially continuous use and occupancy of the land for five years, was transferred to section 270–3 of Title 43, and was subsequently repealed by Pub. L. 92–203, §18(a), Dec. 18, 1971, 85 Stat. 710.
+Section 357b, act May 27, 1906, ch. 2469, §3, as added Aug. 2, 1956, ch. 891, §1(e), 70 Stat. 954, which prohibited the making of an allotment unless the person made satisfactory proof of substantially continuous use and occupancy of the land for five years, was transferred to section 270–3 of Title 43, and was subsequently repealed by Pub. L. 92–203, §18(a), Dec. 18, 1971, 85 Stat. 710.
 
 Section 358, act Mar. 3, 1891, ch. 561, §15, 26 Stat. 1101, which reserved the Annette Islands for the Metlakahtla Indians, was transferred to section 495 of Title 25, Indians, prior to omission from the Code as being of special and not general application.
 
 Section 358a, act May 1, 1936, ch. 254, §2, 49 Stat. 1250, which authorized the designation of land for the use of Indians or Eskimos, was transferred to section 496 of Title 25, and was subsequently repealed by Pub. L. 94–579, §704(a), Oct. 21, 1976, 90 Stat. 2792.
 
-Section 359, acts May 14, 1898, ch. 299, §10, 30 Stat. 413; Oct. 28, 1921, ch. 114, §1, 42 Stat. 208; Mar. 3, 1925, ch. 462, 43 Stat. 1144, which set out the requirements of filing, publishing, and posting of proofs needed for proving claims, as well as the form and use of the affidavits, was transferred to section 270–4 of Title 43, Public Lands, and was subsequently repealed by Pub. L. 94–579, title VII, §702, Oct. 21, 1976, 90 Stat. 2787.
+Section 359, acts May 14, 1898, ch. 299, §10, 30 Stat. 413; Oct. 28, 1921, ch. 114, §1, 42 Stat. 208; Mar. 3, 1925, ch. 462, 43 Stat. 1144, which set out the requirements of filing, publishing, and posting of proofs needed for proving claims, as well as the form and use of the affidavits, was transferred to section 270–4 of Title 43, Public Lands, and was subsequently repealed by Pub. L. 94–579, title VII, §703(b), Oct. 21, 1976, 90 Stat. 2789.
 
 Section 360, act July 3, 1926, ch. 745, §1, 44 Stat. 821, which authorized the leasing of land for the purpose of fur farming, was transferred to section 687c of Title 43.
 

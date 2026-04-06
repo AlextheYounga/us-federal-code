@@ -30,4 +30,4 @@ Section 516, act Jan. 14, 1903, ch. 186, §6, 32 Stat. 771, made unlawful circul
 
 Section 517, act Jan. 14, 1903, ch. 186, §7, 32 Stat. 771, limited redemption of Hawaiian silver certificates or silver coin to redemption in manner and upon conditions set for recoinage of Hawaiian silver.
 
-Section 518, act Apr. 30, 1900, ch. 3390, §105, as added July 9, 1921, ch. 42, §315, 42 Stat. 120, prohibited employment as a mechanic or laborer on any public work of persons not citizens of the United States or eligible for such citizenship.
+Section 518, act Apr. 30, 1900, ch. 339, §105, as added July 9, 1921, ch. 42, §315, 42 Stat. 120, prohibited employment as a mechanic or laborer on any public work of persons not citizens of the United States or eligible for such citizenship.

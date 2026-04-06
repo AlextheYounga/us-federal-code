@@ -64,6 +64,8 @@ The Secretary, acting through the Assistant Secretary, shall—
 
 (ii) is afforded an opportunity to comment on the merits of the application; and
 
+  
+
 (D) inform a State when any funds are awarded through such a grant to any entity within such State;
 
   
@@ -412,7 +414,7 @@ Subsec. (d)(7). Pub. L. 114–255, §6002(2)(E), substituted "use disorders, inc
 
 Subsec. (d)(8). Pub. L. 114–255, §6002(2)(F), substituted "Agency for Healthcare Research and Quality" for "Agency for Health Care Policy Research" and "prevention and treatment" for "treatment and prevention".
 
-Subsec. (d)(9). Pub. L. 114–255, §6002(2)(G), inserted "and maintenance" after "development" and substituted "Agency for Healthcare Research and Quality" for "Agency for Health Care Policy Research and "prevention, treatment, and recovery support services and are appropriately incorporated into programs carried out by the Administration" for "treatment and prevention services".
+Subsec. (d)(9). Pub. L. 114–255, §6002(2)(G), inserted "and maintenance" after "development" and substituted "Agency for Healthcare Research and Quality" for "Agency for Health Care Policy Research" and "prevention, treatment, and recovery support services and are appropriately incorporated into programs carried out by the Administration" for "treatment and prevention services".
 
 Subsec. (d)(10). Pub. L. 114–255, §6002(2)(H), substituted "use disorder" for "abuse".
 
