@@ -58,21 +58,79 @@ Chap. Sec.
 
 #### **Statutory Notes and Related Subsidiaries**
 
+#### Maritime Workforce Promotion and Recruitment
+
+Pub. L. 118–159, div. A, title V, §539A, Dec. 23, 2024, 138 Stat. 1890, provided that:
+
+"(a) Contract for Targeted Campaign.—Not later than one year after the date of the enactment of this Act \[Dec. 23, 2024\], the Secretary of the Navy, in coordination with the heads of such other Federal agencies as the Secretary determines appropriate, shall seek to enter into a contract with an entity described in subsection (b), through a competitive bidding process, for the establishment a targeted campaign to educate and recruit potential workers regarding careers in the maritime sector, including by—
+
+"(1) promoting maritime workforce in the United States including careers in the maritime industry afloat, including in the United States Merchant Marine, sailing in the Military Sealift Command, and related positions in the maritime sector; and
+
+"(2) promoting the United States shipbuilding industry and highlighting the critical need to attract skilled workers in the shipbuilding and related maritime sectors.
+
+"(b) Entity Described.—An entity described in this subsection is a reputable marketing, recruiting, and public relations firm with expertise in developing and deploying branding, content, advertising buys, and local and national engagement strategies.
+
+"(c) Campaign Objectives.—A contract entered into under subsection (a) shall provide that the campaign carried out pursuant to the contract shall—
+
+"(1) emphasize the importance of the maritime workforce for national security;
+
+"(2) showcase the numerous career opportunities available in the maritime domain;
+
+"(3) highlight the career opportunities in the maritime sector;
+
+"(4) promote the excitement, benefits, and appeal of a career in the maritime industry;
+
+"(5) inform potential workers of the points of entry available to join and receive training for such employment, including—
+
+"(A) the United States Merchant Marine Academy;
+
+"(B) State and regional maritime academies described in chapter 515 of title 46, United States Code;
+
+"(C) centers of excellence for domestic maritime workforce training and education designated under section 51706 of title 46, United States Code;
+
+"(D) the Military to Mariners Act \[of 2022\] (46 U.S.C. 7302 note);
+
+"(E) merchant mariner and shipbuilding labor union training facilities;
+
+"(F) merchant mariner and shipbuilding apprenticeship programs approved by the Secretary of Labor;
+
+"(G) shipbuilding industry training programs; and
+
+"(H) any other potential resources as identified by the Secretary of the Navy;
+
+"(6) inform potential workers of sources of financial assistance for training for individuals interested in joining such industry; and
+
+"(7) attract workers to the United States merchant marine, shipbuilding, and related sectors.
+
+"(d) Target Audience.—A contract entered into under subsection (a) shall provide that in carrying out the campaign carried out pursuant to the contract, the entity shall target a diverse audience, including—
+
+"(1) potential workers interested in maritime careers;
+
+"(2) educational institutions, including K-12 educational institutions and community colleges, and the students of such institutions considering vocational training in maritime fields;
+
+"(3) military veterans;
+
+"(4) individuals seeking career transitions; and
+
+"(5) the general public.
+
+"(e) Reporting and Accountability.—
+
+"(1) Quarterly report.—A contract entered into under subsection (a) shall provide that, not later than 30 days after the end of each quarter of each fiscal year during which a campaign is carried out pursuant to the contract, the entity carrying out the campaign, in consultation with the Secretary of the Navy and the heads of such other Federal agencies as the Secretary determines appropriate, shall submit to the relevant congressional committees quarterly reports detailing the progress, outreach, and effect of the campaign, including the effectiveness of such campaigns in increasing applications for employment in the United States Merchant Marine and shipbuilding sectors.
+
+"(2) Final report.—Not later than 180 days after the conclusion of a campaign carried out pursuant to a contract entered into under subsection (a), the entity carrying out the campaign, in consultation with the Secretary of the Navy and the heads of such other Federal agencies as the Secretary determines appropriate, shall submit to the relevant congressional committees a comprehensive final report on the campaign.
+
+"(f) Expiration of Available Funds.—No funds may be authorized to be appropriated or otherwise made available to carry out this section after the date that is three years after the date of the enactment of this Act \[Dec. 23, 2024\].
+
+"(g) Definition.—In this section, the term 'relevant congressional committees' means—
+
+"(1) the Committee on Appropriations, the Committee on Armed Services, and the Committee on Transportation and Infrastructure of the House of Representatives; and
+
+"(2) the Committee on Appropriations, the Committee on Armed Services, and the Committee on Commerce, Science, and Transportation of the Senate."
+
 #### Authorization To Pay a Living Quarters Allowance for Department of the Navy Civilian Employees Assigned to Permanent Duty in Guam for Performing Work, or Supporting Work Being Performed, Aboard or Dockside, of U.S. Naval Vessels
 
-Pub. L. 118–31, div. A, title XI, §1102, Dec. 22, 2023, 137 Stat. 426, provided that:
-
-"(a) Allowance.—When Government owned or rented quarters are not otherwise provided without charge to a covered employee, the Secretary of the Navy may grant to a covered employee one or more of the following allowances:
-
-"(1) A living quarters allowance for rent, heat, light, fuel, gas, electricity, and water. The Secretary is authorized to pay such allowance by reimbursement or by advance payments.
-
-"(2) Under unusual circumstances, as determined by the Secretary, payment or reimbursement for extraordinary, necessary, and reasonable expenses, not otherwise compensated for, incurred in initial repairs, alterations, and improvements to the privately leased residence in Guam of a covered employee—
-
-"(A) the expenses are administratively approved in advance; and
-
-"(B) the duration and terms of the lease justify payment of the expenses by the Government.
-
-"(b) Covered Employee Defined.—In this section, the term 'covered employee' means any civilian employee of the Department of the Navy who is assigned to permanent duty in Guam for performing work or supporting work being performed, aboard or dockside, of U.S. naval vessels."
+Pub. L. 118–31, div. A, title XI, §1102, Dec. 22, 2023, 137 Stat. 426, as amended by Pub. L. 118–159, div. A, title XI, §1103, Dec. 23, 2024, 138 Stat. 2087, which authorized provision of living quarters allowance for certain civilian employees in Guam, was editorially transferred and is set out as a note preceding section 1580 of this title.
 
 #### Suspension of Certain Sections of Title 10 and Amendments to Officer Personnel Act of 1947
 

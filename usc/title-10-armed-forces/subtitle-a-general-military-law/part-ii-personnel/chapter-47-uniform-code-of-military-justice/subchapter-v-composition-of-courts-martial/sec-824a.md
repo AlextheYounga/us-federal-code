@@ -52,7 +52,7 @@
 
 (1) Offenses occurring before effective date.—A special trial counsel may, at the sole and exclusive discretion of the special trial counsel, exercise authority over the following offenses:
 
-(A) An offense under section 917a (article 117a), 918 (article 118), section 919 (article 119), section 920 (article 120), section 920b (article 120b), section 920c (article 120c), section 928b (article 128b), or the standalone offense of child pornography punishable under section 934 (article 134) of this title that occurred on or before December 27, 2023.
+(A) An offense under section 917a (article 117a), 918 (article 118), section 919 (article 119), section 919a (article 119a), section 920 (article 120), section 920a (article 120a), section 920b (article 120b), section 920c (article 120c), section 928b (article 128b), or the standalone offense of child pornography punishable under section 934 (article 134) of this title that occurred on or before December 27, 2023.
 
 (B) An offense under section 925 (article 125), section 930 (article 130), or section 932 (article 132) of this title that occurred on or after January 1, 2019, and before December 28, 2023.
 
@@ -66,19 +66,45 @@
 
   
 
-(2) Effect of exercise of authority.—
+(2) The standalone offense of sexual harassment.—After January 1, 2025, a special trial counsel may, at the sole and exclusive discretion of the special trial counsel, exercise authority over the following offenses:
 
-(A) Treatment as covered offense.—If a special trial counsel exercises authority over an offense pursuant to paragraph (1), the offense over which the special trial counsel exercises authority shall be considered a covered offense for purposes of this chapter.
+(A) The standalone offense of sexual harassment punishable under section 934 of this title (article 134) in each instance in which—
 
-(B) Known or related offenses.—If a special trial counsel exercises authority over an offense pursuant to paragraph (1), the special trial counsel may exercise the authority of the special trial counsel under subparagraph (B) of subsection (c)(2) with respect to other offenses described in that subparagraph without regard to the date on which the other offenses occur.
+(i) the offense occurs after January 26, 2022, and on or before January 1, 2025; and
 
-(Added Pub. L. 117–81, div. A, title V, §531(a), Dec. 27, 2021, 135 Stat. 1692; amended Pub. L. 117–263, div. A, title V, §542(a), Dec. 23, 2022, 136 Stat. 2581; Pub. L. 118–31, div. A, title V, §531(c)(1), Dec. 22, 2023, 137 Stat. 258.)
+(ii) a formal complaint is substantiated in accordance with regulations prescribed by the Secretary concerned.
+
+  
+
+(B) A conspiracy to commit an offense specified in subparagraph (A) as punishable under section 881 of this title (article 81).
+
+(C) A solicitation to commit an offense specified in subparagraph (A) as punishable under section 882 of this title (article 82).
+
+(D) An attempt to commit an offense specified in subparagraph (A), (B), or (C) as punishable under section 880 of this title (article 80).
+
+  
+
+(3) Effect of exercise of authority.—
+
+(A) Treatment as covered offense.—If a special trial counsel exercises authority over an offense pursuant to paragraph (1) or (2), the offense over which the special trial counsel exercises authority shall be considered a covered offense for purposes of this chapter.
+
+(B) Known or related offenses.—If a special trial counsel exercises authority over an offense pursuant to subsection (c)(2)(A) or paragraph (1) or (2) of this subsection, the special trial counsel may exercise the authority of the special trial counsel under subparagraph (B) of subsection (c)(2) with respect to other offenses described in that subparagraph without regard to the date on which the other offenses occur.
+
+(Added Pub. L. 117–81, div. A, title V, §531(a), Dec. 27, 2021, 135 Stat. 1692; amended Pub. L. 117–263, div. A, title V, §542(a), Dec. 23, 2022, 136 Stat. 2581; Pub. L. 118–31, div. A, title V, §531(c)(1), Dec. 22, 2023, 137 Stat. 258; Pub. L. 118–159, div. A, title V, §562, Dec. 23, 2024, 138 Stat. 1903.)
 
   
 
 #### **Editorial Notes**
 
 #### Amendments
+
+**2024**—Subsec. (d)(1)(A). Pub. L. 118–159, §562(1), substituted "section 919a (article 119a), section 920 (article 120), section 920a (article 120a)," for "section 920 (article 120),".
+
+Subsec. (d)(2), (3). Pub. L. 118–159, §562(2), (3), added par. (2) and redesignated former par. (2) as (3).
+
+Subsec. (d)(3)(A). Pub. L. 118–159, §562(4)(A), inserted "or (2)" after "paragraph (1)".
+
+Subsec. (d)(3)(B). Pub. L. 118–159, §562(4)(B), substituted "subsection (c)(2)(A) or paragraph (1) or (2) of this subsection" for "paragraph (1)".
 
 **2023**—Subsec. (d). Pub. L. 118–31 added subsec. (d).
 

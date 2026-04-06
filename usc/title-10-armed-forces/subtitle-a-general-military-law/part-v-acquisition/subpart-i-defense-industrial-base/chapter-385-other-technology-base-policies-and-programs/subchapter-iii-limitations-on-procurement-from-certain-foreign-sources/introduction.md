@@ -104,7 +104,7 @@ Pub. L. 114–328, div. A, title VIII, §899A(a)–(e), Dec. 23, 2016, 130 Stat.
 
 #### Prohibition on Contracting With the Enemy
 
-Pub. L. 113–291, div. A, title VIII, subtitle E, Dec. 19, 2014, 128 Stat. 3450, as amended by Pub. L. 115–232, div. A, title VIII, §872, title XII, §1251(b)(2), Aug. 13, 2018, 132 Stat. 1905, 2053; Pub. L. 116–92, div. A, title VIII, §822, Dec. 20, 2019, 133 Stat. 1490, as amended by Pub. L. 116–283, div. A, title X, §1081(c)(3), Jan. 1, 2021, 134 Stat. 3873; Pub. L. 117–263, div. A, title VIII, §820, Dec. 23, 2022, 136 Stat. 2709; Pub. L. 118–31, div. A, title VIII, §823(a)–(c), Dec. 22, 2023, 137 Stat. 327–331, provided that:
+Pub. L. 113–291, div. A, title VIII, subtitle E, Dec. 19, 2014, 128 Stat. 3450, as amended by Pub. L. 115–232, div. A, title VIII, §872, title XII, §1251(b)(2), Aug. 13, 2018, 132 Stat. 1905, 2053; Pub. L. 116–92, div. A, title VIII, §822, Dec. 20, 2019, 133 Stat. 1490, as amended by Pub. L. 116–283, div. A, title X, §1081(c)(3), Jan. 1, 2021, 134 Stat. 3873; Pub. L. 117–263, div. A, title VIII, §820, Dec. 23, 2022, 136 Stat. 2709; Pub. L. 118–31, div. A, title VIII, §823(a)–(c), Dec. 22, 2023, 137 Stat. 327–331; Pub. L. 118–159, div. A, title XVII, §1701(e), Dec. 23, 2024, 138 Stat. 2207, provided that:
 
 #### "SEC. 841. THREAT MITIGATION IN COMMERCIAL SUPPORT TO OPERATIONS.
 
@@ -216,19 +216,7 @@ Pub. L. 113–291, div. A, title VIII, subtitle E, Dec. 19, 2014, 128 Stat. 3450
 
 "(3) Covered person or entity.—The term 'covered person or entity' means any person, corporation, company, limited liability company, limited partnership, business trust, business association, or other similar entity outside of the United States or any foreign reporting company in accordance with section 5336(a)(11)(A)(ii) of title 31, United States Code, that is responding to a covered solicitation or performing work on a covered contract, grant, or cooperative agreement.
 
-"(4) Covered combatant command.—The term 'covered combatant command' means the following:
-
-"(A) The United States Africa Command.
-
-"(B) The United States Central Command.
-
-"(C) The United States European Command.
-
-"(D) United States Indo-Pacific Command.
-
-"(E) The United States Southern Command.
-
-"(F) The United States Transportation Command.
+"\[(4) Repealed. Pub. L. 118–159, div. A, title XVII, §1701(e), Dec. 23, 2024, 138 Stat. 2207.\]
 
 "(5) Covered procurement action.—The term 'covered procurement action' means an action taken by a head of contracting activity to—
 

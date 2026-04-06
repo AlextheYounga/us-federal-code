@@ -8,13 +8,15 @@ Sec.
 
 7375\. Production of supplies and munitions: hours and pay of laborers and mechanics.
 
-7377\. Civilian special agents of the Criminal Investigation Command: authority to execute warrants and make arrests.
+7377\. Certain civilian special agents: authority to execute warrants and make arrests.
 
         
 
 #### **Editorial Notes**
 
 #### Amendments
+
+**2024**—Pub. L. 118–159, div. A, title XVI, §1613(a)(1), Dec. 23, 2024, 138 Stat. 2168, substituted "Certain civilian special agents:" for "Civilian special agents of the Criminal Investigation Command:" in item 7377. Amendment was made pursuant to operation of section 102 of this title.
 
 **2018**—Pub. L. 115–232, div. A, title VIII, §808(e)(2)(B), (f)(1), Aug. 13, 2018, 132 Stat. 1839, redesignated chapter 373 of this title as this chapter and items 4021, 4024, 4025, and 4027 as 7371, 7374, 7375, and 7377, respectively.
 

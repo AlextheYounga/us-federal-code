@@ -6,7 +6,19 @@
 
 (1) Data on the number and status of pending cases.
 
-(2) Information on the appellate review process, including—
+(2) Data on the number and status of completed cases, including—
+
+(A) information on race, ethnicity, rank, and sex demographic for the victim and the accused;
+
+(B) the enumerated offenses preferred and referred;
+
+(C) the types of court-martial; and
+
+(D) the results for each case, including cases that resulted in nonjudicial punishment or administrative separation.
+
+  
+
+(3) Information on the appellate review process, including—
 
 (A) information on compliance with processing time goals;
 
@@ -18,7 +30,7 @@
 
   
 
-(3)(A) An explanation of measures implemented by the armed force concerned to ensure the ability of judge advocates—
+(4)(A) An explanation of measures implemented by the armed force concerned to ensure the ability of judge advocates—
 
 (i) to participate competently as trial counsel and defense counsel in cases under this chapter;
 
@@ -30,9 +42,9 @@
 
 (B) The explanation under subparagraph (A) shall specifically identify the measures that focus on capital cases, national security cases, sexual assault cases, and proceedings of military commissions.
 
-(4) The independent views of each Judge Advocate General and of the Staff Judge Advocate to the Commandant of the Marine Corps as to the sufficiency of resources available within the respective armed forces, including total workforce, funding, training, and officer and enlisted grade structure, to capably perform military justice functions.
+(5) The independent views of each Judge Advocate General and of the Staff Judge Advocate to the Commandant of the Marine Corps as to the sufficiency of resources available within the respective armed forces, including total workforce, funding, training, and officer and enlisted grade structure, to capably perform military justice functions.
 
-(5) Such other matters regarding the operation of this chapter as may be appropriate.
+(6) Such other matters regarding the operation of this chapter as may be appropriate.
 
   
 
@@ -42,13 +54,15 @@
 
 (2) to the Secretary of Defense, the Secretaries of the military departments, and the Secretary of the department in which the Coast Guard is operating when it is not operating as a service in the Navy.
 
-(Added Pub. L. 114–328, div. E, title LXII, §5522, Dec. 23, 2016, 130 Stat. 2964; amended Pub. L. 116–283, div. A, title V, §542(d), Jan. 1, 2021, 134 Stat. 3612.)
+(Added Pub. L. 114–328, div. E, title LXII, §5522, Dec. 23, 2016, 130 Stat. 2964; amended Pub. L. 116–283, div. A, title V, §542(d), Jan. 1, 2021, 134 Stat. 3612; Pub. L. 118–159, div. A, title V, §566(a), Dec. 23, 2024, 138 Stat. 1904.)
 
   
 
 #### **Editorial Notes**
 
 #### Amendments
+
+**2024**—Subsec. (b)(2) to (6). Pub. L. 118–159, §566(a), added par. (2) and redesignated former pars. (2) to (5) as (3) to (6), respectively.
 
 **2021**—Subsec. (b)(2)(D). Pub. L. 116–283 added subpar. (D).
 

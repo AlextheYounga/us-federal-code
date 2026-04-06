@@ -14,6 +14,8 @@ Sec.
 
 2114\. Students: selection; status; obligation.
 
+2114a. Eligibility of members of foreign militaries to enroll in the University.
+
 2115\. Graduates: limitation on number permitted to perform civilian Federal service.
 
 2116\. Military nursing research.
@@ -25,6 +27,8 @@ Sec.
 #### **Editorial Notes**
 
 #### Amendments
+
+**2024**—Pub. L. 118–159, div. A, title V, §553, Dec. 23, 2024, 138 Stat. 1894, added item 2114a. Amendment was made pursuant to operation of section 102 of this title.
 
 **2019**—Pub. L. 116–92, div. A, title VII, §734(b), Dec. 20, 2019, 133 Stat. 1462, added item 2113b.
 

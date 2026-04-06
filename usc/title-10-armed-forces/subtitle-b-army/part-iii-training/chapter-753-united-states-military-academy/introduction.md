@@ -36,7 +36,7 @@ Sec.
 
 7447\. Cadets; nominees: effect of redistricting of States.
 
-7448\. Cadets: agreement to serve as officer.
+7448\. Cadets: service obligation.
 
 7449\. Cadets: organization of Corps; service; instruction.
 
@@ -71,6 +71,8 @@ Sec.
 #### **Editorial Notes**
 
 #### Amendments
+
+**2024**—Pub. L. 118–159, div. A, title V, §557(a)(1), Dec. 23, 2024, 138 Stat. 1896, substituted "service obligation" for "agreement to serve as officer" in item 7448. Amendment was made pursuant to operation of section 102 of this title.
 
 **2021**—Pub. L. 117–81, div. A, title V, §553(a)(2), Dec. 27, 2021, 135 Stat. 1736, added item 7442a.
 

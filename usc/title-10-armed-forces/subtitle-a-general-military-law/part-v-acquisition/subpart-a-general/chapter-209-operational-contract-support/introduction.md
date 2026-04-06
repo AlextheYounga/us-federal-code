@@ -52,12 +52,4 @@ Pub. L. 112–239, div. A, title VIII, §843, Jan. 2, 2013, 126 Stat. 1845, prov
 
 #### Competition and Review of Contracts for Property or Services in Support of a Contingency Operation
 
-Pub. L. 112–81, div. A, title VIII, §844(a), (b), Dec. 31, 2011, 125 Stat. 1515, provided that:
-
-"(a) Contracting Goals.—Not later than 90 days after the date of the enactment of this Act \[Dec. 31, 2011\], the Secretary of Defense shall—
-
-"(1) establish goals for competition in contracts awarded by the Secretary of Defense for the procurement of property or services to be used outside the United States in support of a contingency operation; and
-
-"(2) develop processes by which to measure and monitor such competition, including in task-order categories for services, construction, and supplies.
-
-"(b) Annual Review of Certain Contracts.—For each year the Logistics Civil Augmentation Program contract, or other similar omnibus contract awarded by the Secretary of Defense for the procurement of property or services to be used outside the United States in support of a contingency operation, is in force, the Secretary shall require a competition advocate of the Department of Defense to conduct an annual review of each such contract."
+Pub. L. 112–81, div. A, title VIII, §844(a), (b), Dec. 31, 2011, 125 Stat. 1515, which authorized the Secretary of Defense to establish goals for competition in contracts for procurement of property or services to be used outside the United States in support of a contingency operation and to develop processes to measure and monitor such competition and required annual review of such contracts, was repealed by Pub. L. 118–159, div. A, title VIII, §811(a)(2)(A), Dec. 23, 2024, 138 Stat. 1979.

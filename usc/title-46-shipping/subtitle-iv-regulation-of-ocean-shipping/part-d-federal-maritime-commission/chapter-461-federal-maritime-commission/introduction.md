@@ -12,7 +12,7 @@ Sec.
 
 46105\. Regulations.
 
-46106\. Annual report.
+46106\. Annual report and public disclosure.
 
 46107\. Expenditures.
 
@@ -23,6 +23,8 @@ Sec.
 #### **Editorial Notes**
 
 #### Amendments
+
+**2024**—Pub. L. 118–159, div. C, title XXXV, §3535(j)(2), Dec. 23, 2024, 138 Stat. 2315, substituted "Annual report and public disclosure" for "Annual report" in item 46106.
 
 **2021**—Pub. L. 116–283, div. G, title LVXXXVI \[LXXXVI\], §8605(b)(6), Jan. 1, 2021, 134 Stat. 4765, which directed the general amendment of the analysis for this chapter "as so redesignated" by section 8605(a)(2) of Pub. L. 116–283 (see note below) by setting out only new items 46101 to 46108 with no chapter heading, was executed by substituting items 46101 to 46108 for former items 301 to 308 and not including the redesignated chapter heading, to reflect the probable intent of Congress and the separate enactment of the heading for this chapter by section 8605(a)(1) of Pub. L. 116–283.
 

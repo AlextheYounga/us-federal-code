@@ -16,11 +16,15 @@ Sec.
 
 8047\. Legislative Assistant to the Commandant.
 
+8048\. Medical Officer of the Marine Corps.
+
         
 
 #### **Editorial Notes**
 
 #### Amendments
+
+**2024**—Pub. L. 118–159, div. A, title V, §509B(a)(2), Dec. 23, 2024, 138 Stat. 1872, added item 8048.
 
 **2018**—Pub. L. 115–232, div. A, title VIII, §807(e)(1), (f)(1), Aug. 13, 2018, 132 Stat. 1837, 1838, redesignated chapter 506 of this title as this chapter and items 5041 to 5047 as 8041 to 8047, respectively.
 

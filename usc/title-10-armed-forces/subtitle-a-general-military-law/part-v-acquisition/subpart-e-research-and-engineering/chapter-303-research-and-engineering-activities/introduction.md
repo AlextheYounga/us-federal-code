@@ -24,7 +24,7 @@ Sec.
 
 4091\. Authorities for certain positions at science and technology reinvention laboratories.
 
-4092\. Personnel management authority to attract experts in science and engineering.
+4092\. Personnel management authority to attract experts in science, engineering, and certain other disciplines.
 
 4093\. Science, Mathematics, and Research for Transformation (SMART) Defense Education Program.
 
@@ -46,11 +46,15 @@ Sec.
 
 4126\. Use of federally funded research and development centers.
 
-4127\. Defense innovation unit. 1
+4127\. Defense Innovation Unit.
+
+4128\. 1 . Laboratory Quality Enhancement Program.
 
         
 
-  
+4128\. 1 Joint Federated Assurance Center.
+
+        
 
 #### **Editorial Notes**
 
@@ -62,6 +66,8 @@ A prior chapter 303 was renumbered chapter 703 of this title.
 
 #### Amendments
 
+**2024**—Pub. L. 118–159, div. A, title II, §§216(1), 217(a), title IX, §922(a), title XVII, §1701(a)(43), Dec. 23, 2024, 138 Stat. 1825, 2037, 2206, substituted "science, engineering, and certain other disciplines" for "science and engineering" in item 4092 and "Defense Innovation Unit" for "Defense innovation unit" in item 4127 and added two items 4128. Amendments were made pursuant to operation of section 102 of this title.
+
 **2023**—Pub. L. 118–31, div. A, title IX, §913(a)(1), title XVIII, §1801(a)(32), Dec. 22, 2023, 137 Stat. 365, 685, struck out identical second item 4094 "Enhanced pay authority for certain research and technology positions in science and technology reinvention laboratories" and added item 4127. Amendments were made pursuant to section 102 of this title.
 
 **2022**—Pub. L. 117–263, div. A, title XI, §1106(b), Dec. 23, 2022, 136 Stat. 2818, added identical second item 4094 "Enhanced pay authority for certain research and technology positions in science and technology reinvention laboratories" after item 4093.
@@ -70,4 +76,4 @@ A prior chapter 303 was renumbered chapter 703 of this title.
 
 Pub. L. 117–81, div. A, title XVII, §1701(u)(3)(A), Dec. 27, 2021, 135 Stat. 2152, amended Pub. L. 116–283, div. A, title XVIII, §1842(a), Jan. 1, 2021, 134 Stat. 4244, which added this analysis, by substituting chapter heading, items for subchapters I to III, and items 4061 to 4067, 4091 to 4093, and 4121 to 4126 for former chapter heading "INNOVATION" and items 4061 to 4066.
 
-[1 So in original. Probably should be "Defense Innovation Unit."](#CHAPTER303_1)
+[1 So in original. Two sections 4128 have been enacted.](#CHAPTER303_1)

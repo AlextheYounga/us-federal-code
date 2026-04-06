@@ -1,0 +1,3 @@
+### \[§225. Repealed. Pub. L. 118–159, div. A, title XVI, §1649(b)(1), Dec. 23, 2024, 138 Stat. 2199\]
+
+Section, added Pub. L. 112–81, div. A, title II, §231(a)(1), Dec. 31, 2011, 125 Stat. 1337; amended Pub. L. 113–66, div. A, title II, §231(b), Dec. 26, 2013, 127 Stat. 711; Pub. L. 117–263, div. A, title XVI, §1652, Dec. 23, 2022, 136 Stat. 2948, provided for acquisition accountability reports on the ballistic missile defense system. See section 5514 of this title.

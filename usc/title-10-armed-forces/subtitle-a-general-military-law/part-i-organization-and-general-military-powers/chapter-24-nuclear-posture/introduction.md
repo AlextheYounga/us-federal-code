@@ -6,7 +6,7 @@ Sec.
 
 492\. Biennial assessment and report on the delivery platforms for nuclear weapons and the nuclear command and control system.
 
-492a. Annual report on the plan for the nuclear weapons stockpile, nuclear weapons complex, nuclear weapons delivery systems, and nuclear weapons command and control system.
+492a. Biennial report on the plan for the nuclear weapons stockpile, nuclear weapons complex, nuclear weapons delivery systems, and nuclear weapons command and control system.
 
 492b. Biannual briefing on nuclear weapons and related activities.
 
@@ -39,6 +39,8 @@ Sec.
 #### **Editorial Notes**
 
 #### Amendments
+
+**2024**—Pub. L. 118–159, div. A, title XVI, §1624(1), Dec. 23, 2024, 138 Stat. 2173, substituted "Biennial" for "Annual" in item 492a. Amendment was made pursuant to operation of section 102 of this title.
 
 **2022**—Pub. L. 117–263, div. A, title XVI, §§1631, 1632, 1634(a), Dec. 23, 2022, 136 Stat. 2934, 2938, added items 492b, 493a, and 499c.
 

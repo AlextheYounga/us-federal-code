@@ -18,15 +18,19 @@ Sec.
 
 2922g. Preference for motor vehicles using electric or hybrid propulsion systems; purchase or lease of certain electric and other vehicles.
 
-2922h. Limitation on procurement of drop-in fuels.
+\[2922h. Repealed.\]
 
 2922i. Multiyear contracts: purchase of electricity from renewable energy sources.
+
+2922j. Annual report on purchase of drop-in fuel.
 
         
 
 #### **Editorial Notes**
 
 #### Amendments
+
+**2024**—Pub. L. 118–159, div. A, title III, §315, Dec. 23, 2024, 138 Stat. 1851, added item 2922j and struck out item 2922h "Limitation on procurement of drop-in fuels". Amendments were made pursuant to operation of section 102 of this title.
 
 **2022**—Pub. L. 117–263, div. A, title III, §317(b), Dec. 23, 2022, 136 Stat. 2507, added item 2922g and struck out former item 2922g "Preference for motor vehicles using electric or hybrid propulsion systems".
 

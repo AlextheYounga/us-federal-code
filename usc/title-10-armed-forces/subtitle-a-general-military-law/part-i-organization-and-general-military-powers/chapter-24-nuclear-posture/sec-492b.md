@@ -6,7 +6,7 @@
 
 (1) The Assistant Secretary of Defense for Acquisition.
 
-(2) The Assistant Secretary of Defense for Nuclear, Chemical, and Biological Defense Programs.
+(2) The Assistant Secretary of Defense for Nuclear Deterrence, Chemical, and Biological Defense Policy and Programs.
 
 (3) The Assistant Secretary of Defense for Space Policy.
 
@@ -22,7 +22,7 @@
 
 (d) Termination.—The requirement to provide a briefing under subsection (a) shall terminate on January 1, 2028.
 
-(Added Pub. L. 117–263, div. A, title XVI, §1631, Dec. 23, 2022, 136 Stat. 2934.)
+(Added Pub. L. 117–263, div. A, title XVI, §1631, Dec. 23, 2022, 136 Stat. 2934; amended Pub. L. 118–159, div. A, title XVI, §1621(d)(2), Dec. 23, 2024, 138 Stat. 2171.)
 
   
 
@@ -31,3 +31,7 @@
 #### Codification
 
 As enacted by Pub. L. 117–263, "SEC." preceding section designation and catchline text were editorially conformed to the style used in this title.
+
+#### Amendments
+
+**2024**—Subsec. (b)(2). Pub. L. 118–159 substituted "Nuclear Deterrence, Chemical, and Biological Defense Policy and Programs" for "Nuclear, Chemical, and Biological Defense Programs".

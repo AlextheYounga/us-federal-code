@@ -56,22 +56,4 @@ Pub. L. 111–383, div. A, title VIII, §812, Jan. 7, 2011, 124 Stat. 4264, as a
 
 #### Congressional Notification of Cancellation of Major Automated Information Systems
 
-Pub. L. 109–163, div. A, title VIII, §806, Jan. 6, 2006, 119 Stat. 3373, provided that:
-
-"(a) Report Required.—The Secretary of Defense shall notify the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] not less than 60 days before cancelling a major automated information system program that has been fielded or approved to be fielded, or making a change that will significantly reduce the scope of such a program, of the proposed cancellation or change.
-
-"(b) Content.—Each notification submitted under subsection (a) with respect to a proposed cancellation or change shall include—
-
-"(1) the specific justification for the proposed cancellation or change;
-
-"(2) a description of the impact of the proposed cancellation or change on the ability of the Department to achieve the objectives of the program proposed for cancellation or change;
-
-"(3) a description of the steps that the Department plans to take to achieve those objectives; and
-
-"(4) other information relevant to the change in acquisition strategy.
-
-"(c) Definitions.—In this section:
-
-"(1) The term 'major automated information system' has the meaning given that term in Department of Defense directive 5000.1.
-
-"(2) The term 'approved to be fielded' means having received Milestone C approval."
+Pub. L. 109–163, div. A, title VIII, §806, Jan. 6, 2006, 119 Stat. 3373, which required notification to the Committees on Armed Services and Appropriations of the Senate and the House of Representatives prior to cancellation of a major automated information system program that had been fielded or approved to be fielded or making a change that would significantly reduce the scope of such a program, was repealed by Pub. L. 118–159, div. A, title XVII, §1701(g), Dec. 23, 2025, 138 Stat. 2207.

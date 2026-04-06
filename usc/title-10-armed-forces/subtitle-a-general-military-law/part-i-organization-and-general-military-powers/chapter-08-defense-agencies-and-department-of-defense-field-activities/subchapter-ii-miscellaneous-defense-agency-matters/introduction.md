@@ -10,13 +10,15 @@ Sec.
 
         
 
-205\. Missile Defense Agency.
+\[205. Repealed.\]
 
         
 
 #### **Editorial Notes**
 
 #### Amendments
+
+**2024**—Pub. L. 118–159, div. A, title XVI, §1649(b)(1), Dec. 23, 2024, 138 Stat. 2199, struck out item 205 "Missile Defense Agency". Amendment was made pursuant to operation of section 102 of this title.
 
 **2017**—Pub. L. 115–91, div. A, title XVI, §1676(c)(2), Dec. 12, 2017, 131 Stat. 1773, added item 205.
 

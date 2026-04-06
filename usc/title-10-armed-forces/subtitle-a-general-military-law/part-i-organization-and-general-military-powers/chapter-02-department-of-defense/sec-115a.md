@@ -1,6 +1,6 @@
 ### §115a. Annual defense manpower profile report and related reports
 
-(a) Not later than April 1 each year, the Secretary of Defense shall submit to Congress a defense manpower profile report. The report shall contain the Secretary's recommendations for—
+(a) Not later than April 1 each year, the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and the House of Representatives, and furnish to any Member of Congress upon request, a defense manpower profile report. The report shall contain the Secretary's recommendations for—
 
 (1) the annual active-duty end-strength level for each component of the armed forces for the next fiscal year; and
 
@@ -8,7 +8,19 @@
 
   
 
-(b) The Secretary shall include in each report under subsection (a) justification for the strength levels recommended and an explanation of the relationship between the personnel strength levels recommended for that fiscal year and the national security policies of the United States in effect at the time.
+(b)(1) The Secretary shall include in each report under subsection (a) justification for the strength levels recommended and an explanation of the relationship between the personnel strength levels recommended for that fiscal year and the national security policies of the United States in effect at the time.
+
+(2) The justification and explanation required by paragraph (1) shall include the following:
+
+(A) An explanation of how personnel end strength level requests address threats described in the national defense strategy under section 113(g) of this title.
+
+(B) The rationale for recommended increases or decreases in active, reserve, and civilian personnel for each component of the Department of Defense.
+
+(C) The actual end strength number for each armed force for the prior fiscal year, compared to authorized end strength levels.
+
+(D) The shortfall in recruiting by each armed force as a percentage, as the Secretary determines appropriate.
+
+  
 
 (c) The Secretary shall include in each report under subsection (a) a detailed discussion of the manpower required for support and overhead functions within the armed forces and the Department of Defense.
 
@@ -86,7 +98,7 @@
 
 (3) The number of such members naturalized.
 
-(Added Pub. L. 101–510, div. A, title XIV, §1483(a), Nov. 5, 1990, 104 Stat. 1711; amended Pub. L. 102–190, div. A, title X, §1061(a)(1), Dec. 5, 1991, 105 Stat. 1472; Pub. L. 104–106, div. A, title V, §513(e), title X, §1061(d), Feb. 10, 1996, 110 Stat. 307, 442; Pub. L. 105–85, div. A, title V, §522(i)(2), Nov. 18, 1997, 111 Stat. 1736; Pub. L. 105–261, div. A, title IV, §403, Oct. 17, 1998, 112 Stat. 1996; Pub. L. 111–84, div. A, title XI, §1109(b)(1)–(2)(B)(i), Oct. 28, 2009, 123 Stat. 2492, 2493; Pub. L. 112–81, div. A, title IX, §934, Dec. 31, 2011, 125 Stat. 1544; Pub. L. 112–239, div. A, title V, §519(b), Jan. 2, 2013, 126 Stat. 1721; Pub. L. 115–91, div. A, title X, §1051(a)(2), Dec. 12, 2017, 131 Stat. 1560; Pub. L. 115–232, div. A, title V, §591, Aug. 13, 2018, 132 Stat. 1788; Pub. L. 116–92, div. A, title XVII, §1701(a)–(c)(1), Dec. 20, 2019, 133 Stat. 1794, 1795; Pub. L. 116–283, div. A, title V, §551(a)(4), Jan. 1, 2021, 134 Stat. 3629; Pub. L. 117–263, div. A, title V, §591, Dec. 23, 2022, 136 Stat. 2611; Pub. L. 118–31, div. A, title XVII, §1722(a)(1), Dec. 22, 2023, 137 Stat. 667.)
+(Added Pub. L. 101–510, div. A, title XIV, §1483(a), Nov. 5, 1990, 104 Stat. 1711; amended Pub. L. 102–190, div. A, title X, §1061(a)(1), Dec. 5, 1991, 105 Stat. 1472; Pub. L. 104–106, div. A, title V, §513(e), title X, §1061(d), Feb. 10, 1996, 110 Stat. 307, 442; Pub. L. 105–85, div. A, title V, §522(i)(2), Nov. 18, 1997, 111 Stat. 1736; Pub. L. 105–261, div. A, title IV, §403, Oct. 17, 1998, 112 Stat. 1996; Pub. L. 111–84, div. A, title XI, §1109(b)(1)–(2)(B)(i), Oct. 28, 2009, 123 Stat. 2492, 2493; Pub. L. 112–81, div. A, title IX, §934, Dec. 31, 2011, 125 Stat. 1544; Pub. L. 112–239, div. A, title V, §519(b), Jan. 2, 2013, 126 Stat. 1721; Pub. L. 115–91, div. A, title X, §1051(a)(2), Dec. 12, 2017, 131 Stat. 1560; Pub. L. 115–232, div. A, title V, §591, Aug. 13, 2018, 132 Stat. 1788; Pub. L. 116–92, div. A, title XVII, §1701(a)–(c)(1), Dec. 20, 2019, 133 Stat. 1794, 1795; Pub. L. 116–283, div. A, title V, §551(a)(4), Jan. 1, 2021, 134 Stat. 3629; Pub. L. 117–263, div. A, title V, §591, Dec. 23, 2022, 136 Stat. 2611; Pub. L. 118–31, div. A, title XVII, §1722(a)(1), Dec. 22, 2023, 137 Stat. 667; Pub. L. 118–159, div. A, title IV, §431, Dec. 23, 2024, 138 Stat. 1865.)
 
   
 
@@ -101,6 +113,10 @@ Section 1111(b)(2) of the Duncan Hunter National Defense Authorization Act for F
 Provisions similar to those in this section were contained in section 115(b)(1)(D), (3), (c)(2) of this title, prior to repeal by Pub. L. 101–510, §1483(a).
 
 #### Amendments
+
+**2024**—Subsec. (a). Pub. L. 118–159, §431(1), substituted "the Committees on Armed Services of the Senate and the House of Representatives, and furnish to any Member of Congress upon request," for "Congress" in introductory provisions.
+
+Subsec. (b). Pub. L. 118–159, §431(2), designated existing provisions as par. (1) and added par. (2).
 
 **2023**—Subsec. (d)(3)(F). Pub. L. 118–31 inserted before period at end "or, in the case of the Space Force, officers ordered to active duty other than under section 20105(b) of this title".
 

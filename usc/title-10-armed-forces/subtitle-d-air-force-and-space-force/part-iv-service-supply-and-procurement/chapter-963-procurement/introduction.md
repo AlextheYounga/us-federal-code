@@ -2,7 +2,7 @@
 
 Sec.
 
-\[9531. Repealed.\]
+9531\. Commercial Augmentation Space Reserve.
 
 9532\. Factories, arsenals, and depots: manufacture at.
 
@@ -21,6 +21,8 @@ Sec.
 #### **Editorial Notes**
 
 #### Amendments
+
+**2024**—Pub. L. 118–159, div. A, title XVI, §1602(a), Dec. 23, 2024, 138 Stat. 2158, added item 9531. Amendment was made pursuant to operation of section 102 of this title.
 
 **2018**—Pub. L. 115–232, div. A, title VIII, §806(d)(1), Aug. 13, 2018, 132 Stat. 1833, redesignated chapter 933 of this title as this chapter.
 

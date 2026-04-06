@@ -78,9 +78,9 @@ Committee on Oversight and Government Reform of House of Representatives changed
 
 #### Audit Requirement for Department of Defense Components
 
-Pub. L. 118–31, div. A, title X, §1004, Dec. 22, 2023, 137 Stat. 379, provided that:
+Pub. L. 118–31, div. A, title X, §1004, Dec. 22, 2023, 137 Stat. 379, as amended by Pub. L. 118–159, div. A, title X, §1004, Dec. 23, 2024, 138 Stat. 2047, provided that:
 
-"(a) In General.—During fiscal year 2024, and during each of the nine fiscal years thereafter, each component of the Department of Defense shall be subject to an independent audit. Any such component that fails to be subject to such an audit during any fiscal year shall have 1.5 percent of unobligated amounts available for the component be cancelled and returned to the general fund of the Treasury for deficit reduction, except as provided in subsection (b).
+"(a) In General.—During each of fiscal years 2024 through 2034, each component of the Department of Defense shall be subject to an independent audit. Any such component that fails to be subject to such an audit during any fiscal year shall have 1.5 percent of unobligated amounts available for the component be cancelled and returned to the general fund of the Treasury for deficit reduction, except as provided in subsection (b).
 
 "(b) Exceptions.—The following accounts are excluded from any reductions:
 

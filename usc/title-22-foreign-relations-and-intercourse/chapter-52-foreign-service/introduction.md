@@ -188,6 +188,8 @@ Sec.
 
 4028\. Training for Foreign Service officers.
 
+4028a. Per diem allowance for newly hired members of the Foreign Service.
+
 4029\. Increased training in multilateral diplomacy.
 
 4030\. Suitability reviews for Foreign Service Institute instructors.
@@ -306,9 +308,15 @@ Sec.
 
 4081a. Exception for Government-financed air transportation; reducing hardship for transportation of domestic animals.
 
+4081b. Presence of chiefs of mission at diplomatic posts.
+
 4082\. Loan of household effects.
 
 4083\. Required leave.
+
+4083a. Rest and recuperation leave.
+
+4083b. Overseas operations leave.
 
 4084\. Health care program.
 
@@ -319,6 +327,8 @@ Sec.
 4087\. Termination of residential or motor vehicle leases and telephone service contracts.
 
 4088\. Education allowance.
+
+4089\. Portability of professional licenses.
 
         
 

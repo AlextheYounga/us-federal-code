@@ -20,17 +20,25 @@ Sec.
 
 429\. Appropriations for Defense intelligence elements: accounts for transfers; transfer authority.
 
+429a. Expenditure of funds for Department of Defense intelligence and counterintelligence activities.
+
 430\. Tactical Exploitation of National Capabilities Executive Agent.
 
 430a. Executive agent for management and oversight of alternative compensatory control measures.
 
 430b. Executive agent for open-source intelligence tools.
 
+430c. Senior intelligence oversight official.
+
+430d. Cyber intelligence capability.
+
         
 
 #### **Editorial Notes**
 
 #### Amendments
+
+**2024**—Pub. L. 118–159, div. A, title IX, §921(a), title XVI, §§1612(a), 1614(a)(1), Dec. 23, 2024, 138 Stat. 2036, 2167, 2168, added items 429a, 430c, and 430d. Amendment adding item 429a was made pursuant to operation of section 102 of this title.
 
 **2015**—Pub. L. 114–92, div. A, title X, §§1081(a)(5), 1083(a)(2), title XVI, §1631(b), Nov. 25, 2015, 129 Stat. 1001, 1004, 1111, added items 430 to 430b.
 
@@ -65,3 +73,15 @@ Pub. L. 111–84, div. A, title IX, §921(b)(2), Oct. 28, 2009, 123 Stat. 2432, 
 **1988**—Pub. L. 100–453, title VII, §§701(b), 703(b), Sept. 29, 1988, 102 Stat. 1912, 1913, in item 421 substituted "Funds for Foreign Cryptologic Support" for "Funds transfers for foreign cryptologic support" and added item 424.
 
 **1987**—Pub. L. 100–180, div. A, title XII, §1231(3), Dec. 4, 1987, 101 Stat. 1160, substituted "departments" for "department" in item 423.
+
+  
+
+#### **Statutory Notes and Related Subsidiaries**
+
+#### Strategy To Address Malign Activities by the People's Liberation Army
+
+Pub. L. 118–159, div. A, title XIII, §1347, Dec. 23, 2024, 138 Stat. 2126, provided that:
+
+"(a) In General.—Not later than 270 days after the date of the enactment of this Act \[Dec. 23, 2024\], the Secretary of Defense shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a transregional, multi-functional, and multi-domain strategy to coordinate activities among combatant commands for identifying and, if necessary and appropriate, addressing malign activities by the People's Liberation Army of the People's Republic of China.
+
+"(b) Combatant Command Liaisons.—Concurrently with the submission of the strategy required by subsection (a), the Secretary shall designate, within each combatant command (other than the United States Indo-Pacific Command), an official liaison for coordinated transregional, multi-functional, and multi-domain efforts to address malign activities by the People's Liberation Army."

@@ -56,6 +56,18 @@ Sec.
 
 #### **Statutory Notes and Related Subsidiaries**
 
+#### Sufficient Firefighter Personnel Covered Installations
+
+Pub. L. 118–159, div. A, title XI, §1110, Dec. 23, 2024, 138 Stat. 2089, provided that:
+
+"(a) In General.—The Secretary of Defense shall ensure that—
+
+"(1) a sufficient number of firefighter personnel are on duty at each covered installation to maintain manning and service necessary to safeguard life and property at such covered installation; and
+
+"(2) a risk assessment may not be used to limit the number of firefighter personnel at a covered installation.
+
+"(b) Covered Installation Defined.—In this section, the term 'covered installation' means a military installation under the jurisdiction of the Chief of Space Operations of the United States Space Force with a space launch facility."
+
 #### Pilot Program To Augment Sustainment With Maintenance Cost Reimbursements From Major Range and Test Facility Base Users at Installations of the Department of the Air Force
 
 Pub. L. 117–81, div. B, title XXVIII, §2862, Dec. 27, 2021, 135 Stat. 2213, as amended by Pub. L. 118–31, div. B, title XXVIII, §2872, Dec. 22, 2023, 137 Stat. 776, provided that:

@@ -166,19 +166,19 @@ Pub. L. 117–263, div. A, title VI, §617, Dec. 23, 2022, 136 Stat. 2624, as am
 
 "(d) Definitions.—In this section:
 
-"(1) The term "continental United States" has the meaning given such term in section 101 of title 37, United States Code.
+"(1) The term 'continental United States' has the meaning given such term in section 101 of title 37, United States Code.
 
-"(2) The term "covered member" means a member of the uniformed services—
+"(2) The term 'covered member' means a member of the uniformed services—
 
 "(A) who is assigned to a permanent duty station located outside the continental United States; or
 
 "(B) whose dependents reside outside the continental United States but not withing the vicinity to permanent duty station of such member.
 
-"(3) The term "OCONUS COLA" means a cost-of-living allowance paid to a member of the uniformed services on the basis that such member is a covered member.
+"(3) The term 'OCONUS COLA' means a cost-of-living allowance paid to a member of the uniformed services on the basis that such member is a covered member.
 
-"(4) The term "OCONUS COLA index" means the index computed by the Secretary of the weighted average prices of goods and services (excluding housing costs) in a location outside the continental United States, relative to the weighted average of prices of the same goods and services in the continental United States.
+"(4) The term 'OCONUS COLA index' means the index computed by the Secretary of the weighted average prices of goods and services (excluding housing costs) in a location outside the continental United States, relative to the weighted average of prices of the same goods and services in the continental United States.
 
-"(5) The term "OCONUS COLA index point" means 1 percent of the OCONUS COLA index for the weighted average prices of goods and services (excluding housing costs) in a location in the continental United States."
+"(5) The term 'OCONUS COLA index point' means 1 percent of the OCONUS COLA index for the weighted average prices of goods and services (excluding housing costs) in a location in the continental United States."
 
 #### Conditions on Provision of Allowance
 

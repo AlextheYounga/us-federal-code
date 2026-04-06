@@ -4,6 +4,8 @@ Sec.
 
 2271\. Management of space programs: joint program offices and officer management programs.
 
+§2271a. Space Contractor Responsibility Watch List.
+
 2272\. Space science and technology strategy: coordination.
 
 2273\. Policy regarding assured access to space: national security payloads.
@@ -12,11 +14,13 @@ Sec.
 
 2274\. Space situational awareness services and information: provision to non-United States Government entities.
 
-2275\. Reports on integration of acquisition and capability delivery schedules for segments of major satellite acquisition programs and funding for such programs.
+\[2275. Repealed.\]
 
 2275a. Requirements for protection of satellites.
 
 2275b. Requirements for appropriate classification guidance.
+
+2275c. Space Force satellite ground systems.
 
 2276\. Commercial space launch cooperation.
 
@@ -41,6 +45,8 @@ Sec.
 #### **Editorial Notes**
 
 #### Amendments
+
+**2024**—Pub. L. 118–159, div. A, title XVI, §§1601(a), 1603, Dec. 23, 2024, 138 Stat. 2157, 2160, added items 2271a and 2275c and struck out item 2275 "Reports on integration of acquisition and capability delivery schedules for segments of major satellite acquisition programs and funding for such programs". Amendments were made pursuant to operation of section 102 of this title.
 
 **2023**—Pub. L. 118–31, div. A, title XVI, §§1602, 1603, Dec. 22, 2023, 137 Stat. 584, added items 2275b and 2276a. Amendments were made pursuant to operation of section 102 of this title.
 

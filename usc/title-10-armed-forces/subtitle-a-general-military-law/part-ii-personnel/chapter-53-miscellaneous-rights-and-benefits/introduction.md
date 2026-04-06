@@ -82,13 +82,15 @@ Sec.
 
 1060b. Military ID cards: dependents and survivors of retirees.
 
-1060c. Provision of veterinary services in emergencies.
+1060c. Provision of veterinary services.
 
         
 
 #### **Editorial Notes**
 
 #### Amendments
+
+**2024**—Pub. L. 118–159, div. A, title VII, §733(1), Dec. 23, 2024, 138 Stat. 1956, struck out "in emergencies" after "veterinary services" in item 1060c. Amendment was made pursuant to operation of section 102 of this title.
 
 **2023**—Pub. L. 118–31, div. A, title VI, §632(1), Dec. 22, 2023, 137 Stat. 296, inserted "; lodging expenses" after "benefits" in item 1059. Amendment was made pursuant to operation of section 102 of this title.
 
@@ -185,6 +187,16 @@ Pub. L. 86–142, §1(2), Aug. 7, 1959, 73 Stat. 289, added item 1038.
   
 
 #### **Statutory Notes and Related Subsidiaries**
+
+#### Promotion of Tax Preparation Assistance Programs
+
+Pub. L. 118–159, div. A, title VI, §653, Dec. 23, 2024, 138 Stat. 1939, provided that:
+
+"(a) In General.—The Secretary of Defense shall ensure that each member of a covered Armed Force receives, not later than March 1 of each year, via email or other electronic means, a notice regarding the MilTax program and other tax preparation assistance programs furnished by the Secretary.
+
+"(b) Report.—Not later than six months after the date of the enactment of this Act \[Dec. 23, 2024\], the Secretary shall submit to the Committees on Armed Services of the Senate and House of Representatives a report regarding the rates of participation by members of the covered Armed Forces in the programs described in subsection (a).
+
+"(c) Covered Armed Force Defined.—In this section, the term 'covered Armed Force' means the Army, Navy, Marine Corps, Air Force, or Space Force."
 
 #### Flexible Workplace Programs
 
