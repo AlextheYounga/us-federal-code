@@ -4,6 +4,10 @@ Nothing in sections 9 to 15 of this title shall be construed to affect or impair
 
 (Aug. 7, 1888, ch. 772, §7, 25 Stat. 385; Sept. 3, 1954, ch. 1263, §49, 68 Stat. 1244.)
 
+  
+
+#### **Editorial Notes**
+
 #### References in Text
 
 Sections 1 to 6 and 8 of this title, referred to in text, were repealed by act July 16, 1947, ch. 256, §1, 61 Stat. 327.

@@ -10,6 +10,8 @@ Sec.
 
         
 
+#### **Editorial Notes**
+
 #### Amendments
 
 **2011**—Pub. L. 112–29, §5(b), Sept. 16, 2011, 125 Stat. 299, amended item 273 generally, substituting "Defense to infringement based on prior commercial use" for "Defense to infringement based on earlier inventor".

@@ -4,9 +4,17 @@ No person shall land or operate in the United States any submarine cable directl
 
 (May 27, 1921, ch. 12, §1, 42 Stat. 8.)
 
+  
+
+#### **Editorial Notes**
+
 #### Codification
 
 Section was not enacted as part of the Submarine Cable Act which comprises this chapter.
+
+  
+
+#### **Executive Documents**
 
 #### Delegation of Functions
 

@@ -24,6 +24,8 @@ Sec.
 
         
 
+#### **Editorial Notes**
+
 #### Prior Provisions
 
 A prior chapter 23, consisting of sections 2301 to 2309, related to the United States Holocaust Memorial Council, prior to the general amendment of this chapter by Pub. L. 106–292, §1.
