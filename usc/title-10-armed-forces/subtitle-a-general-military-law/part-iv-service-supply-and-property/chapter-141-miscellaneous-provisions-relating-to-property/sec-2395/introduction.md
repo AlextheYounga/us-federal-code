@@ -1,7 +1,5 @@
 ### \[§2395. Renumbered §3132\]
 
-  
-
 #### **Editorial Notes**
 
 #### Codification
