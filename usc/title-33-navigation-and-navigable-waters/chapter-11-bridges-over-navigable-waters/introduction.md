@@ -104,7 +104,7 @@ Sec.
 
 535c. Approval of Secretary; commencement and completion requirements; extension of time limits.
 
-535d. Repealed.
+535d. Permitting for international bridges.
 
 535e. Ownership.
 

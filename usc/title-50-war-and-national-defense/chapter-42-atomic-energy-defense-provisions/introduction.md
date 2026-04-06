@@ -376,6 +376,8 @@ Sec.
 
 2795\. University-based research collaboration program.
 
+2796\. Limitation on establishing an enduring bioassurance program within the Administration.
+
         
 
 #### Part C—Facilities Management

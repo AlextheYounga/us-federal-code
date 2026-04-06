@@ -50,6 +50,8 @@ Chap. Sec.
 
 24\. Nuclear Posture 491
 
+25\. Electronic Warfare 2 500
+
         
 
 ### **PART II—PERSONNEL**
@@ -182,9 +184,7 @@ Chap. Sec.
 
 ### **PART IV—SERVICE, SUPPLY, AND PROPERTY**
 
-113\. Defense Civilian Training Corps 2200g. 2
-
-        
+113\. Defense Civilian Training Corps 2200g
 
 131\. Planning and Coordination 2201
 
@@ -262,9 +262,7 @@ Chap. Sec.
 
 205\. Defense Acquisition System 3101
 
-207\. Budgeting and Appropriations Matters 3
-
-        
+207\. Budgeting and Appropriations 3131
 
 209\. Operational Contract Support 3151
 
@@ -278,7 +276,7 @@ Chap. Sec.
 
 223\. Other Provisions Relating to Planning and Solicitation Generally 3241
 
-225\. Planning and Solicitation Relating to Particular Items or Services 4 3271
+225\. \[Reserved\] 3271
 
         
 
@@ -288,7 +286,7 @@ Chap. Sec.
 
 242\. Specific Types of Contracts 3321
 
-243\. Other Matters Relating to Awarding and Types of Contracts 3 3341
+243\. Other Matters Relating to Awarding and Types of Contracts 2 3341
 
 244\. Undefinitized Contractual Actions 3371
 
@@ -314,7 +312,7 @@ Chap. Sec.
 
 271\. Truthful Cost or Pricing Data (Truth in Negotiations) 3701
 
-272\. Other Provisions Relating to Cost or Pricing Data 4 3721
+272\. \[Reserved\] 3721
 
 273\. Allowable Costs 3741
 
@@ -328,7 +326,7 @@ Chap. Sec.
 
 283\. \[Reserved\]
 
-287\. Other Contracting Programs 3961 5
+287\. Other Contracting Programs 3901
 
         
 
@@ -338,29 +336,43 @@ Chap. Sec.
 
 303\. Research and Engineering Activities 4061
 
-305\. Universities 4131 6
-
-        
+305\. Universities 4141
 
 307\. Test and Evaluation 4171
 
         
 
-#### subpart f—major systems, major defense acquisition programs, and weapon systems development
+#### subpart f—major systems, major defense acquisition programs, and weapon systems development [3](#PARTVanalysis_3_target)
 
-321\. General Matters 4201 7
+321\. General Matters 4201
+
+322\. Major Systems and Major Defense Acquisition Programs Generally 4211
+
+323\. Life-Cycle and Sustainment 4321
+
+324\. Selected Acquisition Reports 4350
+
+325\. Cost Growth-Unit Cost Reports (Nunn-McCurdy) 4371
+
+326\. 4
 
         
 
-322\. Major Systems and Major Defense Acquisition Programs Generally 4211 7
+        
 
-323\. Life-Cycle And Sustainment 4321 7
+#### subpart f—major systems, major defense acquisition programs, and weapon systems development [3](#PARTVanalysis_3_target)
 
-324\. Program Status—Selected Acquisition Reports 4 4350 7
+321\. General Matters
 
-325\. Cost Growth—Unit Cost Reports (Nunn-McCurdy) 4371 7
+322\. Major Systems and Major Defense Acquisition Programs Generally
 
-327\. Weapon Systems Development and Related Matters 4401 7
+323\. Life-Cycle And Sustainment
+
+324\. Program Status—Selected Acquisition Reports
+
+325\. Cost Growth—Unit Cost Reports (Nunn-McCurdy)
+
+327\. Weapon Systems Development and Related Matters
 
         
 
@@ -378,11 +390,11 @@ Chap. Sec.
 
 361\. Contract Administration 4601
 
-363\. Prohibitions and Penalties 3 4651
+363\. Prohibitions and Penalties 2 4651
 
 365\. Contractor Workforce 4701
 
-367\. Other Administrative and Miscellaneous Provisions 3 4751
+367\. Other Administrative and Miscellaneous Provisions 2 4751
 
         
 
@@ -392,7 +404,7 @@ Chap. Sec.
 
 382\. Policies and Planning 4811
 
-383\. Development, Application, & Support of Dual-Use Technologies 3 4831
+383\. Development, Application, and Support of Dual-Use Technologies 4831
 
 384\. Manufacturing Technology 4841
 
@@ -409,6 +421,10 @@ Chap. Sec.
 #### **Editorial Notes**
 
 #### Amendments
+
+**2023**—Pub. L. 118–31, div. A, title XVIII, §1801(a)(1)(G), Dec. 22, 2023, 137 Stat. 683, which directed the insertion of new items for subpart F and chapters 321 to 326 after the item relating to chapter 307, was so executed notwithstanding that items for subpart F and chapters 321 to 327 (which chapter items did not include designators indicating the first section of each chapter) had been added previously by Pub. L. 116–283, div. A, title XVIII, §1846(a), Jan. 1, 2021, 134 Stat. 4247. See 2021 Amendment note below.
+
+Pub. L. 118–31, div. A, title XVI, §1682(b), title XVIII, §1801(a)(1)(A)–(F), (H), Dec. 22, 2023, 137 Stat. 617, 682, 683, added items for chapters 25, 113, 207, 287, 305, and 383 and items for Reserved chapters 225 and 272 and struck out former items for chapters 113 "Defense Civilian Training Corps", 207 "Budgeting and Appropriations Matters", 225 "Planning and Solicitation Relating to Particular Items or Services", 272 "Other Provisions Relating to Cost or Pricing Data", 287 "Other Contracting Programs", 305 "Universities", and 383 "Development, Application, & Support of Dual-Use Technologies".
 
 **2022**—Pub. L. 117–263, div. A, title VIII, §804(b), title X, §1081(a)(1), (e)(2), Dec. 23, 2022, 136 Stat. 2701, 2797, 2798, substituted "Definitions, Rules of Construction, Cross References, and Related Matters" for "Definitions" in item for chapter 1, struck out second item for chapter 19 "Cyber Matters", and added item for chapter 253 and struck out former item for chapter 253 "\[Reserved\]". Amendment to item for chapter 1 was made pursuant to operation of section 102 of this title.
 
@@ -554,14 +570,8 @@ Pub. L. 87–649, §3(2), Sept. 7, 1962, 76 Stat. 493, added item for chapter 40
 
 [1 Chapter heading amended by Pub. L. 116–92 without corresponding amendment of subtitle analysis.](#PARTIanalysis_1)
 
-[2 So in original. The period probably should not appear.](#PARTIVanalysis_2)
+[2 So in original. Does not conform to chapter heading.](#PARTIanalysis_2)
 
-[3 So in original. Does not conform to chapter heading.](#PARTVanalysis_3)
+[3 See Amendment note below for Pub. L. 118–31, div. A, title XVIII, §1801(a)(1)(G).](#PARTVanalysis_3)
 
-[4 Chapter heading amended by Pub. L. 117–81 without corresponding amendment of subtitle analysis.](#PARTVanalysis_4)
-
-[5 So in original. Probably should be "3901".](#PARTVanalysis_5)
-
-[6 So in original. Probably should be "4141".](#PARTVanalysis_6)
-
-[7 Editorially supplied.](#PARTVanalysis_7)
+[4 So in original. Probably should be "327."](#PARTVanalysis_4)
