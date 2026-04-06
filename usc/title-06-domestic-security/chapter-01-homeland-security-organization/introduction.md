@@ -8,6 +8,8 @@ Sec.
 
 103\. Use of appropriated funds.
 
+104\. National biodefense strategy.
+
         
 
 #### SUBCHAPTER I—DEPARTMENT OF HOMELAND SECURITY
@@ -100,6 +102,8 @@ Sec.
 
 149\. Cybersecurity plans.
 
+149a. Cybersecurity strategy.
+
 150\. Clearances.
 
 151\. Federal intrusion detection and prevention system.
@@ -160,6 +164,10 @@ Sec.
 
 195d. Social media working group.
 
+195e. Transparency in research and development.
+
+195f. EMP and GMD mitigation research and development.
+
         
 
 #### SUBCHAPTER IV—BORDER, MARITIME, AND TRANSPORTATION SECURITY
@@ -197,6 +205,8 @@ Sec.
 221\. Requirements with respect to administering polygraph examinations to law enforcement personnel of U.S. Customs and Border Protection.
 
 222\. Advanced Training Center Revolving Fund.
+
+223\. Border security metrics.
 
         
 
@@ -354,6 +364,8 @@ Sec.
 
 321 o. Integrated public alert and warning system modernization.
 
+321p. National planning and education.
+
         
 
 #### SUBCHAPTER VI—TREATMENT OF CHARITABLE TRUSTS FOR MEMBERS OF THE ARMED FORCES OF THE UNITED STATES AND OTHER GOVERNMENTAL ORGANIZATIONS
@@ -377,6 +389,10 @@ Sec.
 346\. Consolidation and co-location of offices.
 
 347\. Quadrennial homeland security review.
+
+348\. Joint task forces.
+
+349\. Office of Strategy, Policy, and Plans.
 
         
 

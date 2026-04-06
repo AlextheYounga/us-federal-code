@@ -8,9 +8,7 @@ Sec.
 
 743\. Rank: Chief of Staff of the Army; Chief of Naval Operations; Chief of Staff of the Air Force; Commandant of the Marine Corps.
 
-744\. Physician to White House: assignment; grade.
-
-\[745. Repealed.\]
+\[744, 745. Repealed.\]
 
 747\. Command: when different commands of Army, Navy, Air Force, Marine Corps, and Coast Guard join.
 
@@ -21,6 +19,8 @@ Sec.
         
 
 #### Amendments
+
+**2016**—Pub. L. 114–328, div. A, title V, §502(i)(2), Dec. 23, 2016, 130 Stat. 2103, struck out item 744 "Physician to White House: assignment; grade".
 
 **1991**—Pub. L. 102–190, div. A, title XI, §1114(c), Dec. 5, 1991, 105 Stat. 1502, added item 742 and struck out item 745 "Warrant officers: rank".
 
