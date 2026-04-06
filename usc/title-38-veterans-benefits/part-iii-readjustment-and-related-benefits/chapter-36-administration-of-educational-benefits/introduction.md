@@ -86,12 +86,6 @@ Sec.
 
         
 
-#### Amendment of Analysis
-
-Pub. L. 116–315, title I, §1020(a)(2), (c), Jan. 5, 2021, 134 Stat. 4958, provided that, effective Aug. 1, 2021, this analysis is amended by striking item 3696 and adding new item 3696 "Prohibition on certain advertising, sales, and enrollment practices". See 2021 Amendment note below.
-
-  
-
 #### **Editorial Notes**
 
 #### Amendments
