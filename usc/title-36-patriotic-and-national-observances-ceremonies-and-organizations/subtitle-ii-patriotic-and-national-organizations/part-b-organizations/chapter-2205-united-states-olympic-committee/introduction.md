@@ -54,13 +54,13 @@ Sec.
 
         
 
-#### SUBCHAPTER III [1](#CHAPTER2205_1_target)—GRANT TO KEEP YOUNG ATHLETES SAFE
+#### SUBCHAPTER III [1](#CHAPTER2205_1_target) —GRANT TO KEEP YOUNG ATHLETES SAFE
 
 220531\. Grant to protect young athletes from abuse.
 
         
 
-#### SUBCHAPTER III [1](#CHAPTER2205_1_target)—UNITED STATES CENTER FOR SAFE SPORT
+#### SUBCHAPTER III [1](#CHAPTER2205_1_target) —UNITED STATES CENTER FOR SAFE SPORT
 
 220541\. Designation of United States Center for Safe Sport.
 
