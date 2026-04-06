@@ -1284,6 +1284,10 @@ Sec.
 
 290m–6. Repealed.
 
+290m–7. First capital increase.
+
+290m–8. Performance measures.
+
         
 
 #### SUBCHAPTER XXIX—UNITED STATES-MEXICO BORDER HEALTH COMMISSION
