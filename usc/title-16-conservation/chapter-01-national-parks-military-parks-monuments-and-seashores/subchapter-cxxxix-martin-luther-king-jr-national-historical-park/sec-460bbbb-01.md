@@ -6,7 +6,7 @@
 
 (2) Notwithstanding the acquisition authority contained in paragraph (1), any lands or interests therein which are owned wholly or in part, by the widow of Martin Luther King, Junior, or by the Martin Luther King, Junior, Center for Social Change, shall be acquired only with the consent of the owner thereof, except that—
 
-(A) the Secretary may acquire such property in accordancewith the provisions of this section if he determines that the property is undergoing or is about to undergo a change in use which is inconsistent with the purposes of this subchapter, and
+(A) the Secretary may acquire such property in accordance with the provisions of this section if he determines that the property is undergoing or is about to undergo a change in use which is inconsistent with the purposes of this subchapter, and
 
 (B) with respect to properties owned by the Center for Social Change, the Secretary shall have the first right of refusal to purchase such property for a purchase price not exceeding the fair market value of such property on the date it is offered for sale.
 
