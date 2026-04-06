@@ -26,7 +26,7 @@ Sec.
 
 3123a. Specialty crop committee.
 
-3123b. Renewable energy committee.
+3123b. Repealed.
 
 3124\. Existing research programs.
 
@@ -75,6 +75,10 @@ Sec.
 3156\. Education grants to Alaska Native serving institutions and Native Hawaiian serving institutions.
 
 3157\. Competitive, special, and facilities research grants.
+
+3158\. Next generation agriculture technology challenge.
+
+3159\. Land-grant designation.
 
         
 
@@ -144,7 +148,7 @@ Sec.
 
 3222\. Agricultural research at 1890 land-grant colleges, including Tuskegee University.
 
-3222a. Repealed.
+3222a. Scholarships for students at 1890 Institutions.
 
 3222b. Grants to upgrade agricultural and food sciences facilities at 1890 land-grant colleges, including Tuskegee University.
 
@@ -155,6 +159,8 @@ Sec.
 3222c. Repealed.
 
 3222d. Matching funds requirement for research and extension activities at eligible institutions.
+
+3222e. New beginning for tribal students.
 
 3223\. Grants for acquisition and improvement of research facilities and equipment.
 
@@ -176,7 +182,7 @@ Sec.
 
 3291\. International agricultural research, extension, and teaching.
 
-3292\. Repealed.
+3292\. Partnerships to build capacity in international agricultural research, extension, and teaching.
 
 3292a. United States-Mexico joint agricultural research.
 
@@ -185,6 +191,8 @@ Sec.
 3293\. Agricultural fellowship program for middle income countries, emerging democracies, and emerging markets.
 
 3294\. Center For North American Studies.
+
+3295\. International Agricultural Education Fellowship Program.
 
         
 
@@ -198,7 +206,7 @@ Sec.
 
 3310\. Limitation on indirect costs for agricultural research, education, and extension programs.
 
-3310a. Repealed.
+3310a. Research equipment grants.
 
 3311\. Authorization of appropriations.
 
@@ -232,7 +240,7 @@ Sec.
 
 3319e. New Era Rural Technology Program.
 
-3319f. Beginning farmer and rancher development program.
+3319f. Repealed.
 
 3319g. Fees.
 
@@ -241,6 +249,8 @@ Sec.
 3319i. Capacity building grants for NLGCA Institutions.
 
 3319j. Borlaug International Agricultural Science and Technology Fellowship Program.
+
+3319k. Agriculture Advanced Research and Development Authority pilot.
 
         
 
@@ -294,6 +304,6 @@ Sec.
 
 #### SUBCHAPTER XV—GENERAL PROVISIONS
 
-3371\. Matching funds requirement.
+3371\. Repealed.
 
         

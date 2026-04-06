@@ -52,7 +52,7 @@ Sec.
 
 1726a. Administration.
 
-1726b. Assistance for stockpiling and rapid transportation, delivery, and distribution of shelf-stable prepackaged foods.
+1726b. International food relief partnership.
 
 1726c. Local and regional food aid procurement projects.
 
@@ -149,6 +149,8 @@ Sec.
 1736y. Contract sanctity and producer embargo protection.
 
 1736z to 1736cc. Repealed.
+
+1736dd. International food security technical assistance.
 
         
 

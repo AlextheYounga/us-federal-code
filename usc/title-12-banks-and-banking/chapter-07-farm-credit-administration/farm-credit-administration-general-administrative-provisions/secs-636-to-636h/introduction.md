@@ -16,6 +16,6 @@ Section 636e, act Aug. 6, 1953, ch. 335, §6, 67 Stat. 393, covered duties of Fe
 
 Section 636f, acts Aug. 6, 1953, ch. 335, §7, 67 Stat. 393; Aug. 11, 1955, ch. 785, title I, §110(c), 69 Stat. 662; Oct. 4, 1961, Pub. L. 87–353, §3(n), 75 Stat. 774, provided for abolishment of certain offices and funds under program as it existed prior to 1953.
 
-Section 636g, acts Aug. 6, 1953, ch. 335, §8, 67 Stat. 394; July 26, 1956, ch. 741, title I, §107(a), 70 Stat. 666; Aug. 18, 1959, Pub. L. 86–168, title I, §104(h), 73 Stat. 387, authorized delegation of powers to institutions in farm credit districts. See section 2253 of this title.
+Section 636g, acts Aug. 6, 1953, ch. 335, §8, 67 Stat. 394; July 26, 1956, ch. 741, title I, §107(a), 70 Stat. 666; Aug. 18, 1959, Pub. L. 86–168, title I, §104(h), 73 Stat. 387, authorized delegation of powers to institutions in farm credit districts.
 
 Section 636h, act Aug. 6, 1953, ch. 335, §17(b), 67 Stat. 399, covered administrative expenditures of Farm Credit Administration. See section 2249 of this title.

@@ -1,4 +1,4 @@
-### **CHAPTER 3 [1](#CHAPTER3 _1_target)**—ORGANIZATION OF GENERAL SERVICES ADMINISTRATION
+### **CHAPTER 3—ORGANIZATION OF GENERAL SERVICES ADMINISTRATION**
 
 #### SUBCHAPTER I—GENERAL
 
@@ -20,7 +20,7 @@ Sec.
 
 311\. Personnel.
 
-312\. Transfer and use of amounts for major equipment acquisitions. 2
+312\. Transfer and use of amounts for major equipment acquisitions. 1
 
         
 
@@ -44,6 +44,4 @@ Sec.
 
 **2002**—Pub. L. 107–347, title I, §102(a)(2), Dec. 17, 2002, 116 Stat. 2910, added item 305.
 
-[1 Another chapter 3 is set out in subtitle V of this title.](#CHAPTER3 _1)
-
-[2 Section repealed by Pub. L. 111–8 without corresponding amendment of chapter analysis.](#CHAPTER3 _2)
+[1 Section repealed by Pub. L. 111–8 without corresponding amendment of chapter analysis.](#CHAPTER3_1)

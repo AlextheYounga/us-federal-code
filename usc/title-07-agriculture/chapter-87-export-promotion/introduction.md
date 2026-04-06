@@ -20,6 +20,8 @@ Sec.
 
 5607\. Exporter assistance initiative.
 
+5608\. Foreign trade missions.
+
         
 
 #### SUBCHAPTER II—AGRICULTURAL EXPORT PROGRAMS
@@ -30,7 +32,7 @@ Sec.
 
 5622\. Export credit guarantee program.
 
-5623\. Market access program.
+5623\. Agricultural trade promotion and facilitation.
 
 5624\. Barter of agricultural commodities.
 
@@ -88,7 +90,7 @@ Sec.
 
 5679\. Biotechnology and agricultural trade program.
 
-5680\. Technical assistance for specialty crops.
+5680\. Repealed.
 
         
 
@@ -118,11 +120,7 @@ Sec.
 
 #### SUBCHAPTER VII—FOREIGN MARKET DEVELOPMENT COOPERATOR PROGRAM
 
-5721\. "Eligible trade organization" defined.
-
-5722\. Foreign market development cooperator program.
-
-5723\. Funding.
+5721 to 5723. Repealed.
 
         
 
