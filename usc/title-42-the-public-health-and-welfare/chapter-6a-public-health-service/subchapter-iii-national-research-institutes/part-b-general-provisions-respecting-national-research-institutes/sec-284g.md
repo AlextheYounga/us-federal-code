@@ -4,7 +4,23 @@
 
 #### (1) Expansion of activities
 
-The Director of NIH (in this section referred to as the "Director") shall, subject to the availability of appropriations, expand, intensify, and coordinate the activities of the National Institutes of Health with respect to research on autism spectrum disorder, including basic and clinical research in fields including pathology, developmental neurobiology, genetics, epigenetics, pharmacology, nutrition, immunology, neuroimmunology, neurobehavioral development, endocrinology, gastroenterology, toxicology, and interventions to maximize outcomes for individuals with autism spectrum disorder. Such research shall investigate the causes (including possible environmental causes), diagnosis or ruling out, early and ongoing detection, prevention, services across the lifespan, supports, intervention, and treatment of autism spectrum disorder, including dissemination and implementation of clinical care, supports, interventions, and treatments.
+The Director of NIH (in this section referred to as the "Director"), in consultation with relevant Federal departments and agencies, as appropriate, shall—
+
+(A) subject to the availability of appropriations, expand, intensify, and coordinate the activities of the National Institutes of Health with respect to research on autism spectrum disorder, including basic and clinical research—
+
+(i) in fields, such as pathology, developmental neurobiology, genetics, epigenetics, pharmacology, nutrition, immunology, neuroimmunology, neurobehavioral development, endocrinology, gastroenterology, toxicology, psychiatry, psychology, developmental behavioral pediatrics, audiology, and gerontology; and
+
+(ii) on interventions to maximize outcomes for individuals with autism spectrum disorder; and
+
+  
+
+(B) ensure that research referred to in subparagraph (A)—
+
+(i) investigates the causes (including possible environmental causes), diagnosis or ruling out, early and ongoing detection, prevention, services and supports across the lifespan, intervention, and treatment of autism spectrum disorder and co-occurring conditions, including dissemination and implementation of clinical care, supports, interventions, and treatments;
+
+(ii) examines supports for caregivers; and
+
+(iii) reflects the entire population of individuals with autism spectrum disorder, including those individuals with co-occurring conditions and the full range of needs for supports and services, including such supports and services to ensure the safety, and promote the well-being, of such individuals.
 
 #### (2) Consolidation
 
@@ -22,7 +38,7 @@ The Director shall under subsection (a)(1) make awards of grants and contracts t
 
 #### (2) Research
 
-Each center under paragraph (1) shall conduct basic and clinical research into autism spectrum disorder. Such research should include investigations into the causes, diagnosis, early and ongoing detection, prevention, and treatment of autism spectrum disorder across the lifespan. The centers, as a group, shall conduct research including the fields of developmental neurobiology, genetics, genomics, psychopharmacology, developmental psychology, behavioral psychology, and clinical psychology.
+Each center under paragraph (1) shall conduct basic and clinical research into autism spectrum disorder. Such research should include investigations into the causes, diagnosis, early and ongoing detection, prevention, and treatment of autism spectrum disorder across the lifespan. The centers, as a group, shall conduct research in fields such as developmental neurobiology, genetics, genomics, psychopharmacology, developmental psychology, behavioral psychology, clinical psychology, and gerontology.
 
 #### (3) Services for patients
 
@@ -50,11 +66,11 @@ Each center under paragraph (1) shall use the facilities of a single institution
 
 #### (A) In general
 
-The Director shall provide for the establishment of not less than five centers under paragraph (1).
+The Director shall provide for the establishment of not less than seven centers under paragraph (1).
 
 #### (B) Duration
 
-Support for a center established under paragraph (1) may be provided under this section for a period of not to exceed 5 years. Such period may be extended for one or more additional periods not exceeding 5 years if the operations of such center have been reviewed by an appropriate technical and scientific peer review group established by the Director and if such group has recommended to the Director that such period should be extended.
+Support for a center established under paragraph (1) may be provided under this section for a period not to exceed 5 years. Such period may be extended for one or more additional periods not exceeding 5 years if the operations of such center have been reviewed by an appropriate technical and scientific peer review group established by the Director and if such group has recommended to the Director that such period should be extended.
 
 #### (c) Facilitation of research
 
@@ -62,9 +78,19 @@ The Director shall under subsection (a)(1) provide for a program under which sam
 
 #### (d) Public input
 
+#### (1) In general
+
 The Director shall under subsection (a)(1) provide for means through which the public can obtain information on the existing and planned programs and activities of the National Institutes of Health with respect to autism spectrum disorder and through which the Director can receive comments from the public regarding such programs and activities.
 
-(July 1, 1944, ch. 373, title IV, §409C, as added Pub. L. 106–310, div. A, title I, §101, Oct. 17, 2000, 114 Stat. 1105; amended Pub. L. 109–416, §§2(a), 4(b), Dec. 19, 2006, 120 Stat. 2821, 2830; Pub. L. 109–482, title I, §§103(b)(9), 104(b)(1)(D), Jan. 15, 2007, 120 Stat. 3687, 3693; Pub. L. 116–60, §2, Sept. 30, 2019, 133 Stat. 1110.)
+#### (2) Guidance
+
+The Director may provide guidance to centers under subsection (b)(1) on strategies, activities, and opportunities to promote engagement with, and solicit input from, individuals with autism spectrum disorder and their family members, guardians, advocates or authorized representatives, providers, or other appropriate individuals to inform the activities of the center. Such strategies, activities, and opportunities should consider including, as appropriate, individuals, family members, and caregivers of individuals with autism spectrum disorder who represent the entire population of individuals with autism spectrum disorder, including those individuals with co-occurring conditions and the full range of needs for supports and services, including such supports and services to ensure the safety, and promote the well-being, of such individuals, to inform the activities of the center.
+
+#### (e) Budget estimate
+
+For each of fiscal years 2026 through 2029, the Director shall prepare and submit, directly to the President for review and transmittal to Congress, an annual budget estimate for the initiatives of the National Institutes of Health pursuant to the strategic plan developed under section 280i–2(b)(5) of this title and updated under section 280i–2(b)(6)(B) of this title, after reasonable opportunity for comment (but without change) by the Secretary and the Interagency Autism Coordinating Committee established under section 280i–2 of this title.
+
+(July 1, 1944, ch. 373, title IV, §409C, as added Pub. L. 106–310, div. A, title I, §101, Oct. 17, 2000, 114 Stat. 1105; amended Pub. L. 109–416, §§2(a), 4(b), Dec. 19, 2006, 120 Stat. 2821, 2830; Pub. L. 109–482, title I, §§103(b)(9), 104(b)(1)(D), Jan. 15, 2007, 120 Stat. 3687, 3693; Pub. L. 116–60, §2, Sept. 30, 2019, 133 Stat. 1110; Pub. L. 118–180, §2, Dec. 23, 2024, 138 Stat. 2614.)
 
   
 
@@ -75,6 +101,18 @@ The Director shall under subsection (a)(1) provide for means through which the p
 Another section 409C of act July 1, 1944, was renumbered section 409G and is classified to section 284k of this title.
 
 #### Amendments
+
+**2024**—Subsec. (a)(1). Pub. L. 118–180, §2(a), made numerous amendments to text and structure of par. (1). Prior to amendment, text read as follows: "The Director of NIH (in this section referred to as the "Director") shall, subject to the availability of appropriations, expand, intensify, and coordinate the activities of the National Institutes of Health with respect to research on autism spectrum disorder, including basic and clinical research in fields including pathology, developmental neurobiology, genetics, epigenetics, pharmacology, nutrition, immunology, neuroimmunology, neurobehavioral development, endocrinology, gastroenterology, toxicology, and interventions to maximize outcomes for individuals with autism spectrum disorder. Such research shall investigate the causes (including possible environmental causes), diagnosis or ruling out, early and ongoing detection, prevention, services across the lifespan, supports, intervention, and treatment of autism spectrum disorder, including dissemination and implementation of clinical care, supports, interventions, and treatments."
+
+Subsec. (b)(2). Pub. L. 118–180, §2(b)(1), substituted "in fields such as" for "including the fields of" and "behavioral psychology, clinical psychology, and gerontology" for "behavioral psychology, and clinical psychology".
+
+Subsec. (b)(5)(A). Pub. L. 118–180, §2(b)(2), substituted "seven centers" for "five centers".
+
+Subsec. (b)(5)(B). Pub. L. 118–180, §2(b)(3), substituted "period not to exceed" for "period of not to exceed".
+
+Subsec. (d). Pub. L. 118–180, §2(c), amended subsec. (d) generally. Prior to amendment, text read as follows: "The Director shall under subsection (a)(1) provide for means through which the public can obtain information on the existing and planned programs and activities of the National Institutes of Health with respect to autism spectrum disorder and through which the Director can receive comments from the public regarding such programs and activities."
+
+Subsec. (e). Pub. L. 118–180, §2(d), added subsec. (e).
 
 **2019**—Subsec. (a)(1). Pub. L. 116–60, §2(1), substituted "toxicology, and interventions to maximize outcomes for individuals with autism spectrum disorder" for "and toxicology" and "Such research shall investigate the causes (including possible environmental causes), diagnosis or ruling out, early and ongoing detection, prevention, services across the lifespan, supports, intervention, and treatment of autism spectrum disorder, including dissemination and implementation of clinical care, supports, interventions, and treatments." for "Such research shall investigate the cause (including possible environmental causes), diagnosis or rule out, early detection, prevention, services, supports, intervention, and treatment of autism spectrum disorder."
 

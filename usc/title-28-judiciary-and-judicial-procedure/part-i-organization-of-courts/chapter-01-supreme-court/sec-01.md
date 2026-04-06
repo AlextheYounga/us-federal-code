@@ -16,6 +16,8 @@ Appointment of "judges of the Supreme Court" by the President by and with the ad
 
 #### Short Title of 2024 Amendment
 
+Pub. L. 118–203, §1, Dec. 23, 2024, 138 Stat. 2693, provided that: "This Act \[amending section 133 of this title and enacting provisions set out as a note under section 133 of this title\] may be cited as the 'Federal Judiciary Stabilization Act of 2024'."
+
 Pub. L. 118–73, §1, July 30, 2024, 138 Stat. 1504, provided that: "This Act \[amending sections 124 and 128 of this title\] may be cited as the 'Improving Access to Our Courts Act'."
 
 #### Short Title of 2023 Amendment

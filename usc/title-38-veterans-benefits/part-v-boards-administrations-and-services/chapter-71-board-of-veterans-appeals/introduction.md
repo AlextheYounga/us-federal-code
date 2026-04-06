@@ -32,11 +32,15 @@ Sec.
 
 7113\. Evidentiary record before the Board of Veterans' Appeals.
 
+7114\. Internship program.
+
         
 
 #### **Editorial Notes**
 
 #### Amendments
+
+**2024**—Pub. L. 118–196, §5(b), Dec. 23, 2024, 138 Stat. 2673, added item 7114.
 
 **2022**—Pub. L. 117–300, §2(a)(2)(B), Dec. 27, 2022, 136 Stat. 4380, added item 7112 and struck out former item 7112 "Expedited treatment of remanded claims".
 

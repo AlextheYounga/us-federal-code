@@ -18,7 +18,7 @@ Sec.
 
 3208\. Indian Child Abuse Treatment Grant Program.
 
-3209\. Indian Child Resource and Family Services Centers.
+3209\. National Indian Child Resource and Family Services Center.
 
 3210\. Indian Child Protection and Family Violence Prevention Program.
 

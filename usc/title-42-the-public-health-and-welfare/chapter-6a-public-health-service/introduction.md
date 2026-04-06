@@ -234,7 +234,15 @@ Sec.
 
 244\. Public access defibrillation programs.
 
-244–1, 244a. Repealed.
+244–1. Repealed.
+
+244a. Materials and resources to increase education and awareness of cardiomyopathy among school administrators, educators, and families.
+
+244b. Activities relating to cardiomyopathy.
+
+244c. Cardiomyopathy research.
+
+244d. Promoting student access to AEDs and CPR.
 
 245\. Public awareness campaign on the importance of vaccinations.
 
