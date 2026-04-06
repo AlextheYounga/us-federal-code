@@ -8,7 +8,7 @@ Section, added Pub. L. 116–283, div. A, title VIII, §841(a), Jan. 1, 2021, 13
 
 #### Codification
 
-Pub. L. 117–81, div. A, title XVII, §1701(e)(2)(A), Dec. 27, 2021, 135 Stat. 2138, attempted to transfer this section to chapter 385 of this title, insert it after section 4872, redesignate it as section 4873, and amend subsec. (a)(2) by striking "section 2338" and inserting "section 3573", all of which was to take effect immediately after the amendments made by title XVIII of Pub. L. 116–283 took effect, pursuant to section 1701(a)(3) of Pub. L. 117–81, set out in a Technical, Conforming, and Clerical Amendments Related to Title XVIII of the Fiscal Year 2021 NDAA note preceding section 3001 of this title. However, this chapter, which included this section, was repealed by Pub. L. 116–283, div. A, title XVIII, §1881(a), Jan. 1, 2021, 134 Stat. 4293, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, pursuant to Pub. L. 116–283, div. A, title XVIII, §1801(d), Jan. 1, 2021, 134 Stat. 4151, set out as an Effective Date of 2021 Amendment note preceding section 3001 of this title.
+Pub. L. 117–81, div. A, title XVII, §1701(e)(2)(A), Dec. 27, 2021, 135 Stat. 2138, attempted to transfer this section to chapter 385 of this title, insert it after section 4872, redesignate it as section 4873, and amend subsec. (a)(2) by striking "section 2338" and inserting "section 3573", all of which was to take effect immediately after the amendments made by title XVIII of Pub. L. 116–283 took effect, pursuant to section 1701(a)(3) of Pub. L. 117–81, set out in an Effective Date of 2021 Amendment note preceding section 3001 of this title. However, this chapter, which included this section, was repealed by Pub. L. 116–283, div. A, title XVIII, §1881(a), Jan. 1, 2021, 134 Stat. 4293, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, pursuant to Pub. L. 116–283, div. A, title XVIII, §1801(d), Jan. 1, 2021, 134 Stat. 4151, set out as an Effective Date of 2021 Amendment note preceding section 3001 of this title.
 
 Prior to repeal, this section read as follows:
 
@@ -111,6 +111,8 @@ Prior to repeal, this section read as follows:
 (2) The Secretary may issue rules specifying end items, goods, and products for which a printed circuit board that is a component thereof shall be a specified type if the Secretary has promulgated final regulations, after an opportunity for notice and comment that is not less than 12 months, implementing this section.
 
 (3) In carrying out this section, the Secretary shall, to the maximum extent practicable, avoid imposing contractual certification requirements with respect to the acquisition of commercial products, commercial services, or commercially available off-the-shelf items.
+
+  
 
 (e) Applicability.—This section shall apply only with respect to contracts entered into after the issuance of a final rule implementing this section.
 
