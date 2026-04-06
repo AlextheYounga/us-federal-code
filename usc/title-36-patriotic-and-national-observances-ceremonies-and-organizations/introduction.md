@@ -24,7 +24,9 @@ Chap. Sec.
 
 21\. American Battle Monuments Commission 2101
 
-23\. United States Holocaust Memorial Council 2301
+23\. United States Holocaust Memorial Council 1 2301
+
+        
 
 25\. President's Committee on Employment of People With Disabilities 2501
 
@@ -84,7 +86,9 @@ Chap. Sec.
 
 305\. Blue Star Mothers of America, Inc. 30501
 
-307\. Board For Fundamental Education 30701
+307\. Board For 2 Fundamental Education 30701
+
+        
 
 309\. Boy Scouts of America 30901
 
@@ -204,7 +208,7 @@ Chap. Sec.
 
 1531\. The National Society of the Daughters of the American Revolution 153101
 
-1533\. National Society of the Sons of the American Revolution153301
+1533\. National Society of the Sons of the American Revolution 153301
 
 1535\. National Tropical Botanical Garden 153501
 
@@ -1849,3 +1853,7 @@ Pub. L. 105–354, §5(b), Nov. 3, 1998, 112 Stat. 3245, repealed specified laws
 Pub. L. 105–225, §6(a), Aug. 12, 1998, 112 Stat. 1499, provided that: "The repeal of a law by this Act may not be construed as a legislative inference that the provision was or was not in effect before its repeal."
 
 Pub. L. 105–225, §6(b), Aug. 12, 1998, 112 Stat. 1499, repealed specified laws, except for rights and duties that matured, penalties that were incurred, and proceedings that were begun before Aug. 12, 1998.
+
+[1 So in original. Does not conform to chapter heading.](#_1)
+
+[2 So in original. Probably should not be capitalized.](#_2)
