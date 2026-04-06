@@ -78,7 +78,7 @@ Sec.
 
 #### SUBCHAPTER XIV—KLAMATH TRIBE: DISTRIBUTION OF JUDGMENT FUND
 
-565 to 565g. Omitted.
+565 to 565g. Repealed.
 
         
 

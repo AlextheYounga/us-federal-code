@@ -150,7 +150,7 @@ Subsecs. (b), (c). Pub. L. 93–601 designated second and third pars. as subsecs
 
   
 
-#### **Statutory Notes and Related Subsidiairies**
+#### **Statutory Notes and Related Subsidiaries**
 
 #### Effective Date of 2011 Amendment
 

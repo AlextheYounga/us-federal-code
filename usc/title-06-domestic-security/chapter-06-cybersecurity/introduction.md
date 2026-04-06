@@ -40,6 +40,8 @@ Sec.
 
 1525\. Termination.
 
+1526\. Inventory of cryptographic systems; migration to post-quantum cryptography.
+
         
 
 #### SUBCHAPTER III—OTHER CYBER MATTERS

@@ -82,4 +82,6 @@ Sec.
 
 2234\. Encouraging adoption of standards for firefighter health and safety.
 
+2235\. Investigation authorities.
+
         

@@ -12,7 +12,7 @@ See note under section 31.
 
   
 
-#### **Editoral Notes**
+#### **Editorial Notes**
 
 #### Amendments
 
