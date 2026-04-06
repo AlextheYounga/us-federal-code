@@ -186,7 +186,7 @@ Sec.
 
 6602\. Definitions.
 
-6603\. Authorizations of appropriations.
+6603\. Authorization of appropriations.
 
         
 
@@ -640,7 +640,7 @@ Sec.
 
 7453\. Native American and Alaska Native language immersion schools and programs.
 
-7454 to 7456. Repealed.
+7454 to 7456. Repealed or Transferred.
 
         
 
