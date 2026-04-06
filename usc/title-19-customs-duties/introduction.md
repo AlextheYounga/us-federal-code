@@ -56,4 +56,6 @@ Chap. Sec.
 
 26\. Dominican Republic-Central America Free Trade 4001
 
+27\. Bipartisan Congressional Trade Priorities and Accountability 4201
+
         

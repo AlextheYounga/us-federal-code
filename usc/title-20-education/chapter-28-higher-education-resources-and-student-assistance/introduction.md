@@ -1064,7 +1064,7 @@ Sec.
 
 #### SUBCHAPTER VIII—MISCELLANEOUS
 
-1151\. Grants to States for workplace and community transition training for incarcerated individuals.
+1151\. Repealed.
 
 1152\. Repealed.
 

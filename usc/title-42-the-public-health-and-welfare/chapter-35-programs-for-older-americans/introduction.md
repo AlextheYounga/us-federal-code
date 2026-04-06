@@ -244,7 +244,7 @@ Sec.
 
 3056h. Eligibility for workforce investment activities.
 
-3056i. Coordination with the Workforce Investment Act of 1998.
+3056i. Coordination with the Workforce Innovation and Opportunity Act.
 
 3056j. Treatment of assistance.
 
