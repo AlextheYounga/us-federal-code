@@ -90,19 +90,7 @@ Sec.
 
 #### SUBCHAPTER IV–A—ABANDONED INFANTS ASSISTANCE
 
-5117aa. Findings.
-
-        
-
-#### Part A—Projects Regarding Abandonment of Infants and Young Children in Hospitals
-
-5117aa–11, 5117aa–12. Repealed.
-
-        
-
-#### Part B—General Provisions
-
-5117aa–21, 5117aa–22. Repealed.
+5117aa to 5117aa–22. Repealed.
 
         
 

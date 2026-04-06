@@ -1,1 +1,0 @@
-### Part A—Projects Regarding Abandonment of Infants and Young Children in Hospitals
