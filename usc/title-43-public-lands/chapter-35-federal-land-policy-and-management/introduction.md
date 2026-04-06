@@ -8,7 +8,7 @@ Sec.
 
 1702\. Definitions.
 
-1703\. Repealed.
+1703\. Cooperative action and sharing of resources by Secretaries of the Interior and Agriculture.
 
         
 
