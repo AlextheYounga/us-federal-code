@@ -534,6 +534,8 @@ To be eligible to receive an award under paragraph (1), an entity shall prepare,
 
 (II) for fiscal year 2025 and each fiscal year thereafter, not less than $1 for each $10 of Federal funds provided in the award.
 
+  
+
 (ii) Waiver.—The Secretary may, upon the request of a State, waive the requirement under clause (i), in whole or in part, if the Secretary determines that extraordinary economic conditions in the State in the fiscal year involved or in the previous fiscal year justify the waiver. A waiver provided by the Secretary under this subparagraph shall apply only to the fiscal year involved.
 
 #### (C) Administrative expenses
