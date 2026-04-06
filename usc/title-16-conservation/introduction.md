@@ -274,6 +274,8 @@ Chap. Sec.
 
 87A. Modernizing Access to Public Land 6851
 
+87B. Modernizing Access to Public Waters 6871
+
 88\. Western and Central Pacific Fisheries Convention 6901
 
 89\. Pacific Whiting 7001

@@ -10,41 +10,13 @@ Sec.
 
 #### Part A—Marine Debris Foundation
 
-4211\. Establishment and purposes of Foundation.
-
-4212\. Board of Directors of the Foundation.
-
-4213\. Rights and obligations of the Foundation.
-
-4214\. Administrative services and support.
-
-4215\. Volunteer status.
-
-4216\. Report requirements; petition of Attorney General for equitable relief.
-
-4217\. United States release from liability.
-
-4218\. Authorization of appropriations.
-
-4219\. Termination of authority.
+4211 to 4219. Transferred.
 
         
 
 #### Part B—Genius Prize for Save Our Seas Innovations
 
-4231\. Definitions.
-
-4232\. Genius Prize for Save Our Seas Innovations.
-
-4233\. Agreement with the Marine Debris Foundation.
-
-4234\. Judges.
-
-4235\. Report to Congress.
-
-4236\. Authorization of appropriations.
-
-4237\. Termination of authority.
+4231 to 4237. Transferred.
 
         
 
