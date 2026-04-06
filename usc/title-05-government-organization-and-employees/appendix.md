@@ -5182,7 +5182,7 @@ The provisions of this Act and the amendments made by this Act \[see section 10 
 
 # ETHICS IN GOVERNMENT ACT OF 1978
 
-Pub. L. 95–521, titles I–V, Oct. 26, 1978, 92 Stat. 1824–1867, as amended by Pub. L. 96–19, §§2–9, June 13, 1979, 93 Stat. 37–44; Pub. L. 96–417, title VI, §601(9), Oct. 10, 1980, 94 Stat. 1744; Pub. L. 96–579, §12(c), Dec. 23, 1980, 94 Stat. 3369; Pub. L. 97–51, §130(b), Oct. 1, 1981, 95 Stat. 966; Pub. L. 97–164, title I, §163(a)(6), Apr. 2, 1982, 96 Stat. 49; Pub. L. 98–150, §§2, 3(a)–(c), 4–12, Nov. 11, 1983, 97 Stat. 959–963; Pub. L. 99–190, §148(b), Dec. 19, 1985, 99 Stat. 1325; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 99–573, §6, Oct. 28, 1986, 100 Stat. 3231; Pub. L. 100–191, §3(b), Dec. 15, 1987, 101 Stat. 1306; Pub. L. 100–598, §§2–9, Nov. 3, 1988, 102 Stat. 3031–3035; Pub. L. 101–194, title II, §§201, 202, title VI, §601(a), Nov. 30, 1989, 103 Stat. 1724–1744, 1760, 1761; Pub. L. 101–280, §§3(1)–(10)(A), (C), 7(a)–(c), May 4, 1990, 104 Stat. 152–157, 161; Pub. L. 101–334, July 16, 1990, 104 Stat. 318; Pub. L. 101–650, title III, §319, title IV, §405, Dec. 1, 1990, 104 Stat. 5117, 5124; Pub. L. 102–25, title VI, §605(a), Apr. 6, 1991, 105 Stat. 110; Pub. L. 102–90, title I, §6(b), title III, §§313, 314(a), (b), Aug. 14, 1991, 105 Stat. 450, 469; Pub. L. 102–198, §6, Dec. 9, 1991, 105 Stat. 1624; Pub. L. 102–378, §4(a), (b), Oct. 2, 1992, 106 Stat. 1356, 1357; Pub. L. 102–506, §2, Oct. 24, 1992, 106 Stat. 3280; Pub. L. 102–572, title IX, §902(b)(2), Oct. 29, 1992, 106 Stat. 4516; Pub. L. 103–160, div. A, title XI, §1182(d)(3), Nov. 30, 1993, 107 Stat. 1773; Pub. L. 103–337, div. A, title IX, §924(d)(3), Oct. 5, 1994, 108 Stat. 2832; Pub. L. 103–359, title V, §501(m), Oct. 14, 1994, 108 Stat. 3430; Pub. L. 104–65, §§20, 22(a), (b), Dec. 19, 1995, 109 Stat. 704, 705; Pub. L. 104–179, §§2, 3, 4(b)(2), Aug. 6, 1996, 110 Stat. 1566, 1567; Pub. L. 104–186, title II, §216, Aug. 20, 1996, 110 Stat. 1747; Pub. L. 104–201, div. A, title XI, §1122(b)(2), Sept. 23, 1996, 110 Stat. 2687; Pub. L. 105–318, §7, Oct. 30, 1998, 112 Stat. 3011; Pub. L. 105–368, title V, §512(b)(1)(D), Nov. 11, 1998, 112 Stat. 3342; Pub. L. 107–119, §2, Jan. 15, 2002, 115 Stat. 2382; Pub. L. 107–126, Jan. 16, 2002, 115 Stat. 2404; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 108–458, title I, §1079(c), Dec. 17, 2004, 118 Stat. 3696; Pub. L. 109–55, title I, §1003(a), Aug. 2, 2005, 119 Stat. 572; Pub. L. 109–289, div. B, title II, §21069, as added Pub. L. 110–5, §2, Feb. 15, 2007, 121 Stat. 57; Pub. L. 109–435, title VI, §604(c), Dec. 20, 2006, 120 Stat. 3241; Pub. L. 110–24, §§2, 3, May 3, 2007, 121 Stat. 100; Pub. L. 110–81, title VII, §702, Sept. 14, 2007, 121 Stat. 775; Pub. L. 110–177, title I, §104, Jan. 7, 2008, 121 Stat. 2535; Pub. L. 110–323, §7, Sept. 22, 2008, 122 Stat. 3547; Pub. L. 110–417, \[div. A\], title IX, §931(b)(1), Oct. 14, 2008, 122 Stat. 4575; Pub. L. 112–84, §1, Jan. 3, 2012, 125 Stat. 1870; Pub. L. 112–105, §§6(a), 8(c), 13(a), 19(a), Apr. 4, 2012, 126 Stat. 293, 296, 300, 304; Pub. L. 113–235, div. H, title I, §1301(b), Dec. 16, 2014, 128 Stat. 2537; Pub. L. 115–141, div. M, title VI, §601, Mar. 23, 2018, 132 Stat. 1051; Pub. L. 115–277, §1(b), Nov. 3, 2018, 132 Stat. 4167.
+Pub. L. 95–521, titles I–V, Oct. 26, 1978, 92 Stat. 1824–1867, as amended by Pub. L. 96–19, §§2–9, June 13, 1979, 93 Stat. 37–44; Pub. L. 96–417, title VI, §601(9), Oct. 10, 1980, 94 Stat. 1744; Pub. L. 96–579, §12(c), Dec. 23, 1980, 94 Stat. 3369; Pub. L. 97–51, §130(b), Oct. 1, 1981, 95 Stat. 966; Pub. L. 97–164, title I, §163(a)(6), Apr. 2, 1982, 96 Stat. 49; Pub. L. 98–150, §§2, 3(a)–(c), 4–12, Nov. 11, 1983, 97 Stat. 959–963; Pub. L. 99–190, §148(b), Dec. 19, 1985, 99 Stat. 1325; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 99–573, §6, Oct. 28, 1986, 100 Stat. 3231; Pub. L. 100–191, §3(b), Dec. 15, 1987, 101 Stat. 1306; Pub. L. 100–598, §§2–9, Nov. 3, 1988, 102 Stat. 3031–3035; Pub. L. 101–194, title II, §§201, 202, title VI, §601(a), Nov. 30, 1989, 103 Stat. 1724–1744, 1760, 1761; Pub. L. 101–280, §§3(1)–(10)(A), (C), 7(a)–(c), May 4, 1990, 104 Stat. 152–157, 161; Pub. L. 101–334, July 16, 1990, 104 Stat. 318; Pub. L. 101–650, title III, §319, title IV, §405, Dec. 1, 1990, 104 Stat. 5117, 5124; Pub. L. 102–25, title VI, §605(a), Apr. 6, 1991, 105 Stat. 110; Pub. L. 102–90, title I, §6(b), title III, §§313, 314(a), (b), Aug. 14, 1991, 105 Stat. 450, 469; Pub. L. 102–198, §6, Dec. 9, 1991, 105 Stat. 1624; Pub. L. 102–378, §4(a), (b), Oct. 2, 1992, 106 Stat. 1356, 1357; Pub. L. 102–506, §2, Oct. 24, 1992, 106 Stat. 3280; Pub. L. 102–572, title IX, §902(b)(2), Oct. 29, 1992, 106 Stat. 4516; Pub. L. 103–160, div. A, title XI, §1182(d)(3), Nov. 30, 1993, 107 Stat. 1773; Pub. L. 103–337, div. A, title IX, §924(d)(3), Oct. 5, 1994, 108 Stat. 2832; Pub. L. 103–359, title V, §501(m), Oct. 14, 1994, 108 Stat. 3430; Pub. L. 104–65, §§20, 22(a), (b), Dec. 19, 1995, 109 Stat. 704, 705; Pub. L. 104–179, §§2, 3, 4(b)(2), Aug. 6, 1996, 110 Stat. 1566, 1567; Pub. L. 104–186, title II, §216, Aug. 20, 1996, 110 Stat. 1747; Pub. L. 104–201, div. A, title XI, §1122(b)(2), Sept. 23, 1996, 110 Stat. 2687; Pub. L. 105–318, §7, Oct. 30, 1998, 112 Stat. 3011; Pub. L. 105–368, title V, §512(b)(1)(D), Nov. 11, 1998, 112 Stat. 3342; Pub. L. 107–119, §2, Jan. 15, 2002, 115 Stat. 2382; Pub. L. 107–126, Jan. 16, 2002, 115 Stat. 2404; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 108–458, title I, §1079(c), Dec. 17, 2004, 118 Stat. 3696; Pub. L. 109–55, title I, §1003(a), Aug. 2, 2005, 119 Stat. 572; Pub. L. 109–289, div. B, title II, §21069, as added Pub. L. 110–5, §2, Feb. 15, 2007, 121 Stat. 57; Pub. L. 109–435, title VI, §604(c), Dec. 20, 2006, 120 Stat. 3241; Pub. L. 110–24, §§2, 3, May 3, 2007, 121 Stat. 100; Pub. L. 110–81, title VII, §702, Sept. 14, 2007, 121 Stat. 775; Pub. L. 110–177, title I, §104, Jan. 7, 2008, 121 Stat. 2535; Pub. L. 110–323, §7, Sept. 22, 2008, 122 Stat. 3547; Pub. L. 110–417, \[div. A\], title IX, §931(b)(1), Oct. 14, 2008, 122 Stat. 4575; Pub. L. 112–84, §1, Jan. 3, 2012, 125 Stat. 1870; Pub. L. 112–105, §§6(a), 8(c), 13(a), 19(a), Apr. 4, 2012, 126 Stat. 293, 296, 300, 304; Pub. L. 113–235, div. H, title I, §1301(b), Dec. 16, 2014, 128 Stat. 2537; Pub. L. 115–141, div. M, title VI, §601, Mar. 23, 2018, 132 Stat. 1051; Pub. L. 115–277, §1(b), Nov. 3, 2018, 132 Stat. 4167; Pub. L. 117–125, §2(a)(1), (b), (c), May 13, 2022, 136 Stat. 1205, 1206.
 
 #### TITLE I—FINANCIAL DISCLOSURE REQUIREMENTS OF FEDERAL PERSONNEL
 
@@ -5409,6 +5409,10 @@ Pub. L. 101–280, §3(10)(C), (D), May 4, 1990, 104 Stat. 157, provided that:
 "(C) The provisions of titles I \[formerly classified to section 701 et seq. of Title 2, The Congress\], II \[formerly set out under the heading Executive Personnel Financial Disclosure Requirements in this Appendix\], and III \[formerly set out under the heading Judicial Personnel Financial Disclosure Requirements in the Appendix to Title 28, Judiciary and Judicial Procedure\] of the Ethics in Government Act of 1978 \[Pub. L. 95–521\], as in effect on the day before the date of the enactment of the Ethics Reform Act of 1989 \[Nov. 30, 1989\], shall be effective for the period beginning on November 30, 1989, and ending on January 1, 1991, as if the Ethics Reform Act of 1989 \[Pub. L. 101–194\] had not been enacted, except that the provisions of section 202(f)(4)(B) of the Ethics in Government Act of 1978 \[section 202(f)(4)(B) of Pub. L. 95–521\] shall be repealed as of January 1, 1990.
 
 "(D) Nothing in title II of the Ethics Reform Act of 1989 or the amendments made by such title \[title II of Pub. L. 101–194, amending title I of Pub. L. 95–521, set out in this Appendix, but formerly classified to sections 701 to 709 of Title 2, and repealing title II of Pub. L. 95–521, formerly set out in this Appendix, and title III of Pub. L. 95–521, formerly set out in the Appendix to Title 28\] shall be construed to prevent the prosecution of civil actions against individuals for violations of the Ethics in Government Act of 1978 \[Pub. L. 95–521\] before January 1, 1991."
+
+#### Short Title of 2022 Amendment
+
+Pub. L. 117–125, §1, May 13, 2022, 136 Stat. 1205, provided that: "This Act \[amending sections 103, 105, and 107 of Pub. L. 95–521, set out in this Appendix, and enacting provisions set out as a note under section 103 of Pub. L. 95–521, set out in this Appendix\] may be cited as the 'Courthouse Ethics and Transparency Act'."
 
 #### Short Title of 2012 Amendment
 
@@ -6018,11 +6022,17 @@ Pub. L. 98–150, §13, Nov. 11, 1983, 97 Stat. 963, provided that: "The amendme
 
 (8) Any civilian employee not described in paragraph (3), employed in the Executive Office of the President (other than a special government employee) who holds a commission of appointment from the President.
 
-(9) A Member of Congress, as defined under section 109(12).
+(9) A Member of Congress.
 
-(10) An officer or employee of the Congress, as defined under section 109(13).
+(10) An officer or employee of the Congress.
 
-(Pub. L. 95–521, title I, §103, Oct. 26, 1978, 92 Stat. 1831; Pub. L. 96–19, §§4(b)(2), 9(a), June 13, 1979, 93 Stat. 40, 42; Pub. L. 101–194, title II, §202, Nov. 30, 1989, 103 Stat. 1736; Pub. L. 101–280, §3(1), (4), May 4, 1990, 104 Stat. 152, 153; Pub. L. 102–90, title III, §313(1), Aug. 14, 1991, 105 Stat. 469; Pub. L. 104–186, title II, §216(1), Aug. 20, 1996, 110 Stat. 1747; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 109–55, title I, §1003(a), Aug. 2, 2005, 119 Stat. 572; Pub. L. 112–105, §§6(a), 19(a), Apr. 4, 2012, 126 Stat. 293, 304; Pub. L. 113–235, div. H, title I, §1301(b), Dec. 16, 2014, 128 Stat. 2537; Pub. L. 115–277, §1(b), Nov. 3, 2018, 132 Stat. 4167.)
+(11) Each judicial officer.
+
+(12) Each bankruptcy judge appointed under section 152 of title 28, United States Code.
+
+(13) Each United States magistrate judge appointed under section 631 of title 28, United States Code.
+
+(Pub. L. 95–521, title I, §103, Oct. 26, 1978, 92 Stat. 1831; Pub. L. 96–19, §§4(b)(2), 9(a), June 13, 1979, 93 Stat. 40, 42; Pub. L. 101–194, title II, §202, Nov. 30, 1989, 103 Stat. 1736; Pub. L. 101–280, §3(1), (4), May 4, 1990, 104 Stat. 152, 153; Pub. L. 102–90, title III, §313(1), Aug. 14, 1991, 105 Stat. 469; Pub. L. 104–186, title II, §216(1), Aug. 20, 1996, 110 Stat. 1747; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 109–55, title I, §1003(a), Aug. 2, 2005, 119 Stat. 572; Pub. L. 112–105, §§6(a), 19(a), Apr. 4, 2012, 126 Stat. 293, 304; Pub. L. 113–235, div. H, title I, §1301(b), Dec. 16, 2014, 128 Stat. 2537; Pub. L. 115–277, §1(b), Nov. 3, 2018, 132 Stat. 4167; Pub. L. 117–125, §2(a)(1), (c)(1), May 13, 2022, 136 Stat. 1205, 1206.)
 
   
 
@@ -6043,6 +6053,12 @@ The General Schedule, referred to in subsec. (l)(3), (6), is set out under secti
 Section was formerly classified to section 703 of Title 2, The Congress.
 
 #### Amendments
+
+**2022**—Subsec. (l)(9). Pub. L. 117–125, §2(c)(1)(A), struck out ", as defined under section 109(12)" before period at end.
+
+Subsec. (l)(10). Pub. L. 117–125, §2(c)(1)(B), struck out ", as defined under section 109(13)" before period at end.
+
+Subsec. (l)(11) to (13). Pub. L. 117–125, §2(a)(1), added pars. (11) to (13).
 
 **2018**—Subsec. (i)(2). Pub. L. 115–277 substituted "STOCK Act" for "Stop Trading on Congressional Knowledge Act of 2012".
 
@@ -6091,6 +6107,10 @@ Subsec. (f). Pub. L. 96–19, §9(a), substituted "the designated committee of t
 "Government Publishing Office" substituted for "Government Printing Office" in subsec. (h)(1)(A)(i)(I) on authority of section 1301(b) of Pub. L. 113–235, set out as a note preceding section 301 of Title 44, Public Printing and Documents.
 
 Committee on Standards of Official Conduct of House of Representatives changed to Committee on Ethics of House of Representatives by House Resolution No. 5, One Hundred Twelfth Congress, Jan. 5, 2011.
+
+#### Effective Date of 2022 Amendment
+
+Pub. L. 117–125, §2(a)(2), May 13, 2022, 136 Stat. 1205, provided that: "The amendment made by paragraph (1) \[amending this section\] shall apply to applicable transactions occurring on or after the date that is 90 days after the date of enactment of this Act \[May 13, 2022\]."
 
 #### Effective Date of 2012 Amendment
 
@@ -6212,13 +6232,13 @@ Amendment by Pub. L. 101–194 effective Jan. 1, 1991, see section 204 of Pub. L
 
 (a) Each agency, each supervising ethics office in the executive or judicial branch, the Clerk of the House of Representatives, and the Secretary of the Senate shall make available to the public, in accordance with subsection (b), each report filed under this title with such agency or office or with the Clerk or the Secretary of the Senate, except that—
 
-(1) this section does not require public availability of a report filed by any individual in the Office of the Director of National Intelligence, the Central Intelligence Agency, the Defense Intelligence Agency, the National Geospatial-Intelligence Agency, or the National Security Agency, or any individual engaged in intelligence activities in any agency of the United States, if the President finds or has found that, due to the nature of the office or position occupied by such individual, public disclosure of such report would, be [1](#105_1_target) revealing the identity of the individual or other sensitive information, compromise the national interest of the United States; and such individuals may be authorized, notwithstanding section 104(a), to file such additional reports as are necessary to protect their identity from public disclosure if the President first finds or has found that such filing is necessary in the national interest; and
+(1) this section does not require public availability of a report filed by any individual in the Office of the Director of National Intelligence, the Central Intelligence Agency, the Defense Intelligence Agency, the National Geospatial-Intelligence Agency, or the National Security Agency, or any individual engaged in intelligence activities in any agency of the United States, if the President finds or has found that, due to the nature of the office or position occupied by such individual, public disclosure of such report would, by revealing the identity of the individual or other sensitive information, compromise the national interest of the United States; and such individuals may be authorized, notwithstanding section 104(a), to file such additional reports as are necessary to protect their identity from public disclosure if the President first finds or has found that such filing is necessary in the national interest; and
 
 (2) any report filed by an independent counsel whose identity has not been disclosed by the division of the court under chapter 40 of title 28, United States Code, and any report filed by any person appointed by that independent counsel under such chapter, shall not be made available to the public under this title.
 
   
 
-(b)(1) Except as provided in the second sentence of this subsection, each agency, each supervising ethics office in the executive or judicial branch, the Clerk of the House of Representatives, and the Secretary of the Senate shall, within thirty days after any report is received under this title by such agency or office or by the Clerk or the Secretary of the Senate, as the case may be,,[2](#105_2_target) permit inspection of such report by or furnish a copy of such report to any person requesting such inspection or copy. With respect to any report required to be filed by May 15 of any year, such report shall be made available for public inspection within 30 calendar days after May 15 of such year or within 30 days of the date of filing of such a report for which an extension is granted pursuant to section 101(g). The agency, office, Clerk, or Secretary of the Senate, as the case may be [3](#105_3_target) may require a reasonable fee to be paid in any amount which is found necessary to recover the cost of reproduction or mailing of such report excluding any salary of any employee involved in such reproduction or mailing. A copy of such report may be furnished without charge or at a reduced charge if it is determined that waiver or reduction of the fee is in the public interest.
+(b)(1) Except as provided in the second sentence of this subsection, each agency, each supervising ethics office in the executive or judicial branch, the Clerk of the House of Representatives, and the Secretary of the Senate shall, within thirty days after any report is received under this title by such agency or office or by the Clerk or the Secretary of the Senate, as the case may be, permit inspection of such report by or furnish a copy of such report to any person requesting such inspection or copy. With respect to any report required to be filed by May 15 of any year, such report shall be made available for public inspection within 30 calendar days after May 15 of such year or within 30 days of the date of filing of such a report for which an extension is granted pursuant to section 101(g). The agency, office, Clerk, or Secretary of the Senate, as the case may be, may require a reasonable fee to be paid in any amount which is found necessary to recover the cost of reproduction or mailing of such report excluding any salary of any employee involved in such reproduction or mailing. A copy of such report may be furnished without charge or at a reduced charge if it is determined that waiver or reduction of the fee is in the public interest.
 
 (2) Notwithstanding paragraph (1), a report may not be made available under this section to any person nor may any copy thereof be provided under this section to any person except upon a written application by such person stating—
 
@@ -6232,7 +6252,7 @@ Amendment by Pub. L. 101–194 effective Jan. 1, 1991, see section 204 of Pub. L
 
 Any such application shall be made available to the public throughout the period during which the report is made available to the public.
 
-(3)(A) This section does not require the immediate and unconditional availability of reports filed by an individual described in section 109(8) or 109(10) of this Act if a finding is made by the Judicial Conference, in consultation with United States Marshals Service, that revealing personal and sensitive information could endanger that individual or a family member of that individual.
+(3)(A) This section does not require the immediate and unconditional availability of reports filed by an individual who is a judicial officer or a judicial employee if a finding is made by the Judicial Conference, in consultation with United States Marshals Service, that revealing personal and sensitive information could endanger that individual or a family member of that individual.
 
 (B) A report may be redacted pursuant to this paragraph only—
 
@@ -6264,7 +6284,21 @@ Any such application shall be made available to the public throughout the period
 
 (E) This paragraph shall expire on December 31, 2027, and apply to filings through calendar year 2027.
 
-(c)(1) It shall be unlawful for any person to obtain or use a report—
+(c) Online Publication of Financial Disclosure Reports of Federal Judges.—
+
+(1) Establishment of database.—Subject to paragraph (4), not later than 180 days after the date of enactment of the Courthouse Ethics and Transparency Act, the Administrative Office of the United States Courts shall establish a searchable internet database to enable public access to any report required to be filed under this title by a judicial officer, bankruptcy judge, or magistrate judge.
+
+(2) Availability.—Not later than 90 days after the date on which a report is required to be filed under this title by a judicial officer, bankruptcy judge, or magistrate judge, the Administrative Office of the United States Courts shall make the report available on the database established under paragraph (1) in a full-text searchable, sortable, and downloadable format for access by the public.
+
+(3) Redaction.—Any report made available on the database established under paragraph (1) shall not contain any information that is redacted in accordance with subsection (b)(3).
+
+(4) Additional time.—
+
+(A) In general.—Subject to subparagraph (B), the requirements of this subsection may be implemented after the date described in paragraph (1) if the Administrative Office of the United States Courts identifies in writing to the relevant committees of Congress the additional time needed for that implementation.
+
+(B) Publication requirement.—The Administrative Office of the United States Courts shall continue to make the reports described in paragraph (1) available to the public during the period in which the Administrative Office of the United States Courts establishes the database under this subsection.
+
+(d)(1) It shall be unlawful for any person to obtain or use a report—
 
 (A) for any unlawful purpose;
 
@@ -6278,7 +6312,7 @@ Any such application shall be made available to the public throughout the period
 
 (2) The Attorney General may bring a civil action against any person who obtains or uses a report for any purpose prohibited in paragraph (1) of this subsection. The court in which such action is brought may assess against such person a penalty in any amount not to exceed $10,000. Such remedy shall be in addition to any other remedy available under statutory or common law.
 
-(d)(1) Any report filed with or transmitted to an agency or supervising ethics office or to the Clerk of the House of Representatives or the Secretary of the Senate pursuant to this title shall be retained by such agency or office or by the Clerk of the House of Representatives or the Secretary of the Senate, as the case may be.
+(e)(1) Any report filed with or transmitted to an agency or supervising ethics office or to the Clerk of the House of Representatives or the Secretary of the Senate pursuant to this title shall be retained by such agency or office or by the Clerk of the House of Representatives or the Secretary of the Senate, as the case may be.
 
 (2) Such report shall be made available to the public—
 
@@ -6290,7 +6324,7 @@ Any such application shall be made available to the public throughout the period
 
 (3) After the relevant time period identified under paragraph (2), the report shall be destroyed unless needed in an ongoing investigation, except that in the case of an individual who filed the report pursuant to section 101(b) and was not subsequently confirmed by the Senate, or who filed the report pursuant to section 101(c) and was not subsequently elected, such reports shall be destroyed 1 year after the individual either is no longer under consideration by the Senate or is no longer a candidate for nomination or election to the Office of President, Vice President, or as a Member of Congress, unless needed in an ongoing investigation or inquiry.
 
-(Pub. L. 95–521, title I, §105, Oct. 26, 1978, 92 Stat. 1833; Pub. L. 101–194, title II, §202, Nov. 30, 1989, 103 Stat. 1737; Pub. L. 101–280, §3(6), May 4, 1990, 104 Stat. 154; Pub. L. 102–90, title III, §313(2), Aug. 14, 1991, 105 Stat. 469; Pub. L. 103–359, title V, §501(m), Oct. 14, 1994, 108 Stat. 3430; Pub. L. 104–201, div. A, title XI, §1122(b)(2), Sept. 23, 1996, 110 Stat. 2687; Pub. L. 105–318, §7, Oct. 30, 1998, 112 Stat. 3011; Pub. L. 107–126, Jan. 16, 2002, 115 Stat. 2404; Pub. L. 108–458, title I, §1079(c), Dec. 17, 2004, 118 Stat. 3696; Pub. L. 110–24, §§2, 3, May 3, 2007, 121 Stat. 100; Pub. L. 110–177, title I, §104, Jan. 7, 2008, 121 Stat. 2535; Pub. L. 110–417, \[div. A\], title IX, §931(b)(1), Oct. 14, 2008, 122 Stat. 4575; Pub. L. 112–84, §1, Jan. 3, 2012, 125 Stat. 1870; Pub. L. 112–105, §8(c), Apr. 4, 2012, 126 Stat. 296; Pub. L. 115–141, div. M, title VI, §601, Mar. 23, 2018, 132 Stat. 1051.)
+(Pub. L. 95–521, title I, §105, Oct. 26, 1978, 92 Stat. 1833; Pub. L. 101–194, title II, §202, Nov. 30, 1989, 103 Stat. 1737; Pub. L. 101–280, §3(6), May 4, 1990, 104 Stat. 154; Pub. L. 102–90, title III, §313(2), Aug. 14, 1991, 105 Stat. 469; Pub. L. 103–359, title V, §501(m), Oct. 14, 1994, 108 Stat. 3430; Pub. L. 104–201, div. A, title XI, §1122(b)(2), Sept. 23, 1996, 110 Stat. 2687; Pub. L. 105–318, §7, Oct. 30, 1998, 112 Stat. 3011; Pub. L. 107–126, Jan. 16, 2002, 115 Stat. 2404; Pub. L. 108–458, title I, §1079(c), Dec. 17, 2004, 118 Stat. 3696; Pub. L. 110–24, §§2, 3, May 3, 2007, 121 Stat. 100; Pub. L. 110–177, title I, §104, Jan. 7, 2008, 121 Stat. 2535; Pub. L. 110–417, \[div. A\], title IX, §931(b)(1), Oct. 14, 2008, 122 Stat. 4575; Pub. L. 112–84, §1, Jan. 3, 2012, 125 Stat. 1870; Pub. L. 112–105, §8(c), Apr. 4, 2012, 126 Stat. 296; Pub. L. 115–141, div. M, title VI, §601, Mar. 23, 2018, 132 Stat. 1051; Pub. L. 117–125, §2(b), (c)(2), May 13, 2022, 136 Stat. 1205, 1206.)
 
   
 
@@ -6301,6 +6335,14 @@ Any such application shall be made available to the public throughout the period
 Section was formerly classified to section 705 of Title 2, The Congress.
 
 #### Amendments
+
+**2022**—Subsec. (a)(1). Pub. L. 117–125, §2(c)(2)(A), substituted "by revealing" for "be revealing".
+
+Subsec. (b)(1). Pub. L. 117–125, §2(c)(2)(B)(i), substituted "may be, permit" for "may be,, permit" and "may be, may require" for "may be may require".
+
+Subsec. (b)(3)(A). Pub. L. 117–125, §2(c)(2)(B)(ii), substituted "who is a judicial officer or a judicial employee" for "described in section 109(8) or 109(10) of this Act".
+
+Subsecs. (c) to (e). Pub. L. 117–125, §2(b), added subsec. (c) and redesignated former subsecs. (c) and (d) as (d) and (e), respectively.
 
 **2018**—Subsec. (b)(3)(E). Pub. L. 115–141 substituted "2027" for "2017" in two places.
 
@@ -6484,12 +6526,6 @@ Pub. L. 112–105, §11, Apr. 4, 2012, 126 Stat. 298, as amended by Pub. L. 112�
 
 Pub. L. 101–280, §9, May 4, 1990, 104 Stat. 162, provided that: "Those reports filed under title I \[formerly classified to section 701 et seq. of Title 2, The Congress\], II \[formerly set out under the heading Executive Personnel Financial Disclosure Requirements in this Appendix\], or III \[formerly set out under the heading Judicial Personnel Financial Disclosure Requirements in the Appendix to Title 28, Judiciary and Judicial Procedure\] of the Ethics in Government Act of 1978 \[Pub. L. 95–521\], as in effect before January 1, 1991, shall be made available to the public on or after such date in accordance with section 105 of that Act \[this section\], as amended by the Ethics Reform Act of 1989 \[Pub. L. 101–194\], and the provisions of such section shall apply with respect to those reports."
 
-[1 So in original. Probably should be "by".](#105_1)
-
-[2 So in original.](#105_2)
-
-[3 So in original. Probably should be followed by a comma.](#105_3)
-
 ### §106. Review of reports
 
 (a)(1) Each designated agency ethics official or Secretary concerned shall make provisions to ensure that each report filed with him under this title is reviewed within sixty days after the date of such filing, except that the Director of the Office of Government Ethics shall review only those reports required to be transmitted to him under this title within sixty days after the date of transmittal.
@@ -6580,7 +6616,7 @@ Amendment by Pub. L. 101–194 effective Jan. 1, 1991, see section 204 of Pub. L
 
 ### §107. Confidential reports and other additional requirements
 
-(a)(1) Each supervising ethics office may require officers and employees under its jurisdiction (including special Government employees as defined in section 202 of title 18, United States Code) to file confidential financial disclosure reports, in such form as the supervising ethics office may prescribe. The information required to be reported under this subsection by the officers and employees of any department or agency shall be set forth in rules or regulations prescribed by the supervising ethics office, and may be less extensive than otherwise required by this title, or more extensive when determined by the supervising ethics office to be necessary and appropriate in light of sections 202 through 209 of title 18, United States Code, regulations promulgated thereunder, or the authorized activities of such officers or employees. Any individual required to file a report pursuant to section 101 shall not be required to file a confidential report pursuant to this subsection, except with respect to information which is more extensive than information otherwise required by this title. Subsections (a), (b), and (d) of section 105 shall not apply with respect to any such report.
+(a)(1) Each supervising ethics office may require officers and employees under its jurisdiction (including special Government employees as defined in section 202 of title 18, United States Code) to file confidential financial disclosure reports, in such form as the supervising ethics office may prescribe. The information required to be reported under this subsection by the officers and employees of any department or agency shall be set forth in rules or regulations prescribed by the supervising ethics office, and may be less extensive than otherwise required by this title, or more extensive when determined by the supervising ethics office to be necessary and appropriate in light of sections 202 through 209 of title 18, United States Code, regulations promulgated thereunder, or the authorized activities of such officers or employees. Any individual required to file a report pursuant to section 101 shall not be required to file a confidential report pursuant to this subsection, except with respect to information which is more extensive than information otherwise required by this title. Subsections (a), (b), and (e) of section 105 shall not apply with respect to any such report.
 
 (2) Any information required to be provided by an individual under this subsection shall be confidential and shall not be disclosed to the public.
 
@@ -6590,7 +6626,7 @@ Amendment by Pub. L. 101–194 effective Jan. 1, 1991, see section 204 of Pub. L
 
 (c) Nothing in this Act requiring reporting of information shall be deemed to authorize the receipt of income, gifts, or reimbursements; the holding of assets, liabilities, or positions; or the participation in transactions that are prohibited by law, Executive order, rule, or regulation.
 
-(Pub. L. 95–521, title I, §107, Oct. 26, 1978, 92 Stat. 1834; Pub. L. 96–19, §9(d), (g), June 13, 1979, 93 Stat. 42, 43; Pub. L. 101–194, title II, §202, Nov. 30, 1989, 103 Stat. 1740.)
+(Pub. L. 95–521, title I, §107, Oct. 26, 1978, 92 Stat. 1834; Pub. L. 96–19, §9(d), (g), June 13, 1979, 93 Stat. 42, 43; Pub. L. 101–194, title II, §202, Nov. 30, 1989, 103 Stat. 1740; Pub. L. 117–125, §2(c)(3), May 13, 2022, 136 Stat. 1207.)
 
   
 
@@ -6605,6 +6641,8 @@ This Act, referred to in subsec. (c), is Pub. L. 95–521, Oct. 26, 1978, 92 Sta
 Section was formerly classified to section 707 of Title 2, The Congress.
 
 #### Amendments
+
+**2022**—Subsec. (a)(1). Pub. L. 117–125 substituted "and (e)" for "and (d)" in last sentence.
 
 **1989**—Pub. L. 101–194 amended section generally, substituting provisions relating to confidential reports and other additional requirements for provisions setting forth definitions for purposes of title I of Pub. L. 95–521. See section 109 of this Appendix.
 
