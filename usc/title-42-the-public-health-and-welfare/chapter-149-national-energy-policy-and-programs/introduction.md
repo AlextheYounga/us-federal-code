@@ -686,7 +686,7 @@ Sec.
 
 16515\. Limitation on commitments to guarantee loans.
 
-16516\. Temporary program for rapid deployment of renewable energy and electric power transmission projects.
+16516\. Omitted.
 
         
 
