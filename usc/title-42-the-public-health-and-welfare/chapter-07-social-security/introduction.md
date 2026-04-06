@@ -1266,6 +1266,8 @@ Sec.
 
 1396w–4. State option to provide coordinated care through a health home for individuals with chronic conditions.
 
+1396w–4a. State option to provide coordinated care through a health home for children with medically complex conditions.
+
 1396w–5. Addressing health care disparities.
 
         

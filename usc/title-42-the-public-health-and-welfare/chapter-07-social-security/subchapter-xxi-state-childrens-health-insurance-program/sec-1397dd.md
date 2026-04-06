@@ -798,11 +798,11 @@ The first half ratio described in this subparagraph is the ratio of—
 
   
 
-(ii) the sum of the—
+(ii) the sum of the [3](#1397dd_3_target) —
 
 (I) amount described in clause (i); and
 
-(II) the amount made available under subsection (a)(18)(B).
+(II) the [3](#1397dd_3_target) amount made available under subsection (a)(18)(B).
 
 #### (4) For fiscal year 2017
 
