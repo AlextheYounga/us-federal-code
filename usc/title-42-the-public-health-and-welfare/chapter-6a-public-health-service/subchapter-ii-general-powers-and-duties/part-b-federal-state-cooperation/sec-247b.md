@@ -12,7 +12,7 @@ No grant may be made under section (a) [1](#247b_1_target) unless an applicatio
 
 (2) with respect to each such program (A) the amount of Federal, State, and other funds obligated by the applicant in its latest annual accounting period for the provision of such program, (B) a description of the services provided by the applicant in such program in such period, (C) the amount of Federal funds needed by the applicant to continue providing such services in such program, and (D) if the applicant proposes changes in the provision of the services in such program, the priorities of such proposed changes, reasons for such changes, and the amount of Federal funds needed by the applicant to make such changes;
 
-(3) assurances satisfactory to the Secretary that the program which will be provided with funds under a grant under subsection (a) will be provided in a manner consistent with the State health plan in effect under section 300m–3(c) [1](#247b_1_target) of this title and in those cases where the applicant is a State, that such program will be provided, where appropriate, in a manner consistent with any plans in effect under an application approved under section 247 [1](#247b_1_target) of this title;
+(3) assurances satisfactory to the Secretary that the program which will be provided with funds under a grant under subsection (a) will be provided in a manner consistent with the State health plan in effect under section 300m–3(c) [2](#247b_2_target) of this title and in those cases where the applicant is a State, that such program will be provided, where appropriate, in a manner consistent with any plans in effect under an application approved under section 247 [2](#247b_2_target) of this title;
 
 (4) assurances satisfactory to the Secretary that the applicant will provide for such fiscal control and fund accounting procedures as the Secretary by regulation prescribes to assure the proper disbursement of and accounting for funds received under grants under subsection (a);
 
@@ -180,7 +180,7 @@ Not later than 3 years after the date on which a State receives a grant under th
 
 #### (6) Report to Congress
 
-Not later than 4 years after March 23, 2010,[1](#247b_1_target) the Secretary shall submit to Congress a report concerning the effectiveness of the demonstration program established under this subsection together with recommendations on whether to continue and expand such program.
+Not later than 4 years after March 23, 2010,[2](#247b_2_target) the Secretary shall submit to Congress a report concerning the effectiveness of the demonstration program established under this subsection together with recommendations on whether to continue and expand such program.
 
 #### (7) Authorization of appropriations
 
@@ -354,4 +354,4 @@ Pub. L. 94–380, §3, Aug. 12, 1976, 90 Stat. 1118, directed Secretary to condu
 
 [1 So in original. Probably should be "subsection (a)".](#247b_1)
 
-[1 See References in Text note below.](#247b_1)
+[2 See References in Text note below.](#247b_2)
