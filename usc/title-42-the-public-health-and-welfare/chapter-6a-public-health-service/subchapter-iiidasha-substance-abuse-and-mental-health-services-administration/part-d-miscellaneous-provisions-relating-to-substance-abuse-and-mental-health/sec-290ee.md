@@ -105,3 +105,27 @@ Subsec. (d)(2). Pub. L. 117–328, §1220(b), substituted "5 years" for "3 years
 Subsec. (d)(3). Pub. L. 117–328, §1220(c), amended par. (3) generally. Prior to amendment, text read as follows: "A State may use not more than 20 percent of a grant under this section for educating the public pursuant to subsection (a)(4)."
 
 Subsec. (h)(1). Pub. L. 117–328, §1220(d), substituted "fiscal years 2023 through 2027" for "fiscal years 2017 through 2019".
+
+  
+
+#### **Statutory Notes and Related Subsidiaries**
+
+#### References to Opioid Overdose Reversal Agents in HHS Grant Programs
+
+Pub. L. 119–44, title II, §210, Dec. 1, 2025, 139 Stat. 682, provided that:
+
+"(a) In General.—The Secretary of Health and Human Services shall ensure that, as appropriate, whenever the Department of Health and Human Services issues a regulation or guidance for any grant program addressing opioid misuse and use disorders, any reference to an opioid overdose reversal drug (such as a reference to naloxone) is inclusive of any opioid overdose reversal drug that has been approved under section 505 of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 355) for emergency treatment of a known or suspected opioid overdose.
+
+"(b) Existing References.—
+
+"(1) Update.—Not later than one year after the date of enactment of this Act \[Dec. 1, 2025\], the Secretary of Health and Human Services shall update all references described in paragraph (2) to be inclusive of any opioid overdose reversal drug that has been approved or otherwise authorized for use by the Food and Drug Administration.
+
+"(2) References.—A reference described in this paragraph is any reference to an opioid overdose reversal drug (such as naloxone) in any regulation or guidance of the Department of Health and Human Services that—
+
+"(A) was issued before the date of enactment of this Act; and
+
+"(B) is included in—
+
+"(i) the grant program for State and Tribal response to opioid use disorders under section 1003 of the 21st Century Cures Act \[former\] (42 U.S.C. 290ee–3 note) \[now 42 U.S.C. 290ee–3a\] (commonly referred to as 'State Opioid Response Grants' and 'Tribal Opioid Response Grants'); or
+
+"(ii) the grant program for priority substance use disorder prevention needs of regional and national significance under section 516 of the Public Health Service Act (42 U.S.C. 290bb–22)."

@@ -96,9 +96,9 @@ In this section:
 
 #### (j) Authorization of appropriations
 
-There are authorized to be appropriated to carry out this section $25,000,000 for each of fiscal years 2019 through 2023.
+There are authorized to be appropriated to carry out this section $40,000,000 for each of fiscal years 2026 through 2030.
 
-(July 1, 1944, ch. 373, title VII, §781, as added Pub. L. 115–271, title VII, §7071(2), Oct. 24, 2018, 132 Stat. 4028.)
+(July 1, 1944, ch. 373, title VII, §781, as added Pub. L. 115–271, title VII, §7071(2), Oct. 24, 2018, 132 Stat. 4028; amended Pub. L. 119–44, title II, §204, Dec. 1, 2025, 139 Stat. 680.)
 
   
 
@@ -165,5 +165,9 @@ A prior section 295h–8, act July 1, 1944, ch. 373, title VII, §799, as added 
 A prior section 295h–9, act July 1, 1944, ch. 373, title VII, §799A, as added Nov. 2, 1970, Pub. L. 91–519, title II, §207, 84 Stat. 1355, §704; amended Nov. 18, 1971, Pub. L. 92–157, title I, §110(2), 85 Stat. 461; July 12, 1974, Pub. L. 93–348, title I, §105, 88 Stat. 347, which related to sexual discrimination, was renumbered section 704 of act July 1, 1944, by Pub. L. 94–484 and transferred to section 292d of this title.
 
 A prior section 295i, act July 1, 1944, ch. 373, title VII, §799, as added Apr. 7, 1986, Pub. L. 99–272, title XVII, §17001, 100 Stat. 357; amended Oct. 25, 1988, Pub. L. 100–527, §10(4), 102 Stat. 2641; Nov. 4, 1988, Pub. L. 100–607, title VI, §§627, 629(b)(1), 102 Stat. 3145, 3146; Aug. 16, 1989, Pub. L. 101–93, §5(o)(3), 103 Stat. 614; Oct. 9, 1992, Pub. L. 102–405, title III, §302(e)(1), 106 Stat. 1985, established a Council on Graduate Medical Education, prior to the general amendment of this subchapter by Pub. L. 102–408. See section 294o of this title.
+
+#### Amendments
+
+**2025**—Subsec. (j). Pub. L. 119–44 substituted "$40,000,000 for each of fiscal years 2026 through 2030" for "$25,000,000 for each of fiscal years 2019 through 2023".
 
 [1 So in original. Probably should be "part E of title IV of the Higher Education Act of 1965".](#295h_1)

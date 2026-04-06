@@ -36,6 +36,22 @@ Section was enacted as part of the Comprehensive Addiction and Recovery Act of 2
 
 #### **Statutory Notes and Related Subsidiaries**
 
+#### Guidance on At-Home Drug Disposal Systems
+
+Pub. L. 119–44, title I, §111, Dec. 1, 2025, 139 Stat. 678, provided that:
+
+"(a) In General.—Not later than one year after the date of enactment of this Act \[Dec. 1, 2025\], the Secretary of Health and Human Services, in consultation with the Administrator of the Drug Enforcement Administration, shall publish guidance to facilitate the use of at-home safe disposal systems for applicable drugs.
+
+"(b) Contents.—The guidance under subsection (a) shall include—
+
+"(1) recommended standards for effective at-home drug disposal systems to meet applicable requirements enforced by the Food and Drug Administration;
+
+"(2) recommended information to include as instructions for use to disseminate with at-home drug disposal systems;
+
+"(3) best practices and educational tools to support the use of an at-home drug disposal system, as appropriate; and
+
+"(4) recommended use of licensed health providers for the dissemination of education, instruction, and at-home drug disposal systems, as appropriate."
+
 #### Access to Increased Drug Disposal
 
 Pub. L. 115–271, title III, subtitle B, ch. 6, Oct. 24, 2018, 132 Stat. 3950, provided that:

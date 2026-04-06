@@ -14,7 +14,7 @@ Each State that has a plan approved under section 629b of this title shall, subj
 
 (2) the lesser of—
 
-(A) 75 percent of the total expenditures by the State in accordance with section 629f(b)(4)(B) of this title during the fiscal year or the immediately succeeding fiscal year; or
+(A) 75 percent of the total expenditures by the State in accordance with section 629f(b)(3)(B) of this title during the fiscal year or the immediately succeeding fiscal year; or
 
 (B) the allotment of the State under section 629c(e) of this title for the fiscal year.
 
@@ -37,10 +37,6 @@ The Secretary shall pay any amount to which an Indian tribe or tribal consortium
 The Secretary shall not make a payment to a State under this section with respect to expenditures for administrative costs during a fiscal year, to the extent that the total amount of the expenditures exceeds 10 percent of the total expenditures of the State during the fiscal year under the State plan approved under section 629b of this title.
 
 (Aug. 14, 1935, ch. 531, title IV, §434, as added Pub. L. 103–66, title XIII, §13711(a)(2), Aug. 10, 1993, 107 Stat. 653; amended Pub. L. 107–133, title I, §104, Jan. 17, 2002, 115 Stat. 2415; Pub. L. 109–288, §§3(f)(1), 4(a)(3), 5(b)(3)(B), Sept. 28, 2006, 120 Stat. 1236, 1237, 1243; Pub. L. 118–258, title I, §115(b)(2)(C), Jan. 4, 2025, 138 Stat. 2969.)
-
-#### Amendment of Subsection (a)(2)(A)
-
-Pub. L. 118–258, title I, §§115(b)(2)(C), 117, Jan. 4, 2025, 138 Stat. 2969, provided that, effective Oct. 1, 2025, and applicable to payments under this part for calendar quarters beginning on or after such date, with delay permitted if either State legislation or tribal action is required to meet additional requirements, subsection (a)(2)(A) of this section is amended by striking "629f(b)(4)(B)" and inserting "629f(b)(3)(B)". See 2025 Amendment note below.
 
   
 

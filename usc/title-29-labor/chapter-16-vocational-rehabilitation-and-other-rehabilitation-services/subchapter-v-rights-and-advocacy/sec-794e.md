@@ -132,7 +132,7 @@ The term "eligible system" means a protection and advocacy system that is establ
 
 #### (2) American Indian consortium
 
-The term "American Indian consortium" means a consortium established as described in section 142 [2](#794e_2_target) of the Developmental Disabilities Assistance and Bill of Rights Act (42 U.S.C. 6042).
+The term "American Indian consortium" means a consortium established as described in section 142 [1](#794e_1_target) of the Developmental Disabilities Assistance and Bill of Rights Act (42 U.S.C. 6042).
 
 (Pub. L. 93–112, title V, §509, as added Pub. L. 102–569, title V, §510(a), Oct. 29, 1992, 106 Stat. 4430; amended Pub. L. 103–73, title I, §112(c), Aug. 11, 1993, 107 Stat. 727; Pub. L. 105–12, §9(n), Apr. 30, 1997, 111 Stat. 28; Pub. L. 105–220, title IV, §408(c), Aug. 7, 1998, 112 Stat. 1206; Pub. L. 105–394, title IV, §402(c), Nov. 13, 1998, 112 Stat. 3662; Pub. L. 106–402, title IV, §401(b)(3)(C), (D), Oct. 30, 2000, 114 Stat. 1738; Pub. L. 113–128, title IV, §457, July 22, 2014, 128 Stat. 1676.)
 

@@ -22,6 +22,8 @@ The Secretary shall make grants, in accordance with this section, to the highest
 
 (iii) permitting the participation of parents, children, other necessary parties, and attorneys in cases involving interstate placement without requiring their interstate travel; and [2](#629h_2_target)
 
+(F) that determine the appropriateness and best practices for use of technology to conduct remote hearings, subject to participant consent, including to ensure maximum participation of individuals involved in proceedings and to enable courts to maintain operations in times of public health or other emergencies;
+
   
 
 (2) to implement improvements the highest state [3](#629h_3_target) courts deem necessary as a result of the assessments, including—
@@ -30,7 +32,17 @@ The Secretary shall make grants, in accordance with this section, to the highest
 
 (B) to implement a corrective action plan, as necessary, resulting from reviews of child and family service programs under section 1320a–2a of this title; and
 
-(C) to increase and improve engagement of the entire family in court processes relating to child welfare, family preservation, family reunification, and adoption, including by training judges, attorneys, and other legal personnel.
+(C) to increase and improve engagement of the entire family in court processes relating to child welfare, family preservation, family reunification, and adoption, including by training judges, attorneys, and other legal personnel and supporting optimal use of remote hearing technology; and
+
+  
+
+(3) to ensure continuity of needed court services, prevent disruption of the services, and enable their recovery from threats such as public health crises, natural disasters or cyberattacks, including through—
+
+(A) support for technology that allows court proceedings to occur remotely subject to participant consent, including hearings and legal representation;
+
+(B) the development of guidance and protocols for responding to the occurrences and coordinating with other agencies; and
+
+(C) other activities carried out to ensure backup systems are in place.
 
 #### (b) Applications
 
@@ -46,7 +58,7 @@ In order to be eligible to receive a grant under this section, a highest State c
 
 #### (1) In general
 
-From the amounts reserved under sections 629f(b)(2) and 629g(b)(2) of this title for a fiscal year, each highest State court that has an application approved under this section for the fiscal year shall be entitled to payment of an amount equal to the sum of—
+From the amounts reserved under sections 629f(b)(1) and 629g(b)(2) of this title for a fiscal year, each highest State court that has an application approved under this section for the fiscal year shall be entitled to payment of an amount equal to the sum of—
 
 (A) $255,000; and
 
@@ -54,11 +66,11 @@ From the amounts reserved under sections 629f(b)(2) and 629g(b)(2) of this title
 
 #### (2) Amount described
 
-The amount described in this paragraph with respect to a court and a fiscal year is the amount that bears the same ratio to the total of the amounts reserved under sections 629f(b)(2) and 629g(b)(2) of this title for grants under this section for the fiscal year (after applying paragraphs (1)(A) and (3) of this subsection) as the number of individuals in the State in which the court is located who have not attained 21 years of age bears to the total number of such individuals in all States with a highest State court that has an approved application under this section for the fiscal year.
+The amount described in this paragraph with respect to a court and a fiscal year is the amount that bears the same ratio to the total of the amounts reserved under sections 629f(b)(1) and 629g(b)(2) of this title for grants under this section for the fiscal year (after applying paragraphs (1)(A) and (3) of this subsection) as the number of individuals in the State in which the court is located who have not attained 21 years of age bears to the total number of such individuals in all States with a highest State court that has an approved application under this section for the fiscal year.
 
 #### (3) Indian tribes
 
-From the amounts reserved under section 629f(b)(2) of this title for a fiscal year, the Secretary shall, before applying paragraph (1) of this subsection, allocate $1,000,000 for grants to be awarded on a competitive basis among the highest courts of Indian tribes or tribal consortia that—
+From the amounts reserved under section 629f(b)(1) of this title for a fiscal year, the Secretary shall, before applying paragraph (1) of this subsection, allocate $1,000,000 for fiscal year 2025, and $2,000,000 for each of fiscal years 2026 through 2029, for grants to be awarded on a competitive basis among the highest courts of Indian tribes or tribal consortia that—
 
 (A) are operating a program under part E, in accordance with section 679c of this title;
 
@@ -68,65 +80,27 @@ From the amounts reserved under section 629f(b)(2) of this title for a fiscal ye
 
 #### (d) Federal share
 
-Each highest State court which receives funds paid under this section may use such funds to pay not more than 75 percent of the cost of activities under this section in each of fiscal years 2018 through 2023.
+Each highest State court which receives funds paid under this section may use such funds to pay not more than 75 percent of the cost of activities under this section in each of fiscal years 2025 through 2029.
+
+#### (e) Guidance
+
+#### (1) In general
+
+Every 5 years, the Secretary shall issue implementation guidance for sharing information on best practices for—
+
+(A) technological changes needed for court proceedings for foster care, guardianship, or adoption to be conducted remotely in a way that maximizes engagement and protects the privacy of participants; and
+
+(B) the manner in which the proceedings should be conducted.
+
+#### (2) Initial issuance
+
+The Secretary shall issue initial guidance required by paragraph (1) with preliminary information on best practices not later than October 1, 2025.
+
+#### (3) Additional consultation
+
+The Secretary shall consult with Indian tribes on the development of appropriate guidelines for State court proceedings involving Indian children to maximize engagement of Indian tribes and provide appropriate guidelines on conducting State court proceedings subject to the Indian Child Welfare Act of 1978 (25 U.S.C. 1901 et seq.).
 
 (Aug. 14, 1935, ch. 531, title IV, §438, formerly Pub. L. 103–66, title XIII, §13712, Aug. 10, 1993, 107 Stat. 655, as amended Pub. L. 105–89, title III, §305(a)(3), Nov. 19, 1997, 111 Stat. 2130; renumbered §438 of act Aug. 14, 1935, and amended Pub. L. 107–133, title I, §107, Jan. 17, 2002, 115 Stat. 2418; Pub. L. 109–171, title VII, §7401(a), Feb. 8, 2006, 120 Stat. 148; Pub. L. 109–239, §§8(b), 9, July 3, 2006, 120 Stat. 513; Pub. L. 109–288, §9, Sept. 28, 2006, 120 Stat. 1255; Pub. L. 111–242, §133(2), Sept. 30, 2010, 124 Stat. 2613; Pub. L. 112–34, title I, §104, Sept. 30, 2011, 125 Stat. 374; Pub. L. 115–123, div. E, title VII, §§50741(c), 50752(d), (e), Feb. 9, 2018, 132 Stat. 256, 263; Pub. L. 116–260, div. X, §7(d), div. CC, title III, §305(b), Dec. 27, 2020, 134 Stat. 2414, 2994; Pub. L. 117–328, div. FF, title VI, §6103(a)(4), Dec. 29, 2022, 136 Stat. 5965; Pub. L. 118–258, title I, §§104(b)–(d), 107(b)(3), 115(b)(2)(F), Jan. 4, 2025, 138 Stat. 2948, 2955, 2969.)
-
-#### Amendment of Section
-
-Pub. L. 118–258, title I, §§104(b)–(d), 107(b)(3), 115(b)(2)(F), 117, Jan. 4, 2025, 138 Stat. 2948, 2955, 2969, provided that, effective Oct. 1, 2025, and applicable to payments under this part for calendar quarters beginning on or after such date, with delay permitted if either State legislation or tribal action is required to meet additional requirements, this section is amended as follows:
-
-(1) in subsection (a)—
-
-(A) in paragraph (1), by adding at the end the following:
-
-*"(F) that determine the appropriateness and best practices for use of technology to conduct remote hearings, subject to participant consent, including to ensure maximum participation of individuals involved in proceedings and to enable courts to maintain operations in times of public health or other emergencies;";*
-
-  
-
-(B) in paragraph (2)(C), by striking "personnel." and inserting "personnel and supporting optimal use of remote hearing technology; and"; and
-
-(C) by adding at the end the following:
-
-*"(3) to ensure continuity of needed court services, prevent disruption of the services, and enable their recovery from threats such as public health crises, natural disasters or cyberattacks, including through—*
-
-*"(A) support for technology that allows court proceedings to occur remotely subject to participant consent, including hearings and legal representation;*
-
-*"(B) the development of guidance and protocols for responding to the occurrences and coordinating with other agencies; and*
-
-*"(C) other activities carried out to ensure backup systems are in place.";*
-
-  
-
-(2) in subsection (c)—
-
-(A) by striking "629f(b)(2)" and inserting "629f(b)(1)" in each of paragraphs (1) through (3); and
-
-(B) in paragraph (3), by inserting "for fiscal year 2025, and $2,000,000 for each of fiscal years 2026 through 2029," before "for grants";
-
-(3) in subsection (d), by striking "2017 through 2023" and inserting "2025 through 2029"; and
-
-(4) by adding at the end the following:
-
-#### *(e) Guidance*
-
-#### *(1) In general*
-
-*Every 5 years, the Secretary shall issue implementation guidance for sharing information on best practices for—*
-
-*(A) technological changes needed for court proceedings for foster care, guardianship, or adoption to be conducted remotely in a way that maximizes engagement and protects the privacy of participants; and*
-
-*(B) the manner in which the proceedings should be conducted.*
-
-#### *(2) Initial issuance*
-
-*The Secretary shall issue initial guidance required by paragraph (1) with preliminary information on best practices not later than October 1, 2025.*
-
-#### *(3) Additional consultation*
-
-*The Secretary shall consult with Indian tribes on the development of appropriate guidelines for State court proceedings involving Indian children to maximize engagement of Indian tribes and provide appropriate guidelines on conducting State court proceedings subject to the Indian Child Welfare Act of 1978 (25 U.S.C. 1901 et seq.).*
-
-See 2025 Amendment notes below.
 
   
 
@@ -135,6 +109,8 @@ See 2025 Amendment notes below.
 #### References in Text
 
 The Adoption and Safe Families Act of 1997, referred to in subsec. (a)(2)(A), is Pub. L. 105–89, Nov. 19, 1997, 111 Stat. 2115. For complete classification of this Act to the Code, see Short Title of 1997 Amendment note set out under section 1305 of this title and Tables.
+
+The Indian Child Welfare Act of 1978, referred to in subsec. (e)(3), is Pub. L. 95–608, Nov. 8, 1978, 92 Stat. 3069, which is classified generally to chapter 21 (§1901 et seq.) of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 1901 of Title 25 and Tables.
 
 #### Codification
 

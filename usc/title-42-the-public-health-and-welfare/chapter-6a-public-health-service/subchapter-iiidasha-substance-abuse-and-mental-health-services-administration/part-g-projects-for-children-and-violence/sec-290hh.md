@@ -70,4 +70,4 @@ There is authorized to be appropriated to carry out this section, $100,000,000 f
 
 #### Codification
 
-Another section 581 of act July 1, 1944, is classified to section 290kk of this title.
+Another section 581 of act July 1, 1944, was renumbered section 596 and is classified to section 290kk of this title.

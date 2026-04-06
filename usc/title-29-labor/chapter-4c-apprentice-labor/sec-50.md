@@ -53,3 +53,7 @@ Reorg. Plan No. I of 1939, consolidated National Youth Administration and Office
 #### Executive Order No. 13801
 
 Ex. Ord. No. 13801, June 15, 2017, 82 F.R. 28229, which related to expanding apprenticeships and reducing federally funded education and workforce development programs, was revoked by Ex. Ord. No. 14016, Feb. 17, 2021, 86 F.R. 11089.
+
+#### Executive Order No. 14119
+
+Ex. Ord. No. 14119, Mar. 6, 2024, 89 F.R. 17265, relating to scaling and expanding the use of registered apprenticeships in industries and the Federal Government and promoting Labor-Management Forums, was revoked by Ex. Ord. No. 14236, §2(q), Mar. 14, 2025, 90 F.R. 13038.

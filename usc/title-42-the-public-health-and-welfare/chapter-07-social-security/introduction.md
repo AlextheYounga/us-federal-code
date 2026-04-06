@@ -192,7 +192,7 @@ Sec.
 
 626\. Research, training, or demonstration projects.
 
-627\. Family connection grants.
+627\. Kinship navigators.
 
 628\. Payments to Indian tribal organizations.
 
@@ -226,7 +226,7 @@ Sec.
 
 629h. Entitlement funding for State courts to assess and improve handling of proceedings relating to foster care and adoption.
 
-629i. Grants for programs for mentoring children of prisoners.
+629i. State partnership planning and demonstration grants to support meaningful relationships between foster children and the incarcerated parents of the children.
 
         
 
