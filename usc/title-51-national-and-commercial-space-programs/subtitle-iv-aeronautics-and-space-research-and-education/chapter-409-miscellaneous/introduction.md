@@ -6,7 +6,9 @@ Sec.
 
 40902\. National Aeronautics and Space Administration Endeavor Teacher Fellowship Trust Fund.
 
-40903\. Experimental Program to Stimulate Competitive Research—merit grant competition requirements.
+40903\. Experimental Program to Stimulate Competitive Research—merit grant competition requirements. 1
+
+        
 
 40904\. Microgravity research.
 
@@ -197,3 +199,5 @@ Pub. L. 92–68, §6, Aug. 6, 1971, 85 Stat. 177.
 Pub. L. 91–303, §6, July 2, 1970, 84 Stat. 372.
 
 Pub. L. 91–119, §7, Nov. 18, 1969, 83 Stat. 201.
+
+[1 Section catchline amended by Pub. L. 117–167 without corresponding amendment of chapter analysis.](#CHAPTER409_1)
