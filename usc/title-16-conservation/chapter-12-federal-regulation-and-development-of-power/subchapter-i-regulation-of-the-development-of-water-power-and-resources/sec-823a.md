@@ -36,8 +36,6 @@
 
 (iii) on or before August 9, 2013, the facility is not licensed under, or exempted from the license requirements contained in, this subchapter.
 
-  
-
 #### (b) Exemption qualifications
 
 Subject to subsection (c), the Commission may grant an exemption in whole or in part from the requirements of this subchapter, including any license requirements contained in this subchapter, to any facility (not including any dam or other impoundment) constructed, operated, or maintained for the generation of electric power which the Commission determines, by rule or order—
