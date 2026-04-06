@@ -70,6 +70,10 @@ Chap. Sec.
 
         
 
+515\. Office of Spaceports 51501
+
+        
+
 ## Subtitle VI—Earth Observations
 
 601\. Land Remote Sensing Policy 60101
@@ -101,6 +105,8 @@ Chap. Sec.
         
 
 #### Amendments
+
+**2018**—Pub. L. 115–254, div. B, title V, §580(b)(2), Oct. 5, 2018, 132 Stat. 3396, added item 515.
 
 **2017**—Pub. L. 115–10, title IV, §416(b), Mar. 21, 2017, 131 Stat. 35, struck out item for chapter 703 "Shuttle Pricing Policy for Commercial and Foreign Users".
 

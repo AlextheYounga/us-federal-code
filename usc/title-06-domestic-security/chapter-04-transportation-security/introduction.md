@@ -30,6 +30,10 @@ Sec.
 
 1117\. Roles of the Department of Homeland Security and the Department of Transportation.
 
+1118\. Biometrics expansion.
+
+1119\. Voluntary use of credentialing.
+
         
 
 #### SUBCHAPTER III—PUBLIC TRANSPORTATION SECURITY
@@ -75,6 +79,10 @@ Sec.
 1153\. Authorization of appropriations.
 
 1154\. Public awareness.
+
+1155\. Security awareness program.
+
+1156\. Nuclear material and explosive detection technology.
 
         
 
