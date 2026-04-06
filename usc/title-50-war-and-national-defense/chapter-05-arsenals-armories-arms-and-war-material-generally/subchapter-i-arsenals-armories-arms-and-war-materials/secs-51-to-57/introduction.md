@@ -8,7 +8,7 @@ Section 53, R.S. §1665, required an annual account of expenses of national armo
 
 Section 54, acts Aug. 18, 1890, ch. 797, §2, 26 Stat. 320; Aug. 7, 1946, ch. 770, §1(52), 60 Stat. 870, related to accounts of cost of type and experimental manufacture of guns and other articles.
 
-Section 55, R.S. §1666, authorized Secretary of War to abolish useless or unnecessary arsenals. See section 4532 of Title 10, Armed Forces.
+Section 55, R.S. §1666, authorized Secretary of War to abolish useless or unnecessary arsenals.
 
 Section 56, R.S. §1669, provided for forfeitures by reason of misconduct of workmen in armories.
 

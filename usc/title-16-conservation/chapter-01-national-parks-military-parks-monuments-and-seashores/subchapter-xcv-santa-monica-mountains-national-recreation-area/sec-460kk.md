@@ -66,7 +66,7 @@ In exercising the authority to acquire property under this section, the Secretar
 
 #### (i) Administration
 
-The Secretary shall administer the recreation area in accordance with this Act and provisions of laws generally applicable to units of the National Park System, including sections 1, 2, 3, and 4 of this title. In the administration of the recreation area, the Secretary may utilize such statutory authority available for the conservation and management of wildlife and natural resources as appropriate to carry out the purpose of this section. The fragile resource areas of the recreation area shall be administered on a low-intensity basis, as determined by the Secretary.
+The Secretary shall administer the recreation area in accordance with this Act and provisions of laws generally applicable to units of the National Park System, including the Act of August 25, 1916 (39 Stat. 535; 16 U.S.C. 1 et seq.).[1](#460kk_1_target) In the administration of the recreation area, the Secretary may utilize such statutory authority available for the conservation and management of wildlife and natural resources as appropriate to carry out the purpose of this section. The fragile resource areas of the recreation area shall be administered on a low-intensity basis, as determined by the Secretary.
 
 #### (j) Cooperative agreements for rescue, fire prevention and firefighting, and law enforcement services
 
@@ -194,7 +194,9 @@ Within two years from the date of establishment of the recreation area pursuant 
 
 #### References in Text
 
-This Act, referred to in subsecs. (i) and (q)(4), means Pub. L. 95–625, Nov. 10, 1978, 92 Stat. 3467, as amended, known as the National Parks and Recreation Act of 1978. For complete classification of this Act to the Code, see Short Title of 1978 Amendment note set out under section 1 of this title and Tables.
+This Act, referred to in subsecs. (i) and (q)(4), means Pub. L. 95–625, Nov. 10, 1978, 92 Stat. 3467, known as the National Parks and Recreation Act of 1978. For complete classification of this Act to the Code, see Tables.
+
+The Act of August 25, 1916 (39 Stat. 535; 16 U.S.C. 1 et seq.), referred to in subsec. (i), is act Aug. 25, 1916, ch. 408, 39 Stat. 535, known as the National Park Service Organic Act, which enacted sections 1, 2, 3, and 4 of this title, amended sections 22 and 43 of this title and section 1457 of Title 43, Public Lands, and enacted provisions set out as a note under section 1 of this title. Sections 1 to 4 of the Act were repealed and restated as section 1865(a) of Title 18, Crimes and Criminal Procedure, and section 100101(a), chapter 1003, and sections 100751(a), 100752, 100753, and 102101 of Title 54, National Park Service and Related Programs, by Pub. L. 113–287, §§3, 4(a)(1), 7, Dec. 19, 2014, 128 Stat. 3094, 3260, 3272. For complete classification of this Act to the Code, see Tables. For disposition of former sections of this title, see Disposition Table preceding section 100101 of Title 54.
 
 #### Amendments
 
@@ -220,4 +222,6 @@ Pub. L. 105–277, div. A, §101(e) \[title I, §145\], Oct. 21, 1998, 112 Stat.
 
 #### "Secretary" Defined
 
-Secretary means the Secretary of the Interior, see section 2 of Pub. L. 95–625, set out as a note under section 2503 of this title.
+Secretary means the Secretary of the Interior, see section 2 of Pub. L. 95–625, set out as a note under section 45f of this title.
+
+[1 See References in Text note below.](#460kk_1)

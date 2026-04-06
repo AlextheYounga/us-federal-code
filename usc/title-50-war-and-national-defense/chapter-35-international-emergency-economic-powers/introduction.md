@@ -16,4 +16,6 @@ Sec.
 
 1707\. Multinational economic embargoes against governments in armed conflict with the United States.
 
+1708\. Actions to address economic or industrial espionage in cyberspace.
+
         

@@ -34,6 +34,8 @@ Sec.
 
 2523b. Transferred.
 
+2523c. Major warhead refurbishment program.
+
 2524\. Stockpile management program.
 
 2524a. Repealed.
@@ -62,9 +64,11 @@ Sec.
 
 2536\. Reports on lifetime extension programs.
 
-2537\. Selected Acquisition Reports and independent cost estimates on life extension programs and new nuclear facilities.
+2537\. Selected Acquisition Reports and independent cost estimates and reviews of life extension programs and new nuclear facilities.
 
 2538\. Advice to President and Congress regarding safety, security, and reliability of United States nuclear weapons stockpile.
+
+2538a. Plutonium pit production capacity.
 
         
 
@@ -286,6 +290,8 @@ Sec.
 
 2753\. Notification of cost overruns for certain Department of Energy projects.
 
+2754\. Life-cycle cost estimates of certain atomic energy defense capital assets.
+
         
 
 #### Part B—Penalties
@@ -327,6 +333,8 @@ Sec.
 2791\. Laboratory-directed research and development programs.
 
 2791a. Laboratory-directed research and development.
+
+2791b. Charges to individual program, project, or activity.
 
 2792\. Limitations on use of funds for laboratory directed research and development purposes.
 
