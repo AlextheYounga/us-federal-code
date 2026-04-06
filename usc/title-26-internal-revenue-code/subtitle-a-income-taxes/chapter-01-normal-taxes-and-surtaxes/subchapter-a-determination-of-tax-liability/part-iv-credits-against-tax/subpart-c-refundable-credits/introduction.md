@@ -24,6 +24,8 @@ Sec.
 
         
 
+#### **Editorial Notes**
+
 #### Amendments
 
 **2014**—Pub. L. 113–295, div. A, title II, §221(a)(5)(A), Dec. 19, 2014, 128 Stat. 4037, struck out item 36A "Making work pay credit".
