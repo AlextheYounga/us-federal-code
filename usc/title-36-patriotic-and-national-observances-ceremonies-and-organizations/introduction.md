@@ -10,7 +10,9 @@ Chap. Sec.
 
 1\. Patriotic and National Observances 101
 
-3\. National Anthem, Motto, Floral Emblem, March, and Tree 301
+3\. National Anthem, Motto, Floral Emblem, March, and Tree 1
+
+        
 
 5\. Presidential Inaugural Ceremonies 501
 
@@ -25,8 +27,6 @@ Chap. Sec.
 21\. American Battle Monuments Commission 2101
 
 23\. United States Holocaust Memorial Council 1 2301
-
-        
 
 25\. President's Committee on Employment of People With Disabilities 2501
 
