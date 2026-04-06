@@ -872,9 +872,9 @@ In the case of a calendar year after 2002, the $2,000,000 and $1.75 amounts in s
 
 (II) In the case of the $1.75 amount, any increase under clause (i) which is not a multiple of 5 cents shall be rounded to the next lowest multiple of 5 cents.
 
-#### (I) Increase in State housing credit ceiling for 2018, 2019, 2020, and 2021
+#### (I) Increase in State housing credit ceiling for calendar years after 2025
 
-In the case of calendar years 2018, 2019, 2020, and 2021, each of the dollar amounts in effect under clauses (I) and (II) of subparagraph (C)(ii) for any calendar year (after any increase under subparagraph (H)) shall be increased by multiplying such dollar amount by 1.125.
+In the case of calendar years beginning after December 31, 2025, each of the dollar amounts in effect under clauses (I) and (II) of subparagraph (C)(ii) for any calendar year (after any increase under subparagraph (H)) shall be increased by multiplying such dollar amount by 1.12.
 
 #### (4) Credit for buildings financed by tax-exempt bonds subject to volume cap not taken into account
 
@@ -886,9 +886,19 @@ Paragraph (1) shall not apply to the portion of any credit allowable under subse
 
 (ii) principal payments on such financing are applied within a reasonable period to redeem obligations the proceeds of which were used to provide such financing or such financing is refunded as described in section 146(i)(6).
 
-#### (B) Special rule where 50 percent or more of building is financed with tax-exempt bonds subject to volume cap
+#### (B) Special rule where minimum percent of buildings is financed with tax-exempt bonds subject to volume cap
 
-For purposes of subparagraph (A), if 50 percent or more of the aggregate basis of any building and the land on which the building is located is financed by any obligation described in subparagraph (A), paragraph (1) shall not apply to any portion of the credit allowable under subsection (a) with respect to such building.
+For purposes of subparagraph (A), paragraph (1) shall not apply to any portion of the credit allowable under subsection (a) with respect to a building if—
+
+(i) 50 percent or more of the aggregate basis of such building and the land on which the building is located is financed by 1 or more obligations described in subparagraph (A), or
+
+(ii)(I) 25 percent or more of the aggregate basis of such building and the land on which the building is located is financed by 1 or more obligations described in subparagraph (A), and
+
+(II) 1 or more of such obligations—
+
+(aa) are part of an issue the issue date of which is after December 31, 2025, and
+
+(bb) provide the financing for not less than 5 percent of the aggregate basis of such building and the land on which the building is located.
 
 #### (5) Portion of State ceiling set-aside for certain projects involving qualified nonprofit organizations
 
@@ -1588,7 +1598,7 @@ The Secretary shall prescribe such regulations as may be necessary or appropriat
 
 (4) providing the opportunity for housing credit agencies to correct administrative errors and omissions with respect to allocations and record keeping within a reasonable period after their discovery, taking into account the availability of regulations and other administrative guidance from the Secretary.
 
-(Added Pub. L. 99–514, title II, §252(a), Oct. 22, 1986, 100 Stat. 2189; amended Pub. L. 99–509, title VIII, §8072(a), Oct. 21, 1986, 100 Stat. 1964; Pub. L. 100–647, title I, §§1002(l)(1)–(25), (32), 1007(g)(3)(B), title IV, §§4003(a), (b)(1), (3), 4004(a), Nov. 10, 1988, 102 Stat. 3373–3381, 3435, 3643, 3644; Pub. L. 101–239, title VII, §§7108(a)(1), (b)–(e)(2), (f)–(m), (n)(2)–(q), 7811(a), 7831(c), 7841(d)(13)–(15), Dec. 19, 1989, 103 Stat. 2306–2321, 2406, 2426, 2429; Pub. L. 101–508, title XI, §§11407(a)(1), (b)(1)–(9), 11701(a)(1)–(3)(A), (4), (5)(A), (6)–(10), 11812(b)(3), 11813(b)(3), Nov. 5, 1990, 104 Stat. 1388–474, 1388–475, 1388–505 to 1388–507, 1388–535, 1388–551; Pub. L. 102–227, title I, §107(a), Dec. 11, 1991, 105 Stat. 1687; Pub. L. 103–66, title XIII, §13142(a)(1), (b)(1)–(5), Aug. 10, 1993, 107 Stat. 437–439; Pub. L. 104–188, title I, §1704(t)(53), (64), Aug. 20, 1996, 110 Stat. 1890; Pub. L. 105–206, title VI, §6004(g)(5), July 22, 1998, 112 Stat. 796; Pub. L. 106–400, §2, Oct. 30, 2000, 114 Stat. 1675; Pub. L. 106–554, §1(a)(7) \[title I, §§131(a)–(c), 132–136\], Dec. 21, 2000, 114 Stat. 2763, 2763A–610 to 2763A–613; Pub. L. 107–147, title IV, §417(2), (3), Mar. 9, 2002, 116 Stat. 56; Pub. L. 108–311, title II, §207(8), title IV, §408(a)(3), Oct. 4, 2004, 118 Stat. 1177, 1191; Pub. L. 110–142, §6(a), Dec. 20, 2007, 121 Stat. 1806; Pub. L. 110–289, div. C, title I, §§3001–3002(b), 3003(a)–(g), 3004(a)–(g), 3007(b), July 30, 2008, 122 Stat. 2878–2884, 2886; Pub. L. 111–5, div. B, title I, §1404, Feb. 17, 2009, 123 Stat. 352; Pub. L. 112–240, title III, §302(a), Jan. 2, 2013, 126 Stat. 2328; Pub. L. 113–295, div. A, title I, §112(a), title II, §§212(a), 221(a)(7), Dec. 19, 2014, 128 Stat. 4014, 4033, 4038; Pub. L. 114–113, div. Q, title I, §131(a), (b), Dec. 18, 2015, 129 Stat. 3055; Pub. L. 115–97, title I, §11002(d)(1)(G), (3), Dec. 22, 2017, 131 Stat. 2060, 2061; Pub. L. 115–141, div. T, §§102(a), 103(a), (b), div. U, title IV, §401(a)(10)–(13), Mar. 23, 2018, 132 Stat. 1157, 1184, 1185; Pub. L. 116–260, div. EE, title II, §201(a), Dec. 27, 2020, 134 Stat. 3056.)
+(Added Pub. L. 99–514, title II, §252(a), Oct. 22, 1986, 100 Stat. 2189; amended Pub. L. 99–509, title VIII, §8072(a), Oct. 21, 1986, 100 Stat. 1964; Pub. L. 100–647, title I, §§1002(l)(1)–(25), (32), 1007(g)(3)(B), title IV, §§4003(a), (b)(1), (3), 4004(a), Nov. 10, 1988, 102 Stat. 3373–3381, 3435, 3643, 3644; Pub. L. 101–239, title VII, §§7108(a)(1), (b)–(e)(2), (f)–(m), (n)(2)–(q), 7811(a), 7831(c), 7841(d)(13)–(15), Dec. 19, 1989, 103 Stat. 2306–2321, 2406, 2426, 2429; Pub. L. 101–508, title XI, §§11407(a)(1), (b)(1)–(9), 11701(a)(1)–(3)(A), (4), (5)(A), (6)–(10), 11812(b)(3), 11813(b)(3), Nov. 5, 1990, 104 Stat. 1388–474, 1388–475, 1388–505 to 1388–507, 1388–535, 1388–551; Pub. L. 102–227, title I, §107(a), Dec. 11, 1991, 105 Stat. 1687; Pub. L. 103–66, title XIII, §13142(a)(1), (b)(1)–(5), Aug. 10, 1993, 107 Stat. 437–439; Pub. L. 104–188, title I, §1704(t)(53), (64), Aug. 20, 1996, 110 Stat. 1890; Pub. L. 105–206, title VI, §6004(g)(5), July 22, 1998, 112 Stat. 796; Pub. L. 106–400, §2, Oct. 30, 2000, 114 Stat. 1675; Pub. L. 106–554, §1(a)(7) \[title I, §§131(a)–(c), 132–136\], Dec. 21, 2000, 114 Stat. 2763, 2763A–610 to 2763A–613; Pub. L. 107–147, title IV, §417(2), (3), Mar. 9, 2002, 116 Stat. 56; Pub. L. 108–311, title II, §207(8), title IV, §408(a)(3), Oct. 4, 2004, 118 Stat. 1177, 1191; Pub. L. 110–142, §6(a), Dec. 20, 2007, 121 Stat. 1806; Pub. L. 110–289, div. C, title I, §§3001–3002(b), 3003(a)–(g), 3004(a)–(g), 3007(b), July 30, 2008, 122 Stat. 2878–2884, 2886; Pub. L. 111–5, div. B, title I, §1404, Feb. 17, 2009, 123 Stat. 352; Pub. L. 112–240, title III, §302(a), Jan. 2, 2013, 126 Stat. 2328; Pub. L. 113–295, div. A, title I, §112(a), title II, §§212(a), 221(a)(7), Dec. 19, 2014, 128 Stat. 4014, 4033, 4038; Pub. L. 114–113, div. Q, title I, §131(a), (b), Dec. 18, 2015, 129 Stat. 3055; Pub. L. 115–97, title I, §11002(d)(1)(G), (3), Dec. 22, 2017, 131 Stat. 2060, 2061; Pub. L. 115–141, div. T, §§102(a), 103(a), (b), div. U, title IV, §401(a)(10)–(13), Mar. 23, 2018, 132 Stat. 1157, 1184, 1185; Pub. L. 116–260, div. EE, title II, §201(a), Dec. 27, 2020, 134 Stat. 3056; Pub. L. 119–21, title VII, §70422(a)(1), (b)(1), July 4, 2025, 139 Stat. 234.)
 
 #### Inflation Adjusted Items for Certain Years
 
@@ -1629,6 +1639,10 @@ A prior section 42, added Pub. L. 94–12, title II, §203(a), Mar. 29, 1975, 89
 Another prior section 42 was renumbered section 37 of this title.
 
 #### Amendments
+
+**2025**—Subsec. (h)(3)(I). Pub. L. 119–21, §70422(a)(1), substituted "calendar years after 2025" for "2018, 2019, 2020, and 2021" in heading and "beginning after December 31, 2025," for "2018, 2019, 2020, and 2021," and "1.12" for "1.125" in text.
+
+Subsec. (h)(4)(B). Pub. L. 119–21, §70422(b)(1), added subpar. (B) and struck out former subpar. (B). Prior to amendment, text read as follows: "For purposes of subparagraph (A), if 50 percent or more of the aggregate basis of any building and the land on which the building is located is financed by any obligation described in subparagraph (A), paragraph (1) shall not apply to any portion of the credit allowable under subsection (a) with respect to such building."
 
 **2020**—Subsec. (b)(3), (4). Pub. L. 116–260 added par. (3) and redesignated former par. (3) as (4).
 
@@ -2137,6 +2151,16 @@ Subsec. (n)(1). Pub. L. 100–647, §1002(l)(25), inserted ", and, except for a
   
 
 #### **Statutory Notes and Related Subsidiaries**
+
+#### Effective Date of 2025 Amendment
+
+Pub. L. 119–21, title VII, §70422(a)(2), July 4, 2025, 139 Stat. 234, provided that: "The amendments made by this subsection \[amending this section\] shall apply to calendar years beginning after December 31, 2025."
+
+Pub. L. 119–21, title VII, §70422(b)(2), July 4, 2025, 139 Stat. 235, provided that:
+
+"(A) In general.—The amendment made by this subsection \[amending this section\] shall apply to buildings placed in service in taxable years beginning after December 31, 2025.
+
+"(B) Rehabilitation expenditures treated as separate new building.—In the case of any building with respect to which any expenditures are treated as a separate new building under section 42(e) of the Internal Revenue Code of 1986, for purposes of subparagraph (A), both the existing building and the separate new building shall be treated as having been placed in service on the date such expenditures are treated as placed in service under section 42(e)(4) of such Code."
 
 #### Effective Date of 2020 Amendment
 

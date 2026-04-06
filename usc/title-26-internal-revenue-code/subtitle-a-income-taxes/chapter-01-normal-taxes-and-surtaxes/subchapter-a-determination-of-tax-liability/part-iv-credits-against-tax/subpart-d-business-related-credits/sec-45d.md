@@ -198,7 +198,7 @@ There is a new markets tax credit limitation for each calendar year. Such limita
 
 (G) $3,500,000,000 for each of calendar years 2010 through 2019, and
 
-(H) $5,000,000,000 for for [2](#45D_2_target) each of calendar years 2020 through 2025.
+(H) $5,000,000,000 for each calendar year after 2019.
 
 #### (2) Allocation of limitation
 
@@ -210,7 +210,13 @@ The limitation under paragraph (1) shall be allocated by the Secretary among qua
 
 #### (3) Carryover of unused limitation
 
-If the new markets tax credit limitation for any calendar year exceeds the aggregate amount allocated under paragraph (2) for such year, such limitation for the succeeding calendar year shall be increased by the amount of such excess. No amount may be carried under the preceding sentence to any calendar year after 2030.
+#### (A) In general
+
+If the new markets tax credit limitation for any calendar year exceeds the aggregate amount allocated under paragraph (2) for such year, such limitation for the succeeding calendar year shall be increased by the amount of such excess.
+
+#### (B) Limitation
+
+No amount may be carried under subparagraph (A) to any calendar year afer the fifth calendar year after the calendar year in which the excess described in such subparagraph occurred. For purposes of this subparagraph, any excess described in subparagraph (A) with respect to any calendar year before 2026 shall be treated as occurring in calendar year 2025.
 
 #### (g) Recapture of credit in certain cases
 
@@ -270,7 +276,7 @@ The Secretary shall prescribe such regulations as may be appropriate to carry ou
 
 (6) which ensure that non-metropolitan counties receive a proportional allocation of qualified equity investments.
 
-(Added Pub. L. 106–554, §1(a)(7) \[title I, §121(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–605; amended Pub. L. 108–357, title II, §§221(a), (b), 223(a), Oct. 22, 2004, 118 Stat. 1431, 1432; Pub. L. 109–432, div. A, title I, §102(a), (b), Dec. 20, 2006, 120 Stat. 2934; Pub. L. 110–343, div. C, title III, §302, Oct. 3, 2008, 122 Stat. 3866; Pub. L. 111–5, div. B, title I, §1403(a), Feb. 17, 2009, 123 Stat. 352; Pub. L. 111–312, title VII, §733(a), (b), Dec. 17, 2010, 124 Stat. 3317, 3318; Pub. L. 112–240, title III, §305(a), (b), Jan. 2, 2013, 126 Stat. 2329; Pub. L. 113–295, div. A, title I, §115(a), (b), Dec. 19, 2014, 128 Stat. 4014; Pub. L. 114–113, div. Q, title I, §141(a), (b), Dec. 18, 2015, 129 Stat. 3056; Pub. L. 115–141, div. U, title IV, §401(a)(18), (d)(4)(B)(iii), Mar. 23, 2018, 132 Stat. 1185, 1209; Pub. L. 116–94, div. Q, title I, §141(a), (b), Dec. 20, 2019, 133 Stat. 3234; Pub. L. 116–260, div. EE, title I, §112(a), (b), Dec. 27, 2020, 134 Stat. 3050.)
+(Added Pub. L. 106–554, §1(a)(7) \[title I, §121(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–605; amended Pub. L. 108–357, title II, §§221(a), (b), 223(a), Oct. 22, 2004, 118 Stat. 1431, 1432; Pub. L. 109–432, div. A, title I, §102(a), (b), Dec. 20, 2006, 120 Stat. 2934; Pub. L. 110–343, div. C, title III, §302, Oct. 3, 2008, 122 Stat. 3866; Pub. L. 111–5, div. B, title I, §1403(a), Feb. 17, 2009, 123 Stat. 352; Pub. L. 111–312, title VII, §733(a), (b), Dec. 17, 2010, 124 Stat. 3317, 3318; Pub. L. 112–240, title III, §305(a), (b), Jan. 2, 2013, 126 Stat. 2329; Pub. L. 113–295, div. A, title I, §115(a), (b), Dec. 19, 2014, 128 Stat. 4014; Pub. L. 114–113, div. Q, title I, §141(a), (b), Dec. 18, 2015, 129 Stat. 3056; Pub. L. 115–141, div. U, title IV, §401(a)(18), (d)(4)(B)(iii), Mar. 23, 2018, 132 Stat. 1185, 1209; Pub. L. 116–94, div. Q, title I, §141(a), (b), Dec. 20, 2019, 133 Stat. 3234; Pub. L. 116–260, div. EE, title I, §112(a), (b), Dec. 27, 2020, 134 Stat. 3050; Pub. L. 119–21, title VII, §70423(a), (b), July 4, 2025, 139 Stat. 235.)
 
   
 
@@ -281,6 +287,10 @@ The Secretary shall prescribe such regulations as may be appropriate to carry ou
 Section 1044, referred to in subsec. (c)(2)(A), was repealed by Pub. L. 115–97, title I, §13313(a), Dec. 22, 2017, 131 Stat. 2133.
 
 #### Amendments
+
+**2025**—Subsec. (f)(1)(H). Pub. L. 119–21, §70423(a), substituted "for each calendar year after 2019" for "for for each of calendar years 2020 through 2025".
+
+Subsec. (f)(3). Pub. L. 119–21, §70423(b), designated first sentence as subpar. (A) and inserted heading, added subpar. (B), and struck out former second sentence which read as follows: "No amount may be carried under the preceding sentence to any calendar year after 2030."
 
 **2020**—Subsec. (f)(1)(H). Pub. L. 116–260, §112(a), substituted "for each of calendar years 2020 through 2025" for "2020".
 
@@ -329,6 +339,10 @@ Subsec. (e)(5). Pub. L. 108–357, §223(a), added par. (5).
   
 
 #### **Statutory Notes and Related Subsidiaries**
+
+#### Effective Date of 2025 Amendment
+
+Pub. L. 119–21, title VII, §70423(c), July 4, 2025, 139 Stat. 235, provided that: "The amendments made by this section \[amending this section\] shall apply to calendar years beginning after December 31, 2025."
 
 #### Effective Date of 2020 Amendment
 
@@ -403,5 +417,3 @@ Pub. L. 106–554, §1(a)(7) \[title I, §121(f)\], Dec. 21, 2000, 114 Stat. 276
 Pub. L. 106–554, §1(a)(7) \[title I, §121(g)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–610, provided that: "Not later than January 31 of 2004, 2007, and 2010, the Comptroller General of the United States shall, pursuant to an audit of the new markets tax credit program established under section 45D of the Internal Revenue Code of 1986 (as added by subsection (a)), report to Congress on such program, including all qualified community development entities that receive an allocation under the new markets credit under such section."
 
 [1 See References in Text note below.](#45D_1)
-
-[2 So in original.](#45D_2)

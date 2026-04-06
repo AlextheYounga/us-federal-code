@@ -1,66 +1,18 @@
 ### §68. Overall limitation on itemized deductions
 
-#### (a) General rule
+#### (a) In general
 
-In the case of an individual whose adjusted gross income exceeds the applicable amount, the amount of the itemized deductions otherwise allowable for the taxable year shall be reduced by the lesser of—
+In the case of an individual, the amount of the itemized deductions otherwise allowable for the taxable year (determined without regard to this section) shall be reduced by 2/37 of the lesser of—
 
-(1) 3 percent of the excess of adjusted gross income over the applicable amount, or
+(1) such amount of itemized deductions, or
 
-(2) 80 percent of the amount of the itemized deductions otherwise allowable for such taxable year.
+(2) so much of the taxable income of the taxpayer for the taxable year (determined without regard to this section and increased by such amount of itemized deductions) as exceeds the dollar amount at which the 37 percent rate bracket under section 1 begins with respect to the taxpayer.
 
-#### (b) Applicable amount
-
-#### (1) In general
-
-For purposes of this section, the term "applicable amount" means—
-
-(A) $300,000 in the case of a joint return or a surviving spouse (as defined in section 2(a)),
-
-(B) $275,000 in the case of a head of household (as defined in section 2(b)),
-
-(C) $250,000 in the case of an individual who is not married and who is not a surviving spouse or head of household, and
-
-(D) ½ the amount applicable under subparagraph (A) (after adjustment, if any, under paragraph (2)) in the case of a married individual filing a separate return.
-
-  
-
-For purposes of this paragraph, marital status shall be determined under section 7703.
-
-#### (2) Inflation adjustment
-
-In the case of any taxable year beginning in calendar years after 2013, each of the dollar amounts under subparagraphs (A), (B), and (C) of paragraph (1) shall be increased by an amount equal to—
-
-(A) such dollar amount, multiplied by
-
-(B) the cost-of-living adjustment determined under section 1(f)(3) for the calendar year in which the taxable year begins, except that section 1(f)(3)(A)(ii) shall be applied by substituting "2012" for "2016".
-
-  
-
-If any amount after adjustment under the preceding sentence is not a multiple of $50, such amount shall be rounded to the next lowest multiple of $50.
-
-#### (c) Exception for certain itemized deductions
-
-For purposes of this section, the term "itemized deductions" does not include—
-
-(1) the deduction under section 213 (relating to medical, etc. expenses),
-
-(2) any deduction for investment interest (as defined in section 163(d)), and
-
-(3) the deduction under section 165(a) for casualty or theft losses described in paragraph (2) or (3) of section 165(c) or for losses described in section 165(d).
-
-#### (d) Coordination with other limitations
+#### (b) Coordination with other limitations
 
 This section shall be applied after the application of any other limitation on the allowance of any itemized deduction.
 
-#### (e) Exception for estates and trusts
-
-This section shall not apply to any estate or trust.
-
-#### (f) Section not to apply
-
-This section shall not apply to any taxable year beginning after December 31, 2017, and before January 1, 2026.
-
-(Added Pub. L. 101–508, title XI, §11103(a), Nov. 5, 1990, 104 Stat. 1388–406; amended Pub. L. 103–66, title XIII, §§13201(b)(3)(E), 13204, Aug. 10, 1993, 107 Stat. 459, 462; Pub. L. 105–277, div. J, title IV, §4004(b)(2), Oct. 21, 1998, 112 Stat. 2681–911; Pub. L. 107–16, title I, §103(a), June 7, 2001, 115 Stat. 44; Pub. L. 112–240, title I, §101(b)(2)(A), Jan. 2, 2013, 126 Stat. 2316; Pub. L. 115–97, title I, §§11002(d)(2), 11046(a), Dec. 22, 2017, 131 Stat. 2061, 2088; Pub. L. 115–141, div. U, title IV, §401(a)(33), Mar. 23, 2018, 132 Stat. 1186.)
+(Added Pub. L. 101–508, title XI, §11103(a), Nov. 5, 1990, 104 Stat. 1388–406; amended Pub. L. 103–66, title XIII, §§13201(b)(3)(E), 13204, Aug. 10, 1993, 107 Stat. 459, 462; Pub. L. 105–277, div. J, title IV, §4004(b)(2), Oct. 21, 1998, 112 Stat. 2681–911; Pub. L. 107–16, title I, §103(a), June 7, 2001, 115 Stat. 44; Pub. L. 112–240, title I, §101(b)(2)(A), Jan. 2, 2013, 126 Stat. 2316; Pub. L. 115–97, title I, §§11002(d)(2), 11046(a), Dec. 22, 2017, 131 Stat. 2061, 2088; Pub. L. 115–141, div. U, title IV, §401(a)(33), Mar. 23, 2018, 132 Stat. 1186; Pub. L. 119–21, title VII, §70111(a), July 4, 2025, 139 Stat. 164.)
 
 #### Inflation Adjusted Items for Certain Years
 
@@ -71,6 +23,8 @@ For inflation adjustment of certain items in this section, see Revenue Procedure
 #### **Editorial Notes**
 
 #### Amendments
+
+**2025**—Pub. L. 119–21 amended section generally. Prior to amendment, section consisted of subsecs. (a) to (f) relating, respectively, to general rule, applicable amount, exception for certain itemized deductions, coordination with other limitations, exception for estates and trusts, and this section not applying to any taxable year beginning after Dec. 31, 2017, and before Jan. 1, 2026.
 
 **2018**—Subsec. (b)(2). Pub. L. 115–141 substituted "shall be" for "shall be shall be" in introductory provisions.
 
@@ -101,6 +55,10 @@ Subsec. (f). Pub. L. 103–66, §13204, struck out heading and text of subsec. (
   
 
 #### **Statutory Notes and Related Subsidiaries**
+
+#### Effective Date of 2025 Amendment
+
+Pub. L. 119–21, title VII, §70111(c), July 4, 2025, 139 Stat. 165, provided that: "The amendments made by this section \[amending this section and section 199A of this title\] shall apply to taxable years beginning after December 31, 2025."
 
 #### Effective Date of 2017 Amendment
 

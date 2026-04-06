@@ -151,7 +151,7 @@ The C-CPI-U for any calendar year is the average of the C-CPI-U as of the close 
 
 #### (A) In general
 
-If any increase determined under paragraph (2)(A), section 63(c)(4), section 68(b)(2) or section 151(d)(4) is not a multiple of $50, such increase shall be rounded to the next lowest multiple of $50.
+If any increase determined under paragraph (2)(A), section 63(c)(4), section 68(b)(2) [1](#1_1_target) or section 151(d)(4) is not a multiple of $50, such increase shall be rounded to the next lowest multiple of $50.
 
 #### (B) Table for married individuals filing separately
 
@@ -609,11 +609,11 @@ For purposes of this paragraph, with respect to taxable years beginning in calen
 
 The Secretary shall adjust the tables prescribed under subsection (f) to carry out this subsection.
 
-#### (j) Modifications for taxable years 2018 through 2025
+#### (j) Modifications for taxable years beginning after 2017
 
 #### (1) In general
 
-In the case of a taxable year beginning after December 31, 2017, and before January 1, 2026—
+In the case of a taxable year beginning after December 31, 2017—
 
 (A) subsection (i) shall not apply, and
 
@@ -707,7 +707,7 @@ The tables contained in paragraph (2) shall apply without adjustment for taxable
 
 For taxable years beginning after December 31, 2018, the Secretary shall prescribe tables which shall apply in lieu of the tables contained in paragraph (2) in the same manner as under paragraphs (1) and (2) of subsection (f) (applied without regard to clauses (i) and (ii) of subsection (f)(2)(A)), except that in prescribing such tables—
 
-(i) subsection (f)(3) shall be applied by substituting "calendar year 2017" for "calendar year 2016" in subparagraph (A)(ii) thereof,
+(i) solely for purposes of determining the dollar amounts at which any rate bracket higher than 12 percent ends and at which any rate bracket higher than 22 percent begins, subsection (f)(3) shall be applied by substituting "calendar year 2017" for "calendar year 2016" in subparagraph (A)(ii) thereof,
 
 (ii) subsection (f)(7)(B) shall apply to any unmarried individual other than a surviving spouse or head of household, and
 
@@ -769,7 +769,7 @@ If any increase under this subparagraph is not a multiple of $50, such increase 
 
 Section 15 shall not apply to any change in a rate of tax by reason of this subsection.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 5; Pub. L. 88–272, title I, §111, Feb. 26, 1964, 78 Stat. 19; Pub. L. 89–809, title I, §103(a)(2), Nov. 13, 1966, 80 Stat. 1550; Pub. L. 91–172, title VIII, §803(a), Dec. 30, 1969, 83 Stat. 678; Pub. L. 95–30, title I, §101(a), May 23, 1977, 91 Stat. 127; Pub. L. 95–600, title I, §101(a), Nov. 6, 1978, 92 Stat. 2767; Pub. L. 97–34, title I, §§101(a), 104(a), Aug. 13, 1981, 95 Stat. 176, 188; Pub. L. 97–448, title I, §101(a)(3), Jan. 12, 1983, 96 Stat. 2366; Pub. L. 99–514, title I, §101(a), title III, §302(a), title XIV, §1411(a), Oct. 22, 1986, 100 Stat. 2096, 2218, 2714; Pub. L. 100–647, title I, §§1001(a)(3), 1014(e)(1)–(3), (6), (7), title VI, §6006(a), Nov. 10, 1988, 102 Stat. 3349, 3561, 3562, 3686; Pub. L. 101–239, title VII, §§7811(j)(1), 7816(b), 7831(a), Dec. 19, 1989, 103 Stat. 2411, 2420, 2425; Pub. L. 101–508, title XI, §§11101(a)–(c), (d)(1)(A), (2), 11103(c), 11104(b), Nov. 5, 1990, 104 Stat. 1388–403 to 1388–406, 1388–408; Pub. L. 103–66, title XIII, §§13201(a), (b)(3)(A), (B), 13202(a), 13206(d)(2), Aug. 10, 1993, 107 Stat. 457, 459, 461, 467; Pub. L. 104–188, title I, §1704(m)(1), (2), Aug. 20, 1996, 110 Stat. 1882, 1883; Pub. L. 105–34, title III, §311(a), Aug. 5, 1997, 111 Stat. 831; Pub. L. 105–206, title V, §5001(a)(1)–(4), title VI, §§6005(d)(1), 6007(f)(1), July 22, 1998, 112 Stat. 787, 788, 800, 810; Pub. L. 105–277, div. J, title IV, §4002(i)(1), (3), Oct. 21, 1998, 112 Stat. 2681–907, 2681–908; Pub. L. 106–554, §1(a)(7) \[title I, §117(b)(1)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–604; Pub. L. 107–16, title I, §101(a), (c)(1), (2), title III, §§301(c)(1), 302(a), (b), June 7, 2001, 115 Stat. 41, 43, 54; Pub. L. 108–27, title I, §§102(a), (b)(1), 104(a), (b), 105(a), title III, §§301(a)(1), (2)(A), (b)(1), 302(a), (e)(1), May 28, 2003, 117 Stat. 754, 755, 758, 760, 763; Pub. L. 108–311, title I, §101(c), (d), title IV, §§402(a)(1)–(3), 408(a)(1), (2), Oct. 4, 2004, 118 Stat. 1167, 1168, 1184, 1190; Pub. L. 108–357, title IV, §413(c)(1), Oct. 22, 2004, 118 Stat. 1506; Pub. L. 109–222, title V, §510(a)—(c), May 17, 2006, 120 Stat. 364; Pub. L. 110–28, title VIII, §8241(a), (b), May 25, 2007, 121 Stat. 199; Pub. L. 110–185, title I, §101(f)(2), Feb. 13, 2008, 122 Stat. 617; Pub. L. 112–240, title I, §§101(b)(1), 102(b)(1), (c)(2), Jan. 2, 2013, 126 Stat. 2316, 2318, 2319; Pub. L. 113–295, div. A, title II, §221(a)(1), Dec. 19, 2014, 128 Stat. 4037; Pub. L. 115–97, title I, §§11001(a), 11002(a)–(c), 14223(a), Dec. 22, 2017, 131 Stat. 2054, 2059, 2220; Pub. L. 116–94, div. O, title V, §501(a), Dec. 20, 2019, 133 Stat. 3180.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 5; Pub. L. 88–272, title I, §111, Feb. 26, 1964, 78 Stat. 19; Pub. L. 89–809, title I, §103(a)(2), Nov. 13, 1966, 80 Stat. 1550; Pub. L. 91–172, title VIII, §803(a), Dec. 30, 1969, 83 Stat. 678; Pub. L. 95–30, title I, §101(a), May 23, 1977, 91 Stat. 127; Pub. L. 95–600, title I, §101(a), Nov. 6, 1978, 92 Stat. 2767; Pub. L. 97–34, title I, §§101(a), 104(a), Aug. 13, 1981, 95 Stat. 176, 188; Pub. L. 97–448, title I, §101(a)(3), Jan. 12, 1983, 96 Stat. 2366; Pub. L. 99–514, title I, §101(a), title III, §302(a), title XIV, §1411(a), Oct. 22, 1986, 100 Stat. 2096, 2218, 2714; Pub. L. 100–647, title I, §§1001(a)(3), 1014(e)(1)–(3), (6), (7), title VI, §6006(a), Nov. 10, 1988, 102 Stat. 3349, 3561, 3562, 3686; Pub. L. 101–239, title VII, §§7811(j)(1), 7816(b), 7831(a), Dec. 19, 1989, 103 Stat. 2411, 2420, 2425; Pub. L. 101–508, title XI, §§11101(a)–(c), (d)(1)(A), (2), 11103(c), 11104(b), Nov. 5, 1990, 104 Stat. 1388–403 to 1388–406, 1388–408; Pub. L. 103–66, title XIII, §§13201(a), (b)(3)(A), (B), 13202(a), 13206(d)(2), Aug. 10, 1993, 107 Stat. 457, 459, 461, 467; Pub. L. 104–188, title I, §1704(m)(1), (2), Aug. 20, 1996, 110 Stat. 1882, 1883; Pub. L. 105–34, title III, §311(a), Aug. 5, 1997, 111 Stat. 831; Pub. L. 105–206, title V, §5001(a)(1)–(4), title VI, §§6005(d)(1), 6007(f)(1), July 22, 1998, 112 Stat. 787, 788, 800, 810; Pub. L. 105–277, div. J, title IV, §4002(i)(1), (3), Oct. 21, 1998, 112 Stat. 2681–907, 2681–908; Pub. L. 106–554, §1(a)(7) \[title I, §117(b)(1)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–604; Pub. L. 107–16, title I, §101(a), (c)(1), (2), title III, §§301(c)(1), 302(a), (b), June 7, 2001, 115 Stat. 41, 43, 54; Pub. L. 108–27, title I, §§102(a), (b)(1), 104(a), (b), 105(a), title III, §§301(a)(1), (2)(A), (b)(1), 302(a), (e)(1), May 28, 2003, 117 Stat. 754, 755, 758, 760, 763; Pub. L. 108–311, title I, §101(c), (d), title IV, §§402(a)(1)–(3), 408(a)(1), (2), Oct. 4, 2004, 118 Stat. 1167, 1168, 1184, 1190; Pub. L. 108–357, title IV, §413(c)(1), Oct. 22, 2004, 118 Stat. 1506; Pub. L. 109–222, title V, §510(a)—(c), May 17, 2006, 120 Stat. 364; Pub. L. 110–28, title VIII, §8241(a), (b), May 25, 2007, 121 Stat. 199; Pub. L. 110–185, title I, §101(f)(2), Feb. 13, 2008, 122 Stat. 617; Pub. L. 112–240, title I, §§101(b)(1), 102(b)(1), (c)(2), Jan. 2, 2013, 126 Stat. 2316, 2318, 2319; Pub. L. 113–295, div. A, title II, §221(a)(1), Dec. 19, 2014, 128 Stat. 4037; Pub. L. 115–97, title I, §§11001(a), 11002(a)–(c), 14223(a), Dec. 22, 2017, 131 Stat. 2054, 2059, 2220; Pub. L. 116–94, div. O, title V, §501(a), Dec. 20, 2019, 133 Stat. 3180; Pub. L. 119–21, title VII, §70101(a), (b), July 4, 2025, 139 Stat. 158.)
 
 #### Inflation Adjusted Items for Certain Years
 
@@ -781,9 +781,17 @@ For inflation adjustment of certain items in this section, see Revenue Procedure
 
 #### References in Text
 
+Section 68(b)(2), referred to in subsec. (f)(7)(A), which related to an inflation adjustment to the applicable amount, was omitted in the general amendment of section 68 of this title by Pub. L. 119–21, title VII, §70111(a), July 4, 2025, 139 Stat. 164. The new subsec. (b) of section 68 of this title does not contain any paragraphs.
+
 The date of the enactment of this subclause, referred to in subsec. (h)(11)(C)(iii)(II), is the date of enactment of Pub. L. 115–97, which was approved Dec. 22, 2017.
 
 #### Amendments
+
+**2025**—Subsec. (j). Pub. L. 119–21, §70101(a)(2), substituted "beginning after 2017" for "2018 through 2025" in heading.
+
+Subsec. (j)(1). Pub. L. 119–21, §70101(a)(1), struck out ", and before January 1, 2026" after "December 31, 2017" in introductory provisions.
+
+Subsec. (j)(3)(B)(i). Pub. L. 119–21, §70101(b), inserted "solely for purposes of determining the dollar amounts at which any rate bracket higher than 12 percent ends and at which any rate bracket higher than 22 percent begins," before "subsection (f)(3)".
 
 **2019**—Subsec. (j)(4). Pub. L. 116–94 struck out par. (4) which related to special rules for certain children with unearned income.
 
@@ -1179,6 +1187,10 @@ Subsec. (e). Pub. L. 91–172 struck out cross reference to section 63. See sect
 
 #### **Statutory Notes and Related Subsidiaries**
 
+#### Effective Date of 2025 Amendment
+
+Pub. L. 119–21, title VII, §70101(c), July 4, 2025, 139 Stat. 158, provided that: "The amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 2025."
+
 #### Effective Date of 2019 Amendment
 
 Pub. L. 116–94, div. O, title V, §501(c), Dec. 20, 2019, 133 Stat. 3181, provided that:
@@ -1421,13 +1433,17 @@ Pub. L. 89–809, title I, §103(n), Nov. 13, 1966, 80 Stat. 1555, provided that
 
 Pub. L. 88–272, title I, §131, Feb. 26, 1964, 78 Stat. 30, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: "Except for purposes of section 21 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (relating to effect of changes in rates during a taxable year), the amendments made by parts I and II of this title \[amending this section and sections 2, 11, 37, 141, 144, 242, 821, 871, 963, 6016, 6074, 6154, 6212, 6504, and 6655 of this title\] shall apply with respect to taxable years beginning after December 31, 1963."
 
+#### Short Title of 2025 Amendment
+
+Pub. L. 119–29, §1, July 24, 2025, 139 Stat. 471, provided that: "This Act \[amending section 7508A of this title and enacting provisions set out as a note under section 7508A of this title\] may be cited as the 'Filing Relief for Natural Disasters Act'."
+
 #### Short Title of 2024 Amendment
 
 Pub. L. 118–168, §1, Dec. 23, 2024, 138 Stat. 2586, provided that: "This Act \[amending sections 4980H, 6055, 6056, and 6501 of this title and enacting provisions set out as notes under sections 4980H, 6055, and 6501 of this title\] may be cited as the 'Employer Reporting Improvement Act'."
 
 Pub. L. 118–167, §1, Dec. 23, 2024, 138 Stat. 2584, provided that: "This Act \[amending sections 6055 and 6056 of this title and enacting provisions set out as a note under section 6055 of this title\] may be cited as the 'Paperwork Burden Reduction Act'."
 
-Pub. L. 118–146, §1, Dec. 12, 2024, 138 Stat. 1673, provided that: "This Act \[amending section 170 of this title\] may be cited as the 'VSO Equal Tax Treatment Act' or as the 'VETT Act'."
+Pub. L. 118–146, §1, Dec. 12, 2024, 138 Stat. 1673, provided that: "This Act \[amending section 170 of this title and enacting provisions set out as a note under section 170 of this title\] may be cited as the 'VSO Equal Tax Treatment Act' or as the 'VETT Act'."
 
 Pub. L. 118–60, §1, May 10, 2024, 138 Stat. 1018, provided that: "This Act \[amending section 9502 of this title\] may be cited as the 'Airport and Airway Extension Act of 2024, Part II'."
 
@@ -2279,7 +2295,11 @@ Pub. L. 105–277, div. J, title IV, §4001(a), Oct. 21, 1998, 112 Stat. 2681–
 
 #### Inflation Adjusted Items for Certain Years
 
-Provisions relating to inflation adjustment of items in sections 1, 23, 24, 25A, 25B, 32, 36B, 42, 45R, 55, 59, 62, 63, 68, 125, 132, 135, 137, 146, 147, 148, 151, 152, 179, 179D, 199A, 213, 219, 220, 221, 223, 408A, 448, 461, 512, 513, 642, 685, 831, 877, 877A, 911, 1274A, 2010, 2032A, 2503, 2523, 2631, 4001, 4003, 4161, 4261, 5000A, 6012, 6013, 6033, 6039F, 6323, 6334, 6601, 6651, 6652, 6695, 6698, 6699, 6721, 6722, 7345, 7430, 7702B, and 9831 of this title for certain years were contained in the following:
+Provisions relating to inflation adjustment of items in sections 1, 23, 24, 25A, 25B, 32, 36B, 42, 45R, 55, 59, 62, 63, 68, 125, 132, 135, 137, 146, 147, 148, 151, 152, 179, 179D, 199A, 213, 219, 220, 221, 223, 408A, 448, 461, 512, 513, 642, 685, 831, 877, 877A, 911, 1274A, 2010, 2032A, 2503, 2523, 2631, 4001, 4003, 4161, 4261, 4611, 5000A, 6012, 6013, 6033, 6039F, 6323, 6334, 6601, 6651, 6652, 6695, 6698, 6699, 6721, 6722, 7345, 7430, 7702B, and 9831 of this title for certain years were contained in the following:
+
+**2025**—Revenue Procedure 2024–40.
+
+**2024**—Revenue Procedure 2023–34.
 
 **2023**—Revenue Procedure 2022–38.
 
@@ -2420,3 +2440,5 @@ Sec. 5. *General Provisions*. (a) Nothing in this order shall be construed to im
 (c) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
 
 J.R. Biden, Jr.      
+
+[1 See References in Text note below.](#1_1)

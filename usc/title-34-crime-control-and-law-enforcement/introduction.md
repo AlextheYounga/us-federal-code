@@ -92,6 +92,8 @@ Chap. Sec.
 
 609\. Homicide Victims' Families' Rights 60901
 
+611\. Funding 61101
+
         
 
 #### **Editorial Notes**

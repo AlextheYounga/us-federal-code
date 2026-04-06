@@ -1208,6 +1208,8 @@ Sec.
 
 1395 lll. Standardized post-acute care (PAC) assessment data for quality, payment, and discharge planning.
 
+1395mmm. Limiting Medicare coverage of certain individuals.
+
         
 
 #### SUBCHAPTER XIX—GRANTS TO STATES FOR MEDICAL ASSISTANCE PROGRAMS

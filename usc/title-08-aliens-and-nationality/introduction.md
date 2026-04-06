@@ -32,4 +32,6 @@ Chap. Sec.
 
 15\. Enhanced Border Security and Visa Entry Reform 1701
 
+16\. Immigration Fees 1801
+
         

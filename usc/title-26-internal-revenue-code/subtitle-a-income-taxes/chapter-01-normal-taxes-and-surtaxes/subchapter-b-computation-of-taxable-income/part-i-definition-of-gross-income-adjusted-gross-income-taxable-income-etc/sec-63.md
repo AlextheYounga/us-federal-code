@@ -12,9 +12,15 @@ In the case of an individual who does not elect to itemize his deductions for th
 
 (2) the deduction for personal exemptions provided in section 151,
 
-(3) any deduction provided in section 199A, and
+(3) any deduction provided in section 199A,
 
-(4) the deduction provided in section 170(p).
+(4) the deduction provided in section 170(p),
+
+(5) the deduction provided in section 224,
+
+(6) the deduction provided in section 225 and [1](#63_1_target)
+
+(7) so much of the deduction allowed by section 163(a) as is attributable to the exception under section 163(h)(4)(A).
 
 #### (c) Standard deduction
 
@@ -84,17 +90,17 @@ In the case of—
 
 the standard deduction shall be zero.
 
-#### (7) Special rules for taxable years 2018 through 2025
+#### (7) Special rules for taxable years beginning after 2017
 
-In the case of a taxable year beginning after December 31, 2017, and before January 1, 2026—
+In the case of a taxable year beginning after December 31, 2017—
 
 #### (A) Increase in standard deduction
 
 Paragraph (2) shall be applied—
 
-(i) by substituting "$18,000" for "$4,400" in subparagraph (B), and
+(i) by substituting "$23,625" for "$4,400" in subparagraph (B), and
 
-(ii) by substituting "$12,000" for "$3,000" in subparagraph (C).
+(ii) by substituting "$15,750" for "$3,000" in subparagraph (C).
 
 #### (B) Adjustment for inflation
 
@@ -104,11 +110,11 @@ Paragraph (4) shall not apply to the dollar amounts contained in paragraphs (2)(
 
 #### (ii) Adjustment of increased amounts
 
-In the case of a taxable year beginning after 2018, the $18,000 and $12,000 amounts in subparagraph (A) shall each be increased by an amount equal to—
+In the case of a taxable year beginning after 2025, the $23,625 and $15,750 amounts in subparagraph (A) shall each be increased by an amount equal to—
 
 (I) such dollar amount, multiplied by
 
-(II) the cost-of-living adjustment determined under section 1(f)(3) for the calendar year in which the taxable year begins, determined by substituting "2017" for "2016" in subparagraph (A)(ii) thereof.
+(II) the cost-of-living adjustment determined under section 1(f)(3) for the calendar year in which the taxable year begins, determined by substituting "2024" for "2016" in subparagraph (A)(ii) thereof.
 
   
 
@@ -178,7 +184,7 @@ For purposes of this subsection, an individual is blind only if his central visu
 
 For purposes of this section, marital status shall be determined under section 7703.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 18; Pub. L. 95–30, title I, §102(a), May 23, 1977, 91 Stat. 135; Pub. L. 95–600, title I, §101(b), Nov. 6, 1978, 92 Stat. 2769; Pub. L. 97–34, title I, §§104(b), 111(b)(4), 121(b), (c)(2), Aug. 13, 1981, 95 Stat. 189, 194, 196, 197; Pub. L. 99–514, title I, §102(a), title XII, §1272(d)(6), Oct. 22, 1986, 100 Stat. 2099, 2594; Pub. L. 100–647, title I, §1001(b)(1), Nov. 10, 1988, 102 Stat. 3349; Pub. L. 101–508, title XI, §§11101(d)(1)(D), 11801(a)(4), Nov. 5, 1990, 104 Stat. 1388–405, 1388–520; Pub. L. 103–66, title XIII, §13201(b)(3)(D), Aug. 10, 1993, 107 Stat. 459; Pub. L. 105–34, title XII, §1201(a), Aug. 5, 1997, 111 Stat. 993; Pub. L. 107–16, title III, §301(a), (b), (c)(2), June 7, 2001, 115 Stat. 53, 54; Pub. L. 107–147, title IV, §411(e), Mar. 9, 2002, 116 Stat. 46; Pub. L. 108–27, title I, §103(a), May 28, 2003, 117 Stat. 754; Pub. L. 108–311, title I, §101(b), Oct. 4, 2004, 118 Stat. 1167; Pub. L. 110–289, div. C, title I, §3012(a), (b), July 30, 2008, 122 Stat. 2891, 2892; Pub. L. 110–343, div. C, title II, §204(a), title VII, §706(b)(1), (2), Oct. 3, 2008, 122 Stat. 3865, 3922; Pub. L. 111–5, div. B, title I, §1008(c), Feb. 17, 2009, 123 Stat. 318; Pub. L. 113–295, div. A, title II, §221(a)(13), Dec. 19, 2014, 128 Stat. 4039; Pub. L. 115–97, title I, §§11002(d)(1)(K), 11011(b)(2), (3), 11021(a), Dec. 22, 2017, 131 Stat. 2060, 2070, 2072; Pub. L. 115–141, div. T, §101(a)(2)(A), Mar. 23, 2018, 132 Stat. 1155; Pub. L. 116–260, div. EE, title II, §212(b), Dec. 27, 2020, 134 Stat. 3067.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 18; Pub. L. 95–30, title I, §102(a), May 23, 1977, 91 Stat. 135; Pub. L. 95–600, title I, §101(b), Nov. 6, 1978, 92 Stat. 2769; Pub. L. 97–34, title I, §§104(b), 111(b)(4), 121(b), (c)(2), Aug. 13, 1981, 95 Stat. 189, 194, 196, 197; Pub. L. 99–514, title I, §102(a), title XII, §1272(d)(6), Oct. 22, 1986, 100 Stat. 2099, 2594; Pub. L. 100–647, title I, §1001(b)(1), Nov. 10, 1988, 102 Stat. 3349; Pub. L. 101–508, title XI, §§11101(d)(1)(D), 11801(a)(4), Nov. 5, 1990, 104 Stat. 1388–405, 1388–520; Pub. L. 103–66, title XIII, §13201(b)(3)(D), Aug. 10, 1993, 107 Stat. 459; Pub. L. 105–34, title XII, §1201(a), Aug. 5, 1997, 111 Stat. 993; Pub. L. 107–16, title III, §301(a), (b), (c)(2), June 7, 2001, 115 Stat. 53, 54; Pub. L. 107–147, title IV, §411(e), Mar. 9, 2002, 116 Stat. 46; Pub. L. 108–27, title I, §103(a), May 28, 2003, 117 Stat. 754; Pub. L. 108–311, title I, §101(b), Oct. 4, 2004, 118 Stat. 1167; Pub. L. 110–289, div. C, title I, §3012(a), (b), July 30, 2008, 122 Stat. 2891, 2892; Pub. L. 110–343, div. C, title II, §204(a), title VII, §706(b)(1), (2), Oct. 3, 2008, 122 Stat. 3865, 3922; Pub. L. 111–5, div. B, title I, §1008(c), Feb. 17, 2009, 123 Stat. 318; Pub. L. 113–295, div. A, title II, §221(a)(13), Dec. 19, 2014, 128 Stat. 4039; Pub. L. 115–97, title I, §§11002(d)(1)(K), 11011(b)(2), (3), 11021(a), Dec. 22, 2017, 131 Stat. 2060, 2070, 2072; Pub. L. 115–141, div. T, §101(a)(2)(A), Mar. 23, 2018, 132 Stat. 1155; Pub. L. 116–260, div. EE, title II, §212(b), Dec. 27, 2020, 134 Stat. 3067; Pub. L. 119–21, title VII, §§70102(a), (b), 70201(b), 70202(b), 70203(b), July 4, 2025, 139 Stat. 158, 171, 174, 177.)
 
 #### Inflation Adjusted Items for Certain Years
 
@@ -193,6 +199,22 @@ For inflation adjustment of certain items in this section, see Revenue Procedure
 Another section 212(b) of div. EE of Pub. L. 116–260 amended sections 6662 and 6751 of this title.
 
 #### Amendments
+
+**2025**—Subsec. (b)(5). Pub. L. 119–21, §70201(b), added par. (5).
+
+Subsec. (b)(6). Pub. L. 119–21, §70202(b), added par. (6).
+
+Subsec. (b)(7). Pub. L. 119–21, §70203(b), added par. (7).
+
+Subsec. (c)(7). Pub. L. 119–21, §70102(a), substituted "beginning after 2017" for "2018 through 2025" in heading and struck out ", and before January 1, 2026" after "December 31, 2017" in introductory provisions.
+
+Subsec. (c)(7)(A)(i). Pub. L. 119–21, §70102(b)(1), substituted "$23,625" for "$18,000".
+
+Subsec. (c)(7)(A)(ii). Pub. L. 119–21, §70102(b)(2), substituted "$15,750" for "$12,000".
+
+Subsec. (c)(7)(B)(ii). Pub. L. 119–21, §70102(b)(1)–(3), substituted "2025" for "2018", "$23,625" for "$18,000", and "$15,750" for "$12,000" in introductory provisions.
+
+Subsec. (c)(7)(B)(ii)(II). Pub. L. 119–21, §70102(b)(4), substituted "2024" for "2017".
 
 **2020**—Subsec. (b)(4). Pub. L. 116–260, §212(b)(1), added par. (4).
 
@@ -378,6 +400,16 @@ Subsec. (i). Pub. L. 97–34, §121(b)(2), added subsec. (i).
 
 #### **Statutory Notes and Related Subsidiaries**
 
+#### Effective Date of 2025 Amendment
+
+Pub. L. 119–21, title VII, §70102(c), July 4, 2025, 139 Stat. 159, provided that: "The amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 2024."
+
+Amendment by section 70201(b) of Pub. L. 119–21 applicable to taxable years beginning after Dec. 31, 2024, see section 70201(j) of Pub. L. 119–21, set out as a note under section 45B of this title.
+
+Pub. L. 119–21, title VII, §70202(g), July 4, 2025, 139 Stat. 175, provided that: "The amendments made by this section \[enacting section 225 of this title, amending this section and sections 6041, 6051, and 6213 of this title, and renumbering former section 225 of this title as section 226\] shall apply to taxable years beginning after December 31, 2024."
+
+Amendment by section 70203(b) of Pub. L. 119–21 applicable to indebtedness incurred after Dec. 31, 2024, see section 70203(e) of Pub. L. 119–21, set out as a note under section 56 of this title.
+
 #### Effective Date of 2020 Amendment
 
 Amendment by Pub. L. 116–260 applicable to taxable years beginning after Dec. 31, 2020, see section 212(d) of div. EE of Pub. L. 116–260, set out as a note under section 62 of this title.
@@ -471,3 +503,5 @@ Amendment by Pub. L. 95–30 applicable to taxable years beginning after Dec. 31
 #### Savings Provision
 
 For provisions that nothing in amendment by section 11801 of Pub. L. 101–508 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 45K of this title.
+
+[1 So in original. Probably should be preceded by a comma.](#63_1)

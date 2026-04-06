@@ -72,6 +72,8 @@ Sec.
 
 3736\. Reporting requirements.
 
+3737\. Partial Claim Program.
+
         
 
 #### SUBCHAPTER IV—SMALL BUSINESS LOANS
@@ -126,7 +128,9 @@ Sec.
 
 #### Amendments
 
-**2025**—Pub. L. 118–210, title II, §232(b), Jan. 2, 2025, 138 Stat. 2788, added item 3762A.
+**2025**—Pub. L. 119–31, §3(b), July 30, 2025, 139 Stat. 478, added item 3737.
+
+Pub. L. 118–210, title II, §232(b), Jan. 2, 2025, 138 Stat. 2788, added item 3762A.
 
 **2018**—Pub. L. 115–174, title III, §309(a)(4), May 24, 2018, 132 Stat. 1350, added item 3709.
 

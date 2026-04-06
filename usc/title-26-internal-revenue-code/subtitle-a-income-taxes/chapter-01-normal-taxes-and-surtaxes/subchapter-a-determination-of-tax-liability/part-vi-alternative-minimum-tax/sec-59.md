@@ -78,7 +78,7 @@ For purposes of this subsection, the term "qualified expenditure" means any amou
 
 (A) section 173 (relating to circulation expenditures),
 
-(B) section 174(a) (relating to research and experimental expenditures),
+(B) section 174A(a) (relating to domestic research or experimental expenditures),
 
 (C) section 263(c) (relating to intangible drilling and development expenditures),
 
@@ -292,7 +292,7 @@ For any taxable year for which an applicable corporation chooses to have the ben
 
 The Secretary shall provide for such regulations or other guidance as is necessary to carry out the purposes of this subsection.
 
-(Added Pub. L. 99–514, title VII, §701(a), Oct. 22, 1986, 100 Stat. 2336; amended Pub. L. 100–647, title I, §§1007(e), 1014(e)(5)(A), Nov. 10, 1988, 102 Stat. 3432, 3561; Pub. L. 101–239, title VII, §§7611(f)(5)(B), (6), 7612(e)(1), 7811(d)(1)(A), (j)(7), Dec. 19, 1989, 103 Stat. 2373, 2374, 2408, 2412; Pub. L. 101–508, title XI, §§11101(d)(3), 11531(b)(2), 11702(d), 11801(c)(2)(D), Nov. 5, 1990, 104 Stat. 1388–405, 1388–490, 1388–514, 1388–523; Pub. L. 102–486, title XIX, §1915(c)(3), Oct. 24, 1992, 106 Stat. 3024; Pub. L. 104–188, title I, §§1601(b)(2)(D), 1702(a)(1), 1703(e), 1704(m)(3), Aug. 20, 1996, 110 Stat. 1833, 1868, 1875, 1883; Pub. L. 105–34, title X, §1057(a), title XI, §1103(a), title XII, §1201(b)(1), Aug. 5, 1997, 111 Stat. 945, 966, 994; Pub. L. 105–206, title VI, §§6011(a), 6023(2), July 22, 1998, 112 Stat. 817, 824; Pub. L. 108–357, title IV, §421(a)(1), Oct. 22, 2004, 118 Stat. 1514; Pub. L. 115–97, title I, §§11002(d)(4), 12001(b)(3)(C), (10), Dec. 22, 2017, 131 Stat. 2061, 2093; Pub. L. 115–141, div. U, title IV, §401(d)(1)(D)(ii), Mar. 23, 2018, 132 Stat. 1206; Pub. L. 117–169, title I, §§10101(a)(2), (c), 13904(a), Aug. 16, 2022, 136 Stat. 1818, 1827, 2014.)
+(Added Pub. L. 99–514, title VII, §701(a), Oct. 22, 1986, 100 Stat. 2336; amended Pub. L. 100–647, title I, §§1007(e), 1014(e)(5)(A), Nov. 10, 1988, 102 Stat. 3432, 3561; Pub. L. 101–239, title VII, §§7611(f)(5)(B), (6), 7612(e)(1), 7811(d)(1)(A), (j)(7), Dec. 19, 1989, 103 Stat. 2373, 2374, 2408, 2412; Pub. L. 101–508, title XI, §§11101(d)(3), 11531(b)(2), 11702(d), 11801(c)(2)(D), Nov. 5, 1990, 104 Stat. 1388–405, 1388–490, 1388–514, 1388–523; Pub. L. 102–486, title XIX, §1915(c)(3), Oct. 24, 1992, 106 Stat. 3024; Pub. L. 104–188, title I, §§1601(b)(2)(D), 1702(a)(1), 1703(e), 1704(m)(3), Aug. 20, 1996, 110 Stat. 1833, 1868, 1875, 1883; Pub. L. 105–34, title X, §1057(a), title XI, §1103(a), title XII, §1201(b)(1), Aug. 5, 1997, 111 Stat. 945, 966, 994; Pub. L. 105–206, title VI, §§6011(a), 6023(2), July 22, 1998, 112 Stat. 817, 824; Pub. L. 108–357, title IV, §421(a)(1), Oct. 22, 2004, 118 Stat. 1514; Pub. L. 115–97, title I, §§11002(d)(4), 12001(b)(3)(C), (10), Dec. 22, 2017, 131 Stat. 2061, 2093; Pub. L. 115–141, div. U, title IV, §401(d)(1)(D)(ii), Mar. 23, 2018, 132 Stat. 1206; Pub. L. 117–169, title I, §§10101(a)(2), (c), 13904(a), Aug. 16, 2022, 136 Stat. 1818, 1827, 2014; Pub. L. 119–21, title VII, §70302(b)(4), July 4, 2025, 139 Stat. 192.)
 
 #### Inflation Adjusted Items for Certain Years
 
@@ -303,6 +303,8 @@ For inflation adjustment of certain items in this section, see Revenue Procedure
 #### **Editorial Notes**
 
 #### Amendments
+
+**2025**—Subsec. (e)(2)(B). Pub. L. 119–21 substituted "section 174A(a) (relating to domestic research or experimental expenditures)" for "section 174(a) (relating to research and experimental expenditures)".
 
 **2022**—Subsec. (k). Pub. L. 117–169, §10101(a)(2), added subsec. (k).
 
@@ -417,6 +419,10 @@ Subsec. (j). Pub. L. 100–647, §1014(e)(5)(A), added subsec. (j).
   
 
 #### **Statutory Notes and Related Subsidiaries**
+
+#### Effective Date of 2025 Amendment
+
+Amendment by Pub. L. 119–21 applicable to amounts paid or incurred in taxable years beginning after Dec. 31, 2024, subject to election for retroactive application by certain small businesses and election to deduct certain unamortized amounts paid or incurred in taxable years beginning before Jan. 1, 2025, see section 70302(e), (f) of Pub. L. 119–21, set out as an Effective Date note under section 174A of this title.
 
 #### Effective Date of 2022 Amendment
 

@@ -128,19 +128,9 @@ The term "qualified energy property" means any of the following:
 
 (C) Any oil furnace or hot water boiler which—
 
-(i) is placed in service after December 31, 2022, and before January 1, 2027, and—
+(i) meets or exceeds 2021 Energy Star efficiency criteria, and
 
-(I) meets or exceeds 2021 Energy Star efficiency criteria, and
-
-(II) is rated by the manufacturer for use with fuel blends at least 20 percent of the volume of which consists of an eligible fuel, or
-
-  
-
-(ii) is placed in service after December 31, 2026, and—
-
-(I) achieves an annual fuel utilization efficiency rate of not less than 90, and
-
-(II) is rated by the manufacturer for use with fuel blends at least 50 percent of the volume of which consists of an eligible fuel.
+(ii) is rated by the manufacturer for use with fuel blends at least 20 percent of the volume of which consists of an eligible fuel.
 
   
 
@@ -164,9 +154,11 @@ The term "qualified energy property" means any of the following:
 
 For purposes of paragraph (2), the term "eligible fuel" means—
 
-(A) biodiesel and renewable diesel (within the meaning of section 40A), and
+(A) biodiesel and renewable diesel (within the meaning of section 40A),
 
-(B) second generation biofuel (within the meaning of section 40).
+(B) second generation biofuel (within the meaning of section 40), and
+
+(C) transportation fuel (as defined in section 45Z(d)(5)).
 
 #### (e) Home energy audits
 
@@ -202,55 +194,39 @@ For purposes of determining the amount of expenditures made by any individual wi
 
 For purposes of this subtitle, if a credit is allowed under this section for any expenditure with respect to any property, the increase in the basis of such property which would (but for this subsection) result from such expenditure shall be reduced by the amount of the credit so allowed.
 
-#### (h) Termination
+#### (h) Product identification number requirement
 
-This section shall not apply with respect to any property placed in service—
+#### (1) In general
 
-(1) after December 31, 2007, and before January 1, 2009, or
+No credit shall be allowed under subsection (a) with respect to any item of specified property placed in service after December 31, 2024, unless—
 
-(2) after December 31, 2032.
+(A) such item is produced by a qualified manufacturer, and
 
-(Added Pub. L. 109–58, title XIII, §1333(a), Aug. 8, 2005, 119 Stat. 1026; amended Pub. L. 109–135, title IV, §412(b), Dec. 21, 2005, 119 Stat. 2636; Pub. L. 110–172, §11(a)(2), Dec. 29, 2007, 121 Stat. 2484; Pub. L. 110–343, div. B, title III, §302(a)–(e), Oct. 3, 2008, 122 Stat. 3844, 3845; Pub. L. 111–5, div. B, title I, §§1103(b)(2)(A), 1121(a)–(e), Feb. 17, 2009, 123 Stat. 320, 322–324; Pub. L. 111–312, title VII, §710(a), (b), Dec. 17, 2010, 124 Stat. 3314; Pub. L. 112–240, title IV, §401(a), Jan. 2, 2013, 126 Stat. 2337; Pub. L. 113–295, div. A, title I, §151(a), Dec. 19, 2014, 128 Stat. 4021; Pub. L. 114–113, div. Q, title I, §181(a), (b), Dec. 18, 2015, 129 Stat. 3072; Pub. L. 115–123, div. D, title I, §40401(a), Feb. 9, 2018, 132 Stat. 148; Pub. L. 115–141, div. U, title IV, §401(a)(4)–(6), Mar. 23, 2018, 132 Stat. 1184; Pub. L. 116–94, div. Q, title I, §123(a), (b), Dec. 20, 2019, 133 Stat. 3231; Pub. L. 116–260, div. EE, title I, §§141(a), 148(b)(3), Dec. 27, 2020, 134 Stat. 3054, 3055; Pub. L. 117–169, title I, §§13301(a)–(f)(3)(A), (g)(1), (h)(1), 13704(b)(1), Aug. 16, 2022, 136 Stat. 1941–1946, 2002.)
+(B) the taxpayer includes the qualified product identification number of such item on the return of tax for the taxable year.
 
-#### Amendment of Section
+#### (2) Qualified product identification number
 
-Pub. L. 117–169, title I, §13704(b)(1), (c), Aug. 16, 2022, 136 Stat. 2002, 2003, provided that, applicable to transportation fuel produced after Dec. 31, 2024, subsection (d)(3) of this section is amended by striking "and" at the end of subparagraph (A), by striking the period at the end of subparagraph (B) and inserting ", and", and by adding at the end the following new subparagraph:
+For purposes of this section, the term "qualified product identification number" means, with respect to any item of specified property, the product identification number assigned to such item by the qualified manufacturer pursuant to the methodology referred to in paragraph (3).
 
-*(C) transportation fuel (as defined in section 45Z(d)(5)).*
+#### (3) Qualified manufacturer
 
-See 2022 Amendment note below.
+For purposes of this section, the term "qualified manufacturer" means any manufacturer of specified property which enters into an agreement with the Secretary which provides that such manufacturer will—
 
-Pub. L. 117–169, title I, §13301(g)(1), (i)(3), Aug. 16, 2022, 136 Stat. 1941, 1946, provided that, applicable to property placed in service after Dec. 31, 2024, this section is amended by redesignating subsection (h) as subsection (i) and by inserting after subsection (g) the following new subsection:
+(A) assign a product identification number to each item of specified property produced by such manufacturer utilizing a methodology that will ensure that such number (including any alphanumeric) is unique to each such item (by utilizing numbers or letters which are unique to such manufacturer or by such other method as the Secretary may provide),
 
-#### *(h) Product identification number requirement*
+(B) label such item with such number in such manner as the Secretary may provide, and
 
-#### *(1) In general*
+(C) make periodic written reports to the Secretary (at such times and in such manner as the Secretary may provide) of the product identification numbers so assigned and including such information as the Secretary may require with respect to the item of specified property to which such number was so assigned.
 
-*No credit shall be allowed under subsection (a) with respect to any item of specified property placed in service after December 31, 2024, unless—*
+#### (4) Specified property
 
-*(A) such item is produced by a qualified manufacturer, and*
+For purposes of this subsection, the term "specified property" means any qualified energy property and any property described in subparagraph (B) or (C) of subsection (c)(3).
 
-*(B) the taxpayer includes the qualified product identification number of such item on the return of tax for the taxable year.*
+#### (i) Termination
 
-#### *(2) Qualified product identification number*
+This section shall not apply with respect to any property placed in service after December 31, 2025.
 
-*For purposes of this section, the term "qualified product identification number" means, with respect to any item of specified property, the product identification number assigned to such item by the qualified manufacturer pursuant to the methodology referred to in paragraph (3).*
-
-#### *(3) Qualified manufacturer*
-
-*For purposes of this section, the term "qualified manufacturer" means any manufacturer of specified property which enters into an agreement with the Secretary which provides that such manufacturer will—*
-
-*(A) assign a product identification number to each item of specified property produced by such manufacturer utilizing a methodology that will ensure that such number (including any alphanumeric) is unique to each such item (by utilizing numbers or letters which are unique to such manufacturer or by such other method as the Secretary may provide),*
-
-*(B) label such item with such number in such manner as the Secretary may provide, and*
-
-*(C) make periodic written reports to the Secretary (at such times and in such manner as the Secretary may provide) of the product identification numbers so assigned and including such information as the Secretary may require with respect to the item of specified property to which such number was so assigned.*
-
-#### *(4) Specified property*
-
-*For purposes of this subsection, the term "specified property" means any qualified energy property and any property described in subparagraph (B) or (C) of subsection (c)(3).*
-
-See 2022 Amendment notes below.
+(Added Pub. L. 109–58, title XIII, §1333(a), Aug. 8, 2005, 119 Stat. 1026; amended Pub. L. 109–135, title IV, §412(b), Dec. 21, 2005, 119 Stat. 2636; Pub. L. 110–172, §11(a)(2), Dec. 29, 2007, 121 Stat. 2484; Pub. L. 110–343, div. B, title III, §302(a)–(e), Oct. 3, 2008, 122 Stat. 3844, 3845; Pub. L. 111–5, div. B, title I, §§1103(b)(2)(A), 1121(a)–(e), Feb. 17, 2009, 123 Stat. 320, 322–324; Pub. L. 111–312, title VII, §710(a), (b), Dec. 17, 2010, 124 Stat. 3314; Pub. L. 112–240, title IV, §401(a), Jan. 2, 2013, 126 Stat. 2337; Pub. L. 113–295, div. A, title I, §151(a), Dec. 19, 2014, 128 Stat. 4021; Pub. L. 114–113, div. Q, title I, §181(a), (b), Dec. 18, 2015, 129 Stat. 3072; Pub. L. 115–123, div. D, title I, §40401(a), Feb. 9, 2018, 132 Stat. 148; Pub. L. 115–141, div. U, title IV, §401(a)(4)–(6), Mar. 23, 2018, 132 Stat. 1184; Pub. L. 116–94, div. Q, title I, §123(a), (b), Dec. 20, 2019, 133 Stat. 3231; Pub. L. 116–260, div. EE, title I, §§141(a), 148(b)(3), Dec. 27, 2020, 134 Stat. 3054, 3055; Pub. L. 117–169, title I, §§13301(a)–(f)(3)(A), (g)(1), (h)(1), 13704(b)(1), Aug. 16, 2022, 136 Stat. 1941–1946, 2002; Pub. L. 119–21, title VII, §70505, July 4, 2025, 139 Stat. 251.)
 
   
 
@@ -261,6 +237,28 @@ See 2022 Amendment notes below.
 The date of the enactment of this subsection, referred to in subsec. (e)(2), is the date of enactment of Pub. L. 117–169, which was approved Aug. 16, 2022.
 
 #### Amendments
+
+**2025**—Subsec. (d)(2)(C). Pub. L. 119–21, §70505(b), amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: "Any oil furnace or hot water boiler which—
+
+"(i) is placed in service after December 31, 2022, and before January 1, 2027, and—
+
+"(I) meets or exceeds 2021 Energy Star efficiency criteria, and
+
+"(II) is rated by the manufacturer for use with fuel blends at least 20 percent of the volume of which consists of an eligible fuel, or
+
+"(ii) is placed in service after December 31, 2026, and—
+
+"(I) achieves an annual fuel utilization efficiency rate of not less than 90, and
+
+"(II) is rated by the manufacturer for use with fuel blends at least 50 percent of the volume of which consists of an eligible fuel."
+
+Subsec. (i). Pub. L. 119–21, §70505(a), which directed amendment of subsec. (h) by substituting "placed in service after December 31, 2025" for "placed in service" and all that followed through "December 31, 2032", was executed to subsec. (i) of this section by making the substitution for "placed in service—
+
+"(1) after December 31, 2007, and before January 1, 2009, or
+
+"(2) after December 31, 2032",
+
+to reflect the probable intent of Congress and the redesignation of subsec. (h) as (i) by Pub. L. 117–169, §13301(g)(1). See 2022 Amendment note below.
 
 **2022**—Pub. L. 117–169, §13301(h)(1), substituted "Energy efficient home improvement credit" for "Nonbusiness energy property" in section catchline.
 

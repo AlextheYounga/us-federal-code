@@ -138,9 +138,9 @@ The Secretary shall issue such regulations or other guidance as the Secretary de
 
 #### (h) Termination
 
-This section shall not apply to any qualified new energy efficient home acquired after December 31, 2032.
+This section shall not apply to any qualified new energy efficient home acquired after June 30, 2026.
 
-(Added Pub. L. 109–58, title XIII, §1332(a), Aug. 8, 2005, 119 Stat. 1024; amended Pub. L. 109–432, div. A, title II, §205, Dec. 20, 2006, 120 Stat. 2945; Pub. L. 110–172, §11(a)(7), Dec. 29, 2007, 121 Stat. 2485; Pub. L. 110–343, div. B, title III, §304, Oct. 3, 2008, 122 Stat. 3845; Pub. L. 111–312, title VII, §703(a), Dec. 17, 2010, 124 Stat. 3311; Pub. L. 112–240, title IV, §408(a), (b), Jan. 2, 2013, 126 Stat. 2342; Pub. L. 113–295, div. A, title I, §156(a), Dec. 19, 2014, 128 Stat. 4021; Pub. L. 114–113, div. Q, title I, §188(a), Dec. 18, 2015, 129 Stat. 3074; Pub. L. 115–123, div. D, title I, §40410(a), Feb. 9, 2018, 132 Stat. 150; Pub. L. 116–94, div. Q, title I, §129(a), Dec. 20, 2019, 133 Stat. 3232; Pub. L. 116–260, div. EE, title I, §146(a), Dec. 27, 2020, 134 Stat. 3055; Pub. L. 117–169, title I, §13304(a)–(e), Aug. 16, 2022, 136 Stat. 1952–1954.)
+(Added Pub. L. 109–58, title XIII, §1332(a), Aug. 8, 2005, 119 Stat. 1024; amended Pub. L. 109–432, div. A, title II, §205, Dec. 20, 2006, 120 Stat. 2945; Pub. L. 110–172, §11(a)(7), Dec. 29, 2007, 121 Stat. 2485; Pub. L. 110–343, div. B, title III, §304, Oct. 3, 2008, 122 Stat. 3845; Pub. L. 111–312, title VII, §703(a), Dec. 17, 2010, 124 Stat. 3311; Pub. L. 112–240, title IV, §408(a), (b), Jan. 2, 2013, 126 Stat. 2342; Pub. L. 113–295, div. A, title I, §156(a), Dec. 19, 2014, 128 Stat. 4021; Pub. L. 114–113, div. Q, title I, §188(a), Dec. 18, 2015, 129 Stat. 3074; Pub. L. 115–123, div. D, title I, §40410(a), Feb. 9, 2018, 132 Stat. 150; Pub. L. 116–94, div. Q, title I, §129(a), Dec. 20, 2019, 133 Stat. 3232; Pub. L. 116–260, div. EE, title I, §146(a), Dec. 27, 2020, 134 Stat. 3055; Pub. L. 117–169, title I, §13304(a)–(e), Aug. 16, 2022, 136 Stat. 1952–1954; Pub. L. 119–21, title VII, §70508, July 4, 2025, 139 Stat. 251.)
 
   
 
@@ -151,6 +151,8 @@ This section shall not apply to any qualified new energy efficient home acquired
 The date of the enactment of this section, referred to in subsec. (b)(2)(B), is the date of enactment of Pub. L. 109–58, which was approved Aug. 8, 2005.
 
 #### Amendments
+
+**2025**—Subsec. (h). Pub. L. 119–21 substituted "June 30, 2026" for "December 31, 2032".
 
 **2022**—Subsec. (a)(2). Pub. L. 117–169, §13304(b), amended par. (2) generally. Prior to amendment, par. (2) related to applicable amount for dwelling unit.
 

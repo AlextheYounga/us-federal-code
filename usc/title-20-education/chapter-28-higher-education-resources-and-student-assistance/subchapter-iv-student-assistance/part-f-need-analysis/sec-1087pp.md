@@ -80,7 +80,7 @@ Asset Protection Allowances for Families and Students
 | If the age of the student is— | And the student is |
 | ----------------------------- | ------------------ |
 |                               |                    |
-| (1)then the allowance is—     |                    |
+| (1) then the allowance is—    |                    |
 |                               |                    |
 | 25 or less                    |  $  0              |
 | 26                            |  $400              |

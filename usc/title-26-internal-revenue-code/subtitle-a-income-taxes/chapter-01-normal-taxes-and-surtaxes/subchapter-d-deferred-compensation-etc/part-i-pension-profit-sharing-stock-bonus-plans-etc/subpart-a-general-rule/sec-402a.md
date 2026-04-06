@@ -384,6 +384,10 @@ but only if such contribution is nonforfeitable at the time received.
 
 (Added Pub. L. 107–16, title VI, §617(a), June 7, 2001, 115 Stat. 103; amended Pub. L. 111–240, title II, §§2111(a), (b), 2112(a), Sept. 27, 2010, 124 Stat. 2565, 2566; Pub. L. 112–240, title IX, §902(a), Jan. 2, 2013, 126 Stat. 2371; Pub. L. 113–295, div. A, title II, §220(k), Dec. 19, 2014, 128 Stat. 4036; Pub. L. 117–328, div. T, title I, §127(e)(1), title III, §325(a), title VI, §604(a)–(d), Dec. 29, 2022, 136 Stat. 5324, 5359, 5392.)
 
+#### Inflation Adjusted Items for Certain Years
+
+For inflation adjustment of certain items in this section, see Internal Revenue Notices listed in a table under section 401 of this title.
+
   
 
 #### **Editorial Notes**

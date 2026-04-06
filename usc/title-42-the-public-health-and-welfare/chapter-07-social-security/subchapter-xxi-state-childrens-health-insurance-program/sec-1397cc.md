@@ -266,9 +266,9 @@ Coverage offered under this section shall comply with the requirements of subpar
 
 #### (3) Compliance with managed care requirements
 
-The State child health plan shall provide for the application of subsections (a)(4), (a)(5), (b), (c), (d), and (e) of section 1396u–2 of this title (relating to requirements for managed care) to coverage, State agencies, enrollment brokers, managed care entities, and managed care organizations under this subchapter in the same manner as such subsections apply to coverage and such entities and organizations under subchapter XIX.
+The State child health plan shall provide for the application of subsections (a)(4), (a)(5), (b), (c), (d), (e), and (j) of section 1396u–2 of this title (relating to requirements for managed care) to coverage, State agencies, enrollment brokers, managed care entities, and managed care organizations under this subchapter in the same manner as such subsections apply to coverage and such entities and organizations under subchapter XIX.
 
-(Aug. 14, 1935, ch. 531, title XXI, §2103, as added Pub. L. 105–33, title IV, §4901(a), Aug. 5, 1997, 111 Stat. 554; amended Pub. L. 111–3, title I, §111(b)(1), title IV, §403(a), title V, §§501(a)(1), 502, 504(a), 505(a), Feb. 4, 2009, 123 Stat. 28, 84, 89, 90; Pub. L. 115–271, title V, §5022(a)–(b)(2)(A), (d), Oct. 24, 2018, 132 Stat. 3964, 3965; Pub. L. 116–127, div. F, §6004(b)(1), (3), Mar. 18, 2020, 134 Stat. 206; Pub. L. 116–260, div. BB, title II, §203(a)(4)(C), Dec. 27, 2020, 134 Stat. 2917; Pub. L. 117–2, title IX, §9821(a), Mar. 11, 2021, 135 Stat. 219; Pub. L. 117–169, title I, §11405(b), Aug. 16, 2022, 136 Stat. 1901.)
+(Aug. 14, 1935, ch. 531, title XXI, §2103, as added Pub. L. 105–33, title IV, §4901(a), Aug. 5, 1997, 111 Stat. 554; amended Pub. L. 111–3, title I, §111(b)(1), title IV, §403(a), title V, §§501(a)(1), 502, 504(a), 505(a), Feb. 4, 2009, 123 Stat. 28, 84, 89, 90; Pub. L. 115–271, title V, §5022(a)–(b)(2)(A), (d), Oct. 24, 2018, 132 Stat. 3964, 3965; Pub. L. 116–127, div. F, §6004(b)(1), (3), Mar. 18, 2020, 134 Stat. 206; Pub. L. 116–260, div. BB, title II, §203(a)(4)(C), Dec. 27, 2020, 134 Stat. 2917; Pub. L. 117–2, title IX, §9821(a), Mar. 11, 2021, 135 Stat. 219; Pub. L. 117–169, title I, §11405(b), Aug. 16, 2022, 136 Stat. 1901; Pub. L. 119–21, title VII, §71103(b)(2), July 4, 2025, 139 Stat. 293.)
 
   
 
@@ -283,6 +283,8 @@ The Employee Retirement Income Security Act of 1974, referred to in subsec. (f)(
 The Public Health Service Act, referred to in subsec. (f), is act July 1, 1944, ch. 373, 58 Stat. 682. Title XXVII of the Act is classified generally to subchapter XXV (§300gg et seq.) of chapter 6A of this title. Subpart 2 of part A of title XXVII of the Act may refer to subpart II of part A of subchapter XXV of chapter 6A of this title. Pub. L. 111–148, title I, §§1001(5), 1563(c)(2), (11), formerly §1562(c)(2), (11), title X, §10107(b)(1), Mar. 23, 2010, 124 Stat. 130, 265, 268, 911, amended part A by inserting "subpart ii—improving coverage" (preceding section 300gg–11 of this title), by striking out "subpart 2—other requirements" (preceding section 300gg–4 of this title), and by redesignating subpart 4 as subpart 2 "exclusion of plans; enforcement; preemption" (preceding section 300gg–21 of this title). For complete classification of this Act to the Code, see Short Title note set out under section 201 of this title and Tables.
 
 #### Amendments
+
+**2025**—Subsec. (f)(3). Pub. L. 119–21 substituted "(e), and (j)" for "and (e)".
 
 **2022**—Subsec. (c)(12). Pub. L. 117–169, §11405(b)(1), added par. (12).
 

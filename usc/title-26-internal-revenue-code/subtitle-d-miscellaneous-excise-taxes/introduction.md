@@ -30,7 +30,9 @@ Chapter Sec. 1
 
 43\. Qualified pension, etc., plans 4971
 
-44\. Real estate investment trusts 4981
+44\. Real estate investment trusts 2 4981
+
+        
 
 45\. Provisions relating to expatriated entities 4985
 
@@ -252,3 +254,5 @@ Pub. L. 111–148, title IX, §9010, title X, §10905(a)–(f), Mar. 23, 2010, 1
 \[Pub. L. 116–94, div. N, title I, §502(b), Dec. 20, 2019, 133 Stat. 3119, provided that, "The amendment made by this section \[repealing section 9010 of Pub. L. 111–148, formerly set out above\] shall apply to calendar years beginning after December 31, 2020."\]
 
 [1 Section numbers editorially supplied.](#SubtitleD_1)
+
+[2 Chapter heading amended by Pub. L. 99–514 without corresponding amendment of subtitle analysis.](#SubtitleD_2)

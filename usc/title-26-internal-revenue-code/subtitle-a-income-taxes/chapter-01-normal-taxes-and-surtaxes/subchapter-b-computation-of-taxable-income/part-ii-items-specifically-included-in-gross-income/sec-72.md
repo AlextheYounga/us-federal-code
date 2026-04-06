@@ -1200,6 +1200,20 @@ Rules similar to the rules of subparagraph (H)(v) shall apply with respect to an
 
 Any qualified disaster recovery distribution.
 
+#### (N) Qualified long-term care distributions
+
+#### (i) In general
+
+Any qualified long-term care distribution to which section 401(a)(39) applies.
+
+#### (ii) Exception
+
+If, with respect to the plan, the individual covered by the long-term care coverage to which such distribution relates is the spouse of the employee, clause (i) shall apply only if the employee and the employee's spouse file a joint return.
+
+#### (iii) Exemption of distributions from trustee to trustee transfer and withholding rules
+
+For purposes of sections 401(a)(31), 402(f), and 3405, any qualified long-term care distribution described in clause (i) shall not be treated as an eligible rollover distribution.
+
 #### (3) Limitations
 
 #### (A) Certain exceptions not to apply to individual retirement plans
@@ -1312,7 +1326,7 @@ The term "first-time homebuyer" means any individual if—
 
 (I) such individual (and if married, such individual's spouse) had no present ownership interest in a principal residence during the 2-year period ending on the date of acquisition of the principal residence to which this paragraph applies, and
 
-(II) subsection (h) or (k) of section 1034 [5](#72_5_target) (as in effect on the day before the date of the enactment of this paragraph) did not suspend the running of any period of time specified in section 1034 [5](#72_5_target) (as so in effect) with respect to such individual on the day before the date the distribution is applied pursuant to subparagraph (A).
+(II) subsection (h) or (k) of section 1034 [4](#72_4_target) (as in effect on the day before the date of the enactment of this paragraph) did not suspend the running of any period of time specified in section 1034 [4](#72_4_target) (as so in effect) with respect to such individual on the day before the date the distribution is applied pursuant to subparagraph (A).
 
 #### (ii) Principal residence
 
@@ -1590,25 +1604,9 @@ The Secretary shall prescribe such regulations as may be necessary to carry out 
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 20; Pub. L. 87–792, §4(a), (b), Oct. 10, 1962, 76 Stat. 821; Pub. L. 87–834, §11(b), Oct. 16, 1962, 76 Stat. 1005; Pub. L. 88–272, title II, §232(b), Feb. 26, 1964, 78 Stat. 110; Pub. L. 89–44, title VIII, §809(d)(2), June 21, 1965, 79 Stat. 167; Pub. L. 89–97, title I, §106(d)(2), July 30, 1965, 79 Stat. 337; Pub. L. 89–365, §1(b), Mar. 8, 1966, 80 Stat. 32; Pub. L. 91–172, title V, §515(b), Dec. 30, 1969, 83 Stat. 644; Pub. L. 93–406, title II, §§2001(e)(5), (g)(1), (2)(A), (h)(2), (3), 2002(g)(10), 2005(c)(3), 2007(b)(2), Sept. 2, 1974, 88 Stat. 955, 957, 970, 991, 994; Pub. L. 94–455, title XIX, §§1901(a)(12), (13), 1906(b)(13)(A), 1951(b)(1)(A), Oct. 4, 1976, 90 Stat. 1765, 1834, 1836; Pub. L. 97–34, title III, §§311(b)(1), 312(d), (e)(1), Aug. 13, 1981, 95 Stat. 278, 284; Pub. L. 97–248, title II, §§236(a), (b), 237(d), 265(a), (b)(1), Sept. 3, 1982, 96 Stat. 509–511, 544–546; Pub. L. 97–448, title I, §103(c)(3)(B)(i), (6), Jan. 12, 1983, 96 Stat. 2376; Pub. L. 98–76, title II, §224(a), Aug. 12, 1983, 97 Stat. 421; Pub. L. 98–369, div. A, title II, §§211(b)(1), 222(a), (b), title IV, §§421(b)(1), 491(d)(3), (4), title V, §§521(d), 523(a), (b), title VII, §713(b)(1)–(c)(1)(B), (d)(1), July 18, 1984, 98 Stat. 754, 774, 794, 849, 868, 871, 872, 956, 957; Pub. L. 98–397, title II, §204(c)(2), Aug. 23, 1984, 98 Stat. 1448; Pub. L. 99–514, title XI, §§1101(b)(2)(B), (C), 1122(c), 1123(a), (b), (d)(1), 1134(a)–(d), 1135(a), title XVIII, §§1826(a), (b)(1)–(3), (c), (d), 1852(a)(2), (c)(1)–(4), 1854(b)(1), 1898(c)(1)(B), Oct. 22, 1986, 100 Stat. 2413, 2414, 2467, 2472, 2474, 2475, 2483, 2484, 2848–2850, 2864, 2867, 2878, 2951; Pub. L. 100–647, title I, §§1011A(b)(1)(A), (B), (2), (9), (c)(1)–(8), (h), (i), 1018(k), (t)(1)(A), (B), (u)(8), title V, §5012(a), (b)(1), (d), Nov. 10, 1988, 102 Stat. 3472, 3474–3476, 3482, 3583, 3587, 3590, 3661, 3662, 3664; Pub. L. 101–239, title VII, §§7811(m)(4), 7815(a)(3), (5), Dec. 19, 1989, 103 Stat. 2412, 2414; Pub. L. 101–508, title XI, §11802(a), Nov. 5, 1990, 104 Stat. 1388–529; Pub. L. 102–318, title V, §521(b)(3), July 3, 1992, 106 Stat. 310; Pub. L. 104–188, title I, §§1403(a), 1421(b)(4)(A), 1463(a), 1704(l)(1), (t)(2), (77), Aug. 20, 1996, 110 Stat. 1790, 1796, 1824, 1882, 1887, 1891; Pub. L. 104–191, title III, §361(a)–(c), Aug. 21, 1996, 110 Stat. 2071, 2072; Pub. L. 105–34, title II, §203(a), (b), title III, §303(a), (b), title X, §1075(a), (b), Aug. 5, 1997, 111 Stat. 809, 829, 949; Pub. L. 105–206, title III, §3436(a), title VI, §§6004(d)(3)(B), 6005(c)(1), 6023(3), (4), July 22, 1998, 112 Stat. 761, 794, 800, 824; Pub. L. 107–16, title IV, §402(a)(4)(A), (B), title VI, §§632(a)(3)(A), 641(a)(2)(C), (e)(1), June 7, 2001, 115 Stat. 60, 61, 113, 120; Pub. L. 107–22, §1(b)(1)(A), (3)(A), July 26, 2001, 115 Stat. 196, 197; Pub. L. 107–90, title II, §204(e)(2), Dec. 21, 2001, 115 Stat. 893; Pub. L. 108–311, title II, §207(6), (7), title IV, §408(a)(4), (b)(3), Oct. 4, 2004, 118 Stat. 1177, 1191, 1192; Pub. L. 108–357, title VIII, §906(a), Oct. 22, 2004, 118 Stat. 1653; Pub. L. 109–280, title VIII, §§827(a), 828(a), 844(a), Aug. 17, 2006, 120 Stat. 999, 1001, 1010; Pub. L. 110–245, title I, §107(a), June 17, 2008, 122 Stat. 1631; Pub. L. 110–458, title I, §108(e), Dec. 23, 2008, 122 Stat. 5109; Pub. L. 111–240, title II, §2113(a), Sept. 27, 2010, 124 Stat. 2566; Pub. L. 112–141, div. F, title I, §100121(c), July 6, 2012, 126 Stat. 914; Pub. L. 113–295, div. A, title II, §221(a)(14), Dec. 19, 2014, 128 Stat. 4039; Pub. L. 114–26, §2(a)–(c), June 29, 2015, 129 Stat. 319; Pub. L. 114–113, div. Q, title III, §308(a), Dec. 18, 2015, 129 Stat. 3089; Pub. L. 116–94, div. O, title I, §§108(a), 113(a), Dec. 20, 2019, 133 Stat. 3149, 3154; Pub. L. 117–328, div. T, title I, §§115(a), 127(e)(2), (3), title III, §§308(a), (b), 311(a), 314(a), 323(a), (b), (d), 326(a), 329(a), 330(a), 331(a)(1), (2), (b)(1), (c)(1), 332(b)(1), 333(a), 334(c), title IV, §401(b)(1), Dec. 29, 2022, 136 Stat. 5296, 5329, 5345, 5347, 5349, 5356, 5357, 5359–5361, 5364, 5365, 5367, 5368, 5370, 5388.)
 
-#### Amendment of Subsection (t)(2)
+#### Inflation Adjusted Items for Certain Years
 
-Pub. L. 117–328, div. T, title III, §334(c), (e), Dec. 29, 2022, 136 Stat. 5370, 5372, provided that, applicable to distributions made after the date which is 3 years after Dec. 29, 2022, subsection (t)(2) of this section is amended by adding at the end the following new subparagraph:
-
-#### *"(N) Qualified long-term care distributions*
-
-#### *"(i) In general*
-
-*"Any qualified long-term care distribution to which section 401(a)(39) applies.*
-
-#### *"(ii) Exception*
-
-*"If, with respect to the plan, the individual covered by the long-term care coverage to which such distribution relates is the spouse of the employee, clause (i) shall apply only if the employee and the employee's spouse file a joint return.*
-
-#### *"(iii) Exemption of distributions from trustee to trustee transfer and withholding rules*
-
-*"For purposes of sections 401(a)(31), 402(f), and 3405, any qualified long-term care distribution described in clause (i) shall not be treated as an eligible rollover distribution.".*
-
-See 2022 Amendment note below.
+For inflation adjustment of certain items in this section, see Internal Revenue Notices listed in a table under section 401 of this title.
 
   
 
@@ -2550,4 +2548,4 @@ Pub. L. 110–458, title I, §100, Dec. 23, 2008, 122 Stat. 5093, provided that:
 
 [3 So in original. Probably should refer to section 8336a.](#72_3)
 
-[5 See References in Text note below.](#72_5)
+[4 See References in Text note below.](#72_4)

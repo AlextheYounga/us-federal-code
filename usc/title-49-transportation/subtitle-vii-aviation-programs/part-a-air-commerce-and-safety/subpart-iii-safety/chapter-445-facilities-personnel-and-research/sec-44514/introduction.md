@@ -1,3 +1,3 @@
-### §44514. Repealed. Pub. L. 118–63, title III, §337, May 16, 2024, 138 Stat. 1093
+### \[§44514. Repealed. Pub. L. 118–63, title III, §337, May 16, 2024, 138 Stat. 1093\]
 
 Section, Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1183, related to closing, reopening, and reducing hours of certain flight service stations and establishment of manned auxiliary flight service stations.

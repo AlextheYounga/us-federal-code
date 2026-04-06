@@ -112,6 +112,10 @@ Amendment by Pub. L. 94–164 applicable to taxable years beginning after Dec. 3
 
 Pub. L. 88–272, title I, §132, Feb. 26, 1964, 78 Stat. 30, provided that the amendment made by that section is effective with respect to taxable years ending after Dec. 31, 1963.
 
+#### Coordination of 2025 Amendment With Section 15
+
+Pub. L. 119–21, title VII, §70001(b), July 4, 2025, 139 Stat. 158, provided that: "Section 15 of the Internal Revenue Code of 1986 shall not apply to any change in rate of tax by reason of any provision of, or amendment made by, this title \[see Tables for classification\]."
+
 #### Coordination of 2017 Amendment With Section 15
 
 This section not to apply to any change in a rate of tax by reason of section 1(j) of this title, as added by Pub. L. 115–97, see section 1(j)(6) of this title.

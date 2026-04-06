@@ -28,9 +28,11 @@ For purposes of this section, the term "miscellaneous itemized deductions" means
 
 (10) the deduction under section 72(b)(3) (relating to deduction where annuity payments cease before investment recovered),
 
-(11) the deduction under section 171 (relating to deduction for amortizable bond premium), and
+(11) the deduction under section 171 (relating to deduction for amortizable bond premium),
 
-(12) the deduction under section 216 (relating to deductions in connection with cooperative housing corporations).
+(12) the deduction under section 216 (relating to deductions in connection with cooperative housing corporations), and
+
+(13) the deductions allowed by section 162 for educator expenses (as defined in subsection (g)).
 
 #### (c) Disallowance of indirect deduction through pass-thru entity
 
@@ -94,11 +96,27 @@ shall be treated as allowable in arriving at adjusted gross income. Under regula
 
 This section shall be applied before the application of the dollar limitation of the second sentence of section 162(a) (relating to trade or business expenses).
 
-#### (g) Suspension for taxable years 2018 through 2025
+#### (g) Educator expenses
 
-Notwithstanding subsection (a), no miscellaneous itemized deduction shall be allowed for any taxable year beginning after December 31, 2017, and before January 1, 2026.
+For purposes of subsection (b)(13), the term "educator expenses" means expenses of a type which would be described in section 62(a)(2)(D) if—
 
-(Added Pub. L. 99–514, title I, §132(a), Oct. 22, 1986, 100 Stat. 2113; amended Pub. L. 100–647, title I, §1001(f), title IV, §4011(a), Nov. 10, 1988, 102 Stat. 3351, 3655; Pub. L. 101–239, title VII, §7814(f), Dec. 19, 1989, 103 Stat. 2414; Pub. L. 103–66, title XIII, §13213(c)(2), Aug. 10, 1993, 107 Stat. 474; Pub. L. 105–277, div. J, title IV, §4004(b)(1), Oct. 21, 1998, 112 Stat. 2681–910; Pub. L. 106–554, §1(a)(7) \[title III, §319(2)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–646; Pub. L. 115–97, title I, §11045(a), Dec. 22, 2017, 131 Stat. 2088.)
+(1) such section were applied—
+
+(A) without regard to the dollar limitation,
+
+(B) without regard to "(other than nonathletic supplies for courses of instruction in health or physical education)" in clause (ii) thereof, and
+
+(C) by substituting "as part of instructional activity" for "in the classroom" in clause (ii) thereof, and
+
+  
+
+(2) section 62(d)(1)(A) were applied by inserting ", interscholastic sports administrator or coach," after "counselor"
+
+#### (h) Suspension for taxable years beginning after 2017
+
+Notwithstanding subsection (a), no miscellaneous itemized deduction shall be allowed for any taxable year beginning after December 31, 2017.
+
+(Added Pub. L. 99–514, title I, §132(a), Oct. 22, 1986, 100 Stat. 2113; amended Pub. L. 100–647, title I, §1001(f), title IV, §4011(a), Nov. 10, 1988, 102 Stat. 3351, 3655; Pub. L. 101–239, title VII, §7814(f), Dec. 19, 1989, 103 Stat. 2414; Pub. L. 103–66, title XIII, §13213(c)(2), Aug. 10, 1993, 107 Stat. 474; Pub. L. 105–277, div. J, title IV, §4004(b)(1), Oct. 21, 1998, 112 Stat. 2681–910; Pub. L. 106–554, §1(a)(7) \[title III, §319(2)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–646; Pub. L. 115–97, title I, §11045(a), Dec. 22, 2017, 131 Stat. 2088; Pub. L. 119–21, title VII, §70110(a), (b), July 4, 2025, 139 Stat. 164.)
 
   
 
@@ -109,6 +127,14 @@ Notwithstanding subsection (a), no miscellaneous itemized deduction shall be all
 Section 4 of the Securities Act of 1933, referred to in subsec. (c)(2)(B)(i)(I), is classified to section 77d of Title 15, Commerce and Trade.
 
 #### Amendments
+
+**2025**—Subsec. (b)(13). Pub. L. 119–21, §70110(b)(1), added par. (13).
+
+Subsec. (g). Pub. L. 119–21, §70110(b)(2), added subsec. (g). Former subsec. (g) redesignated (h).
+
+Pub. L. 119–21, §70110(a), substituted "beginning after 2017" for "2018 through 2025" in heading and struck out ", and before January 1, 2026" after "December 31, 2017" in text.
+
+Subsec. (h). Pub. L. 119–21, §70110(b)(2), redesignated subsec. (g) as (h).
 
 **2017**—Subsec. (g). Pub. L. 115–97 added subsec. (g).
 
@@ -137,6 +163,10 @@ Subsec. (f). Pub. L. 100–647, §1001(f)(1), added subsec. (f).
   
 
 #### **Statutory Notes and Related Subsidiaries**
+
+#### Effective Date of 2025 Amendment
+
+Pub. L. 119–21, title VII, §70110(c), July 4, 2025, 139 Stat. 164, provided that: "The amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 2025."
 
 #### Effective Date of 2017 Amendment
 

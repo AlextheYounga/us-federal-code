@@ -248,7 +248,11 @@ The Secretary may develop such additional safeguards as the Secretary determines
 
 (2) the Secretary determines necessary.
 
-(Pub. L. 89–329, title IV, §464, as added Pub. L. 99–498, title IV, §405(a), Oct. 17, 1986, 100 Stat. 1448; amended Pub. L. 100–50, §13(i), June 3, 1987, 101 Stat. 349; Pub. L. 100–369, §7(c), July 18, 1988, 102 Stat. 837; Pub. L. 101–239, title II, §2002(a)(3), Dec. 19, 1989, 103 Stat. 2111; Pub. L. 102–325, title IV, §464, July 23, 1992, 106 Stat. 580; Pub. L. 103–208, §2(f)(9)–(11), Dec. 20, 1993, 107 Stat. 2471; Pub. L. 105–244, title IV, §464, Oct. 7, 1998, 112 Stat. 1725; Pub. L. 107–314, div. A, title VI, §651(d), Dec. 2, 2002, 116 Stat. 2580; Pub. L. 109–171, title VIII, §8007(c), Feb. 8, 2006, 120 Stat. 160; Pub. L. 110–84, title II, §202(c), Sept. 27, 2007, 121 Stat. 792; Pub. L. 110–315, title IV, §§432(b)(7), 464(a), (b)(1), (c), Aug. 14, 2008, 122 Stat. 3246, 3266, 3267; Pub. L. 111–39, title IV, §405(4), July 1, 2009, 123 Stat. 1947; Pub. L. 115–245, div. B, title III, §309(d), Sept. 28, 2018, 132 Stat. 3106; Pub. L. 116–259, title II, §202(b)(2), Dec. 23, 2020, 134 Stat. 1163.)
+(Pub. L. 89–329, title IV, §464, as added Pub. L. 99–498, title IV, §405(a), Oct. 17, 1986, 100 Stat. 1448; amended Pub. L. 100–50, §13(i), June 3, 1987, 101 Stat. 349; Pub. L. 100–369, §7(c), July 18, 1988, 102 Stat. 837; Pub. L. 101–239, title II, §2002(a)(3), Dec. 19, 1989, 103 Stat. 2111; Pub. L. 102–325, title IV, §464, July 23, 1992, 106 Stat. 580; Pub. L. 103–208, §2(f)(9)–(11), Dec. 20, 1993, 107 Stat. 2471; Pub. L. 105–244, title IV, §464, Oct. 7, 1998, 112 Stat. 1725; Pub. L. 107–314, div. A, title VI, §651(d), Dec. 2, 2002, 116 Stat. 2580; Pub. L. 109–171, title VIII, §8007(c), Feb. 8, 2006, 120 Stat. 160; Pub. L. 110–84, title II, §202(c), Sept. 27, 2007, 121 Stat. 792; Pub. L. 110–315, title IV, §§432(b)(7), 464(a), (b)(1), (c), Aug. 14, 2008, 122 Stat. 3246, 3266, 3267; Pub. L. 111–39, title IV, §405(4), July 1, 2009, 123 Stat. 1947; Pub. L. 115–245, div. B, title III, §309(d), Sept. 28, 2018, 132 Stat. 3106; Pub. L. 116–259, title II, §202(b)(2), Dec. 23, 2020, 134 Stat. 1163; Pub. L. 119–21, title VIII, §82003(a)(2), July 4, 2025, 139 Stat. 348.)
+
+#### Amendment of Subsection (h)(1)(D)
+
+Pub. L. 119–21, title VIII, §82003(a)(2), (3), July 4, 2025, 139 Stat. 348, provided that, effective on July 1, 2027, subsection (h)(1)(D) of this section is amended by striking "once" and inserting "twice". See 2025 Amendment note below.
 
   
 
@@ -263,6 +267,8 @@ Section 1087cc(a) of this title, referred to in subsec. (c)(1)(G), was amended b
 A prior section 1087dd, Pub. L. 89–329, title IV, §464, as added Pub. L. 92–318, title I, §137(b), June 23, 1972, 86 Stat. 275; amended Pub. L. 94–482, title I, §130(d)–(g)(1), Oct. 12, 1976, 90 Stat. 2147; Pub. L. 95–43, §1(a)(39), June 15, 1977, 91 Stat. 217; Pub. L. 96–374, title IV, §§442(b)(5), 443, 444, 445(b)(2), 446, 448(c), title XIII, §1391(a)(1), Oct. 3, 1980, 94 Stat. 1440–1443, 1503; Pub. L. 97–35, title V, §539, Aug. 13, 1981, 95 Stat. 458; Pub. L. 99–272, title XVI, §16028, Apr. 7, 1986, 100 Stat. 353, related to terms and conditions of loans, prior to the general revision of this part by Pub. L. 99–498.
 
 #### Amendments
+
+**2025**—Subsec. (h)(1)(D). Pub. L. 119–21 substituted "twice" for "once".
 
 **2020**—Subsec. (j). Pub. L. 116–259, §202(b)(2)(A), substituted "Armed Forces and NOAA Commissioned Officer Corps student loan interest payment programs" for "Armed Forces student loan interest payment program" in heading.
 
@@ -359,6 +365,10 @@ Subsecs. (e), (f). Pub. L. 102–325, §464(h), added subsecs. (e) and (f).
   
 
 #### **Statutory Notes and Related Subsidiaries**
+
+#### Effective Date of 2025 Amendment
+
+Amendment by Pub. L. 119–21 effective on July 1, 2027, see section 82003(a)(3) of Pub. L. 119–21, set out as a note under section 1078–6 of this title.
 
 #### Effective Date of 2018 Amendment
 

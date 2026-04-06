@@ -28,7 +28,7 @@
 
 #### Amendment of Subsection (b)
 
-Pub. L. 118–47, div. F, title VII, §7071(b), Mar. 23, 2024, 138 Stat. 851, provided that, effective on the date that is 10 years after Mar. 23, 2024, paragraphs (3) to (5) of subsec. (b) of this section, as added by section 7071(a) of title VII of div. F of Pub. L. 118–47, are repealed. See 2024 Amendment note below.
+Pub. L. 118–47, div. F, title VII, §7071(b), Mar. 23, 2024, 138 Stat. 851, provided that, effective on the date that is 10 years after Mar. 23, 2024, paragraphs (3) to (5) of subsection (b) of this section, as added by section 7071(a) of title VII of div. F of Pub. L. 118–47, are repealed. See 2024 Amendment note below.
 
   
 
@@ -44,7 +44,7 @@ Section was not enacted as part of act July 31, 1945, ch. 339, 59 Stat. 512, kno
 
 #### Amendments
 
-**2024**—Subsec. (b)(3) to (5). Pub. L. 118–47, §7071(b), struck out pars. (3) to (5).
+**2024**—Subsec. (b)(3) to (5). Pub. L. 118–47, §7071(b), struck out pars. (3) to (5) which established a prohibition on certain transactions involving perpetrators of genocide and state sponsors of terrorism without congressional authorization and set out conditions under which the President could waive such prohibition.
 
 Pub. L. 118–47, §7071(a), added pars. (3) to (5).
 
@@ -64,7 +64,7 @@ Committee on Banking, Finance and Urban Affairs of House of Representatives trea
 
 #### Effective Date of 2024 Amendment
 
-Pub. L. 118–47, div. F, title VII, §7071(b), Mar. 23, 2024, 138 Stat. 851, provided that, effective on the date that is 10 years after Mar. 23, 2024, pars. (3) to (5) of subsec. (b) of this section, as added by section 7071(a) of title VII of div. F of Pub. L. 118–47, are repealed.
+Pub. L. 118–47, div. F, title VII, §7071(b), Mar. 23, 2024, 138 Stat. 851, provided that the amendment made by section 7071(b) is effective on the date that is 10 years after Mar. 23, 2024.
 
 #### Effective Date of 1976 Amendment
 

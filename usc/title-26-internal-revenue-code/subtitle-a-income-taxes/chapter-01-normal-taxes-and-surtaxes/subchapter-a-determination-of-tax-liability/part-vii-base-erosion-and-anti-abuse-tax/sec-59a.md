@@ -10,9 +10,9 @@ For purposes of this section—
 
 #### (1) In general
 
-Except as provided in paragraphs (2) and (3), the term "base erosion minimum tax amount" means, with respect to any applicable taxpayer for any taxable year, the excess (if any) of—
+Except as provided in paragraph (2), the term "base erosion minimum tax amount" means, with respect to any applicable taxpayer for any taxable year, the excess (if any) of—
 
-(A) an amount equal to 10 percent (5 percent in the case of taxable years beginning in calendar year 2018) of the modified taxable income of such taxpayer for the taxable year, over
+(A) an amount equal to 10.5 percent (5 percent in the case of taxable years beginning in calendar year 2018) of the modified taxable income of such taxpayer for the taxable year, over
 
 (B) an amount equal to the regular tax liability (as defined in section 26(b)) of the taxpayer for the taxable year, reduced (but not below zero) by the excess (if any) of—
 
@@ -24,19 +24,11 @@ Except as provided in paragraphs (2) and (3), the term "base erosion minimum tax
 
 (II) the portion of the applicable section 38 credits not in excess of 80 percent of the lesser of the amount of such credits or the base erosion minimum tax amount (determined without regard to this subclause).
 
-#### (2) Modifications for taxable years beginning after 2025
-
-In the case of any taxable year beginning after December 31, 2025, paragraph (1) shall be applied—
-
-(A) by substituting "12.5 percent" for "10 percent" in subparagraph (A) thereof, and
-
-(B) by reducing (but not below zero) the regular tax liability (as defined in section 26(b)) for purposes of subparagraph (B) thereof by the aggregate amount of the credits allowed under this chapter against such regular tax liability rather than the excess described in such subparagraph.
-
-#### (3) Increased rate for certain banks and securities dealers
+#### (2) Increased rate for certain banks and securities dealers
 
 #### (A) In general
 
-In the case of a taxpayer described in subparagraph (B) who is an applicable taxpayer for any taxable year, the percentage otherwise in effect under paragraphs (1)(A) and (2)(A) shall each be increased by one percentage point.
+In the case of a taxpayer described in subparagraph (B) who is an applicable taxpayer for any taxable year, the percentages otherwise in effect under paragraph (1)(A) shall be increased by one percentage point.
 
 #### (B) Taxpayer described
 
@@ -44,9 +36,9 @@ A taxpayer is described in this subparagraph if such taxpayer is a member of an 
 
 (i) a bank (as defined in section 581), or
 
-(ii) a registered securities dealer under section 15(a) of the Securities Exchange Act of 1934.
+(ii) a securities dealer registered under section 15(a) of the Securities Exchange Act of 1934.
 
-#### (4) Applicable section 38 credits
+#### (3) Applicable section 38 credits
 
 For purposes of paragraph (1)(B)(ii)(II), the term "applicable section 38 credits" means the credit allowed under section 38 for the taxable year which is properly allocable to—
 
@@ -198,7 +190,7 @@ The term "applicable taxpayer" means, with respect to any taxable year, a taxpay
 
 (B) the average annual gross receipts of which for the 3-taxable-year period ending with the preceding taxable year are at least $500,000,000, and
 
-(C) the base erosion percentage (as determined under subsection (c)(4)) of which for the taxable year is 3 percent (2 percent in the case of a taxpayer described in subsection (b)(3)(B)) or higher.
+(C) the base erosion percentage (as determined under subsection (c)(4)) of which for the taxable year is 3 percent (2 percent in the case of a taxpayer described in subsection (b)(2)(B)) or higher.
 
 #### (2) Gross receipts
 
@@ -270,7 +262,7 @@ The term "qualified derivative payment" means any payment made by a taxpayer pur
 
 #### (B) Reporting requirement
 
-No payments shall be treated as qualified derivative payments under subparagraph (A) for any taxable year unless the taxpayer includes in the information required to be reported under section 6038B(b)(2) with respect to such taxable year such information as is necessary to identify the payments to be so treated and such other information as the Secretary determines necessary to carry out the provisions of this subsection.
+No payments shall be treated as qualified derivative payments under subparagraph (A) for any taxable year unless the taxpayer includes in the information required to be reported under section 6038A(b)(2) with respect to such taxable year such information as is necessary to identify the payments to be so treated and such other information as the Secretary determines necessary to carry out the provisions of this subsection.
 
 #### (3) Exceptions for payments otherwise treated as base erosion payments
 
@@ -326,9 +318,9 @@ The Secretary shall prescribe such regulations or other guidance as may be neces
 
   
 
-(2) for the application of subsection (g), including rules to prevent the avoidance of the exceptions under subsection (g)(3).
+(2) for the application of subsection (h), including rules to prevent the avoidance of the exceptions under subsection (h)(3).
 
-(Added Pub. L. 115–97, title I, §14401(a), Dec. 22, 2017, 131 Stat. 2226.)
+(Added Pub. L. 115–97, title I, §14401(a), Dec. 22, 2017, 131 Stat. 2226; amended Pub. L. 119–21, title VII, §70331(a)–(c), July 4, 2025, 139 Stat. 206.)
 
   
 
@@ -336,7 +328,7 @@ The Secretary shall prescribe such regulations or other guidance as may be neces
 
 #### References in Text
 
-Section 15(a) of the Securities Exchange Act of 1934, referred to in subsec. (b)(3)(B)(ii), is classified to section 78o(a) of Title 15, Commerce and Trade.
+Section 15(a) of the Securities Exchange Act of 1934, referred to in subsec. (b)(2)(B)(ii), is classified to section 78o(a) of Title 15, Commerce and Trade.
 
 The date of the enactment of the Tax Cuts and Jobs Act, referred to in subsec. (c)(2)(B)(ii), probably means the date of enactment of title I of Pub. L. 115–97, which was approved Dec. 22, 2017. Prior versions of the bill that was enacted into law as Pub. L. 115–97 included such Short Title, but it was not enacted as part of title I of Pub. L. 115–97.
 
@@ -344,9 +336,33 @@ The date of the enactment of the Tax Cuts and Jobs Act, referred to in subsec. (
 
 A prior section 59A, added Pub. L. 99–499, title V, §516(a), Oct. 17, 1986, 100 Stat. 1770; amended Pub. L. 100–647, title II, §2001(c)(1), (3)(B), Nov. 10, 1988, 102 Stat. 3594; Pub. L. 101–508, title XI, §§11231(a)(1)(A), 11531(b)(3), 11801(c)(2)(E), Nov. 5, 1990, 104 Stat. 1388–444, 1388–490, 1388–523; Pub. L. 102–486, title XIX, §1915(c)(4), Oct. 24, 1992, 106 Stat. 3024, related to environmental tax, prior to repeal by Pub. L. 113–295, div. A, title II, §221(a)(12)(A), Dec. 19, 2014, 128 Stat. 4038.
 
+#### Amendments
+
+**2025**—Subsec. (b)(1). Pub. L. 119–21, §70331(b)(1), substituted "Except as provided in paragraph (2)" for "Except as provided in paragraphs (2) and (3)" in introductory provisions.
+
+Subsec. (b)(1)(A). Pub. L. 119–21, §70331(a)(1), substituted "10.5 percent" for "10 percent".
+
+Pub. L. 119–21, §70331(a)(2), redesignated par. (3) as (2) and struck out former subpar. (2) which related to modifications for taxable years beginning after 2025.
+
+Subsec. (b)(2)(A). Pub. L. 119–21, §70331(b)(2), substituted "the percentages otherwise in effect under paragraph (1)(A) shall be increased" for "the percentage otherwise in effect under paragraphs (1)(A) and (2)(A) shall each be increased".
+
+Subsec. (b)(2)(B)(ii). Pub. L. 119–21, §70331(c)(1), substituted "securities dealer registered" for "registered securities dealer".
+
+Subsec. (b)(3), (4). Pub. L. 119–21, §70331(a)(2), redesignated par. (4) as (3). Former par. (3) redesignated (2).
+
+Subsec. (e)(1)(C). Pub. L. 119–21, §70331(b)(3), substituted "in the case of a taxpayer described in subsection (b)(2)(B)" for "in the case of a taxpayer described in subsection (b)(3)(B)".
+
+Subsec. (h)(2)(B). Pub. L. 119–21, §70331(c)(2), substituted "section 6038A(b)(2)" for "section 6038B(b)(2)".
+
+Subsec. (i)(2). Pub. L. 119–21, §70331(c)(3), substituted "of subsection (h)" for "of subsection (g)" and "under subsection (h)(3)" for "under subsection (g)(3)".
+
   
 
 #### **Statutory Notes and Related Subsidiaries**
+
+#### Effective Date of 2025 Amendment
+
+Pub. L. 119–21, title VII, §70331(d), July 4, 2025, 139 Stat. 207, provided that: "The amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 2025."
 
 #### Effective Date
 

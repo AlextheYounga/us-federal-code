@@ -52,7 +52,11 @@ Sec.
 
 6695A. Substantial and gross valuation misstatements attributable to incorrect appraisals.
 
-6696\. Rules applicable with respect to sections 6694, 6695, and 6695A.
+6695B. Penalty for substantial misstatements on certification provided by supplier.
+
+6696\. Rules applicable with respect to sections 6694, 6695, and 6695A. 1
+
+        
 
 \[6697. Repealed.\]
 
@@ -119,6 +123,8 @@ Sec.
 #### **Editorial Notes**
 
 #### Amendments
+
+**2025**—Pub. L. 119–21, title VII, §70512(k)(2)(B), July 4, 2025, 139 Stat. 269, added item 6695B.
 
 **2021**—Pub. L. 117–2, title IX, §9501(b)(2)(B), Mar. 11, 2021, 135 Stat. 137, added item 6720C.
 
@@ -221,3 +227,5 @@ Pub. L. 89–368, title I, §101(e)(4)(B), Mar. 15, 1966, 80 Stat. 62, added ite
 **1956**—Act June 29, 1956, ch. 462, title II, §208(e)(8), 70 Stat. 397, substituted "Excessive claims with respect to the use of certain gasoline" for "Excessive claims for gasoline used on farms" in item 6675.
 
 Act Apr. 2, 1956, ch. 160, §4(g), 70 Stat. 91, added item 6675.
+
+[1 Section catchline amended by Pub. L. 119–21 without corresponding amendment of part analysis.](#I_1)

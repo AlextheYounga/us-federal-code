@@ -30,6 +30,8 @@ Sec.
 
 174\. Amortization of research and experimental expenditures.
 
+174A. Domestic research or experimental expenditures.
+
 175\. Soil and water conservation expenditures; endangered species recovery expenditures.
 
 176\. Payments with respect to employees of certain foreign corporations.
@@ -52,7 +54,7 @@ Sec.
 
 180\. Expenditures by farmers for fertilizer, etc.
 
-181\. Treatment of certain qualified film and television and live theatrical productions.
+181\. Treatment of certain qualified productions.
 
 \[182. Repealed.\]
 
@@ -95,6 +97,8 @@ Sec.
 #### **Editorial Notes**
 
 #### Amendments
+
+**2025**—Pub. L. 119–21, title VII, §§70302(d), 70434(h)(2), July 4, 2025, 139 Stat. 193, 245, added items 174A and 181 and struck out former item 181 "Treatment of certain qualified film and television and live theatrical productions".
 
 **2017**—Pub. L. 115–97, title I, §§11011(d)(6), 13305(a), Dec. 22, 2017, 131 Stat. 2071, 2126, struck out item 199 "Income attributable to domestic production activities" and added item 199A.
 

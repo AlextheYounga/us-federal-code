@@ -26,13 +26,17 @@ Sec.
 
 249\. Limitation on deduction of bond premium on repurchase.
 
-250\. Foreign-derived intangible income and global intangible low-taxed income.
+250\. Foreign-derived deduction eligible income and net CFC tested income.
 
         
 
 #### **Editorial Notes**
 
 #### Amendments
+
+**2025**—Pub. L. 119–21, title VII, §70323(b)(2)(C)(iii), July 4, 2025, 139 Stat. 206, substituted "Foreign-derived deduction eligible" for "Foreign-derived intangible" in item 250.
+
+Pub. L. 119–21, title VII, §70323(a)(3)(A)(iii), July 4, 2025, 139 Stat. 205, which directed amendment of the table of sections for part VII of subchapter B of chapter 1 of this title by substituting "net CFC tested income" for "global intangible low-taxed income" in item 250, was executed to the table of sections for this part to reflect the probable intent of Congress.
 
 **2017**—Pub. L. 115–97, title I, §§13821(b)(2), 14101(e)(3), 14202(b)(4), Dec. 22, 2017, 131 Stat. 2181, 2192, 2216, added items 245A, 247, and 250.
 

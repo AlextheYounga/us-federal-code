@@ -128,11 +128,9 @@ For purposes of subparagraph (A), the applicable percentage shall be—
 
 (ii) in the case of a vehicle placed in service during calendar year 2024, 50 percent,
 
-(iii) in the case of a vehicle placed in service during calendar year 2025, 60 percent,
+(iii) in the case of a vehicle placed in service during calendar year 2025, 60 percent, and
 
-(iv) in the case of a vehicle placed in service during calendar year 2026, 70 percent, and
-
-(v) in the case of a vehicle placed in service after December 31, 2026, 80 percent.
+(iv) in the case of a vehicle placed in service during calendar year 2026, 70 percent.
 
 #### (2) Battery components
 
@@ -146,15 +144,9 @@ For purposes of subparagraph (A), the applicable percentage shall be—
 
 (i) in the case of a vehicle placed in service after the date on which the proposed guidance described in paragraph (3)(B) is issued by the Secretary and before January 1, 2024, 50 percent,
 
-(ii) in the case of a vehicle placed in service during calendar year 2024 or 2025, 60 percent,
+(ii) in the case of a vehicle placed in service during calendar year 2024 or 2025, 60 percent, and
 
-(iii) in the case of a vehicle placed in service during calendar year 2026, 70 percent,
-
-(iv) in the case of a vehicle placed in service during calendar year 2027, 80 percent,
-
-(v) in the case of a vehicle placed in service during calendar year 2028, 90 percent,
-
-(vi) in the case of a vehicle placed in service after December 31, 2028, 100 percent.
+(iii) in the case of a vehicle placed in service during calendar year 2026, 70 percent.
 
 #### (3) Regulations and guidance
 
@@ -350,9 +342,9 @@ In the case of any taxpayer who has made an election described in paragraph (1) 
 
 #### (h) Termination
 
-No credit shall be allowed under this section with respect to any vehicle placed in service after December 31, 2032.
+No credit shall be allowed under this section with respect to any vehicle acquired after September 30, 2025.
 
-(Added Pub. L. 110–343, div. B, title II, §205(a), Oct. 3, 2008, 122 Stat. 3835; amended Pub. L. 111–5, div. B, title I, §1141(a), Feb. 17, 2009, 123 Stat. 326; Pub. L. 111–148, title X, §10909(b)(2)(H), (c), Mar. 23, 2010, 124 Stat. 1023; Pub. L. 111–312, title I, §101(b)(1), Dec. 17, 2010, 124 Stat. 3298; Pub. L. 112–240, title I, §104(c)(2)(I), title IV, §403(a), (b), Jan. 2, 2013, 126 Stat. 2322, 2337, 2338; Pub. L. 113–295, div. A, title II, §209(e), Dec. 19, 2014, 128 Stat. 4028; Pub. L. 114–113, div. Q, title I, §183(a), Dec. 18, 2015, 129 Stat. 3072; Pub. L. 115–123, div. D, title I, §40405(a), Feb. 9, 2018, 132 Stat. 148; Pub. L. 116–94, div. Q, title I, §126(a), Dec. 20, 2019, 133 Stat. 3231; Pub. L. 116–260, div. EE, title I, §144(a), Dec. 27, 2020, 134 Stat. 3054; Pub. L. 117–169, title I, §13401(a)–(i)(1), Aug. 16, 2022, 136 Stat. 1954–1961.)
+(Added Pub. L. 110–343, div. B, title II, §205(a), Oct. 3, 2008, 122 Stat. 3835; amended Pub. L. 111–5, div. B, title I, §1141(a), Feb. 17, 2009, 123 Stat. 326; Pub. L. 111–148, title X, §10909(b)(2)(H), (c), Mar. 23, 2010, 124 Stat. 1023; Pub. L. 111–312, title I, §101(b)(1), Dec. 17, 2010, 124 Stat. 3298; Pub. L. 112–240, title I, §104(c)(2)(I), title IV, §403(a), (b), Jan. 2, 2013, 126 Stat. 2322, 2337, 2338; Pub. L. 113–295, div. A, title II, §209(e), Dec. 19, 2014, 128 Stat. 4028; Pub. L. 114–113, div. Q, title I, §183(a), Dec. 18, 2015, 129 Stat. 3072; Pub. L. 115–123, div. D, title I, §40405(a), Feb. 9, 2018, 132 Stat. 148; Pub. L. 116–94, div. Q, title I, §126(a), Dec. 20, 2019, 133 Stat. 3231; Pub. L. 116–260, div. EE, title I, §144(a), Dec. 27, 2020, 134 Stat. 3054; Pub. L. 117–169, title I, §13401(a)–(i)(1), Aug. 16, 2022, 136 Stat. 1954–1961; Pub. L. 119–21, title VII, §70502, July 4, 2025, 139 Stat. 250.)
 
   
 
@@ -360,9 +352,21 @@ No credit shall be allowed under this section with respect to any vehicle placed
 
 #### References in Text
 
-The Clean Air Act, referred to in subsecs. (d)(1)(D), (3), (f)(7)(A), is act July 14, 1955, ch. 360, 69 Stat. 322, which is classified generally to chapter 85 (§7401 et seq.) of Title 42, The Public Health and Welfare. Title II of the Act, known as the National Emissions Standards Act, is classified generally to subchapter II (§7521 et seq.) of chapter 85 of Title 42. Section 209(b) of the Act is classified to section 7543(b) of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 7401 of Title 42 and Tables.
+The Clean Air Act, referred to in subsecs. (d)(1)(D), (3) and (f)(7)(A), is act July 14, 1955, ch. 360, 69 Stat. 322, which is classified generally to chapter 85 (§7401 et seq.) of Title 42, The Public Health and Welfare. Title II of the Act, known as the National Emissions Standards Act, is classified generally to subchapter II (§7521 et seq.) of chapter 85 of Title 42. Section 209(b) of the Act is classified to section 7543(b) of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 7401 of Title 42 and Tables.
 
 #### Amendments
+
+**2025**—Subsec. (e)(1)(B)(v). Pub. L. 119–21, §70502(b)(1), struck out cl. (v) which read as follows: "in the case of a vehicle placed in service after December 31, 2026, 80 percent."
+
+Subsec. (e)(2)(B)(iv) to (vi). Pub. L. 119–21, §70502(b)(2), struck out cls. (iv) to (vi) which read as follows:
+
+"(iv) in the case of a vehicle placed in service during calendar year 2027, 80 percent,
+
+"(v) in the case of a vehicle placed in service during calendar year 2028, 90 percent,
+
+"(vi) in the case of a vehicle placed in service after December 31, 2028, 100 percent."
+
+Subsec. (h). Pub. L. 119–21, §70502(a), substituted "acquired after September 30, 2025" for "placed in service after December 31, 2032".
 
 **2022**—Pub. L. 117–169, §13401(i)(1), substituted "Clean vehicle credit" for "New qualified plug-in electric drive motor vehicles" in section catchline.
 

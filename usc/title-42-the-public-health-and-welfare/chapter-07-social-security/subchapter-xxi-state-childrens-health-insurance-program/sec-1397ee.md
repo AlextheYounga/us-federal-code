@@ -218,7 +218,7 @@ For purposes of subsection (a), the "enhanced FMAP", for a State for a fiscal ye
 
 #### (1) General limitations
 
-Funds provided to a State under this subchapter shall only be used to carry out the purposes of this subchapter (as described in section 1397aa of this title) and may not include coverage of a nonpregnant childless adult, and any health insurance coverage provided with such funds may include coverage of abortion only if necessary to save the life of the mother or if the pregnancy is the result of an act of rape or incest. For purposes of the preceding sentence, a caretaker relative (as such term is defined for purposes of carrying out section 1396u–1 of this title) shall not be considered a childless adult.
+Funds provided to a State under this subchapter shall only be used to carry out the purposes of this subchapter (as described in section 1397aa of this title) or to carry out the rural health transformation program established in subsection (h) and, except in the case of amounts made available under subsection (h), may not include coverage of a nonpregnant childless adult, and any health insurance coverage provided with such funds may include coverage of abortion only if necessary to save the life of the mother or if the pregnancy is the result of an act of rape or incest. For purposes of the preceding sentence, a caretaker relative (as such term is defined for purposes of carrying out section 1396u–1 of this title) shall not be considered a childless adult.
 
 #### (2) Limitation on expenditures not used for medicaid or health insurance assistance
 
@@ -538,7 +538,211 @@ In the case of expenditures described in subparagraph (B), a qualifying State (a
 
 For purposes of subparagraph (A), the expenditures described in this subparagraph are expenditures made after February 4, 2009, and during the period in which funds are available to the qualifying State for use under subparagraph (A), for the provision of medical assistance to individuals residing in the State who are eligible for medical assistance under the State plan under subchapter XIX or under a waiver of such plan and who have not attained age 19 (or, if a State has so elected under the State plan under subchapter XIX, age 20 or 21), and whose family income equals or exceeds 133 percent of the poverty line but does not exceed the Medicaid applicable income level.
 
-(Aug. 14, 1935, ch. 531, title XXI, §2105, as added Pub. L. 105–33, title IV, §4901(a), Aug. 5, 1997, 111 Stat. 560; amended Pub. L. 105–100, title I, §162(5), (7), Nov. 19, 1997, 111 Stat. 2189, 2190; Pub. L. 106–113, div. B, §1000(a)(6) \[title VII, §705(b)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–402; Pub. L. 106–554, §1(a)(6) \[title VIII, §802(a), (d)(4), (e)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–580 to 2763A–582; Pub. L. 108–74, §1(b), Aug. 15, 2003, 117 Stat. 895; Pub. L. 108–127, §1, Nov. 17, 2003, 117 Stat. 1354; Pub. L. 109–171, title VI, §§6102(b), 6103(a), Feb. 8, 2006, 120 Stat. 131, 132; Pub. L. 109–482, title II, §201(b), Jan. 15, 2007, 120 Stat. 3701; Pub. L. 110–92, §136(d), Sept. 29, 2007, 121 Stat. 995; Pub. L. 110–173, title II, §201(b)(1), Dec. 29, 2007, 121 Stat. 2509; Pub. L. 111–3, title I, §§104, 107(a), 113(a), 114(a), title II, §§201(b)(1), 202(b), 211(c), title III, §§301(a)(1), (2)(A), 302(b), title VI, §601(a), Feb. 4, 2009, 123 Stat. 17, 24, 34, 39, 40, 54, 57, 61, 63, 96; Pub. L. 111–148, title II, §§2101(a)–(c), 2102(a)(3)–(5), title X, §§10201(g), 10203(b)(3), (4), (c), (d)(2)(C), Mar. 23, 2010, 124 Stat. 286–288, 922, 927, 928, 930; Pub. L. 114–10, title III, §301(c), Apr. 16, 2015, 129 Stat. 158; Pub. L. 115–120, div. C, §§3002(d)(1), (f)(1), 3005, Jan. 22, 2018, 132 Stat. 34, 37; Pub. L. 115–123, div. E, title I, §50101(d), (f)(1), Feb. 9, 2018, 132 Stat. 174; Pub. L. 116–117, §3(b)(3), Mar. 2, 2020, 134 Stat. 134; Pub. L. 117–2, title IX, §9821(b), Mar. 11, 2021, 135 Stat. 219; Pub. L. 117–328, div. FF, title V, §5111(c)(2), (3), Dec. 29, 2022, 136 Stat. 5939.)
+#### (h) Rural health transformation program
+
+#### (1) Appropriation
+
+#### (A) In general
+
+There are appropriated, out of any money in the Treasury not otherwise appropriated, to the Administrator of the Centers for Medicare & Medicaid Services (in this subsection referred to as the "Administrator"), to provide allotments to States for purposes of carrying out the activities described in paragraph (6)—
+
+(i) $10,000,000,000 for fiscal year 2026;
+
+(ii) $10,000,000,000 for fiscal year 2027;
+
+(iii) $10,000,000,000 for fiscal year 2028;
+
+(iv) $10,000,000,000 for fiscal year 2029; and
+
+(v) $10,000,000,000 for fiscal year 2030.
+
+#### (B) Unexpended or unobligated funds
+
+#### (i) In general
+
+Any amounts appropriated under subparagraph (A) that are unexpended or unobligated as of October 1, 2032, shall be returned to the Treasury of the United States.
+
+#### (ii) Redistribution of unexpended or unobligated funds
+
+In carrying out subparagraph (A), the Administrator shall, not later than March 31, 2028, and annually thereafter through March 31, 2032, determine the amount of funds, if any, that are available under such subparagraph for a previous fiscal year, are unexpended or unobligated with respect to such fiscal year, and will not be available to a State in the current fiscal year, pursuant to clause (iii).
+
+#### (iii) Availability of funds
+
+#### (I) In general
+
+Amounts allotted to a State under this subsection for a year shall be available for expenditure by the State through the end of the fiscal year following the fiscal year in which such amounts are allotted.
+
+#### (II) Availability of amounts redistributed
+
+Amounts redistributed to a State under clause (ii) with respect to a fiscal year shall be available for expenditure by the State through the end of the fiscal year following the fiscal year in which such amounts are redistributed (except in the case of amounts redistributed in fiscal year 2032 which shall only be available for expenditure through September 30, 2032).
+
+#### (iv) Misuse of funds
+
+If the Administrator determines that a State is not using amounts allotted or redistributed to the State under this subsection in a manner consistent with the description provided by the State in its application approved under paragraph (2), the Administrator may withhold payments to, or reduce payments to, or recover previous payments from, the State under this subsection as the Administrator deems appropriate, and any amounts so withheld, or that remain after any such reduction, or so recovered, shall be returned to the Treasury of the United States.
+
+#### (2) Application
+
+#### (A) In general
+
+To be eligible for an allotment under this subsection, a State shall submit to the Administrator during an application submission period to be specified by the Administrator (but that ends not later than December 31, 2025) an application in such form and manner as the Administrator may specify, that includes—
+
+(i) a detailed rural health transformation plan—
+
+(I) to improve access to hospitals, other health care providers, and health care items and services furnished to rural residents of the State;
+
+(II) to improve health care outcomes of rural residents of the State;
+
+(III) to prioritize the use of new and emerging technologies that emphasize prevention and chronic disease management;
+
+(IV) to initiate, foster, and strengthen local and regional strategic partnerships between rural hospitals and other health care providers in order to promote measurable quality improvement, increase financial stability, maximize economies of scale, and share best practices in care delivery;
+
+(V) to enhance economic opportunity for, and the supply of, health care clinicians through enhanced recruitment and training;
+
+(VI) to prioritize data and technology driven solutions that help rural hospitals and other rural health care providers furnish high-quality health care services as close to a patient's home as is possible;
+
+(VII) that outlines strategies to manage long-term financial solvency and operating models of rural hospitals in the State; and
+
+(VIII) that identifies specific causes driving the accelerating rate of stand-alone rural hospitals becoming at risk of closure, conversion, or service reduction;
+
+  
+
+(ii) a certification that none of the amounts provided under this subsection shall be used by the State for an expenditure that is attributable to an intergovernmental transfer, certified public expenditure, or any other expenditure to finance the non-Federal share of expenditures required under any provision of law, including under the State plan established under this subchapter, the State plan established under subchapter XIX, or under a waiver of such plans; and
+
+(iii) such other information as the Administrator may require.
+
+#### (B) Deadline for approval
+
+Not later than December 31, 2025, the Administrator shall approve or deny all applications submitted for an allotment under this subsection.
+
+#### (C) One-time application
+
+If an application of a State for an allotment under this subsection is approved by the Administrator, the State shall be eligible for an allotment under this subsection for each of fiscal years 2026 through 2030, except as provided in paragraph (1)(B)(iv).
+
+#### (D) Eligibility
+
+Only the 50 States shall be eligible for an allotment under this subsection and all references in this subsection to a State shall be treated as only referring to the 50 States.
+
+#### (3) Allotments
+
+#### (A) In general
+
+For each of fiscal years 2026 through 2030, the Administrator shall determine under subparagraph (B) the amount of the allotment for such fiscal year for each State with an approved application under this subsection.
+
+#### (B) Amount determined
+
+Subject to subparagraph (C), from the amounts appropriated under paragraph (1)(A) for each of fiscal years 2026 through 2030, the Administrator shall allot—
+
+(i) 50 percent of the amounts appropriated for each such fiscal year equally among all States with an approved application under this subsection; and
+
+(ii) 50 percent of the amounts appropriated for each such fiscal year among all such States in an amount to be determined by the Administrator in accordance with subparagraph (C).
+
+#### (C) Requirements
+
+In determining the amount to be allotted to a State under clause (ii) of subparagraph (B) for a fiscal year, the Administrator shall—
+
+(i) ensure that not less than ¼ of the States with an approved application under this subsection for a fiscal year are allotted funds from amounts that are to be allotted under clause (ii) of such subparagraph; and
+
+(ii) consider—
+
+(I) the percentage of the State population that is located in a rural census tract of a metropolitan statistical area (as determined under the most recent modification of the Goldsmith Modification, originally published in the Federal Register on February 27, 1992 (57 Fed. Reg. 6725));
+
+(II) the proportion of rural health facilities (as defined in subparagraph (D)) in the State relative to the number of rural health facilities nationwide;
+
+(III) the situation of hospitals in the State, as described in section 1396a(a)(13)(A)(iv) of this title; and
+
+(IV) any other factors that the Administrator determines appropriate.
+
+#### (D) Rural health facility defined
+
+For the purposes of subparagraph (C)(ii), the term "rural health facility" means the following:
+
+(i) A subsection (d) hospital (as defined in paragraph (1)(B) of section 1395ww(d) of this title) that—
+
+(I) is located in a rural area (as defined in paragraph (2)(D) of such section [1](#1397ee_1_target));
+
+(II) is treated as being located in a rural area pursuant to paragraph (8)(E) of such section [1](#1397ee_1_target); or
+
+(III) is located in a rural census tract of a metropolitan statistical area (as determined under the most recent modification of the Goldsmith Modification, originally published in the Federal Register on February 27, 1992 (57 Fed. Reg. 6725)).
+
+  
+
+(ii) A critical access hospital (as defined in section 1395x(mm)(1) of this title).
+
+(iii) A sole community hospital (as defined in section 1395ww(d)(5)(D)(iii) of this title).
+
+(iv) A Medicare-dependent, small rural hospital (as defined in section 1395ww(d)(5)(G)(iv) of this title).
+
+(v) A low-volume hospital (as defined in section 1395ww(d)(12)(C) of this title).
+
+(vi) A rural emergency hospital (as defined in section 1395x(kkk)(2) of this title).
+
+(vii) A rural health clinic (as defined in section 1395x(aa)(2) of this title).
+
+(viii) A Federally qualified health center (as defined in section 1395x(aa)(4) of this title).
+
+(ix) A community mental health center (as defined in section 1395x(ff)(3)(B) of this title).
+
+(x) A health center that is receiving a grant under section 254b of this title.
+
+(xi) An opioid treatment program (as defined in section 1395x(jjj)(2) of this title) that is located in a rural census tract of a metropolitan statistical area (as determined under the most recent modification of the Goldsmith Modification, originally published in the Federal Register on February 27, 1992 (57 Fed. Reg. 6725)).
+
+(xii) A certified community behavioral health clinic (as defined in section 1396d(jj)(2) of this title) that is located in a rural census tract of a metropolitan statistical area (as determined under the most recent modification of the Goldsmith Modification, originally published in the Federal Register on February 27, 1992 (57 Fed. Reg. 6725)).
+
+#### (4) No matching payment
+
+A State approved for an allotment under this subsection for a fiscal year shall not be required to provide any matching funds as a condition for receiving payments from the allotment.
+
+#### (5) Terms and conditions
+
+The Administrator shall specify such terms and conditions for allotments to States provided under this subsection as the Administrator deems appropriate, including the following:
+
+(A) Each State shall submit to the Administrator (at a time, and in a form and manner, specified by the Administrator)—
+
+(i) a plan for the State to use its allotment to carry out 3 or more of the activities described in paragraph (6); and
+
+(ii) annual reports on the use of allotments, including such additional information as the Administrator determines appropriate.
+
+  
+
+(B) Not more than 10 percent of the amount allotted to a State for a fiscal year may be used by the State for administrative expenses.
+
+#### (6) Use of funds
+
+Amounts allotted to a State under this subsection shall be used for 3 or more of the following health-related activities:
+
+(A) Promoting evidence-based, measurable interventions to improve prevention and chronic disease management.
+
+(B) Providing payments to health care providers for the provision of health care items or services, as specified by the Administrator.
+
+(C) Promoting consumer-facing, technology-driven solutions for the prevention and management of chronic diseases.
+
+(D) Providing training and technical assistance for the development and adoption of technology-enabled solutions that improve care delivery in rural hospitals, including remote monitoring, robotics, artificial intelligence, and other advanced technologies.
+
+(E) Recruiting and retaining clinical workforce talent to rural areas, with commitments to serve rural communities for a minimum of 5 years.
+
+(F) Providing technical assistance, software, and hardware for significant information technology advances designed to improve efficiency, enhance cybersecurity capability development, and improve patient health outcomes.
+
+(G) Assisting rural communities to right size their health care delivery systems by identifying needed preventative, ambulatory, pre-hospital, emergency, acute inpatient care, outpatient care, and post-acute care service lines.
+
+(H) Supporting access to opioid use disorder treatment services (as defined in section 1395x(jjj)(1) of this title), other substance use disorder treatment services, and mental health services.
+
+(I) Developing projects that support innovative models of care that include value-based care arrangements and alternative payment models, as appropriate.
+
+(J) Additional uses designed to promote sustainable access to high quality rural health care services, as determined by the Administrator.
+
+#### (7) Exemptions
+
+Paragraphs (2), (3), (5), (6), (8), (10), (11), and (12) of subsection (c) do not apply to payments under this subsection.
+
+#### (8) Review
+
+There shall be no administrative or judicial review under section 1316 of this title or otherwise of amounts allotted or redistributed to States under this subsection, payments to States withheld or reduced under this subsection, or previous payments recovered from States under this subsection.
+
+#### (9) Health care provider defined
+
+For purposes of this subsection, the term "health care provider" means a provider of services or supplier who is enrolled under this subchapter, subchapter XVIII, or subchapter XIX.
+
+(Aug. 14, 1935, ch. 531, title XXI, §2105, as added Pub. L. 105–33, title IV, §4901(a), Aug. 5, 1997, 111 Stat. 560; amended Pub. L. 105–100, title I, §162(5), (7), Nov. 19, 1997, 111 Stat. 2189, 2190; Pub. L. 106–113, div. B, §1000(a)(6) \[title VII, §705(b)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–402; Pub. L. 106–554, §1(a)(6) \[title VIII, §802(a), (d)(4), (e)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–580 to 2763A–582; Pub. L. 108–74, §1(b), Aug. 15, 2003, 117 Stat. 895; Pub. L. 108–127, §1, Nov. 17, 2003, 117 Stat. 1354; Pub. L. 109–171, title VI, §§6102(b), 6103(a), Feb. 8, 2006, 120 Stat. 131, 132; Pub. L. 109–482, title II, §201(b), Jan. 15, 2007, 120 Stat. 3701; Pub. L. 110–92, §136(d), Sept. 29, 2007, 121 Stat. 995; Pub. L. 110–173, title II, §201(b)(1), Dec. 29, 2007, 121 Stat. 2509; Pub. L. 111–3, title I, §§104, 107(a), 113(a), 114(a), title II, §§201(b)(1), 202(b), 211(c), title III, §§301(a)(1), (2)(A), 302(b), title VI, §601(a), Feb. 4, 2009, 123 Stat. 17, 24, 34, 39, 40, 54, 57, 61, 63, 96; Pub. L. 111–148, title II, §§2101(a)–(c), 2102(a)(3)–(5), title X, §§10201(g), 10203(b)(3), (4), (c), (d)(2)(C), Mar. 23, 2010, 124 Stat. 286–288, 922, 927, 928, 930; Pub. L. 114–10, title III, §301(c), Apr. 16, 2015, 129 Stat. 158; Pub. L. 115–120, div. C, §§3002(d)(1), (f)(1), 3005, Jan. 22, 2018, 132 Stat. 34, 37; Pub. L. 115–123, div. E, title I, §50101(d), (f)(1), Feb. 9, 2018, 132 Stat. 174; Pub. L. 116–117, §3(b)(3), Mar. 2, 2020, 134 Stat. 134; Pub. L. 117–2, title IX, §9821(b), Mar. 11, 2021, 135 Stat. 219; Pub. L. 117–328, div. FF, title V, §5111(c)(2), (3), Dec. 29, 2022, 136 Stat. 5939; Pub. L. 119–21, title VII, §71401(a), (b)(2), July 4, 2025, 139 Stat. 327, 332.)
 
   
 
@@ -555,6 +759,10 @@ Section 2701 of the Public Health Service Act, referred to in subsec. (c)(10)(B)
 The Internal Revenue Code of 1986, referred to in subsecs. (c)(10)(B)(i)(III), (ii) and (d)(3)(B), is classified generally to Title 26, Internal Revenue Code.
 
 #### Amendments
+
+**2025**—Subsec. (c)(1). Pub. L. 119–21, §71401(b)(2), substituted "or to carry out the rural health transformation program established in subsection (h) and, except in the case of amounts made available under subsection (h), may not include" for "and may not include".
+
+Subsec. (h). Pub. L. 119–21, §71401(a), added subsec. (h).
 
 **2022**—Subsec. (d)(3). Pub. L. 117–328, §5111(c)(2)(A), substituted "through September 30, 2029" for "through September 30, 2027" in heading.
 
@@ -795,3 +1003,5 @@ Pub. L. 111–3, title VI, §601(b)–(g), Feb. 4, 2009, 123 Stat. 96–98, as a
 [4 So in original. Probably means subpar. (B) of par. (10).](#1397ee_4)
 
 [5 So in original. The word "the" probably should not appear.](#1397ee_5)
+
+[1 So in original. Probably should be "subsection".](#1397ee_1)

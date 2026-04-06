@@ -188,7 +188,7 @@ Pub. L. 93–618, title II, ch. 5, §285, formerly §284, Jan. 3, 1975, 88 Stat.
 
 "(ii) is \[sic\] otherwise eligible to receive adjustment assistance benefits under such chapter 6."
 
-\[Pub. L. 114–27, title IV, §406(a)(7), June 29, 2015, 129 Stat. 379, provided that, beginning July 1, 2021, subject to section 406(b), set out in an Effective and Termination Dates of 2015 Revival note above, section 285 of Pub. L. 93–618, set out above, as in effect on Jan. 1, 2014, shall be applied and administered—
+\[Pub. L. 114–27, title IV, §406(a)(7), June 29, 2015, 129 Stat. 380, provided that, beginning July 1, 2021, subject to section 406(b), set out in an Effective and Termination Dates of 2015 Revival note above, section 285 of Pub. L. 93–618, set out above, as in effect on Jan. 1, 2014, shall be applied and administered—
 
 \[(1) in subsec. (a), by substituting "June 30, 2022" for "December 31, 2007" wherever appearing; and
 

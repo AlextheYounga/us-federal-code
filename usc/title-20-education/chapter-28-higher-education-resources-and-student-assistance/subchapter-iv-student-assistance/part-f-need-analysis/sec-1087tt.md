@@ -208,7 +208,17 @@ In this subsection, the term "qualifying emergency" means—
 
 (C) a period of recession or economic downturn as determined by the Secretary, in consultation with the Secretary of Labor.
 
-(Pub. L. 89–329, title IV, §479A, as added Pub. L. 100–50, §14(26), June 3, 1987, 101 Stat. 352; amended Pub. L. 101–239, title II, §2009, Dec. 19, 1989, 103 Stat. 2122; Pub. L. 102–325, title IV, §471(a), July 23, 1992, 106 Stat. 605; Pub. L. 103–208, §2(g)(16), Dec. 20, 1993, 107 Stat. 2473; Pub. L. 105–244, title IV, §478, Oct. 7, 1998, 112 Stat. 1731; Pub. L. 110–84, title VI, §603(a), Sept. 27, 2007, 121 Stat. 805; Pub. L. 110–315, title IV, §472(a), Aug. 14, 2008, 122 Stat. 3269; Pub. L. 113–128, title V, §512(n)(3), July 22, 2014, 128 Stat. 1710; Pub. L. 116–260, div. FF, title VII, §702(i), Dec. 27, 2020, 134 Stat. 3155.)
+(Pub. L. 89–329, title IV, §479A, as added Pub. L. 100–50, §14(26), June 3, 1987, 101 Stat. 352; amended Pub. L. 101–239, title II, §2009, Dec. 19, 1989, 103 Stat. 2122; Pub. L. 102–325, title IV, §471(a), July 23, 1992, 106 Stat. 605; Pub. L. 103–208, §2(g)(16), Dec. 20, 1993, 107 Stat. 2473; Pub. L. 105–244, title IV, §478, Oct. 7, 1998, 112 Stat. 1731; Pub. L. 110–84, title VI, §603(a), Sept. 27, 2007, 121 Stat. 805; Pub. L. 110–315, title IV, §472(a), Aug. 14, 2008, 122 Stat. 3269; Pub. L. 113–128, title V, §512(n)(3), July 22, 2014, 128 Stat. 1710; Pub. L. 116–260, div. FF, title VII, §702(i), Dec. 27, 2020, 134 Stat. 3155; Pub. L. 119–21, title VIII, §83001(a)(3)(A), July 4, 2025, 139 Stat. 350.)
+
+#### Amendment of Subsection (b)(1)(B)
+
+Pub. L. 119–21, title VIII, §83001(a)(3), July 4, 2025, 139 Stat. 350, provided that, effective on July 1, 2026, subsection (b)(1)(B) of this section is amended as follows:
+
+(1) by striking clause (v); and
+
+(2) by redesignating clauses (vi) and (vii) as clauses (v) and (vi), respectively.
+
+See 2025 Amendment note below.
 
   
 
@@ -219,6 +229,8 @@ In this subsection, the term "qualifying emergency" means—
 A prior section 1087tt, Pub. L. 89–329, title IV, §479A, as added Pub. L. 99–498, title IV, §406(a), Oct. 17, 1986, 100 Stat. 1472, related to discretion of student financial aid administrators under this part, prior to repeal by section 14(26) of Pub. L. 100–50.
 
 #### Amendments
+
+**2025**—Subsec. (b)(1)(B)(v) to (vii). Pub. L. 119–21 redesignated cls. (vi) and (vii) as (v) and (vi), respectively, and struck out former cl. (v) which read as follows: "receipt of foreign income of permanent residents or United States citizens exempt from Federal taxation, or the foreign income for which a permanent resident or citizen received a foreign tax credit;".
 
 **2020**—Pub. L. 116–260 amended section generally. Prior to amendment, section related to discretion of student financial aid administrators to take special circumstances into account and to make adjustments to cost of attendance or values of data items required to calculate expected student and/or parent contribution.
 
@@ -241,6 +253,10 @@ Subsec. (c). Pub. L. 105–244, §478(2), amended heading and text of subsec. (c
   
 
 #### **Statutory Notes and Related Subsidiaries**
+
+#### Effective Date of 2025 Amendment
+
+Pub. L. 119–21, title VIII, §83001(a)(3)(B), July 4, 2025, 139 Stat. 350, provided that: "The amendment made by subparagraph (A) \[amending this section\] shall take effect on July 1, 2026."
 
 #### Effective Date of 2020 Amendment
 

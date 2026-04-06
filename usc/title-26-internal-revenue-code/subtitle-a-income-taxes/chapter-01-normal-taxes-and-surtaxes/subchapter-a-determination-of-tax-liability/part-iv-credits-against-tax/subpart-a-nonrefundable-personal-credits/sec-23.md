@@ -18,6 +18,10 @@ The credit under paragraph (1) with respect to any expense shall be allowed—
 
 In the case of an adoption of a child with special needs which becomes final during a taxable year, the taxpayer shall be treated as having paid during such year qualified adoption expenses with respect to such adoption in an amount equal to the excess (if any) of $10,000 over the aggregate qualified adoption expenses actually paid or incurred by the taxpayer with respect to such adoption during such taxable year and all prior taxable years.
 
+#### (4) Portion of credit refundable
+
+So much of the credit allowed under paragraph (1) as does not exceed $5,000 shall be treated as a credit allowed under subpart C and not as a credit allowed under this subpart.
+
 #### (b) Limitations
 
 #### (1) Dollar limitation
@@ -52,7 +56,7 @@ No credit shall be allowed under subsection (a) for any expense to the extent th
 
 #### (1) In general
 
-If the credit allowable under subsection (a) for any taxable year exceeds the limitation imposed by section 26(a) for such taxable year reduced by the sum of the credits allowable under this subpart (other than this section and section 25D), such excess shall be carried to the succeeding taxable year and added to the credit allowable under subsection (a) for such taxable year.
+If the credit allowable under subsection (a) for any taxable year exceeds the limitation imposed by section 26(a) for such taxable year reduced by the sum of the credits allowable under this subpart (other than this section and section 25D), such excess shall be carried to the succeeding taxable year and added to the portion of the credit allowable under subsection (a) which is allowed under this subpart for such taxable year.
 
 #### (2) Limitation
 
@@ -86,9 +90,9 @@ The term "eligible child" means any individual who—
 
 The term "child with special needs" means any child if—
 
-(A) a State has determined that the child cannot or should not be returned to the home of his parents,
+(A) a State or Indian tribal government has determined that the child cannot or should not be returned to the home of his parents,
 
-(B) such State has determined that there exists with respect to the child a specific factor or condition (such as his ethnic background, age, or membership in a minority or sibling group, or the presence of factors such as medical conditions or physical, mental, or emotional handicaps) because of which it is reasonable to conclude that such child cannot be placed with adoptive parents without providing adoption assistance, and
+(B) such State or Indian tribal government has determined that there exists with respect to the child a specific factor or condition (such as his ethnic background, age, or membership in a minority or sibling group, or the presence of factors such as medical conditions or physical, mental, or emotional handicaps) because of which it is reasonable to conclude that such child cannot be placed with adoptive parents without providing adoption assistance, and
 
 (C) such child is a citizen or resident of the United States (as defined in section 217(h)(3)).
 
@@ -122,21 +126,31 @@ For purposes of this subtitle, if a credit is allowed under this section for any
 
 #### (h) Adjustments for inflation
 
-In the case of a taxable year beginning after December 31, 2002, each of the dollar amounts in subsection (a)(3) and paragraphs (1) and (2)(A)(i) of subsection (b) shall be increased by an amount equal to—
+#### (1) In general
 
-(1) such dollar amount, multiplied by
+In the case of a taxable year beginning after December 31, 2002, each of the dollar amounts in paragraphs (3) and (4) of subsection (a) and paragraphs (1) and (2)(A)(i) of subsection (b) shall be increased by an amount equal to—
 
-(2) the cost-of-living adjustment determined under section 1(f)(3) for the calendar year in which the taxable year begins, determined by substituting "calendar year 2001" for "calendar year 2016" in subparagraph (A)(ii) thereof.
+(A) such dollar amount, multiplied by
 
-  
+(B) the cost-of-living adjustment determined under section 1(f)(3) for the calendar year in which the taxable year begins, determined by substituting "calendar year 2001" for "calendar year 2016" in subparagraph (A)(ii) thereof.
 
-If any amount as increased under the preceding sentence is not a multiple of $10, such amount shall be rounded to the nearest multiple of $10.
+#### (2) Rounding
+
+If any amount as increased under paragraph (1) is not a multiple of $10, such amount shall be rounded to the nearest multiple of $10.
+
+#### (3) Special rule for refundable portion
+
+In the case of the dollar amount in subsection (a)(4), paragraph (1) shall be applied—
+
+(A) by substituting "2025" for "2002" in the matter preceding subparagraph (A), and
+
+(B) by substituting "calendar year 2024" for "calendar year 2001" in subparagraph (B) thereof.
 
 #### (i) Regulations
 
 The Secretary shall prescribe such regulations as may be appropriate to carry out this section and section 137, including regulations which treat unmarried individuals who pay or incur qualified adoption expenses with respect to the same child as 1 taxpayer for purposes of applying the dollar amounts in subsections (a)(3) and (b)(1) of this section and in section 137(b)(1).
 
-(Added Pub. L. 104–188, title I, §1807(a), Aug. 20, 1996, 110 Stat. 1899, §23; amended Pub. L. 105–34, title XVI, §1601(h)(2)(A), (B), Aug. 5, 1997, 111 Stat. 1092; Pub. L. 105–206, title VI, §§6008(d)(6), 6018(f)(1), July 22, 1998, 112 Stat. 812, 823; Pub. L. 107–16, title II, §§201(b)(2)(E), 202(a)(1), (b)(1)(A), (2)(A), (c), (d)(1), (e)(1), (f)(1), (2)(A), June 7, 2001, 115 Stat. 46–49; Pub. L. 107–147, title IV, §§411(c)(1)(A)–(E), 418(a)(1), Mar. 9, 2002, 116 Stat. 45, 57; Pub. L. 109–58, title XIII, §1335(b)(1), Aug. 8, 2005, 119 Stat. 1036; Pub. L. 109–135, title IV, §402(i)(3)(A), (4), Dec. 21, 2005, 119 Stat. 2612, 2615; Pub. L. 110–343, div. B, title I, §106(e)(2)(A), Oct. 3, 2008, 122 Stat. 3817; renumbered §36C, amended, and renumbered §23, Pub. L. 111–148, title X, §10909(a)(1), (b)(1), (2)(I), (c), Mar. 23, 2010, 124 Stat. 1021, 1022, 1023; Pub. L. 111–312, title I, §101(b)(1), Dec. 17, 2010, 124 Stat. 3298; Pub. L. 112–240, title I, §104(c)(2)(A), Jan. 2, 2013, 126 Stat. 2321; Pub. L. 115–97, title I, §11002(d)(1)(A), Dec. 22, 2017, 131 Stat. 2060; Pub. L. 115–141, div. U, title IV, §401(d)(4)(B)(i), Mar. 23, 2018, 132 Stat. 1209.)
+(Added Pub. L. 104–188, title I, §1807(a), Aug. 20, 1996, 110 Stat. 1899, §23; amended Pub. L. 105–34, title XVI, §1601(h)(2)(A), (B), Aug. 5, 1997, 111 Stat. 1092; Pub. L. 105–206, title VI, §§6008(d)(6), 6018(f)(1), July 22, 1998, 112 Stat. 812, 823; Pub. L. 107–16, title II, §§201(b)(2)(E), 202(a)(1), (b)(1)(A), (2)(A), (c), (d)(1), (e)(1), (f)(1), (2)(A), June 7, 2001, 115 Stat. 46–49; Pub. L. 107–147, title IV, §§411(c)(1)(A)–(E), 418(a)(1), Mar. 9, 2002, 116 Stat. 45, 57; Pub. L. 109–58, title XIII, §1335(b)(1), Aug. 8, 2005, 119 Stat. 1036; Pub. L. 109–135, title IV, §402(i)(3)(A), (4), Dec. 21, 2005, 119 Stat. 2612, 2615; Pub. L. 110–343, div. B, title I, §106(e)(2)(A), Oct. 3, 2008, 122 Stat. 3817; renumbered §36C, amended, and renumbered §23, Pub. L. 111–148, title X, §10909(a)(1), (b)(1), (2)(I), (c), Mar. 23, 2010, 124 Stat. 1021, 1022, 1023; Pub. L. 111–312, title I, §101(b)(1), Dec. 17, 2010, 124 Stat. 3298; Pub. L. 112–240, title I, §104(c)(2)(A), Jan. 2, 2013, 126 Stat. 2321; Pub. L. 115–97, title I, §11002(d)(1)(A), Dec. 22, 2017, 131 Stat. 2060; Pub. L. 115–141, div. U, title IV, §401(d)(4)(B)(i), Mar. 23, 2018, 132 Stat. 1209; Pub. L. 119–21, title VII, §§70402(a)–(c), 70403(a), July 4, 2025, 139 Stat. 213, 214.)
 
 #### Inflation Adjusted Items for Certain Years
 
@@ -151,6 +165,22 @@ For inflation adjustment of certain items in this section, see Revenue Procedure
 A prior section 23, added Pub. L. 95–618, title I, §101(a), Nov. 9, 1978, 92 Stat. 3175, §44C; amended Pub. L. 96–223, title II, §§201, 202(a)–(d), 203(a), Apr. 2, 1980, 94 Stat. 256, 258; renumbered §23 and amended Pub. L. 98–369, div. A, title IV, §§471(c), 474(e), title VI, §612(e)(2), July 18, 1984, 98 Stat. 826, 831, 912, related to residential energy credit, prior to repeal by Pub. L. 101–508, title XI, §11801(a)(1), Nov. 5, 1990, 104 Stat. 1388–520.
 
 #### Amendments
+
+**2025**—Subsec. (a)(4). Pub. L. 119–21, §70402(a), added par. (4).
+
+Subsec. (c)(1). Pub. L. 119–21, §70402(c), substituted "portion of the credit allowable under subsection (a) which is allowed under this subpart" for "credit allowable under subsection (a)".
+
+Subsec. (d)(3)(A). Pub. L. 119–21, §70403(a)(1), inserted "or Indian tribal government" after "a State".
+
+Subsec. (d)(3)(B). Pub. L. 119–21, §70403(a)(2), inserted "or Indian tribal government" after "such State".
+
+Subsec. (h). Pub. L. 119–21, §70402(b), amended subsec. (h) generally. Prior to amendment, text read as follows: "In the case of a taxable year beginning after December 31, 2002, each of the dollar amounts in subsection (a)(3) and paragraphs (1) and (2)(A)(i) of subsection (b) shall be increased by an amount equal to—
+
+"(1) such dollar amount, multiplied by
+
+"(2) the cost-of-living adjustment determined under section 1(f)(3) for the calendar year in which the taxable year begins, determined by substituting 'calendar year 2001' for 'calendar year 2016' in subparagraph (A)(ii) thereof.
+
+If any amount as increased under the preceding sentence is not a multiple of $10, such amount shall be rounded to the nearest multiple of $10."
 
 **2018**—Subsec. (c)(1). Pub. L. 115–141 substituted "section 25D" for "sections 25D and 1400C".
 
@@ -249,6 +279,12 @@ Subsec. (b)(2)(B). Pub. L. 105–34, §1601(h)(2)(B), substituted "determined wi
   
 
 #### **Statutory Notes and Related Subsidiaries**
+
+#### Effective Date of 2025 Amendment
+
+Pub. L. 119–21, title VII, §70402(d), July 4, 2025, 139 Stat. 214, provided that: "The amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 2024."
+
+Pub. L. 119–21, title VII, §70403(b), July 4, 2025, 139 Stat. 214, provided that: "The amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 2024."
 
 #### Effective Date of 2017 Amendment
 

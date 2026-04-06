@@ -28,9 +28,13 @@ For purposes of this paragraph, the term "credit base" means—
 
 (iv) the basis of any property which is part of a qualifying gasification project under section 48B,
 
-(v) the basis of any property which is part of a qualifying advanced energy project under section 48C, and
+(v) the basis of any property which is part of a qualifying advanced energy project under section 48C,
 
-(vi) the basis of any qualified property (as defined in subsection (b)(2) of section 48D) which is part of an advanced manufacturing facility (as defined in subsection (b)(3) of such section).
+(vi) the basis of any qualified property (as defined in subsection (b)(2) of section 48D) which is part of an advanced manufacturing facility (as defined in subsection (b)(3) of such section),
+
+(vii) the basis of any qualified property which is part of a qualified facility under section 48E, and
+
+(viii) the basis of any energy storage technology under section 48E.
 
 #### (D) Nonqualified nonrecourse financing
 
@@ -151,22 +155,6 @@ Rules similar to the rules of section 47(d)(3) (as in effect on the day before t
 Any increase in tax under paragraph (1) shall not be treated as tax imposed by this chapter for purposes of determining the amount of any credit allowable under this chapter.
 
 (Added Pub. L. 99–514, title II, §211(a), Oct. 22, 1986, 100 Stat. 2166; amended Pub. L. 100–647, title I, §1002(e)(1)–(3), (8)(B), Nov. 10, 1988, 102 Stat. 3367, 3369; Pub. L. 101–508, title XI, §11813(a), Nov. 5, 1990, 104 Stat. 1388–543; Pub. L. 105–206, title VI, §6004(g)(6), July 22, 1998, 112 Stat. 796; Pub. L. 109–58, title XIII, §1307(c)(1), Aug. 8, 2005, 119 Stat. 1006; Pub. L. 111–5, div. B, title I, §1302(c)(1), Feb. 17, 2009, 123 Stat. 347; Pub. L. 111–148, title IX, §9023(c)(1), Mar. 23, 2010, 124 Stat. 880; Pub. L. 115–141, div. U, title IV, §401(a)(24), (d)(3)(B)(i), Mar. 23, 2018, 132 Stat. 1185, 1209; Pub. L. 117–167, div. A, §107(d)(2), Aug. 9, 2022, 136 Stat. 1398; Pub. L. 117–169, title I, §13702(b)(2), Aug. 16, 2022, 136 Stat. 1997.)
-
-#### Amendment of Subsection (a)(1)(C)
-
-Pub. L. 117–169, title I, §13702(b)(2), (c), Aug. 16, 2022, 136 Stat. 1997, provided that, applicable to property placed in service after Dec. 31, 2024, subsection (a)(1)(C) of this section is amended:
-
-(1) by striking "and" at the end of clause (v),
-
-(2) by striking the period at the end of clause (vi) and inserting a comma, and
-
-(3) by adding at the end the following new clauses:
-
-*(vii) the basis of any qualified property which is part of a qualified facility under section 48E, and*
-
-*(viii) the basis of any energy storage technology under section 48E.*
-
-See 2022 Amendment note below.
 
   
 

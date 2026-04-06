@@ -149,6 +149,10 @@ For purposes of this subsection, whether an employer is an eligible employer and
 
 (Added Pub. L. 107–16, title VI, §619(a), June 7, 2001, 115 Stat. 108; amended Pub. L. 107–147, title IV, §411(n)(1), Mar. 9, 2002, 116 Stat. 48; Pub. L. 116–94, div. O, title I, §104(a), Dec. 20, 2019, 133 Stat. 3147; Pub. L. 117–328, div. T, title I, §§102(a)–(c), 111(a), Dec. 29, 2022, 136 Stat. 5277, 5278, 5293.)
 
+#### Inflation Adjusted Items for Certain Years
+
+For inflation adjustment of certain items in this section, see Internal Revenue Notices listed in a table under section 401 of this title.
+
   
 
 #### **Editorial Notes**

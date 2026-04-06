@@ -12,11 +12,15 @@ Sec.
 
 6725\. Failure to report information under section 4101.
 
+6726\. Failure to comply with information reporting requirements relating to qualified opportunity funds and qualified rural opportunity funds.
+
         
 
 #### **Editorial Notes**
 
 #### Amendments
+
+**2025**—Pub. L. 119–21, title VII, §70421(d)(4)(B), July 4, 2025, 139 Stat. 231, added item 6726.
 
 **2004**—Pub. L. 108–357, title VIII, §863(d)(2), Oct. 22, 2004, 118 Stat. 1620, added item 6725.
 

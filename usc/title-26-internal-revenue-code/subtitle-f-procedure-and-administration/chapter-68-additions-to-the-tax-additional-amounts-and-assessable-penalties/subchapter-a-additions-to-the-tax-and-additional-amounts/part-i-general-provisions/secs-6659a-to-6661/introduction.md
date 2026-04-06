@@ -1,8 +1,4 @@
-### \[§§6659 to 6661. Repealed. Pub. L. 101–239, title VII, §7721(c)(2), Dec. 19, 1989, 103 Stat. 2399\]
-
-Section 6659, added Pub. L. 97–34, title VII, §722(a)(1), Aug. 13, 1981, 95 Stat. 341; amended Pub. L. 97–448, title I, §107(a)(1), (2), Jan. 12, 1983, 96 Stat. 2391; Pub. L. 98–369, div. A, title I, §155(c)(1), title VII, §721(x)(4), July 18, 1984, 98 Stat. 693, 971, related to additions to tax in case of valuation overstatements for purposes of the income tax.
-
-A prior section 6659 was renumbered section 6662 of this title.
+### \[§§6659A to 6661. Repealed. Pub. L. 101–239, title VII, §7721(c)(2), Dec. 19, 1989, 103 Stat. 2399\]
 
 Section 6659A, added Pub. L. 99–514, title XI, §1138(a), Oct. 22, 1986, 100 Stat. 2486, related to additions to tax in case of overstatements of pension liabilities.
 

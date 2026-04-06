@@ -2,7 +2,7 @@
 
 #### (a) Establishment of credit
 
-For purposes of section 46, the advanced manufacturing investment credit for any taxable year is an amount equal to 25 percent of the qualified investment for such taxable year with respect to any advanced manufacturing facility of an eligible taxpayer.
+For purposes of section 46, the advanced manufacturing investment credit for any taxable year is an amount equal to 35 percent of the qualified investment for such taxable year with respect to any advanced manufacturing facility of an eligible taxpayer.
 
 #### (b) Qualified investment
 
@@ -154,7 +154,7 @@ The Secretary shall issue such regulations or other guidance as may be necessary
 
 The credit allowed under this section shall not apply to property the construction of which begins after December 31, 2026.
 
-(Added Pub. L. 117–167, div. A, §107(a), Aug. 9, 2022, 136 Stat. 1393.)
+(Added Pub. L. 117–167, div. A, §107(a), Aug. 9, 2022, 136 Stat. 1393; amended Pub. L. 119–21, title VII, §70308(a), July 4, 2025, 139 Stat. 201.)
 
   
 
@@ -172,9 +172,17 @@ The date of the enactment of this section, referred to in subsec. (d)(2)(B), is 
 
 A prior section 48D, added Pub. L. 111–148, title IX, §9023(a), Mar. 23, 2010, 124 Stat. 877, provided for a qualifying therapeutic discovery project credit, prior to repeal by Pub. L. 115–141, div. U, title IV, §401(d)(3)(A), Mar. 23, 2018, 132 Stat. 1209.
 
+#### Amendments
+
+**2025**—Subsec. (a). Pub. L. 119–21 substituted "35 percent" for "25 percent".
+
   
 
 #### **Statutory Notes and Related Subsidiaries**
+
+#### Effective Date of 2025 Amendment
+
+Pub. L. 119–21, title VII, §70308(b), July 4, 2025, 139 Stat. 201, provided that: "The amendments made by this section \[amending this section\] shall apply to property placed in service after December 31, 2025."
 
 #### Effective Date
 

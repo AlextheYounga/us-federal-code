@@ -56,6 +56,10 @@ Sec.
 
 6039J. Information reporting with respect to Commodity Credit Corporation transactions.
 
+6039K. Returns with respect to qualified opportunity funds and qualified rural opportunity funds.
+
+6039L. Information required from qualified opportunity zone businesses and qualified rural opportunity zone businesses.
+
 6040\. Cross references.
 
         
@@ -63,6 +67,8 @@ Sec.
 #### **Editorial Notes**
 
 #### Amendments
+
+**2025**—Pub. L. 119–21, title VII, §70421(d)(4)(A), July 4, 2025, 139 Stat. 231, added items 6039K and 6039L.
 
 **2020**—Pub. L. 116–260, div. EE, title I, §107(d)(2), Dec. 27, 2020, 134 Stat. 3048, added item 6038E.
 

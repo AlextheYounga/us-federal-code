@@ -126,17 +126,7 @@ For purposes of this section—
 
 The term "applicable taxpayer" means, with respect to any taxable year, a taxpayer whose household income for the taxable year equals or exceeds 100 percent but does not exceed 400 percent of an amount equal to the poverty line for a family of the size involved.
 
-#### (B) Special rule for certain individuals lawfully present in the United States
-
-If—
-
-(i) a taxpayer has a household income which is not greater than 100 percent of an amount equal to the poverty line for a family of the size involved, and
-
-(ii) the taxpayer is an alien lawfully present in the United States, but is not eligible for the medicaid program under title XIX of the Social Security Act by reason of such alien status,
-
-  
-
-the taxpayer shall, for purposes of the credit under this section, be treated as an applicable taxpayer with a household income which is equal to 100 percent of the poverty line for a family of the size involved.
+#### \[(B) Repealed. Pub. L. 119–21, §71302(a), July 4, 2025, 139 Stat. 322\]
 
 #### (C) Married couples must file joint return
 
@@ -204,7 +194,21 @@ In the case of plan years beginning in any calendar year after 2014, the Secreta
 
 #### (A) Qualified health plan
 
+#### (i) [3](#36B_3_target) In general
+
 The term "qualified health plan" has the meaning given such term by section 1301(a) of the Patient Protection and Affordable Care Act, except that such term shall not include a qualified health plan which is a catastrophic plan described in section 1302(e) of such Act.
+
+#### (ii) [3](#36B_3_target) Pre-enrollment verification process required
+
+Such term shall not include any plan enrolled in through an Exchange, unless such Exchange provides a process for pre-enrollment verification through which any applicant may, beginning not later than August 1, verify with the Exchange the applicant's household income and eligibility for enrollment in such plan for plan years beginning in the subsequent year.
+
+#### (iii) Exception in case of certain special enrollment periods
+
+Such term shall not include any plan enrolled in during a special enrollment period provided for by an Exchange—
+
+(I) on the basis of the relationship of the individual's expected household income to such a percentage of the poverty line (or such other amount) as is prescribed by the Secretary of Health and Human Services for purposes of such period, and
+
+(II) not in connection with the occurrence of an event or change in circumstances specified by the Secretary of Health and Human Services for such purposes.
 
 #### (B) Grandfathered health plan
 
@@ -328,37 +332,7 @@ The amount of the credit allowed under this section for any taxable year shall b
 
 #### (2) Excess advance payments
 
-#### (A) In general
-
 If the advance payments to a taxpayer under section 1412 of the Patient Protection and Affordable Care Act for a taxable year exceed the credit allowed by this section (determined without regard to paragraph (1)), the tax imposed by this chapter for the taxable year shall be increased by the amount of such excess.
-
-#### (B) Limitation on increase
-
-#### (i) In general
-
-In the case of a taxpayer whose household income is less than 400 percent of the poverty line for the size of the family involved for the taxable year, the amount of the increase under subparagraph (A) shall in no event exceed the applicable dollar amount determined in accordance with the following table (one-half of such amount in the case of a taxpayer whose tax is determined under section 1(c) [2](#36B_2_target) for the taxable year):
-
-| If the household income (expressed as a percent of poverty line) is: | The applicable dollar amount is: |
-| -------------------------------------------------------------------- | -------------------------------- |
-| Less than 200%                                                       | $600                             |
-| At least 200% but less than 300%                                     | $1,500                           |
-| At least 300% but less than 400%                                     | $2,500.                          |
-
-#### (ii) Indexing of amount
-
-In the case of any calendar year beginning after 2014, each of the dollar amounts in the table contained under clause (i) shall be increased by an amount equal to—
-
-(I) such dollar amount, multiplied by
-
-(II) the cost-of-living adjustment determined under section 1(f)(3) for the calendar year, determined by substituting "calendar year 2013" for "calendar year 2016" in subparagraph (A)(ii) thereof.
-
-  
-
- If the amount of any increase under clause (i) is not a multiple of $50, such increase shall be rounded to the next lowest multiple of $50.
-
-#### (iii) Temporary modification of limitation on increase
-
-In the case of any taxable year beginning in 2020, for any taxpayer who files for such taxable year an income tax return reconciling any advance payment of the credit under this section, the Secretary shall treat subparagraph (A) as not applying.
 
 #### (3) Information requirement
 
@@ -400,9 +374,9 @@ For purposes of this subsection, a taxpayer shall not be treated as having recei
 
 Paragraph (1)(A) shall not affect the application of subsection (c)(1)(C).
 
-#### (B) Household income and affordabillity [3](#36B_3_target)
+#### (B) Household income and affordabillity [4](#36B_4_target)
 
-Paragraph (1)(B) shall not apply to any determination of household income for purposes of paragraph (2)(C)(i)(II) or (4)(C)(ii) of subsection (c) [4](#36B_4_target)
+Paragraph (1)(B) shall not apply to any determination of household income for purposes of paragraph (2)(C)(i)(II) or (4)(C)(ii) of subsection (c) [5](#36B_5_target)
 
 #### (h) Regulations
 
@@ -412,7 +386,103 @@ The Secretary shall prescribe such regulations as may be necessary to carry out 
 
 (2) the application of subsection (f) where the filing status of the taxpayer for a taxable year is different from such status used for determining the advance payment of the credit.
 
-(Added and amended Pub. L. 111–148, title I, §1401(a), title X, §§10105(a)–(c), 10108(h)(1), Mar. 23, 2010, 124 Stat. 213, 906, 914; Pub. L. 111–152, title I, §§1001(a), 1004(a)(1)(A), (2)(A), (c), Mar. 30, 2010, 124 Stat. 1030, 1034, 1035; Pub. L. 111–309, title II, §208(a), (b), Dec. 15, 2010, 124 Stat. 3291, 3292; Pub. L. 112–9, §4(a), Apr. 14, 2011, 125 Stat. 36; Pub. L. 112–10, div. B, title VIII, §1858(b)(1), Apr. 15, 2011, 125 Stat. 168; Pub. L. 112–56, title IV, §401(a), Nov. 21, 2011, 125 Stat. 734; Pub. L. 114–255, div. C, title XVIII, §18001(a)(3), Dec. 13, 2016, 130 Stat. 1341; Pub. L. 115–97, title I, §11002(d)(1)(E), Dec. 22, 2017, 131 Stat. 2060; Pub. L. 117–2, title IX, §§9661(a), (b), 9662(a), 9663(a), Mar. 11, 2021, 135 Stat. 182, 183; Pub. L. 117–169, title I, §12001(a), (b), Aug. 16, 2022, 136 Stat. 1905.)
+(Added and amended Pub. L. 111–148, title I, §1401(a), title X, §§10105(a)–(c), 10108(h)(1), Mar. 23, 2010, 124 Stat. 213, 906, 914; Pub. L. 111–152, title I, §§1001(a), 1004(a)(1)(A), (2)(A), (c), Mar. 30, 2010, 124 Stat. 1030, 1034, 1035; Pub. L. 111–309, title II, §208(a), (b), Dec. 15, 2010, 124 Stat. 3291, 3292; Pub. L. 112–9, §4(a), Apr. 14, 2011, 125 Stat. 36; Pub. L. 112–10, div. B, title VIII, §1858(b)(1), Apr. 15, 2011, 125 Stat. 168; Pub. L. 112–56, title IV, §401(a), Nov. 21, 2011, 125 Stat. 734; Pub. L. 114–255, div. C, title XVIII, §18001(a)(3), Dec. 13, 2016, 130 Stat. 1341; Pub. L. 115–97, title I, §11002(d)(1)(E), Dec. 22, 2017, 131 Stat. 2060; Pub. L. 117–2, title IX, §§9661(a), (b), 9662(a), 9663(a), Mar. 11, 2021, 135 Stat. 182, 183; Pub. L. 117–169, title I, §12001(a), (b), Aug. 16, 2022, 136 Stat. 1905; Pub. L. 119–21, title VII, §§71301(a), (b), 71302(a), 71303(a), (b), 71304(a), 71305(a), (b)(1), July 4, 2025, 139 Stat. 321–325.)
+
+#### Amendment of Subsection (c)(3)(A)
+
+Pub. L. 119–21, title VII, §71303(b), (c), July 4, 2025, 139 Stat. 324, provided that, applicable to taxable years beginning after Dec. 31, 2027, subsection (c)(3)(A) of this section is amended as follows:
+
+(1) by striking "health plan.—The term" and inserting "health plan
+
+#### *"(i) In general*
+
+*"The term", and*
+
+(2) by adding at the end the following new clause:
+
+#### *"(ii) Pre-enrollment verification process required*
+
+*"Such term shall not include any plan enrolled in through an Exchange, unless such Exchange provides a process for pre-enrollment verification through which any applicant may, beginning not later than August 1, verify with the Exchange the applicant's household income and eligibility for enrollment in such plan for plan years beginning in the subsequent year."*
+
+See 2025 Amendment notes below.
+
+#### Amendment of Subsection (c)(5), (6)
+
+Pub. L. 119–21, title VII, §71303(a), (c), July 4, 2025, 139 Stat. 323, 324, provided that, applyicable to taxable years beginning after Dec.ember 31, 2027, subsection (c) of this section is amended by adding at the end the following new paragraphs:
+
+#### *"(5) Exchange enrollment verification requirement*
+
+#### *"(A) In general*
+
+*"The term 'coverage month' shall not include, with respect to any individual covered by a qualified health plan enrolled in through an Exchange, any month beginning before the Exchange verifies, using applicable enrollment information that shall be provided or verified by the applicant, such individual's eligibility—*
+
+*"(i) to enroll in the plan through the Exchange, and*
+
+*"(ii) for any advance payment under section 1412 of the Patient Protection and Affordable Care Act of the credit allowed under this section.*
+
+#### *"(B) Applicable enrollment information*
+
+*"For purposes of subparagraph (A), applicable enrollment information shall include affirmation of at least the following information (to the extent relevant in determining eligibility described in subparagraph (A)):*
+
+*"(i) Household income and family size.*
+
+*"(ii) Whether the individual is an eligible alien.*
+
+*"(iii) Any health coverage status or eligibility for coverage.*
+
+*"(iv) Place of residence.*
+
+*"(v) Such other information as may be determined by the Secretary (in consultation with the Secretary of Health and Human Services) as necessary to the verification prescribed under subparagraph (A).*
+
+#### *"(C) Verification of past months*
+
+*"In the case of a month that begins before verification prescribed by subparagraph (A), such month shall be treated as a coverage month if the Exchange verifies for such month (using applicable enrollment information that shall be provided or verified by the applicant) such individual's eligibility to have so enrolled and for any such advance payment.*
+
+#### *"(D) Exchange participation; coordination with other procedures for determining eligibility*
+
+*"An individual shall not, solely by reason of failing to meet the requirements of this paragraph with respect to a month, be treated for such month as ineligible to enroll in a qualified health plan through an Exchange.*
+
+#### *"(E) Waiver for certain special enrollment periods*
+
+*"The Secretary may waive the application of subparagraph (A) in the case of an individual who enrolls in a qualified health plan through an Exchange for 1 or more months of the taxable year during a special enrollment period provided by the Exchange on the basis of a change in the family size of the individual.*
+
+#### *"(F) Information and reliance on third-party sources*
+
+*"An Exchange shall be permitted to use any data available to the Exchange and any reliable third-party sources in collecting information for verification by the applicant.*
+
+#### *"(6) Exchange compliance with filing requirements*
+
+*"The term 'coverage month' shall not include, with respect to any individual covered by a qualified health plan enrolled in through an Exchange, any month for which the Exchange does not meet the requirements of section 155.305(f)(4)(iii) of title 45, Code of Federal Regulations (as published in the Federal Register on June 25, 2025 (90 Fed. Reg. 27074), applied as though it applied to all plan years after 2025), with respect to the individual."*
+
+See 2025 Amendment notes below.
+
+#### Amendment of Subsection (e)
+
+Pub. L. 119–21, title VII, §71301(a), (b), (e), July 4, 2025, 139 Stat. 321, 322, provided that, applicable to taxable years beginning after Dec. 31, 2026, subsection (e) of this section is amended as follows:
+
+(1) in paragraph (1), by inserting "or, in the case of aliens who are lawfully present, are not eligible aliens" after "individuals who are not lawfully present"; and
+
+(2) in paragraph (2):
+
+(A) by striking "For purposes of this section, an individual" and inserting "For purposes of this section—
+
+#### *"(A) In general*
+
+*"An individual"; and*
+
+(B) by adding at the end the following new subparagraph:
+
+#### *"(B) Eligible aliens*
+
+*"An individual who is an alien and lawfully present shall be treated as an eligible alien if such individual is, and is reasonably expected to be for the entire period of enrollment for which the credit under this section is being claimed—*
+
+*"(i) an alien who is lawfully admitted for permanent residence under the Immigration and Nationality Act (8 U.S.C. 1101 et seq.),*
+
+*"(ii) an alien who has been granted the status of Cuban and Haitian entrant, as defined in section 501(e) of the Refugee Education Assistance Act of 1980 (Public Law 96–422); or*
+
+*"(iii) an individual who lawfully resides in the United States in accordance with a Compact of Free Association referred to in section 402(b)(2)(G) of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996 (8 U.S.C. 1612(b)(2)(G))."*
+
+See 2025 Amendment notes below.
 
 #### Inflation Adjusted Items for Certain Years
 
@@ -435,6 +505,20 @@ Section 1311(d)(2)(B)(ii)(I) of the Patient Protection and Affordable Care Act, 
 The Social Security Act, referred to in subsec. (c)(1)(B)(ii), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title XIX of the Act is classified generally to subchapter XIX (§1396 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 #### Amendments
+
+**2025**—Subsec. (c)(1)(B). Pub. L. 119–21, §71302(a), struck out subpar. (B) which related to a special rule for certain individuals lawfully present in the United States for treatment as an applicable taxpayer.
+
+Subsec. (c)(3)(A). Pub. L. 119–21, §71303(b), designated existing provisions as cl. (i), inserted heading, and added cl. (ii).
+
+Subsec. (c)(3)(A)(iii). Pub. L. 119–21, §71304(a), added cl. (iii).
+
+Subsec. (c)(5), (6). Pub. L. 119–21, §71303(a), added pars. (5) and (6).
+
+Subsec. (e)(1). Pub. L. 119–21, §71301(a), inserted "or, in the case of aliens who are lawfully present, are not eligible aliens" after "individuals who are not lawfully present" in introductory provisions.
+
+Subsec. (e)(2). Pub. L. 119–21, §71301(b), substituted "For purposes of this section—" for "For purposes of this section,", designated remainder of existing provisions as subpar. (A), inserted heading, and added subpar. (B).
+
+Subsec. (f)(2). Pub. L. 119–21, §71305(a), (b)(1), struck out subpar. (A) designation and heading and subpar. (B) which related to limitation on increase of advance payments under section 1412 of the Patient Protection and Affordable Care Actto a taxpayer whose household income is less than 400 percent of the poverty line for the size of the family involved for the taxable year.
 
 **2022**—Subsec. (b)(3)(A)(iii). Pub. L. 117–169, §12001(a), substituted "2021 through 2025" for "2021 and 2022" in heading and "after December 31, 2020, and before January 1, 2026" for "in 2021 or 2022" in introductory provisions.
 
@@ -499,6 +583,18 @@ Subsec. (f)(3). Pub. L. 111–152, §1004(c), added par. (3).
   
 
 #### **Statutory Notes and Related Subsidiaries**
+
+#### Effective Date of 2025 Amendment
+
+Pub. L. 119–21, title VII, §71301(e), July 4, 2025, 139 Stat. 322, provided that: "The amendments made by this section \[amending this section and section 5000A of this title\] (other than the amendments made by subsection (c) \[amending sections 18081 and 18082 of title 42\]) shall apply to taxable years beginning after December 31, 2026."
+
+Pub. L. 119–21, title VII, §71302(b), July 4, 2025, 139 Stat. 323, provided that: "The amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 2025."
+
+Pub. L. 119–21, title VII, §71303(c), July 4, 2025, 139 Stat. 324, provided that: "The amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 2027."
+
+Pub. L. 119–21, title VII, §71304(b), July 4, 2025, 139 Stat. 324, provided that: "The amendments made by this section \[amending this section\] shall apply with respect to plan years beginning after December 31, 2025."
+
+Amendment by section 71305 of Pub. L. 119–21, applicable to taxable years beginning after Dec. 31, 2025, see section 71305(c) of Pub. L. 119–21 set out as a note under section 35 of this title.
 
 #### Effective Date of 2022 Amendment
 
@@ -576,6 +672,8 @@ Pub. L. 112–56, title IV, §401(c), Nov. 21, 2011, 125 Stat. 734, provided tha
 
 [2 See References in Text note below.](#36B_2)
 
-[3 So in original. Probably should be "affordability".](#36B_3)
+[3 See Amendment of Subsection (c)(3)(A) note below.](#36B_3)
 
-[4 So in original. Probably should be followed by a period.](#36B_4)
+[4 So in original. Probably should be "affordability".](#36B_4)
+
+[5 So in original. Probably should be followed by a period.](#36B_5)

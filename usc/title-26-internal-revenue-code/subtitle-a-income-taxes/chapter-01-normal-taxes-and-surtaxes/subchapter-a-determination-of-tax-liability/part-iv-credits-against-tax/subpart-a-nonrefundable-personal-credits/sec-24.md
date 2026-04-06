@@ -118,15 +118,15 @@ For purposes of subparagraph (A), the disallowance period is—
 
 In the case of a taxpayer who is denied credit under this section for any taxable year as a result of the deficiency procedures under subchapter B of chapter 63, no credit shall be allowed under this section for any subsequent taxable year unless the taxpayer provides such information as the Secretary may require to demonstrate eligibility for such credit.
 
-#### (h) Special rules for taxable years 2018 through 2025
+#### (h) Special rules for taxable years beginning after 2017
 
 #### (1) In general
 
-In the case of a taxable year beginning after December 31, 2017, and before January 1, 2026, this section shall be applied as provided in paragraphs (2) through (7).
+In the case of a taxable year beginning after December 31, 2017, this section shall be applied as provided in paragraphs (2) through (7).
 
 #### (2) Credit amount
 
-Subsection (a) shall be applied by substituting "$2,000" for "$1,000".
+Subsection (a) shall be applied by substituting "$2,200" for "$1,000".
 
 #### (3) Limitation
 
@@ -148,21 +148,7 @@ In the case of any qualifying child with respect to whom a credit is not allowed
 
 #### (5) Maximum amount of refundable credit
 
-#### (A) In general
-
 The amount determined under subsection (d)(1)(A) with respect to any qualifying child shall not exceed $1,400, and such subsection shall be applied without regard to paragraph (4) of this subsection.
-
-#### (B) Adjustment for inflation
-
-In the case of a taxable year beginning after 2018, the $1,400 amount in subparagraph (A) shall be increased by an amount equal to—
-
-(i) such dollar amount, multiplied by
-
-(ii) the cost-of-living adjustment determined under section 1(f)(3) for the calendar year in which the taxable year begins, determined by substituting "2017" for "2016" in subparagraph (A)(ii) thereof.
-
-  
-
-If any increase under this clause is not a multiple of $100, such increase shall be rounded to the next lowest multiple of $100.
 
 #### (6) Earned income threshold for refundable credit
 
@@ -170,81 +156,43 @@ Subsection (d)(1)(B)(i) shall be applied by substituting "$2,500" for "$3,000".
 
 #### (7) Social security number required
 
-No credit shall be allowed under this section to a taxpayer with respect to any qualifying child unless the taxpayer includes the social security number of such child on the return of tax for the taxable year. For purposes of the preceding sentence, the term "social security number" means a social security number issued to an individual by the Social Security Administration, but only if the social security number is issued—
-
-(A) to a citizen of the United States or pursuant to subclause (I) (or that portion of subclause (III) that relates to subclause (I)) of section 205(c)(2)(B)(i) of the Social Security Act, and
-
-(B) before the due date for such return.
-
-#### (i) Special rules for 2021
-
-In the case of any taxable year beginning after December 31, 2020, and before January 1, 2022—
-
-#### (1) Refundable credit
-
-If the taxpayer (in the case of a joint return, either spouse) has a principal place of abode in the United States (determined as provided in section 32) for more than one-half of the taxable year or is a bona fide resident of Puerto Rico (within the meaning of section 937(a)) for such taxable year—
-
-(A) subsection (d) shall not apply, and
-
-(B) so much of the credit determined under subsection (a) (after application of subparagraph (A)) as does not exceed the amount of such credit which would be so determined without regard to subsection (h)(4) shall be allowed under subpart C (and not allowed under this subpart).
-
-#### (2) 17-year-olds eligible for treatment as qualifying children
-
-This section shall be applied—
-
-(A) by substituting "age 18" for "age 17" in subsection (c)(1), and
-
-(B) by substituting "described in subsection (c) (determined after the application of subsection (i)(2)(A))" for "described in subsection (c)" in subsection (h)(4)(A).
-
-#### (3) Credit amount
-
-Subsection (h)(2) shall not apply and subsection (a) shall be applied by substituting "$3,000 ($3,600 in the case of a qualifying child who has not attained age 6 as of the close of the calendar year in which the taxable year of the taxpayer begins)" for "$1,000".
-
-#### (4) Reduction of increased credit amount based on modified adjusted gross income
-
 #### (A) In general
 
-The amount of the credit allowable under subsection (a) (determined without regard to subsection (b)) shall be reduced by $50 for each $1,000 (or fraction thereof) by which the taxpayer's modified adjusted gross income (as defined in subsection (b)) exceeds the applicable threshold amount.
+No credit shall be allowed under this section to a taxpayer with respect to any qualifying child unless the taxpayer includes on the return of tax for the taxable year—
 
-#### (B) Applicable threshold amount
+(i) the taxpayer's social security number (or, in the case of a joint return, the social security number of at least 1 spouse), and
 
-For purposes of this paragraph, the term "applicable threshold amount" means—
+(ii) the social security number of such qualifying child.
 
-(i) $150,000, in the case of a joint return or surviving spouse (as defined in section 2(a)) ,[1](#24_1_target)
+#### (B) Social security number
 
-(ii) $112,500, in the case of a head of household (as defined in section 2(b)), and
+For purposes of this paragraph, the term "social security number" means a social security number issued to an individual by the Social Security Administration, but only if the social security number is issued—
 
-(iii) $75,000, in any other case.
+(i) to a citizen of the United States or pursuant to subclause (I) (or that portion of subclause (III) that relates to subclause (I)) of section 205(c)(2)(B)(i) of the Social Security Act, and
 
-#### (C) Limitation on reduction
+(ii) before the due date for such return.
 
-#### (i) In general
+#### (i) Inflation adjustments
 
-The amount of the reduction under subparagraph (A) shall not exceed the lesser of—
+#### (1) Maximum amount of refundable credit
 
-(I) the applicable credit increase amount, or
+In the case of a taxable year beginning after 2024, the $1,400 amount in subsection (h)(5) shall be increased by an amount equal to—
 
-(II) 5 percent of the applicable phaseout threshold range.
+(A) such dollar amount, multiplied by
 
-#### (ii) Applicable credit increase amount
+(B) the cost-of-living adjustment determined under section 1(f)(3) for the calendar year in which the taxable year begins, determined by substituting "2017" for "2016" in subparagraph (A)(ii) thereof.
 
-For purposes of this subparagraph, the term "applicable credit increase amount" means the excess (if any) of—
+#### (2) Special rule for adjustment of credit amount
 
-(I) the amount of the credit allowable under this section for the taxable year determined without regard to this paragraph and subsection (b), over
+In the case of a taxable year beginning after 2025, the $2,200 amount in subsection (h)(2) shall be increased by an amount equal to—
 
-(II) the amount of such credit as so determined and without regard to paragraph (3).
+(A) such dollar amount, multiplied by
 
-#### (iii) Applicable phaseout threshold range
+(B) the cost-of-living adjustment determined under section 1(f)(3) for the calendar year in which the taxable year begins, determined by substituting "2024" for "2016" in subparagraph (A)(ii) thereof.
 
-For purposes of this subparagraph, the term "applicable phaseout threshold range" means the excess of—
+#### (3) Rounding
 
-(I) the threshold amount applicable to the taxpayer under subsection (b) (determined after the application of subsection (h)(3)), over
-
-(II) the applicable threshold amount applicable to the taxpayer under this paragraph.
-
-#### (D) Coordination with limitation on overall credit
-
-Subsection (b) shall be applied by substituting "the credit allowable under subsection (a) (determined after the application of subsection (i)(4)(A)" for "the credit allowable under subsection (a)".
+If any increase under this subsection is not a multiple of $100, such increase shall be rounded to the next lowest multiple of $100.
 
 #### (j) Reconciliation of credit and advance credit
 
@@ -346,7 +294,7 @@ In the case of a taxable year with respect to which a plan is not approved under
 
 For purposes of section 1324 of title 31, United States Code, the payments under this subsection shall be treated in the same manner as a refund due from a credit provision referred to in subsection (b)(2) of such section.
 
-(Added Pub. L. 105–34, title I, §101(a), Aug. 5, 1997, 111 Stat. 796; amended Pub. L. 105–206, title VI, §6003(a), July 22, 1998, 112 Stat. 790; Pub. L. 105–277, div. J, title II, §2001(b), Oct. 21, 1998, 112 Stat. 2681–901; Pub. L. 106–170, title V, §501(b)(1), Dec. 17, 1999, 113 Stat. 1919; Pub. L. 107–16, title II, §§201(a)–(b)(2)(C), (c)(1), (2), (d), 202(f)(2)(B), title VI, §618(b)(2)(A), June 7, 2001, 115 Stat. 45–47, 49, 108; Pub. L. 107–90, title II, §204(e)(1), Dec. 21, 2001, 115 Stat. 893; Pub. L. 107–147, title IV, §§411(b), 417(23)(A), Mar. 9, 2002, 116 Stat. 45, 57; Pub. L. 108–27, title I, §101(a), May 28, 2003, 117 Stat. 753; Pub. L. 108–311, title I, §§101(a), 102(a), 104(a), title II, §204, title IV, §408(b)(4), Oct. 4, 2004, 118 Stat. 1167, 1168, 1176, 1192; Pub. L. 109–135, title IV, §402(i)(3)(B), Dec. 21, 2005, 119 Stat. 2613; Pub. L. 110–172, §11(c)(1), Dec. 29, 2007, 121 Stat. 2488; Pub. L. 110–343, div. B, title I, §106(e)(2)(B), title II, §205(d)(1)(A), div. C, title V, §501(a), Oct. 3, 2008, 122 Stat. 3817, 3838, 3876; Pub. L. 110–351, title V, §501(c)(1), Oct. 7, 2008, 122 Stat. 3979; Pub. L. 111–5, div. B, title I, §§1003(a), 1004(b)(1), 1142(b)(1)(A), 1144(b)(1)(A), Feb. 17, 2009, 123 Stat. 313, 314, 330, 332; Pub. L. 111–148, title X, §10909(b)(2)(A), (c), Mar. 23, 2010, 124 Stat. 1023; Pub. L. 111–312, title I, §§101(b)(1), 103(b), Dec. 17, 2010, 124 Stat. 3298, 3299; Pub. L. 112–240, title I, §§103(b), 104(c)(2)(B), Jan. 2, 2013, 126 Stat. 2319, 2321; Pub. L. 113–295, div. A, title II, §209(a), Dec. 19, 2014, 128 Stat. 4028; Pub. L. 114–27, title VIII, §807(a), June 29, 2015, 129 Stat. 418; Pub. L. 114–113, div. Q, title I, §101(a), (b), title II, §§205(a), (b), 208(a)(1), Dec. 18, 2015, 129 Stat. 3044, 3081, 3083; Pub. L. 115–97, title I, §11022(a), Dec. 22, 2017, 131 Stat. 2073; Pub. L. 115–141, div. U, title I, §101(i)(1), title IV, §401(a)(3), Mar. 23, 2018, 132 Stat. 1162, 1184; Pub. L. 117–2, title IX, §§9611(a), (b)(2), 9612(a), Mar. 11, 2021, 135 Stat. 144, 148, 150.)
+(Added Pub. L. 105–34, title I, §101(a), Aug. 5, 1997, 111 Stat. 796; amended Pub. L. 105–206, title VI, §6003(a), July 22, 1998, 112 Stat. 790; Pub. L. 105–277, div. J, title II, §2001(b), Oct. 21, 1998, 112 Stat. 2681–901; Pub. L. 106–170, title V, §501(b)(1), Dec. 17, 1999, 113 Stat. 1919; Pub. L. 107–16, title II, §§201(a)–(b)(2)(C), (c)(1), (2), (d), 202(f)(2)(B), title VI, §618(b)(2)(A), June 7, 2001, 115 Stat. 45–47, 49, 108; Pub. L. 107–90, title II, §204(e)(1), Dec. 21, 2001, 115 Stat. 893; Pub. L. 107–147, title IV, §§411(b), 417(23)(A), Mar. 9, 2002, 116 Stat. 45, 57; Pub. L. 108–27, title I, §101(a), May 28, 2003, 117 Stat. 753; Pub. L. 108–311, title I, §§101(a), 102(a), 104(a), title II, §204, title IV, §408(b)(4), Oct. 4, 2004, 118 Stat. 1167, 1168, 1176, 1192; Pub. L. 109–135, title IV, §402(i)(3)(B), Dec. 21, 2005, 119 Stat. 2613; Pub. L. 110–172, §11(c)(1), Dec. 29, 2007, 121 Stat. 2488; Pub. L. 110–343, div. B, title I, §106(e)(2)(B), title II, §205(d)(1)(A), div. C, title V, §501(a), Oct. 3, 2008, 122 Stat. 3817, 3838, 3876; Pub. L. 110–351, title V, §501(c)(1), Oct. 7, 2008, 122 Stat. 3979; Pub. L. 111–5, div. B, title I, §§1003(a), 1004(b)(1), 1142(b)(1)(A), 1144(b)(1)(A), Feb. 17, 2009, 123 Stat. 313, 314, 330, 332; Pub. L. 111–148, title X, §10909(b)(2)(A), (c), Mar. 23, 2010, 124 Stat. 1023; Pub. L. 111–312, title I, §§101(b)(1), 103(b), Dec. 17, 2010, 124 Stat. 3298, 3299; Pub. L. 112–240, title I, §§103(b), 104(c)(2)(B), Jan. 2, 2013, 126 Stat. 2319, 2321; Pub. L. 113–295, div. A, title II, §209(a), Dec. 19, 2014, 128 Stat. 4028; Pub. L. 114–27, title VIII, §807(a), June 29, 2015, 129 Stat. 418; Pub. L. 114–113, div. Q, title I, §101(a), (b), title II, §§205(a), (b), 208(a)(1), Dec. 18, 2015, 129 Stat. 3044, 3081, 3083; Pub. L. 115–97, title I, §11022(a), Dec. 22, 2017, 131 Stat. 2073; Pub. L. 115–141, div. U, title I, §101(i)(1), title IV, §401(a)(3), Mar. 23, 2018, 132 Stat. 1162, 1184; Pub. L. 117–2, title IX, §§9611(a), (b)(2), 9612(a), Mar. 11, 2021, 135 Stat. 144, 148, 150; Pub. L. 119–21, title VII, §70104(a)–(d), July 4, 2025, 139 Stat. 160, 161.)
 
 #### Inflation Adjusted Items for Certain Years
 
@@ -358,13 +306,25 @@ For inflation adjustment of certain items in this section, see Revenue Procedure
 
 #### References in Text
 
-Section 205(c)(2)(B)(i) of the Social Security Act, referred to in subsec. (h)(7)(A), is classified to section 405(c)(2)(B)(i) of Title 42, The Public Health and Welfare.
+Section 205(c)(2)(B)(i) of the Social Security Act, referred to in subsec. (h)(7)(B)(i), is classified to section 405(c)(2)(B)(i) of Title 42, The Public Health and Welfare.
 
 #### Prior Provisions
 
 A prior section 24, added Pub. L. 92–178, title VII, §701(a), Dec. 10, 1971, 85 Stat. 560, §41; amended Pub. L. 93–625, §§11(a)–(c), (e), 12(a), Jan. 3, 1975, 88 Stat. 2119, 2120; Pub. L. 94–455, title V, §503(b)(4), title XIX, §§1901(b)(1)(B), (H)(ii), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1562, 1790, 1791, 1834; Pub. L. 95–600, title I, §113(c), Nov. 6, 1978, 92 Stat. 2778; Pub. L. 97–473, title II, §202(b)(1), Jan. 14, 1983, 96 Stat. 2609; Pub. L. 98–21, title I, §122(c)(1), Apr. 20, 1983, 97 Stat. 87; renumbered §24 and amended Pub. L. 98–369, div. A, title IV, §§471(c), 474(f), July 18, 1984, 98 Stat. 826, 831, related to contributions to candidates for public office, prior to repeal by Pub. L. 99–514, title I, §§112(a), 151(a), Oct. 22, 1986, 100 Stat. 2108, 2121, applicable to taxable years beginning after Dec. 31, 1986.
 
 #### Amendments
+
+**2025**—Subsec. (h). Pub. L. 119–21, §70104(a)(3), substituted "beginning after 2017" for "2018 through 2025" in heading.
+
+Subsec. (h)(1). Pub. L. 119–21, §70104(a)(1), struck out ", and before January 1, 2026" after "December 31, 2017".
+
+Subsec. (h)(2). Pub. L. 119–21, §70104(a)(2), substituted "$2,200" for "$2,000".
+
+Subsec. (h)(5). Pub. L. 119–21, §70104(d), amended par. (5) generally. Prior to amendment, par. (5) related to maximum amount of refundable credit and its adjustment for inflation.
+
+Subsec. (h)(7). Pub. L. 119–21, §70104(b), amended par. (7) generally. Prior to amendment, par. (7) allowed a credit under this section to a taxpayer with respect to any qualifying child if the taxpayer included the social security number of such child on the tax return for the taxable year.
+
+Subsec. (i). Pub. L. 119–21, §70104(c), amended subsec. (i) generally. Prior to amendment, subsec. (i) related to special rules for 2021 for refundable credit, 17-year-olds eligible for treatment as qualifying children, credit amount, and reduction of increased credit amount based on modified adjusted gross income.
 
 **2021**—Subsec. (i). Pub. L. 117–2, §9611(a), added subsec. (i).
 
@@ -538,6 +498,10 @@ Subsec. (d)(5). Pub. L. 105–206, §6003(a)(1)(B), redesignated par. (5) as (3)
 
 #### **Statutory Notes and Related Subsidiaries**
 
+#### Effective Date of 2025 Amendment
+
+Pub. L. 119–21, title VII, §70104(f), July 4, 2025, 139 Stat. 161, provided that: "The amendments made by this section \[amending this section and section 6213 of this title\] shall apply to taxable years beginning after December 31, 2024."
+
 #### Effective Date of 2021 Amendment
 
 Pub. L. 117–2, title IX, §9611(c)(1), Mar. 11, 2021, 135 Stat. 150, provided that: "The amendments made by this section \[enacting section 7527A of this title and amending this section, sections 26, 3402, and 6211 of this title, and section 1324 of Title 31, Money and Finance\] shall apply to taxable years beginning after December 31, 2020."
@@ -685,5 +649,3 @@ Pub. L. 105–34, title I, §101(e), Aug. 5, 1997, 111 Stat. 799, provided that:
 #### Refunds Disregarded in Administration of Federal and Federally Assisted Programs
 
 Pub. L. 107–16, title II, §203, June 7, 2001, 115 Stat. 49, provided that: "Any payment considered to have been made to any individual by reason of section 24 of the Internal Revenue Code of 1986, as amended by section 201, shall not be taken into account as income and shall not be taken into account as resources for the month of receipt and the following month, for purposes of determining the eligibility of such individual or any other individual for benefits or assistance, or the amount or extent of benefits or assistance, under any Federal program or under any State or local program financed in whole or in part with Federal funds."
-
-[1 So in original.](#24_1)

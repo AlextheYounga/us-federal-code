@@ -312,7 +312,7 @@ Pub. L. 112–95, title IV, §411, Feb. 14, 2012, 126 Stat. 88, as amended by Pu
 
 "(h) Termination.—The advisory committee established under this section shall terminate on September 30, 2028.
 
-"(i) Consultation.—The Advisory Committee shall consult, as appropriate, with foreign air carriers, air carriers with an ultra-low-cost business model, nonprofit public interest groups with expertise in disability and accessibility matters, ticket agents, travel management companies, and any other groups as determined by the Secretary."
+"(i) Consultation.—The Advisory Committee \[probably should be "advisory committee"\] shall consult, as appropriate, with foreign air carriers, air carriers with an ultra-low-cost business model, nonprofit public interest groups with expertise in disability and accessibility matters, ticket agents, travel management companies, and any other groups as determined by the Secretary."
 
 #### Disclosure of Seat Dimensions To Facilitate the Use of Child Safety Seats on Aircraft
 

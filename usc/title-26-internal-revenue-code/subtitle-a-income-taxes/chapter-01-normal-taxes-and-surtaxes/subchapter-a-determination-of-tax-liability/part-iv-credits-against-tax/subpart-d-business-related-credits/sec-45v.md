@@ -102,7 +102,7 @@ The term "qualified clean hydrogen production facility" means a facility—
 
 (B) which produces qualified clean hydrogen, and
 
-(C) the construction of which begins before January 1, 2033.
+(C) the construction of which begins before January 1, 2028.
 
 #### (d) Special rules
 
@@ -184,7 +184,7 @@ The Secretary shall issue such regulations or other guidance as the Secretary de
 
 Not later than 1 year after the date of enactment of this section, the Secretary shall issue regulations or other guidance to carry out the purposes of this section, including regulations or other guidance for determining lifecycle greenhouse gas emissions.
 
-(Added and amended Pub. L. 117–169, title I, §13204(a)(1)–(3), Aug. 16, 2022, 136 Stat. 1936, 1938, 1939.)
+(Added and amended Pub. L. 117–169, title I, §13204(a)(1)–(3), Aug. 16, 2022, 136 Stat. 1936, 1938, 1939; Pub. L. 119–21, title VII, §70511, July 4, 2025, 139 Stat. 252.)
 
   
 
@@ -195,6 +195,8 @@ Not later than 1 year after the date of enactment of this section, the Secretary
 The date of enactment of this section, referred to in subsecs. (c)(1)(A) and (f), is the date of enactment of Pub. L. 117–169, which was approved Aug. 16, 2022.
 
 #### Amendments
+
+**2025**—Subsec. (c)(3)(C). Pub. L. 119–21 substituted "January 1, 2028" for "January 1, 2033".
 
 **2022**—Subsec. (d)(3). Pub. L. 117–169, §13204(a)(2), added par. (3).
 

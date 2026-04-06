@@ -4,17 +4,25 @@
 
 #### (1) In general
 
-For purposes of section 38, in the case of an eligible employer, the paid family and medical leave credit is an amount equal to the applicable percentage of the amount of wages paid to qualifying employees during any period in which such employees are on family and medical leave.
+For purposes of section 38, in the case of an eligible employer, the paid family and medical leave credit is an amount equal to either of the following (as elected by such employer):
+
+(A) The applicable percentage of the amount of wages paid to qualifying employees with respect to any period in which such employees are on family and medical leave.
+
+(B) If such employer has an insurance policy with regards to the provision of paid family and medical leave which is in force during the taxable year, the applicable percentage of the total amount of premiums paid or incurred by such employer during such taxable year with respect to such insurance policy.
 
 #### (2) Applicable percentage
 
 For purposes of paragraph (1), the term "applicable percentage" means 12.5 percent increased (but not above 25 percent) by 0.25 percentage points for each percentage point by which the rate of payment (as described under subsection (c)(1)(B)) exceeds 50 percent.
 
+#### (3) Rate of payment determined without regard to whether leave is taken
+
+For purposes of determining the applicable percentage with respect to paragraph (1)(B), the rate of payment under the insurance policy shall be determined without regard to whether any qualifying employees were on family and medical leave during the taxable year.
+
 #### (b) Limitation
 
 #### (1) In general
 
-The credit allowed under subsection (a) with respect to any employee for any taxable year shall not exceed an amount equal to the product of the normal hourly wage rate of such employee for each hour (or fraction thereof) of actual services performed for the employer and the number of hours (or fraction thereof) for which family and medical leave is taken.
+The wages taken into account under subsection (a) with respect to any employee for any taxable year shall not exceed an amount equal to the product of the normal hourly wage rate of such employee for each hour (or fraction thereof) of actual services performed for the employer and the number of hours (or fraction thereof) for which family and medical leave is taken.
 
 #### (2) Non-hourly wage rate
 
@@ -70,11 +78,27 @@ The term "added employer" means an eligible employer (determined without regard 
 
 #### (3) Aggregation rule
 
-All persons which are treated as a single employer under subsections (a) and (b) of section 52 shall be treated as a single taxpayer.
+#### (A) In general
 
-#### (4) Treatment of benefits mandated or paid for by state or local governments
+Except as provided in subparagraph (B), all persons which are treated as a single employer under subsections (b) and (c) of section 414 shall be treated as a single employer.
 
-For purposes of this section, any leave which is paid by a State or local government or required by State or local law shall not be taken into account in determining the amount of paid family and medical leave provided by the employer.
+#### (B) Exception
+
+#### (i) In general
+
+Subparagraph (A) shall not apply to any person who establishes to the satisfaction of the Secretary that such person has a substantial and legitimate business reason for failing to provide a written policy described in paragraph (1) or (2).
+
+#### (ii) Substantial and legitimate business reason
+
+For purposes of clause (i), the term "substantial and legitimate business reason" shall not include the operation of a separate line of business, the rate of wages or category of jobs for employees (or any similar basis), or the application of State or local laws relating to family and medical leave, but may include the grouping of employees of a common law employer.
+
+#### (4) Treatment of benefits mandated or paid for by State or local governments
+
+For purposes of this section, any leave which is paid by a State or local government or required by State or local law—
+
+(A) except as provided in subparagraph (B), shall be taken into account in determining the amount of paid family and medical leave provided by the employer, and
+
+(B) shall not be taken into account in determining the amount of the paid family and medical leave credit under subsection (a).
 
 #### (5) No inference
 
@@ -84,9 +108,11 @@ Nothing in this subsection shall be construed as subjecting an employer to any p
 
 For purposes of this section, the term "qualifying employee" means any employee (as defined in section 3(e) of the Fair Labor Standards Act of 1938, as amended) who—
 
-(1) has been employed by the employer for 1 year or more, and
+(1) has been employed by the employer for 1 year or more (or, at the election of the employer, for not less than 6 months), and
 
-(2) for the preceding year, had compensation not in excess of an amount equal to 60 percent of the amount applicable for such year under clause (i) of section 414(q)(1)(B).
+(2) for the preceding year, had compensation, as determined on an annualized basis (pro-rata for part-time employees), not in excess of an amount equal to 60 percent of the amount applicable for such year under clause (i) of section 414(q)(1)(B), and
+
+(3) is customarily employed for not less than 20 hours per week.
 
 #### (e) Family and medical leave
 
@@ -120,11 +146,7 @@ A taxpayer may elect to have this section not apply for any taxable year.
 
 Rules similar to the rules of paragraphs (2) and (3) of section 51(j) shall apply for purposes of this subsection.
 
-#### (i) Termination
-
-This section shall not apply to wages paid in taxable years beginning after December 31, 2025.
-
-(Added Pub. L. 115–97, title I, §13403(a)(1), Dec. 22, 2017, 131 Stat. 2135; amended Pub. L. 116–94, div. Q, title I, §142(a), Dec. 20, 2019, 133 Stat. 3234; Pub. L. 116–260, div. EE, title I, §119(a), Dec. 27, 2020, 134 Stat. 3051.)
+(Added Pub. L. 115–97, title I, §13403(a)(1), Dec. 22, 2017, 131 Stat. 2135; amended Pub. L. 116–94, div. Q, title I, §142(a), Dec. 20, 2019, 133 Stat. 3234; Pub. L. 116–260, div. EE, title I, §119(a), Dec. 27, 2020, 134 Stat. 3051; Pub. L. 119–21, title VII, §70304(a), July 4, 2025, 139 Stat. 195.)
 
   
 
@@ -138,6 +160,26 @@ Section 3(e) of the Fair Labor Standards Act of 1938, referred to in subsec. (d)
 
 #### Amendments
 
+**2025**—Subsec. (a)(1). Pub. L. 119–21, §70304(a)(1)(A), added par. (1) and struck out former par. (1). Prior to amendment, text read as follows: "For purposes of section 38, in the case of an eligible employer, the paid family and medical leave credit is an amount equal to the applicable percentage of the amount of wages paid to qualifying employees during any period in which such employees are on family and medical leave."
+
+Subsec. (a)(3). Pub. L. 119–21, §70304(a)(1)(B), added par. (3).
+
+Subsec. (b)(1). Pub. L. 119–21, §70304(a)(2), substituted "wages taken into account" for "credit allowed".
+
+Subsec. (c)(3), (4). Pub. L. 119–21, §70304(a)(3), added pars. (3) and (4) and struck out former pars. (3) and (4) which read as follows:
+
+"(3) Aggregation rule.—All persons which are treated as a single employer under subsections (a) and (b) of section 52 shall be treated as a single taxpayer.
+
+"(4) Treatment of benefits mandated or paid for by state or local governments.—For purposes of this section, any leave which is paid by a State or local government or required by State or local law shall not be taken into account in determining the amount of paid family and medical leave provided by the employer."
+
+Subsec. (d)(1). Pub. L. 119–21, §70304(a)(4)(A), inserted "(or, at the election of the employer, for not less than 6 months)" after "1 year or more".
+
+Subsec. (d)(2). Pub. L. 119–21, §70304(a)(4)(B)(i), inserted ", as determined on an annualized basis (pro-rata for part-time employees)," after "compensation".
+
+Subsec. (d)(3). Pub. L. 119–21, §70304(a)(4)(B)(ii), (C), added par. (3).
+
+Subsec. (i). Pub. L. 119–21, §70304(a)(5), struck out subsec. (i). Text read as follows: "This section shall not apply to wages paid in taxable years beginning after December 31, 2025."
+
 **2020**—Subsec. (i). Pub. L. 116–260 substituted "December 31, 2025" for "December 31, 2020".
 
 **2019**—Subsec. (i). Pub. L. 116–94 substituted "December 31, 2020" for "December 31, 2019".
@@ -145,6 +187,10 @@ Section 3(e) of the Fair Labor Standards Act of 1938, referred to in subsec. (d)
   
 
 #### **Statutory Notes and Related Subsidiaries**
+
+#### Effective Date of 2025 Amendment
+
+Pub. L. 119–21, title VII, §70304(c), July 4, 2025, 139 Stat. 197, provided that: "The amendments made by this section \[amending this section and section 280C of this title\] shall apply to taxable years beginning after December 31, 2025."
 
 #### Effective Date of 2020 Amendment
 

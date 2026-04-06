@@ -90,13 +90,19 @@ In carrying out subparagraph (A), the Secretary may not reduce the overall allot
 
 #### (2) Allocation to processors
 
-In the case of any increase or decrease in an allotment, each allocation to a processor of the allotment under section 1359dd of this title, and each proportionate share established with respect to the allotment under section 1359ff(c) of this title, shall be increased or decreased by the same percentage that the allotment is increased or decreased.
+#### (A) In general
+
+Except as provided in subparagraph (B), in the case of any increase or decrease in an allotment, each allocation to a processor of the allotment under section 1359dd of this title, and each proportionate share established with respect to the allotment under section 1359ff(c) of this title, shall be increased or decreased by the same percentage that the allotment is increased or decreased.
+
+#### (B) Exception
+
+If the Secretary makes an upward adjustment under paragraph (1)(A), in adjusting allocations among beet sugar processors, the Secretary shall give priority to beet sugar processors with available sugar.
 
 #### (3) Carry-over of reductions
 
 Whenever a marketing allotment for a crop year is required to be reduced during the crop year under this subsection, if, at the time of the reduction, the quantity of sugar marketed exceeds the processor's reduced allocation, the allocation of an allotment next established for the processor shall be reduced by the quantity of the excess sugar marketed.
 
-(Feb. 16, 1938, ch. 30, title III, §359c, as added Pub. L. 107–171, title I, §1403, May 13, 2002, 116 Stat. 189; amended Pub. L. 110–234, title I, §1403(c), May 22, 2008, 122 Stat. 983; Pub. L. 110–246, §4(a), title I, §1403(c), June 18, 2008, 122 Stat. 1664, 1712.)
+(Feb. 16, 1938, ch. 30, title III, §359c, as added Pub. L. 107–171, title I, §1403, May 13, 2002, 116 Stat. 189; amended Pub. L. 110–234, title I, §1403(c), May 22, 2008, 122 Stat. 983; Pub. L. 110–246, §4(a), title I, §1403(c), June 18, 2008, 122 Stat. 1664, 1712; Pub. L. 119–21, title I, §10312(c)(2), July 4, 2025, 139 Stat. 97.)
 
   
 
@@ -111,6 +117,8 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 A prior section 1359cc, act Feb. 16, 1938, ch. 30, title III, §359c, as added Pub. L. 101–624, title IX, §902, Nov. 28, 1990, 104 Stat. 3481; amended Pub. L. 102–237, title I, §111(e), Dec. 13, 1991, 105 Stat. 1832, related to establishment of marketing allotments, prior to the general amendment of this subpart by Pub. L. 107–171.
 
 #### Amendments
+
+**2025**—Subsec. (g)(2). Pub. L. 119–21 designated existing provisions as subpar. (A), inserted heading, substituted "Except as provided in subparagraph (B), in the case" for "In the case", and added subpar. (B).
 
 **2008**—Subsec. (b). Pub. L. 110–246, §1403(c)(1), added subsec. (b) and struck out former subsec. (b) which related to: in par. (1), establishment of the overall allotment quantity by deducting from the sum of the estimated sugar consumption and reasonable carryover stocks for the crop year 1,532,000 short tons, raw value, and carry-in stocks of sugar, including sugar in Commodity Credit Corporation inventory; and in par. (2), adjustment of overall allotment quantity to avoid the forfeiture of sugar to the Commodity Credit Corporation.
 

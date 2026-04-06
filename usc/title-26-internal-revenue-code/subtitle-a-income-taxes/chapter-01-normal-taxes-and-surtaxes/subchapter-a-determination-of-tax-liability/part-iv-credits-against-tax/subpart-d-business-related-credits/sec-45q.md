@@ -18,7 +18,7 @@ For purposes of section 38, the carbon oxide sequestration credit for any taxabl
 
 (B)(i) used by the taxpayer as a tertiary injectant in a qualified enhanced oil or natural gas recovery project and disposed of by the taxpayer in secure geological storage, or
 
-(ii) utilized by the taxpayer in a manner described in subsection (f)(5),
+(ii) utilized by the taxpayer in a manner described in subsection (f)(5), and
 
   
 
@@ -26,17 +26,11 @@ For purposes of section 38, the carbon oxide sequestration credit for any taxabl
 
 (A) captured by the taxpayer using carbon capture equipment which is originally placed in service at a qualified facility on or after the date of the enactment of the Bipartisan Budget Act of 2018, during the 12-year period beginning on the date the equipment was originally placed in service, and
 
-(B) disposed of by the taxpayer in secure geological storage and not used by the taxpayer as described in paragraph (4)(B), and
+(B)(i) disposed of by the taxpayer in secure geological storage and not used by the taxpayer as described in clause (ii) or (iii),
 
-  
+(ii) used by the taxpayer as a tertiary injectant in a qualified enhanced oil or natural gas recovery project and disposed of by the taxpayer in secure geological storage, or
 
-(4) the applicable dollar amount (as determined under subsection (b)(1)) per metric ton of qualified carbon oxide which is—
-
-(A) captured by the taxpayer using carbon capture equipment which is originally placed in service at a qualified facility on or after the date of the enactment of the Bipartisan Budget Act of 2018, during the 12-year period beginning on the date the equipment was originally placed in service, and
-
-(B)(i) used by the taxpayer as a tertiary injectant in a qualified enhanced oil or natural gas recovery project and disposed of by the taxpayer in secure geological storage, or
-
-(ii) utilized by the taxpayer in a manner described in subsection (f)(5).
+(iii) utilized by the taxpayer in a manner described in subsection (f)(5).
 
 #### (b) Applicable dollar amount; additional equipment; election
 
@@ -46,27 +40,13 @@ For purposes of section 38, the carbon oxide sequestration credit for any taxabl
 
 Except as provided in subparagraph (B) or (C), the applicable dollar amount shall be an amount equal to—
 
-(i) for any taxable year beginning in a calendar year after 2016 and before 2027—
+(i) for any taxable year beginning in a calendar year after 2024 and before 2027, $17, and
 
-(I) for purposes of paragraph (3) of subsection (a), $17, and
-
-(II) for purposes of paragraph (4) of such subsection, $12, and
-
-  
-
-(ii) for any taxable year beginning in a calendar year after 2026—
-
-(I) for purposes of paragraph (3) of subsection (a), an amount equal to the product of $17 and the inflation adjustment factor for such calendar year determined under section 43(b)(3)(B) for such calendar year, determined by substituting "2025" for "1990", and
-
-(II) for purposes of paragraph (4) of such subsection, an amount equal to the product of $12 and the inflation adjustment factor for such calendar year determined under section 43(b)(3)(B) for such calendar year, determined by substituting "2025" for "1990".
+(ii) for any taxable year beginning in a calendar year after 2026, an amount equal to the product of $17 and the inflation adjustment factor for such calendar year determined under section 43(b)(3)(B) for such calendar year, determined by substituting "2025" for "1990".
 
 #### (B) Special rule for direct air capture facilities
 
-In the case of any qualified facility described in subsection (d)(2)(A) which is placed in service after December 31, 2022, the applicable dollar amount shall be an amount equal to the applicable dollar amount otherwise determined with respect to such qualified facility under subparagraph (A), except that such subparagraph shall be applied—
-
-(i) by substituting "$36" for "$17" each place it appears, and
-
-(ii) by substituting "$26" for "$12" each place it appears.
+In the case of any qualified facility described in subsection (d)(2)(A) which is placed in service after December 31, 2022, the applicable dollar amount shall be an amount equal to the applicable dollar amount otherwise determined with respect to such qualified facility under subparagraph (A), except that such subparagraph shall be applied by substituting "$36" for "$17" each place it appears.
 
 #### (C) Applicable dollar amount for additional carbon capture equipment
 
@@ -92,7 +72,7 @@ In the case of a qualified facility placed in service before the date of the ena
 
   
 
-(B) for purposes of paragraphs (3)(A) and (4)(A) of such subsection, an amount (not less than zero) equal to the excess of—
+(B) for purposes of paragraph (3)(A) of such subsection, an amount (not less than zero) equal to the excess of—
 
 (i) the amount described in clause (i) of subparagraph (A), over
 
@@ -100,7 +80,7 @@ In the case of a qualified facility placed in service before the date of the ena
 
 #### (3) Election
 
-For purposes of determining the carbon oxide sequestration credit under this section, a taxpayer may elect to have the dollar amounts applicable under paragraph (1) or (2) of subsection (a) apply in lieu of the dollar amounts applicable under paragraph (3) or (4) of such subsection for each metric ton of qualified carbon oxide which is captured by the taxpayer using carbon capture equipment which is originally placed in service at a qualified facility on or after the date of the enactment of the Bipartisan Budget Act of 2018.
+For purposes of determining the carbon oxide sequestration credit under this section, a taxpayer may elect to have the dollar amounts applicable under paragraph (1) or (2) of subsection (a) apply in lieu of the dollar amount applicable under paragraph (3) of such subsection for each metric ton of qualified carbon oxide which is captured by the taxpayer using carbon capture equipment which is originally placed in service at a qualified facility on or after the date of the enactment of the Bipartisan Budget Act of 2018.
 
 #### (c) Qualified carbon oxide
 
@@ -276,7 +256,7 @@ For purposes of this section, utilization of qualified carbon oxide means—
 
 #### (i) In general
 
-For purposes of determining the amount of qualified carbon oxide utilized by the taxpayer under paragraph (2)(B)(ii) or (4)(B)(ii) of subsection (a), such amount shall be equal to the metric tons of qualified carbon oxide which the taxpayer demonstrates, based upon an analysis of lifecycle greenhouse gas emissions and subject to such requirements as the Secretary, in consultation with the Secretary of Energy and the Administrator of the Environmental Protection Agency, determines appropriate, were—
+For purposes of determining the amount of qualified carbon oxide utilized by the taxpayer under paragraph (2)(B)(ii) or (3)(B)(iii) of subsection (a), such amount shall be equal to the metric tons of qualified carbon oxide which the taxpayer demonstrates, based upon an analysis of lifecycle greenhouse gas emissions and subject to such requirements as the Secretary, in consultation with the Secretary of Energy and the Administrator of the Environmental Protection Agency, determines appropriate, were—
 
 (I) captured and permanently isolated from the atmosphere, or
 
@@ -318,13 +298,21 @@ Rules similar to the rule under section 45(b)(3) shall apply for purposes of thi
 
 #### (9) Election
 
-For purposes of paragraphs (3) and (4) of subsection (a), a person described in paragraph (3)(A)(ii) may elect, at such time and in such manner as the Secretary may prescribe, to have the 12–year period begin on the first day of the first taxable year in which a credit under this section is claimed with respect to carbon capture equipment which is originally placed in service at a qualified facility on or after the date of the enactment of the Bipartisan Budget Act of 2018 (after application of paragraph (6), where applicable) if—
+For purposes of subsection (a)(3), a person described in paragraph (3)(A)(ii) may elect, at such time and in such manner as the Secretary may prescribe, to have the 12–year period begin on the first day of the first taxable year in which a credit under this section is claimed with respect to carbon capture equipment which is originally placed in service at a qualified facility on or after the date of the enactment of the Bipartisan Budget Act of 2018 (after application of paragraph (6), where applicable) if—
 
 (A) no taxpayer claimed a credit under this section with respect to such carbon capture equipment for any prior taxable year,
 
 (B) the qualified facility at which such carbon capture equipment is placed in service is located in an area affected by a federally-declared disaster (as defined by section 165(i)(5)(A)) after the carbon capture equipment is originally placed in service, and
 
 (C) such federally-declared disaster results in a cessation of the operation of the qualified facility or the carbon capture equipment after such equipment is originally placed in service.
+
+#### (10) Restrictions relating to prohibited foreign entities
+
+No credit shall be determined under subsection (a) for any taxable year beginning after the date of enactment of this paragraph if the taxpayer is—
+
+(A) a specified foreign entity (as defined in section 7701(a)(51)(B)), or
+
+(B) a foreign-influenced entity (as defined in section 7701(a)(51)(D), determined without regard to clause (i)(II) thereof).
 
 #### (g) Application of section for certain carbon capture equipment
 
@@ -370,7 +358,7 @@ The requirements described in this subparagraph with respect to any qualified fa
 
 (i) the construction of such facility or equipment, and
 
-(ii) with respect to any taxable year, for any portion of such taxable year which is within the period described in paragraph (3)(A) or (4)(A) of subsection (a), the alteration or repair of such facility or such equipment,
+(ii) with respect to any taxable year, for any portion of such taxable year which is within the period described in subsection (a)(3)(A), the alteration or repair of such facility or such equipment,
 
   
 
@@ -398,7 +386,7 @@ The Secretary may prescribe such regulations and other guidance as may be necess
 
 (3) for purposes of subsection (d)(2)(B)(ii), adjust the baseline carbon oxide production with respect to any applicable electric generating unit at any electricity generating facility if, after the date on which the carbon capture equipment is placed in service, modifications which are chargeable to capital account are made to such unit which result in a significant increase or decrease in carbon oxide production.
 
-(Added Pub. L. 110–343, div. B, title I, §115(a), Oct. 3, 2008, 122 Stat. 3829; amended Pub. L. 111–5, div. B, title I, §1131(a), (b), Feb. 17, 2009, 123 Stat. 325; Pub. L. 113–295, div. A, title II, §209(j)(1), Dec. 19, 2014, 128 Stat. 4030; Pub. L. 115–123, div. D, title II, §41119(a), Feb. 9, 2018, 132 Stat. 162; Pub. L. 116–260, div. EE, title I, §121, Dec. 27, 2020, 134 Stat. 3051; Pub. L. 117–58, div. H, title IV, §80402(e), Nov. 15, 2021, 135 Stat. 1334; Pub. L. 117–169, title I, §13104(a)(1), (2)(A), (b)–(h), Aug. 16, 2022, 136 Stat. 1924–1928.)
+(Added Pub. L. 110–343, div. B, title I, §115(a), Oct. 3, 2008, 122 Stat. 3829; amended Pub. L. 111–5, div. B, title I, §1131(a), (b), Feb. 17, 2009, 123 Stat. 325; Pub. L. 113–295, div. A, title II, §209(j)(1), Dec. 19, 2014, 128 Stat. 4030; Pub. L. 115–123, div. D, title II, §41119(a), Feb. 9, 2018, 132 Stat. 162; Pub. L. 116–260, div. EE, title I, §121, Dec. 27, 2020, 134 Stat. 3051; Pub. L. 117–58, div. H, title IV, §80402(e), Nov. 15, 2021, 135 Stat. 1334; Pub. L. 117–169, title I, §13104(a)(1), (2)(A), (b)–(h), Aug. 16, 2022, 136 Stat. 1924–1928; Pub. L. 119–21, title VII, §70522(a), (b), July 4, 2025, 139 Stat. 279.)
 
 #### Inflation Adjusted Items for Certain Tax Years
 
@@ -412,7 +400,51 @@ For inflation adjustment of certain items in this section, see Internal Revenue 
 
 The date of the enactment of the Bipartisan Budget Act of 2018 and the date of the enactment of such Act, referred to in text, is the date of enactment of Pub. L. 115–123, which was approved Feb. 9, 2018.
 
+The date of enactment of this paragraph, referred to in subsec. (f)(10), is the date of enactment of Pub. L. 119–21, which was approved July 4, 2025.
+
 #### Amendments
+
+**2025**—Subsec. (a)(3)(B). Pub. L. 119–21, §70522(b)(1)(B), added subpar. (B) and struck out former subpar. (B) which read as follows: "disposed of by the taxpayer in secure geological storage and not used by the taxpayer as described in paragraph (4)(B), and".
+
+Subsec. (a)(4). Pub. L. 119–21, §70522(b)(1)(A), (C), struck out par. (4) which read as follows: "the applicable dollar amount (as determined under subsection (b)(1)) per metric ton of qualified carbon oxide which is—
+
+"(A) captured by the taxpayer using carbon capture equipment which is originally placed in service at a qualified facility on or after the date of the enactment of the Bipartisan Budget Act of 2018, during the 12-year period beginning on the date the equipment was originally placed in service, and
+
+"(B)(i) used by the taxpayer as a tertiary injectant in a qualified enhanced oil or natural gas recovery project and disposed of by the taxpayer in secure geological storage, or
+
+"(ii) utilized by the taxpayer in a manner described in subsection (f)(5)."
+
+Subsec. (b)(1)(A). Pub. L. 119–21, §70522(b)(2)(A)(i), added subpar. (A) and struck out former subpar. (A). Prior to amendment, text read as follows: "Except as provided in subparagraph (B) or (C), the applicable dollar amount shall be an amount equal to—
+
+"(i) for any taxable year beginning in a calendar year after 2016 and before 2027—
+
+"(I) for purposes of paragraph (3) of subsection (a), $17, and
+
+"(II) for purposes of paragraph (4) of such subsection, $12, and
+
+"(ii) for any taxable year beginning in a calendar year after 2026—
+
+"(I) for purposes of paragraph (3) of subsection (a), an amount equal to the product of $17 and the inflation adjustment factor for such calendar year determined under section 43(b)(3)(B) for such calendar year, determined by substituting '2025' for '1990', and
+
+"(II) for purposes of paragraph (4) of such subsection, an amount equal to the product of $12 and the inflation adjustment factor for such calendar year determined under section 43(b)(3)(B) for such calendar year, determined by substituting '2025' for '1990'."
+
+Subsec. (b)(1)(B). Pub. L. 119–21, §70522(b)(2)(A)(ii), substituted "shall be applied by substituting '$36' for '$17' each place it appears." for "shall be applied—
+
+"(i) by substituting '$36' for '$17' each place it appears, and
+
+"(ii) by substituting '$26' for '$12' each place it appears."
+
+Subsec. (b)(2)(B). Pub. L. 119–21, §70522(b)(2)(B), substituted "paragraph (3)(A)" for "paragraphs (3)(A) and (4)(A)" in introductory provisions.
+
+Subsec. (b)(3). Pub. L. 119–21, §70522(b)(2)(C), substituted "the dollar amount applicable under paragraph (3)" for "the dollar amounts applicable under paragraph (3) or (4)".
+
+Subsec. (f)(5)(B)(i). Pub. L. 119–21, §70522(b)(3)(A), substituted "(3)(B)(iii)" for "(4)(B)(ii)" in introductory provisions.
+
+Subsec. (f)(9). Pub. L. 119–21, §70522(b)(3)(B), substituted "subsection (a)(3)" for "paragraphs (3) and (4) of subsection (a)" in introductory provisions.
+
+Subsec. (f)(10). Pub. L. 119–21, §70522(a), added par. (10).
+
+Subsec. (h)(3)(A)(ii). Pub. L. 119–21, §70522(b)(4), substituted "subsection (a)(3)(A)" for "paragraph (3)(A) or (4)(A) of subsection (a)".
 
 **2022**—Subsec. (b)(1)(A). Pub. L. 117–169, §13104(c)(2)(A), substituted "Except as provided in subparagraph (B) or (C), the applicable dollar amount" for "The applicable dollar amount" in introductory provisions.
 
@@ -466,6 +498,14 @@ Subsec. (e). Pub. L. 111–5, §1131(b)(3), substituted "taken into account in a
 
 #### **Statutory Notes and Related Subsidiaries**
 
+#### Effective Date of 2025 Amendment
+
+Pub. L. 119–21, title VII, §70522(d), July 4, 2025, 139 Stat. 280, provided that:
+
+"(1) Restrictions relating to prohibited foreign entities.—The amendment made by subsection (a) \[amending this section\] shall apply to taxable years beginning after the date of enactment of this Act \[July 4, 2025\].
+
+"(2) Parity for different uses and utilizations of qualified carbon oxide.—The amendments made \[sic\] subsections (b) and (c) \[amending this section and section 6417 of this title\] shall apply to facilities or equipment placed in service after the date of enactment of this Act."
+
 #### Effective Date of 2022 Amendment
 
 Pub. L. 117–169, title I, §13104(i), Aug. 16, 2022, 136 Stat. 1929, provided that:
@@ -501,6 +541,8 @@ Section applicable to carbon dioxide captured after Oct. 3, 2008, see section 11
 #### Inflation Adjusted Items for Certain Years
 
 Provisions relating to inflation adjustment of items in this section for certain years were contained in the following:
+
+**2024**—Internal Revenue Notice 2024–39.
 
 **2023**—Internal Revenue Notice 2023–46.
 
