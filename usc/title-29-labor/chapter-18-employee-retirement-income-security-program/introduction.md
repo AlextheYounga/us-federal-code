@@ -42,7 +42,11 @@ Sec.
 
 1030\. Alternative methods of compliance.
 
+1030a. Eliminating unnecessary plan requirements related to unenrolled participants.
+
 1031\. Repeal and effective date.
+
+1032\. Notice and disclosure requirements with respect to lump sums.
 
         
 
@@ -172,6 +176,8 @@ Sec.
 
 1152\. Coordination of enforcement regarding violations of certain health care provider requirements; complaint process.
 
+1153\. Retirement Savings Lost and Found.
+
         
 
 #### part 6—continuation coverage and additional standards for group health plans
@@ -251,6 +257,18 @@ Sec.
 1191c. Regulations.
 
 1191d. Standardized reporting format.
+
+        
+
+#### part 8—pension-linked emergency savings accounts
+
+1193\. Pension-linked emergency savings accounts.
+
+1193a. Preemption of State anti-garnishment laws.
+
+1193b. Reporting and disclosure requirements.
+
+1193c. Report to Congress on emergency savings accounts.
 
         
 

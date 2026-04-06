@@ -460,6 +460,8 @@ Sec.
 
 277i. Report on water sharing.
 
+277j. Management of international transboundary water pollution.
+
         
 
 #### SUBCHAPTER V—GORGAS MEMORIAL LABORATORY
@@ -728,6 +730,8 @@ Sec.
 
 284cc. Nineteenth replenishment.
 
+284dd. Twentieth replenishment.
+
         
 
 #### SUBCHAPTER XIV—ASIAN DEVELOPMENT BANK
@@ -799,6 +803,8 @@ Sec.
 285ff. Tenth replenishment.
 
 285gg. Eleventh replenishment.
+
+285hh. Twelfth replenishment.
 
         
 
