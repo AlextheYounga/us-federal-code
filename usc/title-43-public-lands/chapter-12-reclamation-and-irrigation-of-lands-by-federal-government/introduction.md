@@ -668,7 +668,7 @@ Sec.
 
 509a. Project beneficiaries.
 
-509b. Additional Project Benefits Through the Construction of New or Supplementary Works.
+509b. Additional project benefits through the construction of new or supplementary works.
 
         
 

@@ -96,7 +96,7 @@ Sec.
 
 1752\. Grazing leases and permits.
 
-1753\. Grazing advisory boards.
+1753\. Omitted.
 
         
 

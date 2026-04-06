@@ -2,7 +2,7 @@
 
 (a) To the end of affording the responsible Federal, State, and local officers adequate notice of available Federal financial assistance for carrying out ongoing education activities and projects, appropriations for grants, contracts, or other payments under any applicable program are authorized to be included in the appropriations Act for the fiscal year preceding the fiscal year during which such activities and projects shall be carried out.
 
-(b) In order to effect a transition to the timing of appropriation action authorized by subsection (a) of this section, the application of this section may result in the enactment, in a fiscal year, of separate appropriations for an applicable program (whether in the same appropriations Act or otherwise) for two consecutive fiscal years.
+(b) In order to effect a transition to the timing of appropriation action authorized by subsection (a), the application of this section may result in the enactment, in a fiscal year, of separate appropriations for an applicable program (whether in the same appropriations Act or otherwise) for two consecutive fiscal years.
 
 (Pub. L. 90–247, title IV, §420, formerly §403, Jan. 2, 1968, 81 Stat. 814; Pub. L. 91–230, title IV, §401(a)(4), Apr. 13, 1970, 84 Stat. 165; renumbered §412, Pub. L. 92–318, title III, §301(a)(1), June 23, 1972, 86 Stat. 326; renumbered §411, Pub. L. 93–380, title V, §506(a)(1)(C), Aug. 21, 1974, 88 Stat. 562; renumbered §420 and amended Pub. L. 103–382, title II, §§212(b)(1), 231, Oct. 20, 1994, 108 Stat. 3913, 3914.)
 

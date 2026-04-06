@@ -8,7 +8,7 @@
 
   
 
-(b) The non-Federal share of the cost of any designs, plans, specifications or technical assistance provided under subsection (a) of this section shall be 50 percent.
+(b) The non-Federal share of the cost of any designs, plans, specifications or technical assistance provided under subsection (a) shall be 50 percent.
 
 (Pub. L. 99–662, title IX, §942, Nov. 17, 1986, 100 Stat. 4199.)
 
