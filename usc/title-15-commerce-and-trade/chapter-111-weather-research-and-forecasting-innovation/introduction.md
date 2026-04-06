@@ -12,6 +12,8 @@ Sec.
 
 8512\. Weather research and forecasting innovation.
 
+8512a. Learning excellence and good examples from new developers.
+
 8513\. Tornado warning improvement and extension program.
 
 8514\. Hurricane forecast improvement program.

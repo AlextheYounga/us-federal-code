@@ -170,6 +170,8 @@ Sec.
 
 584, 584a. Repealed.
 
+585\. Reserve component training at water resources development projects.
+
         
 
 #### SUBCHAPTER III—ACQUISITION OF LAND AND MATERIALS

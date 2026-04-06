@@ -138,6 +138,8 @@ Sec.
 
 #### Part D—National Programs
 
+Sec.
+
 3221\. Native American programs.
 
 3222\. Migrant and seasonal farmworker programs.
@@ -157,6 +159,8 @@ Sec.
 3226a. Re-enrollment in alternative school by high-school dropout.
 
 3227\. Authorization of appropriations.
+
+3228\. Worker ownership, readiness, and knowledge.
 
         
 

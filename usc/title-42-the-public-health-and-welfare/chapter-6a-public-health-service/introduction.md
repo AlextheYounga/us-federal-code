@@ -180,7 +180,11 @@ Sec.
 
 242b. General authority respecting research, evaluations, and demonstrations in health statistics, health services, and health care technology.
 
-242c to 242j. Repealed or Transferred.
+242c. Appointment and authority of the Director of the Centers for Disease Control and Prevention.
+
+242c–1. Advisory committee to the Director.
+
+242d to 242j. Repealed or Transferred.
 
 242k. National Center for Health Statistics.
 
@@ -211,6 +215,16 @@ Sec.
 242s. Centers for Disease Control and Prevention Office of Women's Health.
 
 242t. CDC surveillance and data collection for child, youth, and adult trauma.
+
+242u. Improving State, local, and Tribal information sharing.
+
+242v. Foreign talent recruitment programs.
+
+242v–1. Securing identifiable, sensitive information and addressing other national security risks related to research.
+
+242v–2. Protecting America's biomedical research enterprise.
+
+242v–3. Report on progress to address undue foreign influence.
 
         
 
@@ -274,7 +288,7 @@ Sec.
 
 247b–13. Prenatal and postnatal health.
 
-247b–13a. Screening and treatment for maternal depression.
+247b–13a. Screening and treatment for maternal mental health and substance use disorders.
 
 247b–14. Oral health promotion and disease prevention.
 
@@ -298,6 +312,8 @@ Sec.
 
 247b–23. National strategy and regional centers of excellence in vector-borne diseases.
 
+247b–24. Addressing factors related to improving health outcomes.
+
 247c. Sexually transmitted diseases; prevention and control projects and programs.
 
 247c–1. Infertility and sexually transmitted diseases.
@@ -308,7 +324,9 @@ Sec.
 
 247d–1. Vaccine tracking and distribution.
 
-247d–2, 247d–3. Repealed.
+247d–2. Earlier development of diagnostic tests.
+
+247d–3. Repealed.
 
 247d–3a. Improving State and local public health security.
 
@@ -338,7 +356,9 @@ Sec.
 
 247d–6e. Covered countermeasure process.
 
-247d–7. Demonstration program to enhance bioterrorism training, coordination, and readiness.
+247d–6f. Provision of medical countermeasures to Indian programs and facilities.
+
+247d–7. Repealed.
 
 247d–7a. Grants regarding training and education of certain health professionals.
 
@@ -361,6 +381,8 @@ Sec.
 247d–10. Pilot program for public health laboratories to detect fentanyl and other synthetic opioids.
 
 247d–11. State All Payer Claims Databases.
+
+247d–12. Coordination and collaboration regarding blood supply.
 
         
 
@@ -420,7 +442,7 @@ Sec.
 
 254c–3. Special diabetes programs for Indians.
 
-254c–4. Centers for strategies on facilitating utilization of preventive health services among various populations.
+254c–4. Repealed.
 
 254c–5. Epilepsy; seizure disorder.
 
@@ -834,7 +856,7 @@ Sec.
 
 280g–10. Community Preventive Services Task Force.
 
-280g–11. Grants to promote positive health behaviors and outcomes.
+280g–11. Awards to support community health workers and community health.
 
 280g–12. Primary Care Extension Program.
 
@@ -847,6 +869,8 @@ Sec.
 280g–16. Food Safety Integrated Centers of Excellence.
 
 280g–17. Designation and investigation of potential cancer clusters.
+
+280g–18. Maternal mental health hotline.
 
         
 
@@ -987,6 +1011,8 @@ Sec.
 283p. Population focused research.
 
 283q. Eureka prize competitions.
+
+283r. National Science Advisory Board for Biosecurity.
 
         
 
@@ -1198,6 +1224,8 @@ Sec.
 
 285f–4. Microbicide research and development.
 
+285f–5. Research centers for pathogens of pandemic concern.
+
         
 
 #### subpart 7—eunice kennedy shriver national institute of child health and human development
@@ -1223,6 +1251,8 @@ Sec.
 285g–9. Fragile X.
 
 285g–10. Investment in tomorrow's pediatric researchers.
+
+285g–11. Research on the health and development effects of media and related technology on infants, children, and adolescents.
 
         
 
@@ -1542,6 +1572,12 @@ Sec.
 
         
 
+#### Part J—Advanced Research Projects Agency–Health
+
+290c. Advanced Research Projects Agency–Health.
+
+        
+
 #### SUBCHAPTER III–A—SUBSTANCE ABUSE AND MENTAL HEALTH SERVICES ADMINISTRATION
 
 #### Part A—Organization and General Authorities
@@ -1549,6 +1585,10 @@ Sec.
 290aa. Substance Abuse and Mental Health Services Administration.
 
 290aa–0. National Mental Health and Substance Use Policy Laboratory.
+
+290aa–0a. Behavioral health crisis coordinating office.
+
+290aa–0b. Interdepartmental Serious Mental Illness Coordinating Committee.
 
 290aa–1. Advisory councils.
 
@@ -1564,13 +1604,17 @@ Sec.
 
 290aa–5. Grants for the benefit of homeless individuals.
 
-290aa–5a. Alcohol and drug prevention or treatment services for Indians and Native Alaskans.
+290aa–5a. Behavioral health and substance use disorder resources for Native Americans.
 
 290aa–5b to 290aa–14. Transferred or Repealed.
 
 290aa–15. Department of Health and Human Services grant accountability.
 
 290aa–16. Evaluation of performance of Department of Health and Human Services programs.
+
+290aa–17. Assisted outpatient treatment grant program for individuals with serious mental illness.
+
+290aa–18. Limitations on authority.
 
         
 
@@ -1584,7 +1628,7 @@ Sec.
 
 290bb–1a. Transferred.
 
-290bb–2. Priority substance abuse treatment needs of regional and national significance.
+290bb–2. Priority substance use disorder treatment needs of regional and national significance.
 
 290bb–2a. Medical treatment of narcotics addiction; report to Congress.
 
@@ -1646,27 +1690,31 @@ Sec.
 
 290bb–36a. Suicide prevention for youth.
 
-290bb–36b. Mental health and substance use disorder services on campus.
+290bb–36b. Mental health and substance use disorder services for students in higher education.
 
 290bb–36c. National Suicide Prevention Lifeline program.
 
 290bb–36d. Treatment Referral Routing Service.
 
-290bb–37. Strengthening community crisis response systems.
+290bb–37. Mental health crisis response partnership pilot program.
 
 290bb–38. Grants for jail diversion programs.
 
-290bb–39. Repealed.
+290bb–39. Peer-supported mental health services.
+
+290bb–39a. Best practices for behavioral and mental health intervention teams.
 
 290bb–40. Grants for the integrated treatment of serious mental illness and co-occurring substance abuse.
 
 290bb–41. Mental health awareness training grants.
 
-290bb–42. Integration incentive grants and cooperative agreements.
+290bb–42. Improving uptake and patient access to integrated care services.
 
 290bb–43. Adult suicide prevention.
 
 290bb–44. Assertive community treatment grant program.
+
+290bb–45. Center of Excellence for Eating Disorders for education and training on eating disorders.
 
 290cc to 290cc–13. Repealed or Transferred.
 
@@ -1720,7 +1768,7 @@ Sec.
 
 290dd–4. Program to support coordination and continuation of care for drug overdose patients.
 
-290ee. Opioid overdose reversal medication access and education grant programs.
+290ee. Opioid overdose reversal medication access, education, and co-prescribing grant programs.
 
 290ee–1. First responder training.
 
@@ -1730,9 +1778,13 @@ Sec.
 
 290ee–3. State demonstration grants for comprehensive opioid abuse response.
 
-290ee–4. Mental and behavioral health outreach and education on college campuses.
+290ee–3a. Grant program for State and Tribal response to opioid use disorders.
+
+290ee–4. Mental and behavioral health outreach and education at institutions of higher education.
 
 290ee–5. National recovery housing best practices.
+
+290ee–5a. Sobriety treatment and recovery teams.
 
 290ee–6. Regional Centers of Excellence in Substance Use Disorder Education.
 
@@ -1742,7 +1794,7 @@ Sec.
 
 290ee–9. Services for families and patients in crisis.
 
-290ee–10. Sobriety treatment and recovery teams.
+290ee–10. Transferred.
 
         
 
@@ -2000,7 +2052,7 @@ Sec.
 
 294a. Area health education centers.
 
-294b. Continuing educational support for health professionals serving in underserved communities.
+294b. Continuing educational support for health professionals serving in rural and underserved communities.
 
 294c. Education and training relating to geriatrics.
 
@@ -2015,6 +2067,8 @@ Sec.
 294g, 294h. Repealed.
 
 294i. Program for education and training in pain care.
+
+294i–1. Emergency department alternatives to opioids program.
 
 294j. Demonstration program to integrate quality improvement and patient safety training into clinical education of health professionals.
 
@@ -2406,13 +2460,13 @@ Sec.
 
 300d–1, 300d–2. Repealed.
 
-300d–3. Establishment of programs for improving trauma care in rural areas.
+300d–3. Grants to improve trauma care in rural areas.
 
 300d–4. Emergency medical services.
 
 300d–5. Competitive grants for trauma systems for the improvement of trauma care.
 
-300d–6. Competitive grants for regionalized systems for emergency care response.
+300d–6. Competitive grants for trauma centers.
 
         
 
@@ -2878,7 +2932,7 @@ Sec.
 
         
 
-#### Part B—Block Grants Regarding Mental Health and Substance Abuse
+#### Part B—Block Grants Regarding Mental Health and Substance Use
 
 #### subpart i—block grants for community mental health services
 
@@ -2904,13 +2958,13 @@ Sec.
 
         
 
-#### subpart ii—block grants for prevention and treatment of substance abuse
+#### subpart ii—block grants for substance use prevention, treatment, and recovery services
 
 300x–21. Formula grants to States.
 
 300x–22. Certain allocations.
 
-300x–23. Intravenous substance abuse.
+300x–23. Intravenous substance use.
 
 300x–24. Requirements regarding tuberculosis and human immunodeficiency virus.
 
@@ -2980,7 +3034,7 @@ Sec.
 
         
 
-#### Part C—Certain Programs Regarding Mental Health and Substance Abuse
+#### Part C—Certain Programs Regarding Mental Health and Substance Use
 
 #### subpart i—data infrastructure development
 
@@ -3674,6 +3728,8 @@ Sec.
 
 300hh–2. Enhancing medical surge capacity.
 
+300hh–3. Office of Pandemic Preparedness and Response Policy.
+
         
 
 #### Part B—All-Hazards Emergency Preparedness and Response
@@ -3713,6 +3769,14 @@ Sec.
 300hh–32. Enhanced support to assist health departments in addressing vector-borne diseases.
 
 300hh–33. Public health data system modernization.
+
+300hh–34. Genomic sequencing, analytics, and public health surveillance of pathogens program.
+
+300hh–35. Epidemic forecasting and outbreak analytics.
+
+300hh–36. Leadership exchange pilot for public health and medical preparedness and response positions at the Department of Health and Human Services.
+
+300hh–37. One Health framework.
 
         
 
@@ -3859,5 +3923,7 @@ Sec.
 #### Part D—Funding
 
 300mm–61. World Trade Center Health Program Fund.
+
+300mm–62. Supplemental fund.
 
         

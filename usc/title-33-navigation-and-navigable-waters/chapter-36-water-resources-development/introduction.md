@@ -80,6 +80,8 @@ Sec.
 
 2238d. Maintenance of harbors of refuge.
 
+2238e. Additional projects for underserved community harbors.
+
 2239\. Repealed.
 
 2240\. Emergency response services.
@@ -144,6 +146,10 @@ Sec.
 
 2281\. Matters to be addressed in planning.
 
+2281a. Tribal Liaison.
+
+2281b. Corps of engineers support for underserved communities; outreach.
+
 2282\. Feasibility reports.
 
 2282a. Planning.
@@ -159,6 +165,8 @@ Sec.
 2282e. Post-authorization change reports.
 
 2282f. Review of resiliency assessments.
+
+2282g. Scope of feasibility studies.
 
 2283\. Fish and wildlife mitigation.
 
@@ -200,6 +208,8 @@ Sec.
 
 2295\. Compilation of laws; annual reports.
 
+2295a. Policy and technical standards.
+
 2296\. Acquisition of recreation lands.
 
 2297\. Operation and maintenance on recreation lands.
@@ -234,7 +244,7 @@ Sec.
 
 2312\. Comments on certain changes in operations of reservoirs.
 
-2313\. Collaborative research and development.
+2313\. Research and development.
 
 2313a. Engineering and environmental innovations of national significance.
 
@@ -322,11 +332,13 @@ Sec.
 
 2330c. Aquatic ecosystem restoration.
 
+2330d. Public recreational amenities in ecosystem restoration projects.
+
 2331\. Use of continuing contracts for construction of certain projects.
 
 2331a. Initiating work on separable elements.
 
-2332\. Flood mitigation and riverine restoration program.
+2332\. Shoreline and riverine protection and restoration.
 
 2333\. Irrigation diversion protection and fisheries enhancement assistance.
 
@@ -374,6 +386,8 @@ Sec.
 
 2348\. Project acceleration.
 
+2348a. NEPA reporting.
+
 2349\. Categorical exclusions in emergencies.
 
 2350\. Corrosion prevention.
@@ -381,6 +395,8 @@ Sec.
 2351\. Durability, sustainability, and resilience.
 
 2351a. Operation and maintenance of existing infrastructure.
+
+2351b. Federal breakwaters and jetties.
 
 2352\. Funding to process permits.
 
@@ -393,5 +409,7 @@ Sec.
 2355\. Prior project authorization.
 
 2356\. Project consultation.
+
+2357\. Managed aquifer recharge study and working group.
 
         

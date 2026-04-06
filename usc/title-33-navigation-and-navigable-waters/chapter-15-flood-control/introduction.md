@@ -46,6 +46,8 @@ Sec.
 
 701b–16. Management of flood risk reduction projects.
 
+701b–17. Corps of Engineers Western Water Cooperative Committee.
+
 701c. Rights-of-way, easements, etc.; acquisition by local authorities; maintenance and operation; protection of United States from liability for damages; requisites to run-off and water-flow retardation and soil erosion prevention assistance.
 
 701c–1. Acquirement of titles for certain projects and to lands, easements, rights-of-way; reimbursement of local agencies.
@@ -104,7 +106,7 @@ Sec.
 
 701q–1. Repair and restoration of embankments.
 
-701r. Protection of highways, bridge approaches, public works, and nonprofit public services.
+701r. Protection of highways, bridge approaches, lighthouses, public works, and nonprofit public services.
 
 701r–1. Utilization of public roads.
 

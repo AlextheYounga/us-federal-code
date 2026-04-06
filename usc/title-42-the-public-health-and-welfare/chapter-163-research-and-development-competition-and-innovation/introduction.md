@@ -332,6 +332,8 @@ Sec.
 
 19221\. Strategy and report on the nation's economic security, science, research, and innovation to support the national security strategy.
 
+19222\. National research and development strategy for distributed ledger technology.
+
         
 
 #### Part C—Research Security

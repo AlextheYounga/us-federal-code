@@ -102,7 +102,7 @@ Sec.
 
 1863\. Northwest Atlantic Ocean Fisheries Reinvestment Program.
 
-1864\. Regional coastal disaster assistance, transition, and recovery program.
+1864\. Repealed.
 
 1865\. Bycatch reduction engineering program.
 
@@ -135,6 +135,8 @@ Sec.
 1884\. Deep sea coral research and technology program.
 
 1885\. Seafood import monitoring program.
+
+1885a. Report on Seafood Import Monitoring Program.
 
         
 

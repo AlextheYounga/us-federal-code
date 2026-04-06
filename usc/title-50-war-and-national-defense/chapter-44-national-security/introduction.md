@@ -48,6 +48,8 @@ Sec.
 
 3034a. Functional Managers for the intelligence community.
 
+3034b. Intelligence Community Chief Data Officer.
+
 3035\. Central Intelligence Agency.
 
 3036\. Director of the Central Intelligence Agency.
@@ -106,9 +108,11 @@ Sec.
 
 3058\. National Intelligence Centers.
 
-3059\. Foreign Malign Influence Response Center.
+3059\. Foreign Malign Influence Center.
 
 3060\. Climate Security Advisory Council.
+
+3061\. Counterintelligence and national security protections for intelligence community grant funding.
 
         
 
@@ -133,6 +137,8 @@ Sec.
 3077\. Effective date.
 
 3078\. Repealing and savings provisions.
+
+3079\. Insider threat policy compliance and reporting.
 
         
 
@@ -170,7 +176,7 @@ Sec.
 
 3105\. Summary of intelligence relating to terrorist recidivism of detainees held at United States Naval Station, Guantanamo Bay, Cuba.
 
-3105a. Repealed.
+3105a. Classified intelligence budget justification materials.
 
 3106\. Dates for submittal of various annual and semiannual reports to the congressional intelligence committees.
 
@@ -185,6 +191,10 @@ Sec.
 3111\. Briefings and notifications on counterintelligence activities of the Federal Bureau of Investigation.
 
 3112\. Annual reports on the domestic activities of the intelligence community.
+
+3113\. Unfunded priorities of the intelligence community: annual report.
+
+3114\. Submission of covered documents and classified annexes.
 
         
 
@@ -306,6 +316,8 @@ Sec.
 
 3232\. Counterintelligence initiatives.
 
+3232a. Measures to mitigate counterintelligence threats from proliferation and use of foreign commercial spyware.
+
 3233\. Misuse of the Office of the Director of National Intelligence name, initials, or seal.
 
 3234\. Prohibited personnel practices in the intelligence community.
@@ -316,7 +328,7 @@ Sec.
 
 3237\. Annual reports on influence operations and campaigns in the United States by the Chinese Communist Party.
 
-3237a. Annual reports on security services of the People's Republic of China in the Hong Kong Special Administrative Region.
+3237a. Repealed.
 
 3238\. Annual reports on influence operations and campaigns in the United States by the Russian Federation.
 

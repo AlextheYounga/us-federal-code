@@ -22,6 +22,8 @@ Sec.
 
 3009\. Use of recruiting materials for public relations.
 
+3010\. Awards and decorations.
+
         
 
 #### SUBCHAPTER II—APPOINTMENT AND PROMOTION OF OFFICERS
@@ -30,7 +32,7 @@ Sec.
 
 3022\. Personnel boards.
 
-3023\. Promotion of ensigns to grade of lieutenant (junior grade).
+3023\. Separation of ensigns found not fully qualified.
 
 3024\. Promotion by selection to permanent grades above lieutenant (junior grade).
 
@@ -117,5 +119,7 @@ Sec.
 3079–1. Limitation on educational assistance.
 
 3079a. Treatment of commission in commissioned officer corps as employment in Administration for purposes of certain hiring decisions.
+
+3079b. Shore leave for professional mariners.
 
         
