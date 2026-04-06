@@ -10,6 +10,8 @@ B. Fines 3611
 
 C. Imprisonment 3621
 
+D. Risk and Needs Assessment 2 3631
+
         
 
 #### Prior Provisions
@@ -44,4 +46,10 @@ Section 3623, added Pub. L. 98–596, §6(a), Oct. 30, 1984, 98 Stat. 3137, rela
 
 Section 3624, added Pub. L. 98–596, §6(a), Oct. 30, 1984, 98 Stat. 3138, related to security for stayed fine.
 
+#### Amendments
+
+**2018**—Pub. L. 115–391, title I, §101(b), Dec. 21, 2018, 132 Stat. 5208, added item for subchapter D.
+
 [1 Editorially supplied.](#CHAPTER229_1)
+
+[2 So in original. Does not conform to subchapter heading.](#CHAPTER229_2)

@@ -68,6 +68,8 @@ Sec.
 
 5347\. Reimbursement to school districts for educating non-resident students.
 
+5348\. Computation of student count.
+
         
 
 #### SUBCHAPTER III—INDIAN EDUCATION ASSISTANCE
