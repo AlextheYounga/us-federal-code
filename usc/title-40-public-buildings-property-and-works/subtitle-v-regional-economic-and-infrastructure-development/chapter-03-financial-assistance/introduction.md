@@ -1,4 +1,4 @@
-### **CHAPTER 3[1](#CHAPTER3_1_target)**—FINANCIAL ASSISTANCE
+### **CHAPTER 3 [1](#CHAPTER3 _1_target)**—FINANCIAL ASSISTANCE
 
 Sec.
 
@@ -16,4 +16,4 @@ Sec.
 
         
 
-[1 So in original. Probably should be "155". Another chapter 3 is set out in subtitle I of this title.](#CHAPTER3_1)
+[1 So in original. Probably should be "155". Another chapter 3 is set out in subtitle I of this title.](#CHAPTER3 _1)
