@@ -16,6 +16,8 @@ Sec.
 
         
 
+#### **Editorial Notes**
+
 #### Codification
 
 This chapter is comprised of Pub. L. 106–193, as amended generally by Pub. L. 109–58, title IX, §968(a), Aug. 8, 2005, 119 Stat. 894, known as the Methane Hydrate Research and Development Act of 2000, which was formerly set out as a note under section 1902 of this title.

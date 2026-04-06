@@ -4,6 +4,10 @@ Nothing in sections 185, 221,[1](#236a_1_target) 223, 223a,[1](#236a_1_target) a
 
 (Aug. 21, 1935, ch. 599, §3, 49 Stat. 679.)
 
+  
+
+#### **Editorial Notes**
+
 #### References in Text
 
 Section 221 of this title, referred to in text, was omitted from the Code.

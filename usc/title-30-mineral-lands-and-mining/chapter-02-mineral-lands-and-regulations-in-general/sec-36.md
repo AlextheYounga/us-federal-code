@@ -4,9 +4,17 @@ Legal subdivisions of forty acres may be subdivided into ten-acre tracts; and tw
 
 (R.S. §2330; Mar. 3, 1891, ch. 561, §4, 26 Stat. 1097.)
 
+  
+
+#### **Editorial Notes**
+
 #### Codification
 
 R.S. §2330 derived from act July 9, 1870, ch. 235, §12, 16 Stat. 217.
+
+  
+
+#### **Statutory Notes and Related Subsidiaries**
 
 #### Submerged Lands Act
 
