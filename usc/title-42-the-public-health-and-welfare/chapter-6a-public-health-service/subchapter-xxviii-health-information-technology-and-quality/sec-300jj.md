@@ -54,7 +54,7 @@ The term "National Coordinator" means the head of the Office of the National Coo
 
 #### (12) Pharmacist
 
-The term "pharmacist" has the meaning given such term in section 384(2) of title 21.
+The term "pharmacist" has the meaning given such term in section 384(2) [3](#300jj_3_target) of title 21.
 
 #### (13) Qualified electronic health record
 
@@ -72,7 +72,7 @@ The term "qualified electronic health record" means an electronic record of heal
 
 (iv) to exchange electronic health information with, and integrate such information from other sources.
 
-#### (15) [3](#300jj_3_target) State
+#### (15) [4](#300jj_4_target) State
 
 The term "State" means each of the several States, the District of Columbia, Puerto Rico, the Virgin Islands, Guam, American Samoa, and the Northern Mariana Islands.
 
@@ -168,4 +168,6 @@ Pub. L. 111–5, div. A, title XIII, §13103, as added by Pub. L. 114–255, div
 
 [2 So in original. Probably should be followed by a period.](#300jj_2)
 
-[3 So in original. There is no par. (14).](#300jj_3)
+[3 So in original. Probably should be "(a)(2)".](#300jj_3)
+
+[4 So in original. There is no par. (14).](#300jj_4)
