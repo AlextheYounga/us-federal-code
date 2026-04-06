@@ -4,7 +4,7 @@ United States Code Document
 
 # FEDERAL RULES OF BANKRUPTCY PROCEDURE
 
-(Effective August 1, 1983, as amended to December 1, 2017)
+(Effective August 1, 1983, as amended to January 2, 2018)
 
 #### Historical Note
 

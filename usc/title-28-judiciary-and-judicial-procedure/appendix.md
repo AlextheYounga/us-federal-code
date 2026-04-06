@@ -34,7 +34,7 @@ Pub. L. 96–190, Feb. 12, 1980, 94 Stat. 17, known as the Dispute Resolution Ac
 
 # FEDERAL RULES OF APPELLATE PROCEDURE
 
-(As amended to December 1, 2017)
+(As amended to January 2, 2018)
 
 #### Historical Note
 
@@ -4600,7 +4600,7 @@ Appendix: Length Limits Stated in the Federal Rules of Appellate Procedure is se
 
 # FEDERAL RULES OF CIVIL PROCEDURE
 
-(As amended to December 1, 2017)
+(As amended to January 2, 2018)
 
 #### Historical Note
 
@@ -17559,7 +17559,7 @@ The times set in the former rule at 20 days have been revised to 21 days. See th
 
 # FEDERAL RULES OF EVIDENCE
 
-(As amended to December 1, 2017)
+(As amended to January 2, 2018)
 
 #### Effective Date and Application of Rules
 
