@@ -222,7 +222,7 @@ Sec.
 
 #### SUBCHAPTER VII—MISCELLANEOUS PROVISIONS
 
-21141\. State defined.
+21141\. "State" defined.
 
 21142\. Audits and repayment of funds.
 
