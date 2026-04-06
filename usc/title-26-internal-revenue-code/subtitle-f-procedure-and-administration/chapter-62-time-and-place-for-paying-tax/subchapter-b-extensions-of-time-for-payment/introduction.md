@@ -20,6 +20,8 @@ Sec.
 
         
 
+#### **Editorial Notes**
+
 #### Amendments
 
 **1981**—Pub. L. 97–34, title IV, §422(e)(5)(C), Aug. 13, 1981, 95 Stat. 316, substituted in item 6166 "Extension of time" for "Alternate extension of time" and struck out item 6166A "Extension of time for payment of estate tax where estate consists largely of interest in closely held business".

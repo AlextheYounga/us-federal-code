@@ -20,6 +20,8 @@ Sec.
 
         
 
+#### **Editorial Notes**
+
 #### Amendments
 
 **2017**—Pub. L. 115–97, title I, §§13511(b)(2)(A), 13516(a), Dec. 22, 2017, 131 Stat. 2142, 2144, struck out items 844 "Special loss carryover rules" and 847 "Special estimated tax payments".

@@ -10,6 +10,10 @@ Chapter Sec. 1
 
         
 
+  
+
+#### **Editorial Notes**
+
 #### Amendments
 
 **1976**—Pub. L. 94–455, title XIX, §1907(b)(1), Oct. 4, 1976, 90 Stat. 1836, struck out "Internal Revenue" in heading of subtitle G.

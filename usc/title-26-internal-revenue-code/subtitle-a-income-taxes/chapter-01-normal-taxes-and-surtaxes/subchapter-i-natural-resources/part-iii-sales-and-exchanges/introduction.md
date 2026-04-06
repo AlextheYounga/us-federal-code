@@ -8,6 +8,8 @@ Sec.
 
         
 
+#### **Editorial Notes**
+
 #### Amendments
 
 **1976**—Pub. L. 94–455, title XIX, §1901(b)(22)(A), Oct. 4, 1976, 90 Stat. 1798, struck out item 632 "Sale of oil or gas properties".

@@ -10,6 +10,8 @@ Sec.
 
         
 
+#### **Editorial Notes**
+
 #### Amendments
 
 **2014**—Pub. L. 113–295, div. B, title I, §102(e)(4), (6), Dec. 19, 2014, 128 Stat. 4062, substituted "CERTAIN" for "HIGHER EDUCATION" in heading and added item 529A.

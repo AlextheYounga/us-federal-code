@@ -12,6 +12,8 @@ Sec.
 
         
 
+#### **Editorial Notes**
+
 #### Amendments
 
 **1996**—Pub. L. 104–168, title XII, §1209(b), July 30, 1996, 110 Stat. 1474, substituted "Expenses of detection of underpayments and fraud, etc." for "Expenses of detection and punishment of frauds." in item 7623.

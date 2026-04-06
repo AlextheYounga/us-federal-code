@@ -26,6 +26,8 @@ Sec.
 
         
 
+#### **Editorial Notes**
+
 #### Amendments
 
 **2004**—Pub. L. 108–357, title VIII, §848(b), Oct. 22, 2004, 118 Stat. 1606, added item 470.

@@ -20,6 +20,8 @@ Sec.
 
         
 
+#### **Editorial Notes**
+
 #### Amendments
 
 **2018**—Pub. L. 115–141, div. U, title IV, §401(a)(81), Mar. 23, 2018, 132 Stat. 1188, substituted "Collectively bargained plans, etc." for "Collectively bargained plans" in item 413.

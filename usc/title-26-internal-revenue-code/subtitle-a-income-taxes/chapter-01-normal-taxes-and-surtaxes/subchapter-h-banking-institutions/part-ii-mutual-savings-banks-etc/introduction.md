@@ -16,6 +16,8 @@ Sec.
 
         
 
+#### **Editorial Notes**
+
 #### Amendments
 
 **1996**—Pub. L. 104–188, title I, §1616(b)(16), Aug. 20, 1996, 110 Stat. 1857, struck out items 595 "Foreclosure on property securing loans" and 596 "Limitation on dividends received deduction".
