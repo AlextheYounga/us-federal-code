@@ -76,6 +76,8 @@ Chap. Sec.
 
 507\. Law Enforcement Suicide Data Collection 50701
 
+509\. Confidentiality Opportunities for Peer Support Counseling 50901
+
         
 
 ## Subtitle VI—Other Crime Control and Law Enforcement Matters
