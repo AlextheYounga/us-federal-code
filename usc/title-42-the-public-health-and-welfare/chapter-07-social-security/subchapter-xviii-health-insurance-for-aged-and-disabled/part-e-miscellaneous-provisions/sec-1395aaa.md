@@ -78,6 +78,8 @@ By not later than March 1 of each year (beginning with 2009), the entity shall s
 
 (VI) the matters described in clauses (i) and (ii) of paragraph (7)(A).
 
+  
+
 (ii) An itemization of financial information for the fiscal year ending September 30 of the preceding year, including—
 
 (I) annual revenues of the entity (including any government funding, private sector contributions, grants, membership revenues, and investment revenue);
@@ -85,6 +87,8 @@ By not later than March 1 of each year (beginning with 2009), the entity shall s
 (II) annual expenses of the entity (including grants paid, benefits paid, salaries or other compensation, fundraising expenses, and overhead costs); and
 
 (III) a breakdown of the amount awarded per contracted task order and the specific projects funded in each task order assigned to the entity.
+
+  
 
 (iii) Any updates or modifications of internal policies and procedures of the entity as they relate to the duties of the entity under this section, including—
 
