@@ -56,6 +56,8 @@ Sec.
 
 44926\. Appeal and redress process for passengers wrongly delayed or prohibited from boarding a flight.
 
+44927\. Expedited screening for severely injured or disabled members of the Armed Forces and severely injured or disabled veterans.
+
         
 
 #### SUBCHAPTER II—ADMINISTRATION AND PERSONNEL
@@ -94,7 +96,9 @@ Sec.
 
 #### Amendments
 
-**2013**—Pub. L. 112–271, §2(b), Jan. 14, 2013, 126 Stat. 2447, substituted “Disposition of unclaimed money and clothing” for “Disposition of unclaimed money” in item 44945.
+**2013**—Pub. L. 113–27, §2(b), Aug. 9, 2013, 127 Stat. 504, which directed amendment of analysis for subchapter I of chapter 449 by adding item 44927 after item 44926, was executed by adding item 44927 to analysis for this chapter to reflect the probable intent of Congress.
+
+Pub. L. 112–271, §2(b), Jan. 14, 2013, 126 Stat. 2447, substituted “Disposition of unclaimed money and clothing” for “Disposition of unclaimed money” in item 44945.
 
 **2007**—Pub. L. 110–53, title XVI, §1606(b), Aug. 3, 2007, 121 Stat. 483, added item 44926.
 

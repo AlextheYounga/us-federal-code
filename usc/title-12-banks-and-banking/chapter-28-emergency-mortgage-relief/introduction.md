@@ -18,7 +18,7 @@ Sec.
 
 2708\. Expiration date.
 
-2709, 2710. Repealed
+2709, 2710. Repealed.
 
 2711\. Nonapplicability of other laws.
 

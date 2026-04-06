@@ -207,3 +207,5 @@ Amendment by Pub. L. 100–50 effective as if enacted as part of the Higher Educ
 Section effective Oct. 17, 1986, except as otherwise provided, see section 2 of Pub. L. 99–498, set out as a note under section 1001 of this title.
 
 Subsection (a)(9) of this section applicable only to loans made for periods of enrollment beginning on or after July 1, 1987, see section 405(b) of Pub. L. 99–498, set out as a note under section 1087dd of this title.
+
+[1 See References in Text note below.](#1087cc_1)
