@@ -1,4 +1,4 @@
-### §951A. Global Intangible Low-Taxed Income Included in Gross Income of United States shareholders
+### §951A. Global intangible low-taxed income included in gross income of United States shareholders
 
 #### (a) In general
 
