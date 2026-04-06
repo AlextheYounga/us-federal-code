@@ -4,9 +4,17 @@ A Council of National Defense is established, for the coordination of industries
 
 (Aug. 29, 1916, ch. 418, §2, 39 Stat. 649; July 26, 1947, ch. 343, title II, §205(a), 61 Stat. 501.)
 
+  
+
+#### **Editorial Notes**
+
 #### Codification
 
 Sections 1 to 5 of this title are from section 2 of act Aug. 29, 1916, popularly known as the Army Appropriation Act for the fiscal year 1916.
+
+  
+
+#### **Statutory Notes and Related Subsidiaries**
 
 #### Change of Name
 

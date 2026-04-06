@@ -130,7 +130,7 @@ Any reference to a Sector Specific Agency (including any permutations or conjuga
 
 (A) be a reference to the Sector Risk Management Agency of the relevant critical infrastructure sector; and
 
-(B) have the meaning give such term in section 651(5) of this title.
+(B) have the meaning give [2](#652a_2_target) such term in section 651(5) of this title.
 
 #### (4) Omitted
 
@@ -151,3 +151,5 @@ Section was enacted as part of the William M. (Mac) Thornberry National Defense 
 Section is comprised of section 9002 of Pub. L. 116–283. Subsec. (c)(1) of section 9002 of Pub. L. 116–283 enacted section 665d of this title. Subsec. (c)(2) of section 9002 of Pub. L. 116–283 amended sections 195f, 321m, 651, 652, and 664 of this title. Subsec. (c)(4) of section 9002 of Pub. L. 116–283 amended the table of contents in section 1(b) of the Homeland Security Act of 2002.
 
 [1 So in original. Section 651(5) of this title defines "Sector Risk Management Agency".](#652a_1)
+
+[2 So in original. Probably should be "given".](#652a_2)

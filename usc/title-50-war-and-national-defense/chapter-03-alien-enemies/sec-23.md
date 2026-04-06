@@ -4,6 +4,10 @@ After any such proclamation has been made, the several courts of the United Stat
 
 (R.S. §4069.)
 
+  
+
+#### **Editorial Notes**
+
 #### Codification
 
 R.S. §4069 derived from act July 6, 1798, ch. 66, §2, 1 Stat. 577.
