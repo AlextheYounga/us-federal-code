@@ -114,23 +114,23 @@ The Commission shall—
 
 Nothing in this section shall require the Commission to agree to or act upon any finding or recommendation of the Committee.
 
-#### (i) Chapter 10 of title 5
+#### (i) Federal Advisory Committee Act
 
-Chapter 10 of title 5 shall not apply with respect to the Committee and its activities.
+The Federal Advisory Committee Act (5 U.S.C. App.) shall not apply with respect to the Committee and its activities.
 
 #### (j) Authorization of appropriations
 
 There is authorized to be appropriated to the Commission such sums as are necessary to carry out this section.
 
-(June 6, 1934, ch. 404, title I, §39, as added Pub. L. 111–203, title IX, §911, July 21, 2010, 124 Stat. 1822; amended Pub. L. 117–286, §4(a)(64), Dec. 27, 2022, 136 Stat. 4312.)
+(June 6, 1934, ch. 404, title I, §39, as added Pub. L. 111–203, title IX, §911, July 21, 2010, 124 Stat. 1822.)
 
   
 
 #### **Editorial Notes**
 
-#### Amendments
+#### References in Text
 
-**2022**—Subsec. (i). Pub. L. 117–286 substituted "Chapter 10 of title 5" for "Federal Advisory Committee Act" in heading and "Chapter 10 of title 5" for "The Federal Advisory Committee Act (5 U.S.C. App.)" in text.
+The Federal Advisory Committee Act, referred to in subsec. (i), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
   
 
