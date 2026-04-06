@@ -60,7 +60,11 @@ When used in this subchapter, unless the context otherwise requires—
 
 Whenever pursuant to this subchapter the Commission is engaged in rulemaking and is required to consider or determine whether an action is necessary or appropriate in the public interest, the Commission shall also consider, in addition to the protection of investors, whether the action will promote efficiency, competition, and capital formation.
 
-(May 27, 1933, ch. 38, title I, §2, 48 Stat. 74; June 6, 1934, ch. 404, title II, §201, 48 Stat. 905; Aug. 10, 1954, ch. 667, title I, §§1–4, 68 Stat. 683, 684; Pub. L. 86–70, §12(a), June 25, 1959, 73 Stat. 143; Pub. L. 86–624, §7(a), July 12, 1960, 74 Stat. 412; Pub. L. 91–547, §27(a), Dec. 14, 1970, 84 Stat. 1433; Pub. L. 96–477, title VI, §603, Oct. 21, 1980, 94 Stat. 2294; Pub. L. 97–303, §1, Oct. 13, 1982, 96 Stat. 1409; Pub. L. 100–181, title II, §§201, 202, Dec. 4, 1987, 101 Stat. 1252; Pub. L. 104–290, title I, §106(a), Oct. 11, 1996, 110 Stat. 3424; Pub. L. 105–353, title III, §301(a)(1), Nov. 3, 1998, 112 Stat. 3235; Pub. L. 106–554, §1(a)(5) \[title II, §208(a)(1)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–434; Pub. L. 111–203, title VII, §768(a), July 21, 2010, 124 Stat. 1800; Pub. L. 112–106, title I, §§101(a), 105(a), Apr. 5, 2012, 126 Stat. 307, 310.)
+(May 27, 1933, ch. 38, title I, §2, 48 Stat. 74; June 6, 1934, ch. 404, title II, §201, 48 Stat. 905; Aug. 10, 1954, ch. 667, title I, §§1–4, 68 Stat. 683, 684; Pub. L. 86–70, §12(a), June 25, 1959, 73 Stat. 143; Pub. L. 86–624, §7(a), July 12, 1960, 74 Stat. 412; Pub. L. 91–547, §27(a), Dec. 14, 1970, 84 Stat. 1433; Pub. L. 96–477, title VI, §603, Oct. 21, 1980, 94 Stat. 2294; Pub. L. 97–303, §1, Oct. 13, 1982, 96 Stat. 1409; Pub. L. 100–181, title II, §§201, 202, Dec. 4, 1987, 101 Stat. 1252; Pub. L. 104–290, title I, §106(a), Oct. 11, 1996, 110 Stat. 3424; Pub. L. 105–353, title III, §301(a)(1), Nov. 3, 1998, 112 Stat. 3235; Pub. L. 106–554, §1(a)(5) \[title II, §208(a)(1)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–434; Pub. L. 111–203, title VII, §768(a), July 21, 2010, 124 Stat. 1800; Pub. L. 112–106, title I, §§101(a), 105(a), Apr. 5, 2012, 126 Stat. 307, 310; Pub. L. 119–27, §17(c), July 18, 2025, 139 Stat. 463.)
+
+#### Amendment of Subsection (a)(1)
+
+Pub. L. 119–27, §§4(b)(2), 20, July 18, 2025, 139 Stat. 434, 466, provided that, effective on the earlier of the date that is 18 months after July 18, 2025, or the date that is 120 days after the date on which the primary Federal payment stablecoin regulators issue any final regulations implementing Pub. L. 119–27, subsection (a)(1) of this section is amended by adding at the end the following: "The term 'security' does not include a payment stablecoin issued by a permitted payment stablecoin issuer, as such terms are defined in section 5901 of title 12." See 2025 Amendment note below.
 
   
 
@@ -77,6 +81,8 @@ The Employee Retirement Income Security Act of 1974, referred to in subsec. (a)(
 Words "Philippine Islands" deleted from definition of term "Territory" under authority of Proc. No. 2695, eff. July 4, 1946, 11 F.R. 7517, 60 Stat. 1352, which granted independence to the Philippine Islands. Proc. No. 2695 was issued pursuant to section 1394 of Title 22, Foreign Relations and Intercourse, and is set out as a note under that section.
 
 #### Amendments
+
+**2025**—Subsec. (a)(1). Pub. L. 119–27 inserted at end "The term 'security' does not include a payment stablecoin issued by a permitted payment stablecoin issuer, as such terms are defined in section 5901 of title 12."
 
 **2012**—Subsec. (a)(3). Pub. L. 112–106, §105(a), inserted at end "The publication or distribution by a broker or dealer of a research report about an emerging growth company that is the subject of a proposed public offering of the common equity securities of such emerging growth company pursuant to a registration statement that the issuer proposes to file, or has filed, or that is effective shall be deemed for purposes of paragraph (10) of this subsection and section 77e(c) of this title not to constitute an offer for sale or offer to sell a security, even if the broker or dealer is participating or will participate in the registered offering of the securities of the issuer. As used in this paragraph, the term 'research report' means a written, electronic, or oral communication that includes information, opinions, or recommendations with respect to securities of an issuer or an analysis of a security or an issuer, whether or not it provides information reasonably sufficient upon which to base an investment decision."
 
@@ -119,6 +125,10 @@ Par. (6). Pub. L. 100–181, §202, struck out reference to Canal Zone.
   
 
 #### **Statutory Notes and Related Subsidiaries**
+
+#### Effective Date of 2025 Amendment
+
+Amendment by Pub. L. 119–27 effective on the earlier of the date that is 18 months after July 18, 2025, or the date that is 120 days after the date on which the primary Federal payment stablecoin regulators issue any final regulations implementing Pub. L. 119–27, see section 20 of Pub. L. 119–27, set out as an Effective Date note under section 5901 of Title 12, Banks and Banking.
 
 #### Effective Date of 2012 Amendment
 

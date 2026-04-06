@@ -324,7 +324,11 @@ Sec.
 
 5586\. Interim authority of the Secretary.
 
-5587\. Transition oversight. Part G—Regulatory Improvements
+5587\. Transition oversight.
+
+        
+
+#### Part G—Regulatory Improvements
 
 5601\. Remittance transfers.
 
