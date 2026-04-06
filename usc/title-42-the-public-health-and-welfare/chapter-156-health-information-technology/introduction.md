@@ -48,6 +48,8 @@ Sec.
 
 17940\. Audits.
 
+17941\. Recognition of security practices.
+
         
 
 #### Part B—Relationship to Other Laws; Regulatory References; Effective Date; Reports

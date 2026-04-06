@@ -4,6 +4,10 @@ The Board of Governors of the Federal Reserve System shall exercise special supe
 
 (Dec. 23, 1913, ch. 6, §14(g), as added June 16, 1933, ch. 89, §10, 48 Stat. 181; amended Aug. 23, 1935, ch. 614, title II, §203(a), 49 Stat. 704.)
 
+  
+
+#### **Statutory Notes and Related Subsidiaries**
+
 #### Change of Name
 
 Section 203(a) of act Aug. 23, 1935, changed name of Federal Reserve Board to Board of Governors of the Federal Reserve System.

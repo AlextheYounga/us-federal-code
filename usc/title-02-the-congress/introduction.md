@@ -112,6 +112,8 @@ Chap. Sec.
 
         
 
+#### **Editorial Notes**
+
 Disposition Table  
 (Showing disposition of former sections of Title 2)
 | *Title 2  Former Classification*                                                                                                       | *Title 2  New Classification* |

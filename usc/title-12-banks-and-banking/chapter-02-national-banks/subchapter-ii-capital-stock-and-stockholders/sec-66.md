@@ -4,6 +4,10 @@ Persons holding stock as executors, administrators, guardians, or trustees, shal
 
 (R.S. §5152.)
 
+  
+
+#### **Editorial Notes**
+
 #### Codification
 
 R.S. §5152 derived from act June 3, 1864, ch. 106, §63, 13 Stat. 118, which was the National Bank Act. See section 38 of this title.

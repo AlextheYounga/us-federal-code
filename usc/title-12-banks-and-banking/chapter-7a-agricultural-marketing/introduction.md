@@ -16,6 +16,8 @@ Sec.
 
         
 
+#### **Editorial Notes**
+
 #### Codification
 
 This chapter contains the Agricultural Marketing Act, approved June 15, 1929.
