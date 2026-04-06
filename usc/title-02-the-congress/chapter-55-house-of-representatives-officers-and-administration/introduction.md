@@ -72,6 +72,8 @@ Sec.
 
 5547\. Emergency expenditures for meals, refreshments, and other support and maintenance.
 
+5548\. Payments to ensure continuing availability of goods and services during the coronavirus emergency.
+
         
 
 #### SUBCHAPTER IV—CLERK

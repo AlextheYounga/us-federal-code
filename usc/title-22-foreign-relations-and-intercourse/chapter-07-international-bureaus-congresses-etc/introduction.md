@@ -536,6 +536,8 @@ Sec.
 
 282 o. Selective capital increase and amendment of the Articles of Agreement.
 
+282p. Capital increases and amendment to the Articles of Agreement.
+
         
 
 #### SUBCHAPTER XII—INTER-AMERICAN DEVELOPMENT BANK
@@ -705,6 +707,8 @@ Sec.
 284aa. Multilateral debt relief.
 
 284bb. Eighteenth replenishment.
+
+284cc. Nineteenth replenishment.
 
         
 
@@ -1146,6 +1150,8 @@ Sec.
 
 290g–24. Fourteenth replenishment.
 
+290g–25. Fifteenth replenishment.
+
         
 
 #### SUBCHAPTER XXIII—UNITED STATES AFRICAN DEVELOPMENT FOUNDATION
@@ -1197,6 +1203,8 @@ Sec.
 290i–10. Authorization of United States subscription to stock; authorization of appropriations.
 
 290i–11. Sixth capital increase.
+
+290i–12. Seventh capital increase.
 
         
 
