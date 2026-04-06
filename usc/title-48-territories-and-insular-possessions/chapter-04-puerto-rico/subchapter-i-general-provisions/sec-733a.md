@@ -4,9 +4,17 @@ All citizens of the United States who have resided or who shall after March 4, 1
 
 (Mar. 2, 1917, ch. 145, §5a, as added Mar. 4, 1927, ch. 503, §2, 44 Stat. 1418; amended May 17, 1932, ch. 190, 47 Stat. 158.)
 
+  
+
+#### **Editorial Notes**
+
 #### Codification
 
 Section was formerly classified to section 5a of Title 8, Aliens and Nationality.
+
+  
+
+#### **Statutory Notes and Related Subsidiaries**
 
 #### Change of Name
 

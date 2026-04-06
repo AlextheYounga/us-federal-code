@@ -1,5 +1,9 @@
 ### §§43 to 45. Omitted
 
+  
+
+#### **Editorial Notes**
+
 #### Codification
 
 Sections 43 to 45, relating to Territory of Alaska, were omitted in view of admission of Alaska into the Union.

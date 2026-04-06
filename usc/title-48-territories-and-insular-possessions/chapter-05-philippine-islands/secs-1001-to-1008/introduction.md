@@ -1,5 +1,9 @@
 ### §§1001 to 1008. Omitted
 
+  
+
+#### **Editorial Notes**
+
 #### Codification
 
 Sections 1001 to 1008 were omitted in view of recognition of Philippine independence.

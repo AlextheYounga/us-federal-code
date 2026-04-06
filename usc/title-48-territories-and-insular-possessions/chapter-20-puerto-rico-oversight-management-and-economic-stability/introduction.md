@@ -102,6 +102,8 @@ Sec.
 
 2177\. Interim compensation.
 
+2178\. Disclosure by professional persons seeking approval of compensation under section 2176 or 2177 of this title.
+
         
 
 #### SUBCHAPTER IV—MISCELLANEOUS PROVISIONS

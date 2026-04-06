@@ -1,5 +1,9 @@
 ### §§721 to 723. Omitted
 
+  
+
+#### **Editorial Notes**
+
 #### Codification
 
 Sections 721 to 723, relating to Territory of Hawaii, were omitted in view of admission of Hawaii into the Union.

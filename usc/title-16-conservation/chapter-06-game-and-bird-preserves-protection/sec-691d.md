@@ -4,6 +4,10 @@ Sections 715f to 715i and 715l to 715n [1](#691d_1_target) of this title are ma
 
 (June 12, 1930, ch. 469, §5, 46 Stat. 579.)
 
+  
+
+#### **Editorial Notes**
+
 #### References in Text
 
 Sections 715l and 715m of this title, referred to in text, were repealed by Pub. L. 89–669, §7(d), Oct. 15, 1966, 80 Stat. 930. See section 668dd(f) and (e) of this title.
