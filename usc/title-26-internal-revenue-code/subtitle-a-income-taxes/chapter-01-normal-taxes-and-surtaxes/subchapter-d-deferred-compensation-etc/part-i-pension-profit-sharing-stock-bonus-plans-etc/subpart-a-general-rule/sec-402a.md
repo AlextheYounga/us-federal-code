@@ -162,7 +162,7 @@ The term "elective deferral" means—
 
 (B) any elective deferral of compensation by an individual under an eligible deferred compensation plan (as defined in section 457(b)) of an eligible employer described in section 457(e)(1)(A).
 
-#### (3) Matching contribution
+#### (3) [2](#402A_2_target) Matching contribution
 
 The term "matching contribution" means—
 
@@ -316,7 +316,7 @@ Pub. L. 117–328, div. T, title I, §127(e)(1), (g), Dec. 29, 2022, 136 Stat. 5
 
 #### *(C) Matching contributions*
 
-*For purposes of subparagraph (A), the term 'matching contribution' has the meaning given such term in section 401(m)(4).*
+*For purposes of subparagraph (A), the term "matching contribution" has the meaning given such term in section 401(m)(4).*
 
 #### *(7) Distributions*
 
@@ -412,9 +412,9 @@ Subsec. (c)(1). Pub. L. 117–328, §604(c), inserted ", matching contribution,
 
 Subsec. (d)(5). Pub. L. 117–328, §325(a), added par. (5).
 
-Subsec. (e). Pub. L. 117–328, §127(e)(1), added subsec. (e). Former subsec. (e) redesignated as (f).
+Subsec. (e). Pub. L. 117–328, §127(e)(1), added subsec. (e). Former subsec. (e) redesignated (f).
 
-Subsec. (e)(3). Pub. L. 117–328, §604(d), which amended subsec. (f), "as redesignated by this Act", by adding par. (3), was executed by adding par. (3) to subsec. (e), because the amendment by Pub. L. 117–328, §127(e)(1), to redesignate subsec. (e) as (f), applicable to plan years beginning after Dec. 31, 2023, was not yet executed.
+Subsec. (e)(3). Pub. L. 117–328, §604(d), which amended subsec. (f), "as redesignated by this Act", by adding par. (3), applicable to contributions made after Dec. 29, 2022, is shown here with par. (3) added to subsec. (e), because the amendment by Pub. L. 117–328, §127(e)(1), redesignating subsec. (e) as (f), applicable to plan years beginning after Dec. 31, 2023, has not yet been executed.
 
 Subsec. (f). Pub. L. 117–328, §127(e)(1), redesignated subsec. (e) as (f).
 
@@ -471,3 +471,5 @@ Pub. L. 117–328, div. T, title I, §127(f), Dec. 29, 2022, 136 Stat. 5329, pro
 "(4) with regard to interactions with section 401(k)(13) of the Internal Revenue Code of 1986."
 
 [1 See References in Text note below.](#402A_1)
+
+[2 See 2022 Amendment note below.](#402A_2)

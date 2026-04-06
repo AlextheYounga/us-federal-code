@@ -90,6 +90,8 @@ Such term does not include a supplement to such an application, does not include
 
 (B) a third party controls, or has power to control, both of the business entities.
 
+  
+
 (12) The term "skin-test diagnostic product"—
 
 (A) means a product—
