@@ -258,7 +258,7 @@ Section was not enacted as part of the Land and Water Conservation Fund Act of 1
 
 #### Prior Provisions
 
-A prior section 460l–6d, Pub. L. 106–206, §1, May 26, 2000, 114 Stat. 314; Pub. L. 113–287, §§4(c), 7, Dec. 19, 2014, 128 Stat. 3261, 3272, related to commercial filming, prior to repeal by Pub. L. 118–234, title I, §125(b), Jan. 4, 2025, 138 Stat. 2851. Such section had been repealed by section 7 of Pub. L. 113–287 insofar as applicable to the National Park System. See section 100905 of Title 54, National Park Service and Related Programs.
+A prior section 460l–6d, Pub. L. 106–206, §1, May 26, 2000, 114 Stat. 314; Pub. L. 113–287, §§4(c), 7, Dec. 19, 2014, 128 Stat. 3261, 3272, related to commercial filming, prior to repeal by Pub. L. 118–234, title I, §125(b), Jan. 4, 2025, 138 Stat. 2851. Such section had been repealed by section 7 of Pub. L. 113–287, Dec. 19, 2014, 128 Stat. 3272, insofar as applicable to the National Park System. See section 100905 of Title 54, National Park Service and Related Programs.
 
 [1 So in original. Probably should refer to par. (4)(A)(ii).](#460l-6d_1)
 

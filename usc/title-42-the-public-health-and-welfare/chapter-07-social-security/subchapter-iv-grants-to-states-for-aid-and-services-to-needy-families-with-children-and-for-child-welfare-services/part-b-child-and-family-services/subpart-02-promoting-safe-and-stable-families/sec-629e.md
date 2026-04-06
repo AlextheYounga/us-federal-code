@@ -346,7 +346,7 @@ A prior section 435 of act Aug. 14, 1935, was classified to section 635 of this 
 
 #### Amendments
 
-**2025**—Subsec. (a)(2)(B). Pub. L. 118–258, §106(g), inserted before the semicolon "including community-based partners with expertise in preventing unnecessary child welfare system involvement".
+**2025**—Subsec. (a)(2)(B). Pub. L. 118–258, §106(g), inserted before semicolon "including community-based partners with expertise in preventing unnecessary child welfare system involvement".
 
 Subsec. (c). Pub. L. 118–258, §115(a), amended subsec. (c) generally. Prior to amendment, subsec. (c) related to evaluation, research, and technical assistance with respect to targeted program resources.
 

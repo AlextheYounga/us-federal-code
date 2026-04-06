@@ -1298,7 +1298,7 @@ Subsec. (h)(6). Pub. L. 110–28, §7001(b)(4), inserted "or allotted" after "re
 
 Subsec. (i). Pub. L. 110–92 added subsec. (i).
 
-Subsec. (j) to (l). Pub. L. 110–173, §201(c)(1), added subsecs. (j) to (l).
+Subsecs. (j) to (l). Pub. L. 110–173, §201(c)(1), added subsecs. (j) to (l).
 
 **2006**—Subsec. (a). Pub. L. 109–171, §6101(b)(1), inserted "subject to subsection (d)," after "under this section," in introductory provisions.
 

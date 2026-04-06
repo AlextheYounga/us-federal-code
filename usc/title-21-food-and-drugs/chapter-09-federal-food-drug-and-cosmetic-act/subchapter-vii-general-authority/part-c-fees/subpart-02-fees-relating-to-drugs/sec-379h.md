@@ -340,14 +340,6 @@ For termination of section by section 1005(a) of Pub. L. 117–180, see Terminat
 
 #### **Editorial Notes**
 
-#### References in Text
-
-Section 357 of this title, referred to in subsec. (a)(2)(B)(iii), was repealed by Pub. L. 105–115, title I, §125(b)(1), Nov. 21, 1997, 111 Stat. 2325.
-
-The Drug Price Competition and Patent Term Restoration Act of 1984, referred to in subsec. (a)(2)(B)(iv), is Pub. L. 98–417, Sept. 24, 1984, 98 Stat. 1585. For complete classification of this Act to the Code, see Short Title of 1984 Amendment note set out under section 301 of this title and Tables.
-
-Section 101(b) of the Prescription Drug User Fee Amendments of 2017, referred to in subsec. (c)(2)(B)(ii)(III), is section 101(b) of Pub. L. 115–52, set out as a note under section 379g of this title.
-
 #### Amendments
 
 **2022**—Subsec. (a). Pub. L. 117–180, §1003(a)(1)(A), substituted "fiscal year 2023" for "fiscal year 2018" in introductory provisions.

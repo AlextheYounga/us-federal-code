@@ -114,11 +114,11 @@ For the purpose of carrying out this section, there are authorized to be appropr
 
 Subsec. (b)(1). Pub. L. 117–328, §1423(2)(A), substituted "mental health and substance use disorders and promote resiliency" for "mental and substance use disorders".
 
-Subsec. (b)(4). Pub. L. 117–328, §1423(2)(B), substituted "mental health and substance use disorder resources and services." for "mental and substance use disorder services.".
+Subsec. (b)(4). Pub. L. 117–328, §1423(2)(B), substituted "mental health and substance use disorder resources and services." for "mental and substance use disorder services."
 
 Subsec. (b)(5). Pub. L. 117–328, §1423(2)(C), substituted "mental health and substance use" for "mental and substance use".
 
-Subsec. (b)(6). Pub. L. 117–328, §1423(2)(D), substituted "staff to recognize and respond effectively and appropriately to students experiencing mental health and substance use disorders." for "staff to respond effectively to students with mental and substance use disorders.".
+Subsec. (b)(6). Pub. L. 117–328, §1423(2)(D), substituted "staff to recognize and respond effectively and appropriately to students experiencing mental health and substance use disorders." for "staff to respond effectively to students with mental and substance use disorders."
 
 Subsec. (b)(7). Pub. L. 117–328, §1423(2)(E), substituted "mental health and substance use" for "mental and substance use".
 
@@ -128,7 +128,7 @@ Subsec. (b)(9). Pub. L. 117–328, §1423(2)(G), substituted "to improve the beh
 
 Subsec. (b)(10). Pub. L. 117–328, §1423(2)(H), substituted "mental and behavioral health disorders," for "mental and behavioral disorders,".
 
-Subsec. (b)(12). Pub. L. 117–328, §1423(2)(I), substituted "best practices, and trauma-informed practices." for "best practices.".
+Subsec. (b)(12). Pub. L. 117–328, §1423(2)(I), substituted "best practices, and trauma-informed practices." for "best practices."
 
 Subsec. (d)(1). Pub. L. 117–328, §1423(3)(A), substituted "mental health and substance use" for "mental and substance use".
 

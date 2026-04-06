@@ -106,7 +106,7 @@ The Partnership shall be composed of 13 members, as follows:
 
 (A) One individual, appointed by the Secretary, to represent the National Park Service.
 
-(B) One individual, appointed by the Commandant of the Coast Guard.. [2](#460kkk_2_target)
+(B) One individual, appointed by the Commandant of the Coast Guard..[2](#460kkk_2_target)
 
 (C) Two individuals, appointed by the Secretary, after consideration of recommendations by the Governor of Massachusetts, to represent the Department of Environmental Management and the Metropolitan District Commission.
 

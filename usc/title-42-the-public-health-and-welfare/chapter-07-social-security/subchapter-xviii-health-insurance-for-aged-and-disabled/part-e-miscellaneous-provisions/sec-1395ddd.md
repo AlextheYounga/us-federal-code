@@ -402,7 +402,7 @@ Subsec. (h)(10). Pub. L. 114–10, §505(b)(2), added par. (10).
 
 **2010**—Subsec. (a). Pub. L. 111–148, §6402(j)(1)(C), inserted ", or otherwise," after "entities".
 
-Subsec. (c)(4), (5). Pub. L. 111–148, §6402(j)(1)(A), added par. (4) and redesignated former par. (4) as (5)
+Subsec. (c)(4), (5). Pub. L. 111–148, §6402(j)(1)(A), added par. (4) and redesignated former par. (4) as (5).
 
 Subsec. (h)(1). Pub. L. 111–148, §6411(b)(1), substituted "this subchapter" for "part A or B" in introductory provisions.
 

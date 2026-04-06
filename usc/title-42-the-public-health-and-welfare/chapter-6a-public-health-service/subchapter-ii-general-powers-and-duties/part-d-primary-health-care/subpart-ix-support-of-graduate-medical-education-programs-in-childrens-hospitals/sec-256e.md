@@ -316,7 +316,7 @@ Subsec. (f)(2)(D). Pub. L. 109–307, §2(a)(4)(B)–(D), added subpar. (D).
 
 Subsec. (d)(2)(A). Pub. L. 108–490, §1(a)(2), inserted "ratio of the" after "hospitals and the" and "to beds (but excluding beds or bassinets assigned to healthy newborn infants)" before semicolon.
 
-**2000**—Subsec. (a). Pub. L. 106–310, §2001(a), substituted "2000 through 2005" for "2000 and 2001" and inserted at end "The Secretary shall promulgate regulations pursuant to the rulemaking requirements of title 5 which shall govern payments made under this subpart.".
+**2000**—Subsec. (a). Pub. L. 106–310, §2001(a), substituted "2000 through 2005" for "2000 and 2001" and inserted at end "The Secretary shall promulgate regulations pursuant to the rulemaking requirements of title 5 which shall govern payments made under this subpart."
 
 Subsec. (c)(2)(F). Pub. L. 106–310, §2001(b), substituted "Federal fiscal year for which payments are made" for "hospital's cost reporting period that begins during fiscal year 2000".
 

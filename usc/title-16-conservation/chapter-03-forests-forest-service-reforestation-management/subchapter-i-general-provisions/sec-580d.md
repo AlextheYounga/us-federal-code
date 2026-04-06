@@ -120,7 +120,7 @@ Pub. L. 115–334, title VIII, §8623, Dec. 20, 2018, 132 Stat. 4853, as amended
 
      "(II) the maintenance, repair, improvement, or restoration of existing facilities or improvements;
 
-     "(III) other services relating to activities that occur on the administrative site, as determined by the Secretary;and
+     "(III) other services relating to activities that occur on the administrative site, as determined by the Secretary; and
 
      "(IV) services occurring off the administrative site that—
 

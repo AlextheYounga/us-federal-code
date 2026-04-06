@@ -380,7 +380,7 @@ Pub. L. 118–258, title I, §§105(b)–(d), (f)–(l), 115(b)(2)(E), 117, Jan.
 
 *If an Indian tribe or tribal consortium enters into a regional partnership for purposes of this subsection, the Indian tribe or tribal consortium—*
 
-*(i) may (but is not required to) include the State child welfare agency as a partner in the collaborative agreement and*
+*(i) may (but is not required to) include the State child welfare agency as a partner in the collaborative agreement; and*
 
 *(ii) may not enter into a collaborative agreement only with tribal child welfare agencies (or a consortium of the agencies).*
 
