@@ -16,6 +16,8 @@ Section was enacted as part of the Departments of Labor, Health and Human Servic
 
 Similar provisions were contained in the following appropriation acts:
 
+Pub. L. 115–31, div. H, title I, May 5, 2017, 131 Stat. 512.
+
 Pub. L. 114–113, div. H, title I, Dec. 18, 2015, 129 Stat. 2593.
 
 Pub. L. 113–235, div. G, title I, Dec. 16, 2014, 128 Stat. 2460.

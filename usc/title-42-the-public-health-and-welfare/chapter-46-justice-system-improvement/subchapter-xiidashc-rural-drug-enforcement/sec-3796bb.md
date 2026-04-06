@@ -2,7 +2,7 @@
 
 (a) Of the total amount appropriated for this section in any fiscal year:
 
-(1) 50 percent shall be allocated to and shared equally among rural States as described in subsection (b) of this section; and
+(1) 50 percent shall be allocated to and shared equally among rural States as described in subsection (b); and
 
 (2) 50 percent shall be allocated to the remaining States for use in nonmetropolitan areas within those States, as follows:
 

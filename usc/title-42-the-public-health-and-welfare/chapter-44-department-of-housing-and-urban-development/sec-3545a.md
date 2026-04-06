@@ -12,6 +12,8 @@ Section was enacted as part of the appropriation act cited as the credit to this
 
 Provisions similar to those in this section were contained in the following appropriation acts:
 
+Pub. L. 115–31, div. K, title II, §220, May 5, 2017, 131 Stat. 784.
+
 Pub. L. 114–113, div. L, title II, §221, Dec. 18, 2015, 129 Stat. 2893.
 
 Pub. L. 113–235, div. K, title II, §222, Dec. 16, 2014, 128 Stat. 2754.
