@@ -26,11 +26,11 @@ Sec.
 
         
 
-#### SUBCHAPTER II—INFORMATION ANALYSIS AND INFRASTRUCTURE PROTECTION
+#### SUBCHAPTER II—INFORMATION ANALYSIS
 
-#### Part A—Information and Analysis and Infrastructure Protection; Access to Information
+#### Part A—Information and Analysis; Access to Information
 
-121\. Information and Analysis and Infrastructure Protection.
+121\. Information and Analysis.
 
 121a. Homeland Security Intelligence Program.
 
@@ -62,7 +62,7 @@ Sec.
 
 124k. Interagency Threat Assessment and Coordination Group.
 
-124 l. National asset database.
+124 l. Transferred.
 
 124m. Classified Information Advisory Officer.
 
@@ -70,47 +70,23 @@ Sec.
 
         
 
-#### Part B—Critical Infrastructure Information
+#### Part B—Information Security
 
-131\. Definitions.
-
-132\. Designation of critical infrastructure protection program.
-
-133\. Protection of voluntarily shared critical infrastructure information.
-
-134\. No private right of action.
-
-        
-
-#### Part C—Information Security
+131 to 134. Transferred.
 
 141\. Procedures for sharing information.
 
 142\. Privacy officer.
 
-143\. Enhancement of Federal and non-Federal cybersecurity.
-
-144\. NET Guard.
-
-145\. Cyber Security Enhancement Act of 2002.
+143 to 145.Transferred.
 
 146\. Cybersecurity workforce assessment and strategy.
 
-147\. Cybersecurity recruitment and retention.
-
-148\. National cybersecurity and communications integration center.
-
-149\. Cybersecurity plans.
-
-149a. Cybersecurity strategy.
-
-150\. Clearances.
-
-151\. Federal intrusion detection and prevention system.
+147 to 151. Transferred.
 
         
 
-#### Part D—Office of Science and Technology
+#### Part C—Office of Science and Technology
 
 161\. Establishment of Office; Director.
 
@@ -700,7 +676,7 @@ Sec.
 
 #### SUBCHAPTER XIII—EMERGENCY COMMUNICATIONS
 
-571\. Office of Emergency Communications.
+571\. Emergency Communications Division.
 
 572\. National Emergency Communications Plan.
 
@@ -807,5 +783,49 @@ Sec.
 643\. Certification and report to Congress.
 
 644\. Assistance to non-Federal entities.
+
+        
+
+#### SUBCHAPTER XVIII—CYBERSECURITY AND INFRASTRUCTURE SECURITY AGENCY
+
+#### Part A—Cybersecurity and Infrastructure Security
+
+651\. Definitions.
+
+652\. Cybersecurity and Infrastructure Security Agency.
+
+653\. Cybersecurity Division.
+
+654\. Infrastructure Security Division.
+
+655\. Enhancement of Federal and non-Federal cybersecurity.
+
+656\. NET Guard.
+
+657\. Cyber Security Enhancement Act of 2002.
+
+658\. Cybersecurity recruitment and retention.
+
+659\. National cybersecurity and communications integration center.
+
+660\. Cybersecurity plans.
+
+661\. Cybersecurity strategy.
+
+662\. Clearances.
+
+663\. Federal intrusion detection and prevention system.
+
+        
+
+#### Part B—Critical Infrastructure Information
+
+671\. Definitions.
+
+672\. Designation of critical infrastructure protection program.
+
+673\. Protection of voluntarily shared critical infrastructure information.
+
+674\. No private right of action.
 
         
