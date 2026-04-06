@@ -14,8 +14,6 @@ Sec.
 
 455\. Appropriations for travel: may not be used for attendance at certain meetings.
 
-456\. Managed travel program refunds.
-
         
 
 #### SUBCHAPTER II—ADMINISTRATIVE PROVISIONS
@@ -107,9 +105,5 @@ Sec.
 495\. Funeral honors duty: allowance.
 
         
-
-#### Amendments
-
-**2019**—Pub. L. 116–92, div. A, title VI, §606(b), Dec. 20, 2019, 133 Stat. 1425, added item 456.
 
 [1 So in original. Does not conform to section catchline.](#CHAPTER8_1)

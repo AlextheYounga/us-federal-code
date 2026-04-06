@@ -6,15 +6,13 @@ Sec.
 
 1701a. Management for acquisition workforce excellence.
 
-1702\. Under Secretary of Defense for Acquisition, Technology, and Logistics: authorities and responsibilities. 1
-
-        
+1702\. Under Secretary of Defense for Acquisition, Technology, and Logistics: authorities and responsibilities.
 
 \[1703. Repealed.\]
 
 1704\. Service acquisition executives: authorities and responsibilities.
 
-1705\. Department of Defense Acquisition Workforce Development Account.
+1705\. Department of Defense Acquisition Workforce Development Fund.
 
 1706\. Government performance of certain acquisition functions.
 
@@ -23,8 +21,6 @@ Sec.
         
 
 #### Amendments
-
-**2019**—Pub. L. 116–92, div. A, title X, §1010(a)(2)(B), Dec. 20, 2019, 133 Stat. 1576, substituted "Department of Defense Acquisition Workforce Development Account" for "Department of Defense Acquisition Workforce Development Fund" in item 1705.
 
 **2013**—Pub. L. 112–239, div. A, title VIII, §824(a)(2), Jan. 2, 2013, 126 Stat. 1833, added item 1706.
 
@@ -37,5 +33,3 @@ Sec.
 **2001**—Pub. L. 107–107, div. A, title X, §1048(b)(3)(B), Dec. 28, 2001, 115 Stat. 1225, substituted "Under Secretary of Defense for Acquisition, Technology, and Logistics: authorities and responsibilities" for "Under Secretary of Defense for Acquisition and Technology: authorities and responsibilities" in item 1702.
 
 **1993**—Pub. L. 103–160, div. A, title IX, §904(d)(2), Nov. 30, 1993, 107 Stat. 1728, inserted "and Technology" after "Acquisition" in item 1702.
-
-[1 Section catchline amended by Pub. L. 116–92 without corresponding amendment of subchapter analysis.](#I_1)

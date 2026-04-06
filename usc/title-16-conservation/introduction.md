@@ -292,6 +292,4 @@ Chap. Sec.
 
 98\. Sportsmen's Access to Federal Land 7901
 
-99\. Maritime Security and Fisheries Enforcement 8001
-
         
