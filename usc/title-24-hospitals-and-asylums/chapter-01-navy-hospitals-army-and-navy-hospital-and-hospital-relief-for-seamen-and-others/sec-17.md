@@ -4,6 +4,10 @@ The asylum for disabled and decrepit Navy officers, seamen, and marines shall be
 
 (R.S. §4811.)
 
+  
+
+#### **Editorial Notes**
+
 #### Codification
 
 R.S. §4811 derived from act Feb. 26, 1811, ch. 26, §4, 2 Stat. 650.
