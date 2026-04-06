@@ -42,7 +42,7 @@ Sec.
 
 715a. Migratory Bird Conservation Commission; creation; composition; duties; approval of areas of land and water recommended for purchase or rental.
 
-715b. Omitted.
+715b. Annual report.
 
 715c. Areas recommended for approval; character.
 
@@ -122,7 +122,7 @@ Sec.
 
         
 
-#### SUBCHAPTERIV–A—PERMANENT ELECTRONIC DUCK STAMP
+#### SUBCHAPTER IV–A—PERMANENT ELECTRONIC DUCK STAMP
 
 718 o. Definitions.
 

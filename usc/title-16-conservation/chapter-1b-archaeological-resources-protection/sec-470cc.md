@@ -34,15 +34,15 @@ Any permit issued under this section may be suspended by the Federal land manage
 
 #### (g) Excavation or removal by Indian tribes or tribe members; excavation or removal of resources located on Indian lands
 
-(1) No permit shall be required under this section or under the Act of June 8, 1906,[1](#470cc_1_target) for the excavation or removal by any Indian tribe or member thereof of any archaeological resource located on Indian lands of such Indian tribe, except that in the absence of tribal law regulating the excavation or removal of archaeological resources on Indian lands, an individual tribal member shall be required to obtain a permit under this section.
+(1) No permit shall be required under this section or under the Act of June 8, 1906 (16 U.S.C. 431),[1](#470cc_1_target) for the excavation or removal by any Indian tribe or member thereof of any archaeological resource located on Indian lands of such Indian tribe, except that in the absence of tribal law regulating the excavation or removal of archaeological resources on Indian lands, an individual tribal member shall be required to obtain a permit under this section.
 
 (2) In the case of any permits for the excavation or removal of any archaelogical [2](#470cc_2_target) resource located on Indian lands, the permit may be granted only after obtaining the consent of the Indian or Indian tribe owning or having jurisdiction over such lands. The permit shall include such terms and conditions as may be requested by such Indian or Indian tribe.
 
 #### (h) Permits issued under chapter 3203 of title 54
 
-(1) No permit or other permission shall be required under chapter 3203 of title 54,[3](#470cc_3_target) for any activity for which a permit is issued under this section.
+(1) No permit or other permission shall be required under chapter 3203 of title 54 for any activity for which a permit is issued under this section.
 
-(2) Any permit issued under chapter 3203 of title 54,[3](#470cc_3_target) shall remain in effect according to its terms and conditions following the enactment of this chapter. No permit under this chapter shall be required to carry out any activity under a permit issued under chapter 3203 of title 54,[3](#470cc_3_target) before October 31, 1979, which remains in effect as provided in this paragraph, and nothing in this chapter shall modify or affect any such permit.
+(2) Any permit issued under chapter 3203 of title 54 shall remain in effect according to its terms and conditions following the enactment of this chapter. No permit under this chapter shall be required to carry out any activity under a permit issued under chapter 3203 of title 54 before October 31, 1979, which remains in effect as provided in this paragraph, and nothing in this chapter shall modify or affect any such permit.
 
 #### (i) Compliance with provisions relating to undertakings on property listed in the National Register not required
 
@@ -62,14 +62,12 @@ Following the enactment of this chapter, referred to in subsec. (h)(2), means fo
 
 #### Amendments
 
-**2014**—Subsec. (h)(1). Pub. L. 113–287, §5(d)(6)(A)(i), substituted "chapter 3203 of title 54" for "the Act of June 8, 1906 (16 U.S.C. 431–433)".
+**2014**—Subsec. (h)(1). Pub. L. 113–287, §5(d)(6)(A)(i), substituted "chapter 3203 of title 54" for "the Act of June 8, 1906 (16 U.S.C. 431–433),".
 
-Subsec. (h)(2). Pub. L. 113–287, §5(d)(6)(A)(ii), substituted "chapter 3203 of title 54" for "the Act of June 8, 1906" in two places.
+Subsec. (h)(2). Pub. L. 113–287, §5(d)(6)(A)(ii), substituted "chapter 3203 of title 54" for "the Act of June 8, 1906," in two places.
 
 Subsec. (i). Pub. L. 113–287, §5(d)(6)(B), substituted "section 306108 of title 54" for "section 470f of this title".
 
 [1 See References in Text note below.](#470cc_1)
 
 [2 So in original. Probably should be "archaeological".](#470cc_2)
-
-[3 So in original. The comma probably should not appear.](#470cc_3)
