@@ -24,6 +24,6 @@ Sec.
 
 5611\. Repealed.
 
-5612\. Quota allocation practice.
+5612\. Repealed.
 
         

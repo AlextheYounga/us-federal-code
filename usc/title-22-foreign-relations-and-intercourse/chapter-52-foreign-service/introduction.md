@@ -26,6 +26,8 @@ Sec.
 
 3922b. Public diplomacy training.
 
+3922c. Integration of foreign economic policy.
+
 3923\. Compatibility among agencies utilizing Foreign Service personnel system.
 
 3924\. Uniform and consolidated administration of Service.
@@ -96,6 +98,8 @@ Sec.
 
 3968\. Local compensation plans.
 
+3968a. Locally-employed staff wages.
+
 3969\. Salaries of consular agents.
 
 3970\. Compensation for imprisoned foreign national employees.
@@ -148,7 +152,7 @@ Sec.
 
 4009\. Retirement benefits.
 
-4010\. Separation for cause.
+4010\. Separation for cause; suspension.
 
 4010a. Reductions in force.
 
