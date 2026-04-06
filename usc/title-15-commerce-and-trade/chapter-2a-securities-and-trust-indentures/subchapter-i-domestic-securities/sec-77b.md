@@ -64,7 +64,7 @@ Whenever pursuant to this subchapter the Commission is engaged in rulemaking and
 
 #### Amendment of Subsection (a)(1)
 
-Pub. L. 119–27, §§4(b)(2), 20, July 18, 2025, 139 Stat. 434, 466, provided that, effective on the earlier of the date that is 18 months after July 18, 2025, or the date that is 120 days after the date on which the primary Federal payment stablecoin regulators issue any final regulations implementing Pub. L. 119–27, subsection (a)(1) of this section is amended by adding at the end the following: "The term 'security' does not include a payment stablecoin issued by a permitted payment stablecoin issuer, as such terms are defined in section 5901 of title 12." See 2025 Amendment note below.
+Pub. L. 119–27, §§17(c), 20, July 18, 2025, 139 Stat. 463, 466, provided that, effective on the earlier of the date that is 18 months after July 18, 2025, or the date that is 120 days after the date on which the primary Federal payment stablecoin regulators issue any final regulations implementing Pub. L. 119–27, subsection (a)(1) of this section is amended by adding at the end the following: "The term 'security' does not include a payment stablecoin issued by a permitted payment stablecoin issuer, as such terms are defined in section 5901 of title 12." See 2025 Amendment note below.
 
   
 
