@@ -16,6 +16,8 @@
 
 (5) Any other issues relating to assault, harassment, or discrimination involving civilian employees of the Department that the Secretary considers appropriate.
 
+  
+
 (c) Report to Congress.—Upon the completion of a survey under this section, the Secretary shall submit to Congress a report containing the results of the survey.
 
 (Added Pub. L. 113–291, div. A, title X, §1073(a)(1), Dec. 19, 2014, 128 Stat. 3517.)
