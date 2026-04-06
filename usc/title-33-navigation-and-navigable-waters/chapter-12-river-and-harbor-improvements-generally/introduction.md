@@ -146,9 +146,9 @@ Sec.
 
 579b. Omitted.
 
-579c. Backlog prevention.
+579c. Backlog prevention: projects from Public Law 113–121.
 
-579c–1. Backlog prevention.
+579c–1. Backlog prevention: projects from Public Law 114–322.
 
 579d. Deauthorization of inactive projects.
 
