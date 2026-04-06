@@ -96,7 +96,7 @@ Paragraph (2)(A)(ii) shall not apply to an entity which had contracted with a si
 
 (i) only those services covered under parts A and B of this subchapter, for those members entitled to benefits under part A and enrolled under part B, or
 
-(ii) only those services covered under part B of this subchapter, for those members enrolled only under such part,
+(ii) only those services covered under part B, for those members enrolled only under such part,
 
   
 
@@ -206,7 +206,7 @@ Subject to the provisions of subsection (c)(3), every individual entitled to ben
 
 (A) the portion of an eligible organization's premium rate and the actuarial value of its deductibles, coinsurance, and copayments charged (with respect to services covered under parts A and B) to individuals who are enrolled under this section with the organization and who are entitled to benefits under part A and enrolled under part B, or
 
-(B) the portion of its premium rate and the actuarial value of its deductibles, coinsurance, and copayments charged (with respect to services covered under part B of this subchapter) to individuals who are enrolled under this section with the organization and enrolled under part B of this subchapter only
+(B) the portion of its premium rate and the actuarial value of its deductibles, coinsurance, and copayments charged (with respect to services covered under part B) to individuals who are enrolled under this section with the organization and enrolled under part B only
 
   
 
@@ -266,7 +266,7 @@ but adjusted for differences between the utilization characteristics of the memb
 
   
 
-is less than the average of the per capita rates of payment to be made under subsection (a)(1) at the beginning of an annual contract period for members enrolled under this section with the organization and entitled to benefits under part A and enrolled in part B, or enrolled in part B only, respectively, the eligible organization shall provide to members enrolled under a risk-sharing contract under this section with the organization and entitled to benefits under part A of this subchapter and enrolled in part B of this subchapter, or enrolled in part B of this subchapter only, respectively, the additional benefits described in paragraph (3) which are selected by the eligible organization and which the Secretary finds are at least equal in value to the difference between that average per capita payment and the adjusted community rate (as so reduced); except that this paragraph shall not apply with respect to any organization which elects to receive a lesser payment to the extent that there is no longer a difference between the average per capita payment and adjusted community rate (as so reduced) and except that an organization (with the approval of the Secretary) may provide that a part of the value of such additional benefits be withheld and reserved by the Secretary as provided in paragraph (5). If the Secretary finds that there is insufficient enrollment experience to determine an average of the per capita rates of payment to be made under subsection (a)(1) at the beginning of a contract period, the Secretary may determine such an average based on the enrollment experience of other contracts entered into under this section.
+is less than the average of the per capita rates of payment to be made under subsection (a)(1) at the beginning of an annual contract period for members enrolled under this section with the organization and entitled to benefits under part A and enrolled in part B, or enrolled in part B only, respectively, the eligible organization shall provide to members enrolled under a risk-sharing contract under this section with the organization and entitled to benefits under part A and enrolled in part B, or enrolled in part B only, respectively, the additional benefits described in paragraph (3) which are selected by the eligible organization and which the Secretary finds are at least equal in value to the difference between that average per capita payment and the adjusted community rate (as so reduced); except that this paragraph shall not apply with respect to any organization which elects to receive a lesser payment to the extent that there is no longer a difference between the average per capita payment and adjusted community rate (as so reduced) and except that an organization (with the approval of the Secretary) may provide that a part of the value of such additional benefits be withheld and reserved by the Secretary as provided in paragraph (5). If the Secretary finds that there is insufficient enrollment experience to determine an average of the per capita rates of payment to be made under subsection (a)(1) at the beginning of a contract period, the Secretary may determine such an average based on the enrollment experience of other contracts entered into under this section.
 
 (3) The additional benefits referred to in paragraph (2) are—
 

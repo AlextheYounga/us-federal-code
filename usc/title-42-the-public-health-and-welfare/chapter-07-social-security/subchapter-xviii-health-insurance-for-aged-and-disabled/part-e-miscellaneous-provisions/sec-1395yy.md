@@ -34,7 +34,7 @@ The Secretary may make adjustments in the limits set forth in subsection (a) wit
 
 (i) in an urban area, the amount shall be equal to 105 percent of the mean of the per diem reasonable routine service and capital-related costs of extended care services for skilled nursing facilities in urban areas within the same region, determined without regard to the limitations of subsection (a) and adjusted for different area wage levels, and
 
-(ii) in a rural area the amount shall be equal to 105 percent of the mean of the per diem reasonable routine service and capital-related costs of extended care services for skilled nursing facilities in rural areas within the same region, determined without regard to the limitations of subsection (a) of this section and adjusted for different area wage levels.
+(ii) in a rural area the amount shall be equal to 105 percent of the mean of the per diem reasonable routine service and capital-related costs of extended care services for skilled nursing facilities in rural areas within the same region, determined without regard to the limitations of subsection (a) and adjusted for different area wage levels.
 
   
 

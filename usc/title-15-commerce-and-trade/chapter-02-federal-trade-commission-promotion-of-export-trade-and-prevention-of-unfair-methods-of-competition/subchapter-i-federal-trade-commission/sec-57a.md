@@ -76,7 +76,7 @@ The Commission shall conduct any informal hearings required by subsection (b)(1)
 
 (B) For purposes of this section, the term "rulemaking record" means the rule, its statement of basis and purpose, the transcript required by subsection (c)(5), any written submissions, and any other information which the Commission considers relevant to such rule.
 
-(2) If the petitioner or the Commission applies to the court for leave to make additional oral submissions or written presentations and shows to the satisfaction of the court that such submissions and presentations would be material and that there were reasonable grounds for the submissions and failure to make such submissions and presentations in the proceeding before the Commission, the court may order the Commission to provide additional opportunity to make such submissions and presentations. The Commission may modify or set aside its rule or make a new rule by reason of the additional submissions and presentations and shall file such modified or new rule, and the rule's statement of basis of purpose, with the return of such submissions and presentations. The court shall thereafter review such new or modified rule.
+(2) If the petitioner or the Commission applies to the court for leave to make additional oral submissions or written presentations and shows to the satisfaction of the court that such submissions and presentations would be material and that there were reasonable grounds for the submissions and failure to make such submissions and presentations in the proceeding before the Commission, the court may order the Commission to provide additional opportunity to make such submissions and presentations. The Commission may modify or set aside its rule or make a new rule by reason of the additional submissions and presentations and shall file such modified or new rule, and the rule's statement of basis of [1](#57a_1_target) purpose, with the return of such submissions and presentations. The court shall thereafter review such new or modified rule.
 
 (3) Upon the filing of the petition under paragraph (1) of this subsection, the court shall have jurisdiction to review the rule in accordance with chapter 7 of title 5 and to grant appropriate relief, including interim relief, as provided in such chapter. The court shall hold unlawful and set aside the rule on any ground specified in subparagraphs (A), (B), (C), or (D) of section 706(2) of title 5 (taking due account of the rule of prejudicial error), or if—
 
@@ -124,13 +124,13 @@ The term "evidence", as used in this paragraph, means any matter in the rulemaki
 
   
 
-The terms used in this paragraph [1](#57a_1_target) that are not defined in this subchapter or otherwise defined in section 1813(s) of title 12 shall have the meaning given to them in section 3101 of title 12.
+The terms used in this paragraph [2](#57a_2_target) that are not defined in this subchapter or otherwise defined in section 1813(s) of title 12 shall have the meaning given to them in section 3101 of title 12.
 
 #### (g) Exemptions and stays from application of rules; procedures
 
 (1) Any person to whom a rule under subsection (a)(1)(B) of this section applies may petition the Commission for an exemption from such rule.
 
-(2) If, on its own motion or on the basis of a petition under paragraph (1), the Commission finds that the application of a rule prescribed under subsection (a)(1)(B) to any person or class or [2](#57a_2_target) persons is not necessary to prevent the unfair or deceptive act or practice to which the rule relates, the Commission may exempt such person or class from all or part of such rule. Section 553 of title 5 shall apply to action under this paragraph.
+(2) If, on its own motion or on the basis of a petition under paragraph (1), the Commission finds that the application of a rule prescribed under subsection (a)(1)(B) to any person or class or [3](#57a_3_target) persons is not necessary to prevent the unfair or deceptive act or practice to which the rule relates, the Commission may exempt such person or class from all or part of such rule. Section 553 of title 5 shall apply to action under this paragraph.
 
 (3) Neither the pendency of a proceeding under this subsection respecting an exemption from a rule, nor the pendency of judicial proceedings to review the Commission's action or failure to act under this subsection, shall stay the applicability of such rule under subsection (a)(1)(B).
 
@@ -296,6 +296,8 @@ Pub. L. 93–637, title II, §202(c), Jan. 4, 1975, 88 Stat. 2198, provided that
 
 Section 202(d) of Pub. L. 93–637, as amended by Pub. L. 94–299, §2, May 29, 1976, 90 Stat. 588; Pub. L. 95–558, Nov. 1, 1978, 92 Stat. 2130, required the Federal Trade Commission and the Administrative Conference of the United States, not later than June 30, 1979, to conduct a study and submit a report to Congress on the rulemaking procedures under section 57a of this title.
 
-[1 So in original.](#57a_1)
+[1 So in original. Probably should be "and".](#57a_1)
 
-[2 So in original. Probably should be "of".](#57a_2)
+[2 So in original.](#57a_2)
+
+[3 So in original. Probably should be "of".](#57a_3)
