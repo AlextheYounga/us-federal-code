@@ -194,6 +194,16 @@ Subsec. (f). Pub. L. 116–136, §3854(b)(3), added subsec. (f).
 
 #### **Statutory Notes and Related Subsidiaries**
 
+#### Sunscreen Final Administrative Order
+
+Pub. L. 119–37, div. F, title V, §6506(b), Nov. 12, 2025, 139 Stat. 645, provided that: "A final administrative order on nonprescription sunscreen active ingredients issued under section 3854 of the Coronavirus Aid, Relief, and Economic Security Act (Public Law 116–136; 21 U.S.C. 360fff–3 note) shall—
+
+"(1) account for historical data regarding the safety of sunscreen active ingredients that have previously been accepted for marketing in the United States;
+
+"(2) account for the role of broad spectrum sunscreens with a Sun Protection Factor of 15 or higher in effective skin cancer prevention; and
+
+"(3) incorporate the evidence and testing standards for sunscreen active ingredients detailed in section 505G(r) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 355h) (as added by subsection (a))."
+
 #### Review of Nonprescription Sunscreen Active Ingredients
 
 Pub. L. 116–136, div. A, title III, §3854(a), Mar. 27, 2020, 134 Stat. 454, provided that:

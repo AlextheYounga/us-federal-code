@@ -30,13 +30,9 @@ Sec.
 
 710\. Career flexibility to enhance retention of members.
 
-711\. 1 Parental leave for members of the reserve component of the armed forces.
+710a. 1 Parental leave for members of the reserve component of the armed forces.
 
         
-
-#### Amendment of Analysis
-
-Pub. L. 118–159, div. A, title VI, §603(b)(2), (c), Dec. 23, 2024, 138 Stat. 1931, provided that, effective Oct. 1, 2025, this analysis is amended by renumbering item 711 as 710a. See 2024 Amendment note below.
 
   
 

@@ -68,6 +68,8 @@ Sec.
 
 1827\. Support and maintenance during emergencies.
 
+1828\. Administration of public outreach and services for Capitol Grounds and Arboretum
+
         
 
 #### SUBCHAPTER III—PERSONNEL

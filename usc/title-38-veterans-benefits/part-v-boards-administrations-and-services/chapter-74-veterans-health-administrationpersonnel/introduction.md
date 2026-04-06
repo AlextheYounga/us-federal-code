@@ -110,15 +110,11 @@ Sec.
 
         
 
-#### Applicability of Amendment
-
-Amendment of analysis by Pub. L. 118–210 applicable to any pay period of the Department of Veterans Affairs beginning on or after the date that is 180 days after Jan. 2, 2025. See 2025 Amendment note below.
-
 #### **Editorial Notes**
 
 #### Amendments
 
-**2025**—Pub. L. 118–210, title I, §142(a)(4)(B), Jan. 2, 2025, 138 Stat. 2746, substituted "PAY FOR PHYSICIANS AND OTHER HEALTH-CARE PERSONNEL" for "PAY FOR PHYSICIANS, PODIATRISTS, AND DENTISTS" in subchapter heading.
+**2025**—Pub. L. 118–210, title I, §142(a)(4)(B), Jan. 2, 2025, 138 Stat. 2746, substituted "PAY FOR PHYSICIANS AND OTHER HEALTH-CARE PERSONNEL" for "PAY FOR PHYSICIANS, PODIATRISTS, AND DENTISTS" in item for subchapter III.
 
 **2022**—Pub. L. 117–328, div. U, title I, §112(b), Dec. 29, 2022, 136 Stat. 5414, added item 7414.
 

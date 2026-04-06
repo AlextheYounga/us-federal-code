@@ -1,9 +1,5 @@
 ### SUBCHAPTER III—PAY FOR PHYSICIANS, PODIATRISTS, OPTOMETRISTS, AND DENTISTS
 
-#### Applicability of Amendment
-
-Amendment of analysis by Pub. L. 118–210 applicable to any pay period of the Department of Veterans Affairs beginning on or after the date that is 180 days after Jan. 2, 2025. See 2025 Amendment note below.
-
   
 
 #### **Editorial Notes**

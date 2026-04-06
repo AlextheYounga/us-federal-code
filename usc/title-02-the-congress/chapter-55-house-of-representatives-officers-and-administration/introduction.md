@@ -126,6 +126,8 @@ Sec.
 
 5606\. Arrangements for attendance at funeral of deceased House Members; payment of funeral expenses and expenses of attending funeral rites.
 
+5607\. Member security: funding for improvements.
+
         
 
 #### SUBCHAPTER IX—CORRECTIONS CALENDAR OFFICE
