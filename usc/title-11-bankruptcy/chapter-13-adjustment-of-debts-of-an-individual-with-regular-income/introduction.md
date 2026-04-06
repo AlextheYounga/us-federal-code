@@ -46,6 +46,8 @@ Sec.
 
         
 
+#### **Editorial Notes**
+
 #### Amendments
 
 **2005**—Pub. L. 109–8, title VII, §716(b)(2), Apr. 20, 2005, 119 Stat. 130, added item 1308.

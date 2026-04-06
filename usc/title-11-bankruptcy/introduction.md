@@ -26,6 +26,8 @@ Chap. Sec.
 
         
 
+#### **Editorial Notes**
+
 #### Amendments
 
 **2005**—Pub. L. 109–8, title VIII, §801(b), title X, §1007(d), Apr. 20, 2005, 119 Stat. 145, 188, substituted "Adjustments of Debts of a Family Farmer or Family Fisherman with Regular Annual Income" for "Adjustment of Debts of Family Farmers with Regular Annual Income" in item for chapter 12 and added item for chapter 15.
@@ -1123,6 +1125,10 @@ matter.
 | 1329(b), (c)             |                                                                                   |
 | 1330                     | 1071                                                                              |
 | 1501–151326              |                                                                                   |
+
+  
+
+#### **Statutory Notes and Related Subsidiaries**
 
 #### Enacting Clause
 

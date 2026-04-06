@@ -82,6 +82,8 @@ Chap. Sec.
 
 605\. Earth Science 60501
 
+606\. Space Weather 60601
+
         
 
 ## Subtitle VII—Access to Space
