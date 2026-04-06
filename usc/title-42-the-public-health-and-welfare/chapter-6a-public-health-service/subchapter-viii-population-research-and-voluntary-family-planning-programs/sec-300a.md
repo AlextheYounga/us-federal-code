@@ -28,4 +28,4 @@ For termination of Trust Territory of the Pacific Islands, see note set out prec
 
 #### Study of State Delivery of Services; Report to Congress
 
-Pub. L. 97–35, title IX, §931(c), Aug. 13, 1981, 95 Stat. 570, directed Secretary of Health and Human Services to conduct a study of possible ways of State delivery of services for which assistance is authorized by title X of the Public Health Service Act \[this subchapter\] and to report to Congress on results of such study 18 months after Aug. 13, 1981.
+Pub. L. 97–35, title IX, §931(c), Aug. 13, 1981, 95 Stat. 570, directed Secretary of Health and Human Services to conduct a study of possible ways of State delivery of services for which assistance is authorized by title X of the Public Health Service Act \[42 U.S.C. 300 et seq.\] and to report to Congress on results of such study 18 months after Aug. 13, 1981.

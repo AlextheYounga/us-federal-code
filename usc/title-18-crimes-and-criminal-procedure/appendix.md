@@ -366,7 +366,7 @@ a. *Access to Court Records*. Court personnel will have access to court records 
 
 b. *Access to Other Discoverable Information*. Except as otherwise authorized by a protective order, persons acting for the defense will not be given custody of classified information provided by the government. They may, at the discretion of the court, be afforded access to classified information provided by the government in secure locations that have been approved in accordance with §3 of these procedures, but such classified information must remain in the control of the classified information security officer. The classified information security officer also will control access to classified information in the possession of the defense that is filed with the court or is reasonably expected to come within the custody of the court.
 
-c. *Telephone and Computer Security*. Classified information must not be discussed, communicated, or processed using any non-secure communication device including standard commercial telephone instruments or office intercommunication systems, cellular devices, computers, and/or other electronic or internet-based communication services. Classified information may only be discussed, communicated and processed on devices cleared for the level of classification of the information to be disclosed or processed as approved by the classified information security officer.
+c. *Telephone and Computer Security*. Classified information must not be discussed, communicated, or processed using any non-secure communication device including standard commercial telephone instruments or office intercommunication systems, cellular devices, computers, and/or other electronic or internet-based communication services. Classified information may only be discussed, communicated and processed on devices cleared for the level of classification of the information to be disclosed or processed as approved by the Classified Information Security Officer.
 
 d. *Disposal of Classified Material*. The classified information security officer is responsible for the secure disposal of all classified materials in the custody of the court which are not otherwise required to be retained.
 
@@ -386,7 +386,7 @@ Any court records containing classified information must be maintained, through 
 
 12\. *Expenses*. All expenses of the United States Government that arise in connection with the implementation of these procedures, including any construction or equipment costs, will be borne by the Department of Justice and other appropriate Executive Branch agencies whose classified information is being protected.
 
-13\. *Interpretation*. Any question concerning the interpretation of any security requirement contained in these procedures will be resolved by the court in consultation with the classified information security officer who will consult with the Department of Justice Security Officer, if necessary.
+13\. *Interpretation*. Any question concerning the interpretation of any security requirement contained in these procedures will be resolved by the court in consultation with the Classified Information Security Officer who will consult with the Department of Justice Security Officer, if necessary.
 
 14\. *Term*. These revised procedures remain in effect until modified in writing by The Chief Justice after consultation with the Attorney General of the United States, the Director of National Intelligence, and the Secretary of Defense.
 
@@ -414,7 +414,7 @@ Effective this 15th day of January, 2011, having taken into account the views of
 
 #### References in Text
 
-Executive Order No. 12958, referred to in subsec. (c), which was formerly set out as a note under section 435 of Title 50, War and National Defense, was revoked by Ex. Ord. No. 13526, §6.2(g), Dec. 29, 2009, 75 F.R. 731, prior to section 435 of Title 50 being reclassified and renumbered as section 3161 of Title 50.
+Executive Order No. 12958, referred to in subsec. (c), which was formerly set out as a note under section 435 of Title 50, War and National Defense, was revoked by Ex. Ord. No. 13526, §6.2(g), Dec. 29, 2009, 75 F.R. 731, and was reclassified as a note under section 3161 of this title.
 
 #### Amendments
 
@@ -3800,7 +3800,7 @@ Rule 15(c) as amended imposes significant procedural limitations on taking certa
 
 This amendment does not supersede the relevant provisions of 18 U.S.C. §3509, authorizing depositions outside the defendant's physical presence in certain cases involving child victims and witnesses, or any other provision of law.
 
-*Changes Made to Proposed AmendmentReleased for Public Comment.* The limiting phrase “in the United States” was deleted from Rule 15(c)(1) and (2) and replaced with the phrase “Except as authorized by Rule 15(c)(3).” The revised language makes clear that foreign depositions under the authority of (c)(3) are exceptions to the provisions requiring the defendant's presence, but other depositions outside the United States remain subject to the general requirements of (c)(1) and (2). For example, a defendant may waive his right to be present at a foreign deposition, and a defendant who attends a foreign deposition may be removed from such a deposition if he is disruptive. In subdivision (c)(3)(D) the introductory phrase was revised to the simpler “because.”
+*Changes Made to Proposed Amendment Released for Public Comment.* The limiting phrase “in the United States” was deleted from Rule 15(c)(1) and (2) and replaced with the phrase “Except as authorized by Rule 15(c)(3).” The revised language makes clear that foreign depositions under the authority of (c)(3) are exceptions to the provisions requiring the defendant's presence, but other depositions outside the United States remain subject to the general requirements of (c)(1) and (2). For example, a defendant may waive his right to be present at a foreign deposition, and a defendant who attends a foreign deposition may be removed from such a deposition if he is disruptive. In subdivision (c)(3)(D) the introductory phrase was revised to the simpler “because.”
 
 In order to restrict foreign depositions outside of the defendant's presence to situations where the deposition serves an important public interest, the limiting phrase “in a felony prosecution” was added to subdivision (c)(3)(A).
 
@@ -4531,8 +4531,6 @@ U.S.C., Title 28:
   
 
 U.S.C., Title 47:
-
-        
 
  Section 33 (Submarine Cables; jurisdiction and venue of actions and offenses)
 

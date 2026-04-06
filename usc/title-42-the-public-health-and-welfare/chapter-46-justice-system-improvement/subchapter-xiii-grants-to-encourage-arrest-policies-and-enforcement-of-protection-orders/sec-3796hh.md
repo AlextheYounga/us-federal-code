@@ -128,10 +128,6 @@ Of the amounts appropriated for purposes of this subchapter for each fiscal year
 
 (Pub. L. 90–351, title I, §2101, as added Pub. L. 103–322, title IV, §40231(a)(3), Sept. 13, 1994, 108 Stat. 1932; amended Pub. L. 106–386, div. B, title I, §§1101(a)(2), (b)(2), 1102(b), 1109(c), title II, §1209(b), title V, §1512(b), Oct. 28, 2000, 114 Stat. 1492, 1493, 1495, 1503, 1509, 1533; Pub. L. 109–162, title I, §102(b), title IX, §906(c), Jan. 5, 2006, 119 Stat. 2975, 3081; Pub. L. 109–271, §7(a)(5), Aug. 12, 2006, 120 Stat. 764; Pub. L. 113–4, title I, §102(a)(1), Mar. 7, 2013, 127 Stat. 70.)
 
-#### Amendment of Section
-
-For effective date of amendment by Pub. L. 113–4, see Effective Date of 2013 Amendment note below.
-
 #### References in Text
 
 January 5, 2006, referred to in subsec. (c)(5), was in the original “the date of enactment of this section”, which was translated as meaning the date of enactment of Pub. L. 109–162, which enacted par. (5) of subsec. (c), to reflect the probable intent of Congress.

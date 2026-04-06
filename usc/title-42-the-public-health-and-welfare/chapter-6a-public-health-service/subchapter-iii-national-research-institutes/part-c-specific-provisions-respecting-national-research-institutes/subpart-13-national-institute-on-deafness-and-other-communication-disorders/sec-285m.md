@@ -26,9 +26,9 @@ Pub. L. 100–690, title II, §2613(b), Nov. 18, 1988, 102 Stat. 4238, provided 
 
 “(B) The provisions of the Public Health Service Act referred to in subparagraph (A) are—
 
-“(A) sections 401(b)(1) and 457 \[sections 281(b)(1) and 285j of this title\];
+“(A) sections 401(b)(1) and 457 \[42 U.S.C. 281(b)(1), 285j\];
 
-“(B) part C of title IV \[this part\]; and
+“(B) part C of title IV \[42 U.S.C. 285 et seq.\]; and
 
 “(C) the heading for subpart 10 of such part C \[42 U.S.C. prec. 285j\].
 

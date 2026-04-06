@@ -362,7 +362,7 @@ Pub. L. 108–173, title VII, §703, Dec. 8, 2003, 117 Stat. 2336, provided that
 
 “(1) In general.—Subject to paragraph (2), the amount of payment for an episode of care for home health services, a portion of which consists of substitute medical adult day-care services, under the demonstration project shall be made at a rate equal to 95 percent of the amount that would otherwise apply for such home health services under section 1895 of the Social Security Act (42 U.S.C. 1395fff). In no case may a home health agency, or a medical adult day-care facility under arrangements with a home health agency, separately charge a beneficiary for medical adult day-care services furnished under the plan of care.
 
-“(2) Adjustment in case of overutilization of substitute adult day-care services to ensure budget neutrality.—The Secretary shall monitor the expenditures under the demonstration project and under title XVIII of the Social Security Act \[this subchapter\] for home health services. If the Secretary estimates that the total expenditures under the demonstration project and under such title XVIII for home health services for a period determined by the Secretary exceed expenditures that would have been made under such title XVIII for home health services for such period if the demonstration project had not been conducted, the Secretary shall adjust the rate of payment to medical adult day-care facilities under paragraph (1) in order to eliminate such excess.
+“(2) Adjustment in case of overutilization of substitute adult day-care services to ensure budget neutrality.—The Secretary shall monitor the expenditures under the demonstration project and under title XVIII of the Social Security Act \[42 U.S.C. 1395 et seq.\] for home health services. If the Secretary estimates that the total expenditures under the demonstration project and under such title XVIII for home health services for a period determined by the Secretary exceed expenditures that would have been made under such title XVIII for home health services for such period if the demonstration project had not been conducted, the Secretary shall adjust the rate of payment to medical adult day-care facilities under paragraph (1) in order to eliminate such excess.
 
 “(c) Demonstration Project Sites.—The demonstration project established under this section shall be conducted in not more than 5 sites in States selected by the Secretary that license or certify providers of services that furnish medical adult day-care services.
 
@@ -372,7 +372,7 @@ Pub. L. 108–173, title VII, §703, Dec. 8, 2003, 117 Stat. 2336, provided that
 
 “(f) Preference in Selecting Agencies.—In selecting home health agencies to participate under the demonstration project, the Secretary shall give preference to those agencies that are currently licensed or certified through common ownership and control to furnish medical adult day-care services.
 
-“(g) Waiver Authority.—The Secretary may waive such requirements of title XVIII of the Social Security Act \[this subchapter\] as may be necessary for the purposes of carrying out the demonstration project, other than waiving the requirement that an individual be homebound in order to be eligible for benefits for home health services.
+“(g) Waiver Authority.—The Secretary may waive such requirements of title XVIII of the Social Security Act \[42 U.S.C. 1395 et seq.\] as may be necessary for the purposes of carrying out the demonstration project, other than waiving the requirement that an individual be homebound in order to be eligible for benefits for home health services.
 
 “(h) Evaluation and Report.—The Secretary shall conduct an evaluation of the clinical and cost-effectiveness of the demonstration project. Not later than 6 months after the completion of the project, the Secretary shall submit to Congress a report on the evaluation, and shall include in the report the following:
 
@@ -396,7 +396,7 @@ Pub. L. 108–173, title VII, §703, Dec. 8, 2003, 117 Stat. 2336, provided that
 
 “(3) Medical adult day-care services.—The term ‘medical adult day-care services’ means—
 
-“(A) home health service items and services described in paragraphs (1) through (7) of section 1861(m) \[probably means section 1861(m) of the Social Security Act which is classified to section 1395x(m) of this title\] furnished in a medical adult day-care facility;
+“(A) home health service items and services described in paragraphs (1) through (7) of section 1861(m) \[probably means section 1861(m) of the Social Security Act, 42 U.S.C. 1395x(m)\] furnished in a medical adult day-care facility;
 
 “(B) a program of supervised activities furnished in a group setting in the facility that—
 
@@ -406,13 +406,13 @@ Pub. L. 108–173, title VII, §703, Dec. 8, 2003, 117 Stat. 2336, provided that
 
 “(C) such other services as the Secretary may specify.
 
-“(4) Medicare beneficiary.—The term ‘medicare beneficiary’ means an individual entitled to benefits under part A of this title \[probably means part A of title XVIII of the Social Security Act which is classified to part A of this subchapter\], enrolled under part B of this title \[probably means part B of title XVIII of the Social Security Act which is classified to part B of this subchapter\], or both.”
+“(4) Medicare beneficiary.—The term ‘medicare beneficiary’ means an individual entitled to benefits under part A of this title \[probably means part A of title XVIII of the Social Security Act, 42 U.S.C. 1395c et seq.\], enrolled under part B of this title \[probably means part B of title XVIII of the Social Security Act, 42 U.S.C. 1395j et seq.\], or both.”
 
 #### Temporary Suspension of Oasis Requirement for Collection of Data on Non-Medicare and Non-Medicaid Patients
 
 Pub. L. 108–173, title VII, §704, Dec. 8, 2003, 117 Stat. 2338, provided that:
 
-“(a) In General.—During the period described in subsection (b), the Secretary \[of Health and Human Services\] may not require, under section 4602(e) of the Balanced Budget Act of 1997 (Public Law 105–33; 111 Stat. 467) \[set out as a note under this section\] or otherwise under OASIS, a home health agency to gather or submit information that relates to an individual who is not eligible for benefits under either title XVIII or title XIX of the Social Security Act \[this subchapter and subchapter XIX of this chapter\] (such information in this section referred to as ‘non-medicare/medicaid OASIS information’).
+“(a) In General.—During the period described in subsection (b), the Secretary \[of Health and Human Services\] may not require, under section 4602(e) of the Balanced Budget Act of 1997 (Public Law 105–33; 111 Stat. 467) \[set out as a note under this section\] or otherwise under OASIS, a home health agency to gather or submit information that relates to an individual who is not eligible for benefits under either title XVIII or title XIX of the Social Security Act \[42 U.S.C. 1395 et seq., 1396 et seq.\] (such information in this section referred to as ‘non-medicare/medicaid OASIS information’).
 
 “(b) Period of Suspension.—The period described in this subsection—
 
@@ -466,13 +466,13 @@ Pub. L. 106–554, §1(a)(6) \[title V, §503\], Dec. 21, 2000, 114 Stat. 2763, 
 
 “(2) is not receiving payments pursuant to section 405.371 of title 42, Code of Federal Regulations;
 
-“(3) is excluded from the medicare program under title XI of the Social Security Act \[subchapter XI of this chapter\];
+“(3) is excluded from the medicare program under title XI of the Social Security Act \[42 U.S.C. 1301 et seq.\];
 
 “(4) no longer has a provider agreement under section 1866 of such Act (42 U.S.C. 1395cc);
 
 “(5) is no longer in business; or
 
-“(6) is subject to a court order providing for the withholding of medicare payments under title XVIII of such Act \[this subchapter\].”
+“(6) is subject to a court order providing for the withholding of medicare payments under title XVIII of such Act \[42 U.S.C. 1395 et seq.\].”
 
 #### Temporary Increase for Home Health Services Furnished in a Rural Area
 
@@ -536,7 +536,7 @@ Pub. L. 106–113, div. B, §1000(a)(6) \[title III, §301\], Nov. 29, 1999, 113
 
 #### Report to Congress on Need for Reductions
 
-Pub. L. 106–113, div. B, §1000(a)(6) \[title III, §302(c)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–360, as amended by Pub. L. 106–554, §1(a)(6) \[title V, §501(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–529, provided that: “Not later than April 1, 2002, the Comptroller General of the United States shall submit to Congress a report analyzing the need for the 15 percent reduction under subsection (b)(3)(A)(ii) of such section \[subsec. (b)(3)(A)(ii) of this section\], or for any reduction, in the computation of the base payment amounts under the prospective payment system for home health services established under such section.”
+Pub. L. 106–113, div. B, §1000(a)(6) \[title III, §302(c)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–360, as amended by Pub. L. 106–554, §1(a)(6) \[title V, §501(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–529, provided that: “Not later than April 1, 2002, the Comptroller General of the United States shall submit to Congress a report analyzing the need for the 15 percent reduction under subsection (b)(3)(A)(ii) of such section \[42 U.S.C. 1395fff(b)(3)(A)(ii)\], or for any reduction, in the computation of the base payment amounts under the prospective payment system for home health services established under such section.”
 
 #### Study and Report to Congress Regarding Exemption of Rural Agencies and Populations From Inclusion in Home Health Prospective Payment System
 
@@ -562,7 +562,7 @@ Pub. L. 105–33, title IV, §4603(e), Aug. 5, 1997, 111 Stat. 471, as amended b
 
 Pub. L. 105–33, title IV, §4616, Aug. 5, 1997, 111 Stat. 475, provided that:
 
-“(a) Estimate.—Not later than October 1, 1997, the Secretary of Health and Human Services shall submit to the Committees on Commerce and Ways and Means of the House of Representatives and the Committee on Finance of the Senate a report that includes an estimate of the outlays that will be made under parts A and B of title XVIII of the Social Security Act \[parts A and B of this subchapter\] for the provision of home health services during each of fiscal years 1998 through 2002.
+“(a) Estimate.—Not later than October 1, 1997, the Secretary of Health and Human Services shall submit to the Committees on Commerce and Ways and Means of the House of Representatives and the Committee on Finance of the Senate a report that includes an estimate of the outlays that will be made under parts A and B of title XVIII of the Social Security Act \[42 U.S.C. 1395c et seq., 1395j et seq.\] for the provision of home health services during each of fiscal years 1998 through 2002.
 
 “(b) Annual Report.—Not later than the end of each of years 1999 through 2002, the Secretary shall submit to such Committees a report that compares the actual outlays under such parts for such services during the fiscal year ending in the year, to the outlays estimated under subsection (a) for such fiscal year. If the Secretary finds that such actual outlays were greater than such estimated outlays for the fiscal year, the Secretary shall include in the report recommendations regarding beneficiary copayments for home health services provided under the medicare program or such other methods as will reduce the growth in outlays for home health services under the medicare program.”
 

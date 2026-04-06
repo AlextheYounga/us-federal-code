@@ -154,7 +154,7 @@ Pub. L. 96–499, title IX, §956(b), Dec. 5, 1980, 94 Stat. 2648, provided that
 
 #### Effective Date
 
-Pub. L. 92–603, title II, §213(b), Oct. 30, 1972, 86 Stat. 1386, provided that: “The amendments made by this section \[enacting this section\] shall be effective with respect to claims under part A or part B of title XVIII of the Social Security Act \[part A or part B of this subchapter\], filed with respect to items or services furnished after the date of the enactment of this Act \[Oct. 30, 1972\].”
+Pub. L. 92–603, title II, §213(b), Oct. 30, 1972, 86 Stat. 1386, provided that: “The amendments made by this section \[enacting this section\] shall be effective with respect to claims under part A or part B of title XVIII of the Social Security Act \[42 U.S.C. 1395c et seq., 1395j et seq.\], filed with respect to items or services furnished after the date of the enactment of this Act \[Oct. 30, 1972\].”
 
 #### Provisions Relating to Advance Beneficiary Notices; Report on Prior Determination Process
 
@@ -164,9 +164,9 @@ Pub. L. 108–173, title IX, §938(c), Dec. 8, 2003, 117 Stat. 2415, provided th
 
 “(2) Outreach and education.—The Secretary shall establish a program of outreach and education for beneficiaries and providers of services and other persons on the appropriate use of advance beneficiary notices and coverage policies under the medicare program.
 
-“(3) GAO report on use of advance beneficiary notices.—Not later than 18 months after the date on which section 1869(h) of the Social Security Act \[section 1395ff(h) of this title\] (as added by subsection (a)) takes effect, the Comptroller General of the United States shall submit to Congress a report on the use of advance beneficiary notices under title XVIII of such Act \[this subchapter\]. Such report shall include information concerning the providers of services and other persons that have provided such notices and the response of beneficiaries to such notices.
+“(3) GAO report on use of advance beneficiary notices.—Not later than 18 months after the date on which section 1869(h) of the Social Security Act \[42 U.S.C. 1395ff(h)\] (as added by subsection (a)) takes effect, the Comptroller General of the United States shall submit to Congress a report on the use of advance beneficiary notices under title XVIII of such Act \[42 U.S.C. 1395 et seq.\]. Such report shall include information concerning the providers of services and other persons that have provided such notices and the response of beneficiaries to such notices.
 
-“(4) GAO report on use of prior determination process.—Not later than 36 months after the date on which section 1869(h) of the Social Security Act \[section 1395ff(h) of this title\] (as added by subsection (a)) takes effect, the Comptroller General of the United States shall submit to Congress a report on the use of the prior determination process under such section. Such report shall include—
+“(4) GAO report on use of prior determination process.—Not later than 36 months after the date on which section 1869(h) of the Social Security Act \[42 U.S.C. 1395ff(h)\] (as added by subsection (a)) takes effect, the Comptroller General of the United States shall submit to Congress a report on the use of the prior determination process under such section. Such report shall include—
 
 “(A) information concerning—
 
@@ -184,7 +184,7 @@ Pub. L. 108–173, title IX, §938(c), Dec. 8, 2003, 117 Stat. 2415, provided th
 
 “(C) recommendations for improvements or continuation of such process.
 
-“(5) Advance beneficiary notice defined.—In this subsection, the term ‘advance beneficiary notice’ means a written notice provided under section 1879(a) of the Social Security Act (42 U.S.C. 1395pp(a)) to an individual entitled to benefits under part A or enrolled under part B of title XVIII of such Act \[part A and part B of this subchapter\] before items or services are furnished under such part in cases where a provider of services or other person that would furnish the item or service believes that payment will not be made for some or all of such items or services under such title \[this subchapter\].”
+“(5) Advance beneficiary notice defined.—In this subsection, the term ‘advance beneficiary notice’ means a written notice provided under section 1879(a) of the Social Security Act (42 U.S.C. 1395pp(a)) to an individual entitled to benefits under part A or enrolled under part B of title XVIII of such Act \[42 U.S.C. 1395c et seq., 1395j et seq.\] before items or services are furnished under such part in cases where a provider of services or other person that would furnish the item or service believes that payment will not be made for some or all of such items or services under such title \[42 U.S.C. 1395 et seq.\].”
 
 #### Reports to Congress on Denials of Bills for Payment
 

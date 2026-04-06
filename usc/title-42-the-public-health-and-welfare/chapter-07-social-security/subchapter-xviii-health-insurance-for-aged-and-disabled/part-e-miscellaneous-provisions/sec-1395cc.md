@@ -838,11 +838,11 @@ Amendment by section 932(b), (c)(1) of Pub. L. 108–173 applicable to appeals f
 
 Pub. L. 108–173, title IX, §936(b), Dec. 8, 2003, 117 Stat. 2412, provided that:
 
-“(1) Enrollment process.—The Secretary \[of Health and Human Services\] shall provide for the establishment of the enrollment process under section 1866(j)(1) of the Social Security Act \[subsec. (j)(1) of this section\], as added by subsection (a)(2), within 6 months after the date of the enactment of this Act \[Dec. 8, 2003\].
+“(1) Enrollment process.—The Secretary \[of Health and Human Services\] shall provide for the establishment of the enrollment process under section 1866(j)(1) of the Social Security Act \[42 U.S.C. 1395cc(j)(1)\], as added by subsection (a)(2), within 6 months after the date of the enactment of this Act \[Dec. 8, 2003\].
 
-“(2) Consultation.—Section 1866(j)(1)(C) of the Social Security Act \[subsec. (j)(1)(C) of this section\], as added by subsection (a)(2), shall apply with respect to changes in provider enrollment forms made on or after January 1, 2004.
+“(2) Consultation.—Section 1866(j)(1)(C) of the Social Security Act \[42 U.S.C. 1395cc(j)(1)(C)\], as added by subsection (a)(2), shall apply with respect to changes in provider enrollment forms made on or after January 1, 2004.
 
-“(3) Hearing rights.—Section 1866(j)(2) of the Social Security Act \[former subsec. (j)(2), now subsec. (j)(8), of this section\], as added by subsection (a)(2), shall apply to denials occurring on or after such date (not later than 1 year after the date of the enactment of this Act \[Dec. 8, 2003\]) as the Secretary specifies.”
+“(3) Hearing rights.—Section 1866(j)(2) \[now 1866(j)(8)\] of the Social Security Act \[42 U.S.C. 1395cc(j)(8)\], as added by subsection (a)(2), shall apply to denials occurring on or after such date (not later than 1 year after the date of the enactment of this Act \[Dec. 8, 2003\]) as the Secretary specifies.”
 
 Pub. L. 108–173, title IX, §947(b), Dec. 8, 2003, 117 Stat. 2425, provided that: “The amendments made by this \[sic\] subsection (a) \[amending this section\] shall apply to hospitals as of July 1, 2004.”
 
@@ -938,11 +938,11 @@ Pub. L. 99–576, title II, §233(b), Oct. 28, 1986, 100 Stat. 3265, provided th
 
 Amendment by Pub. L. 99–514 effective, except as otherwise provided, as if included in enactment of the Consolidated Omnibus Budget Reconciliation Act of 1985, Pub. L. 99–272, see section 1895(e) of Pub. L. 99–514, set out as a note under section 162 of Title 26, Internal Revenue Code.
 
-Pub. L. 99–509, title IX, §9305(b)(2), Oct. 21, 1986, 100 Stat. 1989, provided that: “The Secretary of Health and Human Services shall first prescribe the language required under section 1866(a)(1)(M) of the Social Security Act \[subsec. (a)(1)(M) of this section\] not later than six months after the date of the enactment of this Act \[Oct. 21, 1986\]. The requirement of such section shall apply to admissions to hospitals occurring on such date (not later than 60 days after the date such language is first prescribed) as the Secretary shall provide.”
+Pub. L. 99–509, title IX, §9305(b)(2), Oct. 21, 1986, 100 Stat. 1989, provided that: “The Secretary of Health and Human Services shall first prescribe the language required under section 1866(a)(1)(M) of the Social Security Act \[42 U.S.C. 1395cc(a)(1)(M)\] not later than six months after the date of the enactment of this Act \[Oct. 21, 1986\]. The requirement of such section shall apply to admissions to hospitals occurring on such date (not later than 60 days after the date such language is first prescribed) as the Secretary shall provide.”
 
 Amendment by section 9320(h)(2) of Pub. L. 99–509 applicable to services furnished on or after Jan. 1, 1989, with exceptions for hospitals located in rural areas which meet certain requirements related to certified registered nurse anesthetists, see section 9320(i), (k) of Pub. L. 99–509, as amended, set out as notes under section 1395k of this title.
 
-Pub. L. 99–509, title IX, §9332(e)(2), Oct. 21, 1986, 100 Stat. 2025, provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply to agreements under section 1866(a) of the Social Security Act \[subsec. (a) of this section\] as of October 1, 1987.”
+Pub. L. 99–509, title IX, §9332(e)(2), Oct. 21, 1986, 100 Stat. 2025, provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply to agreements under section 1866(a) of the Social Security Act \[42 U.S.C. 1395cc(a)\] as of October 1, 1987.”
 
 Amendment by section 9337(c)(2) of Pub. L. 99–509 applicable to expenses incurred for outpatient occupational therapy services furnished on or after July 1, 1987, see section 9337(e) of Pub. L. 99–509, set out as a note under section 1395k of this title.
 
@@ -1010,9 +1010,9 @@ Amendment by Pub. L. 95–292 effective with respect to services, supplies, and 
 
 Pub. L. 95–210, §2(f), Dec. 13, 1977, 91 Stat. 1489, provided that:
 
-“(1) The amendments made by this section \[amending this section and sections 1396a, 1396d, and 1396i of this title\] shall (except as otherwise provided in paragraph (2)) apply to medical assistance provided, under a State plan approved under title XIX of the Social Security Act \[subchapter XIX of this chapter\], on and after the first day of the first calendar quarter that begins more than six months after the date of enactment of this Act \[Dec. 13, 1977\].
+“(1) The amendments made by this section \[amending this section and sections 1396a, 1396d, and 1396i of this title\] shall (except as otherwise provided in paragraph (2)) apply to medical assistance provided, under a State plan approved under title XIX of the Social Security Act \[42 U.S.C. 1396 et seq.\], on and after the first day of the first calendar quarter that begins more than six months after the date of enactment of this Act \[Dec. 13, 1977\].
 
-“(2) In the case of a State plan for medical assistance under title XIX of the Social Security Act \[subchapter XIX of this chapter\] which the Secretary determines requires State legislation in order for the plan to meet the additional requirements imposed by the amendments made by this section, the State plan shall not be regarded as failing to comply with the requirements of such title \[subchapter\] solely on the basis of its failure to meet these additional requirements before the first day of the first calendar quarter beginning after the close of the first regular session of the State legislature that begins after the date of enactment of this Act \[Dec. 13, 1977\].”
+“(2) In the case of a State plan for medical assistance under title XIX of the Social Security Act \[42 U.S.C. 1396 et seq.\] which the Secretary determines requires State legislation in order for the plan to meet the additional requirements imposed by the amendments made by this section, the State plan shall not be regarded as failing to comply with the requirements of such title \[42 U.S.C. 1396 et seq.\] solely on the basis of its failure to meet these additional requirements before the first day of the first calendar quarter beginning after the close of the first regular session of the State legislature that begins after the date of enactment of this Act \[Dec. 13, 1977\].”
 
 Amendment by section 3(b) of Pub. L. 95–142 effective Oct. 25, 1977, see section 3(e) of Pub. L. 95–142, set out as an Effective Date note under section 1320a–3 of this title.
 
@@ -1028,7 +1028,7 @@ Amendment by section 223(e), (g) of Pub. L. 92–603 effective with respect to a
 
 Amendment by section 227(d)(2) of Pub. L. 92–603 applicable with respect to accounting periods beginning after June 30, 1973, see section 227(g) of Pub. L. 92–603, set out as a note under section 1395x of this title.
 
-Pub. L. 92–603, title II, §249A(e), Oct. 30, 1972, 86 Stat. 1427, provided that: “The provisions of this section \[enacting section 1396 of this title and amending this section\] shall be effective with respect to agreements filed with the Secretary under section 1866 of the Social Security Act \[this section\] by skilled nursing facilities (as defined in section 1861(j) of such Act \[section 1395x(j) of this title\]) before, on, or after the date of enactment of this Act \[Oct. 30, 1972\], but accepted by him on or after such date.”
+Pub. L. 92–603, title II, §249A(e), Oct. 30, 1972, 86 Stat. 1427, provided that: “The provisions of this section \[enacting section 1396 of this title and amending this section\] shall be effective with respect to agreements filed with the Secretary under section 1866 of the Social Security Act \[42 U.S.C. 1395cc\] by skilled nursing facilities (as defined in section 1861(j) of such Act \[42 U.S.C. 1395x(j)\]) before, on, or after the date of enactment of this Act \[Oct. 30, 1972\], but accepted by him on or after such date.”
 
 Amendment by section 281(c) of Pub. L. 92–603 applicable in the case of notices sent to individuals after 1968, see section 281(g) of Pub. L. 92–603, set out as a note under section 1395gg of this title.
 
@@ -1090,13 +1090,13 @@ Pub. L. 101–508, title IV, §4206(c), Nov. 5, 1990, 104 Stat. 1388–116, prov
 
 Pub. L. 99–576, title II, §233(c), Oct. 28, 1986, 100 Stat. 3265, provided that:
 
-“(1) The Secretary of Health and Human Services shall periodically submit to the Congress a report on the number of hospitals that have terminated or failed to renew an agreement under section 1866 of the Social Security Act \[this section\] as a result of the additional conditions imposed under the amendments made by subsection (a) \[amending this section\].
+“(1) The Secretary of Health and Human Services shall periodically submit to the Congress a report on the number of hospitals that have terminated or failed to renew an agreement under section 1866 of the Social Security Act \[42 U.S.C. 1395cc\] as a result of the additional conditions imposed under the amendments made by subsection (a) \[amending this section\].
 
 “(2) Not later than October 1, 1987, the Administrator of Veterans’ Affairs shall submit to the Committees on Veterans’ Affairs of the Senate and House of Representatives a report regarding implementation of this section \[amending this section\]. Thereafter, the Administrator shall notify such committees if any hospital terminates or fails to renew an agreement described in paragraph (1) for the reasons described in that paragraph.”
 
 \[For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual, semiannual, or other regular periodic report listed in House Document No. 103–7 (in which item 7 on page 96 identifies a report on “Hospitals that have terminated or failed to renew an agreement under section 1866 of Social Security Act as a result of the additional conditions imposed” authorized by 42 U.S.C. 1395cc note), see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance.\]
 
-Pub. L. 99–272, title IX, §9122(d), Apr. 7, 1986, 100 Stat. 167, provided that: “The Secretary of Health and Human Services shall report to Congress periodically on the number of hospitals that have terminated or failed to renew an agreement under section 1866 of the Social Security Act \[this section\] as a result of the additional conditions imposed under the amendments made by subsection (a) \[amending this section\].”
+Pub. L. 99–272, title IX, §9122(d), Apr. 7, 1986, 100 Stat. 167, provided that: “The Secretary of Health and Human Services shall report to Congress periodically on the number of hospitals that have terminated or failed to renew an agreement under section 1866 of the Social Security Act \[42 U.S.C. 1395cc\] as a result of the additional conditions imposed under the amendments made by subsection (a) \[amending this section\].”
 
 \[For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual, semiannual, or other regular periodic report listed in House Document No. 103–7 (in which item 7 on page 96 identifies a report on “Hospitals that have terminated or failed to renew an agreement under section 1866 of Social Security Act as a result of the additional conditions imposed” authorized by 42 U.S.C. 1395cc note), see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance.\]
 
@@ -1112,13 +1112,13 @@ For authority to waive the requirements of subsec. (a)(1)(H) of this section for
 
 Pub. L. 97–248, title I, §119, Sept. 3, 1982, 96 Stat. 355, provided that:
 
-“(a) The Secretary of Health and Human Services shall undertake an initiative to improve medical review by intermediaries and carriers under title XVIII of the Social Security Act \[this subchapter\] and to encourage similar review efforts by private insurers and other private entities. The initiative shall include the development of specific standards for measuring the performance of such intermediaries and carriers with respect to the identification and reduction of unnecessary utilization of health services.
+“(a) The Secretary of Health and Human Services shall undertake an initiative to improve medical review by intermediaries and carriers under title XVIII of the Social Security Act \[42 U.S.C. 1395 et seq.\] and to encourage similar review efforts by private insurers and other private entities. The initiative shall include the development of specific standards for measuring the performance of such intermediaries and carriers with respect to the identification and reduction of unnecessary utilization of health services.
 
-“(b) Where such review activity results in the denial of payment to providers of services under title XVIII of the Social Security Act \[this subchapter\], such providers shall be prohibited, in accordance with sections 1866 and 1879 of such title \[this section and section 1395pp of this title\], from collecting any payments from beneficiaries unless otherwise provided under such title.”
+“(b) Where such review activity results in the denial of payment to providers of services under title XVIII of the Social Security Act \[42 U.S.C. 1395 et seq.\], such providers shall be prohibited, in accordance with sections 1866 and 1879 of such title \[42 U.S.C. 1395cc, 1395pp\], from collecting any payments from beneficiaries unless otherwise provided under such title.”
 
 #### Agreements Filed and Accepted Prior to Oct. 30, 1972, Deemed To Be for Specified Term Ending Dec. 31, 1973
 
-Pub. L. 92–603, title II, §249A(f), Oct. 30, 1972, 86 Stat. 1427, provided that: “Notwithstanding any other provision of law, any agreement, filed by a skilled nursing facility (as defined in section 1861(j) of the Social Security Act \[section 1395x(j) of this title\]) with the Secretary under section 1866 of such Act \[this section\] and accepted by him prior to the date of enactment of this Act \[Oct. 30, 1972\], which was in effect on such date shall be deemed to be for a specified term ending on December 31, 1973.”
+Pub. L. 92–603, title II, §249A(f), Oct. 30, 1972, 86 Stat. 1427, provided that: “Notwithstanding any other provision of law, any agreement, filed by a skilled nursing facility (as defined in section 1861(j) of the Social Security Act \[42 U.S.C. 1395x(j)\]) with the Secretary under section 1866 of such Act \[42 U.S.C. 1395cc\] and accepted by him prior to the date of enactment of this Act \[Oct. 30, 1972\], which was in effect on such date shall be deemed to be for a specified term ending on December 31, 1973.”
 
 [1 See References in Text note below.](#1395cc_1)
 

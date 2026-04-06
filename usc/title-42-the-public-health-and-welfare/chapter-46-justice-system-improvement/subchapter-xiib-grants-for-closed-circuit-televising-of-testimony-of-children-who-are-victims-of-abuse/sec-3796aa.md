@@ -4,11 +4,13 @@ The Director shall provide funds to eligible States and units of local governmen
 
 (Pub. L. 90–351, title I, §1401, as added Pub. L. 101–647, title II, §241(a)(2), Nov. 29, 1990, 104 Stat. 4810.)
 
+#### Codification
+
+Another section 1401 of Pub. L. 90–351, title IX, June 19, 1968, 82 Stat. 238, enacted section 3103a of Title 18, Crimes and Criminal Procedure.
+
 #### Prior Provisions
 
 A prior section 1401 of Pub. L. 90–351 was renumbered section 2601 and is classified to section 3797 of this title.
-
-Another prior section 1401 of Pub. L. 90–351, title IX, June 19, 1968, 82 Stat. 238, enacted section 3103a of Title 18, Crimes and Criminal Procedure.
 
 #### Transfer of Functions
 

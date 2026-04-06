@@ -354,7 +354,7 @@ Pub. L. 105–200, title II, §201(g), July 16, 1998, 112 Stat. 658, provided th
 
 #### Regulations
 
-Pub. L. 105–200, title II, §201(c), July 16, 1998, 112 Stat. 656, provided that: “Within 9 months after the date of the enactment of this section \[July 16, 1998\], the Secretary of Health and Human Services shall prescribe regulations governing the implementation of section 458A \[now 458\] of the Social Security Act \[this section\] when such section takes effect and the implementation of subsection (b) of this section \[formerly set out as a note below\].”
+Pub. L. 105–200, title II, §201(c), July 16, 1998, 112 Stat. 656, provided that: “Within 9 months after the date of the enactment of this section \[July 16, 1998\], the Secretary of Health and Human Services shall prescribe regulations governing the implementation of section 458A \[now 458\] of the Social Security Act \[42 U.S.C. 658a\] when such section takes effect and the implementation of subsection (b) of this section \[formerly set out as a note below\].”
 
 #### Transition Rule
 
@@ -366,7 +366,7 @@ Pub. L. 105–200, title II, §201(d), (f)(2)(C), July 16, 1998, 112 Stat. 656, 
 
 “(1) General review of new incentive payment system.—
 
-“(A) In general.—The Secretary of Health and Human Services shall conduct a study of the implementation of the incentive payment system established by section 458 of the Social Security Act \[this section\], in order to identify the problems and successes of the system.
+“(A) In general.—The Secretary of Health and Human Services shall conduct a study of the implementation of the incentive payment system established by section 458 of the Social Security Act \[42 U.S.C. 658a\], in order to identify the problems and successes of the system.
 
 “(B) Reports to the congress.—
 
@@ -378,6 +378,6 @@ Pub. L. 105–200, title II, §201(d), (f)(2)(C), July 16, 1998, 112 Stat. 656, 
 
 “(2) Development of medical support incentive.—
 
-“(A) In general.—The Secretary of Health and Human Services, in consultation with State directors of programs operated under part D of title IV of the Social Security Act \[this part\] and representatives of children potentially eligible for medical support, shall develop a performance measure based on the effectiveness of States in establishing and enforcing medical support obligations, and shall make recommendations for the incorporation of the measure, in a revenue neutral manner, into the incentive payment system established by section 458A \[now 458\] of the Social Security Act \[this section\].
+“(A) In general.—The Secretary of Health and Human Services, in consultation with State directors of programs operated under part D of title IV of the Social Security Act \[42 U.S.C. 651 et seq.\] and representatives of children potentially eligible for medical support, shall develop a performance measure based on the effectiveness of States in establishing and enforcing medical support obligations, and shall make recommendations for the incorporation of the measure, in a revenue neutral manner, into the incentive payment system established by section 458A \[now 458\] of the Social Security Act \[42 U.S.C. 658a\].
 
 “(B) Report.—Not later than October 1, 1999, the Secretary shall submit to the Congress a report that describes the performance measure and contains the recommendations required by subparagraph (A).”

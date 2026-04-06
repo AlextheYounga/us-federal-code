@@ -120,7 +120,7 @@ Except as specifically provided in section 411 of Pub. L. 100–360, amendment b
 
 #### Effective Date of 1987 Amendment
 
-Pub. L. 100–203, title IV, §4005(b)(4), Dec. 22, 1987, 101 Stat. 1330–49, provided that: “The amendments made by paragraphs (1) and (2) \[amending this section\] shall apply to agreements under section 1883 of the Social Security Act \[this section\] entered into after March 31, 1988.”
+Pub. L. 100–203, title IV, §4005(b)(4), Dec. 22, 1987, 101 Stat. 1330–49, provided that: “The amendments made by paragraphs (1) and (2) \[amending this section\] shall apply to agreements under section 1883 of the Social Security Act \[42 U.S.C. 1395tt\] entered into after March 31, 1988.”
 
 Amendment by section 4201(d)(3) of Pub. L. 100–203 applicable to services furnished on or after Oct. 1, 1990, without regard to whether regulations to implement such amendment are promulgated by such date, except as otherwise specifically provided in section 1395i–3 of this title, see section 4204(a) of Pub. L. 100–203, as amended, set out as an Effective Date note under section 1395i–3 of this title.
 
@@ -130,11 +130,11 @@ Pub. L. 96–499, title IX, §904(d), Dec. 5, 1980, 94 Stat. 2617, provided that
 
 #### Hold Harmless for Amendment by Pub. L. 101–508
 
-Pub. L. 101–508, title IV, §4008(j)(2), Nov. 5, 1990, 104 Stat. 1388–51, provided that: “If, as a result of the amendment made by paragraph (1) \[amending this section\], the reasonable cost of routine services furnished by a hospital during a calendar year (as determined under section 1883 of the Social Security Act \[this section\]) is less than the reasonable cost of such services determined under such section for the previous calendar year, the reasonable cost of such services furnished by the hospital during the calendar year under such section shall be equal to the reasonable cost determined under such section for the previous calendar year.”
+Pub. L. 101–508, title IV, §4008(j)(2), Nov. 5, 1990, 104 Stat. 1388–51, provided that: “If, as a result of the amendment made by paragraph (1) \[amending this section\], the reasonable cost of routine services furnished by a hospital during a calendar year (as determined under section 1883 of the Social Security Act \[42 U.S.C. 1395tt\]) is less than the reasonable cost of such services determined under such section for the previous calendar year, the reasonable cost of such services furnished by the hospital during the calendar year under such section shall be equal to the reasonable cost determined under such section for the previous calendar year.”
 
 #### Swing Beds Certified Prior to May 1, 1987
 
-Pub. L. 101–508, title IV, §4008(j)(3), Nov. 5, 1990, 104 Stat. 1388–52, provided that: “Notwithstanding the requirement of section 1883(b)(1) of the Social Security Act \[subsec. (b)(1) of this section\] that the Secretary may not enter into an agreement under such section with a hospital that is not located in a rural area, any agreement entered into under such section on or before May 1, 1987, between the Secretary of Health and Human Services and a hospital located in an urban area shall remain in effect.”
+Pub. L. 101–508, title IV, §4008(j)(3), Nov. 5, 1990, 104 Stat. 1388–52, provided that: “Notwithstanding the requirement of section 1883(b)(1) of the Social Security Act \[42 U.S.C. 1395tt(b)(1)\] that the Secretary may not enter into an agreement under such section with a hospital that is not located in a rural area, any agreement entered into under such section on or before May 1, 1987, between the Secretary of Health and Human Services and a hospital located in an urban area shall remain in effect.”
 
 #### Report of Hospital Admissions for Extended Care Services
 

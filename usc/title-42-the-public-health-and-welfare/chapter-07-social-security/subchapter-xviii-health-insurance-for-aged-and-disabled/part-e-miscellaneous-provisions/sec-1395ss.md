@@ -1520,7 +1520,7 @@ Pub. L. 104–191, title II, §271(d), Aug. 21, 1996, 110 Stat. 2036, provided t
 
 “(1) Except as provided in this subsection, the amendment made by subsection (a) \[amending this section\] shall be effective as if included in the enactment of section 4354 of the Omnibus Budget Reconciliation Act of 1990 \[Pub. L. 101–508\].
 
-“(2)(A) Clause (vi) of section 1882(d)(3)(A) of the Social Security Act \[subsec. (d)(3)(A)(vi) of this section\], as added by subsection (a), shall only apply to individuals applying for—
+“(2)(A) Clause (vi) of section 1882(d)(3)(A) of the Social Security Act \[42 U.S.C. 1395ss(d)(3)(A)(vi)\], as added by subsection (a), shall only apply to individuals applying for—
 
 “(i) a health insurance policy described in section 1882(d)(3)(A)(iv) of such Act (as added by subsection (a)), after the date of the enactment of this Act \[Aug. 21, 1996\], or
 
@@ -1532,11 +1532,11 @@ Pub. L. 104–191, title II, §271(d), Aug. 21, 1996, 110 Stat. 2036, provided t
 
 Pub. L. 103–432, title I, §171(l), Oct. 31, 1994, 108 Stat. 4451, provided that: “The amendments made by this section \[amending this section and sections 1320c–3, 1395b–2, and 1395b–4 of this title, repealing section 1395zz of this title, and enacting and amending provisions set out as notes below\] shall be effective as if included in the enactment of OBRA–1990 \[Pub. L. 101–508\]; except that—
 
-“(1) the amendments made by subsection (d)(1) \[amending this section\] shall take effect on the date of the enactment of this Act \[Oct. 31, 1994\], but no penalty shall be imposed under section 1882(d)(3)(A) of the Social Security Act \[subsec. (d)(3)(A) of this section\] (for an action occurring after the effective date of the amendments made by section 4354 of OBRA–1990 \[see section 4354(c) of Pub. L. 101–508, set out as an Effective Date of 1990 Amendment note below\] and before the date of the enactment of this Act) with respect to the sale or issuance of a policy which is not unlawful under section 1882(d)(3)(A)(i)(II) of the Social Security Act \[subsec. (d)(3)(A)(i)(II) of this section\] (as amended by this section);
+“(1) the amendments made by subsection (d)(1) \[amending this section\] shall take effect on the date of the enactment of this Act \[Oct. 31, 1994\], but no penalty shall be imposed under section 1882(d)(3)(A) of the Social Security Act \[42 U.S.C. 1395ss(d)(3)(A)\] (for an action occurring after the effective date of the amendments made by section 4354 of OBRA–1990 \[see section 4354(c) of Pub. L. 101–508, set out as an Effective Date of 1990 Amendment note below\] and before the date of the enactment of this Act) with respect to the sale or issuance of a policy which is not unlawful under section 1882(d)(3)(A)(i)(II) of the Social Security Act \[42 U.S.C. 1395ss(d)(3)(A)(i)(II)\] (as amended by this section);
 
 “(2) the amendments made by subsection (d)(2)(A) \[amending this section\] and by subparagraphs (A), (B), and (E) of subsection (e)(1) \[amending this section\] shall be effective on the date specified in subsection (m)(4) \[set out as a note below\]; and
 
-“(3) the amendment made by subsection (g)(2) \[amending this section\] shall take effect on January 1, 1995, and shall apply to individuals who attain 65 years of age or older on or after the effective date of section 1882(s)(2) of the Social Security Act \[subsec. (s)(2) of this section, for effective date see section 4357(b) of Pub. L. 101–508, set out as an Effective Date of 1990 Amendment note below\] (and, in the case of individuals who attained 65 years of age after such effective date and before January 1, 1995, and who were not covered under such section before January 1, 1995, the 6-month period specified in that section shall begin January 1, 1995).”
+“(3) the amendment made by subsection (g)(2) \[amending this section\] shall take effect on January 1, 1995, and shall apply to individuals who attain 65 years of age or older on or after the effective date of section 1882(s)(2) of the Social Security Act \[42 U.S.C. 1395ss(s)(2), for effective date see section 4357(b) of Pub. L. 101–508, set out as an Effective Date of 1990 Amendment note below\] (and, in the case of individuals who attained 65 years of age after such effective date and before January 1, 1995, and who were not covered under such section before January 1, 1995, the 6-month period specified in that section shall begin January 1, 1995).”
 
 #### Effective Date of 1990 Amendment
 
@@ -1544,9 +1544,9 @@ Pub. L. 101–508, title IV, §4353(d)(2), Nov. 5, 1990, 104 Stat. 1388–130, p
 
 Pub. L. 101–508, title IV, §4354(c), Nov. 5, 1990, 104 Stat. 1388–132, provided that: “The amendments made by this section \[amending this section\] shall apply to policies issued or sold more than 1 year after the date of the enactment of this Act \[Nov. 5, 1990\].”
 
-Pub. L. 101–508, title IV, §4355(d), Nov. 5, 1990, 104 Stat. 1388–134, as amended by Pub. L. 103–432, title I, §171(e)(3), Oct. 31, 1994, 108 Stat. 4449, provided that: “The amendments made by this section \[amending this section\] shall apply to policies issued or renewed (or otherwise providing coverage after the date described in section 1882(p)(1)(C) of the Social Security Act \[subsec. (p)(1)(C) of this section\]) on or after the date specified in section 1882(p)(1)(C) of the Social Security Act.”
+Pub. L. 101–508, title IV, §4355(d), Nov. 5, 1990, 104 Stat. 1388–134, as amended by Pub. L. 103–432, title I, §171(e)(3), Oct. 31, 1994, 108 Stat. 4449, provided that: “The amendments made by this section \[amending this section\] shall apply to policies issued or renewed (or otherwise providing coverage after the date described in section 1882(p)(1)(C) of the Social Security Act \[42 U.S.C. 1395ss(p)(1)(C)\]) on or after the date specified in section 1882(p)(1)(C) of the Social Security Act.”
 
-Pub. L. 101–508, title IV, §4356(b), Nov. 5, 1990, 104 Stat. 1388–134, as amended by Pub. L. 103–432, title I, §171(f)(2), Oct. 31, 1994, 108 Stat. 4449, provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect on the date specified in section 1882(p)(1)(C) of the Social Security Act \[subsec. (p)(1)(C) of this section\].”
+Pub. L. 101–508, title IV, §4356(b), Nov. 5, 1990, 104 Stat. 1388–134, as amended by Pub. L. 103–432, title I, §171(f)(2), Oct. 31, 1994, 108 Stat. 4449, provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect on the date specified in section 1882(p)(1)(C) of the Social Security Act \[42 U.S.C. 1395ss(p)(1)(C)\].”
 
 Pub. L. 101–508, title IV, §4357(b), Nov. 5, 1990, 104 Stat. 1388–135, provided that: “The amendments made by subsection (a) \[amending this section\] shall take effect 1 year after the date of the enactment of this Act \[Nov. 5, 1990\].”
 
@@ -1562,11 +1562,11 @@ Pub. L. 100–360, title II, §221(g), July 1, 1988, 102 Stat. 746, as amended b
 
 “(1) Except as provided in paragraphs (2) and (3), the amendments made by this section \[amending this section\] shall take effect on the date of the enactment of this Act \[July 1, 1988\].
 
-“(2) The amendments made by subsections (a) and (b) \[amending this section\] shall become effective on the date specified in subsection (k)(1)(B) or (k)(2)(B) of section 1882 of the Social Security Act \[subsec. (k)(1)(B) or (k)(2)(B) of this section\] (as added by subsection (d) of this section).
+“(2) The amendments made by subsections (a) and (b) \[amending this section\] shall become effective on the date specified in subsection (k)(1)(B) or (k)(2)(B) of section 1882 of the Social Security Act \[42 U.S.C. 1395ss(k)(1)(B), (2)(B)\] (as added by subsection (d) of this section).
 
 “(3) The amendment made by subsection (e) \[amending this section\] shall apply to medicare supplemental policies as of January 1, 1989, with respect to advertising used on or after such date.
 
-“(4) The Secretary of Health and Human Services shall provide for the reappointment of members to the Supplemental Health Insurance Panel (under section 1882(b)(2) of the Social Security Act \[subsec. (b)(2) of this section\]) by not later than 90 days after the date of the enactment of this Act \[July 1, 1988\].”
+“(4) The Secretary of Health and Human Services shall provide for the reappointment of members to the Supplemental Health Insurance Panel (under section 1882(b)(2) of the Social Security Act \[42 U.S.C. 1395ss(b)(2)\]) by not later than 90 days after the date of the enactment of this Act \[July 1, 1988\].”
 
 Except as specifically provided in section 411 of Pub. L. 100–360, amendment by section 411(i)(1)(B), (C) of Pub. L. 100–360, as it relates to a provision in the Omnibus Budget Reconciliation Act of 1987, Pub. L. 100–203, effective as if included in the enactment of that provision in Pub. L. 100–203, see section 411(a) of Pub. L. 100–360, set out as a Reference to OBRA; Effective Date note under section 106 of Title 1, General Provisions.
 
@@ -1580,7 +1580,7 @@ Pub. L. 100–203, title IV, §4081(c)(2), Dec. 22, 1987, 101 Stat. 1330–128, 
 
 “(B) In the case of a State which the Secretary of Health and Human Services identifies as—
 
-“(i) requiring State legislation (other than legislation appropriating funds) in order for medicare supplemental policies to be changed to meet the requirements of section 1882(c)(3) of the Social Security Act \[subsec. (c)(3) of this section\], and
+“(i) requiring State legislation (other than legislation appropriating funds) in order for medicare supplemental policies to be changed to meet the requirements of section 1882(c)(3) of the Social Security Act \[42 U.S.C. 1395ss(c)(3)\], and
 
 “(ii) having a legislature which is not scheduled to meet in 1988 in a legislative session in which such legislation may be considered or which has not enacted such legislation before July 1, 1988,
 
@@ -1590,13 +1590,13 @@ Amendment by Pub. L. 100–93 effective at end of fourteen-day period beginning 
 
 #### Effective Date
 
-Pub. L. 96–265, title V, §507(b), June 9, 1980, 94 Stat. 481, provided that: “The amendment made by this section \[enacting this section\] shall become effective on the date of the enactment of this Act \[June 9, 1980\], except that the provisions of paragraph (4) of section 1882(d) of the Social Security Act \[subsec. (d)(4) of this section\] (as added by this section) shall become effective on July 1, 1982.”
+Pub. L. 96–265, title V, §507(b), June 9, 1980, 94 Stat. 481, provided that: “The amendment made by this section \[enacting this section\] shall become effective on the date of the enactment of this Act \[June 9, 1980\], except that the provisions of paragraph (4) of section 1882(d) of the Social Security Act \[42 U.S.C. 1395ss(d)(4)\] (as added by this section) shall become effective on July 1, 1982.”
 
 #### Rule of Construction
 
 Pub. L. 108–173, title I, §104(c), Dec. 8, 2003, 117 Stat. 2165, provided that:
 
-“(1) In general.—Nothing in this Act \[see Tables for classification\] shall be construed to require an issuer of a medicare supplemental policy under section 1882 of the Social Security Act (42 U.S.C. 1395rr) \[42 U.S.C. 1395ss\] to participate as a PDP sponsor under part D of title XVIII of such Act \[part D of this subchapter\], as added by section 101, as a condition for issuing such policy.
+“(1) In general.—Nothing in this Act \[see Tables for classification\] shall be construed to require an issuer of a medicare supplemental policy under section 1882 of the Social Security Act (42 U.S.C. 1395rr) \[42 U.S.C. 1395ss\] to participate as a PDP sponsor under part D of title XVIII of such Act \[42 U.S.C. 1395w–101 et seq.\], as added by section 101, as a condition for issuing such policy.
 
 “(2) Prohibition on state requirement.—A State may not require an issuer of a medicare supplemental policy under section 1882 of the Social Security Act (42 U.S.C. 1395rr) \[42 U.S.C. 1395ss\] to participate as a PDP sponsor under such part D as a condition for issuing such policy.”
 
@@ -1636,7 +1636,7 @@ Pub. L. 106–113, div. B, §1000(a)(6) \[title V, §553(a)\], Nov. 29, 1999, 11
 
 #### Conforming Benefits to Changes in Terminology for Hospital Outpatient Department Cost Sharing
 
-Pub. L. 105–33, title IV, §4031(f), Aug. 5, 1997, 111 Stat. 359, provided that: “For purposes of apply \[sic\] section 1882 of the Social Security Act (42 U.S.C. 1395ss) and regulations referred to in subsection (e) \[set out as a note above\], copayment amounts provided under section 1833(t)(5) of such Act \[section 1395l(t)(5) of this title\] with respect to hospital outpatient department services shall be treated under medicare supplemental policies in the same manner as coinsurance with respect to such services.”
+Pub. L. 105–33, title IV, §4031(f), Aug. 5, 1997, 111 Stat. 359, provided that: “For purposes of apply \[sic\] section 1882 of the Social Security Act (42 U.S.C. 1395ss) and regulations referred to in subsection (e) \[set out as a note above\], copayment amounts provided under section 1833(t)(5) of such Act \[42 U.S.C. 1395l(t)(5)\] with respect to hospital outpatient department services shall be treated under medicare supplemental policies in the same manner as coinsurance with respect to such services.”
 
 #### Transition Provisions
 
@@ -1664,9 +1664,9 @@ Pub. L. 110–233, title I, §104(d), May 21, 2008, 122 Stat. 903, provided that
 
 Pub. L. 105–33, title IV, §4031(e), Aug. 5, 1997, 111 Stat. 358, provided that:
 
-“(1) In general.—If the Secretary of Health and Human Services identifies a State as requiring a change to its statutes or regulations to conform its regulatory program to the changes made by this section \[amending this section\], the State regulatory program shall not be considered to be out of compliance with the requirements of section 1882 of the Social Security Act \[this section\] due solely to failure to make such change until the date specified in paragraph (4).
+“(1) In general.—If the Secretary of Health and Human Services identifies a State as requiring a change to its statutes or regulations to conform its regulatory program to the changes made by this section \[amending this section\], the State regulatory program shall not be considered to be out of compliance with the requirements of section 1882 of the Social Security Act \[42 U.S.C. 1395ss\] due solely to failure to make such change until the date specified in paragraph (4).
 
-“(2) NAIC standards.—If, within 9 months after the date of the enactment of this Act \[Aug. 5, 1997\], the National Association of Insurance Commissioners (in this subsection referred to as the ‘NAIC’) modifies its NAIC Model Regulation relating to section 1882 of the Social Security Act \[this section\] (referred to in such section as the 1991 NAIC Model Regulation, as modified pursuant to section 171(m)(2) of the Social Security Act Amendments of 1994 (Public Law 103–432) \[set out as a note below\] and as modified pursuant to section 1882(d)(3)(A)(vi)(IV) of the Social Security Act \[subsec. (d)(3)(A)(vi)(IV) of this section\], as added by section 271(a) of the Health Insurance Portability and Accountability Act of 1996 (Public Law 104–191) to conform to the amendments made by this section \[amending this section\], such revised regulation incorporating the modifications shall be considered to be the applicable NAIC model regulation (including the revised NAIC model regulation and the 1991 NAIC Model Regulation) for the purposes of such section.
+“(2) NAIC standards.—If, within 9 months after the date of the enactment of this Act \[Aug. 5, 1997\], the National Association of Insurance Commissioners (in this subsection referred to as the ‘NAIC’) modifies its NAIC Model Regulation relating to section 1882 of the Social Security Act \[42 U.S.C. 1395ss\] (referred to in such section as the 1991 NAIC Model Regulation, as modified pursuant to section 171(m)(2) of the Social Security Act Amendments of 1994 (Public Law 103–432) \[set out as a note below\] and as modified pursuant to section 1882(d)(3)(A)(vi)(IV) of the Social Security Act \[42 U.S.C. 1395ss(d)(3)(A)(vi)(IV)\], as added by section 271(a) of the Health Insurance Portability and Accountability Act of 1996 (Public Law 104–191) to conform to the amendments made by this section \[amending this section\], such revised regulation incorporating the modifications shall be considered to be the applicable NAIC model regulation (including the revised NAIC model regulation and the 1991 NAIC Model Regulation) for the purposes of such section.
 
 “(3) Secretary standards.—If the NAIC does not make the modifications described in paragraph (2) within the period specified in such paragraph, the Secretary of Health and Human Services shall make the modifications described in such paragraph and such revised regulation incorporating the modifications shall be considered to be the appropriate Regulation for the purposes of such section.
 
@@ -1688,7 +1688,7 @@ the date specified in this paragraph is the first day of the first calendar quar
 
 Pub. L. 104–191, title II, §271(c), Aug. 21, 1996, 110 Stat. 2036, provided that:
 
-“(1) No penalties.—Subject to paragraph (3), no criminal or civil money penalty may be imposed under section 1882(d)(3)(A) of the Social Security Act \[subsec. (d)(3)(A) of this section\] for any act or omission that occurred during the transition period (as defined in paragraph (4)) and that relates to any health insurance policy that is described in clause (iv) or (v) of such section (as amended by subsection (a)).
+“(1) No penalties.—Subject to paragraph (3), no criminal or civil money penalty may be imposed under section 1882(d)(3)(A) of the Social Security Act \[42 U.S.C. 1395ss(d)(3)(A)\] for any act or omission that occurred during the transition period (as defined in paragraph (4)) and that relates to any health insurance policy that is described in clause (iv) or (v) of such section (as amended by subsection (a)).
 
 “(2) Limitation on legal action.—Subject to paragraph (3), no legal action shall be brought or continued in any Federal or State court insofar as such action—
 
@@ -1702,13 +1702,13 @@ Pub. L. 104–191, title II, §271(c), Aug. 21, 1996, 110 Stat. 2036, provided t
 
 #### Applicability of Disclosure Requirement
 
-Pub. L. 103–432, title I, §171(d)(3)(C), Oct. 31, 1994, 108 Stat. 4448, provided that: “The requirement of a disclosure under section 1882(d)(3)(C)(ii) of the Social Security Act \[subsec. (d)(3)(C)(ii) of this section\] shall not apply to an application made for a policy or plan before 60 days after the date the Secretary of Health and Human Services publishes or promulgates all the statements under section 1882(d)(3)(D) of such Act.”
+Pub. L. 103–432, title I, §171(d)(3)(C), Oct. 31, 1994, 108 Stat. 4448, provided that: “The requirement of a disclosure under section 1882(d)(3)(C)(ii) of the Social Security Act \[42 U.S.C. 1395ss(d)(3)(C)(ii)\] shall not apply to an application made for a policy or plan before 60 days after the date the Secretary of Health and Human Services publishes or promulgates all the statements under section 1882(d)(3)(D) of such Act.”
 
 #### State Regulatory Programs
 
 Pub. L. 103–432, title I, §171(m), Oct. 31, 1994, 108 Stat. 4451, provided that:
 
-“(1) In general.—If the Secretary of Health and Human Services identifies a State as requiring a change to its statutes or regulations to conform its regulatory program to the changes made by this section \[amending this section and sections 1320c–3, 1395b–2, and 1395b–4 of this title, repealing section 1395zz of this title, and enacting and amending provisions set out as notes under this section\], the State regulatory program shall not be considered to be out of compliance with the requirements of section 1882 of the Social Security Act \[this section\] due solely to failure to make such change until the date specified in paragraph (4).
+“(1) In general.—If the Secretary of Health and Human Services identifies a State as requiring a change to its statutes or regulations to conform its regulatory program to the changes made by this section \[amending this section and sections 1320c–3, 1395b–2, and 1395b–4 of this title, repealing section 1395zz of this title, and enacting and amending provisions set out as notes under this section\], the State regulatory program shall not be considered to be out of compliance with the requirements of section 1882 of the Social Security Act \[42 U.S.C. 1395ss\] due solely to failure to make such change until the date specified in paragraph (4).
 
 “(2) NAIC standards.—If, within 6 months after the date of the enactment of this Act \[Oct. 31, 1994\], the National Association of Insurance Commissioners (in this subsection referred to as the ‘NAIC’) modifies its 1991 NAIC Model Regulation (adopted in July 1991) to conform to the amendments made by this section and to delete from section 15C the exception which begins with ‘unless’, such revised regulation incorporating the modifications shall be considered to be the 1991 Regulation for the purposes of section 1882 of the Social Security Act.
 

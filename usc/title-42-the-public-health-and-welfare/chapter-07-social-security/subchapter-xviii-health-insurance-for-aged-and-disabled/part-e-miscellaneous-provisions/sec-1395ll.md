@@ -88,7 +88,7 @@ Pub. L. 108–173, title II, §238, Dec. 8, 2003, 117 Stat. 2213, provided that:
 
 “(4) Consultation with medpac.—In evaluating the matters described in paragraph (2)(C), the Institute shall consult with the Medicare Payment Advisory Commission established under section 1805 of the Social Security Act (42 U.S.C. 1395b–6).
 
-“(b) Report.—Not later than the date that is 18 months after the date of enactment of this Act \[Dec. 8, 2003\], the Institute shall submit to the Secretary and appropriate committees of jurisdiction of the Senate and House of Representatives a report on the evaluation conducted under subsection (a)(1) describing the findings of such evaluation and recommendations for an overall strategy and approach for aligning payment with performance, including options for updating performance measures, in the original medicare fee-for-service program under parts A and B of title XVIII of the Social Security Act \[parts A and B of this subchapter\], the Medicare Advantage program under part C of such title \[part C of this subchapter\], and any other programs under such title XVIII \[this subchapter\].
+“(b) Report.—Not later than the date that is 18 months after the date of enactment of this Act \[Dec. 8, 2003\], the Institute shall submit to the Secretary and appropriate committees of jurisdiction of the Senate and House of Representatives a report on the evaluation conducted under subsection (a)(1) describing the findings of such evaluation and recommendations for an overall strategy and approach for aligning payment with performance, including options for updating performance measures, in the original medicare fee-for-service program under parts A and B of title XVIII of the Social Security Act \[42 U.S.C. 1395c et seq., 1395j et seq.\], the Medicare Advantage program under part C of such title \[42 U.S.C. 1395w–21 et seq.\], and any other programs under such title XVIII \[42 U.S.C. 1395 et seq.\].
 
 “(c) Authorization of Appropriations.—There are authorized to be appropriated such sums as may be necessary for purposes of conducting the evaluation and preparing the report required by this section.”
 
@@ -98,7 +98,7 @@ Pub. L. 108–173, title VI, §604, Dec. 8, 2003, 117 Stat. 2301, provided that:
 
 “(a) Study.—The Comptroller General of the United States shall conduct a study on access of medicare beneficiaries to physicians’ services under the medicare program. The study shall include—
 
-“(1) an assessment of the use by beneficiaries of such services through an analysis of claims submitted by physicians for such services under part B of the medicare program \[part B of this subchapter\];
+“(1) an assessment of the use by beneficiaries of such services through an analysis of claims submitted by physicians for such services under part B of the medicare program \[42 U.S.C. 1395j et seq.\];
 
 “(2) an examination of changes in the use by beneficiaries of physicians’ services over time; and
 
@@ -106,7 +106,7 @@ Pub. L. 108–173, title VI, §604, Dec. 8, 2003, 117 Stat. 2301, provided that:
 
 “(b) Report.—Not later than 18 months after the date of the enactment of this Act \[Dec. 8, 2003\], the Comptroller General shall submit to Congress a report on the study conducted under subsection (a). The report shall include a determination whether—
 
-“(1) data from claims submitted by physicians under part B of the medicare program \[part B of this subchapter\] indicate potential access problems for medicare beneficiaries in certain geographic areas; and
+“(1) data from claims submitted by physicians under part B of the medicare program \[42 U.S.C. 1395j et seq.\] indicate potential access problems for medicare beneficiaries in certain geographic areas; and
 
 “(2) access by medicare beneficiaries to physicians’ services may have improved, remained constant, or deteriorated over time.”
 
@@ -132,7 +132,7 @@ Pub. L. 106–554, §1(a)(6) \[title IV, §437\], Dec. 21, 2000, 114 Stat. 2763,
 
 “(a) GAO Study on HCFA Post-Payment Audit Process.—
 
-“(1) Study.—The Comptroller General of the United States shall conduct a study on the post-payment audit process under the medicare program under title XVIII of the Social Security Act \[this subchapter\] as such process applies to physicians, including the proper level of resources that the Health Care Financing Administration should devote to educating physicians regarding—
+“(1) Study.—The Comptroller General of the United States shall conduct a study on the post-payment audit process under the medicare program under title XVIII of the Social Security Act \[42 U.S.C. 1395 et seq.\] as such process applies to physicians, including the proper level of resources that the Health Care Financing Administration should devote to educating physicians regarding—
 
 “(A) coding and billing;
 
@@ -144,7 +144,7 @@ Pub. L. 106–554, §1(a)(6) \[title IV, §437\], Dec. 21, 2000, 114 Stat. 2763,
 
 “(b) GAO Study on Administration and Oversight.—
 
-“(1) Study.—The Comptroller General of the United States shall conduct a study on the aggregate effects of regulatory, audit, oversight, and paperwork burdens on physicians and other health care providers participating in the medicare program under title XVIII of the Social Security Act \[this subchapter\].
+“(1) Study.—The Comptroller General of the United States shall conduct a study on the aggregate effects of regulatory, audit, oversight, and paperwork burdens on physicians and other health care providers participating in the medicare program under title XVIII of the Social Security Act \[42 U.S.C. 1395 et seq.\].
 
 “(2) Report.—Not later than 18 months after the date of the enactment of this Act \[Dec. 21, 2000\], the Comptroller General shall submit to Congress a report on the study conducted under paragraph (1) together with recommendations regarding any area in which—
 
@@ -160,7 +160,7 @@ Pub. L. 106–113, div. B, §1000(a)(6) \[title II, §211(c)\], Nov. 29, 1999, 1
 
 “(2) Issues to be studied.—The issues specified in this paragraph are the following:
 
-“(A) The various methods for accurately estimating the economic impact on expenditures for physicians’ services under the original medicare fee-for-service program under parts A and B of title XVIII of the Social Security Act (42 U.S.C. 1395 et seq.) \[parts A and B of this subchapter\] resulting from—
+“(A) The various methods for accurately estimating the economic impact on expenditures for physicians’ services under the original medicare fee-for-service program under parts A and B of title XVIII of the Social Security Act (42 U.S.C. 1395 et seq.) \[42 U.S.C. 1395c et seq., 1395j et seq.\] resulting from—
 
 “(i) improvements in medical capabilities;
 
@@ -200,7 +200,7 @@ Pub. L. 96–499, title IX, §931(f), Dec. 5, 1980, 94 Stat. 2634, which related
 
 #### Legislative Recommendations Regarding Reimbursement for Optometrists’ Services
 
-Pub. L. 96–499, title IX, §937(b), Dec. 5, 1980, 94 Stat. 2640, provided that the Secretary of Health and Human Services submit to the Congress by Jan. 1, 1982, legislative recommendations with respect to reimbursement under title XVIII of the Social Security Act \[this subchapter\] for services furnished by optometrists in connection with cataracts and such other services which they are legally authorized to perform.
+Pub. L. 96–499, title IX, §937(b), Dec. 5, 1980, 94 Stat. 2640, provided that the Secretary of Health and Human Services submit to the Congress by Jan. 1, 1982, legislative recommendations with respect to reimbursement under title XVIII of the Social Security Act \[42 U.S.C. 1395 et seq.\] for services furnished by optometrists in connection with cataracts and such other services which they are legally authorized to perform.
 
 #### Demonstration Projects, Studies, and Reports: Nutritional Therapy, Second Opinion Cost-Sharing, Services of Registered Dietitians, Services of Clinical Social Workers, Orthopedic Shoes, Respiratory Therapy Services, and Foot Conditions; Grants, Payments, and Expenditures
 
@@ -212,7 +212,7 @@ Pub. L. 96–265, title V, §506, June 9, 1980, 94 Stat. 475, authorized Secreta
 
 #### Report to Congress With Respect to Urban or Rural Comprehensive Mental Health Centers and Centers for Treatment of Alcoholism and Drug Abuse; Submission No Later Than June 13, 1978
 
-Pub. L. 95–210, §4, Dec. 13, 1977, 91 Stat. 1490, directed Secretary of Health, Education, and Welfare to submit to Congress, no later than six months after Dec. 13, 1977, a report on the advantages and disadvantages of extending coverage under this subchapter to urban or rural comprehensive mental health centers and to centers for treatment of alcoholism and drug abuse.
+Pub. L. 95–210, §4, Dec. 13, 1977, 91 Stat. 1490, directed Secretary of Health, Education, and Welfare \[now Health and Human Services\] to submit to Congress, no later than six months after Dec. 13, 1977, a report on the advantages and disadvantages of extending coverage under this subchapter to urban or rural comprehensive mental health centers and to centers for treatment of alcoholism and drug abuse.
 
 #### Study and Review by Comptroller General of Administrative Structure for Processing Medicare Claims; Report to Congress
 
@@ -220,6 +220,6 @@ Pub. L. 95–142, §12, Oct. 25, 1977, 91 Stat. 1197, directed Comptroller Gener
 
 #### Report by Secretary of Health, Education, and Welfare on Delivery of Home Health and Other In-Home Services; Contents; Consultation Requirements; Submission to Congress
 
-Pub. L. 95–142, §18, Oct. 25, 1977, 91 Stat. 1202, directed Secretary of Health, Education, and Welfare, not later than one year after Oct. 25, 1977, to submit to appropriate committees of Congress a report analyzing, evaluating, and making recommendations with respect to all aspects of delivery of home health and other in-home services authorized to be provided under subchapters XVIII, XIX, and XX of this chapter.
+Pub. L. 95–142, §18, Oct. 25, 1977, 91 Stat. 1202, directed Secretary of Health, Education, and Welfare \[now Health and Human Services\], not later than one year after Oct. 25, 1977, to submit to appropriate committees of Congress a report analyzing, evaluating, and making recommendations with respect to all aspects of delivery of home health and other in-home services authorized to be provided under subchapters XVIII, XIX, and XX of this chapter.
 
 [1 So in original. Probably should be followed by a comma.](#1395ll_1)

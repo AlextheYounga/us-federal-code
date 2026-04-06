@@ -760,17 +760,17 @@ Pub. L. 103–66, title XIII, §13562(b), Aug. 10, 1993, 107 Stat. 604, as amend
 
 “(2) Exceptions.—With respect to referrals made for clinical laboratory services on or before December 31, 1994—
 
-“(A) the second sentence of subsection (a)(2), and subsections (b)(2)(B) and (d)(2), of section 1877 of the Social Security Act \[subsecs. (a)(2), (b)(2)(B), and (d)(2) of this section\] (as in effect on the day before the date of the enactment of this Act \[Aug. 10, 1993\]) shall apply instead of the corresponding provisions in section 1877 (as amended by this Act);
+“(A) the second sentence of subsection (a)(2), and subsections (b)(2)(B) and (d)(2), of section 1877 of the Social Security Act \[42 U.S.C. 1395nn(a)(2), (b)(2)(B), (d)(2)\] (as in effect on the day before the date of the enactment of this Act \[Aug. 10, 1993\]) shall apply instead of the corresponding provisions in section 1877 (as amended by this Act);
 
-“(B) section 1877(b)(4) of the Social Security Act \[subsec. (b)(4) of this section\] (as in effect on the day before the date of the enactment of this Act) shall apply;
+“(B) section 1877(b)(4) of the Social Security Act \[42 U.S.C. 1395nn(b)(4)\] (as in effect on the day before the date of the enactment of this Act) shall apply;
 
-“(C) the requirements of section 1877(c)(2) of the Social Security Act \[subsec. (c)(2) of this section\] (as amended by this Act) shall not apply to any securities of a corporation that meets the requirements of section 1877(c)(2) of the Social Security Act (as in effect on the day before the date of the enactment of this Act);
+“(C) the requirements of section 1877(c)(2) of the Social Security Act \[42 U.S.C. 1395nn(c)(2)\] (as amended by this Act) shall not apply to any securities of a corporation that meets the requirements of section 1877(c)(2) of the Social Security Act (as in effect on the day before the date of the enactment of this Act);
 
-“(D) section 1877(e)(3) of the Social Security Act \[subsec. (e)(3) of this section\] (as amended by this Act) shall apply, except that it shall not apply to any arrangement that meets the requirements of subsection (e)(2) or subsection (e)(3) of section 1877 of the Social Security Act (as in effect on the day before the date of the enactment of this Act);
+“(D) section 1877(e)(3) of the Social Security Act \[42 U.S.C. 1395nn(e)(3)\] (as amended by this Act) shall apply, except that it shall not apply to any arrangement that meets the requirements of subsection (e)(2) or subsection (e)(3) of section 1877 of the Social Security Act (as in effect on the day before the date of the enactment of this Act);
 
-“(E) the requirements of clauses (iv) and (v) of section 1877(h)(4)(A), and of clause (i) of section 1877(h)(4)(B), of the Social Security Act \[subsec. (h)(4)(A)(iv), (v), (B)(i) of this section\] (as amended by this Act) shall not apply; and
+“(E) the requirements of clauses (iv) and (v) of section 1877(h)(4)(A), and of clause (i) of section 1877(h)(4)(B), of the Social Security Act \[42 U.S.C. 1395nn(h)(4)(A)(iv), (v), (B)(i)\] (as amended by this Act) shall not apply; and
 
-“(F) section 1877(h)(4)(B) of the Social Security Act \[subsec. (h)(4)(B) of this section\] (as in effect on the day before the date of the enactment of this Act) shall apply instead of section 1877(h)(4)(A)(ii) of such Act (as amended by this Act).”
+“(F) section 1877(h)(4)(B) of the Social Security Act \[42 U.S.C. 1395nn(h)(4)(B)\] (as in effect on the day before the date of the enactment of this Act) shall apply instead of section 1877(h)(4)(A)(ii) of such Act (as amended by this Act).”
 
 \[Pub. L. 103–432, title I, §152(d)(2), Oct. 31, 1994, 108 Stat. 4437, provided that: “The amendment made by subsection (c) \[amending section 13562(b) of Pub. L. 103–66, set out above\] shall apply as if included in the enactment of OBRA–1993 \[Pub. L. 103–66\].”\]
 
@@ -784,11 +784,11 @@ Pub. L. 101–239, title VI, §6204(c), Dec. 19, 1989, 103 Stat. 2242, provided 
 
 “(1) Except as provided in paragraph (2), the amendments made by this section \[enacting this section and amending section 1395l of this title\] shall become effective with respect to referrals made on or after January 1, 1992.
 
-“(2) The reporting requirement of section 1877(f) of the Social Security Act \[subsec. (f) of this section\] shall take effect on October 1, 1990.”
+“(2) The reporting requirement of section 1877(f) of the Social Security Act \[42 U.S.C. 1395nn(f)\] shall take effect on October 1, 1990.”
 
 #### Deadline for Certain Regulations
 
-Pub. L. 101–239, title VI, §6204(d), Dec. 19, 1989, 103 Stat. 2242, as amended by Pub. L. 101–508, title IV, §4207(e)(4)(B), formerly §4027(e)(4)(B), Nov. 5, 1990, 104 Stat. 1388–122, renumbered Pub. L. 103–432, title I, §160(d)(4), Oct. 31, 1994, 108 Stat. 4444, provided that: “The Secretary of Health and Human Services shall publish final regulations to carry out section 1877 of the Social Security Act \[this section\] by not later than October 1, 1991.”
+Pub. L. 101–239, title VI, §6204(d), Dec. 19, 1989, 103 Stat. 2242, as amended by Pub. L. 101–508, title IV, §4207(e)(4)(B), formerly §4027(e)(4)(B), Nov. 5, 1990, 104 Stat. 1388–122, renumbered Pub. L. 103–432, title I, §160(d)(4), Oct. 31, 1994, 108 Stat. 4444, provided that: “The Secretary of Health and Human Services shall publish final regulations to carry out section 1877 of the Social Security Act \[42 U.S.C. 1395nn\] by not later than October 1, 1991.”
 
 #### Enforcement
 
@@ -836,7 +836,7 @@ Pub. L. 111–148, title VI, §6409, Mar. 23, 2010, 124 Stat. 772, provided that
 
 #### Application of Exception for Hospitals Under Development
 
-Pub. L. 108–173, title V, §507(b), Dec. 8, 2003, 117 Stat. 2296, provided that: “For purposes of section 1877(h)(7)(B)(i)(II) of the Social Security Act \[subsec. (h)(7)(B)(i)(II) of this section\], as added by subsection (a)(1)(B), in determining whether a hospital is under development as of November 18, 2003, the Secretary \[of Health and Human Services\] shall consider—
+Pub. L. 108–173, title V, §507(b), Dec. 8, 2003, 117 Stat. 2296, provided that: “For purposes of section 1877(h)(7)(B)(i)(II) of the Social Security Act \[42 U.S.C. 1395nn(h)(7)(B)(i)(II)\], as added by subsection (a)(1)(B), in determining whether a hospital is under development as of November 18, 2003, the Secretary \[of Health and Human Services\] shall consider—
 
 “(1) whether architectural plans have been completed, funding has been received, zoning requirements have been met, and necessary approvals from appropriate State agencies have been received; and
 

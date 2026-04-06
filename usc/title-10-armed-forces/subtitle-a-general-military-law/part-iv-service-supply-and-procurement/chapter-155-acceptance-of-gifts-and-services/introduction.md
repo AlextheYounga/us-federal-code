@@ -28,7 +28,7 @@ Sec.
 
 2612\. National Defense University: acceptance of gifts.
 
-2613 . Acceptance of frequent traveler miles, credits, points, and tickets: use to facilitate rest and recuperation travel of deployed members and their families.
+2613\. Acceptance of frequent traveler miles, credits, points, and tickets: use to facilitate rest and recuperation travel of deployed members and their families.
 
 2614\. Emergency communications equipment: acceptance from local public safety agencies for temporary use related to disasters.
 

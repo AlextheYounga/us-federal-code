@@ -278,7 +278,7 @@ Pub. L. 104–191, title I, §102(c), Aug. 21, 1996, 110 Stat. 1976, provided th
 
 “(i) In general.—Subject to clause (ii), no period before July 1, 1996, shall be taken into account under part A of title XXVII of the Public Health Service Act \[42 U.S.C. 300gg et seq.\] (as added by this section) in determining creditable coverage.
 
-“(ii) Special rule for certain periods.—The Secretary of Health and Human Services, consistent with section 104 \[set out as a note under section 300gg–92 of this title\], shall provide for a process whereby individuals who need to establish creditable coverage for periods before July 1, 1996, and who would have such coverage credited but for clause (i) may be given credit for creditable coverage for such periods through the presentation of documents or other means.
+“(ii) Special rule for certain periods.—The Secretary of Health and Human Services, consistent with section 104 \[42 U.S.C. 300gg–92 note\], shall provide for a process whereby individuals who need to establish creditable coverage for periods before July 1, 1996, and who would have such coverage credited but for clause (i) may be given credit for creditable coverage for such periods through the presentation of documents or other means.
 
 “(B) Certifications, etc.—
 
@@ -302,7 +302,7 @@ Pub. L. 104–191, title I, §102(c), Aug. 21, 1996, 110 Stat. 1976, provided th
 
 For purposes of subparagraph (A), any plan amendment made pursuant to a collective bargaining agreement relating to the plan which amends the plan solely to conform to any requirement of such part shall not be treated as a termination of such collective bargaining agreement.
 
-“(4) Timely regulations.—The Secretary of Health and Human Services, consistent with section 104 \[set out as a note under section 300gg–92 of this title\], shall first issue by not later than April 1, 1997, such regulations as may be necessary to carry out the amendments made by this section \[enacting this section and sections 300gg–1, 300gg–11 to 300gg–13, 300gg–21 to 300gg–23, 300gg–91, and 300gg–92 of this title and amending sections 300e and 300bb–8 of this title\] and section 111 \[enacting sections 300gg–41 to 300gg–44 and 300gg–61 to 300gg–63 of this title\].
+“(4) Timely regulations.—The Secretary of Health and Human Services, consistent with section 104 \[42 U.S.C. 300gg–92 note\], shall first issue by not later than April 1, 1997, such regulations as may be necessary to carry out the amendments made by this section \[enacting this section and sections 300gg–1, 300gg–11 to 300gg–13, 300gg–21 to 300gg–23, 300gg–91, and 300gg–92 of this title and amending sections 300e and 300bb–8 of this title\] and section 111 \[enacting sections 300gg–41 to 300gg–44 and 300gg–61 to 300gg–63 of this title\].
 
 “(5) Limitation on actions.—No enforcement action shall be taken, pursuant to the amendments made by this section, against a group health plan or health insurance issuer with respect to a violation of a requirement imposed by such amendments before January 1, 1998, or, if later, the date of issuance of regulations referred to in paragraph (4), if the plan or issuer has sought to comply in good faith with such requirements.”
 

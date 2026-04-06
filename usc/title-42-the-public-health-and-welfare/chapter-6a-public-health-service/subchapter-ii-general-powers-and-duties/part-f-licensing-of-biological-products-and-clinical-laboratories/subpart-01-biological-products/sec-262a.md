@@ -346,11 +346,11 @@ Amendment by Pub. L. 107–296 effective 60 days after Nov. 25, 2002, see sectio
 
 #### Effective Date
 
-Pub. L. 107–188, title II, §203(b), June 12, 2002, 116 Stat. 647, provided that: “Subsection (h) of section 351A of the Public Health Service Act \[subsec. (h) of this section\], as added by section 201 of this Act, is deemed to have taken effect on the effective date of the Antiterrorism and Effective Death Penalty Act of 1996 \[Pub. L. 104–132, Apr. 24, 1996, 110 Stat. 1214\].”
+Pub. L. 107–188, title II, §203(b), June 12, 2002, 116 Stat. 647, provided that: “Subsection (h) of section 351A of the Public Health Service Act \[42 U.S.C. 262a(h)\], as added by section 201 of this Act, is deemed to have taken effect on the effective date of the Antiterrorism and Effective Death Penalty Act of 1996 \[Pub. L. 104–132, Apr. 24, 1996, 110 Stat. 1214\].”
 
 #### Regulations
 
-Pub. L. 107–188, title II, §203(a), June 12, 2002, 116 Stat. 647, provided that: “Regulations promulgated by the Secretary of Health and Human Services under section 511 of the Antiterrorism and Effective Death Penalty Act of 1996 \[Pub. L. 104–132, set out as a note under section 262 of this title\] are deemed to have been promulgated under section 351A of the Public Health Service Act \[this section\], as added by section 201 of this Act. Such regulations, including the list under \[former\] subsection (d)(1) of such section 511, that were in effect on the day before the date of the enactment of this Act \[June 12, 2002\] remain in effect until modified by the Secretary in accordance with such section 351A and with section 202 of this Act \[set out as a note below\].”
+Pub. L. 107–188, title II, §203(a), June 12, 2002, 116 Stat. 647, provided that: “Regulations promulgated by the Secretary of Health and Human Services under section 511 of the Antiterrorism and Effective Death Penalty Act of 1996 \[Pub. L. 104–132, 42 U.S.C. 262 note\] are deemed to have been promulgated under section 351A of the Public Health Service Act \[42 U.S.C. 262a\], as added by section 201 of this Act. Such regulations, including the list under \[former\] subsection (d)(1) of such section 511, that were in effect on the day before the date of the enactment of this Act \[June 12, 2002\] remain in effect until modified by the Secretary in accordance with such section 351A and with section 202 of this Act \[set out as a note below\].”
 
 #### National Science Advisory Board for Biosecurity
 
@@ -368,15 +368,15 @@ Pub. L. 107–188, title II, §201(b), June 12, 2002, 116 Stat. 646, required th
 
 Pub. L. 107–188, title II, §202, June 12, 2002, 116 Stat. 646, provided that:
 
-“(a) Date Certain for Notice of Possession.—Not later than 90 days after the date of the enactment of this Act \[June 12, 2002\], all persons (unless exempt under subsection (g) of section 351A of the Public Health Service Act \[subsec. (g) of this section\], as added by section 201 of this Act) in possession of biological agents or toxins listed under such section 351A of the Public Health Service Act \[this section\] shall notify the Secretary of Health and Human Services of such possession. Not later than 30 days after such date of enactment, the Secretary shall provide written guidance on how such notice is to be provided to the Secretary.
+“(a) Date Certain for Notice of Possession.—Not later than 90 days after the date of the enactment of this Act \[June 12, 2002\], all persons (unless exempt under subsection (g) of section 351A of the Public Health Service Act \[42 U.S.C. 262a(g)\], as added by section 201 of this Act) in possession of biological agents or toxins listed under such section 351A of the Public Health Service Act \[42 U.S.C. 262a\] shall notify the Secretary of Health and Human Services of such possession. Not later than 30 days after such date of enactment, the Secretary shall provide written guidance on how such notice is to be provided to the Secretary.
 
-“(b) Date Certain for Promulgation; Effective Date Regarding Criminal and Civil Penalties.—Not later than 180 days after the date of the enactment of this Act \[June 12, 2002\], the Secretary of Health and Human Services shall promulgate an interim final rule for carrying out section 351A of the Public Health Service Act \[this section\], subject to subsection (c). Such interim final rule shall take effect 60 days after the date on which such rule is promulgated, including for purposes of—
+“(b) Date Certain for Promulgation; Effective Date Regarding Criminal and Civil Penalties.—Not later than 180 days after the date of the enactment of this Act \[June 12, 2002\], the Secretary of Health and Human Services shall promulgate an interim final rule for carrying out section 351A of the Public Health Service Act \[42 U.S.C. 262a\], subject to subsection (c). Such interim final rule shall take effect 60 days after the date on which such rule is promulgated, including for purposes of—
 
 “(1) section 175b(c) of title 18, United States Code (relating to criminal penalties), as added by section 231(a)(5) of this Act; and
 
-“(2) section 351A(i) of the Public Health Service Act \[subsec. (i) of this section\] (relating to civil penalties).
+“(2) section 351A(i) of the Public Health Service Act \[42 U.S.C. 262a(i)\] (relating to civil penalties).
 
-“(c) Transitional Provision Regarding Current Research and Education.—The interim final rule under subsection (b) shall include time frames for the applicability of the rule that minimize disruption of research or educational projects that involve biological agents and toxins listed pursuant to section 351A(a)(1) of the Public Health Service Act \[subsec. (a)(1) of this section\] and that were underway as of the effective date of such rule.”
+“(c) Transitional Provision Regarding Current Research and Education.—The interim final rule under subsection (b) shall include time frames for the applicability of the rule that minimize disruption of research or educational projects that involve biological agents and toxins listed pursuant to section 351A(a)(1) of the Public Health Service Act \[42 U.S.C. 262a(a)(1)\] and that were underway as of the effective date of such rule.”
 
 #### Ex. Ord. No. 13546. Optimizing the Security of Biological Select Agents and Toxins in the United States
 

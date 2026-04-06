@@ -36,7 +36,7 @@ Functions of Public Health Service, Surgeon General of Public Health Service, an
 
 Ex. Ord. No. 11160, July 6, 1964, 29 F.R. 9315, provided:
 
-By virtue of the authority vested in me by the first section of the Act of July 19, 1963 (Public Law 88–71, 77 Stat. 83, 42 U.S.C. 253a) \[this section\], and as President of the United States, I hereby prescribe the following regulations relating to the medical care of certain retired personnel of the Coast and Geodetic Survey \[now National Oceanic and Atmospheric Administration\] and dependents of Coast and Geodetic Survey \[now National Oceanic and Atmospheric Administration\] ships’ officers and crew members, both active and retired.
+By virtue of the authority vested in me by the first section of the Act of July 19, 1963 (Public Law 88–71, 77 Stat. 83, 42 U.S.C. 253a), and as President of the United States, I hereby prescribe the following regulations relating to the medical care of certain retired personnel of the Coast and Geodetic Survey \[now National Oceanic and Atmospheric Administration\] and dependents of Coast and Geodetic Survey \[now National Oceanic and Atmospheric Administration\] ships’ officers and crew members, both active and retired.
 
 Section 1. *Definitions*. As used in these regulations, the term:
 

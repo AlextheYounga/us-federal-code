@@ -212,4 +212,4 @@ Pub. L. 92–449, title II, §202, Sept. 30, 1972, 86 Stat. 750, provided that:
 
 “(7) medical authorities have no successful vaccine for syphilis or gonorrhea and no blood test for the detection of gonorrhea among the large reservoir of asymptomatic females.
 
-“(b) In order to preserve and protect the health and welfare of all citizens, it is the purpose of this Act \[this chapter\] to establish a national program for the prevention and control of venereal disease.”
+“(b) In order to preserve and protect the health and welfare of all citizens, it is the purpose of this Act \[enacting this section, amending sections 247b and 300 of this title, and enacting provisions set out as notes under sections 201 and 247b of this title\] to establish a national program for the prevention and control of venereal disease.”

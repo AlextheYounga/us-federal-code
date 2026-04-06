@@ -72,7 +72,7 @@ Pub. L. 91–296, title I, §115, June 30, 1970, 84 Stat. 341, provided that the
 
 Functions, powers, and duties of Secretary of Health and Human Services under subsec. (a)(8) of this section, insofar as relates to the prescription of personnel standards on a merit basis, transferred to Office of Personnel Management, see section 4728(a)(3)(C) of this title.
 
-Office of Surgeon General abolished by section 3 of Reorg. Plan No. 3 of 1966, eff. June 25, 1966, 31 F.R. 8855, 80 Stat. 1610, and functions thereof transferred to Secretary of Health, Education, and Welfare by section 1 of Reorg. Plan No. 3 of 1966, set out as a note under section 202 of this title. Secretary of Health, Education, and Welfare redesignated Secretary of Health and Human Services by section 509(b) of Pub. L. 96–88 which is classified to section 3508(b) of Title 20, Education.
+Office of Surgeon General abolished by section 3 of Reorg. Plan No. 3 of 1966, eff. June 25, 1966, 31 F.R. 8855, 80 Stat. 1610, and functions thereof transferred to Secretary of Health, Education, and Welfare by section 1 of Reorg. Plan No. 3 of 1966, set out as a note under section 202 of this title. Secretary of Health, Education, and Welfare redesignated Secretary of Health and Human Services by section 509(b) of Pub. L. 96–88 which is classified to section 3508(b) of Title 20, Education. Office of Surgeon General reestablished within the Office of the Assistant Secretary for Health, see Notice of Department of Health and Human Services, Office of the Assistant Secretary for Health, Mar. 30, 1987, 52 F.R. 11754.
 
 #### Funds for Modernization Projects; Conditions To Be Met Before Approval
 

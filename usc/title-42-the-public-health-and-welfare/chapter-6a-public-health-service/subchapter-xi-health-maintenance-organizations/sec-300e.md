@@ -176,21 +176,21 @@ Pub. L. 94–460, title I, §118, Oct. 8, 1976, 90 Stat. 1955, provided that:
 
 “(a) Except as provided in subsection (b), the amendments made by this title \[enacting section 300e–15 of this title and amending this section, sections 300e–1 to 300e–11, 300e–13, and 300n–1 of this title, and section 8902 of Title 5, Government Organization and Employees\] shall take effect on the date of the enactment of this Act \[Oct. 8, 1976\].
 
-“(b)(1) The amendments made by sections 101 \[amending this section\], 102 \[amending this section and section 300e–1 of this title\], 103 \[amending this section\], 104 \[amending section 300e–1 of this title\], and 106 \[amending section 300e–1 of this title\] shall (A) apply with respect to grants, contracts, loans, and loan guarantees made under sections 1303, 1304, and 1305 of the Public Health Service Act \[sections 300e–2, 300e–3, and 300e–4 of this title\] for fiscal years beginning after September 30, 1976, (B) apply with respect to health benefit plans offered under section 1310 of such Act \[section 300e–9 of this title\] after such date, and (C) for purposes of section 1312 \[section 300e–11 of this title\] take effect October 1, 1976.
+“(b)(1) The amendments made by sections 101 \[amending this section\], 102 \[amending this section and section 300e–1 of this title\], 103 \[amending this section\], 104 \[amending section 300e–1 of this title\], and 106 \[amending section 300e–1 of this title\] shall (A) apply with respect to grants, contracts, loans, and loan guarantees made under sections 1303, 1304, and 1305 of the Public Health Service Act \[42 U.S.C. 300e–2, 300e–3, 300e–4\] for fiscal years beginning after September 30, 1976, (B) apply with respect to health benefit plans offered under section 1310 of such Act \[42 U.S.C. 300e–9\] after such date, and (C) for purposes of section 1312 \[42 U.S.C. 300e–11\] take effect October 1, 1976.
 
-“(2) Subsection (d) of section 1301 of the Public Health Service Act \[subsec. (d) of this section\] (added by section 103(b) of this Act) shall take effect with respect to fiscal years of health maintenance organizations beginning on or after the date of the enactment of this Act \[Oct. 8, 1976\].
+“(2) Subsection (d) of section 1301 of the Public Health Service Act \[42 U.S.C. 300e(d)\] (added by section 103(b) of this Act) shall take effect with respect to fiscal years of health maintenance organizations beginning on or after the date of the enactment of this Act \[Oct. 8, 1976\].
 
-“(3) The amendments made by section 107 \[amending sections 300e–2, 300e–3, and 300e–4 of this title\] shall apply with respect to grants, contracts, loans, and loan guarantees made under sections 1303, 1304, and 1305 of the Public Health Service Act \[sections 300e–2, 300e–3 and 300e–4 of this title\] for fiscal years beginning after September 30, 1976.
+“(3) The amendments made by section 107 \[amending sections 300e–2, 300e–3, and 300e–4 of this title\] shall apply with respect to grants, contracts, loans, and loan guarantees made under sections 1303, 1304, and 1305 of the Public Health Service Act \[42 U.S.C. 300e–2, 300e–3, 300e–4\] for fiscal years beginning after September 30, 1976.
 
-“(4) The amendments made by sections 109(a)(1) \[amending section 300e–4 of this title\] and 109(c) \[amending section 300e–7 of this title\] shall apply with respect to loan guarantees made under section 1305 of the Public Health Service Act \[section 300e–4 of this title\] after September 30, 1976.
+“(4) The amendments made by sections 109(a)(1) \[amending section 300e–4 of this title\] and 109(c) \[amending section 300e–7 of this title\] shall apply with respect to loan guarantees made under section 1305 of the Public Health Service Act \[42 U.S.C. 300e–4\] after September 30, 1976.
 
-“(5) The amendment made by section 109(e) \[amending section 300e–3 of this title\] shall apply with respect to projects assisted under section 1304 of the Public Health Service Act \[section 300e–3 of this title\] after September 30, 1976.
+“(5) The amendment made by section 109(e) \[amending section 300e–3 of this title\] shall apply with respect to projects assisted under section 1304 of the Public Health Service Act \[42 U.S.C. 300e–3\] after September 30, 1976.
 
 “(6) The amendments made by paragraphs (1) and (2) of section 110(a) \[amending section 300e–9 of this title\] shall apply with respect to calendar quarters which begin after the date of the enactment of this Act \[Oct. 8, 1976\].
 
-“(7) The amendments made by paragraphs (3) and (4) of section 110 \[amending section 300e–9 of this title\] shall apply with respect to failures of employers to comply with section 1310(a) of the Public Health Service Act \[section 300e–9 of this title\] after the date of the enactment of this Act \[Oct. 8, 1976\].
+“(7) The amendments made by paragraphs (3) and (4) of section 110 \[amending section 300e–9 of this title\] shall apply with respect to failures of employers to comply with section 1310(a) of the Public Health Service Act \[42 U.S.C. 300e–9(a)\] after the date of the enactment of this Act \[Oct. 8, 1976\].
 
-“(8) The amendment made by section 111 \[amending section 300e–11 of this title\] shall apply with respect to determinations of the Secretary of Health, Education, and Welfare described in section 1312(a) of the Public Health Service Act \[section 300e–11(a) of this title\] and made after the date of the enactment of this Act \[Oct. 8, 1976\].”
+“(8) The amendment made by section 111 \[amending section 300e–11 of this title\] shall apply with respect to determinations of the Secretary of Health, Education, and Welfare described in section 1312(a) of the Public Health Service Act \[42 U.S.C. 300e–11(a)\] and made after the date of the enactment of this Act \[Oct. 8, 1976\].”
 
 #### Short Title of 1978 Amendment
 
@@ -206,7 +206,7 @@ For short title of Pub. L. 93–222, which enacted this subchapter, as the “He
 
 #### Qualification of Health Maintenance Organization Contingent Upon Controlling Organization's Assumption of Financial Obligations and Meeting Other Requirements
 
-Pub. L. 100–517, §5(a)(3), Oct. 24, 1988, 102 Stat. 2579, provided that: “During the period prior to the effective date of regulations issued under section 1301(c) of the Public Health Service Act \[subsec. (c) of this section\] (as amended by paragraph (2)), the Secretary of Health and Human Services shall consider the application for qualification under section 1301(c)(1)(A) of such Act of a health maintenance organization—
+Pub. L. 100–517, §5(a)(3), Oct. 24, 1988, 102 Stat. 2579, provided that: “During the period prior to the effective date of regulations issued under section 1301(c) of the Public Health Service Act \[42 U.S.C. 300e(c)\] (as amended by paragraph (2)), the Secretary of Health and Human Services shall consider the application for qualification under section 1301(c)(1)(A) of such Act of a health maintenance organization—
 
 “(A) which is owned or controlled by another organization, and
 
