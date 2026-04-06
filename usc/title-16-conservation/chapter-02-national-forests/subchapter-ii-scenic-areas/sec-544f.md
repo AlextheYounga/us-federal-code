@@ -32,9 +32,9 @@ Within three years after November 17, 1986, the Secretary shall develop land use
 
 #### (f) Guidelines for land use ordinances
 
-(1) [1](#544f_1_target) Within three years after November 17, 1986, the Secretary shall, in consultation with the Commission, develop guidelines to assure that non-Federal lands within the special management areas are managed consistent with the standards in section 544d of this title and the purposes of sections 544 to 544p of this title. The Secretary shall promptly transmit the guidelines to the Commission for inclusion in the management plan. The guidelines shall require that management, utilization, and disposal of timber, and exploration, development, and production of sand, gravel, and crushed rock for the construction, maintenance, or reconstruction of roads used to manage or harvest forest products on non-Federal lands within the special management areas take place without adversely affecting the scenic, cultural, recreation, and natural resources of the scenic area.
+(1) [2](#544f_2_target) Within three years after November 17, 1986, the Secretary shall, in consultation with the Commission, develop guidelines to assure that non-Federal lands within the special management areas are managed consistent with the standards in section 544d of this title and the purposes of sections 544 to 544p of this title. The Secretary shall promptly transmit the guidelines to the Commission for inclusion in the management plan. The guidelines shall require that management, utilization, and disposal of timber, and exploration, development, and production of sand, gravel, and crushed rock for the construction, maintenance, or reconstruction of roads used to manage or harvest forest products on non-Federal lands within the special management areas take place without adversely affecting the scenic, cultural, recreation, and natural resources of the scenic area.
 
-#### (h) [2](#544f_2_target) Adoption of special management area land use ordinances
+#### (h) [3](#544f_3_target) Adoption of special management area land use ordinances
 
 (1) Within sixty days of receipt of the management plan, each county shall submit to the Commission a letter stating that it proposes to adopt a land use ordinance consistent with the management plan. If any county fails to submit a letter as provided in this subsection, or fails to adopt a land use ordinance as provided in this section, the Commission shall carry out the requirements of subsection (l) of this section.
 
@@ -104,4 +104,6 @@ Pub. L. 100–71, title I, July 11, 1987, 101 Stat. 418, provided in part that: 
 
 [1 So in original. No par. (2) has been enacted.](#544f_1)
 
-[2 So in original. No subsec. (g) has been enacted.](#544f_2)
+[2 So in original. No par. (2) has been enacted.](#544f_2)
+
+[3 So in original. No subsec. (g) has been enacted.](#544f_3)

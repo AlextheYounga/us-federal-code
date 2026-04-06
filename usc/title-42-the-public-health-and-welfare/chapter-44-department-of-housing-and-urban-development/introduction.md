@@ -54,6 +54,4 @@ Sec.
 
 3549\. Investigation of violations.
 
-3550\. Audit of Department financial statements.
-
         
