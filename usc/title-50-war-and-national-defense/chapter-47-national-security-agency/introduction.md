@@ -40,4 +40,6 @@ Sec.
 
 3619\. Senior Chief Petty Officer Shannon Kent Award for Distinguished Female Personnel.
 
+3620\. Congressional notification of intelligence collection adjustments.
+
         
