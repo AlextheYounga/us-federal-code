@@ -10,6 +10,10 @@ Sec.
 
 3103\. Definitions.
 
+3104\. Agriculture research; declaration of policy; duties of Secretary of Agriculture; use of existing facilities.
+
+3105\. Agricultural research; authorization of additional appropriations; administrative expenses; availability of special research fund.
+
         
 
 #### SUBCHAPTER II—COORDINATION AND PLANNING OF AGRICULTURAL RESEARCH, EXTENSION, AND TEACHING
@@ -69,6 +73,8 @@ Sec.
 3155\. Agricultural and food policy research centers.
 
 3156\. Education grants to Alaska Native serving institutions and Native Hawaiian serving institutions.
+
+3157\. Competitive, special, and facilities research grants.
 
         
 
@@ -211,6 +217,8 @@ Sec.
 3317\. Program evaluation studies.
 
 3318\. Contract, grant, and cooperative agreement authorities.
+
+3318a. Cooperative research projects; agreements with and receipt of funds from State and other agencies.
 
 3319\. Restriction on treatment of indirect costs and tuition remission.
 

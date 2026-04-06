@@ -242,7 +242,7 @@ The following applies with respect to this section:
 
 #### (k) Relation to other provisions
 
-If a product is the subject of an authorization under this section, the use of such product within the scope of the authorization shall not be considered to constitute a clinical investigation for purposes of section 355(i), 360b(j), or 360j(g) of this title [1](#360bbb-3_1_target) or any other provision of this chapter or section 351 of the Public Health Service Act \[42 U.S.C. 262\].
+If a product is the subject of an authorization under this section, the use of such product within the scope of the authorization shall not be considered to constitute a clinical investigation for purposes of section 355(i), 360b(j), or 360j(g) of this title or any other provision of this chapter or section 351 of the Public Health Service Act \[42 U.S.C. 262\].
 
 #### (l) Option to carry out authorized activities
 
@@ -274,7 +274,7 @@ The Public Health Service Act, referred to in subsec. (a)(3), is act July 1, 194
 
 #### Amendments
 
-**2016**—Subsec. (a)(2)(A). Pub. L. 114–255, §3088(a)(1)(A), substituted "360b, or 360e" for "or 360e" and inserted "or conditionally approved under section 360ccc of this title" after "Public Health Service Act"
+**2016**—Subsec. (a)(2)(A). Pub. L. 114–255, §3088(a)(1)(A), substituted "360b, or 360e" for "or 360e" and inserted "or conditionally approved under section 360ccc of this title" after "Public Health Service Act".
 
 Subsec. (a)(2)(B). Pub. L. 114–255, §3088(a)(1)(B), inserted "conditionally approved under section 360ccc of this title," after "approved," in two places.
 
