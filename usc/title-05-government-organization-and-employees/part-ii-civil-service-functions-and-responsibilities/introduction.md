@@ -14,6 +14,8 @@ Chap. Sec.
 
         
 
+#### **Editorial Notes**
+
 #### Amendments
 
 **2002**—Pub. L. 107–296, title XIII, §1302(b), Nov. 25, 2002, 116 Stat. 2288, added item for chapter 14.

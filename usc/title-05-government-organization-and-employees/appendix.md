@@ -24,6 +24,10 @@ This Act may be cited as the "Federal Advisory Committee Act".
 
 (Pub. L. 92–463, §1, Oct. 6, 1972, 86 Stat. 770.)
 
+  
+
+#### **Statutory Notes and Related Subsidiaries**
+
 #### Short Title of 1997 Amendment
 
 Pub. L. 105–153, §1, Dec. 17, 1997, 111 Stat. 2689, provided that: "This Act \[enacting section 15 of Pub. L. 92–463, set out in this Appendix, amending section 3 of Pub. L. 92–463, set out in this Appendix, renumbering former section 15 of Pub. L. 92–463, set out in this Appendix, as section 16, and enacting provisions set out as notes under sections 3 and 15 of Pub. L. 92–463, set out in this Appendix\] may be cited as the 'Federal Advisory Committee Act Amendments of 1997'."
@@ -47,6 +51,10 @@ Pub. L. 105–153, §1, Dec. 17, 1997, 111 Stat. 2689, provided that: "This Act 
 (6) the function of advisory committees should be advisory only, and that all matters under their consideration should be determined, in accordance with law, by the official, agency, or officer involved.
 
 (Pub. L. 92–463, §2, Oct. 6, 1972, 86 Stat. 770.)
+
+  
+
+#### **Executive Documents**
 
 #### Executive Order No. 11686
 
@@ -118,9 +126,17 @@ in the interest of obtaining advice or recommendations for the President or one 
 
 (Pub. L. 92–463, §3, Oct. 6, 1972, 86 Stat. 770; 1977 Reorg. Plan No. 1, §5F, eff. Nov. 20, 1977, 42 F.R. 56101, 91 Stat. 1634; Pub. L. 105–153, §2(a), Dec. 17, 1997, 111 Stat. 2689.)
 
+  
+
+#### **Editorial Notes**
+
 #### Amendments
 
 **1997**—Par. (2). Pub. L. 105–153, in closing provisions, substituted "such term excludes (i) any committee that is composed wholly of full-time, or permanent part-time, officers or employees of the Federal Government, and (ii) any committee that is created by the National Academy of Sciences or the National Academy of Public Administration." for "such term excludes (i) the Advisory Commission on Intergovernmental Relations, (ii) the Commission on Government Procurement, and (iii) any committee which is composed wholly of full-time officers or employees of the Federal Government."
+
+  
+
+#### **Statutory Notes and Related Subsidiaries**
 
 #### Effective Date of 1997 Amendment
 
@@ -129,6 +145,10 @@ Pub. L. 105–153, §2(c), Dec. 17, 1997, 111 Stat. 2691, provided that:
 "(1) In general.—Except as provided in paragraph (2), this section \[enacting section 15 of Pub. L. 92–463, set out in this Appendix, amending this section, and redesignating former section 15 of Pub. L. 92–463, set out in this Appendix, as section 16\] and the amendments made by this section shall take effect on the date of the enactment of this Act \[Dec. 17, 1997\].
 
 "(2) Retroactive effect.—Subsection (a) \[amending this section\] and the amendments made by subsection (a) shall be effective as of October 6, 1972, except that they shall not apply with respect to or otherwise affect any particular advice or recommendations that are subject to any judicial action filed before the date of the enactment of this Act."
+
+  
+
+#### **Executive Documents**
 
 #### Transfer of Functions
 
@@ -151,6 +171,10 @@ Pub. L. 105–153, §2(c), Dec. 17, 1997, 111 Stat. 2691, provided that:
 (c) Nothing in this Act shall be construed to apply to any local civic group whose primary function is that of rendering a public service with respect to a Federal program, or any State or local committee, council, board, commission, or similar group established to advise or make recommendations to State or local officials or agencies.
 
 (Pub. L. 92–463, §4, Oct. 6, 1972, 86 Stat. 771; Pub. L. 111–259, title IV, §410(a), Oct. 7, 2010, 124 Stat. 2724.)
+
+  
+
+#### **Editorial Notes**
 
 #### Amendments
 
@@ -188,17 +212,25 @@ Pub. L. 105–153, §2(c), Dec. 17, 1997, 111 Stat. 2691, provided that:
 
 (Pub. L. 92–463, §6, Oct. 6, 1972, 86 Stat. 772; Pub. L. 97–375, title II, §201(c), Dec. 21, 1982, 96 Stat. 1822.)
 
-#### Termination of Reporting Requirements
+  
 
-For termination, effective May 15, 2000, of reporting provisions in subsec. (c) of this section, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and page 173 of House Document No. 103–7.
+#### **Editorial Notes**
 
 #### Amendments
 
 **1982**—Subsec. (c). Pub. L. 97–375 substituted provision that the President shall, not later than Dec. 31 of each year, make an annual report to Congress on the activities, status, and changes in the composition of advisory committees in existence during the preceding fiscal year, for provision the President, not later than March 31 of each calendar year after 1972, make an annual report to Congress on the activities, status, and changes in the composition of advisory committees in existence during the preceding calendar year.
 
+  
+
+#### **Statutory Notes and Related Subsidiaries**
+
 #### Effective Date of 1982 Amendment
 
 Pub. L. 97–375, title II, §201(c), Dec. 21, 1982, 96 Stat. 1822, provided that the amendment made by that subsection is effective July 1, 1983.
+
+#### Termination of Reporting Requirements
+
+For termination, effective May 15, 2000, of reporting provisions in subsec. (c) of this section, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and page 173 of House Document No. 103–7.
 
 ### §7. Responsibilities of the Administrator of General Services; Committee Management Secretariat, establishment; review; recommendations to President and Congress; agency cooperation; performance guidelines; uniform pay guidelines; travel expenses; expense recommendations
 
@@ -252,6 +284,10 @@ from receiving compensation at the rate at which he otherwise would be compensat
 
 (Pub. L. 92–463, §7, Oct. 6, 1972, 86 Stat. 772; 1977 Reorg. Plan No. 1, §5F, eff. Nov. 20, 1977, 42 F.R. 56101, 91 Stat. 1634; 1978 Reorg. Plan No. 2, §102, eff. Jan. 1, 1979, 43 F.R. 36067, 92 Stat. 3783; Pub. L. 96–523, §2, Dec. 12, 1980, 94 Stat. 3040.)
 
+  
+
+#### **Editorial Notes**
+
 #### References in Text
 
 Section 501 of the Rehabilitation Act of 1973, referred to in subsec. (d)(1)(C)(i), is classified to section 791 of Title 29, Labor, rather than to section 794 of Title 29 as shown in text.
@@ -260,19 +296,27 @@ Section 501 of the Rehabilitation Act of 1973, referred to in subsec. (d)(1)(C)(
 
 **1980**—Subsec. (d)(1)(C). Pub. L. 96–523 added subpar. (C).
 
+  
+
+#### **Statutory Notes and Related Subsidiaries**
+
 #### Effective Date of 1980 Amendment
 
 Amendment by Pub. L. 96–523 effective sixty days after Dec. 12, 1980, see section 3 of Pub. L. 96–523, set out as a note under section 3102 of this title.
+
+#### References in Other Laws to GS–16, 17, or 18 Pay Rates
+
+References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of this title, see section 529 \[title I, §101(c)(1)\] of Pub. L. 101–509, set out in a note under section 5376 of this title.
+
+  
+
+#### **Executive Documents**
 
 #### Transfer of Functions
 
 "Director of the Office of Personnel Management" substituted for "Civil Service Commission" in subsec. (d) pursuant to Reorg. Plan No. 2 of 1978, §102, 43 F.R. 36037, 92 Stat. 3783, set out under section 1101 of this title, which transferred functions vested by statute in United States Civil Service Commission to Director of Office of Personnel Management (except as otherwise specified), effective Jan. 1, 1979, as provided by section 1–102 of Ex. Ord. No. 12107, Dec. 28, 1978, 44 F.R. 1055, set out under section 1101 of this title.
 
 "Administrator", "Administrator's", "Administrator of General Services", and "General Services Administration" substituted for "Director", "Director's", "Director, Office of Management and Budget", and "Office of Management and Budget" in text pursuant to Reorg. Plan No. 1 of 1977, §5F, 42 F.R. 56101, 91 Stat. 1634, set out in this Appendix, which transferred functions of Office of Management and Budget and Director thereof relating to Committee Management Secretariat to Administrator of General Services, effective Nov. 20, 1977, as provided by section 1 of Ex. Ord. No. 12024, Dec. 1, 1977, 42 F.R. 61445, set out under section 2 of this Act in this Appendix.
-
-#### References in Other Laws to GS–16, 17, or 18 Pay Rates
-
-References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of this title, see section 529 \[title I, §101(c)(1)\] of Pub. L. 101–509, set out in a note under section 5376 of this title.
 
 ### §8. Responsibilities of agency heads; Advisory Committee Management Officer, designation
 
@@ -287,6 +331,10 @@ References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rat
 (3) carry out, on behalf of that agency, the provisions of section 552 of title 5, United States Code, with respect to such reports, records, and other papers.
 
 (Pub. L. 92–463, §8, Oct. 6, 1972, 86 Stat. 773; 1977 Reorg. Plan No. 1, §5F, eff. Nov. 20, 1977, 42 F.R. 56101, 91 Stat. 1634.)
+
+  
+
+#### **Executive Documents**
 
 #### Transfer of Functions
 
@@ -332,6 +380,10 @@ A copy of any such charter shall also be furnished to the Library of Congress.
 
 (Pub. L. 92–463, §9, Oct. 6, 1972, 86 Stat. 773; 1977 Reorg. Plan No. 1, §5F, eff. Nov. 20, 1977, 42 F.R. 56101, 91 Stat. 1634.)
 
+  
+
+#### **Executive Documents**
+
 #### Transfer of Functions
 
 "Administrator", meaning Administrator of General Services, substituted for "Director", meaning Director of Office of Management and Budget, in subsecs. (a)(2) and (c) pursuant to Reorg. Plan No. 1 of 1977, §5F, 42 F.R. 56101, 91 Stat. 1634, set out in this Appendix, which transferred functions of Office of Management and Budget and Director thereof relating to Committee Management Secretariat to Administrator of General Services, effective Nov. 20, 1977, as provided by section 1 of Ex. Ord. No. 12024, Dec. 1, 1977, 42 F.R. 61445, set out under section 2 of this Act in this Appendix.
@@ -356,13 +408,25 @@ A copy of any such charter shall also be furnished to the Library of Congress.
 
 (Pub. L. 92–463, §10, Oct. 6, 1972, 86 Stat. 774; Pub. L. 94–409, §5(c), Sept. 13, 1976, 90 Stat. 1247; 1977 Reorg. Plan No. 1, §5F, eff. Nov. 20, 1977, 42 F.R. 56101, 91 Stat. 1634.)
 
+  
+
+#### **Editorial Notes**
+
 #### Amendments
 
 **1976**—Subsec. (d). Pub. L. 94–409 inserted "portion of an" after "to any" and substituted provisions relating to determinations for closing to the public such portion of the meeting in accordance with section 552b(c) of title 5, for provisions relating to determinations of matters listed in section 552(b) of title 5.
 
+  
+
+#### **Statutory Notes and Related Subsidiaries**
+
 #### Effective Date of 1976 Amendment
 
 Amendment by Pub. L. 94–409 effective 180 days after Sept. 13, 1976, see section 6 of Pub. L. 94–409, set out as an Effective Date note under section 552b of this title.
+
+  
+
+#### **Executive Documents**
 
 #### Transfer of Functions
 
@@ -375,6 +439,10 @@ Amendment by Pub. L. 94–409 effective 180 days after Sept. 13, 1976, see secti
 (b) As used in this section "agency proceeding" means any proceeding as defined in section 551(12) of title 5, United States Code.
 
 (Pub. L. 92–463, §11, Oct. 6, 1972, 86 Stat. 775.)
+
+  
+
+#### **Editorial Notes**
 
 #### References in Text
 
@@ -393,6 +461,10 @@ Effective date of this Act, referred to in subsec. (a), as meaning effective upo
 Subject to section 552 of title 5, United States Code, the Administrator shall provide for the filing with the Library of Congress of at least eight copies of each report made by every advisory committee and, where appropriate, background papers prepared by consultants. The Librarian of Congress shall establish a depository for such reports and papers where they shall be available to public inspection and use.
 
 (Pub. L. 92–463, §13, Oct. 6, 1972, 86 Stat. 775; 1977 Reorg. Plan No. 1, §5F, eff. Nov. 20, 1977, 42 F.R. 56101, 91 Stat. 1634.)
+
+  
+
+#### **Executive Documents**
 
 #### Transfer of Functions
 
@@ -426,9 +498,17 @@ Subject to section 552 of title 5, United States Code, the Administrator shall p
 
 (Pub. L. 92–463, §14, Oct. 6, 1972, 86 Stat. 776.)
 
+  
+
+#### **Editorial Notes**
+
 #### References in Text
 
 Effective date of this Act, referred to in subsec. (a)(1), as meaning effective upon expiration of ninety days following enactment of Pub. L. 92–463 on Oct. 6, 1972, see section 15 of Pub. L. 92–463.
+
+  
+
+#### **Executive Documents**
 
 #### Ex. Ord. No. 12838. Termination and Limitation of Federal Advisory Committees
 
@@ -450,7 +530,7 @@ William J. Clinton.      
 
 #### Continuance of Certain Federal Advisory Committees
 
-Ex. Ord. No. 13889, Sept. 27, 2019, 84 F.R. 52743, provided:
+Ex. Ord. No. 13889, Sept. 27, 2019, 84 F.R. 52743, as amended by Ex. Ord. No. 13935, §4(a), July 9, 2020, 85 F.R. 42685, provided:
 
 By the authority vested in me as President, by the Constitution and the laws of the United States of America, and consistent with the provisions of the Federal Advisory Committee Act, as amended (5 U.S.C. App.), it is hereby ordered as follows:
 
@@ -496,7 +576,7 @@ Section 1. Each advisory committee listed below is continued until September 30,
 
 (t) State, Local, Tribal, and Private Sector (SLTPS) Policy Advisory Committee; Executive Order 13549 (National Archives and Records Administration).
 
-(u) President's Advisory Commission on Educational Excellence for Hispanics; Executive Order 13555 (Department of Education).
+(u) \[Superseded by Ex. Ord. No. 13935, §4(a), July 9, 2020, 85 F.R. 42685, set out as a note under section 3411 of Title 20, Education.\]
 
 (v) President's Advisory Commission on Educational Excellence for African Americans; Executive Order 13621 (Department of Education).
 
@@ -682,6 +762,10 @@ Ex. Ord. No. 12007, Aug. 22, 1977, 42 F.R. 42839.
 
 (Pub. L. 92–463, §15, as added Pub. L. 105–153, §2(b), Dec. 17, 1997, 111 Stat. 2689.)
 
+  
+
+#### **Editorial Notes**
+
 #### References in Text
 
 The date of the enactment of the Federal Advisory Committee Act Amendments of 1997, referred to in subsec. (a)(2), is the date of enactment of Pub. L. 105–153, which was approved Dec. 17, 1997.
@@ -689,6 +773,10 @@ The date of the enactment of the Federal Advisory Committee Act Amendments of 19
 #### Prior Provisions
 
 A prior section 15 of the Federal Advisory Committee Act was renumbered section 16 by Pub. L. 105–153.
+
+  
+
+#### **Statutory Notes and Related Subsidiaries**
 
 #### Report
 
@@ -709,6 +797,10 @@ Pub. L. 95–452, Oct. 12, 1978, 92 Stat. 1101, as amended by Pub. L. 96–88, t
 This Act be cited as the "Inspector General Act of 1978".
 
 (Pub. L. 95–452, §1, Oct. 12, 1978, 92 Stat. 1101.)
+
+  
+
+#### **Statutory Notes and Related Subsidiaries**
 
 #### Short Title of 2018 Amendment
 
@@ -762,6 +854,10 @@ there is established—
 
 (Pub. L. 95–452, §2, Oct. 12, 1978, 92 Stat. 1101; Pub. L. 96–88, title V, §508(n)(1), Oct. 17, 1979, 93 Stat. 694; Pub. L. 97–113, title VII, §705(a)(1), Dec. 29, 1981, 95 Stat. 1544; Pub. L. 97–252, title XI, §1117(a)(1), Sept. 8, 1982, 96 Stat. 750; Pub. L. 99–93, title I, §150(a)(1), Aug. 16, 1985, 99 Stat. 427; Pub. L. 99–399, title IV, §412(a)(1), Aug. 27, 1986, 100 Stat. 867; Pub. L. 100–504, title I, §102(a), (b), Oct. 18, 1988, 102 Stat. 2515; Pub. L. 100–527, §13(h)(1), Oct. 25, 1988, 102 Stat. 2643; Pub. L. 105–206, title I, §1103(a), July 22, 1998, 112 Stat. 705; Pub. L. 110–409, §7(d)(1)(A), Oct. 14, 2008, 122 Stat. 4313.)
 
+  
+
+#### **Editorial Notes**
+
 #### Codification
 
 Amendment by Pub. L. 100–527 amended section as it existed prior to amendment by Pub. L. 100–504, see Effective Date of 1988 Amendments note below.
@@ -785,6 +881,10 @@ Par. (1). Pub. L. 100–527 inserted "the Department of Veterans Affairs," and s
 **1981**—Par. (1). Pub. L. 97–113 inserted "the Agency for International Development,".
 
 **1979**—Par. (1). Pub. L. 96–88 inserted "the Department of Education,".
+
+  
+
+#### **Statutory Notes and Related Subsidiaries**
 
 #### Effective Date of 1988 Amendments
 
@@ -850,6 +950,10 @@ Amendment by Pub. L. 96–88 effective May 4, 1980, with specified exceptions, s
 
 (Pub. L. 95–452, §3, Oct. 12, 1978, 92 Stat. 1101; Pub. L. 110–409, §§3(a), 4(a)(1), 5, 6(a), Oct. 14, 2008, 122 Stat. 4302, 4305; Pub. L. 112–199, title I, §117(a), Nov. 27, 2012, 126 Stat. 1474; Pub. L. 114–317, §7(d)(3)(A), Dec. 16, 2016, 130 Stat. 1606; Pub. L. 115–192, §2(a), June 25, 2018, 132 Stat. 1502.)
 
+  
+
+#### **Editorial Notes**
+
 #### Amendments
 
 **2018**—Subsec. (d)(1)(C). Pub. L. 115–192, §2(a)(1)(B), substituted "Coordinator who shall—" for "Ombudsman who shall educate agency employees—" in introductory provisions.
@@ -881,6 +985,10 @@ Subsec. (e). Pub. L. 110–409, §4(a)(1), added subsec. (e).
 Subsec. (f). Pub. L. 110–409, §5, added subsec. (f).
 
 Subsec. (g). Pub. L. 110–409, §6(a), added subsec. (g).
+
+  
+
+#### **Statutory Notes and Related Subsidiaries**
 
 #### Effective and Termination Dates of 2012 Amendment
 
@@ -984,6 +1092,10 @@ Pub. L. 103–204, §23(c), Dec. 17, 1993, 107 Stat. 2408, provided that:
 
 "(2) Definition.—For purposes of paragraph (1), the term 'successor' may include the individual holding the position of Inspector General of the Federal Deposit Insurance Corporation on or after the date of enactment of this Act."
 
+  
+
+#### **Executive Documents**
+
 #### Executive Order No. 12993
 
 Ex. Ord. No. 12993, Mar. 21, 1996, 61 F.R. 13043, which related to administrative allegations against Inspectors General, was omitted from the Code pursuant to Pub. L. 110–409, §7(c)(2), Oct. 14, 2008, 122 Stat. 4313, which provided that Ex. Ord. No. 12933 (probably meaning Ex. Ord. No. 12993), as in effect before Oct. 14, 2008, was to have no force or effect on and after the earlier of either the date on which the Council of the Inspectors General on Integrity and Efficiency becomes effective and operational or the last day of the 180-day period beginning on Oct. 14, 2008. See section 7(c)(2) of Pub. L. 110–409, set out as an Effective Date; Existing Executive Orders note under section 11 of this Appendix.
@@ -1014,7 +1126,7 @@ Ex. Ord. No. 12993, Mar. 21, 1996, 61 F.R. 13043, which related to administrativ
 
 (B) establish guidelines for determining when it shall be appropriate to use non-Federal auditors; and
 
-(C) take appropriate steps to assure that any work performed by non-Federal auditors complies with the standards established by the Comptroller General as described in paragraph (1).
+(C) take appropriate steps to assure that any work performed by non-Federal auditors complies with the standards established by the Comptroller General as described in paragraph (1).[1](#4_1_target)
 
   
 
@@ -1046,6 +1158,14 @@ Ex. Ord. No. 12993, Mar. 21, 1996, 61 F.R. 13043, which related to administrativ
 
 (Pub. L. 95–452, §4, Oct. 12, 1978, 92 Stat. 1102; Pub. L. 100–504, title I, §109, Oct. 18, 1988, 102 Stat. 2529; Pub. L. 103–82, title II, §202(g)(5)(A), Sept. 21, 1993, 107 Stat. 890; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 110–409, §7(d)(1)(A), Oct. 14, 2008, 122 Stat. 4313; Pub. L. 114–317, §§4(d), 7(d)(2)(A), Dec. 16, 2016, 130 Stat. 1602, 1606.)
 
+  
+
+#### **Editorial Notes**
+
+#### References in Text
+
+Paragraph (1), referred to in subsec. (b)(1)(C), means par. (1) of subsec. (b) of this section, but probably should be a reference to subpar. (A) of subsec. (b)(1) of this section following the redesignation of subsec. (b)(1) as subsec. (b)(1)(A) by Pub. L. 100–504, title I, §109(1), (2), Oct. 18, 1988, 102 Stat. 2529.
+
 #### Amendments
 
 **2016**—Subsec. (b)(2). Pub. L. 114–317, §7(d)(2)(A), substituted "8G(a)(2)" for "8F(a)(2)" in two places and "8G(a)(1)" for "8F(a)(1)".
@@ -1060,6 +1180,10 @@ Subsec. (e). Pub. L. 114–317, §4(d), added subsec. (e).
 
 **1988**—Subsec. (b). Pub. L. 100–504 designated existing provisions as par. (1), redesignated pars. (1) to (3) as subpars. (A) to (C), respectively, and added par. (2).
 
+  
+
+#### **Statutory Notes and Related Subsidiaries**
+
 #### Effective Date of 1993 Amendment
 
 Amendment by Pub. L. 103–82 effective Oct. 1, 1993, see section 202(i) of Pub. L. 103–82, set out as an Effective Date note under section 12651 of Title 42, The Public Health and Welfare.
@@ -1067,6 +1191,8 @@ Amendment by Pub. L. 103–82 effective Oct. 1, 1993, see section 202(i) of Pub.
 #### Effective Date of 1988 Amendment
 
 Amendment by Pub. L. 100–504 effective 180 days after Oct. 18, 1988, see section 113 of Pub. L. 100–504, set out as a note under section 5 of Pub. L. 95–452 in this Appendix.
+
+[1 See References in Text note below.](#4_1)
 
 ### §5. Semiannual reports; transmittal to Congress; availability to public; immediate report on serious or flagrant problems; disclosure of information; definitions
 
@@ -1322,6 +1448,10 @@ except that such statement may exclude such audit reports that are under formal 
 
 (Pub. L. 95–452, §5, Oct. 12, 1978, 92 Stat. 1103; Pub. L. 97–252, title XI, §1117(c), Sept. 8, 1982, 96 Stat. 752; Pub. L. 100–504, title I, §§102(g), 106, Oct. 18, 1988, 102 Stat. 2521, 2525; Pub. L. 104–208, div. A, title I, §101(f) \[title VIII, §805(c)\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–393; Pub. L. 110–409, §12, Oct. 14, 2008, 122 Stat. 4315; Pub. L. 111–203, title IX, §989C, July 21, 2010, 124 Stat. 1945; Pub. L. 114–317, §§4(c), 7(d)(2)(B), (C), Dec. 16, 2016, 130 Stat. 1600, 1606; Pub. L. 115–192, §2(c), June 25, 2018, 132 Stat. 1503; Pub. L. 116–92, div. A, title XVII, §1710, Dec. 20, 2019, 133 Stat. 1801.)
 
+  
+
+#### **Editorial Notes**
+
 #### References in Text
 
 Section 804(b) of the Federal Financial Management Improvement Act of 1996, referred to in subsec. (a)(13), is section 101(f) \[title VIII, §804(b)\] of title I of Pub. L. 104–208, Sept. 30, 1996, 110 Stat. 3009–314, 3009–392, which is set out in a note under section 3512 of Title 31, Money and Finance.
@@ -1375,6 +1505,10 @@ Subsec. (e)(3). Pub. L. 100–504, §102(g), substituted "Except to the extent a
 Subsec. (f). Pub. L. 100–504, §106(d), added subsec. (f).
 
 **1982**—Subsec. (e). Pub. L. 97–252 added subsec. (e).
+
+  
+
+#### **Statutory Notes and Related Subsidiaries**
 
 #### Effective Date of 2010 Amendment
 
@@ -1630,6 +1764,10 @@ Pub. L. 103–355, title VI, §6009, Oct. 13, 1994, 108 Stat. 3367, as amended b
 
 (Pub. L. 95–452, §6, Oct. 12, 1978, 92 Stat. 1104; Pub. L. 100–504, title I, §§107, 110(a), Oct. 18, 1988, 102 Stat. 2528, 2529; Pub. L. 107–296, title VIII, §812(a), Nov. 25, 2002, 116 Stat. 2222; Pub. L. 110–409, §§8, 9, 11, 14(a), Oct. 14, 2008, 122 Stat. 4313–4316; Pub. L. 114–317, §§2, 5, 7(d)(2)(D), (3)(B), Dec. 16, 2016, 130 Stat. 1595, 1603, 1606.)
 
+  
+
+#### **Editorial Notes**
+
 #### References in Text
 
 The Federal Rules of Criminal Procedure, referred to in subsec. (a)(1)(C), are set out in the Appendix to Title 18, Crimes and Criminal Procedure.
@@ -1667,6 +1805,10 @@ Subsec. (f). Pub. L. 110–409, §8, added subsec. (f).
 **1988**—Subsec. (a)(5) to (9). Pub. L. 100–504, §107, added par. (5) and redesignated former pars. (5) to (8) as (6) to (9), respectively.
 
 Subsec. (d). Pub. L. 100–504, §110(a), added subsec. (d).
+
+  
+
+#### **Statutory Notes and Related Subsidiaries**
 
 #### Change of Name
 
@@ -1824,6 +1966,10 @@ Pub. L. 106–422, §2, Nov. 1, 2000, 114 Stat. 1873, provided that:
 
 (Pub. L. 95–452, §8, Oct. 12, 1978, 92 Stat. 1105; Pub. L. 97–252, title XI, §1117(b), Sept. 8, 1982, 96 Stat. 751; Pub. L. 100–504, title I, §110(b), Oct. 18, 1988, 102 Stat. 2529; Pub. L. 104–106, div. A, title XV, §1502(f)(6), Feb. 10, 1996, 110 Stat. 510; Pub. L. 106–65, div. A, title X, §1067(17), Oct. 5, 1999, 113 Stat. 775; Pub. L. 110–417, \[div. A\], title IX, §907, Oct. 14, 2008, 122 Stat. 4569; Pub. L. 111–84, div. A, title X, §1042, Oct. 28, 2009, 123 Stat. 2455; Pub. L. 112–239, div. A, title XVI, §1614, Jan. 2, 2013, 126 Stat. 2066; Pub. L. 114–317, §6(1), Dec. 16, 2016, 130 Stat. 1604.)
 
+  
+
+#### **Editorial Notes**
+
 #### Amendments
 
 **2016**—Subsec. (b)(2). Pub. L. 114–317 inserted "from accessing information described in paragraph (1)," after "completing any audit or investigation," and ", access such information," after "complete such audit or investigation".
@@ -1849,6 +1995,10 @@ Subsec. (f)(2). Pub. L. 104–106, §1502(f)(6)(D), substituted "congressional c
 **1988**—Subsec. (e). Pub. L. 100–504 inserted provision at end that when Coast Guard operates as service of another department or agency of Federal Government, member of Coast Guard shall be deemed employee of such department or agency.
 
 **1982**—Pub. L. 97–252 amended section generally, substituting additional provisions relating to the Inspector General of the Department of Defense for provisions relating to semiannual reports of Secretary of Defense on audit, investigative, and inspection units of Defense Department, availability of such reports to the public, exclusion of national security material, delegation of the Secretary's duties, submittal of proposed legislation, the establishment of a task force to study operation of audit, investigative and inspection units, membership in the task force, and the submission of a comprehensive report by the task force to the Secretary of Defense and Director of Office of Management and Budget, who were to submit a final report to Congress not later than April 1, 1980.
+
+  
+
+#### **Statutory Notes and Related Subsidiaries**
 
 #### Change of Name
 
@@ -1880,6 +2030,10 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 (Pub. L. 95–452, §8A, as added Pub. L. 97–113, title VII, §705(a)(3), Dec. 29, 1981, 95 Stat. 1544; amended Pub. L. 105–277, div. G, subdiv. A, title XIV, §1422(b)(2), Oct. 21, 1998, 112 Stat. 2681–792; Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title II, §205\], Nov. 29, 1999, 113 Stat. 1536, 1501A–422; Pub. L. 114–317, §7(d)(2)(E), Dec. 16, 2016, 130 Stat. 1606.)
 
+  
+
+#### **Editorial Notes**
+
 #### References in Text
 
 The Foreign Assistance Act of 1961, referred to in subsec. (f), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended. Part I of the Foreign Assistance Act of 1961 is classified generally to subchapter I (§2151 et seq.) of chapter 32 of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of Title 22 and Tables.
@@ -1900,6 +2054,10 @@ Subsecs. (c) to (h). Pub. L. 105–277, §1422(b)(2)(B), (C), redesignated subse
 
 "(f) The reference in section 7(a) of this Act to an employee of the establishment shall, with respect to the Inspector General of the Agency for International Development, be construed to include an employee of or under the United States International Development Cooperation Agency."
 
+  
+
+#### **Statutory Notes and Related Subsidiaries**
+
 #### Effective Date of 1998 Amendment
 
 Amendment by Pub. L. 105–277 effective Apr. 1, 1999, see section 1401 of Pub. L. 105–277, set out as an Effective Date note under section 6561 of Title 22, Foreign Relations and Intercourse.
@@ -1914,6 +2072,10 @@ Amendment by Pub. L. 105–277 effective Apr. 1, 1999, see section 1401 of Pub. 
 
 (Pub. L. 95–452, §8B, as added Pub. L. 100–504, title I, §102(f), Oct. 18, 1988, 102 Stat. 2517.)
 
+  
+
+#### **Statutory Notes and Related Subsidiaries**
+
 #### Effective Date
 
 Section effective 180 days after Oct. 18, 1988, see section 113 of Pub. L. 100–504, set out as an Effective Date of 1988 Amendment note under section 5 of Pub. L. 95–452 in this Appendix.
@@ -1925,6 +2087,10 @@ Section effective 180 days after Oct. 18, 1988, see section 113 of Pub. L. 100�
 (b) Personnel.—Notwithstanding paragraphs (7) and (8) of section 6(a), the Inspector General of the Federal Deposit Insurance Corporation may select, appoint, and employ such officers and employees as may be necessary for carrying out the functions, powers, and duties of the Office of Inspector General and to obtain the temporary or intermittent services of experts or consultants or an organization of experts or consultants, subject to the applicable laws and regulations that govern such selections, appointments, and employment, and the obtaining of such services, within the Federal Deposit Insurance Corporation.
 
 (Pub. L. 95–452, §8C, as added Pub. L. 103–204, §23(a)(2), Dec. 17, 1993, 107 Stat. 2407.)
+
+  
+
+#### **Editorial Notes**
 
 #### Prior Provisions
 
@@ -2028,6 +2194,10 @@ A prior section 8C of the Inspector General Act of 1978 was renumbered section 8
 
 (Pub. L. 95–452, §8D, formerly §8C, as added Pub. L. 100–504, title I, §102(f), Oct. 18, 1988, 102 Stat. 2518; renumbered §8D, Pub. L. 103–204, §23(a)(3), Dec. 17, 1993, 107 Stat. 2408; amended Pub. L. 105–206, title I, §1103(b), (e)(1), (2), July 22, 1998, 112 Stat. 705, 709; Pub. L. 107–296, title XI, §1112(a)(1), Nov. 25, 2002, 116 Stat. 2275; Pub. L. 108–7, div. L, §104(c)(2), Feb. 20, 2003, 117 Stat. 531; Pub. L. 109–177, title VI, §605(e)(3), Mar. 9, 2006, 120 Stat. 255; Pub. L. 110–409, §14(b), Oct. 14, 2008, 122 Stat. 4316; Pub. L. 112–199, title I, §117(b), Nov. 27, 2012, 126 Stat. 1475; Pub. L. 114–317, §§6(2), 7(d)(3)(C), Dec. 16, 2016, 130 Stat. 1604, 1606.)
 
+  
+
+#### **Editorial Notes**
+
 #### References in Text
 
 The Presidential Protection Assistance Act of 1976, referred to in subsec. (a)(1)(F), is Pub. L. 94–524, Oct. 17, 1976, 90 Stat. 2475, as amended, which enacted and amended notes set out under section 3056 of Title 18, Crimes and Criminal Procedure. For complete classification of this Act to the Code, see Tables.
@@ -2088,6 +2258,10 @@ Subsec. (g)(2). Pub. L. 105–206, §1103(b)(6)(C), added par. (2).
 
 Subsecs. (h) to (l). Pub. L. 105–206, §1103(b)(7), added subsecs. (h) to (l). Former subsec. (h) redesignated (g)(1).
 
+  
+
+#### **Statutory Notes and Related Subsidiaries**
+
 #### Change of Name
 
 Committee on Governmental Affairs of Senate changed to Committee on Homeland Security and Governmental Affairs of Senate, effective Jan. 4, 2005, by Senate Resolution No. 445, One Hundred Eighth Congress, Oct. 9, 2004.
@@ -2146,6 +2320,10 @@ Section effective 180 days after Oct. 18, 1988, see section 113 of Pub. L. 100�
 
 (Pub. L. 95–452, §8E, formerly §8D, as added Pub. L. 100–504, title I, §102(f), Oct. 18, 1988, 102 Stat. 2520; renumbered §8E, Pub. L. 103–204, §23(a)(3), Dec. 17, 1993, 107 Stat. 2408; Pub. L. 107–273, div. A, title III, §308, Nov. 2, 2002, 116 Stat. 1784; Pub. L. 114–317, §§6(3), 7(d)(3)(D), Dec. 16, 2016, 130 Stat. 1604, 1606.)
 
+  
+
+#### **Editorial Notes**
+
 #### Prior Provisions
 
 A prior section 8E of the Inspector General Act of 1978, relating to special provisions concerning the Corporation for National and Community Service, was renumbered section 8F by Pub. L. 103–204.
@@ -2167,6 +2345,10 @@ Pub. L. 114–317, §6(3), inserted "from accessing information described in par
 "(3) shall refer to the Counsel, Office of Professional Responsibility of the Department for investigation, information or allegations relating to the conduct of an officer or employee of the Department of Justice employed in an attorney, criminal investigative, or law enforcement position that is or may be a violation of law, regulation, or order of the Department or any other applicable standard of conduct, except that no such referral shall be made if the officer or employee is employed in the Office of Professional Responsibility of the Department."
 
 Subsec. (d). Pub. L. 107–273, §308(2), added subsec. (d).
+
+  
+
+#### **Statutory Notes and Related Subsidiaries**
 
 #### Change of Name
 
@@ -2220,6 +2402,10 @@ as may be necessary to carry out the functions, powers, and duties of the Inspec
 
 (Pub. L. 95–452, §8F, formerly §8E, as added Pub. L. 103–82, title II, §202(g)(1), Sept. 21, 1993, 107 Stat. 889; renumbered §8F, Pub. L. 103–204, §23(a)(3), Dec. 17, 1993, 107 Stat. 2408; amended Pub. L. 111–13, title IV, §4101, Apr. 21, 2009, 123 Stat. 1597.)
 
+  
+
+#### **Editorial Notes**
+
 #### Codification
 
 Pub. L. 103–204, §23(a)(4), Dec. 17, 1993, 107 Stat. 2408, which directed the amendment of section 8F(a)(2) by striking out "the Federal Deposit Insurance Corporation,", could not be executed to this section because the quoted language does not appear. However, the amendment was executed to section 8G(a)(2) of the Inspector General Act of 1978 relating to requirements for Federal entities and designated Federal entities, to reflect the probable intent of Congress and the successive renumbering of that section as section 8F by Pub. L. 103–82 and as section 8G by Pub. L. 103–204.
@@ -2233,6 +2419,10 @@ Another prior section 8F of the Inspector General Act of 1978, relating to rule 
 #### Amendments
 
 **2009**—Subsec. (a)(1). Pub. L. 111–13 substituted "National and Community Service Act of 1990" for "National and Community Service Trust Act of 1993".
+
+  
+
+#### **Statutory Notes and Related Subsidiaries**
 
 #### Effective Date of 2009 Amendment
 
@@ -2408,6 +2598,10 @@ Section effective Oct. 1, 1993, see section 202(i) of Pub. L. 103–82, set out 
 
 Pub. L. 105–134, title IV, §409(a), Dec. 2, 1997, 111 Stat. 2586, provided that effective at beginning of first fiscal year after fiscal year for which Amtrak receives no Federal subsidy, subsection (a)(2) of this section is amended by striking "Amtrak,".
 
+  
+
+#### **Editorial Notes**
+
 #### References in Text
 
 The National Labor Relations Act, referred to in subsec. (f)(4), is act July 5, 1935, ch. 372, 49 Stat. 449, which is classified generally to subchapter II (§151 et seq.) of chapter 7 of Title 29, Labor. For complete classification of this Act to the Code, see section 167 of Title 29 and Tables.
@@ -2495,6 +2689,10 @@ Subsec. (f). Pub. L. 104–208, §101(f) \[title VI, §662(b)(2)\], amended subs
 Pub. L. 103–82, §202(g)(2)(A), struck out "ACTION," before "Amtrak,".
 
 **1989**—Subsec. (a)(2). Pub. L. 101–73 substituted "Federal Housing Finance Board" for "Federal Home Loan Bank Board".
+
+  
+
+#### **Statutory Notes and Related Subsidiaries**
 
 #### Change of Name
 
@@ -3174,6 +3372,10 @@ Pub. L. 100–504, title I, §111, Oct. 18, 1988, 102 Stat. 2529, directed the h
 
 (Pub. L. 95–452, §8H, as added Pub. L. 105–272, title VII, §702(b)(1), Oct. 20, 1998, 112 Stat. 2415; amended Pub. L. 107–108, title III, §309(b), Dec. 28, 2001, 115 Stat. 1400; Pub. L. 107–306, title VIII, §825, Nov. 27, 2002, 116 Stat. 2429; Pub. L. 110–417, \[div. A\], title IX, §931(b)(2), Oct. 14, 2008, 122 Stat. 4575; Pub. L. 111–259, title IV, §431(b), Oct. 7, 2010, 124 Stat. 2731; Pub. L. 113–126, title III, §310, title VI, §603(a), July 7, 2014, 128 Stat. 1398, 1420; Pub. L. 116–92, div. E, title LXVII, §6726(c), Dec. 20, 2019, 133 Stat. 2236.)
 
+  
+
+#### **Editorial Notes**
+
 #### Prior Provisions
 
 A prior section 8H of the Inspector General Act of 1978 was renumbered section 8J.
@@ -3215,6 +3417,10 @@ Subsecs. (g), (h). Pub. L. 107–306, §825(2), (3), added subsec. (g) and redes
 **2001**—Subsec. (b). Pub. L. 107–108, §309(b)(1), substituted "Upon making such a determination, the Inspector General shall transmit to the head of the establishment notice of that determination, together with the complaint or information." for "If the Inspector General determines that the complaint or information appears credible, the Inspector General shall, before the end of such period, transmit the complaint or information to the head of the establishment."
 
 Subsec. (d)(1). Pub. L. 107–108, §309(b)(2), substituted "does not find credible under subsection (b) a complaint or information submitted to the Inspector General under subsection (a), or does not transmit the complaint or information to the head of the establishment in accurate form under subsection (b)," for "does not transmit, or does not transmit in an accurate form, the complaint or information described in subsection (b),".
+
+  
+
+#### **Statutory Notes and Related Subsidiaries**
 
 #### Congressional Findings
 
@@ -3304,6 +3510,10 @@ Pub. L. 105–272, title VII, §701(b), Oct. 20, 1998, 112 Stat. 2413, provided 
 
 (Pub. L. 95–452, §8I, as added Pub. L. 108–7, div. L, §104(b)(3), Feb. 20, 2003, 117 Stat. 529; amended Pub. L. 108–458, title VIII, §8304, Dec. 17, 2004, 118 Stat. 3868; Pub. L. 109–177, title VI, §605(e)(4), Mar. 9, 2006, 120 Stat. 255; Pub. L. 114–317, §6(5), Dec. 16, 2016, 130 Stat. 1604.)
 
+  
+
+#### **Editorial Notes**
+
 #### References in Text
 
 The Presidential Protection Assistance Act of 1976, referred to in subsec. (a)(1)(E), is Pub. L. 94–524, Oct. 17, 1976, 90 Stat. 2475, as amended, which enacted and amended provisions set out as notes under section 3056 of Title 18, Crimes and Criminal Procedure. For complete classification of this Act to the Code, see Tables.
@@ -3322,6 +3532,10 @@ A prior section 8I of the Inspector General Act of 1978 was renumbered section 8
 
 **2004**—Subsec. (f). Pub. L. 108–458 added subsec. (f).
 
+  
+
+#### **Statutory Notes and Related Subsidiaries**
+
 #### Review of Departmental Contracts Awarded Through Means Other Than Full and Open Competition
 
 Pub. L. 113–6, div. D, title V, §520(d), Mar. 26, 2013, 127 Stat. 370, provided that: "In addition to the requirements established by subsections (a), (b), and (c) of this section \[127 Stat. 369, 370\], the Inspector General of the Department of Homeland Security shall review departmental contracts awarded through means other than a full and open competition to assess departmental compliance with applicable laws and regulations: *Provided*, That the Inspector General shall review selected contracts awarded in the previous 3 fiscal years through means other than a full and open competition: *Provided further*, That in selecting which contracts to review, the Inspector General shall consider the cost and complexity of the goods and services to be provided under the contract, the criticality of the contract to fulfilling Department missions, past performance problems on similar contracts or by the selected vendor, complaints received about the award process or contractor performance, and such other factors as the Inspector General deems relevant: *Provided further*, That the Inspector General shall report the results of the reviews to the Committees on Appropriations of the Senate and the House of Representatives no later than February 4, 2015, and every 3 years thereafter."
@@ -3337,6 +3551,10 @@ Pub. L. 110–329, div. D, title V, §518(b), Sept. 30, 2008, 122 Stat. 3684, pr
 The special provisions under section 8, 8A, 8B, 8C, 8D, 8E, 8F, 8H, or 8N of this Act relate only to the establishment named in such section and no inference shall be drawn from the presence or absence of a provision in any such section with respect to an establishment not named in such section or with respect to a designated Federal entity as defined under section 8G(a).
 
 (Pub. L. 95–452, §8J, formerly §8F, as added Pub. L. 100–504, title I, §105, Oct. 18, 1988, 102 Stat. 2525; renumbered §8G and amended Pub. L. 103–82, title II, §202(g)(1), (5)(B), Sept. 21, 1993, 107 Stat. 889, 890; renumbered §8H, Pub. L. 104–208, div. A, title I, §101(f) \[title VI, §662(b)(3)\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–380; Pub. L. 105–206, title I, §1103(e)(3), July 22, 1998, 112 Stat. 709; renumbered §8I and amended Pub. L. 105–272, title VII, §702(b), Oct. 20, 1998, 112 Stat. 2415; renumbered §8J, Pub. L. 108–7, div. L, §104(b)(2), Feb. 20, 2003, 117 Stat. 529; Pub. L. 114–317, §6(6), Dec. 16, 2016, 130 Stat. 1604.)
+
+  
+
+#### **Editorial Notes**
 
 #### Codification
 
@@ -3358,6 +3576,10 @@ Pub. L. 105–206, §1103(e)(3)(B), substituted "8E or 8F" for "or 8E".
 
 **1993**—Pub. L. 103–82, §202(g)(5)(B), substituted "8D, or 8E" for "or 8D" and "section 8F(a)" for "section 8E(a)".
 
+  
+
+#### **Statutory Notes and Related Subsidiaries**
+
 #### Effective Date of 1993 Amendment
 
 Amendment by section 202(g)(5)(B) of Pub. L. 103–82 effective Oct. 1, 1993, see section 202(i) of Pub. L. 103–82, set out as an Effective Date note under section 12651 of Title 42, The Public Health and Welfare.
@@ -3369,6 +3591,10 @@ Section effective 180 days after Oct. 18, 1988, see section 113 of Pub. L. 100�
 ### \[§8K. Repealed. Pub. L. 111–259, title IV, §405(d), Oct. 7, 2010, 124 Stat. 2719\]
 
 Section, Pub. L. 95–452, §8K, as added Pub. L. 108–458, title I, §1078, Dec. 17, 2004, 118 Stat. 3695, authorized the Director of National Intelligence to establish an Office of Inspector General of the Office of the Director of National Intelligence.
+
+  
+
+#### **Statutory Notes and Related Subsidiaries**
 
 #### Effective Date of Repeal
 
@@ -3482,6 +3708,10 @@ The lead Inspector General for a contingency operation shall be designated from 
 
 (Pub. L. 95–452, §8L, as added Pub. L. 112–239, div. A, title VIII, §848(2), Jan. 2, 2013, 126 Stat. 1851; amended Pub. L. 116–92, div. A, title XVII, §§1732(b)–1734, Dec. 20, 2019, 133 Stat. 1817, 1818.)
 
+  
+
+#### **Editorial Notes**
+
 #### References in Text
 
 The Foreign Service Act of 1980, referred to in subsec. (d)(3)(C)(i), is Pub. L. 96–465, Oct. 17, 1980, 94 Stat. 2071. Chapter 8 of title I of the Act is classified generally to part I (§4041 et seq.) of subchapter VIII of chapter 52 of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under section 3901 of Title 22 and Tables.
@@ -3568,6 +3798,10 @@ Subsec. (d)(5). Pub. L. 116–92, §1734(3), added par. (5).
 
 (Pub. L. 95–452, §8M, formerly §8L, as added Pub. L. 110–409, §13(a), Oct. 14, 2008, 122 Stat. 4315; renumbered §8M, Pub. L. 112–239, div. A, title VIII, §848(1), Jan. 2, 2013, 126 Stat. 1851; amended Pub. L. 114–317, §§4(e), 7(b)(1)(A), (c), Dec. 16, 2016, 130 Stat. 1602, 1605, 1606.)
 
+  
+
+#### **Editorial Notes**
+
 #### Amendments
 
 **2016**—Subsec. (a)(1). Pub. L. 114–317, §7(b)(1)(A)(i), substituted "Each Federal agency and designated Federal entity" for "Each agency" and substituted "that Federal agency or designated Federal entity" for "that agency" in two places.
@@ -3583,6 +3817,10 @@ Subsec. (b)(2). Pub. L. 114–317, §7(b)(1)(A)(ii)(II), substituted "Federal ag
 Subsec. (b)(3). Pub. L. 114–317, §4(e)(2), added par. (3).
 
 Subsec. (c). Pub. L. 114–317, §7(b)(1)(A)(iii), added subsec. (c).
+
+  
+
+#### **Statutory Notes and Related Subsidiaries**
 
 #### Effective Date of 2016 Amendment
 
@@ -3631,6 +3869,10 @@ Pub. L. 110–116, div. A, title VIII, §8121, Nov. 13, 2007, 121 Stat. 1341.
 (b) Not later than 7 days after the date on which the Secretary of Energy exercises any power authorized under subsection (a), the Secretary shall notify the Inspector General of the Department of Energy in writing the reasons for such exercise. Within 30 days after receipt of any such notice, the Inspector General of the Department of Energy shall submit to the appropriate committees of Congress a statement concerning such exercise.
 
 (Pub. L. 95–452, §8N, as added Pub. L. 114–317, §6(7), Dec. 16, 2016, 130 Stat. 1604.)
+
+  
+
+#### **Editorial Notes**
 
 #### References in Text
 
@@ -3706,6 +3948,10 @@ except that there shall not be transferred to an Inspector General under paragra
 
 (Pub. L. 95–452, §9, Oct. 12, 1978, 92 Stat. 1107; Pub. L. 96–88, title V, §508(n)(2), Oct. 17, 1979, 93 Stat. 694; Pub. L. 97–252, title XI, §1117(a)(2), (3), Sept. 8, 1982, 96 Stat. 750; Pub. L. 100–504, title I, §102(d), Oct. 18, 1988, 102 Stat. 2516; Pub. L. 103–82, title II, §202(g)(3)(A), Sept. 21, 1993, 107 Stat. 890; Pub. L. 103–296, title I, §108(l)(1), Aug. 15, 1994, 108 Stat. 1488; Pub. L. 105–206, title I, §1103(c)(1), July 22, 1998, 112 Stat. 708; Pub. L. 107–189, §22(c), June 14, 2002, 116 Stat. 708; Pub. L. 107–296, title XI, §1112(a)(2), Nov. 25, 2002, 116 Stat. 2276.)
 
+  
+
+#### **Editorial Notes**
+
 #### References in Text
 
 Section 208 of the Department of Energy Organization Act, referred to in subsec. (a)(1)(E), is section 208 of Pub. L. 95–91, title II, Aug. 4, 1977, 91 Stat. 575, as amended, which was classified to section 7138 of Title 42, The Public Health and Welfare, and was repealed by Pub. L. 100–504, title I, §102(e)(1)(A), Oct. 18, 1988, 102 Stat. 2517.
@@ -3751,6 +3997,10 @@ Subsec. (a)(1)(T), (U). Pub. L. 100–504, §102(d)(6), redesignated subpars. (M
 **1982**—Subsec. (a)(1). Pub. L. 97–252 added subpar. (C) and redesignated former subpars. (C) to (M) as (D) to (N), respectively.
 
 **1979**—Subsec. (a)(1). Pub. L. 96–88 added subpar. (C) and redesignated former subpars. (C) to (L) as (D) to (M), respectively.
+
+  
+
+#### **Statutory Notes and Related Subsidiaries**
 
 #### Change of Name
 
@@ -3817,6 +4067,10 @@ Pub. L. 97–252, title XI, §1117(e), Sept. 8, 1982, 96 Stat. 753, provided tha
 [1 So in original. The word "and" at end of subpar. (U) probably should appear at end of subpar. (V).](#9_1)
 
 ### §10. Omitted
+
+  
+
+#### **Editorial Notes**
 
 #### Codification
 
@@ -4226,6 +4480,10 @@ Section, Pub. L. 95–452, §10, Oct. 12, 1978, 92 Stat. 1108, amended sections 
 
 (Pub. L. 95–452, §11, as added Pub. L. 110–409, §7(a), Oct. 14, 2008, 122 Stat. 4305; amended Pub. L. 113–235, div. H, title I, §1301(b), Dec. 16, 2014, 128 Stat. 2537; Pub. L. 114–113, div. M, title III, §304, Dec. 18, 2015, 129 Stat. 2913; Pub. L. 114–317, §§3, 7(b)(1)(B), (d)(2)(G), Dec. 16, 2016, 130 Stat. 1596, 1605, 1606; Pub. L. 115–192, §2(b), June 25, 2018, 132 Stat. 1503.)
 
+  
+
+#### **Editorial Notes**
+
 #### References in Text
 
 Section 3033 of title 50, United States Code, referred to in subsec. (c)(1)(H), was so in the original but probably should have been a reference to section 103H of the National Security Act of 1947, act July 26, 1947, ch. 343, which is classified to section 3033 of Title 50, War and National Defense.
@@ -4289,6 +4547,10 @@ Subsec. (d)(10). Pub. L. 114–317, §3(3)(G), substituted "any Member of Congre
 Subsec. (d)(12), (13). Pub. L. 114–317, §3(3)(H), added pars. (12) and (13).
 
 **2015**—Subsec. (b)(1)(B). Pub. L. 114–113 substituted "the Intelligence Community" for "the Office of the Director of National Intelligence".
+
+  
+
+#### **Statutory Notes and Related Subsidiaries**
 
 #### Change of Name
 
@@ -4520,7 +4782,7 @@ Pub. L. 116–136, div. B, title V, §15010, Mar. 27, 2020, 134 Stat. 533, provi
 
 "(A) The website shall provide materials and information explaining the Coronavirus response and how covered funds are being used. The materials shall be easy to understand and regularly updated.
 
-"(i) The website shall provide accountability information, including findings from Inspectors General, including any progress reports, audits, inspections, or other reports, including reports from or links to reports on the website of the Government Accountability Office.
+"(i) \[sic; cls. (i) to (xiii) probably should be subpars. (B) to (N)\] The website shall provide accountability information, including findings from Inspectors General, including any progress reports, audits, inspections, or other reports, including reports from or links to reports on the website of the Government Accountability Office.
 
 "(ii) The website shall provide data on relevant operational, economic, financial, grant, subgrant, contract, and subcontract information in user-friendly visual presentations to enhance public awareness of the use of covered funds and the Coronavirus response.
 
@@ -4530,7 +4792,7 @@ Pub. L. 116–136, div. B, title V, §15010, Mar. 27, 2020, 134 Stat. 533, provi
 
 "(v) The website shall provide a means for the public to give feedback on the performance of any covered funds and of the Coronavirus response, including confidential feedback.
 
-"(vi) The website shall include detailed information on Federal Government awards that expend covered funds, including data elements required under the Federal Funding Accountability and Transparency Act of 2006 \[Pub. L. 109–282\](31 U.S.C. 6101 note), allowing aggregate reporting on awards below $50,000, as prescribed by the Director of the Office of Management and Budget.
+"(vi) The website shall include detailed information on Federal Government awards that expend covered funds, including data elements required under the Federal Funding Accountability and Transparency Act of 2006 \[Pub. L. 109–282\] (31 U.S.C. 6101 note), allowing aggregate reporting on awards below $50,000, as prescribed by the Director of the Office of Management and Budget.
 
 "(vii) The website shall provide a link to estimates of the jobs sustained or created by this Act to the extent practicable.
 
@@ -4634,6 +4896,10 @@ As used in this Act—
 
 (Pub. L. 95–452, §12, formerly §11, Oct. 12, 1978, 92 Stat. 1109; Pub. L. 96–88, title V, §508(n)(3), (4), Oct. 17, 1979, 93 Stat. 695; Pub. L. 97–113, title VII, §705(a)(2), Dec. 29, 1981, 95 Stat. 1544; Pub. L. 97–252, title XI, §1117(a)(4), (5), Sept. 8, 1982, 96 Stat. 751; Pub. L. 99–93, title I, §150(a)(2), Aug. 16, 1985, 99 Stat. 427; Pub. L. 99–399, title IV, §412(a)(2), Aug. 27, 1986, 100 Stat. 867; Pub. L. 100–504, title I, §102(c), Oct. 18, 1988, 102 Stat. 2515; Pub. L. 100–527, §13(h)(2), (3), Oct. 5, 1988, 102 Stat. 2643; Pub. L. 101–73, title V, §501(b)(1), Aug. 9, 1989, 103 Stat. 393; Pub. L. 102–233, title III, §315(a), Dec. 12, 1991, 105 Stat. 1772; Pub. L. 103–82, title II, §202(g)(4), Sept. 21, 1993, 107 Stat. 890; Pub. L. 103–204, §23(a)(1), Dec. 17, 1993, 107 Stat. 2407; Pub. L. 103–296, title I, §108(l)(2), Aug. 15, 1994, 108 Stat. 1489; Pub. L. 103–325, title I, §118(a), Sept. 23, 1994, 108 Stat. 2188; Pub. L. 104–106, div. D, title XLIII, §4322(b)(1), (3), Feb. 10, 1996, 110 Stat. 677; Pub. L. 105–277, div. G, subdiv. A, title XIII, §1314(b), Oct. 21, 1998, 112 Stat. 2681–776; Pub. L. 106–422, §1(b)(2), Nov. 1, 2000, 114 Stat. 1872; Pub. L. 107–189, §22(a), (d), June 14, 2002, 116 Stat. 707, 708; Pub. L. 107–296, title XVII, §1701, Nov. 25, 2002, 116 Stat. 2313; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 109–295, title VI, §612(c), Oct. 4, 2006, 120 Stat. 1410; Pub. L. 110–234, title XIV, §14217(c), May 22, 2008, 122 Stat. 1482; Pub. L. 110–246, §4(a), title XIV, §14217(c), June 18, 2008, 122 Stat. 1664, 2244; Pub. L. 110–289, div. A, title I, §1105(c), July 30, 2008, 122 Stat. 2668; renumbered §12, Pub. L. 110–409, §7(a), Oct. 14, 2008, 122 Stat. 4305; Pub. L. 113–126, title IV, §§402(2), 412(2), July 7, 2014, 128 Stat. 1408, 1409; Pub. L. 115–141, div. P, title V, §501(a)(2), Mar. 23, 2018, 132 Stat. 1090.)
 
+  
+
+#### **Editorial Notes**
+
 #### Codification
 
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
@@ -4731,6 +4997,10 @@ Pub. L. 100–504 added pars. (1) and (2) and struck out former pars. (1) and (2
 **1981**—Pars. (1), (2). Pub. L. 97–113 inserted "the Agency for International Development," after "Administrator of" in par. (1), and inserted "the Agency for International Development," after "Transportation or" in par. (2).
 
 **1979**—Pars. (1), (2). Pub. L. 96–88 inserted "Education," after "Commerce,".
+
+  
+
+#### **Statutory Notes and Related Subsidiaries**
 
 #### Change of Name
 
@@ -4888,6 +5158,8 @@ Sec.
 
         
 
+#### **Statutory Notes and Related Subsidiaries**
+
 #### Prohibition of the Use of Nonpublic Information for Private Profit
 
 Pub. L. 112–105, §3, Apr. 4, 2012, 126 Stat. 292, provided that: "The Select Committee on Ethics of the Senate and the Committee on Ethics of the House of Representatives shall issue interpretive guidance of the relevant rules of each chamber, including rules on conflicts of interest and gifts, clarifying that a Member of Congress and an employee of Congress may not use nonpublic information derived from such person's position as a Member of Congress or employee of Congress or gained from the performance of such person's official responsibilities as a means for making a private profit."
@@ -4901,6 +5173,10 @@ Pub. L. 112–105, §9(a), Apr. 4, 2012, 126 Stat. 297, provided that:
 "(3) Judicial employees.—The Judicial Conference of the United States shall issue such interpretive guidance of the relevant ethics rules applicable to judicial employees as necessary to clarify that no judicial employee may use nonpublic information derived from such person's position as a judicial employee or gained from the performance of such person's official responsibilities as a means for making a private profit."
 
 ### TITLE I—FINANCIAL DISCLOSURE REQUIREMENTS OF FEDERAL PERSONNEL
+
+  
+
+#### **Editorial Notes**
 
 #### Codification
 
@@ -4980,6 +5256,10 @@ Title I of Pub. L. 95–521 was classified to chapter 18 (§701 et seq.) of Titl
 
 (Pub. L. 95–521, title I, §101, Oct. 26, 1978, 92 Stat. 1824; Pub. L. 96–19, §§2(a)(1), (b), (c)(1), 4(b)(1), (d)–(f), 5, June 13, 1979, 93 Stat. 37, 38, 40; Pub. L. 101–194, title II, §202, Nov. 30, 1989, 103 Stat. 1725; Pub. L. 101–280, §3(1), (2), May 4, 1990, 104 Stat. 152; Pub. L. 102–25, title VI, §605(a), Apr. 6, 1991, 105 Stat. 110; Pub. L. 102–378, §4(a)(1), Oct. 2, 1992, 106 Stat. 1356; Pub. L. 109–435, title VI, §604(c), Dec. 20, 2006, 120 Stat. 3241.)
 
+  
+
+#### **Editorial Notes**
+
 #### References in Text
 
 This Act, referred to in subsec. (b)(1), is Pub. L. 95–521, Oct. 26, 1978, 92 Stat. 1824, as amended, known as the Ethics in Government Act of 1978. For complete classification of this Act to the Code, see Short Title note set out below and Tables.
@@ -5019,6 +5299,10 @@ Subsec. (d). Pub. L. 96–19, §5, inserted provision that in any calendar year 
 Subsec. (e). Pub. L. 96–19, §4(b)(1), inserted reference to the National Commission on Air Quality.
 
 Subsec. (h). Pub. L. 96–19, §2(c)(1), added subsec. (h).
+
+  
+
+#### **Statutory Notes and Related Subsidiaries**
 
 #### Effective Date of 1991 Amendment
 
@@ -5462,6 +5746,10 @@ This subparagraph shall not apply with respect to a trust meeting the requiremen
 
 (Pub. L. 95–521, title I, §102, Oct. 26, 1978, 92 Stat. 1825; Pub. L. 96–19, §§3(a)(1), (b), 6(a), 7(a)–(d)(1), (f), 9(b), (c)(1), (j), June 13, 1979, 93 Stat. 39–43; Pub. L. 97–51, §130(b), Oct. 1, 1981, 95 Stat. 966; Pub. L. 98–150, §10, Nov. 11, 1983, 97 Stat. 962; Pub. L. 101–194, title II, §202, Nov. 30, 1989, 103 Stat. 1727; Pub. L. 101–280, §3(3), May 4, 1990, 104 Stat. 152; Pub. L. 102–90, title III, §314(a), Aug. 14, 1991, 105 Stat. 469; Pub. L. 104–65, §§20, 22(a), (b), Dec. 19, 1995, 109 Stat. 704, 705; Pub. L. 112–105, §13(a), Apr. 4, 2012, 126 Stat. 300.)
 
+  
+
+#### **Editorial Notes**
+
 #### References in Text
 
 For the effective date of title II of the Ethics Reform Act of 1989, referred to in subsec. (f)(3)(F), see section 204 of Pub. L. 101–194, set out as an Effective Date of 1989 Amendment note under section 101 of this Appendix.
@@ -5549,6 +5837,10 @@ Subsec. (e)(3). Pub. L. 96–19, §7(a)–(d)(1), substituted "a broker, or an i
 Subsec. (e)(5)(D). Pub. L. 96–19, §7(f), substituted "shall apply with respect to such documents and lists" for "shall apply".
 
 Subsec. (g). Pub. L. 96–19, §3(a)(1), added subsec. (g).
+
+  
+
+#### **Statutory Notes and Related Subsidiaries**
 
 #### Effective Date of 2012 Amendment
 
@@ -5644,6 +5936,10 @@ Pub. L. 98–150, §13, Nov. 11, 1983, 97 Stat. 963, provided that: "The amendme
 
 (Pub. L. 95–521, title I, §103, Oct. 26, 1978, 92 Stat. 1831; Pub. L. 96–19, §§4(b)(2), 9(a), June 13, 1979, 93 Stat. 40, 42; Pub. L. 101–194, title II, §202, Nov. 30, 1989, 103 Stat. 1736; Pub. L. 101–280, §3(1), (4), May 4, 1990, 104 Stat. 152, 153; Pub. L. 102–90, title III, §313(1), Aug. 14, 1991, 105 Stat. 469; Pub. L. 104–186, title II, §216(1), Aug. 20, 1996, 110 Stat. 1747; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 109–55, title I, §1003(a), Aug. 2, 2005, 119 Stat. 572; Pub. L. 112–105, §§6(a), 19(a), Apr. 4, 2012, 126 Stat. 293, 304; Pub. L. 113–235, div. H, title I, §1301(b), Dec. 16, 2014, 128 Stat. 2537; Pub. L. 115–277, §1(b), Nov. 3, 2018, 132 Stat. 4167.)
 
+  
+
+#### **Editorial Notes**
+
 #### References in Text
 
 The date of the enactment of the Ethics Reform Act of 1989, referred to in subsec. (h)(1)(A)(ii), is the date of enactment of Pub. L. 101–194, which was approved Nov. 30, 1989.
@@ -5697,6 +5993,10 @@ Subsecs. (i) to (k). Pub. L. 101–280, §3(4)(G), added subsecs. (i) to (k).
 **1979**—Subsec. (b). Pub. L. 96–19, §4(b)(2), inserted reference to the National Commission on Air Quality.
 
 Subsec. (f). Pub. L. 96–19, §9(a), substituted "the designated committee of the House of Representatives" for "the Clerk shall, after consultation with the designated committee of the House of Representatives".
+
+  
+
+#### **Statutory Notes and Related Subsidiaries**
 
 #### Change of Name
 
@@ -5780,6 +6080,10 @@ shall, at the direction of and pursuant to regulations issued by the supervising
 
 (Pub. L. 95–521, title I, §104, Oct. 26, 1978, 92 Stat. 1832; Pub. L. 96–19, §8(a), June 13, 1979, 93 Stat. 41; Pub. L. 101–194, title II, §202, Nov. 30, 1989, 103 Stat. 1737; Pub. L. 101–280, §3(1), (5), May 4, 1990, 104 Stat. 152, 154; Pub. L. 101–650, title IV, §405, Dec. 1, 1990, 104 Stat. 5124; Pub. L. 110–81, title VII, §702, Sept. 14, 2007, 121 Stat. 775.)
 
+  
+
+#### **Editorial Notes**
+
 #### Codification
 
 Section was formerly classified to section 704 of Title 2, The Congress.
@@ -5801,6 +6105,10 @@ Subsec. (d)(1). Pub. L. 101–280, §3(5)(B), substituted closing provisions for
 **1989**—Pub. L. 101–194 amended section generally, substituting provisions relating to failure to file or filing false reports for provisions relating to accessibility of reports. See section 105 of this Appendix.
 
 **1979**—Subsec. (c). Pub. L. 96–19 designated existing provisions as par. (2) and added par. (1).
+
+  
+
+#### **Statutory Notes and Related Subsidiaries**
 
 #### Effective Date of 1990 Amendment
 
@@ -5896,6 +6204,10 @@ Any such application shall be made available to the public throughout the period
 
 (Pub. L. 95–521, title I, §105, Oct. 26, 1978, 92 Stat. 1833; Pub. L. 101–194, title II, §202, Nov. 30, 1989, 103 Stat. 1737; Pub. L. 101–280, §3(6), May 4, 1990, 104 Stat. 154; Pub. L. 102–90, title III, §313(2), Aug. 14, 1991, 105 Stat. 469; Pub. L. 103–359, title V, §501(m), Oct. 14, 1994, 108 Stat. 3430; Pub. L. 104–201, div. A, title XI, §1122(b)(2), Sept. 23, 1996, 110 Stat. 2687; Pub. L. 105–318, §7, Oct. 30, 1998, 112 Stat. 3011; Pub. L. 107–126, Jan. 16, 2002, 115 Stat. 2404; Pub. L. 108–458, title I, §1079(c), Dec. 17, 2004, 118 Stat. 3696; Pub. L. 110–24, §§2, 3, May 3, 2007, 121 Stat. 100; Pub. L. 110–177, title I, §104, Jan. 7, 2008, 121 Stat. 2535; Pub. L. 110–417, \[div. A\], title IX, §931(b)(1), Oct. 14, 2008, 122 Stat. 4575; Pub. L. 112–84, §1, Jan. 3, 2012, 125 Stat. 1870; Pub. L. 112–105, §8(c), Apr. 4, 2012, 126 Stat. 296; Pub. L. 115–141, div. M, title VI, §601, Mar. 23, 2018, 132 Stat. 1051.)
 
+  
+
+#### **Editorial Notes**
+
 #### Codification
 
 Section was formerly classified to section 705 of Title 2, The Congress.
@@ -5951,6 +6263,10 @@ Pub. L. 101–280, §3(6)(B)(ii), substituted ", office, Clerk, or Secretary of
 Subsec. (d). Pub. L. 101–280, §3(6)(C), inserted "or to the Clerk of the House of Representatives or the Secretary of the Senate" after "ethics office" and "or by the Clerk or the Secretary of the Senate" after "or office".
 
 **1989**—Pub. L. 101–194 amended section generally, substituting provisions relating to custody of and public access to reports for provisions relating to review and compliance procedures. See section 106 of this Appendix.
+
+  
+
+#### **Statutory Notes and Related Subsidiaries**
 
 #### Change of Name
 
@@ -6128,6 +6444,10 @@ The use of any such steps shall be in accordance with such rules or regulations 
 
 (Pub. L. 95–521, title I, §106, Oct. 26, 1978, 92 Stat. 1833; Pub. L. 101–194, title II, §202, Nov. 30, 1989, 103 Stat. 1739; Pub. L. 101–280, §3(1), (7), May 4, 1990, 104 Stat. 152, 155.)
 
+  
+
+#### **Editorial Notes**
+
 #### Codification
 
 Section was formerly classified to section 706 of Title 2, The Congress.
@@ -6162,6 +6482,10 @@ Pub. L. 101–280, §3(7)(G), substituted "employee," for "employee".
 
 **1989**—Pub. L. 101–194 amended section generally, substituting provisions relating to review of reports for provisions relating to failure to file or filing false reports. See section 104(a) of this Appendix.
 
+  
+
+#### **Statutory Notes and Related Subsidiaries**
+
 #### Effective Date of 1989 Amendment
 
 Amendment by Pub. L. 101–194 effective Jan. 1, 1991, see section 204 of Pub. L. 101–194, set out as a note under section 101 of this Appendix.
@@ -6180,6 +6504,10 @@ Amendment by Pub. L. 101–194 effective Jan. 1, 1991, see section 204 of Pub. L
 
 (Pub. L. 95–521, title I, §107, Oct. 26, 1978, 92 Stat. 1834; Pub. L. 96–19, §9(d), (g), June 13, 1979, 93 Stat. 42, 43; Pub. L. 101–194, title II, §202, Nov. 30, 1989, 103 Stat. 1740.)
 
+  
+
+#### **Editorial Notes**
+
 #### References in Text
 
 This Act, referred to in subsec. (c), is Pub. L. 95–521, Oct. 26, 1978, 92 Stat. 1824, as amended, known as the Ethics in Government Act of 1978. For complete classification of this Act to the Code, see Short Title note set out under section 101 of this Appendix and Tables.
@@ -6196,6 +6524,10 @@ Section was formerly classified to section 707 of Title 2, The Congress.
 
 Par. (16). Pub. L. 96–19, §9(g), inserted quotation marks after "designated committee of the House of Representatives" and before "designated committee of the Senate".
 
+  
+
+#### **Statutory Notes and Related Subsidiaries**
+
 #### Effective Date of 1989 Amendment
 
 Amendment by Pub. L. 101–194 effective Jan. 1, 1991, see section 204 of Pub. L. 101–194, set out as a note under section 101 of this Appendix.
@@ -6208,6 +6540,10 @@ Amendment by Pub. L. 101–194 effective Jan. 1, 1991, see section 204 of Pub. L
 
 (Pub. L. 95–521, title I, §108, Oct. 26, 1978, 92 Stat. 1835; Pub. L. 96–19, §9(t), June 13, 1979, 93 Stat. 44; Pub. L. 101–194, title II, §202, Nov. 30, 1989, 103 Stat. 1741.)
 
+  
+
+#### **Editorial Notes**
+
 #### Codification
 
 Section was formerly classified to section 708 of Title 2, The Congress.
@@ -6217,6 +6553,10 @@ Section was formerly classified to section 708 of Title 2, The Congress.
 **1989**—Pub. L. 101–194 amended section generally, substituting provisions relating to authority of Comptroller General for provision relating to preemption of State laws.
 
 **1979**—Pub. L. 96–19 inserted "holding the office of Member or" after "financial disclosure by reason of".
+
+  
+
+#### **Statutory Notes and Related Subsidiaries**
 
 #### Effective Date of 1989 Amendment
 
@@ -6342,6 +6682,10 @@ For the purposes of this title, the term—
 
 (Pub. L. 95–521, title I, §109, Oct. 26, 1978, 92 Stat. 1836; Pub. L. 101–194, title II, §202, Nov. 30, 1989, 103 Stat. 1741; Pub. L. 101–280, §3(1), (8), May 4, 1990, 104 Stat. 152, 155; Pub. L. 102–378, §4(a)(2), Oct. 2, 1992, 106 Stat. 1357; Pub. L. 102–572, title IX, §902(b)(2), Oct. 29, 1992, 106 Stat. 4516; Pub. L. 103–160, div. A, title XI, §1182(d)(3), Nov. 30, 1993, 107 Stat. 1773; Pub. L. 103–337, div. A, title IX, §924(d)(3), Oct. 5, 1994, 108 Stat. 2832; Pub. L. 104–186, title II, §216(2), Aug. 20, 1996, 110 Stat. 1747; Pub. L. 105–368, title V, §512(b)(1)(D), Nov. 11, 1998, 112 Stat. 3342; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 110–323, §7, Sept. 22, 2008, 122 Stat. 3547; Pub. L. 113–235, div. H, title I, §1301(b), Dec. 16, 2014, 128 Stat. 2537.)
 
+  
+
+#### **Editorial Notes**
+
 #### References in Text
 
 The General Schedule, referred to in pars. (8) and (13)(B), is set out under section 5332 of this title.
@@ -6408,6 +6752,10 @@ Par. (18)(D). Pub. L. 101–280, §3(8)(I)(iii), inserted "officers and" after "
 
 **1989**—Pub. L. 101–194 amended section generally, substituting provisions setting forth definitions for purposes of title I of Pub. L. 95–521 for provisions relating to a study by the Comptroller General.
 
+  
+
+#### **Statutory Notes and Related Subsidiaries**
+
 #### Change of Name
 
 Committee on Standards of Official Conduct of House of Representatives changed to Committee on Ethics of House of Representatives by House Resolution No. 5, One Hundred Twelfth Congress, Jan. 5, 2011.
@@ -6438,6 +6786,10 @@ Statutory functions, duties, or authority of Chief Administrative Officer of the
 
 (Pub. L. 95–521, title I, §110, as added Pub. L. 101–194, title II, §202, Nov. 30, 1989, 103 Stat. 1744; amended Pub. L. 101–280, §3(1), May 4, 1990, 104 Stat. 152.)
 
+  
+
+#### **Editorial Notes**
+
 #### References in Text
 
 This Act, referred to in subsec. (a), is Pub. L. 95–521, Oct. 26, 1978, 92 Stat. 1824, as amended, known as the Ethics in Government Act of 1978. For complete classification of this Act to the Code, see Short Title note set out under section 101 of this Appendix and Tables.
@@ -6445,6 +6797,10 @@ This Act, referred to in subsec. (a), is Pub. L. 95–521, Oct. 26, 1978, 92 Sta
 #### Amendments
 
 **1990**—Subsec. (a). Pub. L. 101–280 struck out "of the United States" after "Judicial Conference" wherever appearing.
+
+  
+
+#### **Statutory Notes and Related Subsidiaries**
 
 #### Effective Date
 
@@ -6466,6 +6822,10 @@ The Judicial Conference may delegate any authority it has under this title to an
 
 (Pub. L. 95–521, title I, §111, as added Pub. L. 101–194, title II, §202, Nov. 30, 1989, 103 Stat. 1744; amended Pub. L. 101–280, §3(1), (9), May 4, 1990, 104 Stat. 152, 157.)
 
+  
+
+#### **Editorial Notes**
+
 #### Amendments
 
 **1990**—Pub. L. 101–280, §3(9)(C), inserted sentence at end authorizing Judicial Conference to delegate its authority to an ethics committee.
@@ -6475,6 +6835,10 @@ Par. (2). Pub. L. 101–280, §3(9)(A), substituted "Select Committee on Ethics 
 Par. (3). Pub. L. 101–280, §3(9)(B), struck out "and clerk of the applicable court, as appropriate," before "in the case of".
 
 Pub. L. 101–280, §3(1), struck out "of the United States" after "Judicial Conference".
+
+  
+
+#### **Statutory Notes and Related Subsidiaries**
 
 #### Change of Name
 
@@ -6504,6 +6868,10 @@ Pub. L. 101–194, title IX, §902, Nov. 30, 1989, 103 Stat. 1780, provided that
 
 Section, Pub. L. 95–521, title I, §112, as added Pub. L. 101–194, title II, §202, Nov. 30, 1989, 103 Stat. 1744, provided that the provisions made by title I of Pub. L. 95–521 take effect on Jan. 1, 1990, and be applicable to reports filed under such title after Jan. 1, 1991. See section 3(10)(C) of Pub. L. 101–280 and section 204 of Pub. L. 101–194, set out as an Effective Date of 1989 Amendment note under section 101 of this Appendix.
 
+  
+
+#### **Statutory Notes and Related Subsidiaries**
+
 #### Effective Date of Repeal
 
 Repeal effective May 4, 1990, see section 11 of Pub. L. 101–280, set out as an Effective Date of 1990 Amendment note under section 101 of this Appendix.
@@ -6511,6 +6879,10 @@ Repeal effective May 4, 1990, see section 11 of Pub. L. 101–280, set out as an
 ### \[TITLE II—REPEALED\]
 
 \[Sections 201 to 212 of Pub. L. 95–521, title II, Oct. 26, 1978, 92 Stat. 1836, as amended by Pub. L. 96–19, §§2(a)(2), (c)(2), 3(a)(2), (b), 4(a), (d), (g), 5, 6, 7(a)–(c), (d)(2), (e), (f), 8(b), 9(c)(2), (d), (f), (h)–(o), June 13, 1979, 93 Stat. 37–43; Pub. L. 98–150, §§6–11, Nov. 11, 1983, 97 Stat. 960–962; Pub. L. 99–190, §148(b), Dec. 19, 1985, 99 Stat. 1325; Pub. L. 100–191, §3(b), Dec. 15, 1987, 101 Stat. 1306, which related to executive personnel financial disclosure requirements, were repealed by Pub. L. 101–194, title II, §201, Nov. 30, 1989, 103 Stat. 1724.\]
+
+  
+
+#### **Statutory Notes and Related Subsidiaries**
 
 #### Effective Date of Repeal
 
@@ -6521,6 +6893,10 @@ Provisions of title II of Pub. L. 95–521, as in effect prior to Nov. 30, 1989,
 ### \[TITLE III—REPEALED\]
 
 \[Sections 301 to 309 of Pub. L. 95–521, title III, Oct. 26, 1978, 92 Stat. 1851, as amended by Pub. L. 96–19, §§2(a)(3), (c)(3), 3(a)(3), (b), 4(c), 6, 7(a)–(c), (d)(2), (e), (f), 8(c), 9(c)(3), (d), (j), (p)–(r), June 13, 1979, 93 Stat. 37–43; Pub. L. 96–417, title VI, §601(9), Oct. 10, 1980, 94 Stat. 1744; Pub. L. 96–579, §12(c), Dec. 23, 1980, 94 Stat. 3369; Pub. L. 97–164, title I, §163(a)(6), Apr. 2, 1982, 96 Stat. 49; Pub. L. 98–150, §10, Nov. 11, 1983, 97 Stat. 962; Pub. L. 99–573, §6, Oct. 28, 1986, 100 Stat. 3231; Pub. L. 101–237, title VI, §602(a)(1), Dec. 18, 1989, 103 Stat. 2094, which related to judicial personnel financial disclosure requirements, were repealed by Pub. L. 101–194, title II, §201, Nov. 30, 1989, 103 Stat. 1724.\]
+
+  
+
+#### **Statutory Notes and Related Subsidiaries**
 
 #### Effective Date of Repeal
 
@@ -6548,6 +6924,10 @@ Contract authority under paragraph (2) shall be effective for any fiscal year on
 
 (Pub. L. 95–521, title IV, §401, Oct. 26, 1978, 92 Stat. 1862; Pub. L. 98–150, §2, Nov. 11, 1983, 97 Stat. 959; Pub. L. 100–598, §3, Nov. 3, 1988, 102 Stat. 3031; Pub. L. 104–179, §4(b)(2)(A), Aug. 6, 1996, 110 Stat. 1567.)
 
+  
+
+#### **Editorial Notes**
+
 #### Amendments
 
 **1996**—Pub. L. 104–179 substituted "Establishment; appointment of Director" for "Office of Government Ethics" in section catchline.
@@ -6557,6 +6937,10 @@ Contract authority under paragraph (2) shall be effective for any fiscal year on
 Subsec. (c). Pub. L. 100–598, §3(b), added subsec. (c).
 
 **1983**—Subsec. (b). Pub. L. 98–150 inserted provision that, effective with respect to any individual appointed or reappointed by the President as Director on or after Oct. 1, 1983, the term of service of the Director shall be five years.
+
+  
+
+#### **Statutory Notes and Related Subsidiaries**
 
 #### Effective Date of 1988 Amendment
 
@@ -6704,6 +7088,10 @@ Amendment by Pub. L. 98–150 effective Oct. 1, 1983, see section 13 of Pub. L. 
 
 (Pub. L. 95–521, title IV, §402, Oct. 26, 1978, 92 Stat. 1862; Pub. L. 96–19, §9(e), (s), June 13, 1979, 93 Stat. 43, 44; Pub. L. 98–150, §3(a), (b), Nov. 11, 1983, 97 Stat. 959; Pub. L. 100–598, §§5–7, Nov. 3, 1988, 102 Stat. 3032, 3033.)
 
+  
+
+#### **Editorial Notes**
+
 #### References in Text
 
 Title II of this Act, referred to in subsec. (b)(1), (3), and (15), and title 2 of this Act, referred to in subsec. (f)(2)(B)(iv), is title II of Pub. L. 95–521, which was set out in this Appendix prior to repeal by Pub. L. 101–194, title II, §201, Nov. 30, 1989, 103 Stat. 1724.
@@ -6731,6 +7119,10 @@ Subsec. (b)(15). Pub. L. 98–150, §3(b)(5), substituted ", in consultation wi
 Subsec. (b)(15). Pub. L. 96–19, §9(e)(2), added par. (15).
 
 Subsec. (d). Pub. L. 96–19, §9(e)(1), repealed subsec. (d) which required the promulgation of a regulation establishing a method of readily determining, without expert appraisal, the fair market value of assets required to be disclosed.
+
+  
+
+#### **Statutory Notes and Related Subsidiaries**
 
 #### Effective Date of 1983 Amendment
 
@@ -6772,6 +7164,10 @@ The authority of the Director under this section includes the authority to reque
 
 (Pub. L. 95–521, title IV, §403, Oct. 26, 1978, 92 Stat. 1863; Pub. L. 98–150, §5, Nov. 11, 1983, 97 Stat. 960; Pub. L. 100–598, §9, Nov. 3, 1988, 102 Stat. 3035; Pub. L. 104–179, §2, Aug. 6, 1996, 110 Stat. 1566.)
 
+  
+
+#### **Editorial Notes**
+
 #### References in Text
 
 This Act, referred to in subsec. (a), is Pub. L. 95–521, Oct. 26, 1978, 92 Stat. 1824, as amended, known as the Ethics in Government Act of 1978. For complete classification of this Act to the Code, see Short Title note set out under section 101 of this Appendix and Tables.
@@ -6783,6 +7179,10 @@ This Act, referred to in subsec. (a), is Pub. L. 95–521, Oct. 26, 1978, 92 Sta
 **1988**—Pub. L. 100–598 substituted "pursuant to the Office of Government Ethics responsibilities under this Act. The head of any agency may detail such personnel and furnish such services, with or without reimbursement, as the Director may request to carry out the provisions of this Act" for "pursuant to subsections (b)(3) and (b)(4) of section 402." in closing provisions.
 
 **1983**—Pub. L. 98–150 inserted provision that the authority of the Director under this section includes the authority to request assistance from the inspector general of an agency in conducting the investigations pursuant to subsections (b)(3) and (b)(4) of section 402.
+
+  
+
+#### **Statutory Notes and Related Subsidiaries**
 
 #### Effective Date of 1983 Amendment
 
@@ -6796,9 +7196,17 @@ In promulgating rules and regulations pertaining to financial disclosure, confli
 
 (Pub. L. 95–521, title IV, §404, Oct. 26, 1978, 92 Stat. 1863; Pub. L. 98–150, §3(c), Nov. 11, 1983, 97 Stat. 960.)
 
+  
+
+#### **Editorial Notes**
+
 #### Amendments
 
 **1983**—Pub. L. 98–150 substituted "Director" for "Office of Personnel Management".
+
+  
+
+#### **Statutory Notes and Related Subsidiaries**
 
 #### Effective Date of 1983 Amendment
 
@@ -6809,6 +7217,10 @@ Amendment by Pub. L. 98–150 effective Oct. 1, 1983, see section 13 of Pub. L. 
 There are authorized to be appropriated to carry out this title such sums as may be necessary for fiscal year 2007 [1](#405_1_target)
 
 (Pub. L. 95–521, title IV, §405, Oct. 26, 1978, 92 Stat. 1863; Pub. L. 98–150, §12, Nov. 11, 1983, 97 Stat. 963; Pub. L. 100–598, §2, Nov. 3, 1988, 102 Stat. 3031; Pub. L. 101–334, §2, July 16, 1990, 104 Stat. 318; Pub. L. 102–506, §2, Oct. 24, 1992, 106 Stat. 3280; Pub. L. 104–179, §3, Aug. 6, 1996, 110 Stat. 1566; Pub. L. 107–119, §2, Jan. 15, 2002, 115 Stat. 2382; Pub. L. 109–289, div. B, title II, §21069, as added Pub. L. 110–5, §2, Feb. 15, 2007, 121 Stat. 57.)
+
+  
+
+#### **Editorial Notes**
 
 #### Amendments
 
@@ -6836,6 +7248,10 @@ There are authorized to be appropriated to carry out this title such sums as may
 
 **1983**—Par. (2). Pub. L. 98–150 substituted "nine" for "four".
 
+  
+
+#### **Statutory Notes and Related Subsidiaries**
+
 #### Effective Date of 1983 Amendment
 
 Amendment by Pub. L. 98–150 effective Oct. 1, 1983, see section 13 of Pub. L. 98–150 set out as a note under section 102 of this Appendix.
@@ -6843,6 +7259,10 @@ Amendment by Pub. L. 98–150 effective Oct. 1, 1983, see section 13 of Pub. L. 
 [1 So in original. Probably should end with a period.](#405_1)
 
 ### §406. Omitted
+
+  
+
+#### **Editorial Notes**
 
 #### Codification
 
@@ -6854,6 +7274,10 @@ Section, Pub. L. 95–521, title IV, §406, Oct. 26, 1978, 92 Stat. 1864, amende
 
 (Pub. L. 95–521, title IV, §407, as added Pub. L. 98–150, §4, Nov. 11, 1983, 97 Stat. 960; amended Pub. L. 100–598, §8, Nov. 3, 1988, 102 Stat. 3035.)
 
+  
+
+#### **Editorial Notes**
+
 #### Amendments
 
 **1988**—Pub. L. 100–598 substituted "Annual pay of Director" for "Submission of budget" in section catchline and amended text generally. Prior to amendment, text read as follows:
@@ -6861,6 +7285,10 @@ Section, Pub. L. 95–521, title IV, §406, Oct. 26, 1978, 92 Stat. 1864, amende
 "(a) In the budget submitted to the Congress pursuant to section 1105(a) of title 31, United States Code, the President shall include estimated expenditures and proposed appropriations the President decides are necessary to support the Office of Government Ethics in the fiscal year for which the budget is submitted and the four fiscal years after that year.
 
 "(b) In the statement of changes submitted to Congress with respect to the budget pursuant to section 1106(b) of title 31, United States Code, the President shall specify the effect of such changes on the information submitted pursuant to subsection (a) of this section."
+
+  
+
+#### **Statutory Notes and Related Subsidiaries**
 
 #### Effective Date
 
@@ -6875,6 +7303,10 @@ The Director shall, no later than April 30 of each year in which the second sess
 (2) such other information as the Director may consider appropriate.
 
 (Pub. L. 95–521, title IV, §408, as added Pub. L. 100–598, §4, Nov. 3, 1988, 102 Stat. 3031; amended Pub. L. 104–179, §4(b)(2)(B), Aug. 6, 1996, 110 Stat. 1567.)
+
+  
+
+#### **Editorial Notes**
 
 #### Amendments
 
@@ -6897,6 +7329,10 @@ The Director shall, no later than April 30 of each year in which the second sess
 (c) Treatment of Charitable Contributions.—Any honorarium which, except for subsection (b), might be paid to a Member, officer or employee, but which is paid instead on behalf of such Member, officer or employee to a charitable organization, shall be deemed not to be received by such Member, officer or employee. No such payment shall exceed $2,000 or be made to a charitable organization from which such individual or a parent, sibling, spouse, child, or dependent relative of such individual derives any financial benefit.
 
 (Pub. L. 95–521, title V, §501, as added Pub. L. 101–194, title VI, §601(a), Nov. 30, 1989, 103 Stat. 1760; amended Pub. L. 101–280, §7(a), May 4, 1990, 104 Stat. 161; Pub. L. 102–378, §4(b)(1), (2), Oct. 2, 1992, 106 Stat. 1357.)
+
+  
+
+#### **Editorial Notes**
 
 #### References in Text
 
@@ -6921,6 +7357,10 @@ Subsec. (a)(2). Pub. L. 102–378, §4(b)(2), substituted "who during a calendar
 Subsec. (a)(2). Pub. L. 101–280, §7(a)(1), substituted "a noncareer officer or employee" for "not a career civil servant".
 
 Pub. L. 101–280, §7(a)(2), substituted "Member or such an officer or employee which" for "Member, officer or employee which" and "Member or such officer or employee during" for "Member, officer or employee during".
+
+  
+
+#### **Statutory Notes and Related Subsidiaries**
 
 #### Effective Date
 
@@ -6952,6 +7392,10 @@ Section effective Jan. 1, 1991, but shall cease to be effective if the provision
 
 (Pub. L. 95–521, title V, §502, as added Pub. L. 101–194, title VI, §601(a), Nov. 30, 1989, 103 Stat. 1761; amended Pub. L. 101–280, §7(a)(1), (b), May 4, 1990, 104 Stat. 161; Pub. L. 101–650, title III, §319, Dec. 1, 1990, 104 Stat. 5117; Pub. L. 102–198, §6, Dec. 9, 1991, 105 Stat. 1624; Pub. L. 102–378, §4(b)(3), Oct. 2, 1992, 106 Stat. 1357.)
 
+  
+
+#### **Editorial Notes**
+
 #### References in Text
 
 The General Schedule, referred to in subsec. (a), is set out under section 5332 of this title.
@@ -6973,6 +7417,10 @@ Pub. L. 101–280, §7(a)(1), in introductory provisions substituted "a noncaree
 Pub. L. 101–280, §7(b)(1), in par. (1) substituted "receive compensation for affiliating with or being" for "affiliate with or be" and "which provides professional services involving" for "to provide professional services which involves", and struck out "for compensation" after "relationship".
 
 Pub. L. 101–280, §7(b)(2), in par. (3) substituted "receive compensation for practicing" for "practice" and struck out "for compensation" after "relationship".
+
+  
+
+#### **Statutory Notes and Related Subsidiaries**
 
 #### Effective Date
 
@@ -6996,6 +7444,10 @@ This title shall be subject to the rules and regulations of—
 
 (Pub. L. 95–521, title V, §503, as added Pub. L. 101–194, title VI, §601(a), Nov. 30, 1989, 103 Stat. 1761; amended Pub. L. 101–280, §7(c), May 4, 1990, 104 Stat. 161; Pub. L. 102–90, title I, §6(b)(1), Aug. 14, 1991, 105 Stat. 450.)
 
+  
+
+#### **Editorial Notes**
+
 #### Prior Provisions
 
 A prior section 503 of Pub. L. 95–521, title V, Oct. 26, 1978, 92 Stat. 1867, is set out as a note under section 207 of Title 18, Crimes and Criminal Procedure.
@@ -7005,6 +7457,10 @@ A prior section 503 of Pub. L. 95–521, title V, Oct. 26, 1978, 92 Stat. 1867, 
 **1991**—Par. (1)(B). Pub. L. 102–90 substituted "Senators and legislative branch officers and employees" for "legislative branch officers and employees other than Senators, officers, and employees of the Senate and".
 
 **1990**—Par. (1). Pub. L. 101–280 amended par. (1) generally. Prior to amendment, par. (1) read as follows: "and administered by the committee of the House of Representatives assigned responsibility for administering the reporting requirements of title I with respect to Members, officers and employees of the House of Representatives;".
+
+  
+
+#### **Statutory Notes and Related Subsidiaries**
 
 #### Change of Name
 
@@ -7026,6 +7482,10 @@ Section effective Jan. 1, 1991, but shall cease to be effective if the provision
 
 (Pub. L. 95–521, title V, §504, as added Pub. L. 101–194, title VI, §601(a), Nov. 30, 1989, 103 Stat. 1761.)
 
+  
+
+#### **Statutory Notes and Related Subsidiaries**
+
 #### Effective Date
 
 Section effective Jan. 1, 1991, but shall cease to be effective if the provisions of section 703 of Pub. L. 101–194, 5 U.S.C. 5318 note, are subsequently repealed, see section 603 of Pub. L. 101–194, set out as an Effective Date of 1989 Amendment note under section 7701 of Title 26, Internal Revenue Code.
@@ -7046,6 +7506,10 @@ For purposes of this title:
 
 (Pub. L. 95–521, title V, §505, as added Pub. L. 101–194, title VI, §601(a), Nov. 30, 1989, 103 Stat. 1761; amended Pub. L. 102–90, title I, §6(b)(2), (3), title III, §314(b), Aug. 14, 1991, 105 Stat. 450, 469.)
 
+  
+
+#### **Editorial Notes**
+
 #### Amendments
 
 **1991**—Par. (1). Pub. L. 102–90, §6(b)(2), inserted "a Senator in," before "a Representative".
@@ -7053,6 +7517,10 @@ For purposes of this title:
 Par. (2). Pub. L. 102–90, §6(b)(3), struck out "(A) any individual (other than the Vice President) whose compensation is disbursed by the Secretary of the Senate or (B)" after "except".
 
 Par. (3). Pub. L. 102–90, §314(b), inserted "(including a series of appearances, speeches, or articles if the subject matter is directly related to the individual's official duties or the payment is made because of the individual's status with the Government)" before "by a Member".
+
+  
+
+#### **Statutory Notes and Related Subsidiaries**
 
 #### Effective Date of 1991 Amendment
 
