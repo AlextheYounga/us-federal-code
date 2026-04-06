@@ -180,7 +180,7 @@ For purposes of this section, the term “provider of services” shall include�
 
 #### (f) Maintenance of written policies and procedures
 
-(1) For purposes of subsection (a)(1)(Q) of this section and sections 1395i–3(c)(2)(E),[6](#1395cc_6_target) 1395l(s), 1395w–25(i), 1395mm(c)(8), and 1395bbb(a)(6) of this title, the requirement of this subsection is that a provider of services, Medicare+Choice organization, or prepaid or eligible organization (as the case may be) maintain written policies and procedures with respect to all adult individuals receiving medical care by or through the provider or organization—
+(1) For purposes of subsection (a)(1)(Q) of this section and sections 1395i–3(c)(2)(E), 1395l(s), 1395w–25(i), 1395mm(c)(8), and 1395bbb(a)(6) of this title, the requirement of this subsection is that a provider of services, Medicare+Choice organization, or prepaid or eligible organization (as the case may be) maintain written policies and procedures with respect to all adult individuals receiving medical care by or through the provider or organization—
 
 (A) to provide written information to each such individual concerning—
 
@@ -350,7 +350,7 @@ The Secretary may promulgate an interim final rule to carry out this paragraph.
 
 #### (A) In general
 
-The Secretary shall establish procedures to provide for a provisional period of not less than 30 days and not more than 1 year during which new providers of medical or other items or services and suppliers, as the Secretary determines appropriate, including categories of providers or suppliers, would be subject to enhanced oversight, such as prepayment review and payment caps, under the program under this subchapter, the Medicaid program under subchapter XIX.[7](#1395cc_7_target) and the CHIP program under subchapter XXI.
+The Secretary shall establish procedures to provide for a provisional period of not less than 30 days and not more than 1 year during which new providers of medical or other items or services and suppliers, as the Secretary determines appropriate, including categories of providers or suppliers, would be subject to enhanced oversight, such as prepayment review and payment caps, under the program under this subchapter, the Medicaid program under subchapter XIX.[6](#1395cc_6_target) and the CHIP program under subchapter XXI.
 
 #### (B) Implementation
 
@@ -398,7 +398,7 @@ The Secretary may impose a temporary moratorium on the enrollment of new provide
 
 There shall be no judicial review under section 1395ff of this title, section 1395oo of this title, or otherwise, of a temporary moratorium imposed under subparagraph (A).
 
-#### (8) [8](#1395cc_8_target) Compliance programs
+#### (8) [7](#1395cc_7_target) Compliance programs
 
 #### (A) In general
 
@@ -412,7 +412,7 @@ The Secretary, in consultation with the Inspector General of the Department of H
 
 The Secretary shall determine the timeline for the establishment of the core elements under subparagraph (B) and the date of the implementation of subparagraph (A) for providers or suppliers within a particular industry or category. The Secretary shall, in determining such date of implementation, consider the extent to which the adoption of compliance programs by a provider of medical or other items or services or supplier is widespread in a particular industry sector or with respect to a particular provider or supplier category.
 
-#### (8) [8](#1395cc_8_target) Hearing rights in cases of denial or non-renewal
+#### (8) [7](#1395cc_7_target) Hearing rights in cases of denial or non-renewal
 
 A provider of services or supplier whose application to enroll (or, if applicable, to renew enrollment) under this subchapter is denied may have a hearing and judicial review of such denial under the procedures that apply under subsection (h)(1)(A) of this section to a provider of services that is dissatisfied with a determination by the Secretary.
 
@@ -1130,8 +1130,6 @@ Pub. L. 92–603, title II, §249A(f), Oct. 30, 1972, 86 Stat. 1427, provided th
 
 [5 So in original. Probably should be subsection “(a)(1)(V)”.](#1395cc_5)
 
-[6 So in original. Probably should refer to section 1395i–3(c)(1)(E).](#1395cc_6)
+[6 So in original. Probably should be a comma.](#1395cc_6)
 
-[7 So in original. Probably should be a comma.](#1395cc_7)
-
-[8 So in original. Two pars. (8) have been enacted.](#1395cc_8)
+[7 So in original. Two pars. (8) have been enacted.](#1395cc_7)
