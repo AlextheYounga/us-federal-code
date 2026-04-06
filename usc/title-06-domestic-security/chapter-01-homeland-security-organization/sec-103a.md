@@ -40,4 +40,4 @@ Section was enacted as part of the Department of Homeland Security Appropriation
 
 #### Effective Date of 2024 Amendment
 
-Pub. L. 118–47, div. C, title V, §539(b), Mar. 23, 2024, 138 Stat. 624, provided that: "The amendments made by this section \[amending this section\] shall apply to amounts transferred under such section 538 \[6 U.S.C. 103a\] on or after the date of enactment of this Act \[Mar. 23, 2024\]."
+Pub. L. 118–47, div. C, title V, §539(b), Mar. 23, 2024, 138 Stat. 624, provided that: "The amendments made by this section \[amending this section\] shall apply to amounts transferred under such section 538 \[of Pub. L. 117–103, 6 U.S.C. 103a\] on or after the date of enactment of this Act \[Mar. 23, 2024\]."
