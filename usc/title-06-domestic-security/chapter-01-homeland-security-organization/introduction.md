@@ -926,6 +926,8 @@ Sec.
 
 665j. Ransomware threat mitigation activities.
 
+665k. Federal Clearinghouse on School Safety Evidence-based Practices.
+
         
 
 #### Part B—Critical Infrastructure Information
