@@ -4,7 +4,7 @@ Sections, act Aug. 16, 1954, ch. 736, 68A Stat. 543, 544, imposed a tax on seeds
 
   
 
-#### **Statutory Notes and Related Subsidiaries**
+#### **Statutory Notes and Related Subsidiariesz**
 
 #### Effective Date of Repeal
 

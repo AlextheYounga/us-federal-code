@@ -1,1 +1,0 @@
-### Part A–1—Residential Efficiency and Electrification Rebates

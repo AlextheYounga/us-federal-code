@@ -116,8 +116,6 @@ Sec.
 
 17113a. Low-emissions steel manufacturing research program.
 
-17113b. Advanced industrial facilities deployment program.
-
 17114\. Industrial Technology Innovation Advisory Committee.
 
 17115\. Technical assistance program to implement industrial emissions reduction.
