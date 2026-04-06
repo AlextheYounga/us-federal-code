@@ -12,4 +12,10 @@ Sec.
 
 40505\. Reporting on National Missing and Unidentified Persons System (NamUs) Program.
 
+40506\. Authorization of the National Missing and Unidentified Persons System.
+
+40507\. Information sharing.
+
+40508\. Report to Congress.
+
         
