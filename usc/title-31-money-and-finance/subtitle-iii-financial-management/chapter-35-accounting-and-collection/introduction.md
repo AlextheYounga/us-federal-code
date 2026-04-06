@@ -90,7 +90,7 @@ Sec.
 
 3562\. Disposition of recovered funds. 1
 
-\[3563 to 3567. Repealed.\].
+\[3563 to 3567. Repealed.\]
 
         
 
