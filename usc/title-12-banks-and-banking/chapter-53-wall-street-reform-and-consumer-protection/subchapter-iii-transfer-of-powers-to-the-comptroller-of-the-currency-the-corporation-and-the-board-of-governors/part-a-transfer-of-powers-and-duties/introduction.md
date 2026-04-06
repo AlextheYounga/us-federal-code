@@ -1,0 +1,1 @@
+### Part A—Transfer of Powers and Duties

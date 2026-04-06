@@ -1,0 +1,3 @@
+### \[§2669. Repealed. Pub. L. 109–364, div. B, title XXVIII, §2822(c), Oct. 17, 2006, 120 Stat. 2475\]
+
+Section, acts Aug. 10, 1956, ch. 1041, 70A Stat. 151; Pub. L. 106–398, §1 \[div. B, title XXVIII, §2812(f)(2)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–418; Pub. L. 108–136, div. B, title XXVIII, §2813(b), Nov. 24, 2003, 117 Stat. 1725; Pub. L. 109–163, div. A, title X, §1057(a)(3), Jan. 6, 2006, 119 Stat. 3440, related to easements for gas, water, and sewer pipe lines.

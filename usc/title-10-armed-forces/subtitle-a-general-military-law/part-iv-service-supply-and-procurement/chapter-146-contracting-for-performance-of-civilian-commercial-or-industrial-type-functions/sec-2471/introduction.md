@@ -1,0 +1,3 @@
+### \[§2471. Repealed. Pub. L. 106–398, §1 \[\[div. A\], title III, §341(g)(1)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–64\]
+
+Section, added Pub. L. 103–337, div. A, title III, §336(a), Oct. 5, 1994, 108 Stat. 2717; amended Pub. L. 104–106, div. A, title XV, §1503(a)(26), Feb. 10, 1996, 110 Stat. 512; Pub. L. 105–85, div. A, title III, §361(b)(1), Nov. 18, 1997, 111 Stat. 1701, related to lease of excess depot-level equipment and facilities by persons outside the Department of Defense.

@@ -1,0 +1,3 @@
+### \[§7203. Repealed. Pub. L. 103–355, title III, §3025(a), Oct. 13, 1994, 108 Stat. 3334\]
+
+Section, acts Aug. 10, 1956, ch. 1041, 70A Stat. 442; Sept. 2, 1958, Pub. L. 85–861, §33(a)(34), 72 Stat. 1566, authorized Secretary of the Navy to make expenditures for scientific investigations and research from any naval appropriation available for those purposes and to delegate this authority within Navy.

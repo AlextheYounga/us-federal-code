@@ -1,0 +1,3 @@
+### \[§6399. Repealed. Pub. L. 90–130, §1(24)(G), Nov. 8, 1967, 81 Stat. 382\]
+
+Section, acts Aug. 10, 1956, ch. 1041, 70A Stat. 414; May 20, 1958, Pub. L. 85–422, §11(a)(6)(I), 72 Stat. 131; Oct. 2, 1963, Pub. L. 88–132, §5(h)(6), 77 Stat. 214, provided for retirement of women lieutenant commanders and below of Regular Navy and women majors and below of Regular Marine Corps at age 50 and their retired grade and pay.

@@ -1,0 +1,1 @@
+### Part A—Solar Energy

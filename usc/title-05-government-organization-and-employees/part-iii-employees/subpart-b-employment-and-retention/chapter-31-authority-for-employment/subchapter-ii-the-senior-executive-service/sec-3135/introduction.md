@@ -1,0 +1,3 @@
+### \[§3135. Repealed. Pub. L. 104–66, title II, §2181(a)(1), Dec. 21, 1995, 109 Stat. 732\]
+
+Section, added Pub. L. 95–454, title IV, §402(a), Oct. 13, 1978, 92 Stat. 1159; amended Pub. L. 98–168, title III, §301(b), Nov. 29, 1983, 97 Stat. 1112; Pub. L. 98–615, title III, §306(a), Nov. 8, 1984, 98 Stat. 3219, directed Office of Personnel Management to submit reports to Congress relating to Senior Executive Service.

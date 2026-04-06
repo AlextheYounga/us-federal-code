@@ -1,0 +1,5 @@
+### \[§758a. Omitted\]
+
+#### Codification
+
+Section, added act Aug. 10, 1956, ch. 1041, §16(a), 70A Stat. 625; amended Sept. 7, 1962, Pub. L. 87–649, §14d(6), 76 Stat. 502, related to reserve student aviation pilots and was omitted in the general revision of this chapter by Pub. L. 96–322, §1, Aug. 4, 1980, 94 Stat. 1002. See section 709 of this title.

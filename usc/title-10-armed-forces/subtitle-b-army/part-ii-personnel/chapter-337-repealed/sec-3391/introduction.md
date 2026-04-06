@@ -1,0 +1,3 @@
+### \[§3391. Repealed. Pub. L. 90–130, §1(11)(F), Nov. 8, 1967, 81 Stat. 376\]
+
+Section, added Pub. L. 85–861, §1(80)(E), Sept. 2, 1958, 72 Stat. 1479; Pub. L. 86–559, §1(18), June 30, 1960, 74 Stat. 270, prohibited promotion of reserve officers of Army Nurse Corps or Army Medical Specialist Corps to reserve grades above colonel and prohibited promotion of reserve officers of Women's Army Corps to reserve grades above lieutenant colonel.

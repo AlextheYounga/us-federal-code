@@ -1,0 +1,3 @@
+### \[§8202. Repealed. Pub. L. 101–510, div. A, title IV, §403(b)(3)(A), Nov. 5, 1990, 104 Stat. 1545\]
+
+Section, acts Aug. 10, 1956, ch. 1041, 70A Stat. 498; Sept. 2, 1958, Pub. L. 85–861, §1(158), 72 Stat. 1514; Dec. 28, 1967, Pub. L. 90–228, §1(4), (5), 81 Stat. 745; Dec. 12, 1980, Pub. L. 96–513, title II, §203(b), 94 Stat. 2879, related to authorized strength of Air Force in general officers on active duty.

@@ -1,0 +1,3 @@
+### \[§232. Repealed. Pub. L. 112–239, div. A, title X, §1081(1)(A), Jan. 2, 2013, 126 Stat. 1960\]
+
+Section, added Pub. L. 108–375, div. A, title II, §214(a), Oct. 28, 2004, 118 Stat. 1834, provided that amounts for research, development, test, and evaluation for the United States Joint Forces Command would be derived only from Defense-wide amounts and required a separate display for such amounts in the budget.

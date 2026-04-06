@@ -1,0 +1,3 @@
+### \[§2356. Repealed. Pub. L. 104–106, div. A, title VIII, §802(a), Feb. 10, 1996, 110 Stat. 390\]
+
+Section, acts Aug. 10, 1956, ch. 1041, 70A Stat. 135; Sept. 2, 1958, Pub. L. 85–861, §1(43A), 72 Stat. 1457; July 18, 1984, Pub. L. 98–369, div. B, title VII, §2727(d), 98 Stat. 1195; Dec. 4, 1987, Pub. L. 100–180, div. A, title XII, §1231(18)(B), 101 Stat. 1161, related to delegations of authority under sections 1584, 2353, 2354, and 2355 of this title.

@@ -1,0 +1,3 @@
+### \[§193. Repealed. Pub. L. 112–213, title II, §216(e), Dec. 20, 2012, 126 Stat. 1555\]
+
+Section, act Aug. 4, 1949, ch. 393, 63 Stat. 510; Pub. L. 94–546, §1(16), Oct. 18, 1976, 90 Stat. 2520; Pub. L. 97–322, title I, §118(b), Oct. 15, 1982, 96 Stat. 1586; Pub. L. 100–448, §9, Sept. 28, 1988, 102 Stat. 1842; Pub. L. 102–241, §15, Dec. 19, 1991, 105 Stat. 2213, provided for an Advisory Committee to the Academy.

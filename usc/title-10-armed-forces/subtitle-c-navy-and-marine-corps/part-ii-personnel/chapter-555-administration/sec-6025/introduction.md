@@ -1,0 +1,3 @@
+### \[§6025. Repealed. Pub. L. 92–168, §2(2), Nov. 24, 1971, 85 Stat. 489\]
+
+Section, act Aug. 10, 1956, ch. 1041, 70A Stat. 377, provided qualifications to receive aviation designation of aviation pilot. See section 2003 of this title.

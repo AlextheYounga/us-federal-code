@@ -1,0 +1,3 @@
+### \[§230. Repealed. Pub. L. 107–314, div. A, title X, §1041(a)(2)(A), Dec. 2, 2002, 116 Stat. 2645\]
+
+Section, added Pub. L. 106–65, div. A, title X, §1041(a)(1), Oct. 5, 1999, 113 Stat. 758; amended Pub. L. 106–398, §1 \[\[div. A\], title X, §1075(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–280, related to inclusion in the budget justification materials submitted to Congress of specific identification of amounts required for declassification of records.

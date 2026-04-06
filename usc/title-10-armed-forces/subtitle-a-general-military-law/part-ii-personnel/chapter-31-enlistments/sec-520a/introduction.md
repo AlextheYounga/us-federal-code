@@ -1,0 +1,3 @@
+### \[§520a. Repealed. Pub. L. 106–398, §1 \[\[div. A\], title X, §1076(g)(1)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–282\]
+
+Section, added Pub. L. 97–252, title XI, §1114(c)(1), Sept. 8, 1982, 96 Stat. 749; amended Pub. L. 104–106, div. A, title XV, §1502(a)(1), Feb. 10, 1996, 110 Stat. 502; Pub. L. 106–65, div. A, title X, §1067(1), Oct. 5, 1999, 113 Stat. 774, related to criminal history information for military recruiting purposes.
