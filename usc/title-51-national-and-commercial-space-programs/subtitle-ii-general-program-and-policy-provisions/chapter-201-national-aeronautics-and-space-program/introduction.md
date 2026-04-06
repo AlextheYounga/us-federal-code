@@ -66,6 +66,10 @@ Sec.
 
 20147\. Recovery and disposition authority.
 
+20148\. Indemnification; NASA launch services and reentry services.
+
+20149 . Medical monitoring and research relating to human space flight.
+
         
 
 #### SUBCHAPTER IV—UPPER ATMOSPHERE RESEARCH
@@ -79,3 +83,7 @@ Sec.
 20164\. International cooperation.
 
         
+
+#### Amendments
+
+**2017**—Pub. L. 115–10, title III, §305(b), title IV, §443(b), Mar. 21, 2017, 131 Stat. 32, 47, added items 20148 and 20149.

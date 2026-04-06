@@ -30,7 +30,7 @@
 
 (J) The United States Special Operations Command.
 
-(K) Such other officials or Agencies, elements, or components of the Department of Defense as the Secretary of Defense considers appropriate
+(K) Such other officials or Agencies, elements, or components of the Department of Defense as the Secretary of Defense considers appropriate [1](#139b_1_target)
 
   
 
@@ -45,3 +45,5 @@ A prior section 139b, added Pub. L. 111–23, title I, §102(a)(1), May 22, 2009
 Another prior section 139b was renumbered section 138c of this title.
 
 Another prior section 139b was renumbered section 2433 of this title.
+
+[1 So in original. Probably should be followed by a period.](#139b_1)

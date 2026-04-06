@@ -14,11 +14,9 @@ V. Classified Information Procedures 949p–1.
 
 VI. Sentences 949s.
 
-VII. Post-Trial Procedures and Review of Military Commissions 1
+VII. Post-Trial Procedures and Review of Military Commissions 1 950a.
 
         
-
-950a.
 
 VIII. Punitive Matters 950p.
 
