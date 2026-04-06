@@ -2,4 +2,4 @@
 
 Section, added Pub. L. 94–455, title X, §1015(c), Oct. 4, 1976, 90 Stat. 1618, related to election to treat transfer to foreign trust, etc., as taxable exchange.
 
-A prior section 1057 was renumbered section 1061 of this title.
+A prior section 1057 was renumbered section 1062 of this title.
