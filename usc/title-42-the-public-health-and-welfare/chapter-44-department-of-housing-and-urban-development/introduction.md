@@ -32,8 +32,6 @@ Sec.
 
 3539\. Housing and Urban Development Disaster Assistance Fund.
 
-3539a. Department of Housing and Urban Development Nonrecurring Expenses Fund.
-
 3540\. Repealed.
 
 3541\. Paperwork reduction.

@@ -24,7 +24,7 @@ In exercising its authority under this subsection, the Commission shall not be r
 
 #### (5) Publication
 
-The Commission shall publish in the Federal Register notices of the rate applicable under this subsection and under sections 78m(e) and 78n(g) [2](#77f_2_target) of this title for each fiscal year not later than August 31 of the fiscal year preceding the fiscal year to which such rate applies, together with any estimates or projections on which such rate is based.
+The Commission shall publish in the Federal Register notices of the rate applicable under this subsection and under sections 78m(e) and 78n(g) [1](#77f_1_target) of this title for each fiscal year not later than August 31 of the fiscal year preceding the fiscal year to which such rate applies, together with any estimates or projections on which such rate is based.
 
 #### (6) Definitions
 
@@ -162,8 +162,6 @@ Pub. L. 101–162, title V, Nov. 21, 1989, 103 Stat. 1022.
 
 #### Adjustment of Registration Fee Rate
 
-By order dated Aug. 25, 2023, the Securities and Exchange Commission adjusted the fee rates applicable under subsec. (b) of this section to $147.60 per $1,000,000, effective Oct. 1, 2023, see 88 F.R. 59953.
-
 By order dated Aug. 25, 2022, the Securities and Exchange Commission adjusted the fee rates applicable under subsec. (b) of this section to $110.20 per $1,000,000, effective Oct. 1, 2022, see 87 F.R. 53030.
 
 By order dated Aug. 23, 2021, the Securities and Exchange Commission adjusted the fee rates applicable under subsec. (b) of this section to $92.70 per $1,000,000, effective Oct. 1, 2021, see 86 F.R. 47696.
@@ -198,4 +196,4 @@ For transfer of functions of Securities and Exchange Commission, with certain ex
 
 [1 See Adjustment of Registration Fee Rate notes below.](#77f_1)
 
-[2 See References in Text note below.](#77f_2)
+[1 See References in Text note below.](#77f_1)

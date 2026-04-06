@@ -1,6 +1,6 @@
 ### §853a. Art. 53a. Plea agreements
 
-(a) In General.—(1) Subject to paragraph (3), at any time before the announcement of findings under section 853 of this title (article 53), the convening authority and the accused may enter into a plea agreement with respect to such matters as—
+(a) In General.—(1) At any time before the announcement of findings under section 853 of this title (article 53), the convening authority and the accused may enter into a plea agreement with respect to such matters as—
 
 (A) the manner in which the convening authority will dispose of one or more charges and specifications; and
 
@@ -10,15 +10,7 @@
 
 (2) The military judge of a general or special court-martial may not participate in discussions between the parties concerning prospective terms and conditions of a plea agreement.
 
-(3) With respect to charges and specifications over which a special trial counsel exercises authority pursuant to section 824a of this title (article 24a), a plea agreement under this section may only be entered into between a special trial counsel and the accused. Such agreement shall be subject to the same limitations and conditions applicable to other plea agreements under this section (article).
-
-(b) Acceptance of Plea Agreement.—Subject to subsection (c), the military judge of a general or special court-martial shall accept a plea agreement submitted by the parties, except that—
-
-(1) in the case of an offense with a sentencing parameter set forth in regulations prescribed by the President pursuant to section 539E(e) of the National Defense Authorization Act for Fiscal Year 2022, the military judge may reject a plea agreement that proposes a sentence that is outside the sentencing parameter if the military judge determines that the proposed sentence is plainly unreasonable; and
-
-(2) in the case of an offense for which the President has not established a sentencing parameter pursuant to section 539E(e) of the National Defense Authorization Act for Fiscal Year 2022, the military judge may reject a plea agreement that proposes a sentence if the military judge determines that the proposed sentence is plainly unreasonable.
-
-(c) Limitation on Acceptance of Plea Agreements.—The military judge of a general or special court-martial shall reject a plea agreement that—
+(b) Limitation on Acceptance of Plea Agreements.—The military judge of a general or special court-martial shall reject a plea agreement that—
 
 (1) contains a provision that has not been accepted by both parties;
 
@@ -32,7 +24,7 @@
 
   
 
-(d) Limited Conditions for Acceptance of Plea Agreement for Sentence Below Mandatory Minimum for Certain Offenses.—With respect to an offense referred to in section 856(b)(2) of this title (article 56(b)(2))—
+(c) Limited Conditions for Acceptance of Plea Agreement for Sentence Below Mandatory Minimum for Certain Offenses.—With respect to an offense referred to in section 856(b)(2) of this title (article 56(b)(2))—
 
 (1) the military judge may accept a plea agreement that provides for a sentence of bad conduct discharge; and
 
@@ -40,17 +32,43 @@
 
   
 
-(e) Binding Effect of Plea Agreement.—Upon acceptance by the military judge of a general or special court-martial, a plea agreement shall bind the parties (including the convening authority and the special trial counsel in the case of a plea agreement entered into under subsection (a)(3)) and the court-martial.
+(d) Binding Effect of Plea Agreement.—Upon acceptance by the military judge of a general or special court-martial, a plea agreement shall bind the parties and the court-martial.
 
 (Added Pub. L. 114–328, div. E, title LVII, §5237, Dec. 23, 2016, 130 Stat. 2917; amended Pub. L. 115–91, div. A, title V, §531(d), title X, §1081(c)(1)(H), Dec. 12, 2017, 131 Stat. 1384, 1598; Pub. L. 117–81, div. A, title V, §§539, 539E(b), Dec. 27, 2021, 135 Stat. 1698, 1701.)
+
+#### Amendment of Section
+
+Pub. L. 117–81, div. A, title V, §§539, 539C, Dec. 27, 2021, 135 Stat. 1698, 1699, provided that, effective on the date that is two years after Dec. 27, 2021, and applicable with respect to offenses that occur after that date, with provisions for delayed effect and applicability, this section is amended:
+
+(1) in subsection (a)—
+
+(A) in paragraph (1), by striking "At any time" and inserting "Subject to paragraph (3), at any time"; and
+
+(B) by adding at the end the following new paragraph:
+
+*"(3) With respect to charges and specifications over which a special trial counsel exercises authority pursuant to section 824a of this title (article 24a), a plea agreement under this section may only be entered into between a special trial counsel and the accused. Such agreement shall be subject to the same limitations and conditions applicable to other plea agreements under this section (article)."; and*
+
+  
+
+(2) in subsection (d), by inserting after "parties" the following: "(including the convening authority and the special trial counsel in the case of a plea agreement entered into under subsection (a)(3))".
+
+Pub. L. 117–81, div. A, title V, §539E(b), (f), Dec. 27, 2021, 135 Stat. 1701, 1706, provided that, effective on the date that is two years after Dec. 27, 2021, and applicable to sentences adjudged in cases in which all findings of guilty are for offenses that occurred after the date that is two years after Dec. 27, 2021, this section is amended:
+
+(1) by redesignating subsections (b), (c), and (d), as subsections (c), (d), and (e), respectively; and
+
+(2) by inserting after subsection (a) the following new subsection:
+
+*(b)* *Acceptance of Plea Agreement**.—Subject to subsection (c), the military judge of a general or special court-martial shall accept a plea agreement submitted by the parties, except that—*
+
+*(1) in the case of an offense with a sentencing parameter set forth in regulations prescribed by the President pursuant to section 539E(e) of the National Defense Authorization Act for Fiscal Year 2022, the military judge may reject a plea agreement that proposes a sentence that is outside the sentencing parameter if the military judge determines that the proposed sentence is plainly unreasonable; and*
+
+*(2) in the case of an offense for which the President has not established a sentencing parameter pursuant to section 539E(e) of the National Defense Authorization Act for Fiscal Year 2022, the military judge may reject a plea agreement that proposes a sentence if the military judge determines that the proposed sentence is plainly unreasonable.*
+
+See 2021 Amendment notes below.
 
   
 
 #### **Editorial Notes**
-
-#### References in Text
-
-Section 539E(e) of the National Defense Authorization Act for Fiscal Year 2022, referred to in subsec. (b), is section 539E(e) of Pub. L. 117–81, which is set out as a note under section 856 of this title.
 
 #### Amendments
 
