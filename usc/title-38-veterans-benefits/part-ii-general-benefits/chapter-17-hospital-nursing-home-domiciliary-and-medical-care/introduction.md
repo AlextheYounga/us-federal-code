@@ -120,9 +120,7 @@ Sec.
 
 1722B. Copayments: waiver of collection of copayments for telehealth and telemedicine visits of veterans.
 
-1722C. Copayments: prohibition on collection of copayments for first three mental health care outpatient visits of veterans 2
-
-        
+1722C. Copayments: prohibition on collection of copayments for first three mental health care outpatient visits of veterans.
 
 1723\. Furnishing of clothing.
 
@@ -343,5 +341,3 @@ Pub. L. 87–574, §2(2), Aug. 6, 1962, 76 Stat. 308, added item 618.
 **1959**—Pub. L. 86–211, §7(b), Aug. 29, 1959, 73 Stat. 436, added item 617.
 
 [1 So in original. The comma probably should be a period.](#CHAPTER17_1)
-
-[2 So in original. Probably should be followed by a period.](#CHAPTER17_2)
