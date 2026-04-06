@@ -198,7 +198,7 @@ Sec.
 
 217\. Allocation of resources by the Secretary.
 
-218\. Repealed.
+218\. Asia-Pacific Economic Cooperation Business Travel Cards.
 
 220\. Methamphetamine and methamphetamine precursor chemicals.
 
@@ -417,6 +417,8 @@ Sec.
 381\. Functions transferred.
 
 382\. Use of proceeds derived from criminal investigations.
+
+383\. National Computer Forensics Institute.
 
         
 
