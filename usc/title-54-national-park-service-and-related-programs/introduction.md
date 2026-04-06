@@ -16,6 +16,8 @@ Chap. Sec.
 
 1007\. Resource Management 100701
 
+1008\. Education and Interpretation 100801
+
 1009\. Administration 100901
 
 1011\. Donations 101101
@@ -42,7 +44,11 @@ Chap. Sec.
 
 1033\. National Military Parks 103301
 
-1035 through 1047. reserved
+1035\. National Park Centennial Challenge Fund 103501
+
+1035 1 through 1047. reserved
+
+        
 
 1049\. Miscellaneous 104901
 
@@ -161,6 +167,10 @@ Chap. Sec.
 3203\. Monuments, Ruins, Sites, and Objects of Antiquity 320301
 
         
+
+#### Amendments
+
+**2016**—Pub. L. 114–289, title I, §101(b), title III, §301(b), Dec. 16, 2016, 130 Stat. 1484, 1487, added items for chapters 1008 and 1035.
 
 Disposition Table
 | Former United States Code Section                                          | Disposition                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
@@ -696,3 +706,5 @@ Pub. L. 113–287, §6, Dec. 19, 2014, 128 Stat. 3272, provided that:
 #### Repeals
 
 Pub. L. 113–287, §7, Dec. 19, 2014, 128 Stat. 3272, repealed specified laws relating to the National Park System, except with respect to rights and duties that matured, penalties that were incurred, or proceedings that were begun before Dec. 19, 2014.
+
+[1 So in original.](#_1)
