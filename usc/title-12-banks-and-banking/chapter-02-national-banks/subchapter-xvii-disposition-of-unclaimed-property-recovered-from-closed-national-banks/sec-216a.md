@@ -8,7 +8,7 @@ For purposes of this subchapter—
 
 (3) the term "claimant" means any person or entity, including a State under applicable statutory law, asserting a demonstrable legal interest in title to, or custody or possession of, unclaimed property.
 
-(Pub. L. 96–221, title VII, §732, as added [Pub. L. 97–320, title IV, §408, Oct. 15, 1982, 96 Stat. 1513](/statviewer.htm?volume=96&page=1513); amended [Pub. L. 109–351, title VII, §725(c)(2), Oct. 13, 2006, 120 Stat. 2001](/statviewer.htm?volume=120&page=2001); [Pub. L. 109–356, title I, §123(c)(2), Oct. 16, 2006, 120 Stat. 2029](/statviewer.htm?volume=120&page=2029).)
+(Pub. L. 96–221, title VII, §732, as added Pub. L. 97–320, title IV, §408, Oct. 15, 1982, 96 Stat. 1513; amended Pub. L. 109–351, title VII, §725(c)(2), Oct. 13, 2006, 120 Stat. 2001; Pub. L. 109–356, title I, §123(c)(2), Oct. 16, 2006, 120 Stat. 2029.)
 
 #### Amendments
 

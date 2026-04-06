@@ -48,7 +48,7 @@ The United States, the Comptroller, or any officer, employee, or agent thereof s
 
 (4) For purposes of section 1491 of title 28, any Claim [1](#216b_1_target) against the Comptroller, the United States, or any officer, employee, or agent thereof shall be considered a claim against the United States.
 
-(Pub. L. 96–221, title VII, §733, as added [Pub. L. 97–320, title IV, §408, Oct. 15, 1982, 96 Stat. 1513](/statviewer.htm?volume=96&page=1513); amended [Pub. L. 102–572, title IX, §902(b)(1), Oct. 29, 1992, 106 Stat. 4516](/statviewer.htm?volume=106&page=4516).)
+(Pub. L. 96–221, title VII, §733, as added Pub. L. 97–320, title IV, §408, Oct. 15, 1982, 96 Stat. 1513; amended Pub. L. 102–572, title IX, §902(b)(1), Oct. 29, 1992, 106 Stat. 4516.)
 
 #### Amendments
 

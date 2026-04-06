@@ -22,13 +22,13 @@ These funds may be combined with financing by the Export-Import Bank of the Unit
 
 Funds available to carry out chapter 4 of part II of the Foreign Assistance Act of 1961 \[22 U.S.C. 2346 et seq.\] may be used by the Director of the Trade and Development Agency, with the concurrence of the Secretary of State (as provided under section 531 of the Foreign Assistance Act of 1961 \[22 U.S.C. 2346\]), for the purposes for which funds made available under this subsection are authorized to be used in section 635q of this title and this section. The Secretary of State shall exercise his authority in cooperation with the Administrator of the Agency for International Development. Funds made available pursuant to this subsection may be used to finance a tied aid credit activity in any country eligible for tied aid credits under this subchapter.
 
-([Pub. L. 98–181, title I \[title VI, §645\], Nov. 30, 1983, 97 Stat. 1264](/statviewer.htm?volume=97&page=1264); [Pub. L. 100–418, title II, §2204(c)(1)(B), Aug. 23, 1988, 102 Stat. 1330](/statviewer.htm?volume=102&page=1330); [Pub. L. 102–549, title II, §202(c), Oct. 28, 1992, 106 Stat. 3658](/statviewer.htm?volume=106&page=3658).)
+(Pub. L. 98–181, title I \[title VI, §645\], Nov. 30, 1983, 97 Stat. 1264; Pub. L. 100–418, title II, §2204(c)(1)(B), Aug. 23, 1988, 102 Stat. 1330; Pub. L. 102–549, title II, §202(c), Oct. 28, 1992, 106 Stat. 3658.)
 
 #### References in Text
 
-The Foreign Assistance Act of 1961, referred to in subsec. (d), is [Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424](/statviewer.htm?volume=75&page=424), as amended. Chapter 4 of part II of the Foreign Assistance Act of 1961 is classified generally to part IV (§2346 et seq.) of subchapter II of chapter 32 of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of Title 22 and Tables.
+The Foreign Assistance Act of 1961, referred to in subsec. (d), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended. Chapter 4 of part II of the Foreign Assistance Act of 1961 is classified generally to part IV (§2346 et seq.) of subchapter II of chapter 32 of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of Title 22 and Tables.
 
-This subchapter, referred to in subsec. (d), was in the original "this Act" and was translated as meaning the Trade and Development Enhancement Act of 1983, part C (§§641–647, 650) of title VI of [Pub. L. 98–181, title I, Nov. 30, 1983, 97 Stat. 1263](/statviewer.htm?volume=97&page=1263), which enacted this subchapter and section 1671g of Title 19, Customs Duties, and amended sections 1671a and 1671b of Title 19. For complete classification of this Act to the Code, see Short Title note below and Tables.
+This subchapter, referred to in subsec. (d), was in the original "this Act" and was translated as meaning the Trade and Development Enhancement Act of 1983, part C (§§641–647, 650) of title VI of Pub. L. 98–181, title I, Nov. 30, 1983, 97 Stat. 1263, which enacted this subchapter and section 1671g of Title 19, Customs Duties, and amended sections 1671a and 1671b of Title 19. For complete classification of this Act to the Code, see Short Title note below and Tables.
 
 #### Amendments
 

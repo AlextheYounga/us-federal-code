@@ -4,7 +4,7 @@
 
 (b) No dividends shall be declared or paid on common stock until the cumulative dividends on the preferred stock shall have been paid in full; and, if the association is placed in voluntary liquidation or a conservator or a receiver is appointed therefor, no payments shall be made to the holders of the common stock until the holders of the preferred stock shall have been paid in full the par value of such stock plus all accumulated dividends.
 
-([Mar. 9, 1933, ch. 1, title III, §302, 48 Stat. 5](/statviewer.htm?volume=48&page=5); [June 15, 1933, ch. 79, 48 Stat. 148](/statviewer.htm?volume=48&page=148); [Pub. L. 96–221, title VII, §702, Mar. 31, 1980, 94 Stat. 186](/statviewer.htm?volume=94&page=186).)
+(Mar. 9, 1933, ch. 1, title III, §302, 48 Stat. 5; June 15, 1933, ch. 79, 48 Stat. 148; Pub. L. 96–221, title VII, §702, Mar. 31, 1980, 94 Stat. 186.)
 
 #### Amendments
 

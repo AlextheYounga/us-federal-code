@@ -384,13 +384,13 @@ The duties of the Risk Management Committee shall be—
 
 (B) to review all required reports on the default rate of the Bank before submission to Congress under section 635g(g) of this title.
 
-([July 31, 1945, ch. 341, §3, 59 Stat. 527](/statviewer.htm?volume=59&page=527); [Aug. 9, 1954, ch. 660, §1, 68 Stat. 677](/statviewer.htm?volume=68&page=677); [Pub. L. 90–267, §1(a), (d), Mar. 13, 1968, 82 Stat. 47](/statviewer.htm?volume=82&page=47), [49](/statviewer.htm?volume=82&page=49); [Pub. L. 98–181, title I \[title VI, §§613, 614(a), 620(b)\], Nov. 30, 1983, 97 Stat. 1255](/statviewer.htm?volume=97&page=1255), [1261](/statviewer.htm?volume=97&page=1261); [Pub. L. 99–472, §18, Oct. 15, 1986, 100 Stat. 1205](/statviewer.htm?volume=100&page=1205); [Pub. L. 102–429, title I, §113, Oct. 21, 1992, 106 Stat. 2195](/statviewer.htm?volume=106&page=2195); [Pub. L. 105–121, §§6, 8, Nov. 26, 1997, 111 Stat. 2529](/statviewer.htm?volume=111&page=2529), [2530](/statviewer.htm?volume=111&page=2530); [Pub. L. 106–46, §1(a), Aug. 11, 1999, 113 Stat. 227](/statviewer.htm?volume=113&page=227); [Pub. L. 107–189, §24(b)(4), June 14, 2002, 116 Stat. 709](/statviewer.htm?volume=116&page=709); [Pub. L. 109–438, §§6(a), 14(a), 15, 18(a), Dec. 20, 2006, 120 Stat. 3270](/statviewer.htm?volume=120&page=3270), [3280](/statviewer.htm?volume=120&page=3280), [3281](/statviewer.htm?volume=120&page=3281); [Pub. L. 112–122, §§9(a), 19–20(b)(1), May 30, 2012, 126 Stat. 354](/statviewer.htm?volume=126&page=354), [361](/statviewer.htm?volume=126&page=361), [362](/statviewer.htm?volume=126&page=362); [Pub. L. 114–94, div. E, title LI, §§51004–51006(a), title LIII, §53002, title LIV, §54002(c), Dec. 4, 2015, 129 Stat. 1764–1766](/statviewer.htm?volume=129&page=1764), [1768](/statviewer.htm?volume=129&page=1768), [1769](/statviewer.htm?volume=129&page=1769).)
+(July 31, 1945, ch. 341, §3, 59 Stat. 527; Aug. 9, 1954, ch. 660, §1, 68 Stat. 677; Pub. L. 90–267, §1(a), (d), Mar. 13, 1968, 82 Stat. 47, 49; Pub. L. 98–181, title I \[title VI, §§613, 614(a), 620(b)\], Nov. 30, 1983, 97 Stat. 1255, 1261; Pub. L. 99–472, §18, Oct. 15, 1986, 100 Stat. 1205; Pub. L. 102–429, title I, §113, Oct. 21, 1992, 106 Stat. 2195; Pub. L. 105–121, §§6, 8, Nov. 26, 1997, 111 Stat. 2529, 2530; Pub. L. 106–46, §1(a), Aug. 11, 1999, 113 Stat. 227; Pub. L. 107–189, §24(b)(4), June 14, 2002, 116 Stat. 709; Pub. L. 109–438, §§6(a), 14(a), 15, 18(a), Dec. 20, 2006, 120 Stat. 3270, 3280, 3281; Pub. L. 112–122, §§9(a), 19–20(b)(1), May 30, 2012, 126 Stat. 354, 361, 362; Pub. L. 114–94, div. E, title LI, §§51004–51006(a), title LIII, §53002, title LIV, §54002(c), Dec. 4, 2015, 129 Stat. 1764–1766, 1768, 1769.)
 
 #### References in Text
 
 The Trade Secrets Act, referred to in subsec. (c)(10)(C)(ii)(III), is probably a reference to section 1905 of Title 18, Crimes and Criminal Procedure.
 
-The Ethics in Government Act of 1978, referred to in subsec. (k)(2)(C), is [Pub. L. 95–521, Oct. 26, 1978, 92 Stat. 1824](/statviewer.htm?volume=92&page=1824). For complete classification of this Act to the Code, see Short Title note set out under section 101 of Pub. L. 95–521 in the Appendix to Title 5, Government Organization and Employees, and Tables.
+The Ethics in Government Act of 1978, referred to in subsec. (k)(2)(C), is Pub. L. 95–521, Oct. 26, 1978, 92 Stat. 1824. For complete classification of this Act to the Code, see Short Title note set out under section 101 of Pub. L. 95–521 in the Appendix to Title 5, Government Organization and Employees, and Tables.
 
 #### Codification
 
@@ -462,21 +462,21 @@ Amendment by section 54002(c) of Pub. L. 114–94 applicable with respect to fis
 
 #### Effective Date of 2012 Amendment
 
-[Pub. L. 112–122, §9(b), May 30, 2012, 126 Stat. 356](/statviewer.htm?volume=126&page=356), provided that: "The amendment made by subsection (a) \[amending this section\] shall take effect 60 days after the date of the enactment of this Act \[May 30, 2012\]."
+Pub. L. 112–122, §9(b), May 30, 2012, 126 Stat. 356, provided that: "The amendment made by subsection (a) \[amending this section\] shall take effect 60 days after the date of the enactment of this Act \[May 30, 2012\]."
 
 Amendment by sections 19–20(b)(1) of Pub. L. 112–122 effective May 30, 2012, see section 25 of Pub. L. 112–122, set out as a note under section 635 of this title.
 
 #### Effective Date of 1954 Amendment
 
-Act [Aug. 9, 1954, ch. 660, §4, 68 Stat. 678](/statviewer.htm?volume=68&page=678), provided that: "The provisions of this Act for the appointment of a President and a First Vice President of the Bank and the members of the Board of Directors shall be effective upon its enactment \[Aug. 9, 1954\]. The remaining provisions of this Act shall become effective when the President and First Vice President of the Bank and one other member of the Board of Directors initially appointed hereunder enter upon office, and shall thereupon supersede Reorganization Plan No. 5 of 1953 \[set out below\]."
+Act Aug. 9, 1954, ch. 660, §4, 68 Stat. 678, provided that: "The provisions of this Act for the appointment of a President and a First Vice President of the Bank and the members of the Board of Directors shall be effective upon its enactment \[Aug. 9, 1954\]. The remaining provisions of this Act shall become effective when the President and First Vice President of the Bank and one other member of the Board of Directors initially appointed hereunder enter upon office, and shall thereupon supersede Reorganization Plan No. 5 of 1953 \[set out below\]."
 
 #### Termination of Audit Committee
 
-[Pub. L. 114–94, div. E, title LI, §51006(b), Dec. 4, 2015, 129 Stat. 1766](/statviewer.htm?volume=129&page=1766), provided that: "Not later than 180 days after the date of the enactment of this Act \[Dec. 4, 2015\], the Board of Directors of the Export-Import Bank of the United States shall revise the bylaws of the Bank to terminate the Audit Committee established by section 7 of the bylaws."
+Pub. L. 114–94, div. E, title LI, §51006(b), Dec. 4, 2015, 129 Stat. 1766, provided that: "Not later than 180 days after the date of the enactment of this Act \[Dec. 4, 2015\], the Board of Directors of the Export-Import Bank of the United States shall revise the bylaws of the Bank to terminate the Audit Committee established by section 7 of the bylaws."
 
 #### Untied Aid
 
-[Pub. L. 107–189, §10(a), June 14, 2002, 116 Stat. 702](/statviewer.htm?volume=116&page=702), provided that:
+Pub. L. 107–189, §10(a), June 14, 2002, 116 Stat. 702, provided that:
 
 "(1) Negotiations.—The Secretary of the Treasury shall seek to negotiate an OECD Arrangement on Untied Aid. In the negotiations, the Secretary should seek agreement on subjecting untied aid to the rules governing the Arrangement, including the rules governing disclosure.
 
@@ -484,13 +484,13 @@ Act [Aug. 9, 1954, ch. 660, §4, 68 Stat. 678](/statviewer.htm?volume=68&page=67
 
 #### Board of Directors; Exception to Quorum Requirement
 
-[Pub. L. 106–46, §1(b), Aug. 11, 1999, 113 Stat. 227](/statviewer.htm?volume=113&page=227), as amended by [Pub. L. 106–62, §122, Sept. 30, 1999, 113 Stat. 509](/statviewer.htm?volume=113&page=509); [Pub. L. 106–85, Oct. 29, 1999, 113 Stat. 1297](/statviewer.htm?volume=113&page=1297); [Pub. L. 106–88, Nov. 5, 1999, 113 Stat. 1304](/statviewer.htm?volume=113&page=1304); [Pub. L. 106–94, Nov. 10, 1999, 113 Stat. 1311](/statviewer.htm?volume=113&page=1311); [Pub. L. 106–105, Nov. 18, 1999, 113 Stat. 1484](/statviewer.htm?volume=113&page=1484); [Pub. L. 106–106, Nov. 19, 1999, 113 Stat. 1485](/statviewer.htm?volume=113&page=1485), provided that: "Notwithstanding section 3(c)(6) of the Export-Import Bank Act of 1945 \[12 U.S.C. 635a(c)(6)\], if, during the period that begins on July 21, 1999, and ends on December 2, 1999, there are fewer than three persons holding office on the Board of Directors of the Export-Import Bank of the United States, the entire membership of such Board of Directors shall constitute a quorum until the end of such period."
+Pub. L. 106–46, §1(b), Aug. 11, 1999, 113 Stat. 227, as amended by Pub. L. 106–62, §122, Sept. 30, 1999, 113 Stat. 509; Pub. L. 106–85, Oct. 29, 1999, 113 Stat. 1297; Pub. L. 106–88, Nov. 5, 1999, 113 Stat. 1304; Pub. L. 106–94, Nov. 10, 1999, 113 Stat. 1311; Pub. L. 106–105, Nov. 18, 1999, 113 Stat. 1484; Pub. L. 106–106, Nov. 19, 1999, 113 Stat. 1485, provided that: "Notwithstanding section 3(c)(6) of the Export-Import Bank Act of 1945 \[12 U.S.C. 635a(c)(6)\], if, during the period that begins on July 21, 1999, and ends on December 2, 1999, there are fewer than three persons holding office on the Board of Directors of the Export-Import Bank of the United States, the entire membership of such Board of Directors shall constitute a quorum until the end of such period."
 
 #### Compensation of Employees
 
-[Pub. L. 102–429, title I, §117, Oct. 21, 1996, 106 Stat. 2196](/statviewer.htm?volume=106&page=2196), provided that:
+Pub. L. 102–429, title I, §117, Oct. 21, 1996, 106 Stat. 2196, provided that:
 
-"\[(a) Repealed. [Pub. L. 102–429, title I, §117(b), Oct. 21, 1996, 106 Stat. 2196](/statviewer.htm?volume=106&page=2196).\]
+"\[(a) Repealed. Pub. L. 102–429, title I, §117(b), Oct. 21, 1996, 106 Stat. 2196.\]
 
 "(b) Sunset.—Effective 2 years after the date of enactment of this Act \[Oct. 21, 1992\], subsection (a) is hereby repealed.
 
@@ -508,51 +508,51 @@ Act [Aug. 9, 1954, ch. 660, §4, 68 Stat. 678](/statviewer.htm?volume=68&page=67
 
 "(B) whether or not the authority of subsection (a) should be extended."
 
-\[[Pub. L. 113–235, div. J, title VI, Dec. 16, 2014, 128 Stat. 2598](/statviewer.htm?volume=128&page=2598), provided in part: "That notwithstanding subsection (b) of section 117 of the Export Enhancement Act of 1992 \[Pub. L. 102–429, set out above\], subsection (a) thereof shall remain in effect until September 30, 2015".\]
+\[Pub. L. 113–235, div. J, title VI, Dec. 16, 2014, 128 Stat. 2598, provided in part: "That notwithstanding subsection (b) of section 117 of the Export Enhancement Act of 1992 \[Pub. L. 102–429, set out above\], subsection (a) thereof shall remain in effect until September 30, 2015".\]
 
 \[Prior similar extensions of section 117(a) of Pub. L. 102–429 were contained in the following acts:
 
-\[[Pub. L. 113–76, div. K, title VI, Jan. 17, 2014, 128 Stat. 489](/statviewer.htm?volume=128&page=489).
+\[Pub. L. 113–76, div. K, title VI, Jan. 17, 2014, 128 Stat. 489.
 
-\[[Pub. L. 112–74, div. I, title VI, Dec. 23, 2011, 125 Stat. 1191](/statviewer.htm?volume=125&page=1191).
+\[Pub. L. 112–74, div. I, title VI, Dec. 23, 2011, 125 Stat. 1191.
 
-\[[Pub. L. 111–117, div. F, title VI, Dec. 16, 2009, 123 Stat. 3341](/statviewer.htm?volume=123&page=3341).
+\[Pub. L. 111–117, div. F, title VI, Dec. 16, 2009, 123 Stat. 3341.
 
-\[[Pub. L. 111–8, div. H, title VI, Mar. 11, 2009, 123 Stat. 859](/statviewer.htm?volume=123&page=859).
+\[Pub. L. 111–8, div. H, title VI, Mar. 11, 2009, 123 Stat. 859.
 
-\[[Pub. L. 110–161, div. J, title II, Dec. 26, 2007, 121 Stat. 2290](/statviewer.htm?volume=121&page=2290).
+\[Pub. L. 110–161, div. J, title II, Dec. 26, 2007, 121 Stat. 2290.
 
-\[[Pub. L. 109–102, title I, Nov. 14, 2005, 119 Stat. 2173](/statviewer.htm?volume=119&page=2173).
+\[Pub. L. 109–102, title I, Nov. 14, 2005, 119 Stat. 2173.
 
-\[[Pub. L. 108–447, div. D, title I, Dec. 8, 2004, 118 Stat. 2969](/statviewer.htm?volume=118&page=2969).
+\[Pub. L. 108–447, div. D, title I, Dec. 8, 2004, 118 Stat. 2969.
 
-\[[Pub. L. 108–199, div. D, title I, Jan. 23, 2004, 118 Stat. 143](/statviewer.htm?volume=118&page=143).
+\[Pub. L. 108–199, div. D, title I, Jan. 23, 2004, 118 Stat. 143.
 
-\[[Pub. L. 108–7, div. E, title I, Feb. 20, 2003, 117 Stat. 160](/statviewer.htm?volume=117&page=160).
+\[Pub. L. 108–7, div. E, title I, Feb. 20, 2003, 117 Stat. 160.
 
-\[[Pub. L. 107–115, title I, Jan. 10, 2002, 115 Stat. 2119](/statviewer.htm?volume=115&page=2119).
+\[Pub. L. 107–115, title I, Jan. 10, 2002, 115 Stat. 2119.
 
-\[[Pub. L. 106–429, §101(a) \[title I\], Nov. 6, 2000, 114 Stat. 1900](/statviewer.htm?volume=114&page=1900), [1900A-4](/statviewer.htm?volume=114&page=1900A-4).
+\[Pub. L. 106–429, §101(a) \[title I\], Nov. 6, 2000, 114 Stat. 1900, 1900A–4.
 
-\[[Pub. L. 106–113, div. B, §1000(a)(2) \[title I\], Nov. 29, 1999, 113 Stat. 1535](/statviewer.htm?volume=113&page=1535), [1501A-64](/statviewer.htm?volume=113&page=1501A-64).
+\[Pub. L. 106–113, div. B, §1000(a)(2) \[title I\], Nov. 29, 1999, 113 Stat. 1535, 1501A–64.
 
-\[[Pub. L. 105–277, div. A, §101(d) \[title I\], Oct. 21, 1998, 112 Stat. 2681–150](/statviewer.htm?volume=112&page=2681-150), [2681-151](/statviewer.htm?volume=112&page=2681-151).
+\[Pub. L. 105–277, div. A, §101(d) \[title I\], Oct. 21, 1998, 112 Stat. 2681–150, 2681–151.
 
-\[[Pub. L. 105–118, title I, Nov. 26, 1997, 111 Stat. 2387](/statviewer.htm?volume=111&page=2387).
+\[Pub. L. 105–118, title I, Nov. 26, 1997, 111 Stat. 2387.
 
-\[[Pub. L. 104–208, div. A, title I, §101(c) \[title I\], Sept. 30, 1996, 110 Stat. 3009–121](/statviewer.htm?volume=110&page=3009-121), [3009-122](/statviewer.htm?volume=110&page=3009-122).
+\[Pub. L. 104–208, div. A, title I, §101(c) \[title I\], Sept. 30, 1996, 110 Stat. 3009–121, 3009–122.
 
-\[[Pub. L. 104–107, title I, Feb. 12, 1996, 110 Stat. 705](/statviewer.htm?volume=110&page=705).
+\[Pub. L. 104–107, title I, Feb. 12, 1996, 110 Stat. 705.
 
-\[[Pub. L. 103–306, title IV, Aug. 23, 1994, 108 Stat. 1623](/statviewer.htm?volume=108&page=1623).\]
+\[Pub. L. 103–306, title IV, Aug. 23, 1994, 108 Stat. 1623.\]
 
 #### Report on Regional Offices
 
-[Pub. L. 102–429, title I, §118, Oct. 21, 1992, 106 Stat. 2197](/statviewer.htm?volume=106&page=2197), directed Export-Import Bank, not later than 1 year after Oct. 21, 1992, to submit a report to Congress on the Bank's plan to establish and operate regional offices.
+Pub. L. 102–429, title I, §118, Oct. 21, 1992, 106 Stat. 2197, directed Export-Import Bank, not later than 1 year after Oct. 21, 1992, to submit a report to Congress on the Bank's plan to establish and operate regional offices.
 
 #### Appointment of Member of Board To Represent Interests of Small Business Community
 
-[Pub. L. 98–181, title I \[title VI, §614(b)\], Nov. 30, 1983, 97 Stat. 1256](/statviewer.htm?volume=97&page=1256), provided that: "In order to carry out the amendment made by subsection (a) regarding section 3(c)(8)(B) of the Export-Import Bank Act of 1945 \[subsec. (c)(8)(B) of this section\], the first member, other than a member who will serve as Chairman or Vice Chairman of the Bank, appointed by the President of the United States to the Board of Directors of the Export-Import Bank of the United States after the date of the enactment of this section \[Nov. 30, 1983\] shall be selected from among the small business community and shall represent the interests of small business."
+Pub. L. 98–181, title I \[title VI, §614(b)\], Nov. 30, 1983, 97 Stat. 1256, provided that: "In order to carry out the amendment made by subsection (a) regarding section 3(c)(8)(B) of the Export-Import Bank Act of 1945 \[subsec. (c)(8)(B) of this section\], the first member, other than a member who will serve as Chairman or Vice Chairman of the Bank, appointed by the President of the United States to the Board of Directors of the Export-Import Bank of the United States after the date of the enactment of this section \[Nov. 30, 1983\] shall be selected from among the small business community and shall represent the interests of small business."
 
 #### Board of Directors; Advisory Committee
 
@@ -560,7 +560,7 @@ A Board of Directors and an Advisory Committee reestablished for the Export-Impo
 
 #### Termination of Advisory Committees
 
-Advisory committees established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. See section 14 of [Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 776](/statviewer.htm?volume=86&page=776), set out in the Appendix to Title 5, Government Organization and Employees.
+Advisory committees established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. See section 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 776, set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Termination of Foreign Economic Administration
 
@@ -606,7 +606,7 @@ The following are hereby abolished: (1) The Board of Directors of the Export-Imp
 
 Sections 3 to 7, inclusive, of this reorganization plan shall become effective when the Managing Director first appointed hereunder enters upon office pursuant to the provisions of this reorganization plan.
 
-\[A Board of Directors was reestablished for the Export-Import Bank of Washington by section 1 of act [Aug. 9, 1954, ch. 660, 68 Stat. 677](/statviewer.htm?volume=68&page=677), which amended this section. The Board had previously been abolished and its functions transferred to the Managing Director of the Bank by Reorg. Plan No. 5 of 1953, set out above. The 1953 Reorg. Plan was superseded by sections 1, 4 of act Aug. 9, 1954. See this section and 1954 Amendment and Effective Date of 1954 Amendment notes set out above. The "Export-Import Bank of Washington" was renamed the "Export-Import Bank of the United States" by [Pub. L. 90–267, §1(a), Mar. 13, 1968, 82 Stat. 47](/statviewer.htm?volume=82&page=47).\]
+\[A Board of Directors was reestablished for the Export-Import Bank of Washington by section 1 of act Aug. 9, 1954, ch. 660, 68 Stat. 677, which amended this section. The Board had previously been abolished and its functions transferred to the Managing Director of the Bank by Reorg. Plan No. 5 of 1953, set out above. The 1953 Reorg. Plan was superseded by sections 1, 4 of act Aug. 9, 1954. See this section and 1954 Amendment and Effective Date of 1954 Amendment notes set out above. The "Export-Import Bank of Washington" was renamed the "Export-Import Bank of the United States" by Pub. L. 90–267, §1(a), Mar. 13, 1968, 82 Stat. 47.\]
 
 #### United States Trade Representative and Secretary of Commerce as Additional Members of Board of Directors of Export-Import Bank of the United States
 

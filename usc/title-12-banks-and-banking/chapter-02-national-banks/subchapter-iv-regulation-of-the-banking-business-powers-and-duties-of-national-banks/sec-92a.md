@@ -50,7 +50,7 @@ Any national banking association desiring to surrender its right to exercise the
 
 (4) A revocation order shall become effective not earlier than the expiration of thirty days after service of such order upon the association so served (except in the case of a revocation order issued upon consent, which shall become effective at the time specified therein), and shall remain effective and enforceable, except to such extent as it is stayed, modified, terminated, or set aside by action of the Comptroller or a reviewing court.
 
-([Pub. L. 87–722, §1, Sept. 28, 1962, 76 Stat. 668](/statviewer.htm?volume=76&page=668); [Pub. L. 96–221, title VII, §704, Mar. 31, 1980, 94 Stat. 187](/statviewer.htm?volume=94&page=187); [Pub. L. 112–231, §2(b)(1), Dec. 28, 2012, 126 Stat. 1619](/statviewer.htm?volume=126&page=1619).)
+(Pub. L. 87–722, §1, Sept. 28, 1962, 76 Stat. 668; Pub. L. 96–221, title VII, §704, Mar. 31, 1980, 94 Stat. 187; Pub. L. 112–231, §2(b)(1), Dec. 28, 2012, 126 Stat. 1619.)
 
 #### Amendments
 
@@ -62,7 +62,7 @@ Subsec. (j). Pub. L. 112–231, §2(b)(1)(B), struck out "committee of estates o
 
 #### Savings Provision
 
-[Pub. L. 87–722, §2, Sept. 28, 1962, 76 Stat. 669](/statviewer.htm?volume=76&page=669), provided that: "Nothing contained in this Act \[enacting this section, amending sections 581 and 584(a)(2) of Title 26, and repealing section 248(k) of this title\] shall be deemed to affect or curtail the right of any national bank to act in fiduciary capacities under a permit granted before the date of enactment of this Act \[Sept. 28, 1962\] by the Board of Governors of the Federal Reserve System, nor to affect the validity of any transactions entered into at any time by any national bank pursuant to such permit. On and after the date of enactment of this Act the exercise of fiduciary powers by national banks shall be subject to the provisions of this Act and the requirements of regulations issued by the Comptroller of the Currency pursuant to the authority granted by this Act."
+Pub. L. 87–722, §2, Sept. 28, 1962, 76 Stat. 669, provided that: "Nothing contained in this Act \[enacting this section, amending sections 581 and 584(a)(2) of Title 26, and repealing section 248(k) of this title\] shall be deemed to affect or curtail the right of any national bank to act in fiduciary capacities under a permit granted before the date of enactment of this Act \[Sept. 28, 1962\] by the Board of Governors of the Federal Reserve System, nor to affect the validity of any transactions entered into at any time by any national bank pursuant to such permit. On and after the date of enactment of this Act the exercise of fiduciary powers by national banks shall be subject to the provisions of this Act and the requirements of regulations issued by the Comptroller of the Currency pursuant to the authority granted by this Act."
 
 [1 So in original. Probably should be "enumerated".](#92a_1)
 
