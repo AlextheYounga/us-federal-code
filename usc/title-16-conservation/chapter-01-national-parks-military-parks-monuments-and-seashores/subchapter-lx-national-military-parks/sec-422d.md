@@ -4,6 +4,10 @@ If any person shall, except by permission of the Secretary of the Interior, dest
 
 (June 2, 1926, ch. 448, §5, 44 Stat. 686; Ex. Ord. No. 6166, §2, June 10, 1933; Ex. Ord. No. 6228, §1, July 28, 1933.)
 
+  
+
+#### **Executive Documents**
+
 #### Transfer of Functions
 
 Transfer of administrative functions of park, see note set out under section 422a of this title.

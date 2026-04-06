@@ -10,6 +10,8 @@ Sec.
 
         
 
+#### **Editorial Notes**
+
 #### Prior Provisions
 
 A prior chapter 701, consisting of sections 70101 to 70121, related to commercial space launch activities, prior to being transferred and renumbered as chapter 509 of Title 51, National and Commercial Space Programs.
