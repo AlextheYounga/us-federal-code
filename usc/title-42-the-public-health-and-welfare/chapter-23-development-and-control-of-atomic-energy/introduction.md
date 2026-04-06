@@ -232,6 +232,8 @@ Sec.
 
 2155a. Regulations establishing Commission procedures covering grant, suspension, revocation, or amendment of nuclear export licenses or exemptions.
 
+2155b. International nuclear export and innovation activities.
+
 2156\. Criteria governing United States nuclear exports.
 
 2156a. Regulations establishing levels of physical security to protect facilities and material.
@@ -307,6 +309,8 @@ Sec.
 2201\. General duties of Commission.
 
 2201a. Use of firearms by security personnel.
+
+2201b. Commission workforce.
 
 2202\. Contracts.
 

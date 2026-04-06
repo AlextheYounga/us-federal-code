@@ -6,8 +6,6 @@
 
 (2) Such investigations shall be carried out in order to develop new sources of strategic and critical materials, develop substitutes, or conserve domestic sources and reliable sources of supply for such strategic and critical materials.
 
-  
-
 (3) Investigations under paragraph (1) may be carried out on public lands and, with the consent of the owner, on privately owned lands for the purpose of exploring and determining the extent and quality of deposits of such minerals, the most suitable methods of mining and beneficiating such minerals, and the cost at which the minerals or metals may be produced.
 
 #### (b) Development of sources of supplies of agricultural materials; use of agricultural commodities for manufacture of materials
