@@ -34,19 +34,17 @@ Sec.
 
 185\. Financial Management Modernization Executive Committee.
 
-\[186. Repealed.\]
+186\. Defense Business System Management Committee.
 
 187\. Strategic Materials Protection Board.
 
 188\. Interagency Council on the Strategic Capability of the National Laboratories.
 
-189\. Communications Security Review and Advisory Board.
+189\. Communications Security Review and Advisory Board 1
 
         
 
 #### Amendments
-
-**2014**—Pub. L. 113–291, div. A, title IX, §901(l)(2), title X, §1071(f)(3), Dec. 19, 2014, 128 Stat. 3468, 3510, struck out item 186 "Defense Business System Management Committee" and inserted period at end of item 189.
 
 **2013**—Pub. L. 113–66, div. A, title II, §261(b), title X, §1052(a)(2), Dec. 26, 2013, 127 Stat. 725, 861, added items 171a and 189.
 
@@ -79,3 +77,5 @@ Pub. L. 110–181, div. A, title IX, §906(a)(2), Jan. 28, 2008, 122 Stat. 277, 
 Pub. L. 98–36, §2(b), May 27, 1983, 97 Stat. 201, added item 178.
 
 **1976**—Pub. L. 94–361, title VIII, §811(c), July 14, 1976, 90 Stat. 936, added items 176 and 177.
+
+[1 So in original. Probably should be followed by a period.](#CHAPTER7_1)

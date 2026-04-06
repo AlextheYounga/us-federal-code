@@ -1,0 +1,3 @@
+### \[§2679. Repealed. Pub. L. 108–375, div. B, title XXVIII, §2821(c)(2), Oct. 28, 2004, 118 Stat. 2129\]
+
+Section, added Pub. L. 87–651, title I, §112(c), Sept. 7, 1962, 76 Stat. 511; amended Pub. L. 101–189, div. A, title XVI, §1621(a)(9), Nov. 29, 1989, 103 Stat. 1603; Pub. L. 103–337, div. A, title X, §1070(e)(9), Oct. 5, 1994, 108 Stat. 2859, related to use of space and equipment by representatives of veterans' organizations.
