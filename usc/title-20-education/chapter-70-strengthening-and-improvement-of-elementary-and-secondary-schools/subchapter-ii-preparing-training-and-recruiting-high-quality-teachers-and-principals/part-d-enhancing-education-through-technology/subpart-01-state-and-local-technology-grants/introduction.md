@@ -1,1 +1,0 @@
-### subpart 1—state and local technology grants

@@ -42,6 +42,8 @@ Sec.
 
 57521\. Termination of charter during national emergency.
 
+57522\. Books and records, balance sheets, and inspection and auditing.
+
         
 
 #### SUBCHAPTER III—MISCELLANEOUS
@@ -55,6 +57,8 @@ Sec.
         
 
 #### Amendments
+
+**2016**—Pub. L. 114–120, title III, §313(c)(2), Feb. 8, 2016, 130 Stat. 59, added item 57522.
 
 **2008**—Pub. L. 110–181, div. C, title XXXV, §3511(b), Jan. 28, 2008, 122 Stat. 594, added item 57533.
 

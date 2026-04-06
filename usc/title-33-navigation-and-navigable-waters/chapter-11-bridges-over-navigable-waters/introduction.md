@@ -102,7 +102,7 @@ Sec.
 
 535b. Presidential approval; recommendations of Federal officials.
 
-535c. Secretary of Transportation's approval; commencement and completion requirements; extension of time limits.
+535c. Approval of Secretary; commencement and completion requirements; extension of time limits.
 
 535d. Repealed.
 
@@ -112,7 +112,7 @@ Sec.
 
 535g. Federal navigable waters and commerce jurisdiction unaffected.
 
-535h. Report of Secretary of Transportation's approval during fiscal year.
+535h. Repealed.
 
 535i. Reservation of right to alter or repeal.
 

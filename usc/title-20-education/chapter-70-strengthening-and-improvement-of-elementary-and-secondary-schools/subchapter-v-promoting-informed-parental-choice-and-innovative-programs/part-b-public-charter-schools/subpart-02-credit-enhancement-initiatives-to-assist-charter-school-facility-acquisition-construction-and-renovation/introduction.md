@@ -1,1 +1,0 @@
-### subpart 2—credit enhancement initiatives to assist charter school facility acquisition, construction, and renovation
