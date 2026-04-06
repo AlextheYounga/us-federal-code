@@ -86,6 +86,8 @@ Sec.
 
         
 
+#### **Editorial Notes**
+
 #### Codification
 
 This chapter, comprised of sections 1701 to 1780p of this title, relating to settlement of the land claims of certain Indian tribes, was omitted from the Code as being of special and not general application.

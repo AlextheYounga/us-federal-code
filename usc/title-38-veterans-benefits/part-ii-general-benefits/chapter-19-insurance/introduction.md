@@ -176,6 +176,8 @@ Sec.
 
         
 
+#### **Editorial Notes**
+
 #### Amendments
 
 **2005**—Pub. L. 109–13, div. A, title I, §1032(b), May 11, 2005, 119 Stat. 259, added item 1980A.

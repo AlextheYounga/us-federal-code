@@ -4,9 +4,17 @@ The President shall, whenever he may judge it expedient, discontinue any Indian 
 
 (R.S. §2059.)
 
+  
+
+#### **Editorial Notes**
+
 #### Codification
 
 R.S. §2059 derived from act June 30, 1834, ch. 162, §4, 4 Stat. 735.
+
+  
+
+#### **Executive Documents**
 
 #### Delegation of Functions
 

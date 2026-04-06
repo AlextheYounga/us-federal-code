@@ -118,6 +118,8 @@ Sec.
 
         
 
+#### **Statutory Notes and Related Subsidiaries**
+
 #### Bridge Permits
 
 Pub. L. 112–213, title VII, §712(a), Dec. 20, 2012, 126 Stat. 1582, provided that:

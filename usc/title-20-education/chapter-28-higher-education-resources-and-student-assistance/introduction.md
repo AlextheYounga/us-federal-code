@@ -212,6 +212,10 @@ Sec.
 
 1063c. Reporting and audit requirements.
 
+1063d. Strengthening HBCUS through Federal agency plans.
+
+1063e. President's Board of Advisors on HBCUS.
+
         
 
 #### Part C—Endowment Challenge Grants for Institutions Eligible for Assistance Under Part A or Part B

@@ -18,6 +18,8 @@ VI. Acquisition and Disposition of Property 8101
 
         
 
+#### **Editorial Notes**
+
 #### Amendments
 
 **2002**—Pub. L. 107–330, title III, §308(g)(1)(B), Dec. 6, 2002, 116 Stat. 2828, substituted "5100" for "5101" in item for part IV.
@@ -1408,6 +1410,10 @@ Table II
 | 5227                        | 8527                            |
 | 5228                        | 8528                            |
 
+  
+
+#### **Statutory Notes and Related Subsidiaries**
+
 #### Enacting Clause
 
 Pub. L. 85–857, §1, Sept. 2, 1958, 72 Stat. 1105, provided in part: "That the laws relating to veterans' benefits are revised, codified, and enacted as title 38, United States Code, 'Veterans' Benefits' ".
@@ -1617,6 +1623,8 @@ Chap. Sec.
 85\. Disposition of Deceased Veterans' Personal Property 8501
 
         
+
+#### **Editorial Notes**
 
 #### Amendments
 
