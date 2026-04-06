@@ -34,8 +34,6 @@ Sec.
 
 525\. Disobedience to subpenas. 1
 
-        
-
 526\. General criminal penalty when specific penalty not provided.
 
         

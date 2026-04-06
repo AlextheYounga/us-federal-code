@@ -206,9 +206,9 @@ Sec.
 
 2657\. Annual report and certification on status of security of atomic energy defense facilities.
 
-2658\. Repealed.
+2658, 2659. Repealed.
 
-2659\. Report on security vulnerabilities of national security laboratory computers.
+2660\. Design and use of prototypes of nuclear weapons for intelligence purposes.
 
         
 
