@@ -24,7 +24,7 @@ Sec.
 
 5821\. Integrated management systems.
 
-5822\. Integrated Farm Management Program Option.
+5822\. Repealed.
 
         
 
@@ -60,6 +60,8 @@ Sec.
 
 5855\. Funding.
 
+5856\. Improvements to United States Drought Monitor.
+
         
 
 #### SUBCHAPTER IV—RESEARCH REGARDING PRODUCTION, PREPARATION, PROCESSING, HANDLING, AND STORAGE OF AGRICULTURAL PRODUCTS
@@ -86,7 +88,7 @@ Sec.
 
 5921a to 5923. Repealed.
 
-5924\. Agricultural Genome Initiative.
+5924\. Agricultural Genome to Phenome Initiative.
 
 5925\. High-priority research and extension initiatives.
 
@@ -101,6 +103,8 @@ Sec.
 5925e. Repealed.
 
 5925f. Farm business management.
+
+5925g. Urban, indoor, and other emerging agricultural production research, education, and extension initiative.
 
 5926\. Centers of excellence.
 
