@@ -6,17 +6,11 @@ Sec.
 
         
 
-252\. 2 Use of militia and armed forces to enforce Federal authority.
+252\. 1 Use of militia and armed forces to enforce Federal authority.
 
-        
+253\. 1 Interference with State and Federal law.
 
-253\. 3 Interference with State and Federal law.
-
-        
-
-254\. 4 Proclamation to disperse.
-
-        
+254\. 1 Proclamation to disperse.
 
 255\. Guam and Virgin Islands included as "State".
 
@@ -36,10 +30,4 @@ A prior chapter 13, consisting of sections 311 and 312, was renumbered chapter 1
 
 **1980**—Pub. L. 96–513, title V, §511(11)(C), Dec. 12, 1980, 94 Stat. 2921, added item 335.
 
-[1 Another item 251 appears in the analysis for chapter 9A of this title.](#CHAPTER13_1)
-
-[2 Another item 252 appears in the analysis for chapter 9A of this title.](#CHAPTER13_2)
-
-[3 Another item 253 appears in the analysis for chapter 9A of this title.](#CHAPTER13_3)
-
-[4 Another item 254 appears in the analysis for chapter 9A of this title.](#CHAPTER13_4)
+[1 Items numbered 251 to 254 also appear in the analysis for chapter 9A of this title.](#CHAPTER13_1)

@@ -24,6 +24,8 @@ Sec.
 
 40916\. Illegal immigrant gun purchase notification.
 
+40917\. Implementation plan.
+
         
 
 #### SUBCHAPTER II—FOCUSING FEDERAL ASSISTANCE ON THE IMPROVEMENT OF RELEVANT RECORDS

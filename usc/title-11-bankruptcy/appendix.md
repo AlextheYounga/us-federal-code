@@ -3390,7 +3390,7 @@ Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days afte
 
 (A) the notice was insufficient under the circumstances to give the creditor a reasonable time to file a proof of claim because the debtor failed to timely file the list of creditors' names and addresses required by Rule 1007(a); or
 
-(B) the notice was insufficient under the circumstances to give the creditor a reasonable time to file a proof of claim, and the notice was mailed to the creditor at a foreign address. 
+(B) the notice was insufficient under the circumstances to give the creditor a reasonable time to file a proof of claim, and the notice was mailed to the creditor at a foreign address.
 
   
 
@@ -8991,7 +8991,7 @@ This rule is amended and reorganized into separate subdivisions.
 
 Subdivision (a) addresses permissible modifications to Official Forms. It requires that an Official Form be used without alteration, except when another rule, the Official Form itself, or the national instructions applicable to an Official Form permit alteration. The former language generally permitting alterations has been deleted, but the rule preserves the ability to make minor modifications to an Official Form that do not affect the wording or the order in which information is presented on a form. Permissible changes include those that merely expand or delete the space for responses as appropriate or delete inapplicable items so long as the filer indicates that no response is intended. For example, when more space will be necessary to completely answer a question on an Official Form without an attachment, the answer space may be expanded. Similarly, varying the width or orientation of columnar data on a form for clarity of presentation would be a permissible minor change. On the other hand, many Official Forms indicate on their face that certain changes are not appropriate. Any changes that contravene the directions on an Official Form would be prohibited by this rule.
 
-Ihe creation of subdivision (b) and subdivision (c) is stylistic.
+The creation of subdivision (b) and subdivision (c) is stylistic.
 
 ### Rule 9010. Representation and Appearances; Powers of Attorney
 

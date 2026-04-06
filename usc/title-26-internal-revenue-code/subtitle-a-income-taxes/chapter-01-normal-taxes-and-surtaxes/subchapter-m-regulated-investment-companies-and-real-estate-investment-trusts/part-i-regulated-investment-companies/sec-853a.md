@@ -56,7 +56,7 @@ The term "tax credit bond" means—
 
 (ii) a build America bond (as defined in section 54AA(d)) [1](#853A_1_target) other than a qualified bond described in section 54AA(g),[1](#853A_1_target) and
 
-(iii) any bond for which a credit is allowable under subpart H of part IV of subchapter A of this chapter.
+(iii) any bond for which a credit is allowable under subpart H of part IV of subchapter A of this chapter.[1](#853A_1_target)
 
 #### (B) Applicable date
 
@@ -82,7 +82,7 @@ Sections 54, 54A, and 54AA, referred to in subsecs. (a) and (e)(1), were repeale
 
 Section 1397E, referred to in subsec. (a), was repealed by Pub. L. 115–97, title I, §13404(c)(1), Dec. 22, 2017, 131 Stat. 2138.
 
-Subpart H of part IV of subchapter A of this chapter, referred to in subsec. (e)(1)(A)(iii), is subpart H (§54) of part IV of subchapter A of chapter 1 of this title, which was repealed by Pub. L. 115–97, title I, §13404(c)(1), Dec. 22, 2017, 131 Stat. 2138.
+Subpart H of part IV of subchapter A of this chapter, referred to in subsec. (e)(1)(A)(iii), is subpart H (§54) of part IV of subchapter A of chapter 1 of this title, which was repealed by Pub. L. 115–97, title I, §13404(a), Dec. 22, 2017, 131 Stat. 2138.
 
 #### Amendments
 

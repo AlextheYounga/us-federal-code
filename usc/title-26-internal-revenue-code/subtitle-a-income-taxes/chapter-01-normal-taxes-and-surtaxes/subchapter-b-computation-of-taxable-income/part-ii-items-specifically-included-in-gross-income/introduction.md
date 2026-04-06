@@ -26,13 +26,11 @@ Sec.
 
 \[81. Repealed.\]
 
-82\. Reimbursement of moving expenses. 2
+82\. Reimbursement of moving expenses.
 
 83\. Property transferred in connection with performance of services.
 
-84\. Transfer of appreciated property to political organizations. 2
-
-        
+84\. Transfer of appreciated property to political organizations.
 
 85\. Unemployment compensation.
 
@@ -91,5 +89,3 @@ Pub. L. 89–384, §1(b)(2), Apr. 8, 1966, 80 Stat. 102, added item 80.
 **1962**—Pub. L. 87–834, §9(d)(1), Oct. 16, 1962, 76 Stat. 1001, added item 78.
 
 [1 Section catchline amended by Pub. L. 115–79 without corresponding amendment of analysis.](#I_1)
-
-[2 So in original. Does not conform to section catchline.](#I_2)

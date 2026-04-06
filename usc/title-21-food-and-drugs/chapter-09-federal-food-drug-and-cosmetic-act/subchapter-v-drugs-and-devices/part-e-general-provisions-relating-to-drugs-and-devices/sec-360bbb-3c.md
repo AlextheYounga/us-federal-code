@@ -30,6 +30,8 @@ In order to facilitate enhanced collaboration and communication with respect to 
 
 (B) the Director of the Center for Biologics Evaluation and Research shall meet quarterly with the Department of Defense to discuss the development status of regenerative medicine advanced therapy, blood, and vaccine medical products and projects that are the highest priorities to the Department of Defense (which may include freeze dried plasma products and platelet alternatives),
 
+  
+
 unless the Secretary of Defense determines that any such meetings are not necessary.
 
 #### (4) Medical product

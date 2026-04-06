@@ -14,9 +14,7 @@ Sec.
 
 5846\. Other laws applicable.
 
-5847\. Effect on other law. 1
-
-        
+5847\. Effect on other laws.
 
 5848\. Restrictive use of information.
 
@@ -24,4 +22,6 @@ Sec.
 
         
 
-[1 So in original. Does not conform to section catchline.](#I_1)
+#### Amendments
+
+**2018**—Pub. L. 115–141, div. U, title IV, §401(a)(251), Mar. 23, 2018, 132 Stat. 1196, substituted "Effect on other laws" for "Effect on other law" in item 5847.
