@@ -22,6 +22,8 @@ Sec.
 
         
 
+#### **Editorial Notes**
+
 #### Amendments
 
 **1994**—Pub. L. 103–322, title II, §20414(a)(2), title XXXIII, §330010(3), Sept. 13, 1994, 108 Stat. 1830, 2143, transferred analysis of this subchapter to follow heading for this subchapter and added item 3608.

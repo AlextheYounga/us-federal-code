@@ -4,6 +4,10 @@ When a President of the Senate has not taken the oath of office, it shall be adm
 
 (R.S. §29.)
 
+  
+
+#### **Editorial Notes**
+
 #### Codification
 
 R.S. §29 derived from act June 1, 1789, ch. 1, §2, 1 Stat. 23.

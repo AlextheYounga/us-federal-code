@@ -24,6 +24,8 @@ Sec.
 
         
 
+#### **Statutory Notes and Related Subsidiaries**
+
 #### Detection and Avoidance of Counterfeit Parts
 
 Pub. L. 115–10, title VIII, §823, Mar. 21, 2017, 131 Stat. 62, provided that:

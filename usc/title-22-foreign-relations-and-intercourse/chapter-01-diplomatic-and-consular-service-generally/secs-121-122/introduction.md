@@ -4,6 +4,10 @@ Section 121, R.S. §1740; acts Apr. 5, 1906, ch. 1366, §3, 34 Stat. 100; Feb. 5
 
 Section 122, act June 11, 1874, ch. 275, §4, 18 Stat. 70, related to fixing of travel time allowances.
 
+  
+
+#### **Statutory Notes and Related Subsidiaries**
+
 #### Effective Date of Repeal
 
 Repeal effective three months after Aug. 13, 1946, see act Aug. 13, 1946, ch. 957, title XI, §1141, 60 Stat. 1040.

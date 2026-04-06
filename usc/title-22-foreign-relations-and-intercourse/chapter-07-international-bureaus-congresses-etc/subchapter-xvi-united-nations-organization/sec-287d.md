@@ -4,6 +4,10 @@ The President is authorized to negotiate a special agreement or agreements with 
 
 (Dec. 20, 1945, ch. 583, §6, 59 Stat. 621; Oct. 10, 1949, ch. 660, §4, 63 Stat. 735.)
 
+  
+
+#### **Editorial Notes**
+
 #### References in Text
 
 Article 43 of said Charter and article 42 of said Charter, referred to in text, are articles of the United Nations Charter.

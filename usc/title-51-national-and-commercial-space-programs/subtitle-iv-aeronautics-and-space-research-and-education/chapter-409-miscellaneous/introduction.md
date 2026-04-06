@@ -22,6 +22,8 @@ Sec.
 
         
 
+#### **Statutory Notes and Related Subsidiaries**
+
 #### NASA Internship and Fellowship Opportunities
 
 Pub. L. 115–303, §3, Dec. 11, 2018, 132 Stat. 4399, provided that: "Not later than October 1, 2018, the Administrator of the National Aeronautics and Space Administration (in this section referred to as 'NASA') shall institute a process to encourage the recruitment of qualified candidates who are women or individuals who are underrepresented in the fields of science, technology, engineering, and mathematics (STEM) and computer science for internships and fellowships at NASA with relevance to the aerospace sector and related fields."

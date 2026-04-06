@@ -174,6 +174,8 @@ Chap. Sec.
 
         
 
+#### **Editorial Notes**
+
 #### Amendments
 
 **2020**—Pub. L. 116–152, §2(b), Aug. 4, 2020, 134 Stat. 685, which directed amendment of the analysis for subtitle II of this title by adding item for chapter 2004, was executed to this analysis to reflect the probable intent of Congress.
@@ -680,6 +682,10 @@ Disposition Table
 | 16 U.S.C. 5982                                                             | Previously repealed.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
 | 16 U.S.C. 5991 through 5995                                                | Previously repealed.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
 | 16 U.S.C. 6011                                                             | Repealed as obsolete. Required the Secretary to submit to the Committees on Energy and Natural Resources and Appropriations of the Senate and the Committees on Resources and Appropriations of the House of Representatives, not later than one year after November 13, 1998, a report on law enforcement programs of the National Park Service.                                                                                                                                                                                                                                                                                                                            |
+
+  
+
+#### **Statutory Notes and Related Subsidiaries**
 
 #### Enactment of Title
 

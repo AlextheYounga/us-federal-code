@@ -14,6 +14,8 @@ Sec.
 
         
 
+#### **Editorial Notes**
+
 #### Amendments
 
 **2004**—Pub. L. 108–458, title VI, §6803(c)(1), Dec. 17, 2004, 118 Stat. 3768, added item 832.
@@ -27,6 +29,10 @@ Sec.
 Pub. L. 86–449, title II, §204, May 6, 1960, 74 Stat. 88, added item 837.
 
 **1954**—Act June 4, 1954, ch. 261, §2, 68 Stat. 171, added item 836.
+
+  
+
+#### **Statutory Notes and Related Subsidiaries**
 
 #### Hazardous Substances
 

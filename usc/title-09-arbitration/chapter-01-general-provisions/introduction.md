@@ -36,6 +36,8 @@ Sec.
 
         
 
+#### **Editorial Notes**
+
 #### Amendments
 
 **1990**—Pub. L. 101–650, title III, §325(a)(2), Dec. 1, 1990, 104 Stat. 5120, added item 15 "Inapplicability of the Act of State doctrine" and redesignated former item 15 "Appeals" as 16.

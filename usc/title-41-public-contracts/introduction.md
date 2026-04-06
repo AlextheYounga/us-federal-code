@@ -339,6 +339,10 @@ Disposition Table
 | 701 to 705                                                                                       | 8102 to 8106                                                          |
 | 706, 707                                                                                         | 8101                                                                  |
 
+  
+
+#### **Statutory Notes and Related Subsidiaries**
+
 #### Enactment of Title 41, United States Code
 
 Pub. L. 111–350, §3, Jan. 4, 2011, 124 Stat. 3677, provided that: "Certain general and permanent laws of the United States, related to public contracts, are revised, codified, and enacted as title 41, United States Code, 'Public Contracts', as follows:"

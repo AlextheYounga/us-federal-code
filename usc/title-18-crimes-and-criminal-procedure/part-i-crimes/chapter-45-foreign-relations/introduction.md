@@ -42,6 +42,8 @@ Sec.
 
         
 
+#### **Editorial Notes**
+
 #### Amendments
 
 **1996**—Pub. L. 104–132, title VII, §704(b), Apr. 24, 1996, 110 Stat. 1295, substituted "Conspiracy to kill, kidnap, maim, or injure persons or damage property in a foreign country" for "Conspiracy to injure property of foreign government" in item 956.

@@ -6,6 +6,8 @@ Sec.
 
         
 
+#### **Editorial Notes**
+
 #### Amendments
 
 **1994**—Pub. L. 103–322, title XXXIII, §330021(1), Sept. 13, 1994, 108 Stat. 2150, which directed the amendment of this title "by striking 'kidnaping' each place it appears and inserting 'kidnapping' ", was executed by substituting "KIDNAPPING" for "KIDNAPING" in chapter heading, to reflect the probable intent of Congress.
