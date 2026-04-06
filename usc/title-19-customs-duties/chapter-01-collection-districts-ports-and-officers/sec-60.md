@@ -4,10 +4,6 @@ Every officer of the customs who demands or receives any other or greater fee, c
 
 (R.S. §2636.)
 
-  
-
-#### **Editorial Notes**
-
 #### Codification
 
 R.S. §2636 derived from act Mar. 2, 1799, ch. 22, §73, 1 Stat. 680.

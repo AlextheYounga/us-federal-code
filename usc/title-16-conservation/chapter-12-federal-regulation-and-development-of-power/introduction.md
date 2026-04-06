@@ -148,8 +148,6 @@ Sec.
 
 824s. Transmission infrastructure investment.
 
-824s–1. Incentives for cybersecurity investments.
-
 824t. Electricity market transparency rules.
 
 824u. Prohibition on filing false information.
@@ -239,8 +237,6 @@ Sec.
 828c. Applicability of this subchapter.
 
         
-
-#### **Statutory Notes and Related Subsidiaries**
 
 #### Findings
 

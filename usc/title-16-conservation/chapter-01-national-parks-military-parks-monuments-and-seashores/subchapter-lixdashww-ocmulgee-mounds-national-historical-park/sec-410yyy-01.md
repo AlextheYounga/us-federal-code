@@ -4,10 +4,6 @@ The Secretary of the Interior is authorized to accept donations of land, interes
 
 (June 14, 1934, ch. 519, §2, 48 Stat. 959.)
 
-  
-
-#### **Editorial Notes**
-
 #### Codification
 
 Section was formerly classified to section 447b of this title.

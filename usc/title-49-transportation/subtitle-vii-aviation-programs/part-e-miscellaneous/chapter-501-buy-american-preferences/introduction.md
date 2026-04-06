@@ -14,8 +14,6 @@ Sec.
 
         
 
-#### **Editorial Notes**
-
 #### Amendments
 
 **1996**—Pub. L. 104–287, §5(88)(B), (C), Oct. 11, 1996, 110 Stat. 3398, redesignated chapter 491 of this title as this chapter and items 49101 to 49105 as 50101 to 50105, respectively.

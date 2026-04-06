@@ -168,10 +168,6 @@ Sec.
 
 6966b. Use of granular mine tailings.
 
-6966c. Best practices for battery recycling and labeling guidelines.
-
-6966d. Consumer recycling education and outreach grant program; Federal procurement.
-
         
 
 #### SUBCHAPTER VII—MISCELLANEOUS PROVISIONS

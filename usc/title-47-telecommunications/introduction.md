@@ -32,6 +32,4 @@ Chap. Sec.
 
 15\. Secure and Trusted Communications Networks 1601
 
-16\. Broadband Access 1701
-
         

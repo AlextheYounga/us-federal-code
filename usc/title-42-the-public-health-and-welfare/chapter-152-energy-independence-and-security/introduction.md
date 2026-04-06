@@ -108,7 +108,7 @@ Sec.
 
 #### Part D—Industrial Energy Efficiency
 
-17111\. Future of industry program.
+17111\. Energy-intensive industries program.
 
 17112\. Energy efficiency for data center buildings.
 
@@ -119,8 +119,6 @@ Sec.
 17115\. Technical assistance program to implement industrial emissions reduction.
 
 17115a. Development of national smart manufacturing plan.
-
-17116\. Industrial research and assessment centers.
 
         
 

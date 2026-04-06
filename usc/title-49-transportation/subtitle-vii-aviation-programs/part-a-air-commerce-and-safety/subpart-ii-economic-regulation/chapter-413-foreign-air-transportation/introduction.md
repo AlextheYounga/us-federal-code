@@ -30,8 +30,6 @@ Sec.
 
         
 
-#### **Editorial Notes**
-
 #### Amendments
 
 **1997**—Pub. L. 105–148, §1(b), Dec. 16, 1997, 111 Stat. 2683, added item 41313.

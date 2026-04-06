@@ -4,10 +4,6 @@ Any order of the Secretary under this chapter other than an order for the paymen
 
 (June 10, 1930, ch. 436, §10, 46 Stat. 535.)
 
-  
-
-#### **Editorial Notes**
-
 #### Codification
 
 Section was formerly classified to section 560 of this title.

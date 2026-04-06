@@ -4,10 +4,6 @@ The Yellowstone National Park shall be under the exclusive control of the Secret
 
 (R.S. §2475.)
 
-  
-
-#### **Editorial Notes**
-
 #### Codification
 
 R.S. §2475 derived from act Mar. 1, 1872, ch. 24, §2, 17 Stat. 33.

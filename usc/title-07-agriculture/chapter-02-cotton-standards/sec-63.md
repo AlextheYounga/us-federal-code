@@ -4,10 +4,6 @@ When construing and enforcing the provisions of this chapter, the act, omission,
 
 (Mar. 4, 1923, ch. 288, §11, 42 Stat. 1519.)
 
-  
-
-#### **Editorial Notes**
-
 #### Codification
 
 Section is composed of the second sentence of section 11 of act Mar. 4, 1923. The first sentence of section 11 is contained in section 62 of this title.

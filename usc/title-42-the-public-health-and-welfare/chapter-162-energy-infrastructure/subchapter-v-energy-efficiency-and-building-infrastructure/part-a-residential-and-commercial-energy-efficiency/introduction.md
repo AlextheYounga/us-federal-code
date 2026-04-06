@@ -1,1 +1,0 @@
-### Part A—Residential and Commercial Energy Efficiency

@@ -204,7 +204,7 @@ Sec.
 
 #### Part B—State Energy Conservation Plans
 
-6321\. Findings; purpose; definitions.
+6321\. Congressional findings and declaration of purpose.
 
 6322\. State energy conservation plans.
 
@@ -216,7 +216,7 @@ Sec.
 
 6325\. General provisions.
 
-6326\. State energy security plans.
+6326\. Definitions.
 
 6327\. Repealed.
 
@@ -234,9 +234,7 @@ Sec.
 
 6345\. CHP Technical Assistance Partnership Program.
 
-6346\. Sustainable manufacturing initiative.
-
-6347\. Omitted.
+6346, 6347. Repealed or Omitted.
 
 6348\. Energy efficiency in industrial facilities.
 

@@ -1,9 +1,5 @@
 ### §§751 to 760h. Omitted
 
-  
-
-#### **Editorial Notes**
-
 #### Codification
 
 Sections 751 to 760h were omitted pursuant to section 760g of this title.

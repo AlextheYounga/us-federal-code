@@ -110,8 +110,6 @@ Sec.
 
 148\. Appropriations for supplies; transfer to Indian Service supply fund; expenditure.
 
-149\. Indian Water Rights Settlement Completion Fund.
-
         
 
 #### SUBCHAPTER III—DEPOSIT, CARE, AND INVESTMENT OF INDIAN MONEYS
