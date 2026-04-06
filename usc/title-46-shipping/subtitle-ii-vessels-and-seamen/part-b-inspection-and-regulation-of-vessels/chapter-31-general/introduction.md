@@ -14,6 +14,8 @@ Sec.
 
         
 
+#### **Editorial Notes**
+
 #### Amendments
 
 **2018**—Pub. L. 115–282, title IV, §402(a)(2), Dec. 4, 2018, 132 Stat. 4264, added item 3105.

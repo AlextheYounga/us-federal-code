@@ -44,6 +44,8 @@ Sec.
 
         
 
+#### **Editorial Notes**
+
 #### Amendments
 
 **1999**—Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4732(b)(15)(A)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–584, which directed the amendment of item 1744 by substituting "United States Patent and Trademark Office" for "Patent Office", was executed by making the substitution for "patent office" to reflect the probable intent of Congress.

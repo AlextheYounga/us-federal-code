@@ -24,6 +24,8 @@ Sec.
 
         
 
+#### **Editorial Notes**
+
 #### Amendments
 
 **2000**—Pub. L. 106–518, title III, §309(b), Nov. 13, 2000, 114 Stat. 2420, substituted "Personnel application and insurance programs" for "Insurance and annuities programs" in item 179.

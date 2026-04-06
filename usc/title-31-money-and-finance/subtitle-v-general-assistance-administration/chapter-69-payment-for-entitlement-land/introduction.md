@@ -18,6 +18,8 @@ Sec.
 
         
 
+#### **Editorial Notes**
+
 #### Amendments
 
 **2008**—Pub. L. 110–343, div. C, title VI, §601(c)(2), Oct. 3, 2008, 122 Stat. 3911, added item 6906 and struck out former item 6906 "Authorization of appropriations".

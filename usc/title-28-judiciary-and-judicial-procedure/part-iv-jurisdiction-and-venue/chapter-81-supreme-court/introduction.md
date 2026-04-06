@@ -22,6 +22,8 @@ Sec.
 
         
 
+#### **Editorial Notes**
+
 #### Amendments
 
 **2012**—Pub. L. 112–226, §2(b), Dec. 28, 2012, 126 Stat. 1606, added item 1260.
@@ -35,6 +37,10 @@ Sec.
 **1982**—Pub. L. 97–164, title I, §123, Apr. 2, 1982, 96 Stat. 36, struck out item 1255 "Court of Claims; certiorari; certified questions" and item 1256 "Court of Customs and Patent Appeals; certiorari".
 
 **1961**—Pub. L. 87–189, §2, Aug. 30, 1961, 75 Stat. 417, added item 1258.
+
+  
+
+#### **Statutory Notes and Related Subsidiaries**
 
 #### Definitions of Courts and Judges
 

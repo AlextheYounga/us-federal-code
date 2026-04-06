@@ -18,6 +18,8 @@ Sec.
 
         
 
+#### **Editorial Notes**
+
 #### Amendments
 
 **2008**—Pub. L. 110–402, §1(b)(3)(B), Oct. 13, 2008, 122 Stat. 4254, added item 677 and struck out former item 677 "Administrative Assistant to the Chief Justice".
