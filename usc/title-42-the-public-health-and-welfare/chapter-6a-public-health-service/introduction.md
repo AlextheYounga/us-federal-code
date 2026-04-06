@@ -2226,19 +2226,23 @@ Sec.
 
 300b–8. Improved newborn and child screening for heritable disorders.
 
-300b–9. Evaluating the effectiveness of newborn and child screening programs.
+300b–9. Evaluating the effectiveness of newborn and child screening and followup programs.
 
 300b–10. Advisory Committee on Heritable Disorders in Newborns and Children.
 
 300b–11. Clearinghouse of newborn screening information.
 
-300b–12. Laboratory quality.
+300b–12. Laboratory quality and surveillance.
 
 300b–13. Interagency Coordinating Committee on Newborn and Child Screening.
 
 300b–14. National contingency plan for newborn screening.
 
 300b–15. Hunter Kelly Research Program.
+
+300b–16. Authorization of appropriations for newborn screening programs and activities.
+
+300b–17. Report by Secretary.
 
         
 
@@ -2247,6 +2251,8 @@ Sec.
 300c–11. Repealed.
 
 300c–12. Sudden infant death syndrome research.
+
+300c–13. Continuing activities related to stillbirth, sudden unexpected infant death and sudden unexplained death in childhood.
 
         
 
