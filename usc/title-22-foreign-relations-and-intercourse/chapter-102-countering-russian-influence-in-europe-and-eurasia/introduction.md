@@ -63,3 +63,15 @@ Sec.
 9548\. Appropriate congressional committees defined.
 
         
+
+#### SUBCHAPTER III—EUROPEAN ENERGY SECURITY AND DIVERSIFICATION
+
+9561\. Definitions.
+
+9562\. Statement of policy.
+
+9563\. Prioritization of efforts and assistance for energy infrastructure projects in Europe and Eurasia.
+
+9564\. Progress reports.
+
+        

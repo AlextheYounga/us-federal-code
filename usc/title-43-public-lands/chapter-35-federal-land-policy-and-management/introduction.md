@@ -138,7 +138,7 @@ Sec.
 
 1771\. Coordination of applications.
 
-1772\. Vegetation managment, facility inspection, and operation and maintenance relating to electric transmission and distribution facility rights of way.
+1772\. Vegetation management, facility inspection, and operation and maintenance relating to electric transmission and distribution facility rights of way.
 
         
 

@@ -24,4 +24,6 @@ Sec.
 
 9411\. Presidential waiver authority.
 
+9412\. Report and annual briefing on Iranian expenditures supporting foreign military and terrorist activities.
+
         
