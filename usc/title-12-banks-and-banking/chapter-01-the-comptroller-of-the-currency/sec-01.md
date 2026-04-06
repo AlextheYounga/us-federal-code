@@ -14,17 +14,17 @@ The chief officer of the Office of the Comptroller of the Currency shall be know
 
 The Comptroller of the Currency shall have the same authority with respect to functions transferred to the Comptroller of the Currency under the Enhancing Financial Institution Safety and Soundness Act of 2010 as was vested in the Director of the Office of Thrift Supervision on the transfer date, as defined in section 311 of that Act \[12 U.S.C. 5411\].
 
-(R.S. §324; Dec. 23, 1913, ch. 6, §10 (par.), 38 Stat. 261; June 3, 1922, ch. 205, 42 Stat. 621; Aug. 23, 1935, ch. 614, title II, §203(a), 49 Stat. 704; Pub. L. 89–427, §1, May 20, 1966, 80 Stat. 161; Pub. L. 103–325, title III, §331(b)(2), Sept. 23, 1994, 108 Stat. 2232; Pub. L. 111–203, title III, §314(a), July 21, 2010, 124 Stat. 1523.)
+([R.S. §324](/statviewer.htm?volume=rs&page=54); [Dec. 23, 1913, ch. 6, §10 (par.), 38 Stat. 261](/statviewer.htm?volume=38&page=261); [June 3, 1922, ch. 205, 42 Stat. 621](/statviewer.htm?volume=42&page=621); [Aug. 23, 1935, ch. 614, title II, §203(a), 49 Stat. 704](/statviewer.htm?volume=49&page=704); [Pub. L. 89–427, §1, May 20, 1966, 80 Stat. 161](/statviewer.htm?volume=80&page=161); [Pub. L. 103–325, title III, §331(b)(2), Sept. 23, 1994, 108 Stat. 2232](/statviewer.htm?volume=108&page=2232); [Pub. L. 111–203, title III, §314(a), July 21, 2010, 124 Stat. 1523](/statviewer.htm?volume=124&page=1523).)
 
 #### References in Text
 
-The Enhancing Financial Institution Safety and Soundness Act of 2010, referred to in subsec. (b)(2), is Pub. L. 111–203, title III, July 21, 2010, 124 Stat. 1520. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
+The Enhancing Financial Institution Safety and Soundness Act of 2010, referred to in subsec. (b)(2), is [Pub. L. 111–203, title III, July 21, 2010, 124 Stat. 1520](/statviewer.htm?volume=124&page=1520). For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
 
 #### Codification
 
-R.S. §324 derived from act June 3, 1864, ch. 106, §1, 13 Stat. 99, which was the National Bank Act. See section 38 of this title.
+[R.S. §324](/statviewer.htm?volume=rs&page=54) derived from act [June 3, 1864, ch. 106, §1, 13 Stat. 99](/statviewer.htm?volume=13&page=99), which was the National Bank Act. See section 38 of this title.
 
-Section is comprised of R.S. §324, as amended by the eighth paragraph of act Dec. 23, 1913, §10.
+Section is comprised of [R.S. §324](/statviewer.htm?volume=rs&page=54), as amended by the eighth paragraph of act Dec. 23, 1913, §10.
 
 #### Amendments
 
@@ -36,7 +36,7 @@ Section is comprised of R.S. §324, as amended by the eighth paragraph of act De
 
 #### Effective Date of 2010 Amendment
 
-Pub. L. 111–203, title III, §314(d), July 21, 2010, 124 Stat. 1524, provided that: "This section \[enacting section 4b of this title and amending this section and section 11 of this title\], and the amendments made by this section, shall take effect on the transfer date."
+[Pub. L. 111–203, title III, §314(d), July 21, 2010, 124 Stat. 1524](/statviewer.htm?volume=124&page=1524), provided that: "This section \[enacting section 4b of this title and amending this section and section 11 of this title\], and the amendments made by this section, shall take effect on the transfer date."
 
 \[For definition of "transfer date" as used in section 314(d) of Pub. L. 111–203, set out above, see section 5301 of this title.\]
 

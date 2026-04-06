@@ -234,15 +234,15 @@ For purposes of this section and section 371c–1 of this title—
 
 (4) Amounts of covered transactions.—The Board may issue such regulations or interpretations as the Board determines are necessary or appropriate with respect to the manner in which a netting agreement may be taken into account in determining the amount of a covered transaction between a member bank or a subsidiary and an affiliate, including the extent to which netting agreements between a member bank or a subsidiary and an affiliate may be taken into account in determining whether a covered transaction is fully secured for purposes of subsection (d)(4). An interpretation under this paragraph with respect to a specific member bank, subsidiary, or affiliate shall be issued jointly with the appropriate Federal banking agency for such member bank, subsidiary, or affiliate.
 
-(Dec. 23, 1913, ch. 6, §23A, as added June 16, 1933, ch. 89, §13, 48 Stat. 183; amended Aug. 23, 1935, ch. 614, title III, §327, 49 Stat. 717; June 30, 1954, ch. 434, §1, 68 Stat. 358; Pub. L. 86–230, §1(b), Sept. 8, 1959, 73 Stat. 457; Pub. L. 89–485, §§12(a), 13(h), July 1, 1966, 80 Stat. 241, 243; Pub. L. 97–320, title IV, §410(b), Oct. 15, 1982, 96 Stat. 1515; Pub. L. 97–457, §22, Jan. 12, 1983, 96 Stat. 2509; Pub. L. 106–102, title I, §121(b), Nov. 12, 1999, 113 Stat. 1378; Pub. L. 111–203, title VI, §§608(a), 609(a), July 21, 2010, 124 Stat. 1608, 1611.)
+(Dec. 23, 1913, ch. 6, §23A, as added [June 16, 1933, ch. 89, §13, 48 Stat. 183](/statviewer.htm?volume=48&page=183); amended [Aug. 23, 1935, ch. 614, title III, §327, 49 Stat. 717](/statviewer.htm?volume=49&page=717); [June 30, 1954, ch. 434, §1, 68 Stat. 358](/statviewer.htm?volume=68&page=358); [Pub. L. 86–230, §1(b), Sept. 8, 1959, 73 Stat. 457](/statviewer.htm?volume=73&page=457); [Pub. L. 89–485, §§12(a), 13(h), July 1, 1966, 80 Stat. 241](/statviewer.htm?volume=80&page=241), [243](/statviewer.htm?volume=80&page=243); [Pub. L. 97–320, title IV, §410(b), Oct. 15, 1982, 96 Stat. 1515](/statviewer.htm?volume=96&page=1515); [Pub. L. 97–457, §22, Jan. 12, 1983, 96 Stat. 2509](/statviewer.htm?volume=96&page=2509); [Pub. L. 106–102, title I, §121(b), Nov. 12, 1999, 113 Stat. 1378](/statviewer.htm?volume=113&page=1378); [Pub. L. 111–203, title VI, §§608(a), 609(a), July 21, 2010, 124 Stat. 1608](/statviewer.htm?volume=124&page=1608), [1611](/statviewer.htm?volume=124&page=1611).)
 
 #### References in Text
 
 The effective date of this Act, referred to in subsec. (b)(2)(E), probably means the effective date as provided by Pub. L. 97–320, which completely revised this section. Section 410(c) of Pub. L. 97–320 set out as an Effective Date of 1982 Amendment note below, provided that this section shall apply to any transaction entered into after Oct. 15, 1982 with certain exceptions.
 
-The Gramm-Leach-Bliley Act, referred to in subsecs. (b)(11) and (e)(4)(B), is Pub. L. 106–102, Nov. 12, 1999, 113 Stat. 1338. Section 122 of the Act is set out as a note under section 1843 of this title. For complete classification of this Act to the Code, see Short Title of 1999 Amendment note set out under section 1811 of this title and Tables.
+The Gramm-Leach-Bliley Act, referred to in subsecs. (b)(11) and (e)(4)(B), is [Pub. L. 106–102, Nov. 12, 1999, 113 Stat. 1338](/statviewer.htm?volume=113&page=1338). Section 122 of the Act is set out as a note under section 1843 of this title. For complete classification of this Act to the Code, see Short Title of 1999 Amendment note set out under section 1811 of this title and Tables.
 
-This chapter, referred to in subsec. (e)(4)(B), was in the original "this Act", meaning act Dec. 23, 1913, ch. 6, 38 Stat. 251, as amended, known as the Federal Reserve Act. For complete classification of this act to the Code, see References in Text note set out under section 226 of this title and Tables.
+This chapter, referred to in subsec. (e)(4)(B), was in the original "this Act", meaning act [Dec. 23, 1913, ch. 6, 38 Stat. 251](/statviewer.htm?volume=38&page=251), as amended, known as the Federal Reserve Act. For complete classification of this act to the Code, see References in Text note set out under section 226 of this title and Tables.
 
 #### Amendments
 
@@ -326,11 +326,11 @@ Subsec. (d)(6). Pub. L. 97–457, §22(2), inserted ", subject to the prohibiti
 
 #### Effective Date of 2010 Amendment
 
-Pub. L. 111–203, title VI, §608(d), July 21, 2010, 124 Stat. 1611, provided that: "The amendments made by this section \[amending this section and sections 371c–1 and 1468 of this title\] shall take effect 1 year after the transfer date."
+[Pub. L. 111–203, title VI, §608(d), July 21, 2010, 124 Stat. 1611](/statviewer.htm?volume=124&page=1611), provided that: "The amendments made by this section \[amending this section and sections 371c–1 and 1468 of this title\] shall take effect 1 year after the transfer date."
 
 \[For definition of "transfer date" as used in section 608(d) of Pub. L. 111–203, set out above, see section 5301 of this title.\]
 
-Pub. L. 111–203, title VI, §609(b), (c), July 21, 2010, 124 Stat. 1611, provided that:
+[Pub. L. 111–203, title VI, §609(b), (c), July 21, 2010, 124 Stat. 1611](/statviewer.htm?volume=124&page=1611), provided that:
 
 "(b) Prospective Application of Amendment.—The amendments made by this section \[amending this section\] shall apply with respect to any covered transaction between a bank and a subsidiary of the bank, as those terms are defined in section 23A of the Federal Reserve Act (12 U.S.C. 371c), that is entered into on or after the date of enactment of this Act \[July 21, 2010\].
 
@@ -344,6 +344,6 @@ Amendment by Pub. L. 106–102 effective 120 days after Nov. 12, 1999, see secti
 
 #### Effective Date of 1982 Amendment
 
-Pub. L. 97–320, title IV, §410(c), Oct. 15, 1982, 96 Stat. 1520, provided that: "Section 23A of the Federal Reserve Act, as amended by this section \[this section\], shall apply to any transaction entered into after the date of enactment of this Act \[Oct. 15, 1982\], except for transactions which are the subject of a binding written contract or commitment entered into on or before July 28, 1982, and except that any renewal of a participation in a loan outstanding on July 28, 1982, to a company that becomes an affiliate as a result of the enactment of this Act \[see section 1 of Pub. L. 97–320, set out as a Short Title of 1982 Amendments note under section 226 of this title\], or any participation in a loan to such an affiliate emanating from the renewal of a binding written contract or commitment outstanding on July 28, 1982, shall not be subject to the collateral requirements of this Act."
+[Pub. L. 97–320, title IV, §410(c), Oct. 15, 1982, 96 Stat. 1520](/statviewer.htm?volume=96&page=1520), provided that: "Section 23A of the Federal Reserve Act, as amended by this section \[this section\], shall apply to any transaction entered into after the date of enactment of this Act \[Oct. 15, 1982\], except for transactions which are the subject of a binding written contract or commitment entered into on or before July 28, 1982, and except that any renewal of a participation in a loan outstanding on July 28, 1982, to a company that becomes an affiliate as a result of the enactment of this Act \[see section 1 of Pub. L. 97–320, set out as a Short Title of 1982 Amendments note under section 226 of this title\], or any participation in a loan to such an affiliate emanating from the renewal of a binding written contract or commitment outstanding on July 28, 1982, shall not be subject to the collateral requirements of this Act."
 
 [1 So in original. Probably should read "subsection (a)(4),".](#371c_1)

@@ -12,4 +12,4 @@ Notwithstanding clause (i) or (ii) of section 1818(b)(6)(A) of this title or sec
 
 After the appointment of the Corporation as the receiver or conservator for a depository institution, the Corporation may enforce any condition or agreement described in paragraph (1) or (2) of subsection (a) imposed on or entered into with such institution or institution-affiliated party through an action brought in an appropriate United States district court.
 
-(Sept. 21, 1950, ch. 967, §2\[50\], as added Pub. L. 109–351, title VII, §702(a), Oct. 13, 2006, 120 Stat. 1985.)
+(Sept. 21, 1950, ch. 967, §2\[50\], as added [Pub. L. 109–351, title VII, §702(a), Oct. 13, 2006, 120 Stat. 1985](/statviewer.htm?volume=120&page=1985).)
