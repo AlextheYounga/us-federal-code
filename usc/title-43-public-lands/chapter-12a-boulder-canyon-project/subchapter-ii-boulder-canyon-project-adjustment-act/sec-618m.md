@@ -4,6 +4,10 @@ Nothing in this subchapter shall be construed as interfering with such rights as
 
 (July 19, 1940, ch. 643, §14, 54 Stat. 779.)
 
+  
+
+#### **Editorial Notes**
+
 #### References in Text
 
 The Project Act, referred to in text, is defined in section 618k of this title.

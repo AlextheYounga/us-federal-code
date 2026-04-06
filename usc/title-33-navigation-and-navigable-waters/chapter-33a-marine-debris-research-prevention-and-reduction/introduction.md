@@ -18,4 +18,6 @@ Sec.
 
 1958\. Authorization of appropriations.
 
+1959\. Prioritization of marine debris in existing innovation and entrepreneurship programs.
+
         
