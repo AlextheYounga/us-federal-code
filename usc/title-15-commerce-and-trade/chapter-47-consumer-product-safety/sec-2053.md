@@ -40,7 +40,7 @@ The Commission shall maintain a principal office and such field offices as it de
 
 (C) Subparagraph (A) shall not be construed to prohibit appropriate reorganizations or changes in classification.
 
-(2) The Chairman, subject to subsection (f)(2) of this section, may employ such other officers and employees (including attorneys) as are necessary in the execution of the Commission's functions.
+(2) The Chairman, subject to subsection (f)(2), may employ such other officers and employees (including attorneys) as are necessary in the execution of the Commission's functions.
 
 (3) In addition to the number of positions authorized by section 5108(a) of title 5, the Chairman, subject to the approval of the Commission, and subject to the standards and procedures prescribed by chapter 51 of title 5, may place a total of twelve positions in grades GS–16, GS–17, and GS–18.
 

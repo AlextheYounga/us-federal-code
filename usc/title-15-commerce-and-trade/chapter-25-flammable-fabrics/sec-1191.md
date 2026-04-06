@@ -12,9 +12,9 @@ As used in this chapter—
 
 (e) The term "interior furnishing" means any type of furnishing made in whole or in part of fabric or related material and intended for use or which may reasonably be expected to be used, in homes, offices, or other places of assembly or accommodation.
 
-(f) The term "fabric" means any material (except fiber, filament, or yarn for other than retail sale) woven, knitted, felted, or otherwise produced from or in combination with any natural or synthetic fiber, film, or substitute therefor which is intended for use or which may reasonably be expected to be used, in any product as defined in paragraph (h) of this section.
+(f) The term "fabric" means any material (except fiber, filament, or yarn for other than retail sale) woven, knitted, felted, or otherwise produced from or in combination with any natural or synthetic fiber, film, or substitute therefor which is intended for use or which may reasonably be expected to be used, in any product as defined in subsection (h).
 
-(g) The term "related material" means paper, plastic, rubber, synthetic film, or synthetic foam which is intended for use or which may reasonably be expected to be used in any product as defined in paragraph (h) of this section.
+(g) The term "related material" means paper, plastic, rubber, synthetic film, or synthetic foam which is intended for use or which may reasonably be expected to be used in any product as defined in subsection (h).
 
 (h) The term "product" means any article of wearing apparel or interior furnishing.
 
@@ -40,7 +40,7 @@ Par. (d). Pub. L. 90–189, §1(3), struck out provisions which excepted hats, g
 
 Par. (e). Pub. L. 90–189, §1(5), (6), added par. (e) and redesignated former par. (e) as (f).
 
-Par. (f). Pub. L. 90–189, §1(4), (5), (7), redesignated par. (e) as (f), substituted "(except fiber, filament, or yarn for other than retail sale)" for "(other than fiber, filament, or yarn)" and "for use or which may reasonably be expected to be used, in any product as defined in paragraph (h) of this section" for "or sold for use in wearing apparel except that interlining fabrics when intended or sold for use in wearing apparel shall not be subject to this chapter", and struck out former par. (f) which defined "interlining".
+Par. (f). Pub. L. 90–189, §1(4), (5), (7), redesignated par. (e) as (f), substituted "(except fiber, filament, or yarn for other than retail sale)" for "(other than fiber, filament, or yarn)" and "for use or which may reasonably be expected to be used, in any product as defined in subsection (h)" for "or sold for use in wearing apparel except that interlining fabrics when intended or sold for use in wearing apparel shall not be subject to this chapter", and struck out former par. (f) which defined "interlining".
 
 Pars. (g) to (j). Pub. L. 90–189, §1(5), (8), added pars. (g) and (h) and redesignated former pars. (g) and (h) as (i) and (j), respectively.
 
