@@ -508,6 +508,8 @@ Sec.
 
 1306b. State data exchanges.
 
+1306c. Restriction on access to the Death Master File.
+
 1307\. Penalty for fraud.
 
 1308\. Additional grants to Puerto Rico, Virgin Islands, Guam, and American Samoa; limitation on total payments.
@@ -1150,7 +1152,7 @@ Sec.
 
 1396e. Enrollment of individuals under group health plans.
 
-1396e–1. Premium assistance option for children.
+1396e–1. Premium assistance.
 
 1396f. Observance of religious beliefs.
 
