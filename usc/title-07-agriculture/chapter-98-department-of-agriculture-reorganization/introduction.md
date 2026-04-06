@@ -26,9 +26,11 @@ Sec.
 
 6918\. Assistant Secretaries of Agriculture.
 
-6919\. Repealed.
+6919\. Military Veterans Agricultural Liaison.
 
 6920\. Office of Energy Policy and New Uses.
+
+6921\. Office of Tribal Relations.
 
         
 
@@ -43,6 +45,8 @@ Sec.
 6933\. Office of Risk Management.
 
 6934\. Office of Advocacy and Outreach.
+
+6935\. Under Secretary of Agriculture for Trade and Foreign Agricultural Affairs.
 
         
 
@@ -65,6 +69,10 @@ Sec.
 #### SUBCHAPTER IV—FOOD, NUTRITION, AND CONSUMER SERVICES
 
 6951\. Under Secretary of Agriculture for Food, Nutrition, and Consumer Services.
+
+6952\. Multiagency task force.
+
+6953\. Healthy food financing initiative.
 
         
 
