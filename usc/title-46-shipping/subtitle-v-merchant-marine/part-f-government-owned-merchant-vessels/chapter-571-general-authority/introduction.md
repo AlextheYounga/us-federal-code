@@ -2,8 +2,6 @@
 
 Sec.
 
-57100\. National Defense Reserve Fleet.
-
 57101\. Placement of vessels in National Defense Reserve Fleet.
 
 57102\. Disposition of vessels not worth preserving.
@@ -25,7 +23,5 @@ Sec.
         
 
 #### Amendments
-
-**2017**—Pub. L. 115–91, div. C, title XXXV, §3502(b)(9), Dec. 12, 2017, 131 Stat. 1911, added item 57100.
 
 **2012**—Pub. L. 112–213, title IV, §408(b), Dec. 20, 2012, 126 Stat. 1571, substituted "Donation of nonretention vessels in the National Defense Reserve Fleet" for "Sale of obsolete vessels in National Defense Reserve Fleet" in item 57103.

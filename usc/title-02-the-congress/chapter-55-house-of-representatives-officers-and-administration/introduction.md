@@ -22,8 +22,6 @@ Sec.
 
 5509\. Incidental use of equipment and supplies.
 
-5510\. Providing assistance to House of Representatives in response to cybersecurity events.
-
         
 
 #### SUBCHAPTER II—CHAPLAIN
