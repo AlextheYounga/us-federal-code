@@ -84,8 +84,6 @@
 
 (3) For the purposes of paragraph (1), contractor personnel shall be treated as directly supporting the acquisition processes of the Department if, and to the extent that, such contractor personnel perform functions in support of personnel in Department of Defense positions designated by the Secretary of Defense under section 1721 of this title.
 
-  
-
 (e) Financial Management Workforce.—(1) Each strategic workforce plan under subsection (a) shall specifically address the shaping and improvement of the financial management workforce of the Department of Defense, including both military and civilian personnel of that workforce.
 
 (2) For purposes of paragraph (1), each plan shall include, with respect to the financial management workforce of the Department—

@@ -24,8 +24,6 @@
 
 (B) The Secretary of Defense shall prescribe policies and procedures for making rewards in the manner described in subparagraph (A), which shall include guidance for the accountability of funds used for making rewards in that manner. The policies and procedures shall not take effect until 30 days after the date on which the Secretary submits the policies and procedures to the congressional defense committees. Rewards may not be made in the manner described in subparagraph (A) except under policies and procedures that have taken effect.
 
-  
-
 (d) Coordination.—(1) The Secretary of Defense shall prescribe policies and procedures for the offering and making of rewards under this section and otherwise for administering the authority under this section. Such policies and procedures shall be prescribed in consultation with the Secretary of State and the Attorney General and shall ensure that the making of a reward under this section does not duplicate or interfere with the payment of a reward authorized by the Secretary of State or the Attorney General.
 
 (2) The Secretary of Defense shall consult with the Secretary of State regarding the making of any reward under this section in an amount or with a value in excess of $2,000,000.

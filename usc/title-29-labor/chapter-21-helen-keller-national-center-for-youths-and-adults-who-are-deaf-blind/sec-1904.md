@@ -2,7 +2,7 @@
 
 (a) There are authorized to be appropriated to carry out the provisions of this chapter such sums as may be necessary for each of the fiscal years 1999 through 2003. Such sums shall remain available until expended.
 
-(b) Any appropriation Act containing any appropriation authorized by subsection (a) of this section shall contain a statement of the specific amount being made available to the Center.
+(b) Any appropriation Act containing any appropriation authorized by subsection (a) shall contain a statement of the specific amount being made available to the Center.
 
 (Pub. L. 98–221, title II, §205, Feb. 22, 1984, 98 Stat. 33; Pub. L. 99–506, title IX, §901, Oct. 21, 1986, 100 Stat. 1840; Pub. L. 100–630, title V, §501, Nov. 7, 1988, 102 Stat. 3317; Pub. L. 102–52, §9(a), June 6, 1991, 105 Stat. 263; Pub. L. 102–569, title IX, §904, Oct. 29, 1992, 106 Stat. 4482; Pub. L. 105–220, title IV, §412(a), Aug. 7, 1998, 112 Stat. 1241.)
 
