@@ -70,7 +70,7 @@ Sec.
 
 9252\. Termination of sanctions and other measures.
 
-9253\. Authorization of appropriations.
+9253\. Repealed.
 
 9254\. Rulemaking.
 

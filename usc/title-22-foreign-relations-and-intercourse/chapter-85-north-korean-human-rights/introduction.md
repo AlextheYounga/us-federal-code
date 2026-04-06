@@ -52,4 +52,6 @@ Sec.
 
 7845\. Annual reports.
 
+7846\. Sense of Congress on humanitarian coordination related to the Korean Peninsula.
+
         
