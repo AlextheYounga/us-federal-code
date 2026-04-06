@@ -2,7 +2,7 @@
 
 (a) No national bank shall be subject to any visitorial powers except as authorized by Federal law, vested in the courts of justice or such as shall be, or have been exercised or directed by Congress or by either House thereof or by any committee of Congress or of either House duly authorized.
 
-(b) Notwithstanding subsection (a) of this section, lawfully authorized State auditors and examiners may, at reasonable times and upon reasonable notice to a bank, review its records solely to ensure compliance with applicable State unclaimed property or escheat laws upon reasonable cause to believe that the bank has failed to comply with such laws.
+(b) Notwithstanding subsection (a), lawfully authorized State auditors and examiners may, at reasonable times and upon reasonable notice to a bank, review its records solely to ensure compliance with applicable State unclaimed property or escheat laws upon reasonable cause to believe that the bank has failed to comply with such laws.
 
 (R.S. §5240 (par.); Feb. 19, 1875, ch. 89, 18 Stat. 329; Dec. 23, 1913, ch. 6, §21, 38 Stat. 272; Pub. L. 97–320, title IV, §412, Oct. 15, 1982, 96 Stat. 1521; Pub. L. 97–457, §23(a), Jan. 12, 1983, 96 Stat. 2510.)
 
