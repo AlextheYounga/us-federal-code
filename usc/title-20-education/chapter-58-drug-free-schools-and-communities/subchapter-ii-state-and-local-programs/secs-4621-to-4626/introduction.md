@@ -12,6 +12,10 @@ Section 4625, Pub. L. 99–570, title IV, §4125, Oct. 27, 1986, 100 Stat. 3207�
 
 Section 4626, Pub. L. 99–570, title IV, §4126, Oct. 27, 1986, 100 Stat. 3207–130, related to local applications.
 
+  
+
+#### **Statutory Notes and Related Subsidiaries**
+
 #### Effective Date of Repeal
 
 Repeal effective July 1, 1988, see section 6303 of Pub. L. 100–297, set out as an Effective Date of 1988 Amendment note under section 1071 of this title.
