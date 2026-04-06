@@ -1,8 +1,8 @@
-### **CHAPTER 237—CRIME VICTIMS’ RIGHTS**
+### **CHAPTER 237—CRIME VICTIMS' RIGHTS**
 
 Sec.
 
-3771\. Crime victims’ rights.
+3771\. Crime victims' rights.
 
         
 

@@ -94,43 +94,43 @@
 
 #### Amendments
 
-**2013**—Pub. L. 113–59, §5(h)(1), substituted “Adaptive sports programs for disabled veterans and members of the Armed Forces” for “Assistance for United States Paralympics, Inc.” in section catchline.
+**2013**—Pub. L. 113–59, §5(h)(1), substituted "Adaptive sports programs for disabled veterans and members of the Armed Forces" for "Assistance for United States Paralympics, Inc." in section catchline.
 
-Pub. L. 113–37, §2(b)(2)(A), substituted “United States Olympic Committee” for “United States Paralympics, Inc.,” wherever appearing except in subsec. (d)(4).
+Pub. L. 113–37, §2(b)(2)(A), substituted "United States Olympic Committee" for "United States Paralympics, Inc.," wherever appearing except in subsec. (d)(4).
 
-Subsec. (a). Pub. L. 113–59, §5(a), amended subsec. (a) generally. Prior to amendment, text read as follows: “The Secretary may award grants to the United States Olympic Committee to plan, develop, manage, and implement an integrated adaptive sports program for disabled veterans and disabled members of the Armed Forces.”
+Subsec. (a). Pub. L. 113–59, §5(a), amended subsec. (a) generally. Prior to amendment, text read as follows: "The Secretary may award grants to the United States Olympic Committee to plan, develop, manage, and implement an integrated adaptive sports program for disabled veterans and disabled members of the Armed Forces."
 
-Subsec. (b). Pub. L. 113–59, §5(g)(1), substituted “an eligible entity” for “the United States Olympic Committee” and “An eligible entity that receives a grant under this section” for “The United States Olympic Committee”.
+Subsec. (b). Pub. L. 113–59, §5(g)(1), substituted "an eligible entity" for "the United States Olympic Committee" and "An eligible entity that receives a grant under this section" for "The United States Olympic Committee".
 
-Subsec. (c)(1). Pub. L. 113–59, §5(g)(2)(A), substituted “to an eligible entity” for “to the United States Olympic Committee” and “the eligible entity shall submit” for “the United States Olympic Committee shall submit”.
+Subsec. (c)(1). Pub. L. 113–59, §5(g)(2)(A), substituted "to an eligible entity" for "to the United States Olympic Committee" and "the eligible entity shall submit" for "the United States Olympic Committee shall submit".
 
-Subsec. (c)(2)(A). Pub. L. 113–59, §5(b), substituted “of—” for “of all partnerships referred to in paragraph (3) at the national and local levels that will be participating in such activities and the amount of grant funds that the United States Olympic Committee proposes to make available for each of such partnerships; and” and added cls. (i) to (v).
+Subsec. (c)(2)(A). Pub. L. 113–59, §5(b), substituted "of—" for "of all partnerships referred to in paragraph (3) at the national and local levels that will be participating in such activities and the amount of grant funds that the United States Olympic Committee proposes to make available for each of such partnerships; and" and added cls. (i) to (v).
 
-Subsec. (c)(2)(B), (3). Pub. L. 113–59, §5(g)(2)(B), substituted “the eligible entity” for “the United States Olympic Committee” wherever appearing.
+Subsec. (c)(2)(B), (3). Pub. L. 113–59, §5(g)(2)(B), substituted "the eligible entity" for "the United States Olympic Committee" wherever appearing.
 
-Subsec. (d)(1). Pub. L. 113–59, §5(g)(3)(A), substituted “An eligible entity that receives a grant under this section,” for “The United States Olympic Committee”, “shall use the grant” for “shall use a grant under this section”, and “the eligible entity” for “the United States Olympic Committee”.
+Subsec. (d)(1). Pub. L. 113–59, §5(g)(3)(A), substituted "An eligible entity that receives a grant under this section," for "The United States Olympic Committee", "shall use the grant" for "shall use a grant under this section", and "the eligible entity" for "the United States Olympic Committee".
 
-Subsec. (d)(4). Pub. L. 113–59, §5(c), amended par. (4) generally. Prior to amendment, par. (4) read as follows: “A grant made under this section may include, at the discretion of the Secretary, an amount for the administrative expenses of the United States Olympic Committee, but not to exceed five percent of the amount of the grant.”
+Subsec. (d)(4). Pub. L. 113–59, §5(c), amended par. (4) generally. Prior to amendment, par. (4) read as follows: "A grant made under this section may include, at the discretion of the Secretary, an amount for the administrative expenses of the United States Olympic Committee, but not to exceed five percent of the amount of the grant."
 
-Pub. L. 113–37, §2(b)(2)(B), substituted “United States Olympic Committee” for “United States Paralympics, Inc.”
+Pub. L. 113–37, §2(b)(2)(B), substituted "United States Olympic Committee" for "United States Paralympics, Inc."
 
-Subsec. (d)(5). Pub. L. 113–59, §5(g)(3)(B), substituted “an eligible entity that receives a grant under this section” for “the United States Olympic Committee”.
+Subsec. (d)(5). Pub. L. 113–59, §5(g)(3)(B), substituted "an eligible entity that receives a grant under this section" for "the United States Olympic Committee".
 
-Subsec. (e). Pub. L. 113–59, §5(g)(4), substituted “an eligible entity” for “the United States Olympic Committee” and “the adapted sports opportunities funded by the grant” for “the integrated adaptive sports program”.
+Subsec. (e). Pub. L. 113–59, §5(g)(4), substituted "an eligible entity" for "the United States Olympic Committee" and "the adapted sports opportunities funded by the grant" for "the integrated adaptive sports program".
 
-Subsec. (f). Pub. L. 113–59, §5(g)(5), substituted “adapted sports opportunities funded under this section” for “the integrated adaptive sports program”.
+Subsec. (f). Pub. L. 113–59, §5(g)(5), substituted "adapted sports opportunities funded under this section" for "the integrated adaptive sports program".
 
-Subsec. (g). Pub. L. 113–59, §5(d), designated existing provisions as par. (1), substituted “through 2015.” for “through 2013 and $2,000,000 for the period beginning October 1, 2013, and ending December 31, 2013 to carry out this section. Amounts appropriated pursuant to this subsection shall remain available without fiscal year limitation.”, and added par. (2).
+Subsec. (g). Pub. L. 113–59, §5(d), designated existing provisions as par. (1), substituted "through 2015." for "through 2013 and $2,000,000 for the period beginning October 1, 2013, and ending December 31, 2013 to carry out this section. Amounts appropriated pursuant to this subsection shall remain available without fiscal year limitation.", and added par. (2).
 
-Pub. L. 113–37, §2(b)(1)(A), inserted “and $2,000,000 for the period beginning October 1, 2013, and ending December 31, 2013” after “2010 through 2013”.
+Pub. L. 113–37, §2(b)(1)(A), inserted "and $2,000,000 for the period beginning October 1, 2013, and ending December 31, 2013" after "2010 through 2013".
 
-Subsec. (j)(1). Pub. L. 113–59, §5(g)(6)(A), substituted “an eligible entity shall agree” for “the United States Olympic Committee shall agree”, “the eligible entity shall submit” for “the United States Olympic Committee shall submit”, “in the adapted sports opportunities funded by the grant,” for “in the integrated adaptive sports program,”, and “of such opportunities and programs.” for “of the integrated adaptive sports program.”
+Subsec. (j)(1). Pub. L. 113–59, §5(g)(6)(A), substituted "an eligible entity shall agree" for "the United States Olympic Committee shall agree", "the eligible entity shall submit" for "the United States Olympic Committee shall submit", "in the adapted sports opportunities funded by the grant," for "in the integrated adaptive sports program,", and "of such opportunities and programs." for "of the integrated adaptive sports program."
 
-Subsec. (j)(3). Pub. L. 113–59, §5(g)(6)(B), added par. (3) and struck out former par. (3) which read as follows: “For any fiscal year after fiscal year 2010, the eligibility of the United States Olympic Committee to receive a grant under this section shall be contingent upon the submission of the report under paragraph (1) for the preceding fiscal year.”
+Subsec. (j)(3). Pub. L. 113–59, §5(g)(6)(B), added par. (3) and struck out former par. (3) which read as follows: "For any fiscal year after fiscal year 2010, the eligibility of the United States Olympic Committee to receive a grant under this section shall be contingent upon the submission of the report under paragraph (1) for the preceding fiscal year."
 
-Subsec. (l). Pub. L. 113–59, §5(e), substituted “may only provide assistance under this section for adaptive sports opportunities occurring during fiscal years 2010 through 2016” for “may not provide assistance under this section after December 31, 2013”.
+Subsec. (l). Pub. L. 113–59, §5(e), substituted "may only provide assistance under this section for adaptive sports opportunities occurring during fiscal years 2010 through 2016" for "may not provide assistance under this section after December 31, 2013".
 
-Pub. L. 113–37, §2(b)(1)(B), substituted “The Secretary may not provide assistance under this section after December 31, 2013.” for “The Secretary may only provide assistance under this section during fiscal years 2010 through 2013.”
+Pub. L. 113–37, §2(b)(1)(B), substituted "The Secretary may not provide assistance under this section after December 31, 2013." for "The Secretary may only provide assistance under this section during fiscal years 2010 through 2013."
 
 Subsec. (m). Pub. L. 113–59, §5(g)(7), struck out subsec. (m) which provided for applicability of this section and section 322 of this title to commonwealths and territories of the United States.
 
@@ -142,16 +142,16 @@ Amendment by Pub. L. 113–37 effective Oct. 1, 2013, see section 4(a) of Pub. L
 
 #### Regulations
 
-Pub. L. 113–59, §5(i), Dec. 20, 2013, 127 Stat. 662, provided that: “To ensure the uninterrupted provision of adaptive sports for disabled veterans and disabled members of the Armed Forces, any regulations that the Secretary of Veterans Affairs determines are necessary to implement the amendments made by this section \[amending this section\] may be promulgated by interim final rules to ensure the award of grants under section 521A of title 38, United States Code, as amended by this section, before the end of fiscal year 2014.”
+Pub. L. 113–59, §5(i), Dec. 20, 2013, 127 Stat. 662, provided that: "To ensure the uninterrupted provision of adaptive sports for disabled veterans and disabled members of the Armed Forces, any regulations that the Secretary of Veterans Affairs determines are necessary to implement the amendments made by this section \[amending this section\] may be promulgated by interim final rules to ensure the award of grants under section 521A of title 38, United States Code, as amended by this section, before the end of fiscal year 2014."
 
 #### Deadline for Memorandum of Understanding
 
-Pub. L. 110–389, title VII, §702(c), Oct. 10, 2008, 122 Stat. 4183, provided that: “The Secretary of Veterans Affairs may not award a grant under section 521A of title 38, United States Code, as added by subsection (a), until the United States Paralympics, Inc., and the Secretary have entered into a memorandum of understanding or cooperative agreement regarding implementation of the integrated adaptive sports program under that section. To the extent feasible, such memorandum or agreement shall be concluded not later than 240 days after the date of the enactment of this Act \[Oct. 10, 2008\].”
+Pub. L. 110–389, title VII, §702(c), Oct. 10, 2008, 122 Stat. 4183, provided that: "The Secretary of Veterans Affairs may not award a grant under section 521A of title 38, United States Code, as added by subsection (a), until the United States Paralympics, Inc., and the Secretary have entered into a memorandum of understanding or cooperative agreement regarding implementation of the integrated adaptive sports program under that section. To the extent feasible, such memorandum or agreement shall be concluded not later than 240 days after the date of the enactment of this Act \[Oct. 10, 2008\]."
 
 #### Assistance at Sporting Events
 
-Pub. L. 110–389, title VII, §703(c), Oct. 10, 2008, 122 Stat. 4185, provided that: “The Secretary of Veterans Affairs shall direct the Under Secretary for Health of the Department of Veterans Affairs—
+Pub. L. 110–389, title VII, §703(c), Oct. 10, 2008, 122 Stat. 4185, provided that: "The Secretary of Veterans Affairs shall direct the Under Secretary for Health of the Department of Veterans Affairs—
 
-“(1) to make available, to the extent determined appropriate by the Secretary, recreational therapists, physical therapists, and other medical staff to facilitate participation of veterans in sporting events conducted under the auspices of the United States Paralympics, Inc.; and
+"(1) to make available, to the extent determined appropriate by the Secretary, recreational therapists, physical therapists, and other medical staff to facilitate participation of veterans in sporting events conducted under the auspices of the United States Paralympics, Inc.; and
 
-“(2) to allow such personnel to provide support to the programs of the United States Paralympics, Inc., without requiring the use of personal leave.”
+"(2) to allow such personnel to provide support to the programs of the United States Paralympics, Inc., without requiring the use of personal leave."

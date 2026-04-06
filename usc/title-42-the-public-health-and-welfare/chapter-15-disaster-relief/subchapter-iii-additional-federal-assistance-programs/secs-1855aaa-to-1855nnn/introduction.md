@@ -2,7 +2,7 @@
 
 Section 1855aaa, Pub. L. 91–79, §1, Oct. 1, 1969, 83 Stat. 125, set out Congressional statement of policy in enacting Pub. L. 91–79.
 
-Pub. L. 91–79, §16, Oct. 1, 1969, 83 Stat. 125, set out as a note under section 1855aaa of the title, gave the name “Disaster Relief Act of 1969” to Pub. L. 91–79.
+Pub. L. 91–79, §16, Oct. 1, 1969, 83 Stat. 125, set out as a note under section 1855aaa of the title, gave the name "Disaster Relief Act of 1969" to Pub. L. 91–79.
 
 Section 1855bbb, Pub. L. 91–79, §2, Oct. 1, 1969, 83 Stat. 126, authorized the President to allocate funds for permanent repair and reconstruction of non-Federal streets, roads, and highway facilities destroyed or damaged as a result of a major disaster.
 
@@ -28,7 +28,7 @@ Section 1855lll, Pub. L. 91–79, §13, Oct. 1, 1969, 83 Stat. 129, covered gran
 
 Section 1855mmm, Pub. L. 91–79, §14, Oct. 1, 1969, 83 Stat. 130, authorized grants for removal of debris.
 
-Section 1855nnn, Pub. L. 91–79, §15, Oct. 1, 1969, 83 Stat. 130, defined “major disaster” and provided termination date of sections 1855aaa et seq. of this title on Dec. 31, 1970.
+Section 1855nnn, Pub. L. 91–79, §15, Oct. 1, 1969, 83 Stat. 130, defined "major disaster" and provided termination date of sections 1855aaa et seq. of this title on Dec. 31, 1970.
 
 For provisions relating to disaster relief, see section 5121 et seq. of this title.
 

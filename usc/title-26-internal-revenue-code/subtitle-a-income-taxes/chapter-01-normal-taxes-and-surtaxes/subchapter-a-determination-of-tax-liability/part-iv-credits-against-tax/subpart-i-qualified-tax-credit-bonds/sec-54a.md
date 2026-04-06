@@ -46,7 +46,7 @@ For purposes of this section—
 
 #### (1) Qualified tax credit bond
 
-The term “qualified tax credit bond” means—
+The term "qualified tax credit bond" means—
 
 (A) a qualified forestry conservation bond,
 
@@ -80,7 +80,7 @@ To the extent that less than 100 percent of the available project proceeds of th
 
 #### (ii) Expenditure period
 
-For purposes of this subpart, the term “expenditure period” means, with respect to any issue, the 3-year period beginning on the date of issuance. Such term shall include any extension of such period under clause (iii).
+For purposes of this subpart, the term "expenditure period" means, with respect to any issue, the 3-year period beginning on the date of issuance. Such term shall include any extension of such period under clause (iii).
 
 #### (iii) Extension of period
 
@@ -88,7 +88,7 @@ Upon submission of a request prior to the expiration of the expenditure period (
 
 #### (C) Qualified purpose
 
-For purposes of this paragraph, the term “qualified purpose” means—
+For purposes of this paragraph, the term "qualified purpose" means—
 
 (i) in the case of a qualified forestry conservation bond, a purpose specified in section 54B(e),
 
@@ -158,7 +158,7 @@ For purposes of this subchapter—
 
 #### (1) Credit allowance date
 
-The term “credit allowance date” means—
+The term "credit allowance date" means—
 
 (A) March 15,
 
@@ -174,15 +174,15 @@ Such term includes the last day on which the bond is outstanding.
 
 #### (2) Bond
 
-The term “bond” includes any obligation.
+The term "bond" includes any obligation.
 
 #### (3) State
 
-The term “State” includes the District of Columbia and any possession of the United States.
+The term "State" includes the District of Columbia and any possession of the United States.
 
 #### (4) Available project proceeds
 
-The term “available project proceeds” means—
+The term "available project proceeds" means—
 
 (A) the excess of—
 
@@ -226,39 +226,39 @@ Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110�
 
 #### Amendments
 
-**2009**—Subsec. (c)(1)(B). Pub. L. 111–5, §1531(c)(2), substituted “subparts C and J” for “subpart C”.
+**2009**—Subsec. (c)(1)(B). Pub. L. 111–5, §1531(c)(2), substituted "subparts C and J" for "subpart C".
 
 Subsec. (d)(1)(E). Pub. L. 111–5, §1521(b)(1), added subpar. (E).
 
 Subsec. (d)(2)(C)(v). Pub. L. 111–5, §1521(b)(2), added cl. (v).
 
-Subsec. (h). Pub. L. 111–5, §1541(b)(2), amended subsec. (h) generally. Prior to amendment, text read as follows: “If any qualified tax credit bond is held by a regulated investment company or a real estate investment trust, the credit determined under subsection (a) shall be allowed to shareholders of such company or beneficiaries of such trust (and any gross income included under subsection (f) with respect to such credit shall be treated as distributed to such shareholders or beneficiaries) under procedures prescribed by the Secretary.”
+Subsec. (h). Pub. L. 111–5, §1541(b)(2), amended subsec. (h) generally. Prior to amendment, text read as follows: "If any qualified tax credit bond is held by a regulated investment company or a real estate investment trust, the credit determined under subsection (a) shall be allowed to shareholders of such company or beneficiaries of such trust (and any gross income included under subsection (f) with respect to such credit shall be treated as distributed to such shareholders or beneficiaries) under procedures prescribed by the Secretary."
 
-**2008**—Subsec. (d)(1). Pub. L. 110–343, §301(b)(1), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “The term ‘qualified tax credit bond’ means—
+**2008**—Subsec. (d)(1). Pub. L. 110–343, §301(b)(1), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: "The term 'qualified tax credit bond' means—
 
-“(A) a qualified forestry conservation bond, or
+"(A) a qualified forestry conservation bond, or
 
-“(B) a new clean renewable energy bond,
+"(B) a new clean renewable energy bond,
 
-which is part of an issue that meets requirements of paragraphs (2), (3), (4), (5), and (6).”
+which is part of an issue that meets requirements of paragraphs (2), (3), (4), (5), and (6)."
 
-Pub. L. 110–343, §107(b)(1), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “The term ‘qualified tax credit bond’ means a qualified forestry conservation bond which is part of an issue that meets the requirements of paragraphs (2), (3), (4), (5), and (6).”
+Pub. L. 110–343, §107(b)(1), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: "The term 'qualified tax credit bond' means a qualified forestry conservation bond which is part of an issue that meets the requirements of paragraphs (2), (3), (4), (5), and (6)."
 
 Subsec. (d)(1)(D). Pub. L. 110–343, §313(b)(1), added subpar. (D).
 
-Subsec. (d)(2)(C). Pub. L. 110–343, §301(b)(2), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “For purposes of this paragraph, the term ‘qualified purpose’ means—
+Subsec. (d)(2)(C). Pub. L. 110–343, §301(b)(2), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: "For purposes of this paragraph, the term 'qualified purpose' means—
 
-“(i) in the case of a qualified forestry conservation bond, a purpose specified in section 54B(e), and
+"(i) in the case of a qualified forestry conservation bond, a purpose specified in section 54B(e), and
 
-“(ii) in the case of a new clean renewable energy bond, a purpose specified in section 54C(a)(1).”
+"(ii) in the case of a new clean renewable energy bond, a purpose specified in section 54C(a)(1)."
 
-Pub. L. 110–343, §107(b)(2), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “For purposes of this paragraph, the term ‘qualified purpose’ means a purpose specified in section 54B(e).”
+Pub. L. 110–343, §107(b)(2), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: "For purposes of this paragraph, the term 'qualified purpose' means a purpose specified in section 54B(e)."
 
 Subsec. (d)(2)(C)(iv). Pub. L. 110–343, §313(b)(2), added cl. (iv).
 
 #### Effective Date of 2009 Amendment
 
-Pub. L. 111–5, div. B, title I, §1521(c), Feb. 17, 2009, 123 Stat. 357, provided that: “The amendments made by this section \[enacting section 54F of this title and amending this section\] shall apply to obligations issued after the date of the enactment of this Act \[Feb. 17, 2009\].”
+Pub. L. 111–5, div. B, title I, §1521(c), Feb. 17, 2009, 123 Stat. 357, provided that: "The amendments made by this section \[enacting section 54F of this title and amending this section\] shall apply to obligations issued after the date of the enactment of this Act \[Feb. 17, 2009\]."
 
 Amendment by section 1531(c)(2) of Pub. L. 111–5 applicable to obligations issued after Feb. 17, 2009, see section 1531(e) of Pub. L. 111–5, set out as a note under section 54 of this title.
 
@@ -268,9 +268,9 @@ Amendment by section 1541(b)(2) of Pub. L. 111–5 applicable to taxable years e
 
 Amendment by section 107(b)(1), (2) of Pub. L. 110–343 applicable to obligations issued after Oct. 3, 2008, see section 107(d) of title I of div. B of Pub. L. 110–343, set out as a note under section 54 of this title.
 
-Pub. L. 110–343, div. B, title III, §301(c), Oct. 3, 2008, 122 Stat. 3844, provided that: “The amendments made by this section \[enacting section 54D of this title and amending this section\] shall apply to obligations issued after the date of the enactment of this Act \[Oct. 3, 2008\].”
+Pub. L. 110–343, div. B, title III, §301(c), Oct. 3, 2008, 122 Stat. 3844, provided that: "The amendments made by this section \[enacting section 54D of this title and amending this section\] shall apply to obligations issued after the date of the enactment of this Act \[Oct. 3, 2008\]."
 
-Pub. L. 110–343, div. C, title III, §313(c), Oct. 3, 2008, 122 Stat. 3872, provided that: “The amendments made by this section \[enacting section 54E of this title and amending this section and section 1397E of this title\] shall apply to obligations issued after the date of the enactment of this Act \[Oct. 3, 2008\].”
+Pub. L. 110–343, div. C, title III, §313(c), Oct. 3, 2008, 122 Stat. 3872, provided that: "The amendments made by this section \[enacting section 54E of this title and amending this section and section 1397E of this title\] shall apply to obligations issued after the date of the enactment of this Act \[Oct. 3, 2008\]."
 
 #### Effective Date
 

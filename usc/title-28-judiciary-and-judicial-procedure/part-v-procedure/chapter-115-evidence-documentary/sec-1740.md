@@ -8,7 +8,7 @@ Copies of all official documents and papers in the office of any consul or vice 
 
 Based on title 28, U.S.C., 1940 ed., §677 (R.S. §896; Apr. 5, 1906, ch. 1366, §3, 34 Stat. 100).
 
-Words “authenticated by the consul or vice consul” were substituted for “certified under the hand and seal of such officer”, for clarity. Words “in the courts of the United States”, were omitted after “admissible”. Such papers should be so admitted in all courts consistently with sections 1738 and 1739 of this title.
+Words "authenticated by the consul or vice consul" were substituted for "certified under the hand and seal of such officer", for clarity. Words "in the courts of the United States", were omitted after "admissible". Such papers should be so admitted in all courts consistently with sections 1738 and 1739 of this title.
 
 See also Rule 44 of the Federal Rules of Civil Procedure.
 

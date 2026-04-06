@@ -8,7 +8,7 @@ The Secretary of Commerce is authorized to purchase, from the appropriation for 
 
 Section was a provision of the Sundry Civil Appropriation Act of Mar. 3, 1901.
 
-Upon incorporation into the Code, the words “Secretary of Commerce” were substituted for “Secretary of the Treasury” to conform to act Feb. 14, 1903.
+Upon incorporation into the Code, the words "Secretary of Commerce" were substituted for "Secretary of the Treasury" to conform to act Feb. 14, 1903.
 
 Section was formerly classified to section 661 of Title 31 prior to the general revision and enactment of Title 31, Money and Finance, by Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 877.
 

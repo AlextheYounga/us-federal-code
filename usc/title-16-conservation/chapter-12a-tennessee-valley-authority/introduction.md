@@ -6,7 +6,7 @@ Sec.
 
 831a. Membership, operation, and duties of the Board of Directors.
 
-831b. Officers and employees; wages of laborers and mechanics; application of employees’ compensation provisions.
+831b. Officers and employees; wages of laborers and mechanics; application of employees' compensation provisions.
 
 831b–1. Acceptance of services of volunteers.
 
@@ -24,7 +24,7 @@ Sec.
 
 831f. Control of plants and property vested in Corporation; transfer of other property to Corporation.
 
-831g. Principal office of Corporation; books; directors’ oath.
+831g. Principal office of Corporation; books; directors' oath.
 
 831h. Annual financial statement; purchases and contracts; audit by Comptroller General.
 

@@ -18,7 +18,7 @@ Prior sections 3241 to 3246c were repealed by Pub. L. 105–393, title I §102(c
 
 Section 3241, Pub. L. 89–136, title IX, §901, as added Pub. L. 93–423, §12, Sept. 27, 1974, 88 Stat. 1164; amended Pub. L. 94–487, title I, §121(a), Oct. 12, 1976, 90 Stat. 2336, stated purpose of former subchapter IX.
 
-Section 3242, Pub. L. 89–136, title IX, §902, as added Pub. L. 93–423, §12, Sept. 27, 1974, 88 Stat. 1164, defined “eligible recipient”.
+Section 3242, Pub. L. 89–136, title IX, §902, as added Pub. L. 93–423, §12, Sept. 27, 1974, 88 Stat. 1164, defined "eligible recipient".
 
 Section 3243, Pub. L. 89–136, title IX, §903, as added Pub. L. 93–423, §12, Sept. 27, 1974, 88 Stat. 1164; amended Pub. L. 94–487, title I, §121(b), (c), Oct. 12, 1976, 90 Stat. 2336, authorized grants to eligible recipients.
 
@@ -28,7 +28,7 @@ Section 3245, Pub. L. 89–136, title IX, §905, as added Pub. L. 93–423, §12
 
 Section 3246, Pub. L. 89–136, title X, §1001, as added Pub. L. 93–567, title III, §301, Dec. 31, 1974, 88 Stat. 1853, stated the purpose of former subchapter X.
 
-Section 3246a, Pub. L. 89–136, title X, §1002, as added Pub. L. 93–567, title III, §301, Dec. 31, 1974, 88 Stat. 1853; amended Pub. L. 94–487, title I, §122, Oct. 12, 1976, 90 Stat. 2337, defined “eligible area”.
+Section 3246a, Pub. L. 89–136, title X, §1002, as added Pub. L. 93–567, title III, §301, Dec. 31, 1974, 88 Stat. 1853; amended Pub. L. 94–487, title I, §122, Oct. 12, 1976, 90 Stat. 2337, defined "eligible area".
 
 Section 3246b, Pub. L. 89–136, title X, §1003, as added Pub. L. 93–567, title III, §301, Dec. 31, 1974, 88 Stat. 1853; amended Pub. L. 94–487, title I, §123, Oct. 12, 1976, 90 Stat. 2337, authorized a job opportunities program.
 

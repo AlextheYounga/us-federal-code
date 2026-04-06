@@ -1,6 +1,6 @@
 ### \[§522. Repealed. Pub. L. 87–834, §17(b)(2), Oct. 16, 1962, 76 Stat. 1051\]
 
-Section, act Aug. 16, 1954, ch. 736, 68A Stat. 177, related to tax on farmers’ cooperatives.
+Section, act Aug. 16, 1954, ch. 736, 68A Stat. 177, related to tax on farmers' cooperatives.
 
 #### Effective Date of Repeal
 

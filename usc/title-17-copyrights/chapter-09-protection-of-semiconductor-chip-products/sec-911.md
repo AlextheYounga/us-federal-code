@@ -12,7 +12,7 @@
 
 (2) As part of a final judgment or decree, the court may order the destruction or other disposition of any infringing semiconductor chip products, and any masks, tapes, or other articles by means of which such products may be reproduced.
 
-(f) In any civil action arising under this chapter, the court in its discretion may allow the recovery of full costs, including reasonable attorneys’ fees, to the prevailing party.
+(f) In any civil action arising under this chapter, the court in its discretion may allow the recovery of full costs, including reasonable attorneys' fees, to the prevailing party.
 
 (g)(1) Any State, any instrumentality of a State, and any officer or employee of a State or instrumentality of a State acting in his or her official capacity, shall not be immune, under the Eleventh Amendment of the Constitution of the United States or under any other doctrine of sovereign immunity, from suit in Federal court by any person, including any governmental or nongovernmental entity, for a violation of any of the exclusive rights of the owner of a mask work under this chapter, or for any other violation under this chapter.
 

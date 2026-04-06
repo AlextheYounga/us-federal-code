@@ -8,7 +8,7 @@ A prior section 401 of Pub. L. 93–203, title IV, Dec. 28, 1973, 87 Stat. 863, 
 
 Provisions similar to those comprising this section were contained in former section 874 of this title prior to the general revision of Pub. L. 93–203 by Pub. L. 95–524.
 
-Section 892, Pub. L. 93–203, title IV, §402, as added Pub. L. 95–524, §2, Oct. 27, 1978, 92 Stat. 1974, provided definitions of “eligible youth” under various youth programs.
+Section 892, Pub. L. 93–203, title IV, §402, as added Pub. L. 95–524, §2, Oct. 27, 1978, 92 Stat. 1974, provided definitions of "eligible youth" under various youth programs.
 
 A prior section 892, Pub. L. 93–203, title III, §325, as added Pub. L. 95–93, title II, §201, Aug. 5, 1977, 91 Stat. 632, related to authorization of youth incentive entitlement pilot projects, prior to the general revision of Pub. L. 93–203 by Pub. L. 95–524.
 

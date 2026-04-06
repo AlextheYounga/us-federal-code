@@ -186,7 +186,7 @@ Sec.
 
 2136\. Classes of facilities.
 
-2137\. Operators’ licenses.
+2137\. Operators' licenses.
 
 2138\. Suspension of licenses during war or national emergency.
 
@@ -462,7 +462,7 @@ Sec.
 
 2286f. Judicial review.
 
-2286g. “Department of Energy defense nuclear facility” defined.
+2286g. "Department of Energy defense nuclear facility" defined.
 
 2286h. Contract authority subject to appropriations.
 

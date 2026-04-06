@@ -8,7 +8,7 @@ Section 1083, Pub. L. 88–308, §3, May 20, 1964, 78 Stat. 195; Pub. L. 90–57
 
 Section 1084, Pub. L. 88–308, §4, May 20, 1964, 78 Stat. 196; 1970 Reorg. Plan No. 4, eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090, covered authority of Secretaries of Commerce and Treasury to jointly or severally issue regulations under this chapter.
 
-Section 1085, Pub. L. 88–308, §5, May 20, 1964, 78 Stat. 196; Pub. L. 93–242, §15, Jan. 2, 1974, 87 Stat. 1068, covered definitions of “Continental Shelf fishery resource”, “fisheries”, “Continental Shelf”, and authorized Secretary of Commerce to enlarge list of covered organisms. See section 1802 of this title.
+Section 1085, Pub. L. 88–308, §5, May 20, 1964, 78 Stat. 196; Pub. L. 93–242, §15, Jan. 2, 1974, 87 Stat. 1068, covered definitions of "Continental Shelf fishery resource", "fisheries", "Continental Shelf", and authorized Secretary of Commerce to enlarge list of covered organisms. See section 1802 of this title.
 
 Section 1086, Pub. L. 88–308, §6, as added Pub. L. 91–514, §3, Oct. 27, 1970, 84 Stat. 1297, authorized Secretary of the Treasury to pay up to $5,000 to an informer for original information concerning violations under this chapter.
 

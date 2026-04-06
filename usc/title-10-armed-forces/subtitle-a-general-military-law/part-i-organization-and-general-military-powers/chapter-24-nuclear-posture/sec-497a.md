@@ -14,6 +14,6 @@
 
   
 
-(b) Dual-capable Aircraft Defined.—In this section, the term “dual-capable aircraft” means aircraft that can perform both conventional and nuclear missions.
+(b) Dual-capable Aircraft Defined.—In this section, the term "dual-capable aircraft" means aircraft that can perform both conventional and nuclear missions.
 
 (Added Pub. L. 113–66, div. A, title X, §1051(b)(1), Dec. 26, 2013, 127 Stat. 858.)

@@ -12,9 +12,9 @@ Section 5023, added Pub. L. 85–859, title II, §201, Sept. 2, 1958, 72 Stat. 1
 
 A prior section 5023, act Aug. 16, 1954, ch. 736, 68A Stat. 606, imposed a tax on blending of beverage brandies, prior to the general revision of this chapter by Pub. L. 85–859.
 
-Section 5024, added Pub. L. 85–859, title II, §201, Sept. 2, 1958, 72 Stat. 1328, indicated the sources for the definitions of “rectifier”, “products of rectification”, and “distilled spirits” and referred to other definitions relating to distilled spirits as well as other definitions of general application to this title.
+Section 5024, added Pub. L. 85–859, title II, §201, Sept. 2, 1958, 72 Stat. 1328, indicated the sources for the definitions of "rectifier", "products of rectification", and "distilled spirits" and referred to other definitions relating to distilled spirits as well as other definitions of general application to this title.
 
-A prior section 5024, act Aug. 16, 1954, ch. 736, 68A Stat. 607, defined “rectifier” and “products of rectification”, prior to the general revision of this chapter by Pub. L. 85–859.
+A prior section 5024, act Aug. 16, 1954, ch. 736, 68A Stat. 607, defined "rectifier" and "products of rectification", prior to the general revision of this chapter by Pub. L. 85–859.
 
 Section 5025, added Pub. L. 85–859, title II, §201, Sept. 2, 1958, 72 Stat. 1328; amended Pub. L. 89–44, title VIII, §805(b), (f)(2)–(5), June 21, 1965, 79 Stat. 161; Pub. L. 94–455, title XIX, §§1905(a)(4), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1818, 1834; Pub. L. 95–176, §§5(b), 6, Nov. 14, 1977, 91 Stat. 1366, 1367, enumerated 12 exemptions from the rectification tax.
 

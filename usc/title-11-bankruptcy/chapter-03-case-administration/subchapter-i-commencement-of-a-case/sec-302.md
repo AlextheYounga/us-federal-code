@@ -2,7 +2,7 @@
 
 (a) A joint case under a chapter of this title is commenced by the filing with the bankruptcy court of a single petition under such chapter by an individual that may be a debtor under such chapter and such individual's spouse. The commencement of a joint case under a chapter of this title constitutes an order for relief under such chapter.
 
-(b) After the commencement of a joint case, the court shall determine the extent, if any, to which the debtors’ estates shall be consolidated.
+(b) After the commencement of a joint case, the court shall determine the extent, if any, to which the debtors' estates shall be consolidated.
 
 (Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2558.)
 

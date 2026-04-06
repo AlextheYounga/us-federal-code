@@ -28,4 +28,4 @@ All provisions of law relating to the seizure, forfeiture, and condemnation of a
 
 **2011**—Pub. L. 112–81, §312(b)(10), inserted section catchline and headings for subsecs. (a) to (d).
 
-Subsec. (b)(2), (3). Pub. L. 112–81, §312(c), substituted “magistrate judge” for “magistrate”.
+Subsec. (b)(2), (3). Pub. L. 112–81, §312(c), substituted "magistrate judge" for "magistrate".

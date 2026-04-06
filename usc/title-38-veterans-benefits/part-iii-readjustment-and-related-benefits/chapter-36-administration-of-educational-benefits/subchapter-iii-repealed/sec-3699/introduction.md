@@ -10,14 +10,14 @@ Repeal effective 90 days after Dec. 16, 2003, see section 306(h)(2) of Pub. L. 1
 
 Pub. L. 108–183, title III, §306(a)–(c), Dec. 16, 2003, 117 Stat. 2661, provided that:
 
-“(a) Termination of Program.—The Secretary of Veterans Affairs may not make a loan under subchapter III of chapter 36 of title 38, United States Code, after the date of the enactment of this Act \[Dec. 16, 2003\].
+"(a) Termination of Program.—The Secretary of Veterans Affairs may not make a loan under subchapter III of chapter 36 of title 38, United States Code, after the date of the enactment of this Act \[Dec. 16, 2003\].
 
-“(b) Discharge of Liabilities.—Effective as of the date of the transfer of funds under subsection (c)—
+"(b) Discharge of Liabilities.—Effective as of the date of the transfer of funds under subsection (c)—
 
-“(1) any liability on an education loan under subchapter III of chapter 36 of title 38, United States Code, that is outstanding as of such date shall be deemed discharged; and
+"(1) any liability on an education loan under subchapter III of chapter 36 of title 38, United States Code, that is outstanding as of such date shall be deemed discharged; and
 
-“(2) the right of the United States to recover an overpayment declared under section 3698(e)(1) of such title that is outstanding as of such date shall be deemed waived.
+"(2) the right of the United States to recover an overpayment declared under section 3698(e)(1) of such title that is outstanding as of such date shall be deemed waived.
 
-“(c) Termination of Loan Fund.—(1) Effective as of the day before the date of the repeal under this section of subchapter III of chapter 36 of title 38, United States Code \[see Effective Date of Repeal note above\], all monies in the revolving fund of the Treasury known as the ‘Department of Veterans Affairs Education Loan Fund’ shall be transferred to the Department of Veterans Affairs Readjustment Benefits Account, and the revolving fund shall be closed.
+"(c) Termination of Loan Fund.—(1) Effective as of the day before the date of the repeal under this section of subchapter III of chapter 36 of title 38, United States Code \[see Effective Date of Repeal note above\], all monies in the revolving fund of the Treasury known as the 'Department of Veterans Affairs Education Loan Fund' shall be transferred to the Department of Veterans Affairs Readjustment Benefits Account, and the revolving fund shall be closed.
 
-“(2) Any monies transferred to the Department of Veterans Affairs Readjustment Benefits Account under paragraph (1) shall be merged with amounts in that account and shall be available for the same purposes, and subject to the same conditions and limitations, as amounts in that account.”
+"(2) Any monies transferred to the Department of Veterans Affairs Readjustment Benefits Account under paragraph (1) shall be merged with amounts in that account and shall be available for the same purposes, and subject to the same conditions and limitations, as amounts in that account."

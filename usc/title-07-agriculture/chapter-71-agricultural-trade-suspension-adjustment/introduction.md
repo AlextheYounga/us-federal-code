@@ -12,6 +12,6 @@ Sec.
 
 4004a. Applicability of supplemental nutrition assistance requirements.
 
-4005\. “Fuel conversion price” defined.
+4005\. "Fuel conversion price" defined.
 
         

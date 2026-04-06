@@ -14,4 +14,4 @@ Section 1316, act Mar. 4, 1923, ch. 252, title II, §216(f), 42 Stat. 1473, rela
 
 Section 1317, act Mar. 4, 1923, ch. 252, title II, §216(g), 42 Stat. 1473, related to false representations as to debentures. See section 1013 of Title 18.
 
-Section 1318, act Mar. 4, 1923, ch. 252, title II, §216(h), 42 Stat. 1473, related to unlawful use of words “National Agricultural Credit Corporation”. See section 709 of Title 18.
+Section 1318, act Mar. 4, 1923, ch. 252, title II, §216(h), 42 Stat. 1473, related to unlawful use of words "National Agricultural Credit Corporation". See section 709 of Title 18.

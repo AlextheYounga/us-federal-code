@@ -16,4 +16,4 @@ Sec.
 
         
 
-[1 So in original. Probably should be “155”. Another chapter 3 is set out in subtitle I of this title.](#CHAPTER3_1)
+[1 So in original. Probably should be "155". Another chapter 3 is set out in subtitle I of this title.](#CHAPTER3_1)

@@ -150,7 +150,7 @@ A swap execution facility shall—
 
 (ii) report to the Commission, in a form and manner acceptable to the Commission, such information as the Commission determines to be necessary or appropriate for the Commission to perform the duties of the Commission under this chapter; and
 
-(iii) shall keep any such records relating to swaps defined in section 1a(47)(A)(v) of this title open to inspection and examination by the Securities and Exchange Commission.” [1](#7b-3_1_target)
+(iii) shall keep any such records relating to swaps defined in section 1a(47)(A)(v) of this title open to inspection and examination by the Securities and Exchange Commission." [1](#7b-3_1_target)
 
 #### (B) Requirements
 
@@ -272,4 +272,4 @@ Section effective on the later of 360 days after July 21, 2010, or, to the exten
 
 [1 So in original. The closing quotation marks probably should not appear.](#7b-3_1)
 
-[2 So in original. Probably should be “take”.](#7b-3_2)
+[2 So in original. Probably should be "take".](#7b-3_2)

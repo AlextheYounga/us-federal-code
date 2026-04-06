@@ -46,6 +46,6 @@ Sec.
 
 #### Amendments
 
-**1991**—Pub. L. 102–83, §4(a)(3), (4), Aug. 6, 1991, 105 Stat. 404, substituted “DEPARTMENT” for “VETERANS’ ADMINISTRATION” in headings for subchapters III and IV and “Department” for “Veterans’ Administration” in item 8241.
+**1991**—Pub. L. 102–83, §4(a)(3), (4), Aug. 6, 1991, 105 Stat. 404, substituted "DEPARTMENT" for "VETERANS' ADMINISTRATION" in headings for subchapters III and IV and "Department" for "Veterans' Administration" in item 8241.
 
 Pub. L. 102–40, title IV, §402(c)(1), May 7, 1991, 105 Stat. 239, renumbered items 5070 to 5096 as 8201 to 8241, respectively.

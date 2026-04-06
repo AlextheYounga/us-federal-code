@@ -12,7 +12,7 @@ Section consolidates parts of sections 395 and 396 of title 28, U.S.C., 1940 ed.
 
 Sections 395 and 396 of title 28, U.S.C., 1940 ed., have been extended to include all clerks, deputies, and assistants.
 
-The revised section substitutes as simpler and more appropriate, the prohibition against practice of law “in any court of the United States.” (See reviser's note under section 556 of this title.)
+The revised section substitutes as simpler and more appropriate, the prohibition against practice of law "in any court of the United States." (See reviser's note under section 556 of this title.)
 
 For explanation of provisions omitted from sections 395 and 396 of title 28, U.S.C., 1940 ed., also see reviser's note under section 556 of this title.
 

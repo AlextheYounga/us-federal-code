@@ -68,7 +68,7 @@ The training options referred to in subparagraph (F) of paragraph (2) shall be a
 
 For purposes of this subsection:
 
-(A) The term “graduate medical education program” means a program sponsored by a school of medicine, a school of osteopathic medicine, a hospital, or a public or private institution that—
+(A) The term "graduate medical education program" means a program sponsored by a school of medicine, a school of osteopathic medicine, a hospital, or a public or private institution that—
 
 (i) offers postgraduate medical training in the specialties and subspecialties of medicine; and
 
@@ -76,7 +76,7 @@ For purposes of this subsection:
 
   
 
-(B) The term “post-doctoral dental education program” means a program sponsored by a school of dentistry, a hospital, or a public or private institution that—
+(B) The term "post-doctoral dental education program" means a program sponsored by a school of dentistry, a hospital, or a public or private institution that—
 
 (i) offers post-doctoral training in the specialties of dentistry, advanced education in general dentistry, or a dental general practice residency; and
 
@@ -152,7 +152,7 @@ Amounts awarded under a grant or contract under paragraph (1) shall be used to�
 
 #### (A) In general
 
-Pursuant to paragraph (3), a geriatric education center that receives an award under this subsection shall use such funds to offer short-term intensive courses (referred to in this subsection as a “fellowship”) that focus on geriatrics, chronic care management, and long-term care that provide supplemental training for faculty members in medical schools and other health professions schools with programs in psychology, pharmacy, nursing, social work, dentistry, public health, allied health, or other health disciplines, as approved by the Secretary. Such a fellowship shall be open to current faculty, and appropriately credentialed volunteer faculty and practitioners, who do not have formal training in geriatrics, to upgrade their knowledge and clinical skills for the care of older adults and adults with functional limitations and to enhance their interdisciplinary teaching skills.
+Pursuant to paragraph (3), a geriatric education center that receives an award under this subsection shall use such funds to offer short-term intensive courses (referred to in this subsection as a "fellowship") that focus on geriatrics, chronic care management, and long-term care that provide supplemental training for faculty members in medical schools and other health professions schools with programs in psychology, pharmacy, nursing, social work, dentistry, public health, allied health, or other health disciplines, as approved by the Secretary. Such a fellowship shall be open to current faculty, and appropriately credentialed volunteer faculty and practitioners, who do not have formal training in geriatrics, to upgrade their knowledge and clinical skills for the care of older adults and adults with functional limitations and to enhance their interdisciplinary teaching skills.
 
 #### (B) Location
 
@@ -224,13 +224,13 @@ Another prior section 294c, act July 1, 1944, ch. 373, title VII, §743, as adde
 
 #### Amendments
 
-**2010**—Subsec. (b)(2)(E). Pub. L. 111–256 substituted “elderly individuals with intellectual disabilities” for “elderly mentally retarded individuals”.
+**2010**—Subsec. (b)(2)(E). Pub. L. 111–256 substituted "elderly individuals with intellectual disabilities" for "elderly mentally retarded individuals".
 
 Subsec. (c)(2) to (4). Pub. L. 111–148, §5305(b)(2), added pars. (2) to (4) and struck out former pars. (2) and (3) which described eligible individuals and limitations for Geriatric Academic Career Awards. Former par. (4) redesignated (5).
 
 Subsec. (c)(5). Pub. L. 111–148, §5305(b)(1), redesignated par. (4) as (5). Former par. (5) redesignated (6).
 
-Subsec. (c)(5)(A). Pub. L. 111–148, §5305(b)(3)(A), inserted “for individuals who are physicians” before “shall equal” and inserted at end “The Secretary shall determine the amount of an Award under this section for individuals who are not physicians.”
+Subsec. (c)(5)(A). Pub. L. 111–148, §5305(b)(3)(A), inserted "for individuals who are physicians" before "shall equal" and inserted at end "The Secretary shall determine the amount of an Award under this section for individuals who are not physicians."
 
 Subsec. (c)(5)(C). Pub. L. 111–148, §5305(b)(3)(B), added subpar. (C).
 
@@ -238,12 +238,12 @@ Subsec. (c)(6). Pub. L. 111–148, §5305(b)(1), redesignated par. (5) as (6).
 
 Subsecs. (d), (e). Pub. L. 111–148, §5305(a), added subsecs. (d) and (e).
 
-**2002**—Subsec. (a)(1). Pub. L. 107–205 substituted “, and section 296(2) of this title,” for “, and section 298b(2) of this title,”.
+**2002**—Subsec. (a)(1). Pub. L. 107–205 substituted ", and section 296(2) of this title," for ", and section 298b(2) of this title,".
 
 #### Definitions
 
 For meaning of references to an intellectual disability and to individuals with intellectual disabilities in provisions amended by section 2 of Pub. L. 111–256, see section 2(k) of Pub. L. 111–256, set out as a note under section 1400 of Title 20, Education.
 
-[1 So in original. Probably should be “paragraph”.](#294c_1)
+[1 So in original. Probably should be "paragraph".](#294c_1)
 
-[2 So in original. Probably should be “additional”.](#294c_2)
+[2 So in original. Probably should be "additional".](#294c_2)

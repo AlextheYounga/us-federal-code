@@ -90,7 +90,7 @@ Sec.
 
 690g. Violation of laws and regulations; penalties.
 
-690h. “Person” defined.
+690h. "Person" defined.
 
 690i. Omitted.
 

@@ -26,7 +26,7 @@ The Secretary, acting through the Under Secretary for Intelligence and Analysis,
 
 #### (2) Program name
 
-The program under this section shall be known as the “Homeland Security Information Sharing Fellows Program”.
+The program under this section shall be known as the "Homeland Security Information Sharing Fellows Program".
 
 #### (b) Eligibility
 
@@ -46,7 +46,7 @@ In order to be eligible for selection as an Information Sharing Fellow under the
 
 #### (2) Eligible entities
 
-In this subsection, the term “eligible entity” means—
+In this subsection, the term "eligible entity" means—
 
 (A) a State, local, or regional fusion center;
 

@@ -8,4 +8,4 @@ The Department of Defense is held free from any liability to pay into the Treasu
 
 **2011**—Pub. L. 112–81 inserted section catchline.
 
-**1974**—Pub. L. 93–452, §3(4), substituted “title” for “Act” wherever appearing, which for purposes of codification was translated as “subchapter”.
+**1974**—Pub. L. 93–452, §3(4), substituted "title" for "Act" wherever appearing, which for purposes of codification was translated as "subchapter".

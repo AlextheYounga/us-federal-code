@@ -10,7 +10,7 @@ Based on title 28, U.S.C., 1940 ed., §§264, 385, section 1509 of title 19, U.S
 
 Section consolidates provisions of sections 264 and 385 of title 28, U.S.C., 1940 ed., section 1509 of title 19, U.S.C., 1940 ed., and section 1114(a) of title 26, U.S.C., 1940 ed., relating to administration of oaths and acknowledgments by judges and courts.
 
-The provision of section 385 of title 28, U.S.C., 1940 ed., giving to “all courts of the United States” power to impose and administer all necessary oaths is the only part of such section in this title. The remainder is incorporated in section 401 of revised title 18, U.S.C. (H.R. 1600, 80th Cong.), Crimes and Criminal Procedure.
+The provision of section 385 of title 28, U.S.C., 1940 ed., giving to "all courts of the United States" power to impose and administer all necessary oaths is the only part of such section in this title. The remainder is incorporated in section 401 of revised title 18, U.S.C. (H.R. 1600, 80th Cong.), Crimes and Criminal Procedure.
 
 Section 264 of title 28, U.S.C., 1940 ed., related only to the Court of Claims and provision of such section relating to clerks and deputies is incorporated in section 953 of this title.
 

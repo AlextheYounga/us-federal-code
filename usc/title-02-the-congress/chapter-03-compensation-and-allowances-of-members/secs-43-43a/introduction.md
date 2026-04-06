@@ -10,6 +10,6 @@ Section 43a, acts July 8, 1935, ch. 374, 49 Stat. 459; Aug. 11, 1993, Pub. L. 10
 
 Pub. L. 104–53, title I, §1, Nov. 19, 1995, 109 Stat. 517, provided that:
 
-“(a) On and after October 1, 1995, no Senator shall receive mileage under section 17 of the Act of July 28, 1866 (2 U.S.C. 43).
+"(a) On and after October 1, 1995, no Senator shall receive mileage under section 17 of the Act of July 28, 1866 (2 U.S.C. 43).
 
-“(b) On and after October 1, 1995, the President of the Senate shall not receive mileage under the first section of the Act of July 8, 1935 (2 U.S.C. 43a).”
+"(b) On and after October 1, 1995, the President of the Senate shall not receive mileage under the first section of the Act of July 8, 1935 (2 U.S.C. 43a)."

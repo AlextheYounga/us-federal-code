@@ -18,7 +18,7 @@ Section 134g, Pub. L. 87–518, §12, July 2, 1962, 76 Stat. 132, related to aut
 
 Section 134h, Pub. L. 87–518, §13, July 2, 1962, 76 Stat. 132, related to separability.
 
-Section 135, Pub. L. 91–239, §1, May 6, 1970, 84 Stat. 202; Pub. L. 103–465, title IV, §431(j), Dec. 8, 1994, 108 Stat. 4969, related to the establishment of international animal quarantine station, acceptance of gifts, cooperation with breeders’ organizations, and collection of fees.
+Section 135, Pub. L. 91–239, §1, May 6, 1970, 84 Stat. 202; Pub. L. 103–465, title IV, §431(j), Dec. 8, 1994, 108 Stat. 4969, related to the establishment of international animal quarantine station, acceptance of gifts, cooperation with breeders' organizations, and collection of fees.
 
 Section 135a, Pub. L. 91–239, §2, May 6, 1970, 84 Stat. 202; Pub. L. 97–461, §9, Jan. 12, 1983, 96 Stat. 2525, related to smuggling penalties.
 

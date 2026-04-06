@@ -44,7 +44,7 @@ Chap. Sec.
 
 11\. Caustic Poisons \[Repealed\] 401
 
-12\. Discrimination Against Farmers’ Cooperative Associations by Boards of Trade 431
+12\. Discrimination Against Farmers' Cooperative Associations by Boards of Trade 431
 
 13\. Textile Foundation 501
 

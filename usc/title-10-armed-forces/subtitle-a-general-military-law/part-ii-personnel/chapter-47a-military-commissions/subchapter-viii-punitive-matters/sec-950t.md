@@ -26,7 +26,7 @@ The following offenses shall be triable by military commission under this chapte
 
 (A) Offense.—Any person subject to this chapter who commits an act specifically intended to inflict severe physical or mental pain or suffering (other than pain or suffering incidental to lawful sanctions) upon another person within his custody or physical control for the purpose of obtaining information or a confession, punishment, intimidation, coercion, or any reason based on discrimination of any kind, shall be punished, if death results to one or more of the victims, by death or such other punishment as a military commission under this chapter may direct, and, if death does not result to any of the victims, by such punishment, other than death, as a military commission under this chapter may direct.
 
-(B) Severe mental pain or suffering defined.—In this paragraph, the term “severe mental pain or suffering” has the meaning given that term in section 2340(2) of title 18.
+(B) Severe mental pain or suffering defined.—In this paragraph, the term "severe mental pain or suffering" has the meaning given that term in section 2340(2) of title 18.
 
   
 
@@ -36,7 +36,7 @@ The following offenses shall be triable by military commission under this chapte
 
 (A) Offense.—Any person subject to this chapter who intentionally causes serious bodily injury to one or more persons, including privileged belligerents, in violation of the law of war shall be punished, if death results to one or more of the victims, by death or such other punishment as a military commission under this chapter may direct, and, if death does not result to any of the victims, by such punishment, other than death, as a military commission under this chapter may direct.
 
-(B) Serious bodily injury defined.—In this paragraph, the term “serious bodily injury” means bodily injury which involves—
+(B) Serious bodily injury defined.—In this paragraph, the term "serious bodily injury" means bodily injury which involves—
 
 (i) a substantial risk of death;
 
@@ -74,7 +74,7 @@ The following offenses shall be triable by military commission under this chapte
 
 (A) Offense.—Any person subject to this chapter who provides material support or resources, knowing or intending that they are to be used in preparation for, or in carrying out, an act of terrorism (as set forth in paragraph (24) of this section), or who intentionally provides material support or resources to an international terrorist organization engaged in hostilities against the United States, knowing that such organization has engaged or engages in terrorism (as so set forth), shall be punished as a military commission under this chapter may direct.
 
-(B) Material support or resources defined.—In this paragraph, the term “material support or resources” has the meaning given that term in section 2339A(b) of title 18.
+(B) Material support or resources defined.—In this paragraph, the term "material support or resources" has the meaning given that term in section 2339A(b) of title 18.
 
   
 
@@ -116,6 +116,6 @@ Section 950w, added Pub. L. 109–366, §3(a)(1), Oct. 17, 2006, 120 Stat. 2630,
 
 [1 So in original. The period probably should be a comma.](#950t_1)
 
-[2 So in original. Probably should be followed by “be”.](#950t_2)
+[2 So in original. Probably should be followed by "be".](#950t_2)
 
 [3 So in original. Probably should be followed by a period.](#950t_3)

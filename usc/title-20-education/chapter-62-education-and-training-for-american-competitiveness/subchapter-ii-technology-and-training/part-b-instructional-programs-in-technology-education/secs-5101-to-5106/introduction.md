@@ -10,4 +10,4 @@ Section 5104, Pub. L. 100–418, title VI, §6114, Aug. 23, 1988, 102 Stat. 1507
 
 Section 5105, Pub. L. 100–418, title VI, §6115, Aug. 23, 1988, 102 Stat. 1507, authorized appropriations.
 
-Section 5106, Pub. L. 100–418, title VI, §6116, Aug. 23, 1988, 102 Stat. 1507, defined “technology education”.
+Section 5106, Pub. L. 100–418, title VI, §6116, Aug. 23, 1988, 102 Stat. 1507, defined "technology education".

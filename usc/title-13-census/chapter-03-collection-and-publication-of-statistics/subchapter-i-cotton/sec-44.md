@@ -8,6 +8,6 @@ In addition to the information regarding cotton in the United States provided fo
 
 Based on title 13, U.S.C., 1952 ed., §75 (Apr. 2, 1924, ch. 80, §5, 43 Stat. 32; June 18, 1929, ch. 28, §21, 46 Stat. 26).
 
-References to the Director of the Census were changed to references to the Secretary (of Commerce), and words “Department of Commerce or agency or bureau thereof” were substituted for “Bureau of the Census”, to conform with 1950 Reorganization Plan No. 5, §§1, 2, effective May 24, 1950, 15 F.R. 3174, 64 Stat. 1263. See Revision Note to section 4 of this title.
+References to the Director of the Census were changed to references to the Secretary (of Commerce), and words "Department of Commerce or agency or bureau thereof" were substituted for "Bureau of the Census", to conform with 1950 Reorganization Plan No. 5, §§1, 2, effective May 24, 1950, 15 F.R. 3174, 64 Stat. 1263. See Revision Note to section 4 of this title.
 
 Changes were made in phraseology.

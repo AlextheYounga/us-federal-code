@@ -12,7 +12,7 @@ Section 1423, Pub. L. 88–608, §3, Sept. 19, 1964, 78 Stat. 989, related to no
 
 Section 1424, Pub. L. 88–608, §4, Sept. 19, 1964, 78 Stat. 989, related to title reservations.
 
-Section 1425, Pub. L. 88–608, §5, Sept. 19, 1964, 78 Stat. 989, defined “public lands”, “qualified governmental agency”, and “qualified individual”.
+Section 1425, Pub. L. 88–608, §5, Sept. 19, 1964, 78 Stat. 989, defined "public lands", "qualified governmental agency", and "qualified individual".
 
 Section 1426, Pub. L. 88–608, §6, Sept. 19, 1964, 78 Stat. 989, related to sales in Alaska.
 

@@ -20,7 +20,7 @@ Section 3024, Pub. L. 89–10, title III, §3004, as added Pub. L. 100–297, ti
 
 A prior section 3024, Pub. L. 89–10, title III, §364, as added Pub. L. 95–561, title III, §301(a), Nov. 1, 1978, 92 Stat. 2221, authorized appropriations for a program of health education, prior to repeal by Pub. L. 97–35, title V, §587(a)(1), Aug. 13, 1981, 95 Stat. 480, eff. Oct. 1, 1982.
 
-Section 3025, Pub. L. 89–10, title III, §3005, as added Pub. L. 100–297, title I, §1001, Apr. 28, 1988, 102 Stat. 232, defined “magnet school”.
+Section 3025, Pub. L. 89–10, title III, §3005, as added Pub. L. 100–297, title I, §1001, Apr. 28, 1988, 102 Stat. 232, defined "magnet school".
 
 Section 3026, Pub. L. 89–10, title III, §3006, as added Pub. L. 100–297, title I, §1001, Apr. 28, 1988, 102 Stat. 232, related to uses of funds.
 

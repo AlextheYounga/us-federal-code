@@ -20,13 +20,13 @@ Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended by Pub. L. 94–409, §
 
 ### §1. Short title
 
-This Act may be cited as the “Federal Advisory Committee Act”.
+This Act may be cited as the "Federal Advisory Committee Act".
 
 (Pub. L. 92–463, §1, Oct. 6, 1972, 86 Stat. 770.)
 
 #### Short Title of 1997 Amendment
 
-Pub. L. 105–153, §1, Dec. 17, 1997, 111 Stat. 2689, provided that: “This Act \[enacting section 15 of Pub. L. 92–463, set out in this Appendix, amending section 3 of Pub. L. 92–463, set out in this Appendix, renumbering former section 15 of Pub. L. 92–463, set out in this Appendix, as section 16, and enacting provisions set out as notes under sections 3 and 15 of Pub. L. 92–463, set out in this Appendix\] may be cited as the ‘Federal Advisory Committee Act Amendments of 1997’.”
+Pub. L. 105–153, §1, Dec. 17, 1997, 111 Stat. 2689, provided that: "This Act \[enacting section 15 of Pub. L. 92–463, set out in this Appendix, amending section 3 of Pub. L. 92–463, set out in this Appendix, renumbering former section 15 of Pub. L. 92–463, set out in this Appendix, as section 16, and enacting provisions set out as notes under sections 3 and 15 of Pub. L. 92–463, set out in this Appendix\] may be cited as the 'Federal Advisory Committee Act Amendments of 1997'."
 
 ### §2. Findings and purpose
 
@@ -84,7 +84,7 @@ Memorandum for the Heads of Executive Departments and Agencies
 
 My Administration is committed to reducing the undue influence of special interests that for too long has shaped the national agenda and drowned out the voices of ordinary Americans. Special interests exert this disproportionate influence, in part, by relying on lobbyists who have special access that is not available to all citizens. Although lobbyists can sometimes play a constructive role by communicating information to the government, their service in privileged positions within the executive branch can perpetuate the culture of special-interest access that I am committed to changing.
 
-On the day after my inauguration, I signed Executive Order 13490, which places strict limits on the ability of lobbyists to serve in Government positions related to their prior lobbying activities. Last September, we took another step to close the revolving door through which lobbyists enter and exit Government positions when we announced that my Administration aspires to keep Federal agencies’ advisory boards free of federally registered lobbyists. Many departments and agencies are making this aspiration a reality by no longer placing federally registered lobbyists on advisory boards—a practice that I am now establishing as the official policy of my Administration.
+On the day after my inauguration, I signed Executive Order 13490, which places strict limits on the ability of lobbyists to serve in Government positions related to their prior lobbying activities. Last September, we took another step to close the revolving door through which lobbyists enter and exit Government positions when we announced that my Administration aspires to keep Federal agencies' advisory boards free of federally registered lobbyists. Many departments and agencies are making this aspiration a reality by no longer placing federally registered lobbyists on advisory boards—a practice that I am now establishing as the official policy of my Administration.
 
 Accordingly, I hereby direct the heads of executive departments and agencies not to make any new appointments or reappointments of federally registered lobbyists to advisory committees and other boards and commissions. Within 90 days of the date of this memorandum, the Director of the Office of Management and Budget shall issue proposed guidance designed to implement this policy to the full extent permitted by law. The final guidance shall be issued following public comment on the proposed guidance.
 
@@ -98,9 +98,9 @@ Barack Obama.      
 
 For the purpose of this Act—
 
-(1) The term “Administrator” means the Administrator of General Services.
+(1) The term "Administrator" means the Administrator of General Services.
 
-(2) The term “advisory committee” means any committee, board, commission, council, conference, panel, task force, or other similar group, or any subcommittee or other subgroup thereof (hereafter in this paragraph referred to as “committee”), which is—
+(2) The term "advisory committee" means any committee, board, commission, council, conference, panel, task force, or other similar group, or any subcommittee or other subgroup thereof (hereafter in this paragraph referred to as "committee"), which is—
 
 (A) established by statute or reorganization plan, or
 
@@ -112,27 +112,27 @@ For the purpose of this Act—
 
 in the interest of obtaining advice or recommendations for the President or one or more agencies or officers of the Federal Government, except that such term excludes (i) any committee that is composed wholly of full-time, or permanent part-time, officers or employees of the Federal Government, and (ii) any committee that is created by the National Academy of Sciences or the National Academy of Public Administration.
 
-(3) The term “agency” has the same meaning as in section 551(1) of title 5, United States Code.
+(3) The term "agency" has the same meaning as in section 551(1) of title 5, United States Code.
 
-(4) The term “Presidential advisory committee” means an advisory committee which advises the President.
+(4) The term "Presidential advisory committee" means an advisory committee which advises the President.
 
 (Pub. L. 92–463, §3, Oct. 6, 1972, 86 Stat. 770; 1977 Reorg. Plan No. 1, §5F, eff. Nov. 20, 1977, 42 F.R. 56101, 91 Stat. 1634; Pub. L. 105–153, §2(a), Dec. 17, 1997, 111 Stat. 2689.)
 
 #### Amendments
 
-**1997**—Par. (2). Pub. L. 105–153, in closing provisions, substituted “such term excludes (i) any committee that is composed wholly of full-time, or permanent part-time, officers or employees of the Federal Government, and (ii) any committee that is created by the National Academy of Sciences or the National Academy of Public Administration.” for “such term excludes (i) the Advisory Commission on Intergovernmental Relations, (ii) the Commission on Government Procurement, and (iii) any committee which is composed wholly of full-time officers or employees of the Federal Government.”
+**1997**—Par. (2). Pub. L. 105–153, in closing provisions, substituted "such term excludes (i) any committee that is composed wholly of full-time, or permanent part-time, officers or employees of the Federal Government, and (ii) any committee that is created by the National Academy of Sciences or the National Academy of Public Administration." for "such term excludes (i) the Advisory Commission on Intergovernmental Relations, (ii) the Commission on Government Procurement, and (iii) any committee which is composed wholly of full-time officers or employees of the Federal Government."
 
 #### Effective Date of 1997 Amendment
 
 Pub. L. 105–153, §2(c), Dec. 17, 1997, 111 Stat. 2691, provided that:
 
-“(1) In general.—Except as provided in paragraph (2), this section \[enacting section 15 of Pub. L. 92–463, set out in this Appendix, amending this section, and redesignating former section 15 of Pub. L. 92–463, set out in this Appendix, as section 16\] and the amendments made by this section shall take effect on the date of the enactment of this Act \[Dec. 17, 1997\].
+"(1) In general.—Except as provided in paragraph (2), this section \[enacting section 15 of Pub. L. 92–463, set out in this Appendix, amending this section, and redesignating former section 15 of Pub. L. 92–463, set out in this Appendix, as section 16\] and the amendments made by this section shall take effect on the date of the enactment of this Act \[Dec. 17, 1997\].
 
-“(2) Retroactive effect.—Subsection (a) \[amending this section\] and the amendments made by subsection (a) shall be effective as of October 6, 1972, except that they shall not apply with respect to or otherwise affect any particular advice or recommendations that are subject to any judicial action filed before the date of the enactment of this Act.”
+"(2) Retroactive effect.—Subsection (a) \[amending this section\] and the amendments made by subsection (a) shall be effective as of October 6, 1972, except that they shall not apply with respect to or otherwise affect any particular advice or recommendations that are subject to any judicial action filed before the date of the enactment of this Act."
 
 #### Transfer of Functions
 
-“ ‘Administrator’ means the Administrator of General Services” substituted for “ ‘Director’ means the Director of the Office of Management and Budget” in par. (1) pursuant to Reorg. Plan No. 1 of 1977, §5F, 42 F.R. 56101, 91 Stat. 1634, set out in this Appendix, which transferred functions of Office of Management and Budget and Director thereof relating to Committee Management Secretariat to Administrator of General Services, effective Nov. 20, 1977, as provided by section 1 of Ex. Ord. No. 12024, Dec. 1, 1977, 42 F.R. 61445, set out under section 2 of this Act in this Appendix.
+" 'Administrator' means the Administrator of General Services" substituted for " 'Director' means the Director of the Office of Management and Budget" in par. (1) pursuant to Reorg. Plan No. 1 of 1977, §5F, 42 F.R. 56101, 91 Stat. 1634, set out in this Appendix, which transferred functions of Office of Management and Budget and Director thereof relating to Committee Management Secretariat to Administrator of General Services, effective Nov. 20, 1977, as provided by section 1 of Ex. Ord. No. 12024, Dec. 1, 1977, 42 F.R. 61445, set out under section 2 of this Act in this Appendix.
 
 ### §4. Applicability; restrictions
 
@@ -266,9 +266,9 @@ Amendment by Pub. L. 96–523 effective sixty days after Dec. 12, 1980, see sect
 
 #### Transfer of Functions
 
-“Director of the Office of Personnel Management” substituted for “Civil Service Commission” in subsec. (d) pursuant to Reorg. Plan No. 2 of 1978, §102, 43 F.R. 36037, 92 Stat. 3783, set out under section 1101 of this title, which transferred functions vested by statute in United States Civil Service Commission to Director of Office of Personnel Management (except as otherwise specified), effective Jan. 1, 1979, as provided by section 1–102 of Ex. Ord. No. 12107, Dec. 28, 1978, 44 F.R. 1055, set out under section 1101 of this title.
+"Director of the Office of Personnel Management" substituted for "Civil Service Commission" in subsec. (d) pursuant to Reorg. Plan No. 2 of 1978, §102, 43 F.R. 36037, 92 Stat. 3783, set out under section 1101 of this title, which transferred functions vested by statute in United States Civil Service Commission to Director of Office of Personnel Management (except as otherwise specified), effective Jan. 1, 1979, as provided by section 1–102 of Ex. Ord. No. 12107, Dec. 28, 1978, 44 F.R. 1055, set out under section 1101 of this title.
 
-“Administrator”, “Administrator's”, “Administrator of General Services”, and “General Services Administration” substituted for “Director”, “Director's”, “Director, Office of Management and Budget”, and “Office of Management and Budget” in text pursuant to Reorg. Plan No. 1 of 1977, §5F, 42 F.R. 56101, 91 Stat. 1634, set out in this Appendix, which transferred functions of Office of Management and Budget and Director thereof relating to Committee Management Secretariat to Administrator of General Services, effective Nov. 20, 1977, as provided by section 1 of Ex. Ord. No. 12024, Dec. 1, 1977, 42 F.R. 61445, set out under section 2 of this Act in this Appendix.
+"Administrator", "Administrator's", "Administrator of General Services", and "General Services Administration" substituted for "Director", "Director's", "Director, Office of Management and Budget", and "Office of Management and Budget" in text pursuant to Reorg. Plan No. 1 of 1977, §5F, 42 F.R. 56101, 91 Stat. 1634, set out in this Appendix, which transferred functions of Office of Management and Budget and Director thereof relating to Committee Management Secretariat to Administrator of General Services, effective Nov. 20, 1977, as provided by section 1 of Ex. Ord. No. 12024, Dec. 1, 1977, 42 F.R. 61445, set out under section 2 of this Act in this Appendix.
 
 #### References in Other Laws to GS–16, 17, or 18 Pay Rates
 
@@ -290,7 +290,7 @@ References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rat
 
 #### Transfer of Functions
 
-“Administrator”, meaning Administrator of General Services, substituted for “Director”, meaning Director of Office of Management and Budget, in subsec. (a) pursuant to Reorg. Plan No. 1 of 1977, §5F, 42 F.R. 56101, 91 Stat. 1634, set out in this Appendix, which transferred functions of Office of Management and Budget and Director thereof relating to Committee Management Secretariat to Administrator of General Services, effective Nov. 20, 1977, as provided by section 1 of Ex. Ord. No. 12024, Dec. 1, 1977, 42 F.R. 61445, set out under section 2 of this Act in this Appendix.
+"Administrator", meaning Administrator of General Services, substituted for "Director", meaning Director of Office of Management and Budget, in subsec. (a) pursuant to Reorg. Plan No. 1 of 1977, §5F, 42 F.R. 56101, 91 Stat. 1634, set out in this Appendix, which transferred functions of Office of Management and Budget and Director thereof relating to Committee Management Secretariat to Administrator of General Services, effective Nov. 20, 1977, as provided by section 1 of Ex. Ord. No. 12024, Dec. 1, 1977, 42 F.R. 61445, set out under section 2 of this Act in this Appendix.
 
 ### §9. Establishment and purpose of advisory committees; publication in Federal Register; charter: filing, contents, copy
 
@@ -334,7 +334,7 @@ A copy of any such charter shall also be furnished to the Library of Congress.
 
 #### Transfer of Functions
 
-“Administrator”, meaning Administrator of General Services, substituted for “Director”, meaning Director of Office of Management and Budget, in subsecs. (a)(2) and (c) pursuant to Reorg. Plan No. 1 of 1977, §5F, 42 F.R. 56101, 91 Stat. 1634, set out in this Appendix, which transferred functions of Office of Management and Budget and Director thereof relating to Committee Management Secretariat to Administrator of General Services, effective Nov. 20, 1977, as provided by section 1 of Ex. Ord. No. 12024, Dec. 1, 1977, 42 F.R. 61445, set out under section 2 of this Act in this Appendix.
+"Administrator", meaning Administrator of General Services, substituted for "Director", meaning Director of Office of Management and Budget, in subsecs. (a)(2) and (c) pursuant to Reorg. Plan No. 1 of 1977, §5F, 42 F.R. 56101, 91 Stat. 1634, set out in this Appendix, which transferred functions of Office of Management and Budget and Director thereof relating to Committee Management Secretariat to Administrator of General Services, effective Nov. 20, 1977, as provided by section 1 of Ex. Ord. No. 12024, Dec. 1, 1977, 42 F.R. 61445, set out under section 2 of this Act in this Appendix.
 
 ### §10. Advisory committee procedures; meetings; notice, publication in Federal Register; regulations; minutes; certification; annual report; Federal officer or employee, attendance
 
@@ -358,7 +358,7 @@ A copy of any such charter shall also be furnished to the Library of Congress.
 
 #### Amendments
 
-**1976**—Subsec. (d). Pub. L. 94–409 inserted “portion of an” after “to any” and substituted provisions relating to determinations for closing to the public such portion of the meeting in accordance with section 552b(c) of title 5, for provisions relating to determinations of matters listed in section 552(b) of title 5.
+**1976**—Subsec. (d). Pub. L. 94–409 inserted "portion of an" after "to any" and substituted provisions relating to determinations for closing to the public such portion of the meeting in accordance with section 552b(c) of title 5, for provisions relating to determinations of matters listed in section 552(b) of title 5.
 
 #### Effective Date of 1976 Amendment
 
@@ -366,13 +366,13 @@ Amendment by Pub. L. 94–409 effective 180 days after Sept. 13, 1976, see secti
 
 #### Transfer of Functions
 
-“Administrator”, meaning Administrator of General Services, substituted for “Director”, meaning Director of Office of Management and Budget, in subsec. (a)(2), (3) pursuant to Reorg. Plan No. 1 of 1977, §5F, 42 F.R. 56101, 91 Stat. 1634, set out in this Appendix, which transferred functions of Office of Management and Budget and Director thereof relating to Committee Management Secretariat to Administrator of General Services, effective Nov. 20, 1977, as provided by section 1 of Ex. Ord. No. 12024, Dec. 1, 1977, 42 F.R. 61445, set out under section 2 of this Act in this Appendix.
+"Administrator", meaning Administrator of General Services, substituted for "Director", meaning Director of Office of Management and Budget, in subsec. (a)(2), (3) pursuant to Reorg. Plan No. 1 of 1977, §5F, 42 F.R. 56101, 91 Stat. 1634, set out in this Appendix, which transferred functions of Office of Management and Budget and Director thereof relating to Committee Management Secretariat to Administrator of General Services, effective Nov. 20, 1977, as provided by section 1 of Ex. Ord. No. 12024, Dec. 1, 1977, 42 F.R. 61445, set out under section 2 of this Act in this Appendix.
 
-### §11. Availability of transcripts; “agency proceeding”
+### §11. Availability of transcripts; "agency proceeding"
 
 (a) Except where prohibited by contractual agreements entered into prior to the effective date of this Act, agencies and advisory committees shall make available to any person, at actual cost of duplication, copies of transcripts of agency proceedings or advisory committee meetings.
 
-(b) As used in this section “agency proceeding” means any proceeding as defined in section 551(12) of title 5, United States Code.
+(b) As used in this section "agency proceeding" means any proceeding as defined in section 551(12) of title 5, United States Code.
 
 (Pub. L. 92–463, §11, Oct. 6, 1972, 86 Stat. 775.)
 
@@ -396,7 +396,7 @@ Subject to section 552 of title 5, United States Code, the Administrator shall p
 
 #### Transfer of Functions
 
-“Administrator”, meaning Administrator of General Services, substituted in text for “Director”, meaning Director of Office of Management and Budget, pursuant to Reorg. Plan No. 1 of 1977, §5F, 42 F.R. 56101, 91 Stat. 1634, set out in this Appendix, which transferred functions of Office of Management and Budget and Director thereof relating to Committee Management Secretariat to Administrator of General Services, effective Nov. 20, 1977, as provided by section 1 of Ex. Ord. No. 12024, Dec. 1, 1977, 42 F.R. 61445, set out under section 2 of this Act in this Appendix.
+"Administrator", meaning Administrator of General Services, substituted in text for "Director", meaning Director of Office of Management and Budget, pursuant to Reorg. Plan No. 1 of 1977, §5F, 42 F.R. 56101, 91 Stat. 1634, set out in this Appendix, which transferred functions of Office of Management and Budget and Director thereof relating to Committee Management Secretariat to Administrator of General Services, effective Nov. 20, 1977, as provided by section 1 of Ex. Ord. No. 12024, Dec. 1, 1977, 42 F.R. 61445, set out under section 2 of this Act in this Appendix.
 
 ### §14. Termination of advisory committees; renewal; continuation
 
@@ -434,7 +434,7 @@ Effective date of this Act, referred to in subsec. (a)(1), as meaning effective 
 
 Ex. Ord. No. 12838, Feb. 10, 1993, 58 F.R. 8207, provided:
 
-By the authority vested in me as President by the Constitution and the laws of the United States of America, including the Federal Advisory Committee Act (“FACA”), as amended (5 U.S.C. App.), it is hereby ordered as follows:
+By the authority vested in me as President by the Constitution and the laws of the United States of America, including the Federal Advisory Committee Act ("FACA"), as amended (5 U.S.C. App.), it is hereby ordered as follows:
 
 Section 1. Each executive department and agency shall terminate not less than one-third of the advisory committees subject to FACA (and not required by statute) that are sponsored by the department or agency by no later than the end of fiscal year 1993.
 
@@ -622,7 +622,7 @@ A prior section 15 of the Federal Advisory Committee Act was renumbered section 
 
 #### Report
 
-Pub. L. 105–153, §3, Dec. 17, 1997, 111 Stat. 2691, provided that: “Not later than 1 year after the date of the enactment of this Act \[Dec. 17, 1997\], the Administrator of General Services shall submit a report to the Congress on the implementation of and compliance with the amendments made by this Act \[enacting this section, amending section 3 of Pub. L. 92–463, set out in this Appendix, and redesignating former section 15 of Pub. L. 92–463, set out in this Appendix, as section 16\].”
+Pub. L. 105–153, §3, Dec. 17, 1997, 111 Stat. 2691, provided that: "Not later than 1 year after the date of the enactment of this Act \[Dec. 17, 1997\], the Administrator of General Services shall submit a report to the Congress on the implementation of and compliance with the amendments made by this Act \[enacting this section, amending section 3 of Pub. L. 92–463, set out in this Appendix, and redesignating former section 15 of Pub. L. 92–463, set out in this Appendix, as section 16\]."
 
 ### §16. Effective date
 
@@ -636,29 +636,29 @@ Pub. L. 95–452, Oct. 12, 1978, 92 Stat. 1101, as amended by Pub. L. 96–88, t
 
 ### §1. Short title
 
-This Act be cited as the “Inspector General Act of 1978”.
+This Act be cited as the "Inspector General Act of 1978".
 
 (Pub. L. 95–452, §1, Oct. 12, 1978, 92 Stat. 1101.)
 
 #### Short Title of 2008 Amendment
 
-Pub. L. 110–409, §1, Oct. 14, 2008, 122 Stat. 4302, provided that: “This Act \[see Tables for classification\] may be cited as the ‘Inspector General Reform Act of 2008’.”
+Pub. L. 110–409, §1, Oct. 14, 2008, 122 Stat. 4302, provided that: "This Act \[see Tables for classification\] may be cited as the 'Inspector General Reform Act of 2008'."
 
 #### Short Title of 2006 Amendment
 
-Pub. L. 109–440, §1, Dec. 20, 2006, 120 Stat. 3286, provided that: “This Act \[amending provisions set out as a note under section 8G of Pub. L. 95–452, set out in this Appendix\] may be cited as the ‘Iraq Reconstruction Accountability Act of 2006’.”
+Pub. L. 109–440, §1, Dec. 20, 2006, 120 Stat. 3286, provided that: "This Act \[amending provisions set out as a note under section 8G of Pub. L. 95–452, set out in this Appendix\] may be cited as the 'Iraq Reconstruction Accountability Act of 2006'."
 
 #### Short Title of 1998 Amendment
 
-Pub. L. 105–272, title VII, §701(a), Oct. 20, 1998, 112 Stat. 2413, provided that: “This title \[enacting section 8H of Pub. L. 95–452, set out in this Appendix, amending section 8I of Pub. L. 95–452, set out in this Appendix, and section 403q of Title 50, War and National Defense, and enacting provisions set out as a note under section 8H of Pub. L. 95–452, set out in this Appendix\] may be cited as the ‘Intelligence Community Whistleblower Protection Act of 1998’.”
+Pub. L. 105–272, title VII, §701(a), Oct. 20, 1998, 112 Stat. 2413, provided that: "This title \[enacting section 8H of Pub. L. 95–452, set out in this Appendix, amending section 8I of Pub. L. 95–452, set out in this Appendix, and section 403q of Title 50, War and National Defense, and enacting provisions set out as a note under section 8H of Pub. L. 95–452, set out in this Appendix\] may be cited as the 'Intelligence Community Whistleblower Protection Act of 1998'."
 
 #### Short Title of 1988 Amendment
 
-Pub. L. 100–504, title I, §101, Oct. 18, 1988, 102 Stat. 2515, provided that: “This title \[enacting sections 8B–8F of Pub. L. 95–452, set out in this Appendix, amending sections 2, 4–6, 8, 9, and 11 of Pub. L. 95–452, set out in this Appendix, sections 5315 and 5316 of this title, sections 405 and 1105 of Title 31, Money and Finance, and section 410 of Title 39, Postal Service, repealing sections 3521–3527 and 7138 of Title 42, The Public Health and Welfare, and section 231v of Title 45, Railroads, and enacting provisions set out as notes under sections 1, 5, 8D, 8E, and 9 of Pub. L. 95–452, set out in this Appendix\] may be cited as the ‘Inspector General Act Amendments of 1988’.”
+Pub. L. 100–504, title I, §101, Oct. 18, 1988, 102 Stat. 2515, provided that: "This title \[enacting sections 8B–8F of Pub. L. 95–452, set out in this Appendix, amending sections 2, 4–6, 8, 9, and 11 of Pub. L. 95–452, set out in this Appendix, sections 5315 and 5316 of this title, sections 405 and 1105 of Title 31, Money and Finance, and section 410 of Title 39, Postal Service, repealing sections 3521–3527 and 7138 of Title 42, The Public Health and Welfare, and section 231v of Title 45, Railroads, and enacting provisions set out as notes under sections 1, 5, 8D, 8E, and 9 of Pub. L. 95–452, set out in this Appendix\] may be cited as the 'Inspector General Act Amendments of 1988'."
 
 #### Payment Authority Subject to Appropriations
 
-Pub. L. 100–504, title I, §112, Oct. 18, 1988, 102 Stat. 2530, provided that: “Any authority to make payments under this title \[see Short Title of 1988 Amendment note above\] shall be effective only to such extent as provided in appropriations Acts.”
+Pub. L. 100–504, title I, §112, Oct. 18, 1988, 102 Stat. 2530, provided that: "Any authority to make payments under this title \[see Short Title of 1988 Amendment note above\] shall be effective only to such extent as provided in appropriations Acts."
 
 ### §2. Purpose and establishment of Offices of Inspector General; departments and agencies involved
 
@@ -690,27 +690,27 @@ Amendment by Pub. L. 100–527 amended section as it existed prior to amendment 
 
 #### Amendments
 
-**2008**—Par. (1). Pub. L. 110–409 substituted “section 12(2)” for “section 11(2)”.
+**2008**—Par. (1). Pub. L. 110–409 substituted "section 12(2)" for "section 11(2)".
 
-**1998**—Pub. L. 105–206, in concluding provisions, substituted “there is established—” and subpars. (A) and (B) for “there is hereby established in each of such establishments an office of Inspector General.”
+**1998**—Pub. L. 105–206, in concluding provisions, substituted "there is established—" and subpars. (A) and (B) for "there is hereby established in each of such establishments an office of Inspector General."
 
-**1988**—Pub. L. 100–504 substituted “there” for “thereby” in concluding provisions and amended par. (1) generally. Prior to amendment, par. (1), as amended by Pub. L. 100–527, read as follows: “to conduct and supervise audits and investigations relating to programs and operations of the Department of Agriculture, the Department of Commerce, the Department of Defense, the Department of Education, the Department of Housing and Urban Development, the Department of the Interior, the Department of Labor, the Department of Transportation, the Department of Veterans Affairs, the Agency for International Development, the Community Services Administration, the Environmental Protection Agency, the General Services Administration, the National Aeronautics and Space Administration, the Small Business Administration, the United States Information Agency, and the Department of State;”.
+**1988**—Pub. L. 100–504 substituted "there" for "thereby" in concluding provisions and amended par. (1) generally. Prior to amendment, par. (1), as amended by Pub. L. 100–527, read as follows: "to conduct and supervise audits and investigations relating to programs and operations of the Department of Agriculture, the Department of Commerce, the Department of Defense, the Department of Education, the Department of Housing and Urban Development, the Department of the Interior, the Department of Labor, the Department of Transportation, the Department of Veterans Affairs, the Agency for International Development, the Community Services Administration, the Environmental Protection Agency, the General Services Administration, the National Aeronautics and Space Administration, the Small Business Administration, the United States Information Agency, and the Department of State;".
 
-Par. (1). Pub. L. 100–527 inserted “the Department of Veterans Affairs,” and struck out “the Veterans’ Administration,” after “United States Information Agency,”. See Codification note above.
+Par. (1). Pub. L. 100–527 inserted "the Department of Veterans Affairs," and struck out "the Veterans' Administration," after "United States Information Agency,". See Codification note above.
 
-**1986**—Par. (1). Pub. L. 99–399 inserted “the United States Information Agency,”.
+**1986**—Par. (1). Pub. L. 99–399 inserted "the United States Information Agency,".
 
 **1985**—Par. (1). Pub. L. 99–93 inserted reference to the Department of State.
 
-**1982**—Par. (1). Pub. L. 97–252, §1117(a)(1), inserted “the Department of Defense,”.
+**1982**—Par. (1). Pub. L. 97–252, §1117(a)(1), inserted "the Department of Defense,".
 
-**1981**—Par. (1). Pub. L. 97–113 inserted “the Agency for International Development,”.
+**1981**—Par. (1). Pub. L. 97–113 inserted "the Agency for International Development,".
 
-**1979**—Par. (1). Pub. L. 96–88 inserted “the Department of Education,”.
+**1979**—Par. (1). Pub. L. 96–88 inserted "the Department of Education,".
 
 #### Effective Date of 1988 Amendments
 
-Amendment by Pub. L. 100–527 effective Mar. 15, 1989, see section 18(a) of Pub. L. 100–527, set out as a Department of Veterans Affairs Act note under section 301 of Title 38, Veterans’ Benefits.
+Amendment by Pub. L. 100–527 effective Mar. 15, 1989, see section 18(a) of Pub. L. 100–527, set out as a Department of Veterans Affairs Act note under section 301 of Title 38, Veterans' Benefits.
 
 Amendment by Pub. L. 100–504 effective 180 days after Oct. 18, 1988, see section 113 of Pub. L. 100–504, set out as a note under section 5 of Pub. L. 95–452 in this Appendix.
 
@@ -764,15 +764,15 @@ For termination of amendment by section 117(c) of Pub. L. 112–199, see Effecti
 
 #### Amendments
 
-**2012**—Subsec. (d). Pub. L. 112–199, §117(a), (c), temporarily added subsec. (d) and struck out former subsec. (d) which read as follows: “Each Inspector General shall, in accordance with applicable laws and regulations governing the civil service—
+**2012**—Subsec. (d). Pub. L. 112–199, §117(a), (c), temporarily added subsec. (d) and struck out former subsec. (d) which read as follows: "Each Inspector General shall, in accordance with applicable laws and regulations governing the civil service—
 
-“(1) appoint an Assistant Inspector General for Auditing who shall have the responsibility for supervising the performance of auditing activities relating to programs and operations of the establishment, and
+"(1) appoint an Assistant Inspector General for Auditing who shall have the responsibility for supervising the performance of auditing activities relating to programs and operations of the establishment, and
 
-“(2) appoint an Assistant Inspector General for Investigations who shall have the responsibility for supervising the performance of investigative activities relating to such programs and operations.”
+"(2) appoint an Assistant Inspector General for Investigations who shall have the responsibility for supervising the performance of investigative activities relating to such programs and operations."
 
 See Effective and Termination Dates of 2012 Amendment note below.
 
-**2008**—Subsec. (b). Pub. L. 110–409, §3(a), substituted “If an Inspector General is removed from office or is transferred to another position or location within an establishment, the President shall communicate in writing the reasons for any such removal or transfer to both Houses of Congress, not later than 30 days before the removal or transfer. Nothing in this subsection shall prohibit a personnel action otherwise authorized by law, other than transfer or removal.” for “The President shall communicate the reasons for any such removal to both Houses of Congress.”
+**2008**—Subsec. (b). Pub. L. 110–409, §3(a), substituted "If an Inspector General is removed from office or is transferred to another position or location within an establishment, the President shall communicate in writing the reasons for any such removal or transfer to both Houses of Congress, not later than 30 days before the removal or transfer. Nothing in this subsection shall prohibit a personnel action otherwise authorized by law, other than transfer or removal." for "The President shall communicate the reasons for any such removal to both Houses of Congress."
 
 Subsec. (e). Pub. L. 110–409, §4(a)(1), added subsec. (e).
 
@@ -784,99 +784,99 @@ Subsec. (g). Pub. L. 110–409, §6(a), added subsec. (g).
 
 Pub. L. 112–199, title I, §117(c), Nov. 27, 2012, 126 Stat. 1475, provided that:
 
-“(1) In general.—The amendments made by this section \[amending this section and section 8D of Pub. L. 95–452, set out in this Appendix\] shall cease to have effect on the date that is 5 years after the date of enactment of this Act \[Nov. 27, 2012\].
+"(1) In general.—The amendments made by this section \[amending this section and section 8D of Pub. L. 95–452, set out in this Appendix\] shall cease to have effect on the date that is 5 years after the date of enactment of this Act \[Nov. 27, 2012\].
 
-“(2) Return to prior authority.—Upon the date described in paragraph (1), section 3(d) and section 8D(j) of the Inspector General Act of 1978 (5 U.S.C. App.) shall read as such sections read on the day before the date of enactment of this Act.”
+"(2) Return to prior authority.—Upon the date described in paragraph (1), section 3(d) and section 8D(j) of the Inspector General Act of 1978 (5 U.S.C. App.) shall read as such sections read on the day before the date of enactment of this Act."
 
 Amendment by Pub. L. 112–199 effective 30 days after Nov. 27, 2012, see section 202 of Pub. L. 112–199, set out as an Effective Date of 2012 Amendment note under section 1204 of this title.
 
 #### Construction
 
-Pub. L. 110–409, §6(c), Oct. 14, 2008, 122 Stat. 4305, provided that: “Nothing in the amendments made by this section \[amending this section and section 8G of Pub. L. 95–452, set out in this Appendix\] shall be construed to alter the duties and responsibilities of the counsel for any establishment or designated Federal entity, except for the availability of counsel as provided under sections 3(g) and 8G(g) of the Inspector General Act of 1978 (5 U.S.C. App.) (as amended by this section). The Counsel to the Inspector General shall perform such functions as the Inspector General may prescribe.”
+Pub. L. 110–409, §6(c), Oct. 14, 2008, 122 Stat. 4305, provided that: "Nothing in the amendments made by this section \[amending this section and section 8G of Pub. L. 95–452, set out in this Appendix\] shall be construed to alter the duties and responsibilities of the counsel for any establishment or designated Federal entity, except for the availability of counsel as provided under sections 3(g) and 8G(g) of the Inspector General Act of 1978 (5 U.S.C. App.) (as amended by this section). The Counsel to the Inspector General shall perform such functions as the Inspector General may prescribe."
 
 #### Pay of Inspectors General
 
 Pub. L. 110–409, §4(a)(3), Oct. 14, 2008, 122 Stat. 4303, as amended by Pub. L. 111–259, title IV, §405(b), Oct. 7, 2010, 124 Stat. 2719, provided that:
 
-“(A) In general.—Notwithstanding any other provision of law, the annual rate of basic pay of the Inspector General of the Intelligence Community, the Inspector General of the Central Intelligence Agency, the Special Inspector General for Iraq Reconstruction, and the Special Inspector General for Afghanistan Reconstruction shall be that of an Inspector General as defined under section 12(3) of the Inspector General Act of 1978 (5 U.S.C. App.) (as amended by section 7(a) of this Act).
+"(A) In general.—Notwithstanding any other provision of law, the annual rate of basic pay of the Inspector General of the Intelligence Community, the Inspector General of the Central Intelligence Agency, the Special Inspector General for Iraq Reconstruction, and the Special Inspector General for Afghanistan Reconstruction shall be that of an Inspector General as defined under section 12(3) of the Inspector General Act of 1978 (5 U.S.C. App.) (as amended by section 7(a) of this Act).
 
-“(B) Prohibition of cash bonus or awards.—Section 3(f) of the Inspector General Act of 1978 (5 U.S.C. App.) (as amended by section 5 of this Act) shall apply to the Inspectors General described under subparagraph (A).”
+"(B) Prohibition of cash bonus or awards.—Section 3(f) of the Inspector General Act of 1978 (5 U.S.C. App.) (as amended by section 5 of this Act) shall apply to the Inspectors General described under subparagraph (A)."
 
 Pub. L. 110–409, §4(b)–(d), Oct. 14, 2008, 122 Stat. 4304, provided that:
 
-“(b) Inspectors General of Designated Federal Entities.—
+"(b) Inspectors General of Designated Federal Entities.—
 
-“(1) In general.—Notwithstanding any other provision of law, the Inspector General of each designated Federal entity (as those terms are defined under section 8G of the Inspector General Act of 1978 (5 U.S.C. App.)) shall, for pay and all other purposes, be classified at a grade, level, or rank designation, as the case may be, at or above those of a majority of the senior level executives of that designated Federal entity (such as a General Counsel, Chief Information Officer, Chief Financial Officer, Chief Human Capital Officer, or Chief Acquisition Officer). The pay of an Inspector General of a designated Federal entity (as those terms are defined under section 8G of the Inspector General Act of 1978 (5 U.S.C. App.)) shall be not less than the average total compensation (including bonuses) of the senior level executives of that designated Federal entity calculated on an annual basis.
+"(1) In general.—Notwithstanding any other provision of law, the Inspector General of each designated Federal entity (as those terms are defined under section 8G of the Inspector General Act of 1978 (5 U.S.C. App.)) shall, for pay and all other purposes, be classified at a grade, level, or rank designation, as the case may be, at or above those of a majority of the senior level executives of that designated Federal entity (such as a General Counsel, Chief Information Officer, Chief Financial Officer, Chief Human Capital Officer, or Chief Acquisition Officer). The pay of an Inspector General of a designated Federal entity (as those terms are defined under section 8G of the Inspector General Act of 1978 (5 U.S.C. App.)) shall be not less than the average total compensation (including bonuses) of the senior level executives of that designated Federal entity calculated on an annual basis.
 
-“(2) Limitation on adjustment.—
+"(2) Limitation on adjustment.—
 
-“(A) In general.—In the case of an Inspector General of a designated Federal entity whose pay is adjusted under paragraph (1), the total increase in pay in any fiscal year resulting from that adjustment may not exceed 25 percent of the average total compensation (including bonuses) of the Inspector General of that entity for the preceding 3 fiscal years.
+"(A) In general.—In the case of an Inspector General of a designated Federal entity whose pay is adjusted under paragraph (1), the total increase in pay in any fiscal year resulting from that adjustment may not exceed 25 percent of the average total compensation (including bonuses) of the Inspector General of that entity for the preceding 3 fiscal years.
 
-“(B) Sunset of limitation.—The limitation under subparagraph (A) shall not apply to any adjustment made in fiscal year 2013 or each fiscal year thereafter.
+"(B) Sunset of limitation.—The limitation under subparagraph (A) shall not apply to any adjustment made in fiscal year 2013 or each fiscal year thereafter.
 
-“(c) Savings Provision for Newly Appointed Inspectors General.—
+"(c) Savings Provision for Newly Appointed Inspectors General.—
 
-“(1) In general.—The provisions of section 3392 of title 5, United States Code, other than the terms ‘performance awards’ and ‘awarding of ranks’ in subsection (c)(1) of such section, shall apply to career appointees of the Senior Executive Service who are appointed to the position of Inspector General.
+"(1) In general.—The provisions of section 3392 of title 5, United States Code, other than the terms 'performance awards' and 'awarding of ranks' in subsection (c)(1) of such section, shall apply to career appointees of the Senior Executive Service who are appointed to the position of Inspector General.
 
-“(2) Nonreduction in pay.—Notwithstanding any other provision of law, career Federal employees serving on an appointment made pursuant to statutory authority found other than in section 3392 of title 5, United States Code, shall not suffer a reduction in pay, not including any bonus or performance award, as a result of being appointed to the position of Inspector General.
+"(2) Nonreduction in pay.—Notwithstanding any other provision of law, career Federal employees serving on an appointment made pursuant to statutory authority found other than in section 3392 of title 5, United States Code, shall not suffer a reduction in pay, not including any bonus or performance award, as a result of being appointed to the position of Inspector General.
 
-“(d) Savings Provision.—Nothing in this section \[amending this section, section 5315 of Title 5, Government Organization and Employees, and section 12651e of Title 42, The Public Health and Welfare, and enacting provisions set out as a note under this section\] shall have the effect of reducing the rate of pay of any individual serving on the date of enactment of this section \[Oct. 14, 2008\] as an Inspector General of—
+"(d) Savings Provision.—Nothing in this section \[amending this section, section 5315 of Title 5, Government Organization and Employees, and section 12651e of Title 42, The Public Health and Welfare, and enacting provisions set out as a note under this section\] shall have the effect of reducing the rate of pay of any individual serving on the date of enactment of this section \[Oct. 14, 2008\] as an Inspector General of—
 
-“(1) an establishment as defined under section 12(2) of the Inspector General Act of 1978 (5 U.S.C. App.) (as amended by section 7(a) of this Act);
+"(1) an establishment as defined under section 12(2) of the Inspector General Act of 1978 (5 U.S.C. App.) (as amended by section 7(a) of this Act);
 
-“(2) a designated Federal entity as defined under section 8G(2) of the Inspector General Act of 1978 (5 U.S.C. App.);
+"(2) a designated Federal entity as defined under section 8G(2) of the Inspector General Act of 1978 (5 U.S.C. App.);
 
-“(3) a legislative agency for which the position of Inspector General is established by statute; or
+"(3) a legislative agency for which the position of Inspector General is established by statute; or
 
-“(4) any other entity of the Government for which the position of Inspector General is established by statute.”
+"(4) any other entity of the Government for which the position of Inspector General is established by statute."
 
 #### Acting Treasury Inspector General for Tax Administration
 
 Pub. L. 105–277, div. C, title I, §101, Oct. 21, 1998, 112 Stat. 2681–584, as amended by Pub. L. 106–113, div. B, §1000(a)(5) \[title II, §239(a)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–302, provided that:
 
-“(a) In General.—Notwithstanding any other provision of law, the President may appoint an acting Treasury Inspector General for Tax Administration to serve during the period—
+"(a) In General.—Notwithstanding any other provision of law, the President may appoint an acting Treasury Inspector General for Tax Administration to serve during the period—
 
-“(1) beginning on the date of the enactment of this section \[Oct. 21, 1998\] (or, if later, the date of the appointment), and
+"(1) beginning on the date of the enactment of this section \[Oct. 21, 1998\] (or, if later, the date of the appointment), and
 
-“(2) ending on the earlier of—
+"(2) ending on the earlier of—
 
-“(A) April 30, 1999, or
+"(A) April 30, 1999, or
 
-“(B) the date on which the first Treasury Inspector General for Tax Administration takes office (other than pursuant to this section).
+"(B) the date on which the first Treasury Inspector General for Tax Administration takes office (other than pursuant to this section).
 
-“(b) Duties Before January 18, 1999.—The acting Treasury Inspector General for Tax Administration appointed under subsection (a) shall, before January 18, 1999, take only such actions as are necessary to begin operation of the Office of Treasury Inspector General for Tax Administration, including—
+"(b) Duties Before January 18, 1999.—The acting Treasury Inspector General for Tax Administration appointed under subsection (a) shall, before January 18, 1999, take only such actions as are necessary to begin operation of the Office of Treasury Inspector General for Tax Administration, including—
 
-“(1) making interim arrangements for administrative support for the Office,
+"(1) making interim arrangements for administrative support for the Office,
 
-“(2) establishing interim positions in the Office into which personnel will be transferred upon the transfer of functions and duties to the Office on January 18, 1999,
+"(2) establishing interim positions in the Office into which personnel will be transferred upon the transfer of functions and duties to the Office on January 18, 1999,
 
-“(3) appointing such acting personnel on an interim basis as may be necessary upon the transfer of functions and duties to the Office on January 18, 1999, and
+"(3) appointing such acting personnel on an interim basis as may be necessary upon the transfer of functions and duties to the Office on January 18, 1999, and
 
-“(4) providing guidance and input for the fiscal year 2000 budget process for the Office.
+"(4) providing guidance and input for the fiscal year 2000 budget process for the Office.
 
-“(c) Actions Not To Limit Authority of IG.—None of the actions taken by an individual appointed under subsection (a) shall affect the future authority of any Treasury Inspector General for Tax Administration not appointed under subsection (a).
+"(c) Actions Not To Limit Authority of IG.—None of the actions taken by an individual appointed under subsection (a) shall affect the future authority of any Treasury Inspector General for Tax Administration not appointed under subsection (a).
 
-“(d) Limitations.—
+"(d) Limitations.—
 
-“(1) Nomination.—No individual appointed under subsection (a) may serve on or after January 19, 1999, unless on or before such date the President has submitted to the Senate his nomination of an individual to serve as the first Treasury Inspector General for Tax Administration.
+"(1) Nomination.—No individual appointed under subsection (a) may serve on or after January 19, 1999, unless on or before such date the President has submitted to the Senate his nomination of an individual to serve as the first Treasury Inspector General for Tax Administration.
 
-“(2) Treasury inspector general may not serve.—No individual appointed under subsection (a) may serve during any period such individual is serving as the Inspector General of the Treasury of the United States or the acting Inspector General of the Treasury of the United States.
+"(2) Treasury inspector general may not serve.—No individual appointed under subsection (a) may serve during any period such individual is serving as the Inspector General of the Treasury of the United States or the acting Inspector General of the Treasury of the United States.
 
-“(3) Employment restrictions.—The provisions of section 8D(j) of the Inspector General Act of 1978 (5 U.S.C. App.) shall not apply to any individual appointed under subsection (a).”
+"(3) Employment restrictions.—The provisions of section 8D(j) of the Inspector General Act of 1978 (5 U.S.C. App.) shall not apply to any individual appointed under subsection (a)."
 
-\[Pub. L. 106–113, div. B, §1000(a)(5) \[title II, §239(b)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–302, provided that: “The amendment made by subsection (a) \[amending section 101 of Pub. L. 105–277, set out above\] shall be effective as if included in the enactment of section 101 of title I of division C of the Omnibus Consolidated and Emergency Supplemental Appropriations Act, 1999 \[Pub. L. 105–277\].”\]
+\[Pub. L. 106–113, div. B, §1000(a)(5) \[title II, §239(b)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–302, provided that: "The amendment made by subsection (a) \[amending section 101 of Pub. L. 105–277, set out above\] shall be effective as if included in the enactment of section 101 of title I of division C of the Omnibus Consolidated and Emergency Supplemental Appropriations Act, 1999 \[Pub. L. 105–277\]."\]
 
 #### Transitional Provisions Relating to Appointment of Inspector General of Federal Deposit Insurance Corporation
 
 Pub. L. 103–204, §23(c), Dec. 17, 1993, 107 Stat. 2408, provided that:
 
-“(1) Current service.—Except as otherwise provided by law, the individual serving as the Inspector General of the Federal Deposit Insurance Corporation before the date of enactment of this Act \[Dec. 17, 1993\] may continue to serve in such position until the earlier of—
+"(1) Current service.—Except as otherwise provided by law, the individual serving as the Inspector General of the Federal Deposit Insurance Corporation before the date of enactment of this Act \[Dec. 17, 1993\] may continue to serve in such position until the earlier of—
 
-“(A) the date on which the President appoints a successor under section 3(a) of the Inspector General Act of 1978 \[subsec. (a) of this section\]; or
+"(A) the date on which the President appoints a successor under section 3(a) of the Inspector General Act of 1978 \[subsec. (a) of this section\]; or
 
-“(B) the date which is 6 months after the date of enactment of this Act.
+"(B) the date which is 6 months after the date of enactment of this Act.
 
-“(2) Definition.—For purposes of paragraph (1), the term ‘successor’ may include the individual holding the position of Inspector General of the Federal Deposit Insurance Corporation on or after the date of enactment of this Act.”
+"(2) Definition.—For purposes of paragraph (1), the term 'successor' may include the individual holding the position of Inspector General of the Federal Deposit Insurance Corporation on or after the date of enactment of this Act."
 
 #### Executive Order No. 12993
 
@@ -922,11 +922,11 @@ Section 8F, referred to in subsec. (b)(2), which related to requirements for Fed
 
 #### Amendments
 
-**2008**—Subsec. (b)(2). Pub. L. 110–409 substituted “section 12(2)” for “section 11(2)” in two places.
+**2008**—Subsec. (b)(2). Pub. L. 110–409 substituted "section 12(2)" for "section 11(2)" in two places.
 
-**2004**—Subsec. (b)(2). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
+**2004**—Subsec. (b)(2). Pub. L. 108–271 substituted "Government Accountability Office" for "General Accounting Office".
 
-**1993**—Subsec. (b)(2). Pub. L. 103–82 substituted “section 8F(a)(2), and any” for “section 8E(a)(2), and any”, “section 8F(a)(1)” for “section 8E(a)(1)”, and “section 8F(a)(2).” for “section 8E(a)(2).”
+**1993**—Subsec. (b)(2). Pub. L. 103–82 substituted "section 8F(a)(2), and any" for "section 8E(a)(2), and any", "section 8F(a)(1)" for "section 8E(a)(1)", and "section 8F(a)(2)." for "section 8E(a)(2)."
 
 **1988**—Subsec. (b). Pub. L. 100–504 designated existing provisions as par. (1), redesignated pars. (1) to (3) as subpars. (A) to (C), respectively, and added par. (2).
 
@@ -1088,7 +1088,7 @@ except that such statement may exclude such audit reports that are under formal 
 
 (f) As used in this section—
 
-(1) the term “questioned cost” means a cost that is questioned by the Office because of—
+(1) the term "questioned cost" means a cost that is questioned by the Office because of—
 
 (A) an alleged violation of a provision of a law, regulation, contract, grant, cooperative agreement, or other agreement or document governing the expenditure of funds;
 
@@ -1098,11 +1098,11 @@ except that such statement may exclude such audit reports that are under formal 
 
   
 
-(2) the term “unsupported cost” means a cost that is questioned by the Office because the Office found that, at the time of the audit, such cost is not supported by adequate documentation;
+(2) the term "unsupported cost" means a cost that is questioned by the Office because the Office found that, at the time of the audit, such cost is not supported by adequate documentation;
 
-(3) the term “disallowed cost” means a questioned cost that management, in a management decision, has sustained or agreed should not be charged to the Government;
+(3) the term "disallowed cost" means a questioned cost that management, in a management decision, has sustained or agreed should not be charged to the Government;
 
-(4) the term “recommendation that funds be put to better use” means a recommendation by the Office that funds could be used more efficiently if management of an establishment took actions to implement and complete the recommendation, including—
+(4) the term "recommendation that funds be put to better use" means a recommendation by the Office that funds could be used more efficiently if management of an establishment took actions to implement and complete the recommendation, including—
 
 (A) reductions in outlays;
 
@@ -1118,9 +1118,9 @@ except that such statement may exclude such audit reports that are under formal 
 
   
 
-(5) the term “management decision” means the evaluation by the management of an establishment of the findings and recommendations included in an audit report and the issuance of a final decision by management concerning its response to such findings and recommendations, including actions concluded to be necessary; and
+(5) the term "management decision" means the evaluation by the management of an establishment of the findings and recommendations included in an audit report and the issuance of a final decision by management concerning its response to such findings and recommendations, including actions concluded to be necessary; and
 
-(6) the term “final action” means—
+(6) the term "final action" means—
 
 (A) the completion of all actions that the management of an establishment has concluded, in its management decision, are necessary with respect to the findings and recommendations included in an audit report; and
 
@@ -1136,25 +1136,25 @@ Section 05(b) of the Federal Financial Management Improvement Act of 1996, refer
 
 **2010**—Subsec. (a)(14) to (16). Pub. L. 111–203 added pars. (14) to (16).
 
-**2008**—Subsec. (a)(6). Pub. L. 110–409, §12(1)(B), struck out “audit” after “reporting period and for each”.
+**2008**—Subsec. (a)(6). Pub. L. 110–409, §12(1)(B), struck out "audit" after "reporting period and for each".
 
-Pub. L. 110–409, §12(1)(A), which directed insertion of “, inspection reports, and evaluation reports” after “audit reports” the first place appearing, was executed by making the insertion after “audit report” the first place appearing, to reflect the probable intent of Congress.
+Pub. L. 110–409, §12(1)(A), which directed insertion of ", inspection reports, and evaluation reports" after "audit reports" the first place appearing, was executed by making the insertion after "audit report" the first place appearing, to reflect the probable intent of Congress.
 
-Subsec. (a)(8), (9). Pub. L. 110–409, §12(1), in introductory provisions, inserted “, inspection reports, and evaluation reports” after “number of audit reports” and struck out “audit” before “reports—”.
+Subsec. (a)(8), (9). Pub. L. 110–409, §12(1), in introductory provisions, inserted ", inspection reports, and evaluation reports" after "number of audit reports" and struck out "audit" before "reports—".
 
-Subsec. (a)(10). Pub. L. 110–409, §12(2), which directed insertion of “, inspection reports, and evaluation reports” after “audit reports”, was executed by making the insertion after “audit report” to reflect the probable intent of Congress.
+Subsec. (a)(10). Pub. L. 110–409, §12(2), which directed insertion of ", inspection reports, and evaluation reports" after "audit reports", was executed by making the insertion after "audit report" to reflect the probable intent of Congress.
 
-Subsec. (b)(2), (3). Pub. L. 110–409, §12(1), in introductory provisions, inserted “, inspection reports, and evaluation reports” after “number of audit reports” and struck out “audit” before “reports—”.
+Subsec. (b)(2), (3). Pub. L. 110–409, §12(1), in introductory provisions, inserted ", inspection reports, and evaluation reports" after "number of audit reports" and struck out "audit" before "reports—".
 
 **1996**—Subsec. (a)(13). Pub. L. 104–208 added par. (13).
 
-**1988**—Subsec. (a)(6) to (12). Pub. L. 100–504, §106(a), added pars. (6) to (12), and struck out former par. (6) which read as follows: “a listing of each audit report completed by the Office during the reporting period.”
+**1988**—Subsec. (a)(6) to (12). Pub. L. 100–504, §106(a), added pars. (6) to (12), and struck out former par. (6) which read as follows: "a listing of each audit report completed by the Office during the reporting period."
 
-Subsec. (b). Pub. L. 100–504, §106(b), substituted “head of the establishment containing—” and pars. (1) to (4) for “head of the establishment containing any comments such head deems appropriate.”
+Subsec. (b). Pub. L. 100–504, §106(b), substituted "head of the establishment containing—" and pars. (1) to (4) for "head of the establishment containing any comments such head deems appropriate."
 
-Subsec. (c). Pub. L. 100–504, §106(c), inserted at end “Within 60 days after the transmission of the semiannual reports of each establishment head to the Congress, the head of each establishment shall make copies of such report available to the public upon request and at a reasonable cost.”
+Subsec. (c). Pub. L. 100–504, §106(c), inserted at end "Within 60 days after the transmission of the semiannual reports of each establishment head to the Congress, the head of each establishment shall make copies of such report available to the public upon request and at a reasonable cost."
 
-Subsec. (e)(3). Pub. L. 100–504, §102(g), substituted “Except to the extent and in the manner provided under section 6103(f) of the Internal Revenue Code of 1986, nothing” for “Nothing”.
+Subsec. (e)(3). Pub. L. 100–504, §102(g), substituted "Except to the extent and in the manner provided under section 6103(f) of the Internal Revenue Code of 1986, nothing" for "Nothing".
 
 Subsec. (f). Pub. L. 100–504, §106(d), added subsec. (f).
 
@@ -1170,77 +1170,77 @@ Amendment by Pub. L. 104–208 effective for fiscal year ending Sept. 30, 1997, 
 
 #### Effective Date of 1988 Amendment
 
-Pub. L. 100–504, title I, §113, Oct. 18, 1988, 102 Stat. 2530, provided that: “This title and the amendments made by this title \[enacting sections 8B–8F of Pub. L. 95–452, set out in this Appendix, amending sections 2, 4–6, 8, 9, and 11 of Pub. L. 95–452, set out in this Appendix, sections 5315 and 5316 of this title, sections 405 and 1105 of Title 31, Money and Finance, and section 410 of Title 39, Postal Service, repealing sections 3521–3527 and 7138 of Title 42, The Public Health and Welfare, and section 231v of Title 45, Railroads, and enacting provisions set out as notes under sections 1, 8D, 8E, and 9 of Pub. L. 95–452, set out in this Appendix\] shall take effect 180 days after the date of the enactment of this title \[Oct. 18, 1988\], except that section 5(a)(6) through (12) of the Inspector General Act of 1978 (as amended by section 106(a) of this title) and section 5(b)(1) through (4) of the Inspector General Act of 1978 (as amended by section 106(b) of this title) shall take effect 1 year after the date of the enactment of this title.”
+Pub. L. 100–504, title I, §113, Oct. 18, 1988, 102 Stat. 2530, provided that: "This title and the amendments made by this title \[enacting sections 8B–8F of Pub. L. 95–452, set out in this Appendix, amending sections 2, 4–6, 8, 9, and 11 of Pub. L. 95–452, set out in this Appendix, sections 5315 and 5316 of this title, sections 405 and 1105 of Title 31, Money and Finance, and section 410 of Title 39, Postal Service, repealing sections 3521–3527 and 7138 of Title 42, The Public Health and Welfare, and section 231v of Title 45, Railroads, and enacting provisions set out as notes under sections 1, 8D, 8E, and 9 of Pub. L. 95–452, set out in this Appendix\] shall take effect 180 days after the date of the enactment of this title \[Oct. 18, 1988\], except that section 5(a)(6) through (12) of the Inspector General Act of 1978 (as amended by section 106(a) of this title) and section 5(b)(1) through (4) of the Inspector General Act of 1978 (as amended by section 106(b) of this title) shall take effect 1 year after the date of the enactment of this title."
 
 #### Corrective Responses by Heads of Certain Establishments to Deficiencies Identified by Inspectors General
 
-Pub. L. 111–203, title IX, §989H, July 21, 2010, 124 Stat. 1948, provided that: “The Chairman of the Board of Governors of the Federal Reserve System, the Chairman of the Commodity Futures Trading Commission, the Chairman of the National Credit Union Administration, the Director of the Pension Benefit Guaranty Corporation, and the Chairman of the Securities and Exchange Commission shall each—
+Pub. L. 111–203, title IX, §989H, July 21, 2010, 124 Stat. 1948, provided that: "The Chairman of the Board of Governors of the Federal Reserve System, the Chairman of the Commodity Futures Trading Commission, the Chairman of the National Credit Union Administration, the Director of the Pension Benefit Guaranty Corporation, and the Chairman of the Securities and Exchange Commission shall each—
 
-“(1) take action to address deficiencies identified by a report or investigation of the Inspector General of the establishment concerned; or
+"(1) take action to address deficiencies identified by a report or investigation of the Inspector General of the establishment concerned; or
 
-“(2) certify to both Houses of Congress that no action is necessary or appropriate in connection with a deficiency described in paragraph (1).”
+"(2) certify to both Houses of Congress that no action is necessary or appropriate in connection with a deficiency described in paragraph (1)."
 
 #### Disclosure of Government Contractor Audit Findings
 
 Pub. L. 110–181, div. A, title VIII, §845, Jan. 28, 2008, 122 Stat. 240, provided that:
 
-“(a) Required Annex on Significant Audit Findings.—
+"(a) Required Annex on Significant Audit Findings.—
 
-“(1) In general.—Each Inspector General appointed under the Inspector General Act of 1978 \[Pub. L. 95–452, set out in this Appendix\] shall submit, as part of the semiannual report submitted to Congress pursuant to section 5 of such Act, an annex on final, completed contract audit reports issued to the contracting activity containing significant audit findings issued during the period covered by the semiannual report concerned.
+"(1) In general.—Each Inspector General appointed under the Inspector General Act of 1978 \[Pub. L. 95–452, set out in this Appendix\] shall submit, as part of the semiannual report submitted to Congress pursuant to section 5 of such Act, an annex on final, completed contract audit reports issued to the contracting activity containing significant audit findings issued during the period covered by the semiannual report concerned.
 
-“(2) Elements.—Such annex shall include—
+"(2) Elements.—Such annex shall include—
 
-“(A) a list of such contract audit reports;
+"(A) a list of such contract audit reports;
 
-“(B) for each audit report, a brief description of the nature of the significant audit findings in the report; and
+"(B) for each audit report, a brief description of the nature of the significant audit findings in the report; and
 
-“(C) for each audit report, the specific amounts of costs identified as unsupported, questioned, or disallowed.
+"(C) for each audit report, the specific amounts of costs identified as unsupported, questioned, or disallowed.
 
-“(3) Information exempt from public disclosure.—(A) Nothing in this subsection shall be construed to require the release of information to the public that is exempt from public disclosure under section 552(b) of title 5, United States Code.
+"(3) Information exempt from public disclosure.—(A) Nothing in this subsection shall be construed to require the release of information to the public that is exempt from public disclosure under section 552(b) of title 5, United States Code.
 
-“(B) For each element required by paragraph (2), the Inspector General concerned shall note each instance where information has been redacted in accordance with the requirements of section 552(b) of title 5, United States Code, and submit an unredacted annex to the committees listed in subsection (d)(2) within 7 days after the issuance of the semiannual report.
+"(B) For each element required by paragraph (2), the Inspector General concerned shall note each instance where information has been redacted in accordance with the requirements of section 552(b) of title 5, United States Code, and submit an unredacted annex to the committees listed in subsection (d)(2) within 7 days after the issuance of the semiannual report.
 
-“(b) Defense Contract Audit Agency Included.—For purposes of subsection (a), audits of the Defense Contract Audit Agency shall be included in the annex provided by the Inspector General of the Department of Defense if they include significant audit findings.
+"(b) Defense Contract Audit Agency Included.—For purposes of subsection (a), audits of the Defense Contract Audit Agency shall be included in the annex provided by the Inspector General of the Department of Defense if they include significant audit findings.
 
-“(c) Exception.—Subsection (a) shall not apply to an Inspector General if no audits described in such subsection were issued during the covered period.
+"(c) Exception.—Subsection (a) shall not apply to an Inspector General if no audits described in such subsection were issued during the covered period.
 
-“(d) Submission of Individual Audits.—
+"(d) Submission of Individual Audits.—
 
-“(1) Requirement.—The head of each Federal department or agency shall provide, within 14 days after a request in writing by the chairman or ranking member of any committee listed in paragraph (2), a full and unredacted copy of any audit described in subsection (a). Such copy shall include an identification of information in the audit exempt from public disclosure under section 552(b) of title 5, United States Code.
+"(1) Requirement.—The head of each Federal department or agency shall provide, within 14 days after a request in writing by the chairman or ranking member of any committee listed in paragraph (2), a full and unredacted copy of any audit described in subsection (a). Such copy shall include an identification of information in the audit exempt from public disclosure under section 552(b) of title 5, United States Code.
 
-“(2) Committees.—The committees listed in this paragraph are the following:
+"(2) Committees.—The committees listed in this paragraph are the following:
 
-“(A) The Committee on Oversight and Government Reform of the House of Representatives.
+"(A) The Committee on Oversight and Government Reform of the House of Representatives.
 
-“(B) The Committee on Homeland Security and Governmental Affairs of the Senate.
+"(B) The Committee on Homeland Security and Governmental Affairs of the Senate.
 
-“(C) The Committees on Appropriations of the House of Representatives and the Senate.
+"(C) The Committees on Appropriations of the House of Representatives and the Senate.
 
-“(D) With respect to the Department of Defense and the Department of Energy, the Committees on Armed Services of the Senate and House of Representatives.
+"(D) With respect to the Department of Defense and the Department of Energy, the Committees on Armed Services of the Senate and House of Representatives.
 
-“(E) The Committees of primary jurisdiction over the agency or department to which the request is made.
+"(E) The Committees of primary jurisdiction over the agency or department to which the request is made.
 
-“(e) Classified Information.—Nothing in this section shall be interpreted to require the handling of classified information or information relating to intelligence sources and methods in a manner inconsistent with any law, regulation, executive order, or rule of the House of Representatives or of the Senate relating to the handling or protection of such information.
+"(e) Classified Information.—Nothing in this section shall be interpreted to require the handling of classified information or information relating to intelligence sources and methods in a manner inconsistent with any law, regulation, executive order, or rule of the House of Representatives or of the Senate relating to the handling or protection of such information.
 
-“(f) Definitions.—In this section:
+"(f) Definitions.—In this section:
 
-“(1) Significant audit findings.—The term ‘significant audit findings’ includes—
+"(1) Significant audit findings.—The term 'significant audit findings' includes—
 
-“(A) unsupported, questioned, or disallowed costs in an amount in excess of $10,000,000; or
+"(A) unsupported, questioned, or disallowed costs in an amount in excess of $10,000,000; or
 
-“(B) other findings that the Inspector General of the agency or department concerned determines to be significant.
+"(B) other findings that the Inspector General of the agency or department concerned determines to be significant.
 
-“(2) Contract.—The term ‘contract’ includes a contract, an order placed under a task or delivery order contract, or a subcontract.”
+"(2) Contract.—The term 'contract' includes a contract, an order placed under a task or delivery order contract, or a subcontract."
 
 #### Prompt Management Decisions and Implementation of Audit Recommendations
 
 Pub. L. 103–355, title VI, §6009, Oct. 13, 1994, 108 Stat. 3367, as amended by Pub. L. 104–106, div. A, title VIII, §810, Feb. 10, 1996, 110 Stat. 394, provided that:
 
-“(a) Management Decisions.—(1) The head of a Federal agency shall make management decisions on all findings and recommendations set forth in an audit report of the inspector general of the agency within a maximum of six months after the issuance of the report.
+"(a) Management Decisions.—(1) The head of a Federal agency shall make management decisions on all findings and recommendations set forth in an audit report of the inspector general of the agency within a maximum of six months after the issuance of the report.
 
-“(2) The head of a Federal agency shall make management decisions on all findings and recommendations set forth in an audit report of any auditor from outside the Federal Government within a maximum of six months after the date on which the head of the agency receives the report.
+"(2) The head of a Federal agency shall make management decisions on all findings and recommendations set forth in an audit report of any auditor from outside the Federal Government within a maximum of six months after the date on which the head of the agency receives the report.
 
-“(b) Completion of Final Action.—The head of a Federal agency shall complete final action on each management decision required with regard to a recommendation in an inspector general's report under subsection (a)(1) within 12 months after the date of the inspector general's report. If the head of the agency fails to complete final action with regard to a management decision within the 12-month period, the inspector general concerned shall identify the matter in each of the inspector general's semiannual reports pursuant to section 5(a)(3) of the Inspector General Act of 1978 (5 U.S.C. App.) until final action on the management decision is completed.”
+"(b) Completion of Final Action.—The head of a Federal agency shall complete final action on each management decision required with regard to a recommendation in an inspector general's report under subsection (a)(1) within 12 months after the date of the inspector general's report. If the head of the agency fails to complete final action with regard to a management decision within the 12-month period, the inspector general concerned shall identify the matter in each of the inspector general's semiannual reports pursuant to section 5(a)(3) of the Inspector General Act of 1978 (5 U.S.C. App.) until final action on the management decision is completed."
 
 [1 So in original. Probably should be singular.](#5_1)
 
@@ -1294,7 +1294,7 @@ Pub. L. 103–355, title VI, §6009, Oct. 13, 1994, 108 Stat. 3367, as amended b
 
   
 
-(2) For purposes of applying section 4507(b) of title 5, United States Code, paragraph (1)(A)(ii) shall be applied by substituting “the Council of the Inspectors General on Integrity and Efficiency (established by section 11 of the Inspector General Act) shall” for “the Inspector General who is the head of an office referred to in clause (i) shall, with respect to such office,”.
+(2) For purposes of applying section 4507(b) of title 5, United States Code, paragraph (1)(A)(ii) shall be applied by substituting "the Council of the Inspectors General on Integrity and Efficiency (established by section 11 of the Inspector General Act) shall" for "the Inspector General who is the head of an office referred to in clause (i) shall, with respect to such office,".
 
 (e)(1) In addition to the authority otherwise provided by this Act, each Inspector General, any Assistant Inspector General for Investigations under such an Inspector General, and any special agent supervised by such an Assistant Inspector General may be authorized by the Attorney General to—
 
@@ -1330,7 +1330,7 @@ Pub. L. 103–355, title VI, §6009, Oct. 13, 1994, 108 Stat. 3367, as amended b
 
 (8) No provision of this subsection shall limit the exercise of law enforcement powers established under any other statutory authority, including United States Marshals Service special deputation.
 
-(9) In this subsection, the term “Inspector General” means an Inspector General appointed under section 3 or an Inspector General appointed under section 8G.
+(9) In this subsection, the term "Inspector General" means an Inspector General appointed under section 3 or an Inspector General appointed under section 8G.
 
 (f)(1) For each fiscal year, an Inspector General shall transmit a budget estimate and request to the head of the establishment or designated Federal entity to which the Inspector General reports. The budget request shall specify the aggregate amount of funds requested for such fiscal year for the operations of that Inspector General and shall specify the amount requested for all training needs, including a certification from the Inspector General that the amount requested satisfies all training requirements for the Inspector General's office for that fiscal year, and any resources necessary to support the Council of the Inspectors General on Integrity and Efficiency. Resources necessary to support the Council of the Inspectors General on Integrity and Efficiency shall be specifically identified and justified in the budget request.
 
@@ -1368,13 +1368,13 @@ The date of enactment of this subsection, referred to in subsec. (e)(7), is the 
 
 #### Amendments
 
-**2008**—Subsec. (a)(4). Pub. L. 110–409, §9(2), which directed substitution of “subpoena” for “subpena”, was executed by making the substitution for “subpena” both places it appeared, to reflect the probable intent of Congress.
+**2008**—Subsec. (a)(4). Pub. L. 110–409, §9(2), which directed substitution of "subpoena" for "subpena", was executed by making the substitution for "subpena" both places it appeared, to reflect the probable intent of Congress.
 
-Pub. L. 110–409, §9(1), inserted “in any medium (including electronically stored information, as well as any tangible thing)” after “other data”.
+Pub. L. 110–409, §9(1), inserted "in any medium (including electronically stored information, as well as any tangible thing)" after "other data".
 
-Subsec. (d). Pub. L. 110–409, §14(a), amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “For purposes of the provisions of title 5, United States Code, governing the Senior Executive Service, any reference in such provisions to the ‘appointing authority’ for a member of the Senior Executive Service or for a Senior Executive Service position shall, if such member or position is or would be within the Office of an Inspector General, be deemed to be a reference to such Inspector General.”
+Subsec. (d). Pub. L. 110–409, §14(a), amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: "For purposes of the provisions of title 5, United States Code, governing the Senior Executive Service, any reference in such provisions to the 'appointing authority' for a member of the Senior Executive Service or for a Senior Executive Service position shall, if such member or position is or would be within the Office of an Inspector General, be deemed to be a reference to such Inspector General."
 
-Subsec. (e)(1). Pub. L. 110–409, §11(1), struck out “appointed under section 3” after “each Inspector General” in introductory provisions.
+Subsec. (e)(1). Pub. L. 110–409, §11(1), struck out "appointed under section 3" after "each Inspector General" in introductory provisions.
 
 Subsec. (e)(9). Pub. L. 110–409, §11(2), added par. (9).
 
@@ -1390,9 +1390,9 @@ Subsec. (d). Pub. L. 100–504, §110(a), added subsec. (d).
 
 Pub. L. 107–296, title VIII, §812(c), Nov. 25, 2002, 116 Stat. 2224, provided that:
 
-“(1) In general.—Subsection (a) \[amending this section\] shall take effect 180 days after the date of enactment of this Act \[Nov. 25, 2002\].
+"(1) In general.—Subsection (a) \[amending this section\] shall take effect 180 days after the date of enactment of this Act \[Nov. 25, 2002\].
 
-“(2) Initial guidelines.—Subsection (b) \[enacting provisions set out as a note below\] shall take effect on the date of enactment of this Act \[Nov. 25, 2002\].”
+"(2) Initial guidelines.—Subsection (b) \[enacting provisions set out as a note below\] shall take effect on the date of enactment of this Act \[Nov. 25, 2002\]."
 
 #### Effective Date of 1988 Amendment
 
@@ -1410,17 +1410,17 @@ Provisions of Pub. L. 110–161, div. B, title V, §534, div. D, title VII, §74
 
 Pub. L. 107–296, title VIII, §812(b), Nov. 25, 2002, 116 Stat. 2223, provided that:
 
-“(1) Definition.—In this subsection, the term ‘memoranda of understanding’ means the agreements between the Department of Justice and the Inspector General offices described under section 6(e)(3) of the Inspector General Act of 1978 (5 U.S.C. App.) (as added by subsection (a) of this section) that—
+"(1) Definition.—In this subsection, the term 'memoranda of understanding' means the agreements between the Department of Justice and the Inspector General offices described under section 6(e)(3) of the Inspector General Act of 1978 (5 U.S.C. App.) (as added by subsection (a) of this section) that—
 
-“(A) are in effect on the date of enactment of this Act \[Nov. 25, 2002\]; and
+"(A) are in effect on the date of enactment of this Act \[Nov. 25, 2002\]; and
 
-“(B) authorize such offices to exercise authority that is the same or similar to the authority under section 6(e)(1) of such Act.
+"(B) authorize such offices to exercise authority that is the same or similar to the authority under section 6(e)(1) of such Act.
 
-“(2) In general.—Not later than 180 days after the date of enactment of this Act \[Nov. 25, 2002\], the Attorney General shall promulgate guidelines under section 6(e)(4) of the Inspector General Act of 1978 (5 U.S.C. App.) (as added by subsection (a) of this section) applicable to the Inspector General offices described under section 6(e)(3) of that Act.
+"(2) In general.—Not later than 180 days after the date of enactment of this Act \[Nov. 25, 2002\], the Attorney General shall promulgate guidelines under section 6(e)(4) of the Inspector General Act of 1978 (5 U.S.C. App.) (as added by subsection (a) of this section) applicable to the Inspector General offices described under section 6(e)(3) of that Act.
 
-“(3) Minimum requirements.—The guidelines promulgated under this subsection shall include, at a minimum, the operational and training requirements in the memoranda of understanding.
+"(3) Minimum requirements.—The guidelines promulgated under this subsection shall include, at a minimum, the operational and training requirements in the memoranda of understanding.
 
-“(4) No lapse of authority.—The memoranda of understanding in effect on the date of enactment of this Act \[Nov. 25, 2002\] shall remain in effect until the guidelines promulgated under this subsection take effect.”
+"(4) No lapse of authority.—The memoranda of understanding in effect on the date of enactment of this Act \[Nov. 25, 2002\] shall remain in effect until the guidelines promulgated under this subsection take effect."
 
 #### Transfer of Functions
 
@@ -1432,29 +1432,29 @@ For transfer of functions, personnel, assets, and liabilities of the Federal Eme
 
 Pub. L. 106–422, §2, Nov. 1, 2000, 114 Stat. 1873, provided that:
 
-“(a) Inspectors General Criminal Investigator Academy.—
+"(a) Inspectors General Criminal Investigator Academy.—
 
-“(1) Establishment.—There is established the Criminal Investigator Academy within the Department of the Treasury. The Criminal Investigator Academy is established for the purpose of performing investigator training services for offices of inspectors general created under the Inspector General Act of 1978 (5 U.S.C. App.).
+"(1) Establishment.—There is established the Criminal Investigator Academy within the Department of the Treasury. The Criminal Investigator Academy is established for the purpose of performing investigator training services for offices of inspectors general created under the Inspector General Act of 1978 (5 U.S.C. App.).
 
-“(2) Executive director.—The Criminal Investigator Academy shall be administered by an Executive Director who shall report to an inspector general for an establishment as defined in section 11 of the Inspector General Act of 1978 (5 U.S.C. App.)—
+"(2) Executive director.—The Criminal Investigator Academy shall be administered by an Executive Director who shall report to an inspector general for an establishment as defined in section 11 of the Inspector General Act of 1978 (5 U.S.C. App.)—
 
-“(A) designated by the President's Council on Integrity and Efficiency; or
+"(A) designated by the President's Council on Integrity and Efficiency; or
 
-“(B) if that council is eliminated, by a majority vote of the inspectors general created under the Inspector General Act of 1978 (5 U.S.C. App.).
+"(B) if that council is eliminated, by a majority vote of the inspectors general created under the Inspector General Act of 1978 (5 U.S.C. App.).
 
-“(b) Inspectors General Forensic Laboratory.—
+"(b) Inspectors General Forensic Laboratory.—
 
-“(1) Establishment.—There is established the Inspectors General Forensic Laboratory within the Department of the Treasury. The Inspectors General Forensic Laboratory is established for the purpose of performing forensic services for offices of inspectors general created under the Inspector General Act of 1978 (5 U.S.C. App.).
+"(1) Establishment.—There is established the Inspectors General Forensic Laboratory within the Department of the Treasury. The Inspectors General Forensic Laboratory is established for the purpose of performing forensic services for offices of inspectors general created under the Inspector General Act of 1978 (5 U.S.C. App.).
 
-“(2) Executive director.—The Inspectors General Forensic Laboratory shall be administered by an Executive Director who shall report to an inspector general for an establishment as defined in section 11 of the Inspector General Act of 1978 (5 U.S.C. App.)—
+"(2) Executive director.—The Inspectors General Forensic Laboratory shall be administered by an Executive Director who shall report to an inspector general for an establishment as defined in section 11 of the Inspector General Act of 1978 (5 U.S.C. App.)—
 
-“(A) designated by the President's Council on Integrity and Efficiency; or
+"(A) designated by the President's Council on Integrity and Efficiency; or
 
-“(B) if that council is eliminated, by a majority vote of the inspectors general created under the Inspector General Act of 1978 (5 U.S.C. App.).
+"(B) if that council is eliminated, by a majority vote of the inspectors general created under the Inspector General Act of 1978 (5 U.S.C. App.).
 
-“(c) Separate Appropriations Account.—\[Amended section 1105 of Title 31, Money and Finance.\]
+"(c) Separate Appropriations Account.—\[Amended section 1105 of Title 31, Money and Finance.\]
 
-“(d) Authorization of Appropriations.—There are authorized to carry out this section such sums as may be necessary for fiscal year 2001 and each fiscal year thereafter.”
+"(d) Authorization of Appropriations.—There are authorized to carry out this section such sums as may be necessary for fiscal year 2001 and each fiscal year thereafter."
 
 ### §7. Complaints by employees; disclosure of identity; reprisals
 
@@ -1554,21 +1554,21 @@ Pub. L. 106–422, §2, Nov. 1, 2000, 114 Stat. 1873, provided that:
 
 **2013**—Subsec. (c)(10). Pub. L. 112–239, §1614(a), added par. (10).
 
-Subsec. (f)(1). Pub. L. 112–239, §1614(b), added par. (1) and struck out former par. (1) which read as follows: “Each semiannual report prepared by the Inspector General of the Department of Defense under section 5(a) shall include information concerning the numbers and types of contract audits conducted by the Department during the reporting period. Each such report shall be transmitted by the Secretary of Defense to the Committees on Armed Services and Governmental Affairs of the Senate and the Committee on Armed Services and the Committee on Government Reform and Oversight of the House of Representatives and to other appropriate committees or subcommittees of the Congress.”
+Subsec. (f)(1). Pub. L. 112–239, §1614(b), added par. (1) and struck out former par. (1) which read as follows: "Each semiannual report prepared by the Inspector General of the Department of Defense under section 5(a) shall include information concerning the numbers and types of contract audits conducted by the Department during the reporting period. Each such report shall be transmitted by the Secretary of Defense to the Committees on Armed Services and Governmental Affairs of the Senate and the Committee on Armed Services and the Committee on Government Reform and Oversight of the House of Representatives and to other appropriate committees or subcommittees of the Congress."
 
 **2009**—Subsec. (i). Pub. L. 111–84 added subsec. (i).
 
 **2008**—Subsec. (h). Pub. L. 110–417 added subsec. (h).
 
-**1999**—Subsecs. (b)(3), (f)(1). Pub. L. 106–65 substituted “and the Committee on Armed Services” for “and the Committee on National Security”.
+**1999**—Subsecs. (b)(3), (f)(1). Pub. L. 106–65 substituted "and the Committee on Armed Services" for "and the Committee on National Security".
 
-**1996**—Subsec. (b)(3). Pub. L. 104–106, §1502(f)(6)(A), substituted “Committee on National Security and the Committee on Government Reform and Oversight” for “Committees on Armed Services and Government Operations”.
+**1996**—Subsec. (b)(3). Pub. L. 104–106, §1502(f)(6)(A), substituted "Committee on National Security and the Committee on Government Reform and Oversight" for "Committees on Armed Services and Government Operations".
 
-Subsec. (b)(4). Pub. L. 104–106, §1502(f)(6)(B), substituted “congressional committees specified in paragraph (3)” for “Committees on Armed Services and Governmental Affairs of the Senate and the Committees on Armed Services and Government Operations of the House of Representatives”.
+Subsec. (b)(4). Pub. L. 104–106, §1502(f)(6)(B), substituted "congressional committees specified in paragraph (3)" for "Committees on Armed Services and Governmental Affairs of the Senate and the Committees on Armed Services and Government Operations of the House of Representatives".
 
-Subsec. (f)(1). Pub. L. 104–106, §1502(f)(6)(C), substituted “Committee on National Security and the Committee on Government Reform and Oversight” for “Committees on Armed Services and Government Operations”.
+Subsec. (f)(1). Pub. L. 104–106, §1502(f)(6)(C), substituted "Committee on National Security and the Committee on Government Reform and Oversight" for "Committees on Armed Services and Government Operations".
 
-Subsec. (f)(2). Pub. L. 104–106, §1502(f)(6)(D), substituted “congressional committees specified in paragraph (1)” for “Committees on Armed Services and Governmental Affairs of the Senate and the Committees on Armed Services and Government Operations of the House of Representatives”.
+Subsec. (f)(2). Pub. L. 104–106, §1502(f)(6)(D), substituted "congressional committees specified in paragraph (1)" for "Committees on Armed Services and Governmental Affairs of the Senate and the Committees on Armed Services and Government Operations of the House of Representatives".
 
 **1988**—Subsec. (e). Pub. L. 100–504 inserted provision at end that when Coast Guard operates as service of another department or agency of Federal Government, member of Coast Guard shall be deemed employee of such department or agency.
 
@@ -1600,7 +1600,7 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 (e) The Inspector General of the Agency for International Development shall be in addition to the officers provided for in section 624(a) of the Foreign Assistance Act of 1961 \[22 U.S.C. 2384(a)\].
 
-(f) As used in this Act, the term “Agency for International Development” includes any successor agency primarily responsible for administering part I of the Foreign Assistance Act of 1961 \[22 U.S.C. 2151 et seq.\].[1](#8A_1_target)
+(f) As used in this Act, the term "Agency for International Development" includes any successor agency primarily responsible for administering part I of the Foreign Assistance Act of 1961 \[22 U.S.C. 2151 et seq.\].[1](#8A_1_target)
 
 (Pub. L. 95–452, §8A, as added Pub. L. 97–113, title VII, §705(a)(3), Dec. 29, 1981, 95 Stat. 1544; amended Pub. L. 105–277, div. G, subdiv. A, title XIV, §1422(b)(2), Oct. 21, 1998, 112 Stat. 2681–792; Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title II, §205\], Nov. 29, 1999, 113 Stat. 1536, 1501A–422.)
 
@@ -1610,17 +1610,17 @@ The Foreign Assistance Act of 1961, referred to in subsec. (f), is Pub. L. 87–
 
 #### Amendments
 
-**1999**—Subsec. (a). Pub. L. 106–113, §1000(a)(7) \[title II, §205(a)\], which directed the amendment of subsec. (a) by striking “and” at the end of par. (1), striking the period at the end of par. (2) and inserting “; and”, and adding a new par. (3) to read: “shall supervise, direct, and control audit and investigative activities relating to programs and operations within the Inter-American Foundation and the African Development Foundation.”, could not be executed because of the prior amendment by Pub. L. 105–277, §1422(b)(2)(A). See 1998 Amendment note below.
+**1999**—Subsec. (a). Pub. L. 106–113, §1000(a)(7) \[title II, §205(a)\], which directed the amendment of subsec. (a) by striking "and" at the end of par. (1), striking the period at the end of par. (2) and inserting "; and", and adding a new par. (3) to read: "shall supervise, direct, and control audit and investigative activities relating to programs and operations within the Inter-American Foundation and the African Development Foundation.", could not be executed because of the prior amendment by Pub. L. 105–277, §1422(b)(2)(A). See 1998 Amendment note below.
 
-Subsec. (f). Pub. L. 106–113, §1000(a)(7) \[title II, §205(b)\], which directed insertion of “, an employee of the Inter-American Foundation, and an employee of the African Development Foundation” before period at end, was not executed because of the prior amendment by Pub. L. 105–277, §1422(b)(2)(B), (C), which struck out the subsec. (f) to which the amendment was to be made. See 1998 Amendment note below.
+Subsec. (f). Pub. L. 106–113, §1000(a)(7) \[title II, §205(b)\], which directed insertion of ", an employee of the Inter-American Foundation, and an employee of the African Development Foundation" before period at end, was not executed because of the prior amendment by Pub. L. 105–277, §1422(b)(2)(B), (C), which struck out the subsec. (f) to which the amendment was to be made. See 1998 Amendment note below.
 
-**1998**—Subsec. (a). Pub. L. 105–277, §1422(b)(2)(A), struck out dash after “Agency for International Development”, struck out par. (1) designation before “shall supervise”, substituted period for “; and” after “Administrator of that Agency”, and struck out par. (2) which read as follows: “to the extent requested by the Director of the United States International Development Cooperation Agency (after consultation with the Administrator of the Agency for International Development), shall supervise, direct, and control all audit, investigative, and security activities relating to programs and operations within the United States International Development Cooperation Agency.”
+**1998**—Subsec. (a). Pub. L. 105–277, §1422(b)(2)(A), struck out dash after "Agency for International Development", struck out par. (1) designation before "shall supervise", substituted period for "; and" after "Administrator of that Agency", and struck out par. (2) which read as follows: "to the extent requested by the Director of the United States International Development Cooperation Agency (after consultation with the Administrator of the Agency for International Development), shall supervise, direct, and control all audit, investigative, and security activities relating to programs and operations within the United States International Development Cooperation Agency."
 
 Subsecs. (c) to (h). Pub. L. 105–277, §1422(b)(2)(B), (C), redesignated subsecs. (d), (e), (g), and (h) as (c), (d), (e), and (f), respectively, and struck out former subsecs. (c) and (f) which read as follows:
 
-“(c) The semiannual reports required to be submitted to the Administrator of the Agency for International Development pursuant to section 5(b) of this Act shall also be submitted to the Director of the United States International Development Cooperation Agency.
+"(c) The semiannual reports required to be submitted to the Administrator of the Agency for International Development pursuant to section 5(b) of this Act shall also be submitted to the Director of the United States International Development Cooperation Agency.
 
-“(f) The reference in section 7(a) of this Act to an employee of the establishment shall, with respect to the Inspector General of the Agency for International Development, be construed to include an employee of or under the United States International Development Cooperation Agency.”
+"(f) The reference in section 7(a) of this Act to an employee of the establishment shall, with respect to the Inspector General of the Agency for International Development, be construed to include an employee of or under the United States International Development Cooperation Agency."
 
 #### Effective Date of 1998 Amendment
 
@@ -1764,45 +1764,45 @@ A prior section 8D of the Inspector General Act of 1978 was renumbered section 8
 
 #### Amendments
 
-**2012**—Subsec. (j). Pub. L. 112–199, §117(b), (c), temporarily substituted “section 3(d)(1)(A)” for “section 3(d)(1)” and “section 3(d)(1)(B)” for “section 3(d)(2)”. See Effective and Termination Dates of 2012 Amendment note below.
+**2012**—Subsec. (j). Pub. L. 112–199, §117(b), (c), temporarily substituted "section 3(d)(1)(A)" for "section 3(d)(1)" and "section 3(d)(1)(B)" for "section 3(d)(2)". See Effective and Termination Dates of 2012 Amendment note below.
 
-**2008**—Subsec. (k)(1)(C). Pub. L. 110–409 substituted “protection to the Commissioner of Internal Revenue” for “physical security”.
+**2008**—Subsec. (k)(1)(C). Pub. L. 110–409 substituted "protection to the Commissioner of Internal Revenue" for "physical security".
 
-**2006**—Subsec. (a)(1)(F). Pub. L. 109–177 substituted “section 3056A of title 18” for “section 202 of title 3”.
+**2006**—Subsec. (a)(1)(F). Pub. L. 109–177 substituted "section 3056A of title 18" for "section 202 of title 3".
 
-**2003**—Subsec. (b)(1). Pub. L. 108–7, §104(c)(2)(A), in first sentence, struck out “, the Office of Internal Affairs of the United States Customs Service, and the Office of Inspections of the United States Secret Service,” after “Tax and Trade Bureau” and, in second sentence, struck out “each” after “The head of”.
+**2003**—Subsec. (b)(1). Pub. L. 108–7, §104(c)(2)(A), in first sentence, struck out ", the Office of Internal Affairs of the United States Customs Service, and the Office of Inspections of the United States Secret Service," after "Tax and Trade Bureau" and, in second sentence, struck out "each" after "The head of".
 
-Subsec. (c). Pub. L. 108–7, §104(c)(2)(B), substituted “bureau” for “bureaus and services”.
+Subsec. (c). Pub. L. 108–7, §104(c)(2)(B), substituted "bureau" for "bureaus and services".
 
-Subsec. (d). Pub. L. 108–7, §104(c)(2)(C), substituted “the bureau” for “a bureau or service” and struck out “or service” after “such bureau”.
+Subsec. (d). Pub. L. 108–7, §104(c)(2)(C), substituted "the bureau" for "a bureau or service" and struck out "or service" after "such bureau".
 
-**2002**—Subsec. (b)(1). Pub. L. 107–296 substituted “Tax and Trade Bureau” for “Bureau of Alcohol, Tobacco and Firearms”.
+**2002**—Subsec. (b)(1). Pub. L. 107–296 substituted "Tax and Trade Bureau" for "Bureau of Alcohol, Tobacco and Firearms".
 
-**1998**—Subsec. (a)(1). Pub. L. 105–206, §1103(e)(2)(A)(i), inserted “of the Department of the Treasury” after “Inspector General” in introductory provisions.
+**1998**—Subsec. (a)(1). Pub. L. 105–206, §1103(e)(2)(A)(i), inserted "of the Department of the Treasury" after "Inspector General" in introductory provisions.
 
-Subsec. (a)(2). Pub. L. 105–206, §1103(e)(2)(A)(ii), inserted “of the Department of the Treasury” after “prohibit the Inspector General”.
+Subsec. (a)(2). Pub. L. 105–206, §1103(e)(2)(A)(ii), inserted "of the Department of the Treasury" after "prohibit the Inspector General".
 
-Subsec. (a)(3). Pub. L. 105–206, §1103(e)(2)(A)(iii), inserted “of the Department of the Treasury” after “Inspector General” in two places.
+Subsec. (a)(3). Pub. L. 105–206, §1103(e)(2)(A)(iii), inserted "of the Department of the Treasury" after "Inspector General" in two places.
 
 Subsec. (a)(4). Pub. L. 105–206, §1103(b)(1), added par. (4).
 
-Subsec. (b). Pub. L. 105–206, §1103(e)(1), (2)(B), struck out “and the internal audits and internal investigations performed by the Office of Assistant Commissioner (Inspection) of the Internal Revenue Service” after “United States Secret Service,” in first sentence, and inserted “of the Department of the Treasury” after “Inspector General” in second sentence.
+Subsec. (b). Pub. L. 105–206, §1103(e)(1), (2)(B), struck out "and the internal audits and internal investigations performed by the Office of Assistant Commissioner (Inspection) of the Internal Revenue Service" after "United States Secret Service," in first sentence, and inserted "of the Department of the Treasury" after "Inspector General" in second sentence.
 
 Pub. L. 105–206, §1103(b)(2), designated existing provisions as par. (1) and added pars. (2) and (3).
 
-Subsecs. (c), (d). Pub. L. 105–206, §1103(e)(2)(C), inserted “of the Department of the Treasury” after “Inspector General” wherever appearing.
+Subsecs. (c), (d). Pub. L. 105–206, §1103(e)(2)(C), inserted "of the Department of the Treasury" after "Inspector General" wherever appearing.
 
-Subsec. (e)(1). Pub. L. 105–206, §1103(b)(3)(A), substituted “Treasury Inspector General for Tax Administration” for “Inspector General”.
+Subsec. (e)(1). Pub. L. 105–206, §1103(b)(3)(A), substituted "Treasury Inspector General for Tax Administration" for "Inspector General".
 
-Subsec. (e)(2). Pub. L. 105–206, §1103(b)(3)(B), (C), redesignated subpar. (C) as par. (2), substituted “Treasury Inspector General for Tax Administration” for “Inspector General”, and struck out former par. (2) introductory provisions and subpars. (A) and (B), which required written notice to Assistant Commissioner (Inspection) of Inspector General's intent to access returns and return information, that such notice indicate specific returns or information being accessed, contain certification of need for purpose described under section 6103(h)(1) of this title, and identify those employees who may receive such returns or information. Former subpar. (D) redesignated par. (3).
+Subsec. (e)(2). Pub. L. 105–206, §1103(b)(3)(B), (C), redesignated subpar. (C) as par. (2), substituted "Treasury Inspector General for Tax Administration" for "Inspector General", and struck out former par. (2) introductory provisions and subpars. (A) and (B), which required written notice to Assistant Commissioner (Inspection) of Inspector General's intent to access returns and return information, that such notice indicate specific returns or information being accessed, contain certification of need for purpose described under section 6103(h)(1) of this title, and identify those employees who may receive such returns or information. Former subpar. (D) redesignated par. (3).
 
-Subsec. (e)(3). Pub. L. 105–206, §1103(b)(3)(D), redesignated subpar. (D) of par. (2) as par. (3) and substituted “Treasury Inspector General for Tax Administration” for “Inspector General”.
+Subsec. (e)(3). Pub. L. 105–206, §1103(b)(3)(D), redesignated subpar. (D) of par. (2) as par. (3) and substituted "Treasury Inspector General for Tax Administration" for "Inspector General".
 
-Subsec. (f). Pub. L. 105–206, §1103(b)(4), substituted “Inspector General of the Department of the Treasury or the Treasury Inspector General for Tax Administration” for “Inspector General”.
+Subsec. (f). Pub. L. 105–206, §1103(b)(4), substituted "Inspector General of the Department of the Treasury or the Treasury Inspector General for Tax Administration" for "Inspector General".
 
-Subsec. (g). Pub. L. 105–206, §1103(b)(5), struck out subsec. (g) which read as follows: “Notwithstanding section 4(d), in matters involving chapter 75 of the Internal Revenue Code of 1986, the Inspector General shall report expeditiously to the Attorney General only offenses under section 7214 of such Code, unless the Inspector General obtains the consent of the Commissioner of Internal Revenue to exercise additional reporting authority with respect to such chapter.”
+Subsec. (g). Pub. L. 105–206, §1103(b)(5), struck out subsec. (g) which read as follows: "Notwithstanding section 4(d), in matters involving chapter 75 of the Internal Revenue Code of 1986, the Inspector General shall report expeditiously to the Attorney General only offenses under section 7214 of such Code, unless the Inspector General obtains the consent of the Commissioner of Internal Revenue to exercise additional reporting authority with respect to such chapter."
 
-Subsec. (g)(1). Pub. L. 105–206, §1103(b)(6)(A), (B), redesignated subsec. (h) as (g)(1) and substituted “and the Committees on Government Reform and Oversight and Ways and Means of the House of Representatives” for “and the Committees on Government Operations and Ways and Means of the House of Representatives”.
+Subsec. (g)(1). Pub. L. 105–206, §1103(b)(6)(A), (B), redesignated subsec. (h) as (g)(1) and substituted "and the Committees on Government Reform and Oversight and Ways and Means of the House of Representatives" for "and the Committees on Government Operations and Ways and Means of the House of Representatives".
 
 Subsec. (g)(2). Pub. L. 105–206, §1103(b)(6)(C), added par. (2).
 
@@ -1878,9 +1878,9 @@ Another prior section 8E of the Inspector General Act of 1978, relating to requi
 
 **2002**—Subsec. (b)(2) to (5). Pub. L. 107–273, §308(1), added pars. (2) to (5) and struck out former pars. (2) and (3) which read as follows:
 
-“(2) shall give particular regard to the activities of the Counsel, Office of Professional Responsibility of the Department and the audit, internal investigative, and inspection units outside the Office of Inspector General with a view toward avoiding duplication and insuring effective coordination and cooperation; and
+"(2) shall give particular regard to the activities of the Counsel, Office of Professional Responsibility of the Department and the audit, internal investigative, and inspection units outside the Office of Inspector General with a view toward avoiding duplication and insuring effective coordination and cooperation; and
 
-“(3) shall refer to the Counsel, Office of Professional Responsibility of the Department for investigation, information or allegations relating to the conduct of an officer or employee of the Department of Justice employed in an attorney, criminal investigative, or law enforcement position that is or may be a violation of law, regulation, or order of the Department or any other applicable standard of conduct, except that no such referral shall be made if the officer or employee is employed in the Office of Professional Responsibility of the Department.”
+"(3) shall refer to the Counsel, Office of Professional Responsibility of the Department for investigation, information or allegations relating to the conduct of an officer or employee of the Department of Justice employed in an attorney, criminal investigative, or law enforcement position that is or may be a violation of law, regulation, or order of the Department or any other applicable standard of conduct, except that no such referral shall be made if the officer or employee is employed in the Office of Professional Responsibility of the Department."
 
 Subsec. (d). Pub. L. 107–273, §308(2), added subsec. (d).
 
@@ -1898,23 +1898,23 @@ Section effective 180 days after Oct. 18, 1988, see section 113 of Pub. L. 100�
 
 Pub. L. 107–273, div. A, title III, §309(a), Nov. 2, 2002, 116 Stat. 1784, provided that:
 
-“(1) In general.—The Inspector General of the Department of Justice shall direct that 1 official from the office of the Inspector General be responsible for supervising and coordinating independent oversight of programs and operations of the Federal Bureau of Investigation until September 30, 2004.
+"(1) In general.—The Inspector General of the Department of Justice shall direct that 1 official from the office of the Inspector General be responsible for supervising and coordinating independent oversight of programs and operations of the Federal Bureau of Investigation until September 30, 2004.
 
-“(2) Continuation of oversight.—The Inspector General may continue individual oversight in accordance with paragraph (1) after September 30, 2004, at the discretion of the Inspector General.”
+"(2) Continuation of oversight.—The Inspector General may continue individual oversight in accordance with paragraph (1) after September 30, 2004, at the discretion of the Inspector General."
 
 #### Review of Civil Rights Complaints by the Department of Justice
 
-Pub. L. 107–56, title X, §1001, Oct. 26, 2001, 115 Stat. 391, provided that: “The Inspector General of the Department of Justice shall designate one official who shall—
+Pub. L. 107–56, title X, §1001, Oct. 26, 2001, 115 Stat. 391, provided that: "The Inspector General of the Department of Justice shall designate one official who shall—
 
-“(1) review information and receive complaints alleging abuses of civil rights and civil liberties by employees and officials of the Department of Justice;
+"(1) review information and receive complaints alleging abuses of civil rights and civil liberties by employees and officials of the Department of Justice;
 
-“(2) make public through the Internet, radio, television, and newspaper advertisements information on the responsibilities and functions of, and how to contact, the official; and
+"(2) make public through the Internet, radio, television, and newspaper advertisements information on the responsibilities and functions of, and how to contact, the official; and
 
-“(3) submit to the Committee on the Judiciary of the House of Representatives and the Committee on the Judiciary of the Senate on a semi-annual basis a report on the implementation of this subsection \[section\] and detailing any abuses described in paragraph (1), including a description of the use of funds appropriations used to carry out this subsection \[section\].”
+"(3) submit to the Committee on the Judiciary of the House of Representatives and the Committee on the Judiciary of the Senate on a semi-annual basis a report on the implementation of this subsection \[section\] and detailing any abuses described in paragraph (1), including a description of the use of funds appropriations used to carry out this subsection \[section\]."
 
 #### Transfer of 20 Investigation Positions Within Department of Justice
 
-Pub. L. 100–504, title I, §102(h), Oct. 18, 1988, 102 Stat. 2521, provided that: “No later than 90 days after the date of appointment of the Inspector General of the Department of Justice, the Inspector General shall designate 20 full-time investigation positions which the Attorney General may transfer from the Office of Inspector General of the Department of Justice to the Office of Professional Responsibility of the Department of Justice for the performance of functions described under section 8D(b)(3) \[now 8E(b)(3)\] of the Inspector General Act of 1978 \[subsec. (b)(3) of this section\]. Any personnel who are transferred pursuant to this subsection, and who, at the time of being so transferred, are protected from reduction in classification or compensation under section 9(c) of such Act \[section 9(c) of Pub. L. 95–452, set out in this Appendix\], shall continue to be so protected for 1 year after the date of transfer pursuant to this subsection.”
+Pub. L. 100–504, title I, §102(h), Oct. 18, 1988, 102 Stat. 2521, provided that: "No later than 90 days after the date of appointment of the Inspector General of the Department of Justice, the Inspector General shall designate 20 full-time investigation positions which the Attorney General may transfer from the Office of Inspector General of the Department of Justice to the Office of Professional Responsibility of the Department of Justice for the performance of functions described under section 8D(b)(3) \[now 8E(b)(3)\] of the Inspector General Act of 1978 \[subsec. (b)(3) of this section\]. Any personnel who are transferred pursuant to this subsection, and who, at the time of being so transferred, are protected from reduction in classification or compensation under section 9(c) of such Act \[section 9(c) of Pub. L. 95–452, set out in this Appendix\], shall continue to be so protected for 1 year after the date of transfer pursuant to this subsection."
 
 ### §8F. Special provisions concerning the Corporation for National and Community Service
 
@@ -1938,7 +1938,7 @@ as may be necessary to carry out the functions, powers, and duties of the Inspec
 
 #### Codification
 
-Pub. L. 103–204, §23(a)(4), Dec. 17, 1993, 107 Stat. 2408, which directed the amendment of section 8F(a)(2) by striking out “the Federal Deposit Insurance Corporation,”, could not be executed to this section because the quoted language does not appear. However, the amendment was executed to section 8G(a)(2) of the Inspector General Act of 1978 relating to requirements for Federal entities and designated Federal entities, to reflect the probable intent of Congress and the successive renumbering of that section as section 8F by Pub. L. 103–82 and as section 8G by Pub. L. 103–204.
+Pub. L. 103–204, §23(a)(4), Dec. 17, 1993, 107 Stat. 2408, which directed the amendment of section 8F(a)(2) by striking out "the Federal Deposit Insurance Corporation,", could not be executed to this section because the quoted language does not appear. However, the amendment was executed to section 8G(a)(2) of the Inspector General Act of 1978 relating to requirements for Federal entities and designated Federal entities, to reflect the probable intent of Congress and the successive renumbering of that section as section 8F by Pub. L. 103–82 and as section 8G by Pub. L. 103–204.
 
 #### Prior Provisions
 
@@ -1948,7 +1948,7 @@ Another prior section 8F of the Inspector General Act of 1978, relating to rule 
 
 #### Amendments
 
-**2009**—Subsec. (a)(1). Pub. L. 111–13 substituted “National and Community Service Act of 1990” for “National and Community Service Trust Act of 1993”.
+**2009**—Subsec. (a)(1). Pub. L. 111–13 substituted "National and Community Service Act of 1990" for "National and Community Service Trust Act of 1993".
 
 #### Effective Date of 2009 Amendment
 
@@ -1962,7 +1962,7 @@ Section effective Oct. 1, 1993, see section 202(i) of Pub. L. 103–82, set out 
 
 (a) Notwithstanding section 12 of this Act, as used in this section—
 
-(1) the term “Federal entity” means any Government corporation (within the meaning of section 103(1) of title 5, United States Code), any Government controlled corporation (within the meaning of section 103(2) of such title), or any other entity in the Executive branch of the Government, or any independent regulatory agency, but does not include—
+(1) the term "Federal entity" means any Government corporation (within the meaning of section 103(1) of title 5, United States Code), any Government controlled corporation (within the meaning of section 103(2) of such title), or any other entity in the Executive branch of the Government, or any independent regulatory agency, but does not include—
 
 (A) an establishment (as defined under section 12(2) of this Act) or part of an establishment;
 
@@ -1978,11 +1978,11 @@ Section effective Oct. 1, 1993, see section 202(i) of Pub. L. 103–82, set out 
 
   
 
-(2) the term “designated Federal entity” means Amtrak, the Appalachian Regional Commission, the Board of Governors of the Federal Reserve System and the Bureau of Consumer Financial Protection, the Board for International Broadcasting, the Commodity Futures Trading Commission, the Consumer Product Safety Commission, the Corporation for Public Broadcasting, the Defense Intelligence Agency, the Denali Commission, the Equal Employment Opportunity Commission, the Farm Credit Administration, the Federal Communications Commission, the Federal Election Commission, the Election Assistance Commission, the Federal Housing Finance Board, the Federal Labor Relations Authority, the Federal Maritime Commission, the Federal Trade Commission, the Legal Services Corporation, the National Archives and Records Administration, the National Credit Union Administration, the National Endowment for the Arts, the National Endowment for the Humanities, the National Geospatial-Intelligence Agency, the National Labor Relations Board, the National Reconnaissance Office, the National Security Agency, the National Science Foundation, the Panama Canal Commission, the Peace Corps, the Pension Benefit Guaranty Corporation, the Securities and Exchange Commission, the Smithsonian Institution, the United States International Trade Commission, the Postal Regulatory Commission, and the United States Postal Service;
+(2) the term "designated Federal entity" means Amtrak, the Appalachian Regional Commission, the Board of Governors of the Federal Reserve System and the Bureau of Consumer Financial Protection, the Board for International Broadcasting, the Commodity Futures Trading Commission, the Consumer Product Safety Commission, the Corporation for Public Broadcasting, the Defense Intelligence Agency, the Denali Commission, the Equal Employment Opportunity Commission, the Farm Credit Administration, the Federal Communications Commission, the Federal Election Commission, the Election Assistance Commission, the Federal Housing Finance Board, the Federal Labor Relations Authority, the Federal Maritime Commission, the Federal Trade Commission, the Legal Services Corporation, the National Archives and Records Administration, the National Credit Union Administration, the National Endowment for the Arts, the National Endowment for the Humanities, the National Geospatial-Intelligence Agency, the National Labor Relations Board, the National Reconnaissance Office, the National Security Agency, the National Science Foundation, the Panama Canal Commission, the Peace Corps, the Pension Benefit Guaranty Corporation, the Securities and Exchange Commission, the Smithsonian Institution, the United States International Trade Commission, the Postal Regulatory Commission, and the United States Postal Service;
 
-(3) the term “head of the Federal entity” means any person or persons designated by statute as the head of a Federal entity, and if no such designation exists, the chief policymaking officer or board of a Federal entity as identified in the list published pursuant to subsection (h)(1) of this section;
+(3) the term "head of the Federal entity" means any person or persons designated by statute as the head of a Federal entity, and if no such designation exists, the chief policymaking officer or board of a Federal entity as identified in the list published pursuant to subsection (h)(1) of this section;
 
-(4) the term “head of the designated Federal entity” means the board or commission of the designated Federal entity, or in the event the designated Federal entity does not have a board or commission, any person or persons designated by statute as the head of a designated Federal entity and if no such designation exists, the chief policymaking officer or board of a designated Federal entity as identified in the list published pursuant to subsection (h)(1) of this section, except that—
+(4) the term "head of the designated Federal entity" means the board or commission of the designated Federal entity, or in the event the designated Federal entity does not have a board or commission, any person or persons designated by statute as the head of a designated Federal entity and if no such designation exists, the chief policymaking officer or board of a designated Federal entity as identified in the list published pursuant to subsection (h)(1) of this section, except that—
 
 (A) with respect to the National Science Foundation, such term means the National Science Board;
 
@@ -2002,9 +2002,9 @@ Section effective Oct. 1, 1993, see section 202(i) of Pub. L. 103–82, set out 
 
   
 
-(5) the term “Office of Inspector General” means an Office of Inspector General of a designated Federal entity; and
+(5) the term "Office of Inspector General" means an Office of Inspector General of a designated Federal entity; and
 
-(6) the term “Inspector General” means an Inspector General of a designated Federal entity.
+(6) the term "Inspector General" means an Inspector General of a designated Federal entity.
 
   
 
@@ -2046,7 +2046,7 @@ Section effective Oct. 1, 1993, see section 202(i) of Pub. L. 103–82, set out 
 
 (f)(1) For purposes of carrying out subsection (c) with respect to the United States Postal Service, the appointment provisions of section 202(e) of title 39, United States Code, shall be applied.
 
-(2) In carrying out the duties and responsibilities specified in this Act, the Inspector General of the United States Postal Service (hereinafter in this subsection referred to as the “Inspector General”) shall have oversight responsibility for all activities of the Postal Inspection Service, including any internal investigation performed by the Postal Inspection Service. The Chief Postal Inspector shall promptly report the significant activities being carried out by the Postal Inspection Service to such Inspector General.
+(2) In carrying out the duties and responsibilities specified in this Act, the Inspector General of the United States Postal Service (hereinafter in this subsection referred to as the "Inspector General") shall have oversight responsibility for all activities of the Postal Inspection Service, including any internal investigation performed by the Postal Inspection Service. The Chief Postal Inspector shall promptly report the significant activities being carried out by the Postal Inspection Service to such Inspector General.
 
 (3)(A)(i) Notwithstanding subsection (d), the Inspector General shall be under the authority, direction, and control of the Governors with respect to audits or investigations, or the issuance of subpoenas, which require access to sensitive information concerning—
 
@@ -2078,15 +2078,15 @@ Section effective Oct. 1, 1993, see section 202(i) of Pub. L. 103–82, set out 
 
 (4) Nothing in this Act shall restrict, eliminate, or otherwise adversely affect any of the rights, privileges, or benefits of either employees of the United States Postal Service, or labor organizations representing employees of the United States Postal Service, under chapter 12 of title 39, United States Code, the National Labor Relations Act, any handbook or manual affecting employee labor relations with the United States Postal Service, or any collective bargaining agreement.
 
-(5) As used in this subsection, the term “Governors” has the meaning given such term by section 102(3) of title 39, United States Code.
+(5) As used in this subsection, the term "Governors" has the meaning given such term by section 102(3) of title 39, United States Code.
 
 (6) There are authorized to be appropriated, out of the Postal Service Fund, such sums as may be necessary for the Office of Inspector General of the United States Postal Service.
 
 (g)(1) Sections 4, 5, 6 (other than subsections (a)(7) and (a)(8) thereof), and 7 of this Act shall apply to each Inspector General and Office of Inspector General of a designated Federal entity and such sections shall be applied to each designated Federal entity and head of the designated Federal entity (as defined under subsection (a)) by substituting—
 
-(A) “designated Federal entity” for “establishment”; and
+(A) "designated Federal entity" for "establishment"; and
 
-(B) “head of the designated Federal entity” for “head of the establishment”.
+(B) "head of the designated Federal entity" for "head of the establishment".
 
   
 
@@ -2118,7 +2118,7 @@ Section effective Oct. 1, 1993, see section 202(i) of Pub. L. 103–82, set out 
 
 #### Amendment of Subsection (a)(2)
 
-Pub. L. 105–134, title IV, §409(a), Dec. 2, 1997, 111 Stat. 2586, provided that effective at beginning of first fiscal year after fiscal year for which Amtrak receives no Federal subsidy, subsection (a)(2) of this section is amended by striking “Amtrak,”.
+Pub. L. 105–134, title IV, §409(a), Dec. 2, 1997, 111 Stat. 2586, provided that effective at beginning of first fiscal year after fiscal year for which Amtrak receives no Federal subsidy, subsection (a)(2) of this section is amended by striking "Amtrak,".
 
 #### References in Text
 
@@ -2130,59 +2130,59 @@ A prior section 8G of the Inspector General Act of 1978 was renumbered section 8
 
 #### Amendments
 
-**2010**—Subsec. (a)(2). Pub. L. 111–259, §431(a), inserted “the Defense Intelligence Agency,” after “the Corporation for Public Broadcasting,”, “the National Geospatial-Intelligence Agency,” after “the National Endowment for the Humanities,”, and “the National Reconnaissance Office, the National Security Agency,” after “the National Labor Relations Board,”.
+**2010**—Subsec. (a)(2). Pub. L. 111–259, §431(a), inserted "the Defense Intelligence Agency," after "the Corporation for Public Broadcasting,", "the National Geospatial-Intelligence Agency," after "the National Endowment for the Humanities,", and "the National Reconnaissance Office, the National Security Agency," after "the National Labor Relations Board,".
 
-Pub. L. 111–203, §1081(1), inserted “and the Bureau of Consumer Financial Protection” after “Board of Governors of the Federal Reserve System”.
+Pub. L. 111–203, §1081(1), inserted "and the Bureau of Consumer Financial Protection" after "Board of Governors of the Federal Reserve System".
 
-Subsec. (a)(4). Pub. L. 111–203, §989B(1)(A), inserted “the board or commission of the designated Federal entity, or in the event the designated Federal entity does not have a board or commission,” after “means” in introductory provisions.
+Subsec. (a)(4). Pub. L. 111–203, §989B(1)(A), inserted "the board or commission of the designated Federal entity, or in the event the designated Federal entity does not have a board or commission," after "means" in introductory provisions.
 
 Subsec. (a)(4)(C) to (H). Pub. L. 111–203, §989B(1)(B), (C), added subpars. (C) to (H).
 
-Subsec. (c). Pub. L. 111–203, §1081(2), inserted at end “For purposes of implementing this section, the Chairman of the Board of Governors of the Federal Reserve System shall appoint the Inspector General of the Board of Governors of the Federal Reserve System and the Bureau of Consumer Financial Protection. The Inspector General of the Board of Governors of the Federal Reserve System and the Bureau of Consumer Financial Protection shall have all of the authorities and responsibilities provided by this Act with respect to the Bureau of Consumer Financial Protection, as if the Bureau were part of the Board of Governors of the Federal Reserve System.”
+Subsec. (c). Pub. L. 111–203, §1081(2), inserted at end "For purposes of implementing this section, the Chairman of the Board of Governors of the Federal Reserve System shall appoint the Inspector General of the Board of Governors of the Federal Reserve System and the Bureau of Consumer Financial Protection. The Inspector General of the Board of Governors of the Federal Reserve System and the Bureau of Consumer Financial Protection shall have all of the authorities and responsibilities provided by this Act with respect to the Bureau of Consumer Financial Protection, as if the Bureau were part of the Board of Governors of the Federal Reserve System."
 
-Subsec. (d). Pub. L. 111–259, §431(c), designated existing provisions as par. (1), substituted “Except as provided in paragraph (2), the head” for “The head”, and added par. (2).
+Subsec. (d). Pub. L. 111–259, §431(c), designated existing provisions as par. (1), substituted "Except as provided in paragraph (2), the head" for "The head", and added par. (2).
 
 Subsec. (e). Pub. L. 111–203, §989D, designated existing provisions as par. (2) and added par. (1).
 
-Subsec. (g)(3). Pub. L. 111–203, §1081(3), inserted “and the Bureau of Consumer Financial Protection” after “the Inspector General of the Board of Governors of the Federal Reserve System”.
+Subsec. (g)(3). Pub. L. 111–203, §1081(3), inserted "and the Bureau of Consumer Financial Protection" after "the Inspector General of the Board of Governors of the Federal Reserve System".
 
-Subsec. (h)(1). Pub. L. 111–203, §989B(2), inserted “if the designated Federal entity is not a board or commission, include” after “designated Federal entities and”.
+Subsec. (h)(1). Pub. L. 111–203, §989B(2), inserted "if the designated Federal entity is not a board or commission, include" after "designated Federal entities and".
 
-**2008**—Subsec. (a). Pub. L. 110–409, §7(d)(1), substituted “section 12” for “section 11” in introductory provisions and “section 12(2)” for “section 11(2)” in par. (1)(A).
+**2008**—Subsec. (a). Pub. L. 110–409, §7(d)(1), substituted "section 12" for "section 11" in introductory provisions and "section 12(2)" for "section 11(2)" in par. (1)(A).
 
-Subsec. (c). Pub. L. 110–409, §2, inserted at end “Each Inspector General shall be appointed without regard to political affiliation and solely on the basis of integrity and demonstrated ability in accounting, auditing, financial analysis, law, management analysis, public administration, or investigations.”
+Subsec. (c). Pub. L. 110–409, §2, inserted at end "Each Inspector General shall be appointed without regard to political affiliation and solely on the basis of integrity and demonstrated ability in accounting, auditing, financial analysis, law, management analysis, public administration, or investigations."
 
-Subsec. (e). Pub. L. 110–409, §3(b), substituted “shall communicate in writing the reasons for any such removal or transfer to both Houses of Congress, not later than 30 days before the removal or transfer. Nothing in this subsection shall prohibit a personnel action otherwise authorized by law, other than transfer or removal.” for “shall promptly communicate in writing the reasons for any such removal or transfer to both Houses of the Congress.”
+Subsec. (e). Pub. L. 110–409, §3(b), substituted "shall communicate in writing the reasons for any such removal or transfer to both Houses of Congress, not later than 30 days before the removal or transfer. Nothing in this subsection shall prohibit a personnel action otherwise authorized by law, other than transfer or removal." for "shall promptly communicate in writing the reasons for any such removal or transfer to both Houses of the Congress."
 
 Subsec. (g)(4). Pub. L. 110–409, §6(b), added par. (4).
 
-**2006**—Subsec. (a)(2). Pub. L. 109–435, §605(a), inserted “the Postal Regulatory Commission,” after “the United States International Trade Commission,”.
+**2006**—Subsec. (a)(2). Pub. L. 109–435, §605(a), inserted "the Postal Regulatory Commission," after "the United States International Trade Commission,".
 
 Subsec. (f)(3) to (6). Pub. L. 109–435, §603(b), added par. (6) and redesignated par. (3), relating to Postal employees and labor organizations representing such employees, and par. (4) as pars. (4) and (5), respectively.
 
-**2004**—Subsec. (a)(1)(E). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
+**2004**—Subsec. (a)(1)(E). Pub. L. 108–271 substituted "Government Accountability Office" for "General Accounting Office".
 
-**2002**—Subsec. (a)(2). Pub. L. 107–252 inserted “the Election Assistance Commission,” after “Federal Election Commission,”.
+**2002**—Subsec. (a)(2). Pub. L. 107–252 inserted "the Election Assistance Commission," after "Federal Election Commission,".
 
-**2000**—Subsec. (a)(2). Pub. L. 106–422 struck out “the Tennessee Valley Authority,” before “the United States International Trade Commission,”.
+**2000**—Subsec. (a)(2). Pub. L. 106–422 struck out "the Tennessee Valley Authority," before "the United States International Trade Commission,".
 
-**1998**—Subsec. (a)(2). Pub. L. 105–277, §306(h), as added by Pub. L. 106–31, inserted “the Denali Commission,” after “the Corporation for Public Broadcasting,”.
+**1998**—Subsec. (a)(2). Pub. L. 105–277, §306(h), as added by Pub. L. 106–31, inserted "the Denali Commission," after "the Corporation for Public Broadcasting,".
 
-**1996**—Subsec. (a)(4). Pub. L. 104–208, §101(f) \[title VI, §662(b)(1)\], substituted “except that—” and subpars. (A) and (B) for “except that with respect to the National Science Foundation, such term means the National Science Board;”.
+**1996**—Subsec. (a)(4). Pub. L. 104–208, §101(f) \[title VI, §662(b)(1)\], substituted "except that—" and subpars. (A) and (B) for "except that with respect to the National Science Foundation, such term means the National Science Board;".
 
 Subsec. (f). Pub. L. 104–208, §101(f) \[title VI, §662(b)(2)\], amended subsec. (f) generally. Prior to amendment, subsec. (f) read as follows:
 
-“(1) The Chief Postal Inspector of the United States Postal Service shall also hold the position of Inspector General of the United States Postal Service, and for purposes of this section, shall report to, and be under the general supervision of, the Postmaster General of the United States Postal Service. The Postmaster General, in consultation with the Governors of the United States Postal Service, shall appoint the Chief Postal Inspector. The Postmaster General, with the concurrence of the Governors of the United States Postal Service, shall have power to remove the Chief Postal Inspector or transfer the Chief Postal Inspector to another position or location within the United States Postal Service. If the Chief Postal Inspector is removed or transferred in accordance with this subsection, the Postmaster General shall promptly notify both Houses of the Congress in writing of the reasons for such removal or transfer.
+"(1) The Chief Postal Inspector of the United States Postal Service shall also hold the position of Inspector General of the United States Postal Service, and for purposes of this section, shall report to, and be under the general supervision of, the Postmaster General of the United States Postal Service. The Postmaster General, in consultation with the Governors of the United States Postal Service, shall appoint the Chief Postal Inspector. The Postmaster General, with the concurrence of the Governors of the United States Postal Service, shall have power to remove the Chief Postal Inspector or transfer the Chief Postal Inspector to another position or location within the United States Postal Service. If the Chief Postal Inspector is removed or transferred in accordance with this subsection, the Postmaster General shall promptly notify both Houses of the Congress in writing of the reasons for such removal or transfer.
 
-“(2) For purposes of paragraph (1), the term ‘Governors’ has the same meaning as such term is defined under section 102(3) of title 39, United States Code.”
+"(2) For purposes of paragraph (1), the term 'Governors' has the same meaning as such term is defined under section 102(3) of title 39, United States Code."
 
-**1995**—Subsec. (a)(2). Pub. L. 104–88 struck out “the Interstate Commerce Commission,” after “Federal Trade Commission,”.
+**1995**—Subsec. (a)(2). Pub. L. 104–88 struck out "the Interstate Commerce Commission," after "Federal Trade Commission,".
 
-**1993**—Subsec. (a)(2). Pub. L. 103–204, §23(a)(4), which directed the amendment of section 8F(a)(2) by striking “the Federal Deposit Insurance Corporation,”, was executed by striking the quoted language as it appeared after “Federal Communications Commission,” in subsec. (a)(2) of this section, to reflect the probable intent of Congress and the successive renumbering of this section as section 8F of the Inspector General Act of 1978 by Pub. L. 103–82 and as section 8G by Pub. L. 103–204. See Codification note set out under section 8F of the Inspector General Act of 1978 in this Appendix.
+**1993**—Subsec. (a)(2). Pub. L. 103–204, §23(a)(4), which directed the amendment of section 8F(a)(2) by striking "the Federal Deposit Insurance Corporation,", was executed by striking the quoted language as it appeared after "Federal Communications Commission," in subsec. (a)(2) of this section, to reflect the probable intent of Congress and the successive renumbering of this section as section 8F of the Inspector General Act of 1978 by Pub. L. 103–82 and as section 8G by Pub. L. 103–204. See Codification note set out under section 8F of the Inspector General Act of 1978 in this Appendix.
 
-Pub. L. 103–82, §202(g)(2)(A), struck out “ACTION,” before “Amtrak,”.
+Pub. L. 103–82, §202(g)(2)(A), struck out "ACTION," before "Amtrak,".
 
-**1989**—Subsec. (a)(2). Pub. L. 101–73 substituted “Federal Housing Finance Board” for “Federal Home Loan Bank Board”.
+**1989**—Subsec. (a)(2). Pub. L. 101–73 substituted "Federal Housing Finance Board" for "Federal Home Loan Bank Board".
 
 #### Change of Name
 
@@ -2200,29 +2200,29 @@ Pub. L. 111–203, title X, §1081, July 21, 2010, 124 Stat. 2080, provided that
 
 Pub. L. 109–435, title VI, §603(d), Dec. 20, 2006, 120 Stat. 3241, provided that:
 
-“(1) In general.—The amendments made by this section \[amending this section and sections 504, 2003, and 2009 of Title 39, Postal Service\] shall apply with respect to fiscal years beginning on or after October 1, 2008.
+"(1) In general.—The amendments made by this section \[amending this section and sections 504, 2003, and 2009 of Title 39, Postal Service\] shall apply with respect to fiscal years beginning on or after October 1, 2008.
 
-“(2) Savings provision.—The provisions of title 39, United States Code, and the Inspector General Act of 1978 (5 U.S.C. App.) that are amended by this section shall, for purposes of any fiscal year before the first fiscal year to which the amendments made by this section apply, continue to apply in the same way as if this section had never been enacted.”
+"(2) Savings provision.—The provisions of title 39, United States Code, and the Inspector General Act of 1978 (5 U.S.C. App.) that are amended by this section shall, for purposes of any fiscal year before the first fiscal year to which the amendments made by this section apply, continue to apply in the same way as if this section had never been enacted."
 
 #### Effective Date of 2002 Amendment
 
-Pub. L. 107–252, title VIII, §812(b), Oct. 29, 2002, 116 Stat. 1727, provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect 180 days after the appointment of all members of the Election Assistance Commission under section 203 \[42 U.S.C. 15323\].”
+Pub. L. 107–252, title VIII, §812(b), Oct. 29, 2002, 116 Stat. 1727, provided that: "The amendment made by subsection (a) \[amending this section\] shall take effect 180 days after the appointment of all members of the Election Assistance Commission under section 203 \[42 U.S.C. 15323\]."
 
 #### Effective Date of 2000 Amendment
 
 Pub. L. 106–422, §1(d), Nov. 1, 2000, 114 Stat. 1872, provided that:
 
-“(1) In general.—The amendments made by this section \[amending this section, section 11 of this Appendix, and section 5315 of this title and enacting provisions set out as a note under this section\] shall take effect 30 days after the date of enactment of this Act \[Nov. 1, 2000\].
+"(1) In general.—The amendments made by this section \[amending this section, section 11 of this Appendix, and section 5315 of this title and enacting provisions set out as a note under this section\] shall take effect 30 days after the date of enactment of this Act \[Nov. 1, 2000\].
 
-“(2) Inspector general.—The person serving as Inspector General of the Tennessee Valley Authority on the effective date of this section—
+"(2) Inspector general.—The person serving as Inspector General of the Tennessee Valley Authority on the effective date of this section—
 
-“(A) may continue such service until the President makes an appointment under section 3(a) of the Inspector General Act of 1978 (5 U.S.C. App.) consistent with the amendments made by this section; and
+"(A) may continue such service until the President makes an appointment under section 3(a) of the Inspector General Act of 1978 (5 U.S.C. App.) consistent with the amendments made by this section; and
 
-“(B) shall be subject to section 8G(c) and (d) of the Inspector General Act of 1978 (5 U.S.C. App.) as applicable to the Board of Directors of the Tennessee Valley Authority, unless that person is appointed by the President, by and with the advice and consent of the Senate, to be Inspector General of the Tennessee Valley Authority.”
+"(B) shall be subject to section 8G(c) and (d) of the Inspector General Act of 1978 (5 U.S.C. App.) as applicable to the Board of Directors of the Tennessee Valley Authority, unless that person is appointed by the President, by and with the advice and consent of the Senate, to be Inspector General of the Tennessee Valley Authority."
 
 #### Effective Date of 1997 Amendment
 
-Section 409(a)(2) of Pub. L. 105–134 provided that: “The amendment made by paragraph (1) \[amending this section\] shall take effect at the beginning of the first fiscal year after a fiscal year for which Amtrak receives no Federal subsidy.”
+Section 409(a)(2) of Pub. L. 105–134 provided that: "The amendment made by paragraph (1) \[amending this section\] shall take effect at the beginning of the first fiscal year after a fiscal year for which Amtrak receives no Federal subsidy."
 
 #### Effective Date of 1995 Amendment
 
@@ -2230,7 +2230,7 @@ Amendment by Pub. L. 104–88 effective Jan. 1, 1996, see section 2 of Pub. L. 1
 
 #### Effective Date of 1993 Amendment
 
-Pub. L. 103–82, title II, §202(g)(2)(B), Sept. 21, 1993, 107 Stat. 890, provided that: “This paragraph \[amending this section\] shall take effect on the effective date of section 203(c)(2).” \[Section 203(c)(2) of Pub. L. 103–82 is effective 18 months after Sept. 21, 1993, or on such earlier date as the President shall determine to be appropriate and announce by proclamation in the Federal Register, see section 203(d) of Pub. L. 103–82, set out as a note under section 12651 of Title 42, The Public Health and Welfare.\]
+Pub. L. 103–82, title II, §202(g)(2)(B), Sept. 21, 1993, 107 Stat. 890, provided that: "This paragraph \[amending this section\] shall take effect on the effective date of section 203(c)(2)." \[Section 203(c)(2) of Pub. L. 103–82 is effective 18 months after Sept. 21, 1993, or on such earlier date as the President shall determine to be appropriate and announce by proclamation in the Federal Register, see section 203(d) of Pub. L. 103–82, set out as a note under section 12651 of Title 42, The Public Health and Welfare.\]
 
 #### Effective Date
 
@@ -2238,7 +2238,7 @@ Section effective 180 days after Oct. 18, 1988, see section 113 of Pub. L. 100�
 
 #### Inspector General at the Commission on Civil Rights
 
-Pub. L. 113–6, div. B, title IV, Mar. 26, 2013, 127 Stat. 266, provided in part: “That there shall be an Inspector General at the Commission on Civil Rights who shall have the duties, responsibilities, and authorities specified in the Inspector General Act of 1978 \[Pub. L. 95–452, set out in this Appendix\]: *Provided further*, That an individual appointed to the position of Inspector General of the Government Accountability Office (GAO) shall, by virtue of such appointment, also hold the position of Inspector General of the Commission on Civil Rights: *Provided further*, That the Inspector General of the Commission on Civil Rights shall utilize personnel of the Office of Inspector General of GAO in performing the duties of the Inspector General of the Commission on Civil Rights, and shall not appoint any individuals to positions within the Commission on Civil Rights”.
+Pub. L. 113–6, div. B, title IV, Mar. 26, 2013, 127 Stat. 266, provided in part: "That there shall be an Inspector General at the Commission on Civil Rights who shall have the duties, responsibilities, and authorities specified in the Inspector General Act of 1978 \[Pub. L. 95–452, set out in this Appendix\]: *Provided further*, That an individual appointed to the position of Inspector General of the Government Accountability Office (GAO) shall, by virtue of such appointment, also hold the position of Inspector General of the Commission on Civil Rights: *Provided further*, That the Inspector General of the Commission on Civil Rights shall utilize personnel of the Office of Inspector General of GAO in performing the duties of the Inspector General of the Commission on Civil Rights, and shall not appoint any individuals to positions within the Commission on Civil Rights".
 
 Similar provisions were contained in the following prior appropriation act:
 
@@ -2248,225 +2248,225 @@ Pub. L. 112–55, div. B, title IV, Nov. 18, 2011, 125 Stat. 628.
 
 Pub. L. 110–181, div. A, title XII, §1229, Jan. 28, 2008, 122 Stat. 378, as amended by Pub. L. 110–417, \[div. A\], title X, §1061(b)(11), Oct. 14, 2008, 122 Stat. 4613; Pub. L. 111–38, §1, June 30, 2009, 123 Stat. 1932, provided that:
 
-“(a) Purposes.—The purposes of this section are as follows:
+"(a) Purposes.—The purposes of this section are as follows:
 
-“(1) To provide for the independent and objective conduct and supervision of audits and investigations relating to the programs and operations funded with amounts appropriated or otherwise made available for the reconstruction of Afghanistan.
+"(1) To provide for the independent and objective conduct and supervision of audits and investigations relating to the programs and operations funded with amounts appropriated or otherwise made available for the reconstruction of Afghanistan.
 
-“(2) To provide for the independent and objective leadership and coordination of, and recommendations on, policies designed to—
+"(2) To provide for the independent and objective leadership and coordination of, and recommendations on, policies designed to—
 
-“(A) promote economy efficiency, and effectiveness in the administration of the programs and operations described in paragraph (1); and
+"(A) promote economy efficiency, and effectiveness in the administration of the programs and operations described in paragraph (1); and
 
-“(B) prevent and detect waste, fraud, and abuse in such programs and operations.
+"(B) prevent and detect waste, fraud, and abuse in such programs and operations.
 
-“(3) To provide for an independent and objective means of keeping the Secretary of State and the Secretary of Defense fully and currently informed about problems and deficiencies relating to the administration of such programs and operations and the necessity for and progress on corrective action.
+"(3) To provide for an independent and objective means of keeping the Secretary of State and the Secretary of Defense fully and currently informed about problems and deficiencies relating to the administration of such programs and operations and the necessity for and progress on corrective action.
 
-“(b) Office of Inspector General.—There is hereby established the Office of the Special Inspector General for Afghanistan Reconstruction to carry out the purposes of subsection (a).
+"(b) Office of Inspector General.—There is hereby established the Office of the Special Inspector General for Afghanistan Reconstruction to carry out the purposes of subsection (a).
 
-“(c) Appointment of Inspector General; Removal.—
+"(c) Appointment of Inspector General; Removal.—
 
-“(1) Appointment.—The head of the Office of the Special Inspector General for Afghanistan Reconstruction is the Special Inspector General for Afghanistan Reconstruction (in this section referred to as the ‘Inspector General’), who shall be appointed by the President. The President may appoint the Special Inspector General for Iraq Reconstruction to serve as the Special Inspector General for Afghanistan Reconstruction, in which case the Special Inspector General for Iraq Reconstruction shall have all of the duties, responsibilities, and authorities set forth under this section with respect to such appointed position for the purpose of carrying out this section.
+"(1) Appointment.—The head of the Office of the Special Inspector General for Afghanistan Reconstruction is the Special Inspector General for Afghanistan Reconstruction (in this section referred to as the 'Inspector General'), who shall be appointed by the President. The President may appoint the Special Inspector General for Iraq Reconstruction to serve as the Special Inspector General for Afghanistan Reconstruction, in which case the Special Inspector General for Iraq Reconstruction shall have all of the duties, responsibilities, and authorities set forth under this section with respect to such appointed position for the purpose of carrying out this section.
 
-“(2) Qualifications.—The appointment of the Inspector General shall be made solely on the basis of integrity and demonstrated ability in accounting, auditing, financial analysis, law, management analysis, public administration, or investigations.
+"(2) Qualifications.—The appointment of the Inspector General shall be made solely on the basis of integrity and demonstrated ability in accounting, auditing, financial analysis, law, management analysis, public administration, or investigations.
 
-“(3) Deadline for appointment.—The appointment of an individual as Inspector General shall be made not later than 30 days after the date of the enactment of this Act \[Jan. 28, 2008\].
+"(3) Deadline for appointment.—The appointment of an individual as Inspector General shall be made not later than 30 days after the date of the enactment of this Act \[Jan. 28, 2008\].
 
-“(4) Compensation.—The annual rate of basic pay of the Inspector General shall be the annual rate of basic pay provided for positions at level IV of the Executive Schedule under section 5315 of title 5, United States Code.
+"(4) Compensation.—The annual rate of basic pay of the Inspector General shall be the annual rate of basic pay provided for positions at level IV of the Executive Schedule under section 5315 of title 5, United States Code.
 
-“(5) Prohibition on political activities.—For purposes of section 7324 of title 5, United States Code, the Inspector General shall not be considered an employee who determines policies to be pursued by the United States in the nationwide administration of Federal law.
+"(5) Prohibition on political activities.—For purposes of section 7324 of title 5, United States Code, the Inspector General shall not be considered an employee who determines policies to be pursued by the United States in the nationwide administration of Federal law.
 
-“(6) Removal.—The Inspector General shall be removable from office in accordance with the provisions of section 3(b) of the Inspector General Act of 1978 (5 U.S.C. App.).
+"(6) Removal.—The Inspector General shall be removable from office in accordance with the provisions of section 3(b) of the Inspector General Act of 1978 (5 U.S.C. App.).
 
-“(d) Assistant Inspectors General.—The Inspector General shall, in accordance with applicable laws and regulations governing the civil service—
+"(d) Assistant Inspectors General.—The Inspector General shall, in accordance with applicable laws and regulations governing the civil service—
 
-“(1) appoint an Assistant Inspector General for Auditing who shall have the responsibility for supervising the performance of auditing activities relating to programs and operations supported by amounts appropriated or otherwise made available for the reconstruction of Afghanistan; and
+"(1) appoint an Assistant Inspector General for Auditing who shall have the responsibility for supervising the performance of auditing activities relating to programs and operations supported by amounts appropriated or otherwise made available for the reconstruction of Afghanistan; and
 
-“(2) appoint an Assistant Inspector General for Investigations who shall have the responsibility for supervising the performance of investigative activities relating to such programs and operations.
+"(2) appoint an Assistant Inspector General for Investigations who shall have the responsibility for supervising the performance of investigative activities relating to such programs and operations.
 
-“(e) Supervision.—
+"(e) Supervision.—
 
-“(1) In general.—Except as provided in paragraph (2), the Inspector General shall report directly to, and be under the general supervision of, the Secretary of State and the Secretary of Defense.
+"(1) In general.—Except as provided in paragraph (2), the Inspector General shall report directly to, and be under the general supervision of, the Secretary of State and the Secretary of Defense.
 
-“(2) Independence to conduct investigations and audits.—No officer of the Department of Defense, the Department of State, or the United States Agency for International Development shall prevent or prohibit the Inspector General from initiating, carrying out, or completing any audit or investigation related to amounts appropriated or otherwise made available for the reconstruction of Afghanistan or from issuing any subpoena during the course of any such audit or investigation.
+"(2) Independence to conduct investigations and audits.—No officer of the Department of Defense, the Department of State, or the United States Agency for International Development shall prevent or prohibit the Inspector General from initiating, carrying out, or completing any audit or investigation related to amounts appropriated or otherwise made available for the reconstruction of Afghanistan or from issuing any subpoena during the course of any such audit or investigation.
 
-“(f) Duties.—
+"(f) Duties.—
 
-“(1) Oversight of afghanistan reconstruction.—It shall be the duty of the Inspector General to conduct, supervise, and coordinate audits and investigations of the treatment, handling, and expenditure of amounts appropriated or otherwise made available for the reconstruction of Afghanistan, and of the programs, operations, and contracts carried out utilizing such funds, including—
+"(1) Oversight of afghanistan reconstruction.—It shall be the duty of the Inspector General to conduct, supervise, and coordinate audits and investigations of the treatment, handling, and expenditure of amounts appropriated or otherwise made available for the reconstruction of Afghanistan, and of the programs, operations, and contracts carried out utilizing such funds, including—
 
-“(A) the oversight and accounting of the obligation and expenditure of such funds;
+"(A) the oversight and accounting of the obligation and expenditure of such funds;
 
-“(B) the monitoring and review of reconstruction activities funded by such funds;
+"(B) the monitoring and review of reconstruction activities funded by such funds;
 
-“(C) the monitoring and review of contracts funded by such funds;
+"(C) the monitoring and review of contracts funded by such funds;
 
-“(D) the monitoring and review of the transfer of such funds and associated information between and among departments, agencies, and entities of the United States and private and nongovernmental entities;
+"(D) the monitoring and review of the transfer of such funds and associated information between and among departments, agencies, and entities of the United States and private and nongovernmental entities;
 
-“(E) the maintenance of records on the use of such funds to facilitate future audits and investigations of the use of such fund;
+"(E) the maintenance of records on the use of such funds to facilitate future audits and investigations of the use of such fund;
 
-“(F) the monitoring and review of the effectiveness of United States coordination with the Government of Afghanistan and other donor countries in the implementation of the Afghanistan Compact and the Afghanistan National Development Strategy; and
+"(F) the monitoring and review of the effectiveness of United States coordination with the Government of Afghanistan and other donor countries in the implementation of the Afghanistan Compact and the Afghanistan National Development Strategy; and
 
-“(G) the investigation of overpayments such as duplicate payments or duplicate billing and any potential unethical or illegal actions of Federal employees, contractors, or affiliated entities and the referral of such reports, as necessary, to the Department of Justice to ensure further investigations, prosecutions, recovery of further funds, or other remedies.
+"(G) the investigation of overpayments such as duplicate payments or duplicate billing and any potential unethical or illegal actions of Federal employees, contractors, or affiliated entities and the referral of such reports, as necessary, to the Department of Justice to ensure further investigations, prosecutions, recovery of further funds, or other remedies.
 
-“(2) Other duties related to oversight.—The Inspector General shall establish, maintain, and oversee such systems, procedures, and controls as the Inspector General considers appropriate to discharge the duties under paragraph (1).
+"(2) Other duties related to oversight.—The Inspector General shall establish, maintain, and oversee such systems, procedures, and controls as the Inspector General considers appropriate to discharge the duties under paragraph (1).
 
-“(3) Duties and responsibilities under inspector general act of 1978.—In addition to the duties specified in paragraphs (1) and (2), the Inspector General shall also have the duties and responsibilities of inspectors general under the Inspector General Act of 1978 \[Pub. L. 95–452, set out in this Appendix\].
+"(3) Duties and responsibilities under inspector general act of 1978.—In addition to the duties specified in paragraphs (1) and (2), the Inspector General shall also have the duties and responsibilities of inspectors general under the Inspector General Act of 1978 \[Pub. L. 95–452, set out in this Appendix\].
 
-“(4) Coordination of efforts.—In carrying out the duties, responsibilities, and authorities of the Inspector General under this section, the Inspector General shall coordinate with, and receive the cooperation of each of the following:
+"(4) Coordination of efforts.—In carrying out the duties, responsibilities, and authorities of the Inspector General under this section, the Inspector General shall coordinate with, and receive the cooperation of each of the following:
 
-“(A) The Inspector General of the Department of Defense.
+"(A) The Inspector General of the Department of Defense.
 
-“(B) The Inspector General of the Department of State.
+"(B) The Inspector General of the Department of State.
 
-“(C) The Inspector General of the United States Agency for International Development.
+"(C) The Inspector General of the United States Agency for International Development.
 
-“(g) Powers and Authorities.—
+"(g) Powers and Authorities.—
 
-“(1) Authorities under inspector general act of 1978.—In carrying out the duties specified in subsection (f), the Inspector General shall have the authorities provided in section 6 of the Inspector General Act of 1978 \[section 6 of Pub. L. 95–452, set out in this Appendix\], including the authorities under subsection (e) of such section.
+"(1) Authorities under inspector general act of 1978.—In carrying out the duties specified in subsection (f), the Inspector General shall have the authorities provided in section 6 of the Inspector General Act of 1978 \[section 6 of Pub. L. 95–452, set out in this Appendix\], including the authorities under subsection (e) of such section.
 
-“(2) Audit standards.—The Inspector General shall carry out the duties specified in subsection (f)(1) in accordance with section 4(b)(1) of the Inspector General Act of 1978 \[section 4(b)(1) of Pub. L. 95–452, set out in this Appendix\].
+"(2) Audit standards.—The Inspector General shall carry out the duties specified in subsection (f)(1) in accordance with section 4(b)(1) of the Inspector General Act of 1978 \[section 4(b)(1) of Pub. L. 95–452, set out in this Appendix\].
 
-“(h) Personnel, Facilities, and Other Resources.—
+"(h) Personnel, Facilities, and Other Resources.—
 
-“(1) Personnel.—
+"(1) Personnel.—
 
-“(A) In general.—The Inspector General may select, appoint, and employ such officers and employees as may be necessary for carrying out the duties of the Inspector General, subject to the provisions of title 5, United States Code, governing appointments in the competitive service, and the provisions of chapter 51 and subchapter III of chapter 53 of such title, relating to classification and General Schedule pay rates.
+"(A) In general.—The Inspector General may select, appoint, and employ such officers and employees as may be necessary for carrying out the duties of the Inspector General, subject to the provisions of title 5, United States Code, governing appointments in the competitive service, and the provisions of chapter 51 and subchapter III of chapter 53 of such title, relating to classification and General Schedule pay rates.
 
-“(B) Additional authorities.—
+"(B) Additional authorities.—
 
-“(i) In general.—Subject to clause (ii), the Inspector General may exercise the authorities of subsections (b) through (i) of section 3161 of title 5, United States Code (without regard to subsection (a) of that section).
+"(i) In general.—Subject to clause (ii), the Inspector General may exercise the authorities of subsections (b) through (i) of section 3161 of title 5, United States Code (without regard to subsection (a) of that section).
 
-“(ii) Periods of appointments.—In exercising the employment authorities under subsection (b) of section 3161 of title 5, United States Code, as provided under clause (i) of this subparagraph—
+"(ii) Periods of appointments.—In exercising the employment authorities under subsection (b) of section 3161 of title 5, United States Code, as provided under clause (i) of this subparagraph—
 
-     “(I) paragraph (2) of that subsection (relating to periods of appointments) shall not apply; and
+     "(I) paragraph (2) of that subsection (relating to periods of appointments) shall not apply; and
 
-     “(II) no period of appointment may exceed the date on which the Office of the Special Inspector General for Afghanistan Reconstruction terminates under subsection (o).
+     "(II) no period of appointment may exceed the date on which the Office of the Special Inspector General for Afghanistan Reconstruction terminates under subsection (o).
 
-“(2) Employment of experts and consultants.—The Inspector General may obtain services as authorized by section 3109 of title 5, United States Code, at daily rates not to exceed the equivalent rate prescribed for grade GS–15 of the General Schedule by section 5332 of such title.
+"(2) Employment of experts and consultants.—The Inspector General may obtain services as authorized by section 3109 of title 5, United States Code, at daily rates not to exceed the equivalent rate prescribed for grade GS–15 of the General Schedule by section 5332 of such title.
 
-“(3) Contracting authority.—To the extent and in such amounts as may be provided in advance by appropriations Acts, the Inspector General may enter into contracts and other arrangements for audits, studies, analyses, and other services with public agencies and with private persons, and make such payments as may be necessary to carry out the duties of the Inspector General.
+"(3) Contracting authority.—To the extent and in such amounts as may be provided in advance by appropriations Acts, the Inspector General may enter into contracts and other arrangements for audits, studies, analyses, and other services with public agencies and with private persons, and make such payments as may be necessary to carry out the duties of the Inspector General.
 
-“(4) Resources.—The Secretary of State or the Secretary of Defense, as appropriate, shall provide the Inspector General with appropriate and adequate office space at appropriate locations of the Department of State or the Department of Defense, as the case may be, in Afghanistan, together with such equipment, office supplies, and communications facilities and services as may be necessary for the operation of such offices, and shall provide necessary maintenance services for such offices and the equipment and facilities located therein.
+"(4) Resources.—The Secretary of State or the Secretary of Defense, as appropriate, shall provide the Inspector General with appropriate and adequate office space at appropriate locations of the Department of State or the Department of Defense, as the case may be, in Afghanistan, together with such equipment, office supplies, and communications facilities and services as may be necessary for the operation of such offices, and shall provide necessary maintenance services for such offices and the equipment and facilities located therein.
 
-“(5) Assistance from federal agencies.—
+"(5) Assistance from federal agencies.—
 
-“(A) In general.—Upon request of the Inspector General for information or assistance from any department, agency, or other entity of the Federal Government, the head of such entity shall, insofar as is practicable and not in contravention of any existing law, furnish such information or assistance to the Inspector General, or an authorized designee.
+"(A) In general.—Upon request of the Inspector General for information or assistance from any department, agency, or other entity of the Federal Government, the head of such entity shall, insofar as is practicable and not in contravention of any existing law, furnish such information or assistance to the Inspector General, or an authorized designee.
 
-“(B) Reporting of refused assistance.—Whenever information or assistance requested by the Inspector General is, in the judgment of the Inspector General, unreasonably refused or not provided, the Inspector General shall report the circumstances to the Secretary of State or the Secretary of Defense, as appropriate, and to the appropriate congressional committees without delay.
+"(B) Reporting of refused assistance.—Whenever information or assistance requested by the Inspector General is, in the judgment of the Inspector General, unreasonably refused or not provided, the Inspector General shall report the circumstances to the Secretary of State or the Secretary of Defense, as appropriate, and to the appropriate congressional committees without delay.
 
-“(6) Use of personnel, facilities, and other resources of the office of the special inspector general for iraq reconstruction.—Upon the request of the Inspector General, the Special Inspector General for Iraq Reconstruction—
+"(6) Use of personnel, facilities, and other resources of the office of the special inspector general for iraq reconstruction.—Upon the request of the Inspector General, the Special Inspector General for Iraq Reconstruction—
 
-“(A) may detail, on a reimbursable basis, any of the personnel of the Office of the Special Inspector General for Iraq Reconstruction to the Office of the Inspector General for Afghanistan Reconstruction for the purpose of carrying out this section; and
+"(A) may detail, on a reimbursable basis, any of the personnel of the Office of the Special Inspector General for Iraq Reconstruction to the Office of the Inspector General for Afghanistan Reconstruction for the purpose of carrying out this section; and
 
-“(B) may provide, on a reimbursable basis, any of the facilities or other resources of the Office of the Special Inspector General for Iraq Reconstruction to the Office of the Inspector General for Afghanistan Reconstruction for the purpose of carrying out this section.
+"(B) may provide, on a reimbursable basis, any of the facilities or other resources of the Office of the Special Inspector General for Iraq Reconstruction to the Office of the Inspector General for Afghanistan Reconstruction for the purpose of carrying out this section.
 
-“(i) Reports.—
+"(i) Reports.—
 
-“(1) Quarterly reports.—Not later than 30 days after the end of each fiscal-year quarter, the Inspector General shall submit to the appropriate congressional committees a report summarizing, for the period of that quarter and, to the extent possible, the period from the end of such quarter to the time of the submission of the report, the activities during such period of the Inspector General and the activities under programs and operations funded with amounts appropriated or otherwise made available for the reconstruction of Afghanistan. Each report shall include, for the period covered by such report, a detailed statement of all obligations, expenditures, and revenues associated with reconstruction and rehabilitation activities in Afghanistan, including the following:
+"(1) Quarterly reports.—Not later than 30 days after the end of each fiscal-year quarter, the Inspector General shall submit to the appropriate congressional committees a report summarizing, for the period of that quarter and, to the extent possible, the period from the end of such quarter to the time of the submission of the report, the activities during such period of the Inspector General and the activities under programs and operations funded with amounts appropriated or otherwise made available for the reconstruction of Afghanistan. Each report shall include, for the period covered by such report, a detailed statement of all obligations, expenditures, and revenues associated with reconstruction and rehabilitation activities in Afghanistan, including the following:
 
-“(A) Obligations and expenditures of appropriated funds.
+"(A) Obligations and expenditures of appropriated funds.
 
-“(B) A project-by-project and program-by-program accounting of the costs incurred to date for the reconstruction of Afghanistan, together with the estimate of the Department of Defense, the Department of State, and the United States Agency for International Development, as applicable, of the costs to complete each project and each program.
+"(B) A project-by-project and program-by-program accounting of the costs incurred to date for the reconstruction of Afghanistan, together with the estimate of the Department of Defense, the Department of State, and the United States Agency for International Development, as applicable, of the costs to complete each project and each program.
 
-“(C) Revenues attributable to or consisting of funds provided by foreign nations or international organizations to programs and projects funded by any department or agency of the United States Government, and any obligations or expenditures of such revenues.
+"(C) Revenues attributable to or consisting of funds provided by foreign nations or international organizations to programs and projects funded by any department or agency of the United States Government, and any obligations or expenditures of such revenues.
 
-“(D) Revenues attributable to or consisting of foreign assets seized or frozen that contribute to programs and projects funded by any department or agency of the United States Government, and any obligations or expenditures of such revenues.
+"(D) Revenues attributable to or consisting of foreign assets seized or frozen that contribute to programs and projects funded by any department or agency of the United States Government, and any obligations or expenditures of such revenues.
 
-“(E) Operating expenses of agencies or entities receiving amounts appropriated or otherwise made available for the reconstruction of Afghanistan.
+"(E) Operating expenses of agencies or entities receiving amounts appropriated or otherwise made available for the reconstruction of Afghanistan.
 
-“(F) In the case of any contract, grant, agreement, or other funding mechanism described in paragraph (2)—
+"(F) In the case of any contract, grant, agreement, or other funding mechanism described in paragraph (2)—
 
-“(i) the amount of the contract, grant, agreement, or other funding mechanism;
+"(i) the amount of the contract, grant, agreement, or other funding mechanism;
 
-“(ii) a brief discussion of the scope of the contract, grant, agreement, or other funding mechanism;
+"(ii) a brief discussion of the scope of the contract, grant, agreement, or other funding mechanism;
 
-“(iii) a discussion of how the department or agency of the United States Government involved in the contract, grant, agreement, or other funding mechanism identified, and solicited offers from, potential individuals or entities to perform the contract, grant, agreement, or other funding mechanism, together with a list of the potential individuals or entities that were issued solicitations for the offers; and
+"(iii) a discussion of how the department or agency of the United States Government involved in the contract, grant, agreement, or other funding mechanism identified, and solicited offers from, potential individuals or entities to perform the contract, grant, agreement, or other funding mechanism, together with a list of the potential individuals or entities that were issued solicitations for the offers; and
 
-“(iv) the justification and approval documents on which was based the determination to use procedures other than procedures that provide for full and open competition.
+"(iv) the justification and approval documents on which was based the determination to use procedures other than procedures that provide for full and open competition.
 
-“(2) Covered contracts, grants, agreements, and funding mechanisms.—A contract, grant, agreement, or other funding mechanism described in this paragraph is any major contract, grant, agreement, or other funding mechanism that is entered into by any department or agency of the United States Government that involves the use of amounts appropriated or otherwise made available for the reconstruction of Afghanistan with any public or private sector entity for any of the following purposes:
+"(2) Covered contracts, grants, agreements, and funding mechanisms.—A contract, grant, agreement, or other funding mechanism described in this paragraph is any major contract, grant, agreement, or other funding mechanism that is entered into by any department or agency of the United States Government that involves the use of amounts appropriated or otherwise made available for the reconstruction of Afghanistan with any public or private sector entity for any of the following purposes:
 
-“(A) To build or rebuild physical infrastructure of Afghanistan.
+"(A) To build or rebuild physical infrastructure of Afghanistan.
 
-“(B) To establish or reestablish a political or societal institution of Afghanistan.
+"(B) To establish or reestablish a political or societal institution of Afghanistan.
 
-“(C) To provide products or services to the people of Afghanistan.
+"(C) To provide products or services to the people of Afghanistan.
 
-“(3) Public availability.—The Inspector General shall publish on a publicly-available Internet website each report under paragraph (1) of this subsection in English and other languages that the Inspector General determines are widely used and understood in Afghanistan.
+"(3) Public availability.—The Inspector General shall publish on a publicly-available Internet website each report under paragraph (1) of this subsection in English and other languages that the Inspector General determines are widely used and understood in Afghanistan.
 
-“(4) Form.—Each report required under this subsection shall be submitted in unclassified form, but may include a classified annex if the Inspector General considers it necessary.
+"(4) Form.—Each report required under this subsection shall be submitted in unclassified form, but may include a classified annex if the Inspector General considers it necessary.
 
-“(5) Rule of construction.—Nothing in this subsection shall be construed to authorize the public disclosure of information that is—
+"(5) Rule of construction.—Nothing in this subsection shall be construed to authorize the public disclosure of information that is—
 
-“(A) specifically prohibited from disclosure by any other provision of law;
+"(A) specifically prohibited from disclosure by any other provision of law;
 
-“(B) specifically required by Executive order to be protected from disclosure in the interest of national defense or national security or in the conduct of foreign affairs; or
+"(B) specifically required by Executive order to be protected from disclosure in the interest of national defense or national security or in the conduct of foreign affairs; or
 
-“(C) a part of an ongoing criminal investigation.
+"(C) a part of an ongoing criminal investigation.
 
-“(j) Report Coordination.—
+"(j) Report Coordination.—
 
-“(1) Submission to secretaries of state and defense.—The Inspector General shall also submit each report required under subsection (i) to the Secretary of State and the Secretary of Defense.
+"(1) Submission to secretaries of state and defense.—The Inspector General shall also submit each report required under subsection (i) to the Secretary of State and the Secretary of Defense.
 
-“(2) Submission to congress.—Not later than 30 days after receipt of a report under paragraph (1), the Secretary of State or the Secretary of Defense may submit to the appropriate congressional committees any comments on the matters covered by the report as the Secretary of State or the Secretary of Defense, as the case may be, considers appropriate. Any comments on the matters covered by the report shall be submitted in unclassified form, but may include a classified annex if the Secretary of State or the Secretary of Defense, as the case may be, considers it necessary.
+"(2) Submission to congress.—Not later than 30 days after receipt of a report under paragraph (1), the Secretary of State or the Secretary of Defense may submit to the appropriate congressional committees any comments on the matters covered by the report as the Secretary of State or the Secretary of Defense, as the case may be, considers appropriate. Any comments on the matters covered by the report shall be submitted in unclassified form, but may include a classified annex if the Secretary of State or the Secretary of Defense, as the case may be, considers it necessary.
 
-“(k) Transparency.—
+"(k) Transparency.—
 
-“(1) Report.—Not later than 60 days after submission to the appropriate congressional committees of a report under subsection (i), the Secretary of State and the Secretary of Defense shall jointly make copies of the report available to the public upon request, and at a reasonable cost.
+"(1) Report.—Not later than 60 days after submission to the appropriate congressional committees of a report under subsection (i), the Secretary of State and the Secretary of Defense shall jointly make copies of the report available to the public upon request, and at a reasonable cost.
 
-“(2) Comments on matters covered by report.—Not later than 60 days after submission to the appropriate congressional committees under subsection (j)(2) of comments on a report under subsection (i), the Secretary of State and the Secretary of Defense shall jointly make copies of the comments available to the public upon request, and at a reasonable cost.
+"(2) Comments on matters covered by report.—Not later than 60 days after submission to the appropriate congressional committees under subsection (j)(2) of comments on a report under subsection (i), the Secretary of State and the Secretary of Defense shall jointly make copies of the comments available to the public upon request, and at a reasonable cost.
 
-“(l) Waiver.—
+"(l) Waiver.—
 
-“(1) Authority.—The President may waive the requirement under paragraph (1) or (2) of subsection (k) with respect to availability to the public of any element in a report under subsection (i), or any comment under subsection (j)(2), if the President determines that the waiver is justified for national security reasons.
+"(1) Authority.—The President may waive the requirement under paragraph (1) or (2) of subsection (k) with respect to availability to the public of any element in a report under subsection (i), or any comment under subsection (j)(2), if the President determines that the waiver is justified for national security reasons.
 
-“(2) Notice of waiver.—The President shall publish a notice of each waiver made under this subsection in the Federal Register no later than the date on which a report required under subsection (i), or any comment under subsection (j)(2), is submitted to the appropriate congressional committees. The report and comments shall specify whether waivers under this subsection were made and with respect to which elements in the report or which comments, as appropriate.
+"(2) Notice of waiver.—The President shall publish a notice of each waiver made under this subsection in the Federal Register no later than the date on which a report required under subsection (i), or any comment under subsection (j)(2), is submitted to the appropriate congressional committees. The report and comments shall specify whether waivers under this subsection were made and with respect to which elements in the report or which comments, as appropriate.
 
-“(m) Definitions.—In this section:
+"(m) Definitions.—In this section:
 
-“(1) Amounts appropriated or otherwise made available for the reconstruction of afghanistan.—The term ‘amounts appropriated or otherwise made available for the reconstruction of Afghanistan’ means—
+"(1) Amounts appropriated or otherwise made available for the reconstruction of afghanistan.—The term 'amounts appropriated or otherwise made available for the reconstruction of Afghanistan' means—
 
-“(A) amounts appropriated or otherwise made available for any fiscal year—
+"(A) amounts appropriated or otherwise made available for any fiscal year—
 
-“(i) to the Afghanistan Security Forces Fund; or
+"(i) to the Afghanistan Security Forces Fund; or
 
-“(ii) to the program to assist the people of Afghanistan established under subsection (a)(2) of section 1202 of the National Defense Authorization for Fiscal Year 2006 (Public Law 109–163; 119 Stat. 3455–3456); and
+"(ii) to the program to assist the people of Afghanistan established under subsection (a)(2) of section 1202 of the National Defense Authorization for Fiscal Year 2006 (Public Law 109–163; 119 Stat. 3455–3456); and
 
-“(B) amounts appropriated or otherwise made available for any fiscal year for the reconstruction of Afghanistan under—
+"(B) amounts appropriated or otherwise made available for any fiscal year for the reconstruction of Afghanistan under—
 
-“(i) the Economic Support Fund;
+"(i) the Economic Support Fund;
 
-“(ii) the International Narcotics Control and Law Enforcement account; or
+"(ii) the International Narcotics Control and Law Enforcement account; or
 
-“(iii) any other provision of law.
+"(iii) any other provision of law.
 
-“(2) Appropriate congressional committees.—The term ‘appropriate congressional committees’ means—
+"(2) Appropriate congressional committees.—The term 'appropriate congressional committees' means—
 
-“(A) the Committees on Appropriations, Armed Services, and Foreign Relations of the Senate; and
+"(A) the Committees on Appropriations, Armed Services, and Foreign Relations of the Senate; and
 
-“(B) the Committees on Appropriations, Armed Services, and Foreign Affairs of the House of Representatives.
+"(B) the Committees on Appropriations, Armed Services, and Foreign Affairs of the House of Representatives.
 
-“(n) Authorization of Appropriations.—
+"(n) Authorization of Appropriations.—
 
-“(1) In general.—There is authorized to be appropriated $20,000,000 for fiscal year 2008 to carry out this section.
+"(1) In general.—There is authorized to be appropriated $20,000,000 for fiscal year 2008 to carry out this section.
 
-“(2) Offset.—The amount authorized to be appropriated by section 1513 \[122 Stat. 428\] for the Afghanistan Security Forces Fund is hereby reduced by $20,000,000.
+"(2) Offset.—The amount authorized to be appropriated by section 1513 \[122 Stat. 428\] for the Afghanistan Security Forces Fund is hereby reduced by $20,000,000.
 
-“(o) Termination.—
+"(o) Termination.—
 
-“(1) In general.—The Office of the Special Inspector General for Afghanistan Reconstruction shall terminate 180 days after the date on which amounts appropriated or otherwise made available for the reconstruction of Afghanistan that are unexpended are less than $250,000,000.
+"(1) In general.—The Office of the Special Inspector General for Afghanistan Reconstruction shall terminate 180 days after the date on which amounts appropriated or otherwise made available for the reconstruction of Afghanistan that are unexpended are less than $250,000,000.
 
-“(2) Final report.—The Inspector General shall, prior to the termination of the Office of the Special Inspector General for Afghanistan Reconstruction under paragraph (1), prepare and submit to the appropriate congressional committees a final forensic audit report on programs and operations funded with amounts appropriated or otherwise made available for the reconstruction of Afghanistan.”
+"(2) Final report.—The Inspector General shall, prior to the termination of the Office of the Special Inspector General for Afghanistan Reconstruction under paragraph (1), prepare and submit to the appropriate congressional committees a final forensic audit report on programs and operations funded with amounts appropriated or otherwise made available for the reconstruction of Afghanistan."
 
 #### Deadline Relating to Postal Regulatory Commission
 
-Pub. L. 109–435, title VI, §605(c), Dec. 20, 2006, 120 Stat. 3242, provided that: “No later than 180 days after the date of the enactment of this Act \[Dec. 20, 2006\]—
+Pub. L. 109–435, title VI, §605(c), Dec. 20, 2006, 120 Stat. 3242, provided that: "No later than 180 days after the date of the enactment of this Act \[Dec. 20, 2006\]—
 
-“(1) the first Inspector General of the Postal Regulatory Commission shall be appointed; and
+"(1) the first Inspector General of the Postal Regulatory Commission shall be appointed; and
 
-“(2) the Office of Inspector General of the Postal Regulatory Commission shall be established.”
+"(2) the Office of Inspector General of the Postal Regulatory Commission shall be established."
 
 #### Inspector General of Chemical Safety and Hazard Investigation Board
 
-Pub. L. 112–74, div. E, title III, Dec. 23, 2011, 125 Stat. 1031, provided in part: “That notwithstanding any other provision of law, the individual appointed to the position of Inspector General of the Environmental Protection Agency (EPA) shall, by virtue of such appointment, also hold the position of Inspector General of the \[Chemical Safety and Hazard Investigation\] Board: *Provided further*, That notwithstanding any other provision of law, the Inspector General of the Board shall utilize personnel of the Office of Inspector General of EPA in performing the duties of the Inspector General of the Board, and shall not appoint any individuals to positions within the Board.”
+Pub. L. 112–74, div. E, title III, Dec. 23, 2011, 125 Stat. 1031, provided in part: "That notwithstanding any other provision of law, the individual appointed to the position of Inspector General of the Environmental Protection Agency (EPA) shall, by virtue of such appointment, also hold the position of Inspector General of the \[Chemical Safety and Hazard Investigation\] Board: *Provided further*, That notwithstanding any other provision of law, the Inspector General of the Board shall utilize personnel of the Office of Inspector General of EPA in performing the duties of the Inspector General of the Board, and shall not appoint any individuals to positions within the Board."
 
 Similar provisions were contained in the following prior appropriations acts:
 
@@ -2482,7 +2482,7 @@ Pub. L. 108–447, div. I, title III, Dec. 8, 2004, 118 Stat. 3322.
 
 Pub. L. 108–199, div. G, title III, Jan. 23, 2004, 118 Stat. 399.
 
-Pub. L. 107–73, title III, Nov. 26, 2001, 115 Stat. 679, provided in part: “That, hereafter, there shall be an Inspector General at the \[Chemical Safety and Hazard Investigation\] Board who shall have the duties, responsibilities, and authorities specified in the Inspector General Act of 1978, as amended \[Pub. L. 95–452, set out in this Appendix\]: *Provided further*, That an individual appointed to the position of Inspector General of the Federal Emergency Management Agency (FEMA) shall, by virtue of such appointment, also hold the position of Inspector General of the Board: *Provided further*, That the Inspector General of the Board shall utilize personnel of the Office of Inspector General of FEMA in performing the duties of the Inspector General of the Board, and shall not appoint any individuals to positions within the Board.”
+Pub. L. 107–73, title III, Nov. 26, 2001, 115 Stat. 679, provided in part: "That, hereafter, there shall be an Inspector General at the \[Chemical Safety and Hazard Investigation\] Board who shall have the duties, responsibilities, and authorities specified in the Inspector General Act of 1978, as amended \[Pub. L. 95–452, set out in this Appendix\]: *Provided further*, That an individual appointed to the position of Inspector General of the Federal Emergency Management Agency (FEMA) shall, by virtue of such appointment, also hold the position of Inspector General of the Board: *Provided further*, That the Inspector General of the Board shall utilize personnel of the Office of Inspector General of FEMA in performing the duties of the Inspector General of the Board, and shall not appoint any individuals to positions within the Board."
 
 \[For transfer of all functions, personnel, assets, components, authorities, grant programs, and liabilities of the Federal Emergency Management Agency, including the functions of the Under Secretary for Federal Emergency Management relating thereto, to the Federal Emergency Management Agency, see section 315(a)(1) of Title 6, Domestic Security.\]
 
@@ -2492,7 +2492,7 @@ Similar provisions were contained in the following prior appropriations act:
 
 Pub. L. 106–377, §1(a)(1) \[title III\], Oct. 27, 2000, 114 Stat. 1441, 1441A–36.
 
-Pub. L. 108–7, div. K, title III, Feb. 20, 2003, 117 Stat. 515, provided in part: “That notwithstanding any other provision of law, the Inspector General of the Federal Emergency Management Agency shall hereafter also serve as the Inspector General of the Chemical Safety and Hazard Investigation Board.”
+Pub. L. 108–7, div. K, title III, Feb. 20, 2003, 117 Stat. 515, provided in part: "That notwithstanding any other provision of law, the Inspector General of the Federal Emergency Management Agency shall hereafter also serve as the Inspector General of the Chemical Safety and Hazard Investigation Board."
 
 Similar provisions were contained in the following prior appropriations acts:
 
@@ -2502,205 +2502,205 @@ Pub. L. 106–377, §1(a)(1) \[title III\], Oct. 27, 2000, 114 Stat. 1441, 1441A
 
 #### Special Inspector General for Iraq Reconstruction
 
-Pub. L. 108–375, div. A, title XII, §1203(b), Oct. 28, 2004, 118 Stat. 2079, provided that: “The individual serving as the Inspector General of the Coalition Provisional Authority as of the date of the enactment of this Act \[Oct. 28, 2004\] may continue to serve in that position after that date without reappointment under paragraph (1) of section 3001(c) of the Emergency Supplemental Appropriations Act for Defense and for the Reconstruction of Iraq and Afghanistan, 2004 \[Pub. L. 108–106, set out below\], but remaining subject to removal as specified in paragraph (4) of that section.”
+Pub. L. 108–375, div. A, title XII, §1203(b), Oct. 28, 2004, 118 Stat. 2079, provided that: "The individual serving as the Inspector General of the Coalition Provisional Authority as of the date of the enactment of this Act \[Oct. 28, 2004\] may continue to serve in that position after that date without reappointment under paragraph (1) of section 3001(c) of the Emergency Supplemental Appropriations Act for Defense and for the Reconstruction of Iraq and Afghanistan, 2004 \[Pub. L. 108–106, set out below\], but remaining subject to removal as specified in paragraph (4) of that section."
 
 Pub. L. 108–106, title III, §3001, Nov. 6, 2003, 117 Stat. 1234, as amended by Pub. L. 108–375, div. A, title XII, §1203(a)(1)–(3)(A), (c)–(j), Oct. 28, 2004, 118 Stat. 2078–2081; Pub. L. 109–102, title V, §599, Nov. 14, 2005, 119 Stat. 2240; Pub. L. 109–364, div. A, title X, §§1054(b), 1071(g)(13), Oct. 17, 2006, 120 Stat. 2397, 2403; Pub. L. 109–440, §2, Dec. 20, 2006, 120 Stat. 3286; Pub. L. 110–28, title III, §3801, May 25, 2007, 121 Stat. 147; Pub. L. 110–181, div. A, title XII, §1221, Jan. 28, 2008, 122 Stat. 371, provided that:
 
-“(a) Purposes.—The purposes of this section are as follows:
+"(a) Purposes.—The purposes of this section are as follows:
 
-“(1) To provide for the independent and objective conduct and supervision of audits and investigations relating to the programs and operations funded with amounts appropriated or otherwise made available for the reconstruction of Iraq.
+"(1) To provide for the independent and objective conduct and supervision of audits and investigations relating to the programs and operations funded with amounts appropriated or otherwise made available for the reconstruction of Iraq.
 
-“(2) To provide for the independent and objective leadership and coordination of, and recommendations on, policies designed to—
+"(2) To provide for the independent and objective leadership and coordination of, and recommendations on, policies designed to—
 
-“(A) promote economy efficiency, and effectiveness in the administration of such programs and operations; and
+"(A) promote economy efficiency, and effectiveness in the administration of such programs and operations; and
 
-“(B) prevent and detect waste, fraud, and abuse in such programs and operations.
+"(B) prevent and detect waste, fraud, and abuse in such programs and operations.
 
-“(3) To provide for an independent and objective means of keeping the Secretary of State and the Secretary of Defense fully and currently informed about problems and deficiencies relating to the administration of such programs and operations and the necessity for and progress for corrective action.
+"(3) To provide for an independent and objective means of keeping the Secretary of State and the Secretary of Defense fully and currently informed about problems and deficiencies relating to the administration of such programs and operations and the necessity for and progress for corrective action.
 
-“(b) Office of Inspector General.—There is hereby established the Office of the Special Inspector General for Iraq Reconstruction.
+"(b) Office of Inspector General.—There is hereby established the Office of the Special Inspector General for Iraq Reconstruction.
 
-“(c) Appointment of Inspector General; Removal.—(1) The head of the Office of the Special Inspector General for Iraq Reconstruction is the Special Inspector General for Iraq Reconstruction (in this section referred to as the ‘Inspector General’), who shall be appointed by the Secretary of Defense, in consultation with the Secretary of State.
+"(c) Appointment of Inspector General; Removal.—(1) The head of the Office of the Special Inspector General for Iraq Reconstruction is the Special Inspector General for Iraq Reconstruction (in this section referred to as the 'Inspector General'), who shall be appointed by the Secretary of Defense, in consultation with the Secretary of State.
 
-“(2) The appointment of Inspector General shall be made solely on the basis of integrity and demonstrated ability in accounting, auditing, financial analysis, law, management analysis, public administration, or investigations.
+"(2) The appointment of Inspector General shall be made solely on the basis of integrity and demonstrated ability in accounting, auditing, financial analysis, law, management analysis, public administration, or investigations.
 
-“(3) The nomination of an individual as Inspector General shall be made not later than 30 days after the date of the enactment of this Act \[Nov. 6, 2003\].
+"(3) The nomination of an individual as Inspector General shall be made not later than 30 days after the date of the enactment of this Act \[Nov. 6, 2003\].
 
-“(4) The Inspector General shall be removable from office in accordance with the provisions of section 3(b) of the Inspector General Act of 1978 (5 U.S.C. App.).
+"(4) The Inspector General shall be removable from office in accordance with the provisions of section 3(b) of the Inspector General Act of 1978 (5 U.S.C. App.).
 
-“(5) For purposes of section 7324 of title 5, United States Code, the Inspector General shall not be considered an employee who determines policies to be pursued by the United States in the nationwide administration of Federal law.
+"(5) For purposes of section 7324 of title 5, United States Code, the Inspector General shall not be considered an employee who determines policies to be pursued by the United States in the nationwide administration of Federal law.
 
-“(6) The annual rate of basic pay of the Inspector General shall be the annual rate of basic pay provided for positions at level IV of the Executive Schedule under section 5315 of title 5, United States Code.
+"(6) The annual rate of basic pay of the Inspector General shall be the annual rate of basic pay provided for positions at level IV of the Executive Schedule under section 5315 of title 5, United States Code.
 
-“(d) Assistant Inspectors General.—The Inspector General shall, in accordance with applicable laws and regulations governing the civil service—
+"(d) Assistant Inspectors General.—The Inspector General shall, in accordance with applicable laws and regulations governing the civil service—
 
-“(1) appoint an Assistant Inspector General for Auditing who shall have the responsibility for supervising the performance of auditing activities relating to programs and operations supported by amounts appropriated or otherwise made available for the reconstruction of Iraq; and
+"(1) appoint an Assistant Inspector General for Auditing who shall have the responsibility for supervising the performance of auditing activities relating to programs and operations supported by amounts appropriated or otherwise made available for the reconstruction of Iraq; and
 
-“(2) appoint an Assistant Inspector General for Investigations who shall have the responsibility for supervising the performance of investigative activities relating to such programs and operations.
+"(2) appoint an Assistant Inspector General for Investigations who shall have the responsibility for supervising the performance of investigative activities relating to such programs and operations.
 
-“(e) Supervision.—(1) Except as provided in paragraph (2), the Inspector General shall report directly to, and be under the general supervision of, the Secretary of State and the Secretary of Defense.
+"(e) Supervision.—(1) Except as provided in paragraph (2), the Inspector General shall report directly to, and be under the general supervision of, the Secretary of State and the Secretary of Defense.
 
-“(2) No officer of the Department of Defense, the Department of State, or the United States Agency for International Development shall prevent or prohibit the Inspector General from initiating, carrying out, or completing any audit or investigation related to amounts appropriated or otherwise made available for the reconstruction of Iraq or from issuing any subpoena during the course of any such audit or investigation.
+"(2) No officer of the Department of Defense, the Department of State, or the United States Agency for International Development shall prevent or prohibit the Inspector General from initiating, carrying out, or completing any audit or investigation related to amounts appropriated or otherwise made available for the reconstruction of Iraq or from issuing any subpoena during the course of any such audit or investigation.
 
-“(f) Duties.—(1) It shall be the duty of the Inspector General to conduct, supervise, and coordinate audits and investigations of the treatment, handling, and expenditure of amounts appropriated or otherwise made available for the reconstruction of Iraq, and of the programs, operations, and contracts carried out utilizing such funds, including—
+"(f) Duties.—(1) It shall be the duty of the Inspector General to conduct, supervise, and coordinate audits and investigations of the treatment, handling, and expenditure of amounts appropriated or otherwise made available for the reconstruction of Iraq, and of the programs, operations, and contracts carried out utilizing such funds, including—
 
-“(A) the oversight and accounting of the obligation and expenditure of such funds;
+"(A) the oversight and accounting of the obligation and expenditure of such funds;
 
-“(B) the monitoring and review of reconstruction activities funded by such funds;
+"(B) the monitoring and review of reconstruction activities funded by such funds;
 
-“(C) the monitoring and review of contracts funded by such funds;
+"(C) the monitoring and review of contracts funded by such funds;
 
-“(D) the monitoring and review of the transfer of such funds and associated information between and among departments, agencies, and entities of the United States and private and nongovernmental entities; and
+"(D) the monitoring and review of the transfer of such funds and associated information between and among departments, agencies, and entities of the United States and private and nongovernmental entities; and
 
-“(E) the maintenance of records on the use of such funds to facilitate future audits and investigations of the use of such funds.
+"(E) the maintenance of records on the use of such funds to facilitate future audits and investigations of the use of such funds.
 
-“(2) The Inspector General shall establish, maintain, and oversee such systems, procedures, and controls as the Inspector General considers appropriate to discharge the duty under paragraph (1).
+"(2) The Inspector General shall establish, maintain, and oversee such systems, procedures, and controls as the Inspector General considers appropriate to discharge the duty under paragraph (1).
 
-“(3) In addition to the duties specified in paragraphs (1) and (2), the Inspector General shall also have the duties and responsibilities of inspectors general under the Inspector General Act of 1978 \[Pub. L. 95–452, set out in this Appendix\].
+"(3) In addition to the duties specified in paragraphs (1) and (2), the Inspector General shall also have the duties and responsibilities of inspectors general under the Inspector General Act of 1978 \[Pub. L. 95–452, set out in this Appendix\].
 
-“(4) In carrying out the duties, responsibilities, and authorities of the Inspector General under this section, the Inspector General shall coordinate with, and receive the cooperation of, each of the following:
+"(4) In carrying out the duties, responsibilities, and authorities of the Inspector General under this section, the Inspector General shall coordinate with, and receive the cooperation of, each of the following:
 
-“(A) The Inspector General of the Department of State.
+"(A) The Inspector General of the Department of State.
 
-“(B) The Inspector General of the Department of Defense.
+"(B) The Inspector General of the Department of Defense.
 
-“(C) The Inspector General of the United States Agency for International Development.
+"(C) The Inspector General of the United States Agency for International Development.
 
-“(g) Powers and Authorities.—(1) In carrying out the duties specified in subsection (f), the Inspector General shall have the authorities provided in section 6 of the Inspector General Act of 1978 \[section 6 of Pub. L. 95–452, set out in this Appendix\], including the authorities under subsection (e) of such section.
+"(g) Powers and Authorities.—(1) In carrying out the duties specified in subsection (f), the Inspector General shall have the authorities provided in section 6 of the Inspector General Act of 1978 \[section 6 of Pub. L. 95–452, set out in this Appendix\], including the authorities under subsection (e) of such section.
 
-“(2) The Inspector General shall carry out the duties specified in subsection (f)(1) in accordance with section 4(b)(1) of the Inspector General Act of 1978 \[section 4(b)(1) of Pub. L. 95–452, set out in this Appendix\].
+"(2) The Inspector General shall carry out the duties specified in subsection (f)(1) in accordance with section 4(b)(1) of the Inspector General Act of 1978 \[section 4(b)(1) of Pub. L. 95–452, set out in this Appendix\].
 
-“(h) Personnel, Facilities, and Other Resources.—(1) The Inspector General may select, appoint, and employ such officers and employees as may be necessary for carrying out the duties of the Inspector General, subject to the provisions of title 5, United States Code, governing appointments in the competitive service, and the provisions of chapter 51 and subchapter III of chapter 53 of such title, relating to classification and General Schedule pay rates, and may exercise the authorities of subsections (b) through (i) of section 3161 of title 5, United States Code (without regard to subsection (a) of such section).
+"(h) Personnel, Facilities, and Other Resources.—(1) The Inspector General may select, appoint, and employ such officers and employees as may be necessary for carrying out the duties of the Inspector General, subject to the provisions of title 5, United States Code, governing appointments in the competitive service, and the provisions of chapter 51 and subchapter III of chapter 53 of such title, relating to classification and General Schedule pay rates, and may exercise the authorities of subsections (b) through (i) of section 3161 of title 5, United States Code (without regard to subsection (a) of such section).
 
-“(2) The Inspector General may obtain services as authorized by section 3109 of title 5, United States Code, at daily rates not to exceed the equivalent rate prescribed for grade GS–15 of the General Schedule by section 5332 of such title.
+"(2) The Inspector General may obtain services as authorized by section 3109 of title 5, United States Code, at daily rates not to exceed the equivalent rate prescribed for grade GS–15 of the General Schedule by section 5332 of such title.
 
-“(3) To the extent and in such amounts as may be provided in advance by appropriations Acts, the Inspector General may enter into contracts and other arrangements for audits, studies, analyses, and other services with public agencies and with private persons, and make such payments as may be necessary to carry out the duties of the Inspector General.
+"(3) To the extent and in such amounts as may be provided in advance by appropriations Acts, the Inspector General may enter into contracts and other arrangements for audits, studies, analyses, and other services with public agencies and with private persons, and make such payments as may be necessary to carry out the duties of the Inspector General.
 
-“(4)(A) Upon request of the Inspector General for information or assistance from any department, agency, or other entity of the Federal Government, the head of such entity shall, insofar as is practicable and not in contravention of any existing law, furnish such information or assistance to the Inspector General, or an authorized designee.
+"(4)(A) Upon request of the Inspector General for information or assistance from any department, agency, or other entity of the Federal Government, the head of such entity shall, insofar as is practicable and not in contravention of any existing law, furnish such information or assistance to the Inspector General, or an authorized designee.
 
-“(B) Whenever information or assistance requested by the Inspector General is, in the judgment of the Inspector General, unreasonably refused or not provided, the Inspector General shall report the circumstances to the Secretary of State or Secretary of Defense, as appropriate, and to the appropriate committees of Congress without delay.
+"(B) Whenever information or assistance requested by the Inspector General is, in the judgment of the Inspector General, unreasonably refused or not provided, the Inspector General shall report the circumstances to the Secretary of State or Secretary of Defense, as appropriate, and to the appropriate committees of Congress without delay.
 
-“(5) The Secretary of State or Secretary of Defense, as appropriate, shall provide the Inspector General with appropriate and adequate office space within the Department of Defense or at appropriate locations of the Department of State in Iraq, together with such equipment, office supplies, and communications facilities and services as may be necessary for the operation of such offices, and shall provide necessary maintenance services for such offices and the equipment and facilities located therein.
+"(5) The Secretary of State or Secretary of Defense, as appropriate, shall provide the Inspector General with appropriate and adequate office space within the Department of Defense or at appropriate locations of the Department of State in Iraq, together with such equipment, office supplies, and communications facilities and services as may be necessary for the operation of such offices, and shall provide necessary maintenance services for such offices and the equipment and facilities located therein.
 
-“(i) Reports.—(1) Not later than 30 days after the end of each fiscal-year quarter, the Inspector General shall submit to the appropriate committees of Congress a report summarizing, for the period of that quarter and, to the extent possible, the period from the end of such quarter to the time of the submission of the report, the activities during such period of the Inspector General and the activities under programs and operations funded with amounts appropriated or otherwise made available for the reconstruction of Iraq. Each report shall include, for the period covered by such report, a detailed statement of all obligations, expenditures, and revenues associated with reconstruction and rehabilitation activities in Iraq, including the following:
+"(i) Reports.—(1) Not later than 30 days after the end of each fiscal-year quarter, the Inspector General shall submit to the appropriate committees of Congress a report summarizing, for the period of that quarter and, to the extent possible, the period from the end of such quarter to the time of the submission of the report, the activities during such period of the Inspector General and the activities under programs and operations funded with amounts appropriated or otherwise made available for the reconstruction of Iraq. Each report shall include, for the period covered by such report, a detailed statement of all obligations, expenditures, and revenues associated with reconstruction and rehabilitation activities in Iraq, including the following:
 
-“(A) Obligations and expenditures of appropriated funds.
+"(A) Obligations and expenditures of appropriated funds.
 
-“(B) A project-by-project and program-by-program accounting of the costs incurred to date for the reconstruction of Iraq, together with the estimate of the Department of Defense, the Department of State, and the United States Agency for International Development, as applicable, of the costs to complete each project and each program.
+"(B) A project-by-project and program-by-program accounting of the costs incurred to date for the reconstruction of Iraq, together with the estimate of the Department of Defense, the Department of State, and the United States Agency for International Development, as applicable, of the costs to complete each project and each program.
 
-“(C) Revenues attributable to or consisting of funds provided by foreign nations or international organizations, and any obligations or expenditures of such revenues.
+"(C) Revenues attributable to or consisting of funds provided by foreign nations or international organizations, and any obligations or expenditures of such revenues.
 
-“(D) Revenues attributable to or consisting of foreign assets seized or frozen, and any obligations or expenditures of such revenues.
+"(D) Revenues attributable to or consisting of foreign assets seized or frozen, and any obligations or expenditures of such revenues.
 
-“(E) Operating expenses of agencies or entities receiving amounts appropriated or otherwise made available for the reconstruction of Iraq.
+"(E) Operating expenses of agencies or entities receiving amounts appropriated or otherwise made available for the reconstruction of Iraq.
 
-“(F) In the case of any contract described in paragraph (2)—
+"(F) In the case of any contract described in paragraph (2)—
 
-“(i) the amount of the contract or other agreement;
+"(i) the amount of the contract or other agreement;
 
-“(ii) a brief discussion of the scope of the contract or other agreement;
+"(ii) a brief discussion of the scope of the contract or other agreement;
 
-“(iii) a discussion of how the contracting department or agency identified, and solicited offers from, potential contractors to perform the contract, together with a list of the potential contractors that were issued solicitations for the offers; and
+"(iii) a discussion of how the contracting department or agency identified, and solicited offers from, potential contractors to perform the contract, together with a list of the potential contractors that were issued solicitations for the offers; and
 
-“(iv) the justification and approval documents on which was based the determination to use procedures other than procedures that provide for full and open competition.
+"(iv) the justification and approval documents on which was based the determination to use procedures other than procedures that provide for full and open competition.
 
-“(2) A contract described in this paragraph is any major contract or other agreement that is entered into by any department or agency of the United States Government that involves the use of amounts appropriated or otherwise made available for the reconstruction of Iraq with any public or private sector entity for any of the following purposes:
+"(2) A contract described in this paragraph is any major contract or other agreement that is entered into by any department or agency of the United States Government that involves the use of amounts appropriated or otherwise made available for the reconstruction of Iraq with any public or private sector entity for any of the following purposes:
 
-“(A) To build or rebuild physical infrastructure of Iraq.
+"(A) To build or rebuild physical infrastructure of Iraq.
 
-“(B) To establish or reestablish a political or societal institution of Iraq.
+"(B) To establish or reestablish a political or societal institution of Iraq.
 
-“(C) To provide products or services to the people of Iraq.
+"(C) To provide products or services to the people of Iraq.
 
-“(3) The Inspector General shall submit to the appropriate committees of Congress semiannual reports meeting the requirements of section 5 of the Inspector General Act of 1978 \[section 5 of Pub. L. 95–452, set out in this Appendix\]. The first such report for a year, covering the first six months of the year, shall be submitted not later than July 31 of that year, and the second such report, covering the second six months of the year, shall be submitted not later than January 31 of the following year.
+"(3) The Inspector General shall submit to the appropriate committees of Congress semiannual reports meeting the requirements of section 5 of the Inspector General Act of 1978 \[section 5 of Pub. L. 95–452, set out in this Appendix\]. The first such report for a year, covering the first six months of the year, shall be submitted not later than July 31 of that year, and the second such report, covering the second six months of the year, shall be submitted not later than January 31 of the following year.
 
-“(4) The Inspector General shall publish each report under this subsection in both English and Arabic on the Internet website of the Department of State and of the Department of Defense.
+"(4) The Inspector General shall publish each report under this subsection in both English and Arabic on the Internet website of the Department of State and of the Department of Defense.
 
-“(5) Each report under this subsection may include a classified annex if the Inspector General considers it necessary.
+"(5) Each report under this subsection may include a classified annex if the Inspector General considers it necessary.
 
-“(6) Nothing in this subsection shall be construed to authorize the public disclosure of information that is—
+"(6) Nothing in this subsection shall be construed to authorize the public disclosure of information that is—
 
-“(A) specifically prohibited from disclosure by any other provision of law;
+"(A) specifically prohibited from disclosure by any other provision of law;
 
-“(B) specifically required by Executive order to be protected from disclosure in the interest of national defense or national security or in the conduct of foreign affairs; or
+"(B) specifically required by Executive order to be protected from disclosure in the interest of national defense or national security or in the conduct of foreign affairs; or
 
-“(C) a part of an ongoing criminal investigation.
+"(C) a part of an ongoing criminal investigation.
 
-“(j) Report Coordination.—(1) The Inspector General shall also submit each report under subsection (i) to the Secretary of State and the Secretary of Defense.
+"(j) Report Coordination.—(1) The Inspector General shall also submit each report under subsection (i) to the Secretary of State and the Secretary of Defense.
 
-“(2)(A) Not later than 30 days after receipt of a report under paragraph (1), the Secretary of State or the Secretary of Defense may submit to the appropriate committees of Congress any comments on the matters covered by the report as the Secretary of State or the Secretary of Defense, as the case may be, considers appropriate.
+"(2)(A) Not later than 30 days after receipt of a report under paragraph (1), the Secretary of State or the Secretary of Defense may submit to the appropriate committees of Congress any comments on the matters covered by the report as the Secretary of State or the Secretary of Defense, as the case may be, considers appropriate.
 
-“(B) A report under this paragraph may include a classified annex if the Secretary of State or the Secretary of Defense, as the case may be, considers it necessary.
+"(B) A report under this paragraph may include a classified annex if the Secretary of State or the Secretary of Defense, as the case may be, considers it necessary.
 
-“(k) Transparency.—(1) Not later than 60 days after the date of the submittal to Congress of a report under subsection (i), the Secretary of State and the Secretary of Defense shall jointly make copies of such report available to the public upon request, and at a reasonable cost.
+"(k) Transparency.—(1) Not later than 60 days after the date of the submittal to Congress of a report under subsection (i), the Secretary of State and the Secretary of Defense shall jointly make copies of such report available to the public upon request, and at a reasonable cost.
 
-“(2) Not later than 60 days after the date of the submittal to Congress under subsection (j)(2) of comments on a report under subsection (i), the Secretary of State and the Secretary of Defense shall jointly make copies of such comments available to the public upon request, and at a reasonable cost.
+"(2) Not later than 60 days after the date of the submittal to Congress under subsection (j)(2) of comments on a report under subsection (i), the Secretary of State and the Secretary of Defense shall jointly make copies of such comments available to the public upon request, and at a reasonable cost.
 
-“(l) Waiver.—(1) The President may waive the requirement under paragraph (1) or (3) of subsection (i) for the inclusion in a report under such paragraph of any element otherwise provided for under such paragraph if the President determines that the waiver is justified for national security reasons.
+"(l) Waiver.—(1) The President may waive the requirement under paragraph (1) or (3) of subsection (i) for the inclusion in a report under such paragraph of any element otherwise provided for under such paragraph if the President determines that the waiver is justified for national security reasons.
 
-“(2) The President shall publish a notice of each waiver made under this subsection in the Federal Register no later than the date on which the reports required under paragraph (1) or (3) of subsection (i) are submitted to Congress. The reports required under paragraph (1) or (3) of subsection (i) shall specify whether waivers under this subsection were made and with respect to which elements.
+"(2) The President shall publish a notice of each waiver made under this subsection in the Federal Register no later than the date on which the reports required under paragraph (1) or (3) of subsection (i) are submitted to Congress. The reports required under paragraph (1) or (3) of subsection (i) shall specify whether waivers under this subsection were made and with respect to which elements.
 
-“(m) Definitions.—In this section—
+"(m) Definitions.—In this section—
 
-“(1) the term ‘appropriate committees of Congress’ means—
+"(1) the term 'appropriate committees of Congress' means—
 
-“(A) the Committees on Appropriations, Armed Services, and Foreign Relations of the Senate; and
+"(A) the Committees on Appropriations, Armed Services, and Foreign Relations of the Senate; and
 
-“(B) the Committees on Appropriations, Armed Services, Foreign Affairs, and Oversight and Government Reform of the House of Representatives; and
+"(B) the Committees on Appropriations, Armed Services, Foreign Affairs, and Oversight and Government Reform of the House of Representatives; and
 
-“(2) the term ‘amounts appropriated or otherwise made available for the reconstruction of Iraq’ means amounts appropriated or otherwise made available for any fiscal year—
+"(2) the term 'amounts appropriated or otherwise made available for the reconstruction of Iraq' means amounts appropriated or otherwise made available for any fiscal year—
 
-“(A) to the Iraq Relief and Reconstruction Fund, the Iraq Security Forces Fund, and the Commanders’ Emergency Response Program authorized under section 1202 of the National Defense Authorization for Fiscal Year 2006 (Public Law 109–163; 119 Stat. 3455–3456); or
+"(A) to the Iraq Relief and Reconstruction Fund, the Iraq Security Forces Fund, and the Commanders' Emergency Response Program authorized under section 1202 of the National Defense Authorization for Fiscal Year 2006 (Public Law 109–163; 119 Stat. 3455–3456); or
 
-“(B) for assistance for the reconstruction of Iraq under—
+"(B) for assistance for the reconstruction of Iraq under—
 
-“(i) the Economic Support Fund authorized under chapter 4 of part II of the Foreign Assistance Act of 1961 (22 U.S.C. 2346 et seq.);
+"(i) the Economic Support Fund authorized under chapter 4 of part II of the Foreign Assistance Act of 1961 (22 U.S.C. 2346 et seq.);
 
-“(ii) the International Narcotics Control and Law Enforcement account authorized under section 481 of the Foreign Assistance Act of 1961 (22 U.S.C. 2291); or
+"(ii) the International Narcotics Control and Law Enforcement account authorized under section 481 of the Foreign Assistance Act of 1961 (22 U.S.C. 2291); or
 
-“(iii) any other provision of law.
+"(iii) any other provision of law.
 
-“(n) Funding.—(1) Of the amounts appropriated for fiscal year 2004 for the Operating Expenses of the Coalition Provisional Authority in title II of this Act \[117 Stat. 1226\], $75,000,000 shall be available to carry out this section.
+"(n) Funding.—(1) Of the amounts appropriated for fiscal year 2004 for the Operating Expenses of the Coalition Provisional Authority in title II of this Act \[117 Stat. 1226\], $75,000,000 shall be available to carry out this section.
 
-“(2) The amount available under paragraph (1) shall remain available until expended.
+"(2) The amount available under paragraph (1) shall remain available until expended.
 
-“(o) Termination.—(1) The Office of the Inspector General shall terminate 180 days after the date on which amounts appropriated or otherwise made available for the reconstruction of Iraq that are unexpended are less than $250,000,000.
+"(o) Termination.—(1) The Office of the Inspector General shall terminate 180 days after the date on which amounts appropriated or otherwise made available for the reconstruction of Iraq that are unexpended are less than $250,000,000.
 
-“(2) The Special Inspector General for Iraq Reconstruction shall, prior to the termination of the Office of the Special Inspector General under paragraph (1), prepare a final forensic audit report on all amounts appropriated or otherwise made available for the reconstruction of Iraq.”
+"(2) The Special Inspector General for Iraq Reconstruction shall, prior to the termination of the Office of the Special Inspector General under paragraph (1), prepare a final forensic audit report on all amounts appropriated or otherwise made available for the reconstruction of Iraq."
 
 #### Tennessee Valley Authority; Findings
 
-Pub. L. 106–422, §1(a), Nov. 1, 2000, 114 Stat. 1872, provided that: “Congress finds that—
+Pub. L. 106–422, §1(a), Nov. 1, 2000, 114 Stat. 1872, provided that: "Congress finds that—
 
-“(1) Inspectors General serve an important function in preventing and eliminating fraud, waste, and abuse in the Federal Government; and
+"(1) Inspectors General serve an important function in preventing and eliminating fraud, waste, and abuse in the Federal Government; and
 
-“(2) independence is vital for an Inspector General to function effectively.”
+"(2) independence is vital for an Inspector General to function effectively."
 
 #### Amtrak Not Federal Entity; Federal Subsidy
 
 Section 409(b), (c) of Pub. L. 105–134 provided that:
 
-“(b) Amtrak Not Federal Entity.—Amtrak shall not be considered a Federal entity for purposes of the Inspector General Act of 1978 \[Pub. L. 95–452, set out in this Appendix\]. The preceding sentence shall apply for any fiscal year for which Amtrak receives no Federal subsidy.
+"(b) Amtrak Not Federal Entity.—Amtrak shall not be considered a Federal entity for purposes of the Inspector General Act of 1978 \[Pub. L. 95–452, set out in this Appendix\]. The preceding sentence shall apply for any fiscal year for which Amtrak receives no Federal subsidy.
 
-“(c) Federal Subsidy.—
+"(c) Federal Subsidy.—
 
-“(1) Assessment.—In any fiscal year for which Amtrak requests Federal assistance, the Inspector General of the Department of Transportation shall review Amtrak's operations and conduct an assessment similar to the assessment required by section 202(a) \[Pub. L. 105–134, 49 U.S.C. 24101 note\]. The Inspector General shall report the results of the review and assessment to—
+"(1) Assessment.—In any fiscal year for which Amtrak requests Federal assistance, the Inspector General of the Department of Transportation shall review Amtrak's operations and conduct an assessment similar to the assessment required by section 202(a) \[Pub. L. 105–134, 49 U.S.C. 24101 note\]. The Inspector General shall report the results of the review and assessment to—
 
-“(A) the President of Amtrak;
+"(A) the President of Amtrak;
 
-“(B) the Secretary of Transportation;
+"(B) the Secretary of Transportation;
 
-“(C) the United States Senate Committee on Appropriations;
+"(C) the United States Senate Committee on Appropriations;
 
-“(D) the United States Senate Committee on Commerce, Science, and Transportation;
+"(D) the United States Senate Committee on Commerce, Science, and Transportation;
 
-“(E) the United States House of Representatives Committee on Appropriations; and
+"(E) the United States House of Representatives Committee on Appropriations; and
 
-“(F) the United States House of Representatives Committee on Transportation and Infrastructure.
+"(F) the United States House of Representatives Committee on Transportation and Infrastructure.
 
-“(2) Report.—The report shall be submitted, to the extent practicable, before any such committee reports legislation authorizing or appropriating funds for Amtrak for capital acquisition, development, or operating expenses.
+"(2) Report.—The report shall be submitted, to the extent practicable, before any such committee reports legislation authorizing or appropriating funds for Amtrak for capital acquisition, development, or operating expenses.
 
-“(3) Special effective date.—This subsection takes effect 1 year after the date of enactment of this Act \[Dec. 2, 1997\].”
+"(3) Special effective date.—This subsection takes effect 1 year after the date of enactment of this Act \[Dec. 2, 1997\]."
 
 #### Report on Implementation
 
@@ -2754,11 +2754,11 @@ Pub. L. 100–504, title I, §111, Oct. 18, 1988, 102 Stat. 2529, directed the h
 
 (2) The submittal date for a report under paragraph (1) each year shall be the date provided in section 507 of the National Security Act of 1947 \[50 U.S.C. 3106\].
 
-(3) In this subsection, the term “congressional intelligence committees” shall have the meaning given that term in section 3 of the National Security Act of 1947 (50 U.S.C. 401a) \[50 U.S.C. 3003\].
+(3) In this subsection, the term "congressional intelligence committees" shall have the meaning given that term in section 3 of the National Security Act of 1947 (50 U.S.C. 401a) \[50 U.S.C. 3003\].
 
 (h) In this section:
 
-(1) The term “urgent concern” means any of the following:
+(1) The term "urgent concern" means any of the following:
 
 (A) A serious or flagrant problem, abuse, violation of law or Executive order, or deficiency relating to the funding, administration, or operations of an intelligence activity involving classified information, but does not include differences of opinions concerning public policy matters.
 
@@ -2768,7 +2768,7 @@ Pub. L. 100–504, title I, §111, Oct. 18, 1988, 102 Stat. 2529, directed the h
 
   
 
-(2) The term “intelligence committees” means the Permanent Select Committee on Intelligence of the House of Representatives and the Select Committee on Intelligence of the Senate.
+(2) The term "intelligence committees" means the Permanent Select Committee on Intelligence of the House of Representatives and the Select Committee on Intelligence of the Senate.
 
 (Pub. L. 95–452, §8H, as added Pub. L. 105–272, title VII, §702(b)(1), Oct. 20, 1998, 112 Stat. 2415; amended Pub. L. 107–108, title III, §309(b), Dec. 28, 2001, 115 Stat. 1400; Pub. L. 107–306, title VIII, §825, Nov. 27, 2002, 116 Stat. 2429; Pub. L. 110–417, \[div. A\], title IX, §931(b)(2), Oct. 14, 2008, 122 Stat. 4575; Pub. L. 111–259, title IV, §431(b), Oct. 7, 2010, 124 Stat. 2731.)
 
@@ -2780,31 +2780,31 @@ A prior section 8H of the Inspector General Act of 1978 was renumbered section 8
 
 **2010**—Subsec. (a)(3). Pub. L. 111–259 added par. (3).
 
-**2008**—Subsecs. (a)(1)(A), (g)(1). Pub. L. 110–417 substituted “National Geospatial-Intelligence Agency” for “National Imagery and Mapping Agency”.
+**2008**—Subsecs. (a)(1)(A), (g)(1). Pub. L. 110–417 substituted "National Geospatial-Intelligence Agency" for "National Imagery and Mapping Agency".
 
-**2002**—Subsec. (f). Pub. L. 107–306, §825(1), substituted “subsections (a) through (e)” for “this section”.
+**2002**—Subsec. (f). Pub. L. 107–306, §825(1), substituted "subsections (a) through (e)" for "this section".
 
 Subsecs. (g), (h). Pub. L. 107–306, §825(2), (3), added subsec. (g) and redesignated former subsec. (g) as (h).
 
-**2001**—Subsec. (b). Pub. L. 107–108, §309(b)(1), substituted “Upon making such a determination, the Inspector General shall transmit to the head of the establishment notice of that determination, together with the complaint or information.” for “If the Inspector General determines that the complaint or information appears credible, the Inspector General shall, before the end of such period, transmit the complaint or information to the head of the establishment.”
+**2001**—Subsec. (b). Pub. L. 107–108, §309(b)(1), substituted "Upon making such a determination, the Inspector General shall transmit to the head of the establishment notice of that determination, together with the complaint or information." for "If the Inspector General determines that the complaint or information appears credible, the Inspector General shall, before the end of such period, transmit the complaint or information to the head of the establishment."
 
-Subsec. (d)(1). Pub. L. 107–108, §309(b)(2), substituted “does not find credible under subsection (b) a complaint or information submitted to the Inspector General under subsection (a), or does not transmit the complaint or information to the head of the establishment in accurate form under subsection (b),” for “does not transmit, or does not transmit in an accurate form, the complaint or information described in subsection (b),”.
+Subsec. (d)(1). Pub. L. 107–108, §309(b)(2), substituted "does not find credible under subsection (b) a complaint or information submitted to the Inspector General under subsection (a), or does not transmit the complaint or information to the head of the establishment in accurate form under subsection (b)," for "does not transmit, or does not transmit in an accurate form, the complaint or information described in subsection (b),".
 
 #### Congressional Findings
 
-Pub. L. 105–272, title VII, §701(b), Oct. 20, 1998, 112 Stat. 2413, provided that: “The Congress finds that—
+Pub. L. 105–272, title VII, §701(b), Oct. 20, 1998, 112 Stat. 2413, provided that: "The Congress finds that—
 
-“(1) national security is a shared responsibility, requiring joint efforts and mutual respect by Congress and the President;
+"(1) national security is a shared responsibility, requiring joint efforts and mutual respect by Congress and the President;
 
-“(2) the principles of comity between the branches of Government apply to the handling of national security information;
+"(2) the principles of comity between the branches of Government apply to the handling of national security information;
 
-“(3) Congress, as a co-equal branch of Government, is empowered by the Constitution to serve as a check on the executive branch; in that capacity, it has a ‘need to know’ of allegations of wrongdoing within the executive branch, including allegations of wrongdoing in the Intelligence Community;
+"(3) Congress, as a co-equal branch of Government, is empowered by the Constitution to serve as a check on the executive branch; in that capacity, it has a 'need to know' of allegations of wrongdoing within the executive branch, including allegations of wrongdoing in the Intelligence Community;
 
-“(4) no basis in law exists for requiring prior authorization of disclosures to the intelligence committees of Congress by employees of the executive branch of classified information about wrongdoing within the Intelligence Community;
+"(4) no basis in law exists for requiring prior authorization of disclosures to the intelligence committees of Congress by employees of the executive branch of classified information about wrongdoing within the Intelligence Community;
 
-“(5) the risk of reprisal perceived by employees and contractors of the Intelligence Community for reporting serious or flagrant problems to Congress may have impaired the flow of information needed by the intelligence committees to carry out oversight responsibilities; and
+"(5) the risk of reprisal perceived by employees and contractors of the Intelligence Community for reporting serious or flagrant problems to Congress may have impaired the flow of information needed by the intelligence committees to carry out oversight responsibilities; and
 
-“(6) to encourage such reporting, an additional procedure should be established that provides a means for such employees and contractors to report to Congress while safeguarding the classified information involved in such reporting.”
+"(6) to encourage such reporting, an additional procedure should be established that provides a means for such employees and contractors to report to Congress while safeguarding the classified information involved in such reporting."
 
 ### §8I. Special provisions concerning the Department of Homeland Security
 
@@ -2890,17 +2890,17 @@ A prior section 8I of the Inspector General Act of 1978 was renumbered section 8
 
 #### Amendments
 
-**2006**—Subsec. (a)(1)(E). Pub. L. 109–177 substituted “section 3056A of title 18” for “section 202 of title 3”.
+**2006**—Subsec. (a)(1)(E). Pub. L. 109–177 substituted "section 3056A of title 18" for "section 202 of title 3".
 
 **2004**—Subsec. (f). Pub. L. 108–458 added subsec. (f).
 
 #### Review of Departmental Contracts Awarded Through Means Other Than Full and Open Competition
 
-Pub. L. 113–6, div. D, title V, §520(d), Mar. 26, 2013, 127 Stat. 370, provided that: “In addition to the requirements established by subsections (a), (b), and (c) of this section \[127 Stat. 369, 370\], the Inspector General of the Department of Homeland Security shall review departmental contracts awarded through means other than a full and open competition to assess departmental compliance with applicable laws and regulations: *Provided*, That the Inspector General shall review selected contracts awarded in the previous 3 fiscal years through means other than a full and open competition: *Provided further*, That in selecting which contracts to review, the Inspector General shall consider the cost and complexity of the goods and services to be provided under the contract, the criticality of the contract to fulfilling Department missions, past performance problems on similar contracts or by the selected vendor, complaints received about the award process or contractor performance, and such other factors as the Inspector General deems relevant: *Provided further*, That the Inspector General shall report the results of the reviews to the Committees on Appropriations of the Senate and the House of Representatives no later than February 4, 2015, and every 3 years thereafter.”
+Pub. L. 113–6, div. D, title V, §520(d), Mar. 26, 2013, 127 Stat. 370, provided that: "In addition to the requirements established by subsections (a), (b), and (c) of this section \[127 Stat. 369, 370\], the Inspector General of the Department of Homeland Security shall review departmental contracts awarded through means other than a full and open competition to assess departmental compliance with applicable laws and regulations: *Provided*, That the Inspector General shall review selected contracts awarded in the previous 3 fiscal years through means other than a full and open competition: *Provided further*, That in selecting which contracts to review, the Inspector General shall consider the cost and complexity of the goods and services to be provided under the contract, the criticality of the contract to fulfilling Department missions, past performance problems on similar contracts or by the selected vendor, complaints received about the award process or contractor performance, and such other factors as the Inspector General deems relevant: *Provided further*, That the Inspector General shall report the results of the reviews to the Committees on Appropriations of the Senate and the House of Representatives no later than February 4, 2015, and every 3 years thereafter."
 
 #### Report on Data Collection
 
-Pub. L. 110–329, div. D, title V, §518(b), Sept. 30, 2008, 122 Stat. 3684, provided that: “The Inspector General shall provide to the Committees on Appropriations of the Senate and the House of Representatives, starting six months after the date of enactment of this Act \[Sept. 30, 2008\], and quarterly thereafter, a classified report containing a review of the data collected by the National Applications Office, including a description of the collection purposes and the legal authority under which the collection activities were authorized: *Provided*, That the report shall also include a listing of all data collection activities carried out on behalf of the National Applications Office by any component of the National Guard.”
+Pub. L. 110–329, div. D, title V, §518(b), Sept. 30, 2008, 122 Stat. 3684, provided that: "The Inspector General shall provide to the Committees on Appropriations of the Senate and the House of Representatives, starting six months after the date of enactment of this Act \[Sept. 30, 2008\], and quarterly thereafter, a classified report containing a review of the data collected by the National Applications Office, including a description of the collection purposes and the legal authority under which the collection activities were authorized: *Provided*, That the report shall also include a listing of all data collection activities carried out on behalf of the National Applications Office by any component of the National Guard."
 
 ### §8J. Rule of construction of special provisions
 
@@ -2918,13 +2918,13 @@ A prior section 8J of the Inspector General Act of 1978, Pub. L. 95–452, §8J,
 
 #### Amendments
 
-**1998**—Pub. L. 105–272, §702(b)(2), which directed the amendment of this section by substituting “8E, or 8H” for “or 8E”, was executed by substituting “, 8F, or 8H” for “or 8F”, to reflect the probable intent of Congress and the amendment by Pub. L. 105–206, §1103(e)(3)(B). See below.
+**1998**—Pub. L. 105–272, §702(b)(2), which directed the amendment of this section by substituting "8E, or 8H" for "or 8E", was executed by substituting ", 8F, or 8H" for "or 8F", to reflect the probable intent of Congress and the amendment by Pub. L. 105–206, §1103(e)(3)(B). See below.
 
-Pub. L. 105–206, §1103(e)(3)(C), substituted “section 8G(a)” for “section 8F(a)”.
+Pub. L. 105–206, §1103(e)(3)(C), substituted "section 8G(a)" for "section 8F(a)".
 
-Pub. L. 105–206, §1103(e)(3)(B), substituted “8E or 8F” for “or 8E”.
+Pub. L. 105–206, §1103(e)(3)(B), substituted "8E or 8F" for "or 8E".
 
-**1993**—Pub. L. 103–82, §202(g)(5)(B), substituted “8D, or 8E” for “or 8D” and “section 8F(a)” for “section 8E(a)”.
+**1993**—Pub. L. 103–82, §202(g)(5)(B), substituted "8D, or 8E" for "or 8D" and "section 8F(a)" for "section 8E(a)".
 
 #### Effective Date of 1993 Amendment
 
@@ -3054,15 +3054,15 @@ A prior section 8L of the Inspector General Act of 1978 was renumbered section 8
 
 #### Implementation
 
-Pub. L. 110–409, §13(c), Oct. 14, 2008, 122 Stat. 4316, provided that: “Not later than 180 days after the date of enactment of this Act \[Oct. 14, 2008\], the head of each agency and the Inspector General of each agency shall implement the amendment made by this section \[enacting this section and amending provisions set out as a note under section 6 of Pub. L. 95–452, set out in this Appendix\].”
+Pub. L. 110–409, §13(c), Oct. 14, 2008, 122 Stat. 4316, provided that: "Not later than 180 days after the date of enactment of this Act \[Oct. 14, 2008\], the head of each agency and the Inspector General of each agency shall implement the amendment made by this section \[enacting this section and amending provisions set out as a note under section 6 of Pub. L. 95–452, set out in this Appendix\]."
 
 #### Links to Websites of Offices of Inspectors General
 
 Pub. L. 111–8, div. D, title VII, §744, Mar. 11, 2009, 123 Stat. 693, provided that:
 
-“(a) Each executive department and agency shall establish and maintain on the homepage of its website, an obvious, direct link to the website of its respective Inspector General.
+"(a) Each executive department and agency shall establish and maintain on the homepage of its website, an obvious, direct link to the website of its respective Inspector General.
 
-“(b) Each Office of Inspector General shall: (1) post on its website any public report or audit or portion of any report or audit issued within one day of its release; (2) provide a service on its website to allow an individual to request automatic receipt of information relating to any public report or audit or portion of that report or audit and which permits electronic transmittal of the information, or notice of the availability of the information without further request; and (3) establish and maintain a direct link on its website for individuals to anonymously report waste, fraud and abuse.”
+"(b) Each Office of Inspector General shall: (1) post on its website any public report or audit or portion of any report or audit issued within one day of its release; (2) provide a service on its website to allow an individual to request automatic receipt of information relating to any public report or audit or portion of that report or audit and which permits electronic transmittal of the information, or notice of the availability of the information without further request; and (3) establish and maintain a direct link on its website for individuals to anonymously report waste, fraud and abuse."
 
 Similar provisions requiring certain departments, agencies, and commissions to establish and maintain on the homepages of their websites links to the offices of their inspectors general and/or mechanisms for anonymous reporting of waste, fraud, and abuse were contained in the following appropriation acts:
 
@@ -3098,11 +3098,11 @@ Pub. L. 110–116, div. A, title VIII, §8121, Nov. 13, 2007, 121 Stat. 1341.
 
 (1) to the Office of Inspector General—
 
-(A) of the Department of Agriculture, the offices of that department referred to as the “Office of Investigation” and the “Office of Audit”;
+(A) of the Department of Agriculture, the offices of that department referred to as the "Office of Investigation" and the "Office of Audit";
 
-(B) of the Department of Commerce, the offices of that department referred to as the “Office of Audits” and the “Investigations and Inspections Staff” and that portion of the office referred to as the “Office of Investigations and Security” which has responsibility for investigation of alleged criminal violations and program abuse;
+(B) of the Department of Commerce, the offices of that department referred to as the "Office of Audits" and the "Investigations and Inspections Staff" and that portion of the office referred to as the "Office of Investigations and Security" which has responsibility for investigation of alleged criminal violations and program abuse;
 
-(C) of the Department of Defense, the offices of that department referred to as the “Defense Audit Service” and the “Office of Inspector General, Defense Logistics Agency”, and that portion of the office of that department referred to as the “Defense Investigative Service” which has responsibility for the investigation of alleged criminal violations;
+(C) of the Department of Defense, the offices of that department referred to as the "Defense Audit Service" and the "Office of Inspector General, Defense Logistics Agency", and that portion of the office of that department referred to as the "Defense Investigative Service" which has responsibility for the investigation of alleged criminal violations;
 
 (D) of the Department of Education, all functions of the Inspector General of Health, Education, and Welfare or of the Office of Inspector General of Health, Education, and Welfare relating to functions transferred by section 301 of the Department of Education Organization Act \[20 U.S.C. 3441\];
 
@@ -3110,37 +3110,37 @@ Pub. L. 110–116, div. A, title VIII, §8121, Nov. 13, 2007, 121 Stat. 1341.
 
 (F) of the Department of Health and Human Services, the Office of Inspector General (as established by title II of Public Law 94–505);
 
-(G) of the Department of Housing and Urban Development, the office of that department referred to as the “Office of Inspector General”;
+(G) of the Department of Housing and Urban Development, the office of that department referred to as the "Office of Inspector General";
 
-(H) of the Department of the Interior, the office of that department referred to as the “Office of Audit and Investigation”;
+(H) of the Department of the Interior, the office of that department referred to as the "Office of Audit and Investigation";
 
-(I) of the Department of Justice, the offices of that Department referred to as (i) the “Audit Staff, Justice Management Division”, (ii) the “Policy and Procedures Branch, Office of the Comptroller, Immigration and Naturalization Service”, the “Office of Professional Responsibility, Immigration and Naturalization Service”, and the “Office of Program Inspections, Immigration and Naturalization Service”, (iii) the “Office of Internal Inspection, United States Marshals Service”, (iv) the “Financial Audit Section, Office of Financial Management, Bureau of Prisons” and the “Office of Inspections, Bureau of Prisons”, and (v) from the Drug Enforcement Administration, that portion of the “Office of Inspections” which is engaged in internal audit activities, and that portion of the “Office of Planning and Evaluation” which is engaged in program review activities;
+(I) of the Department of Justice, the offices of that Department referred to as (i) the "Audit Staff, Justice Management Division", (ii) the "Policy and Procedures Branch, Office of the Comptroller, Immigration and Naturalization Service", the "Office of Professional Responsibility, Immigration and Naturalization Service", and the "Office of Program Inspections, Immigration and Naturalization Service", (iii) the "Office of Internal Inspection, United States Marshals Service", (iv) the "Financial Audit Section, Office of Financial Management, Bureau of Prisons" and the "Office of Inspections, Bureau of Prisons", and (v) from the Drug Enforcement Administration, that portion of the "Office of Inspections" which is engaged in internal audit activities, and that portion of the "Office of Planning and Evaluation" which is engaged in program review activities;
 
-(J) of the Department of Labor, the office of that department referred to as the “Office of Special Investigations”;
+(J) of the Department of Labor, the office of that department referred to as the "Office of Special Investigations";
 
-(K) of the Department of Transportation, the offices of that department referred to as the “Office of Investigations and Security” and the “Office of Audit” of the Department, the “Offices of Investigations and Security, Federal Aviation Administration”, and “External Audit Divisions, Federal Aviation Administration”, the “Investigations Division and the External Audit Division of the Office of Program Review and Investigation, Federal Highway Administration”, and the “Office of Program Audits, Urban Mass Transportation Administration”;
+(K) of the Department of Transportation, the offices of that department referred to as the "Office of Investigations and Security" and the "Office of Audit" of the Department, the "Offices of Investigations and Security, Federal Aviation Administration", and "External Audit Divisions, Federal Aviation Administration", the "Investigations Division and the External Audit Division of the Office of Program Review and Investigation, Federal Highway Administration", and the "Office of Program Audits, Urban Mass Transportation Administration";
 
-(L)(i) of the Department of the Treasury, the office of that department referred to as the “Office of Inspector General”, and, notwithstanding any other provision of law, that portion of each of the offices of that department referred to as the “Office of Internal Affairs, Tax and Trade Bureau”, the “Office of Internal Affairs, United States Customs Service”, and the “Office of Inspections, United States Secret Service” which is engaged in internal audit activities; and
+(L)(i) of the Department of the Treasury, the office of that department referred to as the "Office of Inspector General", and, notwithstanding any other provision of law, that portion of each of the offices of that department referred to as the "Office of Internal Affairs, Tax and Trade Bureau", the "Office of Internal Affairs, United States Customs Service", and the "Office of Inspections, United States Secret Service" which is engaged in internal audit activities; and
 
 (ii) of the Treasury Inspector General for Tax Administration, effective 180 days after the date of the enactment of the Internal Revenue Service Restructuring and Reform Act of 1998 \[July 22, 1998\], the Office of Chief Inspector of the Internal Revenue Service;
 
-(M) of the Environmental Protection Agency, the offices of that agency referred to as the “Office of Audit” and the “Security and Inspection Division”;
+(M) of the Environmental Protection Agency, the offices of that agency referred to as the "Office of Audit" and the "Security and Inspection Division";
 
-(N) of the Federal Emergency Management Agency, the office of that agency referred to as the “Office of Inspector General”;
+(N) of the Federal Emergency Management Agency, the office of that agency referred to as the "Office of Inspector General";
 
-(O) of the General Services Administration, the offices of that agency referred to as the “Office of Audits” and the “Office of Investigations”;
+(O) of the General Services Administration, the offices of that agency referred to as the "Office of Audits" and the "Office of Investigations";
 
-(P) of the National Aeronautics and Space Administration, the offices of that agency referred to as the “Management Audit Office” and the “Office of Inspections and Security”;
+(P) of the National Aeronautics and Space Administration, the offices of that agency referred to as the "Management Audit Office" and the "Office of Inspections and Security";
 
-(Q) of the Nuclear Regulatory Commission, the office of that commission referred to as the “Office of Inspector and Auditor”;
+(Q) of the Nuclear Regulatory Commission, the office of that commission referred to as the "Office of Inspector and Auditor";
 
-(R) of the Office of Personnel Management, the offices of that agency referred to as the “Office of Inspector General”, the “Insurance Audits Division, Retirement and Insurance Group”, and the “Analysis and Evaluation Division, Administration Group”;
+(R) of the Office of Personnel Management, the offices of that agency referred to as the "Office of Inspector General", the "Insurance Audits Division, Retirement and Insurance Group", and the "Analysis and Evaluation Division, Administration Group";
 
 (S) of the Railroad Retirement Board, the Office of Inspector General (as established by section 23 of the Railroad Retirement Act of 1974);
 
-(T) of the Small Business Administration, the office of that agency referred to as the “Office of Audits and Investigations”;
+(T) of the Small Business Administration, the office of that agency referred to as the "Office of Audits and Investigations";
 
-(U) of the Veterans’ Administration, the offices of that agency referred to as the “Office of Audits” and the “Office of Investigations”; and [1](#9_1_target)
+(U) of the Veterans' Administration, the offices of that agency referred to as the "Office of Audits" and the "Office of Investigations"; and [1](#9_1_target)
 
 (V) of the Corporation for National and Community Service, the Office of Inspector General of ACTION; [1](#9_1_target)
 
@@ -3174,11 +3174,11 @@ The Social Security Independence and Program Improvements Act of 1994, referred 
 
 #### Amendments
 
-**2002**—Subsec. (a)(1)(L)(i). Pub. L. 107–296 substituted “Tax and Trade Bureau” for “Bureau of Alcohol, Tobacco, and Firearms”.
+**2002**—Subsec. (a)(1)(L)(i). Pub. L. 107–296 substituted "Tax and Trade Bureau" for "Bureau of Alcohol, Tobacco, and Firearms".
 
-Subsec. (a)(2). Pub. L. 107–189 inserted “to the Office of the Inspector General,” before “such other offices or agencies”.
+Subsec. (a)(2). Pub. L. 107–189 inserted "to the Office of the Inspector General," before "such other offices or agencies".
 
-**1998**—Subsec. (a)(1)(L). Pub. L. 105–206 designated existing provisions as cl. (i), inserted “and” at end, and added cl. (ii).
+**1998**—Subsec. (a)(1)(L). Pub. L. 105–206 designated existing provisions as cl. (i), inserted "and" at end, and added cl. (ii).
 
 **1994**—Subsec. (a)(1)(W). Pub. L. 103–296 added subpar. (W).
 
@@ -3188,7 +3188,7 @@ Subsec. (a)(2). Pub. L. 107–189 inserted “to the Office of the Inspector Gen
 
 Subsec. (a)(1)(G), (H). Pub. L. 100–504, §102(d)(2), redesignated subpars. (E) and (F) as (G) and (H), respectively. Former subpars. (G) and (H) redesignated (J) and (K), respectively.
 
-Subsec. (a)(1)(I). Pub. L. 100–504, §102(d)(1), (8), added subpar. (I) and struck out former subpar. (I) which provided for transfer to Office of Inspector General of Community Services Administration, offices of that agency referred to as “Inspections Division”, “External Audit Division”, and “Internal Audit Division”.
+Subsec. (a)(1)(I). Pub. L. 100–504, §102(d)(1), (8), added subpar. (I) and struck out former subpar. (I) which provided for transfer to Office of Inspector General of Community Services Administration, offices of that agency referred to as "Inspections Division", "External Audit Division", and "Internal Audit Division".
 
 Subsec. (a)(1)(J), (K). Pub. L. 100–504, §102(d)(3), redesignated subpars. (G) and (H) as (J) and (K), respectively. Former subpars. (J) and (K) redesignated (M) and (O), respectively.
 
@@ -3212,7 +3212,7 @@ Subsec. (a)(1)(T), (U). Pub. L. 100–504, §102(d)(6), redesignated subpars. (M
 
 Reference to Urban Mass Transportation Administration deemed to refer to Federal Transit Administration pursuant to section 3004(b) of Pub. L. 102–240, set out as a note under section 107 of Title 49, Transportation.
 
-Reference to Veterans’ Administration deemed to refer to Department of Veterans Affairs pursuant to section 10 of Pub. L. 100–527, set out as a Department of Veterans Affairs Act note under section 301 of Title 38, Veterans’ Benefits.
+Reference to Veterans' Administration deemed to refer to Department of Veterans Affairs pursuant to section 10 of Pub. L. 100–527, set out as a Department of Veterans Affairs Act note under section 301 of Title 38, Veterans' Benefits.
 
 #### Effective Date of 2002 Amendments
 
@@ -3226,7 +3226,7 @@ Amendment by Pub. L. 103–296 effective Mar. 31, 1995, see section 110(a) of Pu
 
 #### Effective Date of 1993 Amendment
 
-Pub. L. 103–82, title II, §202(g)(3)(B), Sept. 21, 1993, 107 Stat. 890, provided that: “This paragraph \[amending this section\] shall take effect on the effective date of section 203(c)(2).” \[Section 203(c)(2) of Pub. L. 103–82 is effective 18 months after Sept. 21, 1993, or on such earlier date as the President shall determine to be appropriate and announce by proclamation in the Federal Register, see section 203(d) of Pub. L. 103–82, set out as a note under section 12651 of Title 42, The Public Health and Welfare.\]
+Pub. L. 103–82, title II, §202(g)(3)(B), Sept. 21, 1993, 107 Stat. 890, provided that: "This paragraph \[amending this section\] shall take effect on the effective date of section 203(c)(2)." \[Section 203(c)(2) of Pub. L. 103–82 is effective 18 months after Sept. 21, 1993, or on such earlier date as the President shall determine to be appropriate and announce by proclamation in the Federal Register, see section 203(d) of Pub. L. 103–82, set out as a note under section 12651 of Title 42, The Public Health and Welfare.\]
 
 #### Effective Date of 1988 Amendment
 
@@ -3252,25 +3252,25 @@ For transfer of functions, personnel, assets, and liabilities of the Federal Eme
 
 #### Termination of Office of Chief Inspector
 
-Pub. L. 105–206, title I, §1103(c)(2), July 22, 1998, 112 Stat. 708, provided that: “Effective upon the transfer of functions under the amendment made by paragraph (1) \[amending this section\], the Office of Chief Inspector of the Internal Revenue Service is terminated.”
+Pub. L. 105–206, title I, §1103(c)(2), July 22, 1998, 112 Stat. 708, provided that: "Effective upon the transfer of functions under the amendment made by paragraph (1) \[amending this section\], the Office of Chief Inspector of the Internal Revenue Service is terminated."
 
 #### Retention of Certain Internal Audit Personnel
 
-Pub. L. 105–206, title I, §1103(c)(3), July 22, 1998, 112 Stat. 708, provided that: “In making the transfer under the amendment made by paragraph (1) \[amending this section\], the Commissioner of Internal Revenue shall designate and retain an appropriate number (not in excess of 300) of internal audit full-time equivalent employee positions necessary for management relating to the Internal Revenue Service.”
+Pub. L. 105–206, title I, §1103(c)(3), July 22, 1998, 112 Stat. 708, provided that: "In making the transfer under the amendment made by paragraph (1) \[amending this section\], the Commissioner of Internal Revenue shall designate and retain an appropriate number (not in excess of 300) of internal audit full-time equivalent employee positions necessary for management relating to the Internal Revenue Service."
 
 #### Additional Personnel Transfers
 
-Pub. L. 105–206, title I, §1103(c)(4), July 22, 1998, 112 Stat. 708, provided that: “Effective 180 days after the date of the enactment of this Act \[July 22, 1998\], the Secretary of the Treasury shall transfer 21 full-time equivalent positions from the Office of the Inspector General of the Department of the Treasury to the Office of the Treasury Inspector General for Tax Administration.”
+Pub. L. 105–206, title I, §1103(c)(4), July 22, 1998, 112 Stat. 708, provided that: "Effective 180 days after the date of the enactment of this Act \[July 22, 1998\], the Secretary of the Treasury shall transfer 21 full-time equivalent positions from the Office of the Inspector General of the Department of the Treasury to the Office of the Treasury Inspector General for Tax Administration."
 
 #### Continuation of Service of Certain Inspectors General
 
-Pub. L. 100–504, title I, §102(e)(4), Oct. 18, 1988, 102 Stat. 2517, provided that: “Any individual who, on the date of enactment of this Act \[Oct. 18, 1988\], is serving as the Inspector General of the Department of Energy, the Department of Health and Human Services, or the Railroad Retirement Board, shall continue to serve in such position until such individual dies, resigns, or is removed from office in accordance with section 3(b) of the Inspector General Act of 1978 \[section 3(b) of Pub. L. 95–452, set out in this Appendix\].”
+Pub. L. 100–504, title I, §102(e)(4), Oct. 18, 1988, 102 Stat. 2517, provided that: "Any individual who, on the date of enactment of this Act \[Oct. 18, 1988\], is serving as the Inspector General of the Department of Energy, the Department of Health and Human Services, or the Railroad Retirement Board, shall continue to serve in such position until such individual dies, resigns, or is removed from office in accordance with section 3(b) of the Inspector General Act of 1978 \[section 3(b) of Pub. L. 95–452, set out in this Appendix\]."
 
 #### Transfer of Audit Personnel to Inspector General, Department of Defense
 
-Pub. L. 97–252, title XI, §1117(e), Sept. 8, 1982, 96 Stat. 753, provided that: “In addition to the positions transferred to the Office of the Inspector General of the Department of Defense, pursuant to the amendments made by subsection (a) of this section \[amending sections 2(1), 9(a)(1), and 11(1) of this Act\], the Secretary of Defense shall transfer to the Office of Inspector General of the Department of Defense not less than one hundred additional audit positions. The Inspector General of the Department of Defense shall fill such positions with persons trained to perform contract audits.”
+Pub. L. 97–252, title XI, §1117(e), Sept. 8, 1982, 96 Stat. 753, provided that: "In addition to the positions transferred to the Office of the Inspector General of the Department of Defense, pursuant to the amendments made by subsection (a) of this section \[amending sections 2(1), 9(a)(1), and 11(1) of this Act\], the Secretary of Defense shall transfer to the Office of Inspector General of the Department of Defense not less than one hundred additional audit positions. The Inspector General of the Department of Defense shall fill such positions with persons trained to perform contract audits."
 
-[1 So in original. The word “and” at end of subpar. (U) probably should appear at end of subpar. (V).](#9_1)
+[1 So in original. The word "and" at end of subpar. (U) probably should appear at end of subpar. (V).](#9_1)
 
 ### §10. Omitted
 
@@ -3282,7 +3282,7 @@ Section, Pub. L. 95–452, §10, Oct. 12, 1978, 92 Stat. 1108, amended sections 
 
 (a) Establishment and Mission.—
 
-(1) Establishment.—There is established as an independent entity within the executive branch the Council of the Inspectors General on Integrity and Efficiency (in this section referred to as the “Council”).
+(1) Establishment.—There is established as an independent entity within the executive branch the Council of the Inspectors General on Integrity and Efficiency (in this section referred to as the "Council").
 
 (2) Mission.—The mission of the Council shall be to—
 
@@ -3494,7 +3494,7 @@ Section, Pub. L. 95–452, §10, Oct. 12, 1978, 92 Stat. 1108, amended sections 
 
   
 
-(B) Definition.—In this paragraph the term “staff member” means any employee of an Office of Inspector General who—
+(B) Definition.—In this paragraph the term "staff member" means any employee of an Office of Inspector General who—
 
 (i) reports directly to an Inspector General; or
 
@@ -3618,81 +3618,81 @@ A prior section 11 of the Inspector General Act of 1978 was renumbered section 1
 
 Pub. L. 110–409, §7(c), Oct. 14, 2008, 122 Stat. 4313, provided that:
 
-“(1) Council.—Not later than 180 days after the date of the enactment of this Act \[Oct. 14, 2008\], the Council of the Inspectors General on Integrity and Efficiency established under this section \[enacting this section, renumbering former sections 11 and 12 of Pub. L. 95–452, set out in this Appendix, as 12 and 13, respectively, amending sections 2, 4, and 8G of Pub. L. 95–452, set out in this Appendix, and section 1105 of Title 31, Money and Finance, and enacting provisions set out as a note under section 1211 of Title 5, Government Organization and Employees\] shall become effective and operational.
+"(1) Council.—Not later than 180 days after the date of the enactment of this Act \[Oct. 14, 2008\], the Council of the Inspectors General on Integrity and Efficiency established under this section \[enacting this section, renumbering former sections 11 and 12 of Pub. L. 95–452, set out in this Appendix, as 12 and 13, respectively, amending sections 2, 4, and 8G of Pub. L. 95–452, set out in this Appendix, and section 1105 of Title 31, Money and Finance, and enacting provisions set out as a note under section 1211 of Title 5, Government Organization and Employees\] shall become effective and operational.
 
-“(2) Executive orders.—Executive Order No. 12805, dated May 11, 1992 \[formerly set out under section 501 of Title 31\], and Executive Order No. 12933 \[probably means Executive Order No. 12993, formerly set out under section 3 of Pub. L. 95–452, set out in this Appendix\], dated March 21, 1996 (as in effect before the date of the enactment of this Act \[Oct. 14, 2008\]) shall have no force or effect on and after the earlier of—
+"(2) Executive orders.—Executive Order No. 12805, dated May 11, 1992 \[formerly set out under section 501 of Title 31\], and Executive Order No. 12933 \[probably means Executive Order No. 12993, formerly set out under section 3 of Pub. L. 95–452, set out in this Appendix\], dated March 21, 1996 (as in effect before the date of the enactment of this Act \[Oct. 14, 2008\]) shall have no force or effect on and after the earlier of—
 
-“(A) the date on which the Council of the Inspectors General on Integrity and Efficiency becomes effective and operational as determined by the Executive Chairperson of the Council; or
+"(A) the date on which the Council of the Inspectors General on Integrity and Efficiency becomes effective and operational as determined by the Executive Chairperson of the Council; or
 
-“(B) the last day of the 180-day period beginning on the date of enactment of this Act.”
+"(B) the last day of the 180-day period beginning on the date of enactment of this Act."
 
 #### Additional Oversight of Financial Regulatory System
 
 Pub. L. 111–203, title IX, §989E, July 21, 2010, 124 Stat. 1946, provided that:
 
-“(a) Council of Inspectors General on Financial Oversight.—
+"(a) Council of Inspectors General on Financial Oversight.—
 
-“(1) Establishment and membership.—There is established a Council of Inspectors General on Financial Oversight (in this section referred to as the ‘Council of Inspectors General’) chaired by the Inspector General of the Department of the Treasury and composed of the inspectors general of the following:
+"(1) Establishment and membership.—There is established a Council of Inspectors General on Financial Oversight (in this section referred to as the 'Council of Inspectors General') chaired by the Inspector General of the Department of the Treasury and composed of the inspectors general of the following:
 
-“(A) The Board of Governors of the Federal Reserve System.
+"(A) The Board of Governors of the Federal Reserve System.
 
-“(B) The Commodity Futures Trading Commission.
+"(B) The Commodity Futures Trading Commission.
 
-“(C) The Department of Housing and Urban Development.
+"(C) The Department of Housing and Urban Development.
 
-“(D) The Department of the Treasury.
+"(D) The Department of the Treasury.
 
-“(E) The Federal Deposit Insurance Corporation.
+"(E) The Federal Deposit Insurance Corporation.
 
-“(F) The Federal Housing Finance Agency.
+"(F) The Federal Housing Finance Agency.
 
-“(G) The National Credit Union Administration.
+"(G) The National Credit Union Administration.
 
-“(H) The Securities and Exchange Commission.
+"(H) The Securities and Exchange Commission.
 
-“(I) The Troubled Asset Relief Program (until the termination of the authority of the Special Inspector General for such program under section 121(k) of the Emergency Economic Stabilization Act of 2008 (12 U.S.C. 5231(k))).
+"(I) The Troubled Asset Relief Program (until the termination of the authority of the Special Inspector General for such program under section 121(k) of the Emergency Economic Stabilization Act of 2008 (12 U.S.C. 5231(k))).
 
-“(2) Duties.—
+"(2) Duties.—
 
-“(A) Meetings.—The Council of Inspectors General shall meet not less than once each quarter, or more frequently if the chair considers it appropriate, to facilitate the sharing of information among inspectors general and to discuss the ongoing work of each inspector general who is a member of the Council of Inspectors General, with a focus on concerns that may apply to the broader financial sector and ways to improve financial oversight.
+"(A) Meetings.—The Council of Inspectors General shall meet not less than once each quarter, or more frequently if the chair considers it appropriate, to facilitate the sharing of information among inspectors general and to discuss the ongoing work of each inspector general who is a member of the Council of Inspectors General, with a focus on concerns that may apply to the broader financial sector and ways to improve financial oversight.
 
-“(B) Annual report.—Each year the Council of Inspectors General shall submit to the Council and to Congress a report including—
+"(B) Annual report.—Each year the Council of Inspectors General shall submit to the Council and to Congress a report including—
 
-“(i) for each inspector general who is a member of the Council of Inspectors General, a section within the exclusive editorial control of such inspector general that highlights the concerns and recommendations of such inspector general in such inspector general's ongoing and completed work, with a focus on issues that may apply to the broader financial sector; and
+"(i) for each inspector general who is a member of the Council of Inspectors General, a section within the exclusive editorial control of such inspector general that highlights the concerns and recommendations of such inspector general in such inspector general's ongoing and completed work, with a focus on issues that may apply to the broader financial sector; and
 
-“(ii) a summary of the general observations of the Council of Inspectors General based on the views expressed by each inspector general as required by clause (i), with a focus on measures that should be taken to improve financial oversight.
+"(ii) a summary of the general observations of the Council of Inspectors General based on the views expressed by each inspector general as required by clause (i), with a focus on measures that should be taken to improve financial oversight.
 
-“(3) Working groups to evaluate council.—
+"(3) Working groups to evaluate council.—
 
-“(A) Convening a working group.—The Council of Inspectors General may, by majority vote, convene a Council of Inspectors General Working Group to evaluate the effectiveness and internal operations of the Council.
+"(A) Convening a working group.—The Council of Inspectors General may, by majority vote, convene a Council of Inspectors General Working Group to evaluate the effectiveness and internal operations of the Council.
 
-“(B) Personnel and resources.—The inspectors general who are members of the Council of Inspectors General may detail staff and resources to a Council of Inspectors General Working Group established under this paragraph to enable it to carry out its duties.
+"(B) Personnel and resources.—The inspectors general who are members of the Council of Inspectors General may detail staff and resources to a Council of Inspectors General Working Group established under this paragraph to enable it to carry out its duties.
 
-“(C) Reports.—A Council of Inspectors General Working Group established under this paragraph shall submit regular reports to the Council and to Congress on its evaluations pursuant to this paragraph.
+"(C) Reports.—A Council of Inspectors General Working Group established under this paragraph shall submit regular reports to the Council and to Congress on its evaluations pursuant to this paragraph.
 
-“(b) Response to Report by Council.—The Council shall respond to the concerns raised in the report of the Council of Inspectors General under subsection (a)(2)(B) for such year.”
+"(b) Response to Report by Council.—The Council shall respond to the concerns raised in the report of the Council of Inspectors General under subsection (a)(2)(B) for such year."
 
 #### Special Inspectors General for Iraq and Afghanistan Reconstruction
 
-Pub. L. 111–15, §7, Apr. 24, 2009, 123 Stat. 1605, provided that: “The Special Inspector General for Iraq Reconstruction and the Special Inspector General for Afghanistan Reconstruction shall be a \[sic\] members of the Council of the Inspectors General on Integrity and Efficiency established under section 11 of the Inspector General Act of 1978 (5 U.S.C. App.) until the date of termination of the Office of the Special Inspector General for Iraq Reconstruction and the Office of the Special Inspector General for Afghanistan Reconstruction, respectively.”
+Pub. L. 111–15, §7, Apr. 24, 2009, 123 Stat. 1605, provided that: "The Special Inspector General for Iraq Reconstruction and the Special Inspector General for Afghanistan Reconstruction shall be a \[sic\] members of the Council of the Inspectors General on Integrity and Efficiency established under section 11 of the Inspector General Act of 1978 (5 U.S.C. App.) until the date of termination of the Office of the Special Inspector General for Iraq Reconstruction and the Office of the Special Inspector General for Afghanistan Reconstruction, respectively."
 
-[1 So in original. Probably should be “subparagraph.”](#11_1)
+[1 So in original. Probably should be "subparagraph."](#11_1)
 
-[2 So in original. Probably should be “Oversight and Government Reform”.](#11_2)
+[2 So in original. Probably should be "Oversight and Government Reform".](#11_2)
 
 ### §12. Definitions
 
 As used in this Act—
 
-(1) the term “head of the establishment” means the Secretary of Agriculture, Commerce, Defense, Education, Energy, Health and Human Services, Housing and Urban Development, the Interior, Labor, State, Transportation, Homeland Security, or the Treasury; the Attorney General; the Administrator of the Agency for International Development, Environmental Protection, General Services, National Aeronautics and Space, Small Business, or Veterans’ Affairs; the Administrator of the Federal Emergency Management Agency, or the Office of Personnel Management; the Chairman of the Nuclear Regulatory Commission or the Railroad Retirement Board; the Chairperson of the Thrift Depositor Protection Oversight Board; the Chief Executive Officer of the Corporation for National and Community Service; the Administrator of the Community Development Financial Institutions Fund; the chief executive officer of the Resolution Trust Corporation; the Chairperson of the Federal Deposit Insurance Corporation; the Commissioner of Social Security, Social Security Administration; the Director of the Federal Housing Finance Agency; the Board of Directors of the Tennessee Valley Authority; the President of the Export-Import Bank; or the Federal Cochairpersons of the Commissions established under section 15301 of title 40, United States Code; as the case may be;
+(1) the term "head of the establishment" means the Secretary of Agriculture, Commerce, Defense, Education, Energy, Health and Human Services, Housing and Urban Development, the Interior, Labor, State, Transportation, Homeland Security, or the Treasury; the Attorney General; the Administrator of the Agency for International Development, Environmental Protection, General Services, National Aeronautics and Space, Small Business, or Veterans' Affairs; the Administrator of the Federal Emergency Management Agency, or the Office of Personnel Management; the Chairman of the Nuclear Regulatory Commission or the Railroad Retirement Board; the Chairperson of the Thrift Depositor Protection Oversight Board; the Chief Executive Officer of the Corporation for National and Community Service; the Administrator of the Community Development Financial Institutions Fund; the chief executive officer of the Resolution Trust Corporation; the Chairperson of the Federal Deposit Insurance Corporation; the Commissioner of Social Security, Social Security Administration; the Director of the Federal Housing Finance Agency; the Board of Directors of the Tennessee Valley Authority; the President of the Export-Import Bank; or the Federal Cochairpersons of the Commissions established under section 15301 of title 40, United States Code; as the case may be;
 
-(2) the term “establishment” means the Department of Agriculture, Commerce, Defense, Education, Energy, Health and Human Services, Housing and Urban Development, the Interior, Justice, Labor, State, Transportation, Homeland Security, or the Treasury; the Agency for International Development, the Community Development Financial Institutions Fund, the Environmental Protection Agency, the Federal Emergency Management Agency, the General Services Administration, the National Aeronautics and Space Administration, the Nuclear Regulatory Commission, the Office of Personnel Management, the Railroad Retirement Board, the Resolution Trust Corporation, the Federal Deposit Insurance Corporation, the Small Business Administration, the Corporation for National and Community Service, the Veterans’ Administration, the Social Security Administration, the Federal Housing Finance Agency, the Tennessee Valley Authority, the Export-Import Bank, or the Commissions established under section 15301 of title 40, United States Code, as the case may be;
+(2) the term "establishment" means the Department of Agriculture, Commerce, Defense, Education, Energy, Health and Human Services, Housing and Urban Development, the Interior, Justice, Labor, State, Transportation, Homeland Security, or the Treasury; the Agency for International Development, the Community Development Financial Institutions Fund, the Environmental Protection Agency, the Federal Emergency Management Agency, the General Services Administration, the National Aeronautics and Space Administration, the Nuclear Regulatory Commission, the Office of Personnel Management, the Railroad Retirement Board, the Resolution Trust Corporation, the Federal Deposit Insurance Corporation, the Small Business Administration, the Corporation for National and Community Service, the Veterans' Administration, the Social Security Administration, the Federal Housing Finance Agency, the Tennessee Valley Authority, the Export-Import Bank, or the Commissions established under section 15301 of title 40, United States Code, as the case may be;
 
-(3) the term “Inspector General” means the Inspector General of an establishment;
+(3) the term "Inspector General" means the Inspector General of an establishment;
 
-(4) the term “Office” means the Office of Inspector General of an establishment; and
+(4) the term "Office" means the Office of Inspector General of an establishment; and
 
-(5) the term “Federal agency” means an agency as defined in section 552(f) of title 5 (including an establishment as defined in paragraph (2)), United States Code, but shall not be construed to include the Government Accountability Office.
+(5) the term "Federal agency" means an agency as defined in section 552(f) of title 5 (including an establishment as defined in paragraph (2)), United States Code, but shall not be construed to include the Government Accountability Office.
 
 (Pub. L. 95–452, §12, formerly §11, Oct. 12, 1978, 92 Stat. 1109; Pub. L. 96–88, title V, §508(n)(3), (4), Oct. 17, 1979, 93 Stat. 695; Pub. L. 97–113, title VII, §705(a)(2), Dec. 29, 1981, 95 Stat. 1544; Pub. L. 97–252, title XI, §1117(a)(4), (5), Sept. 8, 1982, 96 Stat. 751; Pub. L. 99–93, title I, §150(a)(2), Aug. 16, 1985, 99 Stat. 427; Pub. L. 99–399, title IV, §412(a)(2), Aug. 27, 1986, 100 Stat. 867; Pub. L. 100–504, title I, §102(c), Oct. 18, 1988, 102 Stat. 2515; Pub. L. 100–527, §13(h)(2), (3), Oct. 5, 1988, 102 Stat. 2643; Pub. L. 101–73, title V, §501(b)(1), Aug. 9, 1989, 103 Stat. 393; Pub. L. 102–233, title III, §315(a), Dec. 12, 1991, 105 Stat. 1772; Pub. L. 103–82, title II, §202(g)(4), Sept. 21, 1993, 107 Stat. 890; Pub. L. 103–204, §23(a)(1), Dec. 17, 1993, 107 Stat. 2407; Pub. L. 103–296, title I, §108(l)(2), Aug. 15, 1994, 108 Stat. 1489; Pub. L. 103–325, title I, §118(a), Sept. 23, 1994, 108 Stat. 2188; Pub. L. 104–106, div. D, title XLIII, §4322(b)(1), (3), Feb. 10, 1996, 110 Stat. 677; Pub. L. 105–277, div. G, subdiv. A, title XIII, §1314(b), Oct. 21, 1998, 112 Stat. 2681–776; Pub. L. 106–422, §1(b)(2), Nov. 1, 2000, 114 Stat. 1872; Pub. L. 107–189, §22(a), (d), June 14, 2002, 116 Stat. 707, 708; Pub. L. 107–296, title XVII, §1701, Nov. 25, 2002, 116 Stat. 2313; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 109–295, title VI, §612(c), Oct. 4, 2006, 120 Stat. 1410; Pub. L. 110–234, title XIV, §14217(c), May 22, 2008, 122 Stat. 1482; Pub. L. 110–246, §4(a), title XIV, §14217(c), June 18, 2008, 122 Stat. 1664, 2244; Pub. L. 110–289, div. A, title I, §1105(c), July 30, 2008, 122 Stat. 2668; renumbered §12, Pub. L. 110–409, §7(a), Oct. 14, 2008, 122 Stat. 4305.)
 
@@ -3708,85 +3708,85 @@ A prior section 12 of the Inspector General Act of 1978 was renumbered section 1
 
 #### Amendments
 
-**2008**—Par. (1). Pub. L. 110–289, div. A , title I, §1105(c)(1), inserted “; the Director of the Federal Housing Finance Agency” after “Social Security Administration”.
+**2008**—Par. (1). Pub. L. 110–289, div. A , title I, §1105(c)(1), inserted "; the Director of the Federal Housing Finance Agency" after "Social Security Administration".
 
-Pub. L. 110–246, §14217(c)(1), substituted “the President of the Export-Import Bank; or the Federal Cochairpersons of the Commissions established under section 15301 of title 40, United States Code;” for “or the President of the Export-Import Bank;”.
+Pub. L. 110–246, §14217(c)(1), substituted "the President of the Export-Import Bank; or the Federal Cochairpersons of the Commissions established under section 15301 of title 40, United States Code;" for "or the President of the Export-Import Bank;".
 
-Par. (2). Pub. L. 110–289, div. A , title I, §1105(c)(2), inserted “, the Federal Housing Finance Agency” after “Social Security Administration”.
+Par. (2). Pub. L. 110–289, div. A , title I, §1105(c)(2), inserted ", the Federal Housing Finance Agency" after "Social Security Administration".
 
-Pub. L. 110–246, §14217(c)(2), substituted “the Export-Import Bank, or the Commissions established under section 15301 of title 40, United States Code,” for “or the Export-Import Bank,”.
+Pub. L. 110–246, §14217(c)(2), substituted "the Export-Import Bank, or the Commissions established under section 15301 of title 40, United States Code," for "or the Export-Import Bank,".
 
-**2004**—Par. (5). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
+**2004**—Par. (5). Pub. L. 108–271 substituted "Government Accountability Office" for "General Accounting Office".
 
-**2002**—Par. (1). Pub. L. 107–296, §1701(2), which directed amendment of par. (1) by striking out “; and” in two places, could not be executed because “; and” did not appear in par. (1) subsequent to amendment by Pub. L. 107–189, §22(d)(1)(B), (C). See below.
+**2002**—Par. (1). Pub. L. 107–296, §1701(2), which directed amendment of par. (1) by striking out "; and" in two places, could not be executed because "; and" did not appear in par. (1) subsequent to amendment by Pub. L. 107–189, §22(d)(1)(B), (C). See below.
 
-Pub. L. 107–296, §1701(1), inserted “Homeland Security,” after “Transportation,”.
+Pub. L. 107–296, §1701(1), inserted "Homeland Security," after "Transportation,".
 
-Pub. L. 107–189, §22(a)(1), (d)(1), struck out second semicolon after “National and Community Service”, struck out “and” after “Financial Institutions Fund;” and after “Resolution Trust Corporation;”, and substituted “the Board of Directors of the Tennessee Valley Authority; or the President of the Export-Import Bank;” for “or the Board of Directors of the Tennessee Valley Authority;”.
+Pub. L. 107–189, §22(a)(1), (d)(1), struck out second semicolon after "National and Community Service", struck out "and" after "Financial Institutions Fund;" and after "Resolution Trust Corporation;", and substituted "the Board of Directors of the Tennessee Valley Authority; or the President of the Export-Import Bank;" for "or the Board of Directors of the Tennessee Valley Authority;".
 
-Par. (2). Pub. L. 107–296, §1701(1), inserted “Homeland Security,” after “Transportation,”.
+Par. (2). Pub. L. 107–296, §1701(1), inserted "Homeland Security," after "Transportation,".
 
-Pub. L. 107–189, §22(a)(2), (d)(2), struck out “or” after “National and Community Service,” and substituted “the Tennessee Valley Authority, or the Export-Import Bank,” for “or the Tennessee Valley Authority;”.
+Pub. L. 107–189, §22(a)(2), (d)(2), struck out "or" after "National and Community Service," and substituted "the Tennessee Valley Authority, or the Export-Import Bank," for "or the Tennessee Valley Authority;".
 
-Par. (5). Pub. L. 107–189, §22(d)(3), substituted “section 552(f) of title 5” for “section 552(e) of title 5”.
+Par. (5). Pub. L. 107–189, §22(d)(3), substituted "section 552(f) of title 5" for "section 552(e) of title 5".
 
-**2000**—Par. (1). Pub. L. 106–422, §1(b)(2)(A), substituted “the Commissioner of Social Security, Social Security Administration; or the Board of Directors of the Tennessee Valley Authority;” for “or the Commissioner of Social Security, Social Security Administration;”.
+**2000**—Par. (1). Pub. L. 106–422, §1(b)(2)(A), substituted "the Commissioner of Social Security, Social Security Administration; or the Board of Directors of the Tennessee Valley Authority;" for "or the Commissioner of Social Security, Social Security Administration;".
 
-Par. (2). Pub. L. 106–422, §1(b)(2)(B), substituted “the Social Security Administration, or the Tennessee Valley Authority;” for “or the Social Security Administration;”.
+Par. (2). Pub. L. 106–422, §1(b)(2)(B), substituted "the Social Security Administration, or the Tennessee Valley Authority;" for "or the Social Security Administration;".
 
-**1998**—Par. (1). Pub. L. 105–277, §1314(b)(1), which directed the substitution of “or the Office of Personnel Management” for “the Office of Personnel Management, the United States Information Agency”, was executed by making the substitution for “the Office of Personnel Management or the United States Information Agency” to reflect the probable intent of Congress.
+**1998**—Par. (1). Pub. L. 105–277, §1314(b)(1), which directed the substitution of "or the Office of Personnel Management" for "the Office of Personnel Management, the United States Information Agency", was executed by making the substitution for "the Office of Personnel Management or the United States Information Agency" to reflect the probable intent of Congress.
 
-Par. (2). Pub. L. 105–277, §1314(b)(2), struck out “the United States Information Agency,” after “Small Business Administration,”.
+Par. (2). Pub. L. 105–277, §1314(b)(2), struck out "the United States Information Agency," after "Small Business Administration,".
 
 **1996**—Par. (1). Pub. L. 104–106, §4322(b)(3), made technical correction to directory language of Pub. L. 101–73, §501(b)(1)(A). See 1989 Amendment note below.
 
-Par. (2). Pub. L. 104–106, §4322(b)(1), substituted “Community Service,” for “Community Service,,”.
+Par. (2). Pub. L. 104–106, §4322(b)(1), substituted "Community Service," for "Community Service,,".
 
-**1994**—Par. (1). Pub. L. 103–325, §118(a)(1), inserted “; the Administrator of the Community Development Financial Institutions Fund;” before “and the chief executive officer of the Resolution Trust Corporation”.
+**1994**—Par. (1). Pub. L. 103–325, §118(a)(1), inserted "; the Administrator of the Community Development Financial Institutions Fund;" before "and the chief executive officer of the Resolution Trust Corporation".
 
-Pub. L. 103–296, §108(l)(2)(A), inserted “; or the Commissioner of Social Security, Social Security Administration” before “; as the case may be”.
+Pub. L. 103–296, §108(l)(2)(A), inserted "; or the Commissioner of Social Security, Social Security Administration" before "; as the case may be".
 
-Par. (2). Pub. L. 103–325, §118(a)(2), inserted “the Community Development Financial Institutions Fund,” after “the Agency for International Development,”.
+Par. (2). Pub. L. 103–325, §118(a)(2), inserted "the Community Development Financial Institutions Fund," after "the Agency for International Development,".
 
-Pub. L. 103–296, §108(l)(2)(B), inserted “, or the Social Security Administration” before “; as the case may be”.
+Pub. L. 103–296, §108(l)(2)(B), inserted ", or the Social Security Administration" before "; as the case may be".
 
-**1993**—Par. (1). Pub. L. 103–204, §23(a)(1)(A), inserted “and the Chairperson of the Federal Deposit Insurance Corporation;” after “Resolution Trust Corporation;”.
+**1993**—Par. (1). Pub. L. 103–204, §23(a)(1)(A), inserted "and the Chairperson of the Federal Deposit Insurance Corporation;" after "Resolution Trust Corporation;".
 
-Pub. L. 103–82, §202(g)(4)(A), inserted “; the Chief Executive Officer of the Corporation for National and Community Service;” after “Thrift Depositor Protection Oversight Board”.
+Pub. L. 103–82, §202(g)(4)(A), inserted "; the Chief Executive Officer of the Corporation for National and Community Service;" after "Thrift Depositor Protection Oversight Board".
 
-Par. (2). Pub. L. 103–204, §23(a)(1)(B), inserted “the Federal Deposit Insurance Corporation,” after “Resolution Trust Corporation,”.
+Par. (2). Pub. L. 103–204, §23(a)(1)(B), inserted "the Federal Deposit Insurance Corporation," after "Resolution Trust Corporation,".
 
-Pub. L. 103–82, §202(g)(4)(B), inserted “, the Corporation for National and Community service,” after “United States Information Agency”.
+Pub. L. 103–82, §202(g)(4)(B), inserted ", the Corporation for National and Community service," after "United States Information Agency".
 
-**1991**—Par. (1). Pub. L. 102–233 substituted “; the Chairperson of the Thrift Depositor Protection Oversight Board and the chief executive officer of the Resolution Trust Corporation” for “the Oversight Board and the Board of Directors of the Resolution Trust Corporation”.
+**1991**—Par. (1). Pub. L. 102–233 substituted "; the Chairperson of the Thrift Depositor Protection Oversight Board and the chief executive officer of the Resolution Trust Corporation" for "the Oversight Board and the Board of Directors of the Resolution Trust Corporation".
 
-**1989**—Par. (1). Pub. L. 101–73, §501(b)(1)(A), as amended by Pub. L. 104–106, §4322(b)(3), inserted “the Oversight Board and the Board of Directors of the Resolution Trust Corporation” before “; as the case may be;”.
+**1989**—Par. (1). Pub. L. 101–73, §501(b)(1)(A), as amended by Pub. L. 104–106, §4322(b)(3), inserted "the Oversight Board and the Board of Directors of the Resolution Trust Corporation" before "; as the case may be;".
 
-Par. (2). Pub. L. 101–73, §501(b)(1)(B), inserted “the Resolution Trust Corporation,” after “the Railroad Retirement Board,”.
+Par. (2). Pub. L. 101–73, §501(b)(1)(B), inserted "the Resolution Trust Corporation," after "the Railroad Retirement Board,".
 
-**1988**—Pars. (1), (2). Pub. L. 100–527, §13(h)(2), (3), substituted “Transportation, or Veterans’ Affairs,” for “or Transportation” and “or Small Business” for “Small Business, or Veterans’ Affairs” in par. (1), and substituted “Transportation, or Veterans Affairs,” for “or Transportation” and “or the United States Information Agency” for “the United States Information Agency or the Veterans’ Administration” in par. (2). See Codification note above.
+**1988**—Pars. (1), (2). Pub. L. 100–527, §13(h)(2), (3), substituted "Transportation, or Veterans' Affairs," for "or Transportation" and "or Small Business" for "Small Business, or Veterans' Affairs" in par. (1), and substituted "Transportation, or Veterans Affairs," for "or Transportation" and "or the United States Information Agency" for "the United States Information Agency or the Veterans' Administration" in par. (2). See Codification note above.
 
 Pub. L. 100–504 added pars. (1) and (2) and struck out former pars. (1) and (2), as amended by Pub. L. 100–527, which read as follows:
 
-“(1) the term ‘head of the establishment’ means the Secretary of Agriculture, Commerce, Defense, Education, Housing and Urban Development, the Interior, Labor, State, Transportation, or Veterans’ Affairs, or the Administrator of the Agency for International Development, Community Services, Environmental Protection, General Services, National Aeronautics and Space, or Small Business, or the Director of the United States Information Agency as the case may be;
+"(1) the term 'head of the establishment' means the Secretary of Agriculture, Commerce, Defense, Education, Housing and Urban Development, the Interior, Labor, State, Transportation, or Veterans' Affairs, or the Administrator of the Agency for International Development, Community Services, Environmental Protection, General Services, National Aeronautics and Space, or Small Business, or the Director of the United States Information Agency as the case may be;
 
-“(2) the term ‘establishment’ means the Department of Agriculture, Commerce, Defense, Education, Housing and Urban Development, the Interior, Labor, State, Transportation, or Veterans Affairs, or the Agency for International Development, the Community Services Administration, the Environmental Protection Agency, the General Services Administration, the National Aeronautics and Space Administration, the Small Business Administration, or the United States Information Agency, as the case may be;”.
+"(2) the term 'establishment' means the Department of Agriculture, Commerce, Defense, Education, Housing and Urban Development, the Interior, Labor, State, Transportation, or Veterans Affairs, or the Agency for International Development, the Community Services Administration, the Environmental Protection Agency, the General Services Administration, the National Aeronautics and Space Administration, the Small Business Administration, or the United States Information Agency, as the case may be;".
 
-**1986**—Pars. (1), (2). Pub. L. 99–399 inserted “or the Director of the United States Information Agency” in par. (1) and “the United States Information Agency” in par. (2).
+**1986**—Pars. (1), (2). Pub. L. 99–399 inserted "or the Director of the United States Information Agency" in par. (1) and "the United States Information Agency" in par. (2).
 
-**1985**—Pars. (1), (2). Pub. L. 99–93 inserted “State,” after “Labor,”.
+**1985**—Pars. (1), (2). Pub. L. 99–93 inserted "State," after "Labor,".
 
-**1982**—Pars. (1), (2). Pub. L. 97–252 inserted “Defense,” after “Commerce,”.
+**1982**—Pars. (1), (2). Pub. L. 97–252 inserted "Defense," after "Commerce,".
 
-**1981**—Pars. (1), (2). Pub. L. 97–113 inserted “the Agency for International Development,” after “Administrator of” in par. (1), and inserted “the Agency for International Development,” after “Transportation or” in par. (2).
+**1981**—Pars. (1), (2). Pub. L. 97–113 inserted "the Agency for International Development," after "Administrator of" in par. (1), and inserted "the Agency for International Development," after "Transportation or" in par. (2).
 
-**1979**—Pars. (1), (2). Pub. L. 96–88 inserted “Education,” after “Commerce,”.
+**1979**—Pars. (1), (2). Pub. L. 96–88 inserted "Education," after "Commerce,".
 
 #### Change of Name
 
-“Administrator of the Federal Emergency Management Agency” substituted for “Director of the Federal Emergency Management Agency” in par. (1) on authority of section 612(c) of Pub. L. 109–295, set out as a note under section 313 of Title 6, Domestic Security. Any reference to the Administrator of the Federal Emergency Management Agency in title VI of Pub. L. 109–295 or an amendment by title VI to be considered to refer and apply to the Director of the Federal Emergency Management Agency until Mar. 31, 2007, see section 612(f)(2) of Pub. L. 109–295, set out as a note under section 313 of Title 6.
+"Administrator of the Federal Emergency Management Agency" substituted for "Director of the Federal Emergency Management Agency" in par. (1) on authority of section 612(c) of Pub. L. 109–295, set out as a note under section 313 of Title 6, Domestic Security. Any reference to the Administrator of the Federal Emergency Management Agency in title VI of Pub. L. 109–295 or an amendment by title VI to be considered to refer and apply to the Director of the Federal Emergency Management Agency until Mar. 31, 2007, see section 612(f)(2) of Pub. L. 109–295, set out as a note under section 313 of Title 6.
 
-References to Administrator of Veterans’ Affairs and to Veterans’ Administration deemed to refer to Secretary of Veterans Affairs and to Department of Veterans Affairs, respectively, pursuant to section 10 of Pub. L. 100–527, set out as a Department of Veterans Affairs Act note under section 301 of Title 38, Veterans’ Benefits.
+References to Administrator of Veterans' Affairs and to Veterans' Administration deemed to refer to Secretary of Veterans Affairs and to Department of Veterans Affairs, respectively, pursuant to section 10 of Pub. L. 100–527, set out as a Department of Veterans Affairs Act note under section 301 of Title 38, Veterans' Benefits.
 
 #### Effective Date of 2008 Amendment
 
@@ -3822,7 +3822,7 @@ Amendment by Pub. L. 102–233 effective Feb. 1, 1992, see section 318 of Pub. L
 
 #### Effective Date of 1988 Amendments
 
-Amendment by Pub. L. 100–527 effective Mar. 15, 1989, see section 18(a) of Pub. L. 100–527, set out as a Department of Veterans Affairs Act note under section 301 of Title 38, Veterans’ Benefits.
+Amendment by Pub. L. 100–527 effective Mar. 15, 1989, see section 18(a) of Pub. L. 100–527, set out as a Department of Veterans Affairs Act note under section 301 of Title 38, Veterans' Benefits.
 
 Amendment by Pub. L. 100–504 effective 180 days after Oct. 18, 1988, see section 113 of Pub. L. 100–504, set out as a note under section 5 of Pub. L. 95–452 in this Appendix.
 
@@ -3842,19 +3842,19 @@ The Community Services Administration, which was established by section 601 of t
 
 #### Merger of Office of Inspector General of United States Information Agency With Office of Inspector General of Department of State; Transfer of Functions
 
-Pub. L. 104–134, title I, §101\[(a)\] \[title IV\], Apr. 26, 1996, 110 Stat. 1321, 1321–37; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327, provided: “That notwithstanding any other provision of law, (1) the Office of the Inspector General of the United States Information Agency is hereby merged with the Office of the Inspector General of the Department of State; (2) the functions exercised and assigned to the Office of the Inspector General of the United States Information Agency before the effective date of this Act \[Apr. 26, 1996\] (including all related functions) are transferred to the Office of the Inspector General of the Department of State; and (3) the Inspector General of the Department of State shall also serve as the Inspector General of the United States Information Agency.”
+Pub. L. 104–134, title I, §101\[(a)\] \[title IV\], Apr. 26, 1996, 110 Stat. 1321, 1321–37; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327, provided: "That notwithstanding any other provision of law, (1) the Office of the Inspector General of the United States Information Agency is hereby merged with the Office of the Inspector General of the Department of State; (2) the functions exercised and assigned to the Office of the Inspector General of the United States Information Agency before the effective date of this Act \[Apr. 26, 1996\] (including all related functions) are transferred to the Office of the Inspector General of the Department of State; and (3) the Inspector General of the Department of State shall also serve as the Inspector General of the United States Information Agency."
 
-\[Pub. L. 104–208, div. A, title I, §101(a) \[title IV\], Sept. 30, 1996, 110 Stat. 3009, 3009–47, provided in part: “That notwithstanding any other provision of law, the merger of the Office of Inspector General of the United States Information Agency with the Office of Inspector General of the Department of State provided for in the Departments of Commerce, Justice, and State, the Judiciary and Related Agencies Appropriations Act, 1996, contained in Public Law 104–134 \[set out above\], is effective hereafter.”\]
+\[Pub. L. 104–208, div. A, title I, §101(a) \[title IV\], Sept. 30, 1996, 110 Stat. 3009, 3009–47, provided in part: "That notwithstanding any other provision of law, the merger of the Office of Inspector General of the United States Information Agency with the Office of Inspector General of the Department of State provided for in the Departments of Commerce, Justice, and State, the Judiciary and Related Agencies Appropriations Act, 1996, contained in Public Law 104–134 \[set out above\], is effective hereafter."\]
 
 \[For abolition of Office of Inspector General of the United States Information Agency and transfer of functions to Office of Inspector General of Department of State and Foreign Service, see section 6533 of Title 22, Foreign Relations and Intercourse.\]
 
 #### Office of Inspector General of Community Development Financial Institutions Fund; Authorization of Appropriations
 
-Pub. L. 103–325, title I, §118(b), Sept. 23, 1994, 108 Stat. 2188, provided that: “There are authorized to be appropriated such sums as may be necessary for the operation of the Office of Inspector General established by the amendments made by subsection (a) \[amending this section\].”
+Pub. L. 103–325, title I, §118(b), Sept. 23, 1994, 108 Stat. 2188, provided that: "There are authorized to be appropriated such sums as may be necessary for the operation of the Office of Inspector General established by the amendments made by subsection (a) \[amending this section\]."
 
 #### Office of Inspector General of Resolution Trust Corporation; Authorization of Appropriations
 
-Pub. L. 101–73, title V, §501(b)(2)(B), Aug. 9, 1989, 103 Stat. 393, provided that: “There is hereby authorized to be appropriated such sums as may be necessary for the operation of the Office of Inspector General established by the amendment made by paragraph (1) of this subsection \[amending this section\].”
+Pub. L. 101–73, title V, §501(b)(2)(B), Aug. 9, 1989, 103 Stat. 393, provided that: "There is hereby authorized to be appropriated such sums as may be necessary for the operation of the Office of Inspector General established by the amendment made by paragraph (1) of this subsection \[amending this section\]."
 
 ### §13. Effective date
 
@@ -3934,15 +3934,15 @@ Sec.
 
 #### Prohibition of the Use of Nonpublic Information for Private Profit
 
-Pub. L. 112–105, §3, Apr. 4, 2012, 126 Stat. 292, provided that: “The Select Committee on Ethics of the Senate and the Committee on Ethics of the House of Representatives shall issue interpretive guidance of the relevant rules of each chamber, including rules on conflicts of interest and gifts, clarifying that a Member of Congress and an employee of Congress may not use nonpublic information derived from such person's position as a Member of Congress or employee of Congress or gained from the performance of such person's official responsibilities as a means for making a private profit.”
+Pub. L. 112–105, §3, Apr. 4, 2012, 126 Stat. 292, provided that: "The Select Committee on Ethics of the Senate and the Committee on Ethics of the House of Representatives shall issue interpretive guidance of the relevant rules of each chamber, including rules on conflicts of interest and gifts, clarifying that a Member of Congress and an employee of Congress may not use nonpublic information derived from such person's position as a Member of Congress or employee of Congress or gained from the performance of such person's official responsibilities as a means for making a private profit."
 
 Pub. L. 112–105, §9(a), Apr. 4, 2012, 126 Stat. 297, provided that:
 
-“(1) Executive branch employees.—The Office of Government Ethics shall issue such interpretive guidance of the relevant Federal ethics statutes and regulations, including the Standards of Ethical Conduct for executive branch employees, related to use of nonpublic information, as necessary to clarify that no executive branch employee may use nonpublic information derived from such person's position as an executive branch employee or gained from the performance of such person's official responsibilities as a means for making a private profit.
+"(1) Executive branch employees.—The Office of Government Ethics shall issue such interpretive guidance of the relevant Federal ethics statutes and regulations, including the Standards of Ethical Conduct for executive branch employees, related to use of nonpublic information, as necessary to clarify that no executive branch employee may use nonpublic information derived from such person's position as an executive branch employee or gained from the performance of such person's official responsibilities as a means for making a private profit.
 
-“(2) Judicial officers.—The Judicial Conference of the United States shall issue such interpretive guidance of the relevant ethics rules applicable to Federal judges, including the Code of Conduct for United States Judges, as necessary to clarify that no judicial officer may use nonpublic information derived from such person's position as a judicial officer or gained from the performance of such person's official responsibilities as a means for making a private profit.
+"(2) Judicial officers.—The Judicial Conference of the United States shall issue such interpretive guidance of the relevant ethics rules applicable to Federal judges, including the Code of Conduct for United States Judges, as necessary to clarify that no judicial officer may use nonpublic information derived from such person's position as a judicial officer or gained from the performance of such person's official responsibilities as a means for making a private profit.
 
-“(3) Judicial employees.—The Judicial Conference of the United States shall issue such interpretive guidance of the relevant ethics rules applicable to judicial employees as necessary to clarify that no judicial employee may use nonpublic information derived from such person's position as a judicial employee or gained from the performance of such person's official responsibilities as a means for making a private profit.”
+"(3) Judicial employees.—The Judicial Conference of the United States shall issue such interpretive guidance of the relevant ethics rules applicable to judicial employees as necessary to clarify that no judicial employee may use nonpublic information derived from such person's position as a judicial employee or gained from the performance of such person's official responsibilities as a means for making a private profit."
 
 ### TITLE I—FINANCIAL DISCLOSURE REQUIREMENTS OF FEDERAL PERSONNEL
 
@@ -4040,23 +4040,23 @@ Section was formerly classified to section 701 of Title 2, The Congress.
 
 #### Amendments
 
-**2006**—Subsec. (f)(6). Pub. L. 109–435 substituted “Postal Regulatory Commission” for “Postal Rate Commission”.
+**2006**—Subsec. (f)(6). Pub. L. 109–435 substituted "Postal Regulatory Commission" for "Postal Rate Commission".
 
-**1992**—Subsec. (f)(3). Pub. L. 102–378, §4(a)(1)(A), substituted “who occupies a position classified above GS–15 of the General Schedule or, in the case of positions not under the General Schedule, for which the rate of basic pay is equal to or greater than 120 percent of the minimum rate of basic pay payable for GS–15 of the General Schedule” for “whose position is classified at GS–16 or above of the General Schedule prescribed by section 5332 of title 5, United States Code, or the rate of basic pay for which is fixed (other than under the General Schedule) at a rate equal to or greater than the minimum rate of basic pay fixed for GS–16”.
+**1992**—Subsec. (f)(3). Pub. L. 102–378, §4(a)(1)(A), substituted "who occupies a position classified above GS–15 of the General Schedule or, in the case of positions not under the General Schedule, for which the rate of basic pay is equal to or greater than 120 percent of the minimum rate of basic pay payable for GS–15 of the General Schedule" for "whose position is classified at GS–16 or above of the General Schedule prescribed by section 5332 of title 5, United States Code, or the rate of basic pay for which is fixed (other than under the General Schedule) at a rate equal to or greater than the minimum rate of basic pay fixed for GS–16".
 
-Subsec. (f)(6). Pub. L. 102–378, §4(a)(1)(B), substituted “who occupies a position for which the rate of basic pay is equal to or greater than 120 percent of the minimum rate of basic pay payable for GS–15 of the General Schedule” for “whose basic rate of pay is equal to or greater than the minimum rate of basic pay fixed for GS–16”.
+Subsec. (f)(6). Pub. L. 102–378, §4(a)(1)(B), substituted "who occupies a position for which the rate of basic pay is equal to or greater than 120 percent of the minimum rate of basic pay payable for GS–15 of the General Schedule" for "whose basic rate of pay is equal to or greater than the minimum rate of basic pay fixed for GS–16".
 
 **1991**—Subsec. (g). Pub. L. 102–25 designated existing provisions as par. (1) and added par. (2).
 
-**1990**—Subsec. (e). Pub. L. 101–280, §3(2), struck out “the later of May 15 or” after “shall, on or before”.
+**1990**—Subsec. (e). Pub. L. 101–280, §3(2), struck out "the later of May 15 or" after "shall, on or before".
 
-Subsec. (h). Pub. L. 101–280, §3(1), struck out “of the United States” after “Judicial Conference”.
+Subsec. (h). Pub. L. 101–280, §3(1), struck out "of the United States" after "Judicial Conference".
 
-**1989**—Pub. L. 101–194 substituted “Persons required to file” for “Legislative personnel financial disclosure” as section catchline and amended text generally, substituting subsecs. (a) to (i) relating to filing of financial disclosure reports by Federal personnel for former subsecs. (a) to (h) relating to filing of financial disclosure reports by legislative personnel.
+**1989**—Pub. L. 101–194 substituted "Persons required to file" for "Legislative personnel financial disclosure" as section catchline and amended text generally, substituting subsecs. (a) to (i) relating to filing of financial disclosure reports by Federal personnel for former subsecs. (a) to (h) relating to filing of financial disclosure reports by legislative personnel.
 
-**1979**—Subsec. (b). Pub. L. 96–19, §§2(b), 4(d), (e), designated existing provisions as par. (1), substituted “described in subsection (e)” for “designated in subsection (e)” and “information described in section 102(a) if such individual is or will be such an officer or employee on such May 15” for “information as described in section 102(a)”, and added par. (2).
+**1979**—Subsec. (b). Pub. L. 96–19, §§2(b), 4(d), (e), designated existing provisions as par. (1), substituted "described in subsection (e)" for "designated in subsection (e)" and "information described in section 102(a) if such individual is or will be such an officer or employee on such May 15" for "information as described in section 102(a)", and added par. (2).
 
-Subsec. (c). Pub. L. 96–19, §§2(a)(1), 4(d), (f), inserted provisions relating to an individual who is not reasonably expected to perform the duties of his office or position for more than sixty days in a calendar year and substituted “described” for “designated” and “, other than an individual who was employed in the legislative branch immediately before he assumed such position,” for “other than an individual employed in the legislative branch upon assuming such position”.
+Subsec. (c). Pub. L. 96–19, §§2(a)(1), 4(d), (f), inserted provisions relating to an individual who is not reasonably expected to perform the duties of his office or position for more than sixty days in a calendar year and substituted "described" for "designated" and ", other than an individual who was employed in the legislative branch immediately before he assumed such position," for "other than an individual employed in the legislative branch upon assuming such position".
 
 Subsec. (d). Pub. L. 96–19, §5, inserted provision that in any calendar year in which an individual continues to be a candidate for any office but all elections for such office relating to that candidacy were held in prior calendar years, that individual need not file a report unless he becomes a candidate for another vacancy in that office or another office during that year.
 
@@ -4066,119 +4066,119 @@ Subsec. (h). Pub. L. 96–19, §2(c)(1), added subsec. (h).
 
 #### Effective Date of 1991 Amendment
 
-Pub. L. 102–25, title VI, §605(b), Apr. 6, 1991, 105 Stat. 110, provided that: “The amendments made by subsection (a) \[amending this section\] shall apply with respect to reports required to be filed after January 17, 1991.”
+Pub. L. 102–25, title VI, §605(b), Apr. 6, 1991, 105 Stat. 110, provided that: "The amendments made by subsection (a) \[amending this section\] shall apply with respect to reports required to be filed after January 17, 1991."
 
 #### Effective Date of 1990 Amendment
 
-Pub. L. 101–280, §11, May 4, 1990, 104 Stat. 163, provided that: “Except as otherwise provided in this joint resolution, this Act and the amendments made by this joint resolution \[amending sections 101 to 106, 109 to 111, former section 202, and sections 501 to 503 of Pub. L. 95–521, set out in this Appendix, sections 3393, 7351, 7353, and 7701 of this title, sections 31–1, 31–2, and 441i of Title 2, The Congress, sections 1601 and 2397a of Title 10, Armed Forces, sections 202, 203, 205, 207, 208, and 216 of Title 18, Crimes and Criminal Procedure, section 3945 of Title 22, Foreign Relations and Intercourse, section 1043 of Title 26, Internal Revenue Code, and sections 1353 and 3730 of Title 31, Money and Finance, renumbering section 1352 of Title 31 as section 1353, repealing section 112 of Pub. L. 95–521, set out in this Appendix, enacting provisions set out as notes under sections 101 and 105 of Pub. L. 95–521, set out in this Appendix, section 2397a of Title 10, and section 1043 of Title 26, and amending provisions set out as notes under section 207 and 208 of Title 18 and section 1344 of Title 31\] take effect on the date of the enactment of this joint resolution \[May 4, 1990\].”
+Pub. L. 101–280, §11, May 4, 1990, 104 Stat. 163, provided that: "Except as otherwise provided in this joint resolution, this Act and the amendments made by this joint resolution \[amending sections 101 to 106, 109 to 111, former section 202, and sections 501 to 503 of Pub. L. 95–521, set out in this Appendix, sections 3393, 7351, 7353, and 7701 of this title, sections 31–1, 31–2, and 441i of Title 2, The Congress, sections 1601 and 2397a of Title 10, Armed Forces, sections 202, 203, 205, 207, 208, and 216 of Title 18, Crimes and Criminal Procedure, section 3945 of Title 22, Foreign Relations and Intercourse, section 1043 of Title 26, Internal Revenue Code, and sections 1353 and 3730 of Title 31, Money and Finance, renumbering section 1352 of Title 31 as section 1353, repealing section 112 of Pub. L. 95–521, set out in this Appendix, enacting provisions set out as notes under sections 101 and 105 of Pub. L. 95–521, set out in this Appendix, section 2397a of Title 10, and section 1043 of Title 26, and amending provisions set out as notes under section 207 and 208 of Title 18 and section 1344 of Title 31\] take effect on the date of the enactment of this joint resolution \[May 4, 1990\]."
 
 #### Effective Date of 1989 Amendment
 
-Pub. L. 101–194, title II, §204, as added by Pub. L. 101–280, §3(10)(B), May 4, 1990, 104 Stat. 157, provided that: “The amendments made by this title \[enacting sections 110 to 112 of Pub. L. 95–521, set out in this Appendix amending sections 101 to 109 of Pub. L. 95–521, set out in this Appendix, but formerly classified to sections 701 to 709 of Title 2, The Congress\] and the repeal made by section 201 \[repealing sections 201 to 212 of Pub. L. 95–521, formerly set out under the heading Executive Personnel Financial Disclosure Requirements in this Appendix, and sections 301 to 309 of Pub. L. 95–521, formerly set out under the heading Judicial Personnel Financial Disclosure Requirements in the Appendix to Title 28, Judiciary and Judicial Procedure\] shall take effect on January 1, 1991, except that the provisions of section 102(f)(4)(B) of the Ethics in Government Act of 1978 \[section 102(f)(4)(B) of Pub. L. 95–521, set out in this Appendix\], as amended by this title, shall be effective as of January 1, 1990.”
+Pub. L. 101–194, title II, §204, as added by Pub. L. 101–280, §3(10)(B), May 4, 1990, 104 Stat. 157, provided that: "The amendments made by this title \[enacting sections 110 to 112 of Pub. L. 95–521, set out in this Appendix amending sections 101 to 109 of Pub. L. 95–521, set out in this Appendix, but formerly classified to sections 701 to 709 of Title 2, The Congress\] and the repeal made by section 201 \[repealing sections 201 to 212 of Pub. L. 95–521, formerly set out under the heading Executive Personnel Financial Disclosure Requirements in this Appendix, and sections 301 to 309 of Pub. L. 95–521, formerly set out under the heading Judicial Personnel Financial Disclosure Requirements in the Appendix to Title 28, Judiciary and Judicial Procedure\] shall take effect on January 1, 1991, except that the provisions of section 102(f)(4)(B) of the Ethics in Government Act of 1978 \[section 102(f)(4)(B) of Pub. L. 95–521, set out in this Appendix\], as amended by this title, shall be effective as of January 1, 1990."
 
 Pub. L. 101–280, §3(10)(C), (D), May 4, 1990, 104 Stat. 157, provided that:
 
-“(C) The provisions of titles I \[formerly classified to section 701 et seq. of Title 2, The Congress\], II \[formerly set out under the heading Executive Personnel Financial Disclosure Requirements in this Appendix\], and III \[formerly set out under the heading Judicial Personnel Financial Disclosure Requirements in the Appendix to Title 28, Judiciary and Judicial Procedure\] of the Ethics in Government Act of 1978 \[Pub. L. 95–521\], as in effect on the day before the date of the enactment of the Ethics Reform Act of 1989 \[Nov. 30, 1989\], shall be effective for the period beginning on November 30, 1989, and ending on January 1, 1991, as if the Ethics Reform Act of 1989 \[Pub. L. 101–194\] had not been enacted, except that the provisions of section 202(f)(4)(B) of the Ethics in Government Act of 1978 \[section 202(f)(4)(B) of Pub. L. 95–521\] shall be repealed as of January 1, 1990.
+"(C) The provisions of titles I \[formerly classified to section 701 et seq. of Title 2, The Congress\], II \[formerly set out under the heading Executive Personnel Financial Disclosure Requirements in this Appendix\], and III \[formerly set out under the heading Judicial Personnel Financial Disclosure Requirements in the Appendix to Title 28, Judiciary and Judicial Procedure\] of the Ethics in Government Act of 1978 \[Pub. L. 95–521\], as in effect on the day before the date of the enactment of the Ethics Reform Act of 1989 \[Nov. 30, 1989\], shall be effective for the period beginning on November 30, 1989, and ending on January 1, 1991, as if the Ethics Reform Act of 1989 \[Pub. L. 101–194\] had not been enacted, except that the provisions of section 202(f)(4)(B) of the Ethics in Government Act of 1978 \[section 202(f)(4)(B) of Pub. L. 95–521\] shall be repealed as of January 1, 1990.
 
-“(D) Nothing in title II of the Ethics Reform Act of 1989 or the amendments made by such title \[title II of Pub. L. 101–194, amending title I of Pub. L. 95–521, set out in this Appendix, but formerly classified to sections 701 to 709 of Title 2, and repealing title II of Pub. L. 95–521, formerly set out in this Appendix, and title III of Pub. L. 95–521, formerly set out in the Appendix to Title 28\] shall be construed to prevent the prosecution of civil actions against individuals for violations of the Ethics in Government Act of 1978 \[Pub. L. 95–521\] before January 1, 1991.”
+"(D) Nothing in title II of the Ethics Reform Act of 1989 or the amendments made by such title \[title II of Pub. L. 101–194, amending title I of Pub. L. 95–521, set out in this Appendix, but formerly classified to sections 701 to 709 of Title 2, and repealing title II of Pub. L. 95–521, formerly set out in this Appendix, and title III of Pub. L. 95–521, formerly set out in the Appendix to Title 28\] shall be construed to prevent the prosecution of civil actions against individuals for violations of the Ethics in Government Act of 1978 \[Pub. L. 95–521\] before January 1, 1991."
 
 #### Short Title of 2012 Amendment
 
-Pub. L. 112–105, §1, Apr. 4, 2012, 126 Stat. 291, provided that: “This Act \[enacting section 4518a of Title 12, Banks and Banking, amending sections 102, 103, and 105 of Pub. L. 95–521, set out in this Appendix, section 104e of Title 2, The Congress, sections 8332 and 8411, of Title 5, Government Organization and Employees, section 6c of Title 7, Agriculture, section 78u–1 of Title 15, Commerce and Trade, and section 227 of Title 18, Crimes and Criminal Procedure, and enacting provisions set out as notes preceding section 101 of Pub. L. 95–521 and under sections 101 to 103 and 105 of Pub. L. 95–521, set out in this Appendix, section 104e of Title 2, and sections 78j and 78u–1 of Title 15\] may be cited as the ‘Stop Trading on Congressional Knowledge Act of 2012’ or the ‘STOCK Act’.”
+Pub. L. 112–105, §1, Apr. 4, 2012, 126 Stat. 291, provided that: "This Act \[enacting section 4518a of Title 12, Banks and Banking, amending sections 102, 103, and 105 of Pub. L. 95–521, set out in this Appendix, section 104e of Title 2, The Congress, sections 8332 and 8411, of Title 5, Government Organization and Employees, section 6c of Title 7, Agriculture, section 78u–1 of Title 15, Commerce and Trade, and section 227 of Title 18, Crimes and Criminal Procedure, and enacting provisions set out as notes preceding section 101 of Pub. L. 95–521 and under sections 101 to 103 and 105 of Pub. L. 95–521, set out in this Appendix, section 104e of Title 2, and sections 78j and 78u–1 of Title 15\] may be cited as the 'Stop Trading on Congressional Knowledge Act of 2012' or the 'STOCK Act'."
 
 #### Short Title of 2007 Amendment
 
-Pub. L. 110–24, §1, May 3, 2007, 121 Stat. 100, provided that: “This Act \[amending section 105 of Pub. L. 95–521 set out in this Appendix\] may be cited as the ‘Judicial Disclosure Responsibility Act’.”
+Pub. L. 110–24, §1, May 3, 2007, 121 Stat. 100, provided that: "This Act \[amending section 105 of Pub. L. 95–521 set out in this Appendix\] may be cited as the 'Judicial Disclosure Responsibility Act'."
 
 #### Short Title of 2002 Amendment
 
-Pub. L. 107–119, §1, Jan. 15, 2002, 115 Stat. 2382, provided that: “This Act \[amending section 405 of Pub. L. 95–521, set out in this Appendix\] may be cited as the ‘Office of Government Ethics Authorization Act of 2001’.”
+Pub. L. 107–119, §1, Jan. 15, 2002, 115 Stat. 2382, provided that: "This Act \[amending section 405 of Pub. L. 95–521, set out in this Appendix\] may be cited as the 'Office of Government Ethics Authorization Act of 2001'."
 
 #### Short Title of 1996 Amendment
 
-Pub. L. 104–179, §1, Aug. 6, 1996, 110 Stat. 1566, provided that: “This Act \[amending sections 401, 403, 405, and 408 of Pub. L. 95–521, set out in this Appendix, section 1822 of Title 12, Banks and Banking, and section 207 of Title 18, Crimes and Criminal Procedure, and repealing provisions set out as a note under section 7301 of this title\] may be cited as the ‘Office of Government Ethics Authorization Act of 1996’.”
+Pub. L. 104–179, §1, Aug. 6, 1996, 110 Stat. 1566, provided that: "This Act \[amending sections 401, 403, 405, and 408 of Pub. L. 95–521, set out in this Appendix, section 1822 of Title 12, Banks and Banking, and section 207 of Title 18, Crimes and Criminal Procedure, and repealing provisions set out as a note under section 7301 of this title\] may be cited as the 'Office of Government Ethics Authorization Act of 1996'."
 
 #### Short Title of 1992 Amendment
 
-Pub. L. 102–506, §1, Oct. 24, 1992, 106 Stat. 3280, provided that: “This Act \[amending section 405 of Pub. L. 95–521 set out in this Appendix\] may be cited as the ‘Office of Government Ethics Amendment of 1992’.”
+Pub. L. 102–506, §1, Oct. 24, 1992, 106 Stat. 3280, provided that: "This Act \[amending section 405 of Pub. L. 95–521 set out in this Appendix\] may be cited as the 'Office of Government Ethics Amendment of 1992'."
 
 #### Short Title of 1990 Amendment
 
-Pub. L. 101–334, §1, July 16, 1990, 104 Stat. 318, provided that: “This Act \[amending section 405 of Pub. L. 95–521 set out in this Appendix\] may be cited as the ‘Ethics in Government Act Amendment of 1990’.”
+Pub. L. 101–334, §1, July 16, 1990, 104 Stat. 318, provided that: "This Act \[amending section 405 of Pub. L. 95–521 set out in this Appendix\] may be cited as the 'Ethics in Government Act Amendment of 1990'."
 
 #### Short Title of 1989 Amendment
 
-Pub. L. 101–194, §1, Nov. 30, 1989, 103 Stat. 1716, provided that: “This Act \[see Tables for classification\] may be cited as the ‘Ethics Reform Act of 1989’.”
+Pub. L. 101–194, §1, Nov. 30, 1989, 103 Stat. 1716, provided that: "This Act \[see Tables for classification\] may be cited as the 'Ethics Reform Act of 1989'."
 
 #### Short Title
 
-Pub. L. 95–521, §1, Oct. 26, 1978, 92 Stat. 1824, provided: “That this Act \[enacting provisions set out in this Appendix, sections 118a, 288 to 288m of Title 2, The Congress, sections 49, 528, 529, 591 to 598, 1364 of Title 28, Judiciary and Judicial Procedure, amending section 5316 of Title 5, Government Organization and Employees, section 207 of Title 18, Crimes and Criminal Procedure, and sections 3210, 3216, and 3219 of Title 39, Postal Service, and enacting provisions set out as notes under section 288 of Title 2, section 207 of Title 18, and section 591 of Title 28\] may be cited as the ‘Ethics in Government Act of 1978’.”
+Pub. L. 95–521, §1, Oct. 26, 1978, 92 Stat. 1824, provided: "That this Act \[enacting provisions set out in this Appendix, sections 118a, 288 to 288m of Title 2, The Congress, sections 49, 528, 529, 591 to 598, 1364 of Title 28, Judiciary and Judicial Procedure, amending section 5316 of Title 5, Government Organization and Employees, section 207 of Title 18, Crimes and Criminal Procedure, and sections 3210, 3216, and 3219 of Title 39, Postal Service, and enacting provisions set out as notes under section 288 of Title 2, section 207 of Title 18, and section 591 of Title 28\] may be cited as the 'Ethics in Government Act of 1978'."
 
 #### Rule of Construction
 
-Pub. L. 112–105, §10, Apr. 4, 2012, 126 Stat. 298, provided that: “Nothing in this Act \[see Short Title of 2012 Amendment note set out above\], the amendments made by this Act, or the interpretive guidance to be issued pursuant to sections 3 and 9\[(a)\] of this Act \[set out as notes preceding this section\], shall be construed to—
+Pub. L. 112–105, §10, Apr. 4, 2012, 126 Stat. 298, provided that: "Nothing in this Act \[see Short Title of 2012 Amendment note set out above\], the amendments made by this Act, or the interpretive guidance to be issued pursuant to sections 3 and 9\[(a)\] of this Act \[set out as notes preceding this section\], shall be construed to—
 
-“(1) impair or limit the construction of the antifraud provisions of the securities laws or the Commodity Exchange Act \[7 U.S.C. 1 et seq.\] or the authority of the Securities and Exchange Commission or the Commodity Futures Trading Commission under those provisions;
+"(1) impair or limit the construction of the antifraud provisions of the securities laws or the Commodity Exchange Act \[7 U.S.C. 1 et seq.\] or the authority of the Securities and Exchange Commission or the Commodity Futures Trading Commission under those provisions;
 
-“(2) be in derogation of the obligations, duties, and functions of a Member of Congress, an employee of Congress, an executive branch employee, a judicial officer, or a judicial employee, arising from such person's official position; or
+"(2) be in derogation of the obligations, duties, and functions of a Member of Congress, an employee of Congress, an executive branch employee, a judicial officer, or a judicial employee, arising from such person's official position; or
 
-“(3) be in derogation of existing laws, regulations, or ethical obligations governing Members of Congress, employees of Congress, executive branch employees, judicial officers, or judicial employees.”
+"(3) be in derogation of existing laws, regulations, or ethical obligations governing Members of Congress, employees of Congress, executive branch employees, judicial officers, or judicial employees."
 
 #### Post-Employment Negotiation Restrictions
 
 Pub. L. 112–105, §17, Apr. 4, 2012, 126 Stat. 303, provided that:
 
-“(a) Restriction Extended to Executive and Judicial Branches.—Notwithstanding any other provision of law, an individual required to file a financial disclosure report under section 101 of the Ethics in Government Act of 1978 (5 U.S.C. App. 101) may not directly negotiate or have any agreement of future employment or compensation unless such individual, within 3 business days after the commencement of such negotiation or agreement of future employment or compensation, files with the individual's supervising ethics office a statement, signed by such individual, regarding such negotiations or agreement, including the name of the private entity or entities involved in such negotiations or agreement, and the date such negotiations or agreement commenced.
+"(a) Restriction Extended to Executive and Judicial Branches.—Notwithstanding any other provision of law, an individual required to file a financial disclosure report under section 101 of the Ethics in Government Act of 1978 (5 U.S.C. App. 101) may not directly negotiate or have any agreement of future employment or compensation unless such individual, within 3 business days after the commencement of such negotiation or agreement of future employment or compensation, files with the individual's supervising ethics office a statement, signed by such individual, regarding such negotiations or agreement, including the name of the private entity or entities involved in such negotiations or agreement, and the date such negotiations or agreement commenced.
 
-“(b) Recusal.—An individual filing a statement under subsection (a) shall recuse himself or herself whenever there is a conflict of interest, or appearance of a conflict of interest, for such individual with respect to the subject matter of the statement, and shall notify the individual's supervising ethics office of such recusal. An individual making such recusal shall, upon such recusal, submit to the supervising ethics office the statement under subsection (a) with respect to which the recusal was made.”
+"(b) Recusal.—An individual filing a statement under subsection (a) shall recuse himself or herself whenever there is a conflict of interest, or appearance of a conflict of interest, for such individual with respect to the subject matter of the statement, and shall notify the individual's supervising ethics office of such recusal. An individual making such recusal shall, upon such recusal, submit to the supervising ethics office the statement under subsection (a) with respect to which the recusal was made."
 
 #### Rulemaking Power of Congress
 
-Pub. L. 102–90, title III, §314(f), Aug. 14, 1991, 105 Stat. 470, provided that: “The provisions of this section \[amending sections 102 and 505 of Pub. L. 95–521, set out in this Appendix, section 31–2 of Title 2, The Congress, and section 7701 of Title 26, Internal Revenue Code, and enacting provisions set out as a note under section 31–2 of Title 2\] that are applicable to Members, officers, or employees of the legislative branch are enacted by the Congress—
+Pub. L. 102–90, title III, §314(f), Aug. 14, 1991, 105 Stat. 470, provided that: "The provisions of this section \[amending sections 102 and 505 of Pub. L. 95–521, set out in this Appendix, section 31–2 of Title 2, The Congress, and section 7701 of Title 26, Internal Revenue Code, and enacting provisions set out as a note under section 31–2 of Title 2\] that are applicable to Members, officers, or employees of the legislative branch are enacted by the Congress—
 
-“(1) as an exercise of the rulemaking power of the House of Representatives and the Senate, respectively, and as such they shall be considered as part of the rules of each House, respectively, or of that House to which they specifically apply, and such rules shall supersede other rules only to the extent that they are inconsistent therewith; and
+"(1) as an exercise of the rulemaking power of the House of Representatives and the Senate, respectively, and as such they shall be considered as part of the rules of each House, respectively, or of that House to which they specifically apply, and such rules shall supersede other rules only to the extent that they are inconsistent therewith; and
 
-“(2) with full recognition of the constitutional right of either House to change such rules (so far as relating to such House) at any time, in the same manner, and to the same extent as in the case of any other rule of such House.”
+"(2) with full recognition of the constitutional right of either House to change such rules (so far as relating to such House) at any time, in the same manner, and to the same extent as in the case of any other rule of such House."
 
-Section 1001 of Pub. L. 101–194 provided that: “The provisions of this Act \[see Short Title of 1989 Amendment note above\] that are applicable to Members, officers, or employees of the legislative branch are enacted by the Congress—
+Section 1001 of Pub. L. 101–194 provided that: "The provisions of this Act \[see Short Title of 1989 Amendment note above\] that are applicable to Members, officers, or employees of the legislative branch are enacted by the Congress—
 
-“(1) as an exercise of the rulemaking power of the House of Representatives and the Senate, respectively, and as such they shall be considered as part of the rules of each House, respectively, or of that House to which they specifically apply, and such rules shall supersede other rules only to the extent that they are inconsistent therewith; and
+"(1) as an exercise of the rulemaking power of the House of Representatives and the Senate, respectively, and as such they shall be considered as part of the rules of each House, respectively, or of that House to which they specifically apply, and such rules shall supersede other rules only to the extent that they are inconsistent therewith; and
 
-“(2) with full recognition of the constitutional right of either House to change such rules (so far as relating to such House) at any time, in the same manner, and to the same extent as in the case of any other rule of such House.”
+"(2) with full recognition of the constitutional right of either House to change such rules (so far as relating to such House) at any time, in the same manner, and to the same extent as in the case of any other rule of such House."
 
 #### Declaration of Purpose of 1990 Amendments
 
-Pub. L. 101–280, §1, May 4, 1990, 104 Stat. 149, provided that: “It is the purpose of this joint resolution to make technical corrections in the Ethics Reform Act of 1989 \[Pub. L. 101–194, see Tables for classification\].”
+Pub. L. 101–280, §1, May 4, 1990, 104 Stat. 149, provided that: "It is the purpose of this joint resolution to make technical corrections in the Ethics Reform Act of 1989 \[Pub. L. 101–194, see Tables for classification\]."
 
 #### Definitions
 
-Pub. L. 112–105, §2, Apr. 4, 2012, 126 Stat. 291, provided that: “In this Act \[see Short Title of 2012 Amendment note set out above\]:
+Pub. L. 112–105, §2, Apr. 4, 2012, 126 Stat. 291, provided that: "In this Act \[see Short Title of 2012 Amendment note set out above\]:
 
-“(1) Member of congress.—The term ‘Member of Congress’ means a member of the Senate or House of Representatives, a Delegate to the House of Representatives, and the Resident Commissioner from Puerto Rico.
+"(1) Member of congress.—The term 'Member of Congress' means a member of the Senate or House of Representatives, a Delegate to the House of Representatives, and the Resident Commissioner from Puerto Rico.
 
-“(2) Employee of congress.—The term ‘employee of Congress’ means—
+"(2) Employee of congress.—The term 'employee of Congress' means—
 
-“(A) any individual (other than a Member of Congress), whose compensation is disbursed by the Secretary of the Senate or the Chief Administrative Officer of the House of Representatives; and
+"(A) any individual (other than a Member of Congress), whose compensation is disbursed by the Secretary of the Senate or the Chief Administrative Officer of the House of Representatives; and
 
-“(B) any other officer or employee of the legislative branch (as defined in section 109(11) of the Ethics in Government Act of 1978 (5 U.S.C. App. 109(11))).
+"(B) any other officer or employee of the legislative branch (as defined in section 109(11) of the Ethics in Government Act of 1978 (5 U.S.C. App. 109(11))).
 
-“(3) Executive branch employee.—The term ‘executive branch employee’—
+"(3) Executive branch employee.—The term 'executive branch employee'—
 
-“(A) has the meaning given the term ‘employee’ under section 2105 of title 5, United States Code; and
+"(A) has the meaning given the term 'employee' under section 2105 of title 5, United States Code; and
 
-“(B) includes—
+"(B) includes—
 
-“(i) the President;
+"(i) the President;
 
-“(ii) the Vice President; and
+"(ii) the Vice President; and
 
-“(iii) an employee of the United States Postal Service or the Postal Regulatory Commission.
+"(iii) an employee of the United States Postal Service or the Postal Regulatory Commission.
 
-“(4) Judicial officer.—The term ‘judicial officer’ has the meaning given that term under section 109(10) of the Ethics in Government Act of 1978 (U.S.C. App. 109(10)).
+"(4) Judicial officer.—The term 'judicial officer' has the meaning given that term under section 109(10) of the Ethics in Government Act of 1978 (U.S.C. App. 109(10)).
 
-“(5) Judicial employee.—The term ‘judicial employee’ has the meaning given that term in section 109(8) of the Ethics in Government Act of 1978 (5 U.S.C. App. 109(8)).
+"(5) Judicial employee.—The term 'judicial employee' has the meaning given that term in section 109(8) of the Ethics in Government Act of 1978 (5 U.S.C. App. 109(8)).
 
-“(6) Supervising ethics office.—The term ‘supervising ethics office’ has the meaning given that term in section 109(18) of the Ethics in Government Act of 1978 (5 U.S.C. App. 109(18)).”
+"(6) Supervising ethics office.—The term 'supervising ethics office' has the meaning given that term in section 109(18) of the Ethics in Government Act of 1978 (5 U.S.C. App. 109(18))."
 
 [1 So in original. Probably should be capitalized.](#101_1)
 
@@ -4368,7 +4368,7 @@ Reports required by subsections (a), (b), and (c) of section 101 shall, with res
 
 but such individual shall report the category of the amount of income received by him, his spouse, or any dependent child from the trust or other entity under subsection (a)(1)(B) of this section.
 
-(3) For purposes of this subsection, the term “qualified blind trust” includes any trust in which a reporting individual, his spouse, or any minor or dependent child has a beneficial interest in the principal or income, and which meets the following requirements:
+(3) For purposes of this subsection, the term "qualified blind trust" includes any trust in which a reporting individual, his spouse, or any minor or dependent child has a beneficial interest in the principal or income, and which meets the following requirements:
 
 (A)(i) The trustee of the trust and any other entity designated in the trust instrument to perform fiduciary duties is a financial institution, an attorney, a certified public accountant, a broker, or an investment advisor who—
 
@@ -4412,7 +4412,7 @@ but such individual shall report the category of the amount of income received b
 
 (D) The proposed trust instrument and the proposed trustee is approved by the reporting individual's supervising ethics office.
 
-(E) For purposes of this subsection, “interested party” means a reporting individual, his spouse, and any minor or dependent child; “broker” has the meaning set forth in section 3(a)(4) of the Securities and Exchange Act of 1934 (15 U.S.C. 78c(a)(4)); and “investment adviser” includes any investment adviser who, as determined under regulations prescribed by the supervising ethics office, is generally involved in his role as such an adviser in the management or control of trusts.
+(E) For purposes of this subsection, "interested party" means a reporting individual, his spouse, and any minor or dependent child; "broker" has the meaning set forth in section 3(a)(4) of the Securities and Exchange Act of 1934 (15 U.S.C. 78c(a)(4)); and "investment adviser" includes any investment adviser who, as determined under regulations prescribed by the supervising ethics office, is generally involved in his role as such an adviser in the management or control of trusts.
 
 (F) Any trust qualified by a supervising ethics office before the effective date of title II of the Ethics Reform Act of 1989 shall continue to be governed by the law and regulations in effect immediately before such effective date.
 
@@ -4520,41 +4520,41 @@ Section was formerly classified to section 702 of Title 2, The Congress.
 
 #### Amendments
 
-**2012**—Subsec. (a)(4)(A). Pub. L. 112–105 substituted “spouse, except that this exception shall not apply to a reporting individual—” for “spouse; and” and added cls. (i) to (iii).
+**2012**—Subsec. (a)(4)(A). Pub. L. 112–105 substituted "spouse, except that this exception shall not apply to a reporting individual—" for "spouse; and" and added cls. (i) to (iii).
 
-**1995**—Subsec. (a)(1)(B)(viii), (ix). Pub. L. 104–65, §20(a), added cls. (viii) and (ix) and struck out former cl. (viii) which read as follows: “greater than $1,000,000.”
+**1995**—Subsec. (a)(1)(B)(viii), (ix). Pub. L. 104–65, §20(a), added cls. (viii) and (ix) and struck out former cl. (viii) which read as follows: "greater than $1,000,000."
 
 Subsec. (a)(8). Pub. L. 104–65, §22(a), added par. (8).
 
-Subsec. (d)(1). Pub. L. 104–65, §22(b), substituted “(5), and (8)” for “and (5)” in introductory provisions.
+Subsec. (d)(1). Pub. L. 104–65, §22(b), substituted "(5), and (8)" for "and (5)" in introductory provisions.
 
-Subsec. (d)(1)(G) to (J). Pub. L. 104–65, §20(b), added subpars. (G) to (J) and struck out former subpar. (G) which read as follows: “greater than $1,000,000.”
+Subsec. (d)(1)(G) to (J). Pub. L. 104–65, §20(b), added subpars. (G) to (J) and struck out former subpar. (G) which read as follows: "greater than $1,000,000."
 
 Subsec. (e)(1)(F). Pub. L. 104–65, §20(c), added subpar. (F).
 
-**1991**—Subsec. (a)(2)(A). Pub. L. 102–90, §314(a)(3), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “The identity of the source, a brief description, and the value of all gifts other than transportation, lodging, food, or entertainment aggregating $100 or more in value received from any source other than a relative of the reporting individual during the preceding calendar year, except that any gift with a fair market value of $75 or less need not be aggregated for purposes of this subparagraph.”
+**1991**—Subsec. (a)(2)(A). Pub. L. 102–90, §314(a)(3), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: "The identity of the source, a brief description, and the value of all gifts other than transportation, lodging, food, or entertainment aggregating $100 or more in value received from any source other than a relative of the reporting individual during the preceding calendar year, except that any gift with a fair market value of $75 or less need not be aggregated for purposes of this subparagraph."
 
-Pub. L. 102–90, §314(a)(1), (2), redesignated subpar. (B) as (A) and struck out former subpar. (A) which read as follows: “The identity of the source and a brief description (including a travel itinerary, dates, and nature of expenses provided) of any gifts of transportation, lodging, food, or entertainment aggregating $250 or more in value received from any source other than a relative of the reporting individual during the preceding calendar year, except that any food, lodging, or entertainment received as personal hospitality of any individual need not be reported, and any gift with a fair market value of $75 or less need not be aggregated for purposes of this subparagraph.”
+Pub. L. 102–90, §314(a)(1), (2), redesignated subpar. (B) as (A) and struck out former subpar. (A) which read as follows: "The identity of the source and a brief description (including a travel itinerary, dates, and nature of expenses provided) of any gifts of transportation, lodging, food, or entertainment aggregating $250 or more in value received from any source other than a relative of the reporting individual during the preceding calendar year, except that any food, lodging, or entertainment received as personal hospitality of any individual need not be reported, and any gift with a fair market value of $75 or less need not be aggregated for purposes of this subparagraph."
 
-Subsec. (a)(2)(B). Pub. L. 102–90, §314(a)(2), (4), redesignated subpar. (C) as (B) and substituted “more than the minimal value as established by section 7342(a)(5) of title 5, United States Code, or $250, whichever is greater” for “$250 or more in value”. Former subpar. (B) redesignated (A).
+Subsec. (a)(2)(B). Pub. L. 102–90, §314(a)(2), (4), redesignated subpar. (C) as (B) and substituted "more than the minimal value as established by section 7342(a)(5) of title 5, United States Code, or $250, whichever is greater" for "$250 or more in value". Former subpar. (B) redesignated (A).
 
-Subsec. (a)(2)(C), (D). Pub. L. 102–90, §314(a)(2), (5), redesignated subpar. (D) as (C) and struck out “or (B)” after “(A)”. Former subpar. (C) redesignated (B).
+Subsec. (a)(2)(C), (D). Pub. L. 102–90, §314(a)(2), (5), redesignated subpar. (D) as (C) and struck out "or (B)" after "(A)". Former subpar. (C) redesignated (B).
 
-**1990**—Subsec. (a)(1)(A). Pub. L. 101–280, §3(3)(A)(i), substituted “the reporting individual” for “such individuals”.
+**1990**—Subsec. (a)(1)(A). Pub. L. 101–280, §3(3)(A)(i), substituted "the reporting individual" for "such individuals".
 
-Subsec. (a)(3). Pub. L. 101–280, §3(3)(A)(ii), substituted “, or by a parent, brother, sister, or child of the reporting individual or of the reporting individual's spouse,” for “parent, brother, sister, or child”.
+Subsec. (a)(3). Pub. L. 101–280, §3(3)(A)(ii), substituted ", or by a parent, brother, sister, or child of the reporting individual or of the reporting individual's spouse," for "parent, brother, sister, or child".
 
-Subsec. (a)(4). Pub. L. 101–280, §3(3)(A)(iii), substituted “spouse, or a parent, brother, sister, or child of the reporting individual or of the reporting individual's spouse” for “relative”.
+Subsec. (a)(4). Pub. L. 101–280, §3(3)(A)(iii), substituted "spouse, or a parent, brother, sister, or child of the reporting individual or of the reporting individual's spouse" for "relative".
 
-Subsec. (e)(1)(E). Pub. L. 101–280, §3(3)(B), inserted “of subsection (a)” after “(3) through (5)”.
+Subsec. (e)(1)(E). Pub. L. 101–280, §3(3)(B), inserted "of subsection (a)" after "(3) through (5)".
 
-Subsec. (f)(3)(A)(i)(II). Pub. L. 101–280, §3(3)(C)(i)(I), struck out comma after “involved in”.
+Subsec. (f)(3)(A)(i)(II). Pub. L. 101–280, §3(3)(C)(i)(I), struck out comma after "involved in".
 
-Subsec. (f)(3)(A)(ii)(II). Pub. L. 101–280, §3(3)(C)(i)(II), amended subcl. (II) generally. Prior to amendment, subcl. (II) read as follows: “is not or has not been a partner of any interested party and is not a partner of, or involved in any joint venture or other investment with any interested party; and”.
+Subsec. (f)(3)(A)(ii)(II). Pub. L. 101–280, §3(3)(C)(i)(II), amended subcl. (II) generally. Prior to amendment, subcl. (II) read as follows: "is not or has not been a partner of any interested party and is not a partner of, or involved in any joint venture or other investment with any interested party; and".
 
-Subsec. (f)(3)(F). Pub. L. 101–280, §3(3)(C)(i)(III), substituted “title II of the Ethics Reform Act of 1989” for “this section”.
+Subsec. (f)(3)(F). Pub. L. 101–280, §3(3)(C)(i)(III), substituted "title II of the Ethics Reform Act of 1989" for "this section".
 
-Subsec. (f)(6)(A), (B). Pub. L. 101–280, §3(3)(C)(ii), substituted “and willfully, or negligently,” for “or negligently”.
+Subsec. (f)(6)(A), (B). Pub. L. 101–280, §3(3)(C)(ii), substituted "and willfully, or negligently," for "or negligently".
 
 Subsec. (i). Pub. L. 101–280, §3(3)(D), added subsec. (i).
 
@@ -4562,47 +4562,47 @@ Subsec. (i). Pub. L. 101–280, §3(3)(D), added subsec. (i).
 
 **1983**—Subsec. (e)(5)(A). Pub. L. 98–150, §10(b), inserted provision that this subparagraph shall not apply with respect to a trust meeting the requirements for being considered a qualified blind trust under paragraph (7) of this subsection.
 
-Subsec. (e)(7). Pub. L. 98–150, §10(a), amended par. (7) generally. Prior to amendment, par. (7) read as follows: “Any trust which is in existence prior to the date of the enactment of this Act shall be considered a qualified blind trust if—
+Subsec. (e)(7). Pub. L. 98–150, §10(a), amended par. (7) generally. Prior to amendment, par. (7) read as follows: "Any trust which is in existence prior to the date of the enactment of this Act shall be considered a qualified blind trust if—
 
-“(A) the supervising ethics office determines that the trust was a good faith effort to establish a blind trust;
+"(A) the supervising ethics office determines that the trust was a good faith effort to establish a blind trust;
 
-“(B) the previous trust instrument is amended or, if such trust instrument does not by its terms permit amendment, all parties to the trust instrument, including the reporting individual and the trustee, agree in writing that the trust shall be administered in accordance with the requirements of paragraph (3)(C) and a trustee is (or has been) appointed who meets the requirements of paragraph (3); and
+"(B) the previous trust instrument is amended or, if such trust instrument does not by its terms permit amendment, all parties to the trust instrument, including the reporting individual and the trustee, agree in writing that the trust shall be administered in accordance with the requirements of paragraph (3)(C) and a trustee is (or has been) appointed who meets the requirements of paragraph (3); and
 
-“(C) a copy of the trust instrument (except testamentary provisions), a list of the assets previously transferred to the trust by an interested party and the category of value of each such asset at the time it was placed in the trust, and a list of assets previously placed in the trust by an interested party which have been sold are filed and made available to the public as provided under paragraph (5) of this subsection.”
+"(C) a copy of the trust instrument (except testamentary provisions), a list of the assets previously transferred to the trust by an interested party and the category of value of each such asset at the time it was placed in the trust, and a list of assets previously placed in the trust by an interested party which have been sold are filed and made available to the public as provided under paragraph (5) of this subsection."
 
-**1981**—Subsec. (a)(1)(A). Pub. L. 97–51 inserted “including speeches, appearances, articles, or other publications” after “honoraria from any source”.
+**1981**—Subsec. (a)(1)(A). Pub. L. 97–51 inserted "including speeches, appearances, articles, or other publications" after "honoraria from any source".
 
 **1979**—Subsec. (a)(2)(B). Pub. L. 96–19, §3(b)(2), struck out provision that a gift need not be aggregated if, in an unusual case, a publicly available request for a waiver is granted.
 
 Subsec. (a)(2)(D). Pub. L. 96–19, §3(b)(1), added subpar. (D).
 
-Subsec. (a)(6). Pub. L. 96–19, §9(b), substituted “The identity of all positions held” for “The identity of all positions”.
+Subsec. (a)(6). Pub. L. 96–19, §9(b), substituted "The identity of all positions held" for "The identity of all positions".
 
-Subsec. (a)(7). Pub. L. 96–19, §9(j), struck out a colon following “arrangement with respect to”.
+Subsec. (a)(7). Pub. L. 96–19, §9(j), struck out a colon following "arrangement with respect to".
 
 Subsec. (b). Pub. L. 96–19, §9(c)(1), substituted provisions that the information required by pars. (3) and (4) of subsec. (a) be as of the date specified in the report but which is less than thirty-one days before the filing date and that the information required by par. (6) and, in the case of reports filed under section 101(c), par. (7) of subsec. (a) be as of the filing date but for periods described in such paragraphs for provisions that required that the information covered by pars. (3), (4), (6), and, in the case of reports filed pursuant to section 101(c), par. (7) of subsec. (a) be as of a date specified in such report, which could not be more than thirty-one days prior to the date of filing.
 
-Subsec. (d)(1)(B). Pub. L. 96–19, §6(a)(1), (2), substituted “any gifts received by a spouse which are” for “any gift which is” and “and a brief description” for “or a brief description”.
+Subsec. (d)(1)(B). Pub. L. 96–19, §6(a)(1), (2), substituted "any gifts received by a spouse which are" for "any gift which is" and "and a brief description" for "or a brief description".
 
-Subsec. (d)(1)(C). Pub. L. 96–19, §6(a)(3), (4), substituted “reimbursements received by a spouse which are” for “reimbursement which is” and “description of each such reimbursement” for “description of the reimbursement”.
+Subsec. (d)(1)(C). Pub. L. 96–19, §6(a)(3), (4), substituted "reimbursements received by a spouse which are" for "reimbursement which is" and "description of each such reimbursement" for "description of the reimbursement".
 
-Subsec. (d)(1)(D). Pub. L. 96–19, §6(a)(5), substituted “represent the spouse's or dependent child's sole financial interest” for “represent the spouse or dependent child's sole financial interest”.
+Subsec. (d)(1)(D). Pub. L. 96–19, §6(a)(5), substituted "represent the spouse's or dependent child's sole financial interest" for "represent the spouse or dependent child's sole financial interest".
 
-Subsec. (e)(3). Pub. L. 96–19, §7(a)–(d)(1), substituted “a broker, or an investment adviser” for “or a broker” in subpar. (A) preceding cl. (i), substituted “is not or has not been” for “is or has not been” in cl. (ii) of subpar. (A), and, in provisions following subpar. (D), substituted “section 78c(a)(4) of title 15” for “section 78 of title 15”, substituted “the reports” for “their reports”, and inserted definition of “investment adviser”.
+Subsec. (e)(3). Pub. L. 96–19, §7(a)–(d)(1), substituted "a broker, or an investment adviser" for "or a broker" in subpar. (A) preceding cl. (i), substituted "is not or has not been" for "is or has not been" in cl. (ii) of subpar. (A), and, in provisions following subpar. (D), substituted "section 78c(a)(4) of title 15" for "section 78 of title 15", substituted "the reports" for "their reports", and inserted definition of "investment adviser".
 
-Subsec. (e)(5)(D). Pub. L. 96–19, §7(f), substituted “shall apply with respect to such documents and lists” for “shall apply”.
+Subsec. (e)(5)(D). Pub. L. 96–19, §7(f), substituted "shall apply with respect to such documents and lists" for "shall apply".
 
 Subsec. (g). Pub. L. 96–19, §3(a)(1), added subsec. (g).
 
 #### Effective Date of 2012 Amendment
 
-Pub. L. 112–105, §13(b), Apr. 4, 2012, 126 Stat. 300, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to reports which are required to be filed under section 101 of the Ethics of Government Act of 1978 \[section 101 of Pub. L. 95–521, set out in this Appendix\] on or after the date of the enactment of this Act \[Apr. 4, 2012\].”
+Pub. L. 112–105, §13(b), Apr. 4, 2012, 126 Stat. 300, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply with respect to reports which are required to be filed under section 101 of the Ethics of Government Act of 1978 \[section 101 of Pub. L. 95–521, set out in this Appendix\] on or after the date of the enactment of this Act \[Apr. 4, 2012\]."
 
 #### Effective Date of 1995 Amendment
 
 Amendment by section 20 of Pub. L. 104–65 effective Jan. 1, 1996, see section 24 of Pub. L. 104–65, set out as an Effective Date note under section 1601 of Title 2, The Congress.
 
-Pub. L. 104–65, §22(c), Dec. 19, 1995, 109 Stat. 705, provided that: “The amendment made by this section \[amending this section\] shall apply with respect to reports filed under title I of the Ethics in Government Act of 1978 \[section 101 et seq. of Pub. L. 95–521, set out in this Appendix\] for calendar year 1996 and thereafter.”
+Pub. L. 104–65, §22(c), Dec. 19, 1995, 109 Stat. 705, provided that: "The amendment made by this section \[amending this section\] shall apply with respect to reports filed under title I of the Ethics in Government Act of 1978 \[section 101 et seq. of Pub. L. 95–521, set out in this Appendix\] for calendar year 1996 and thereafter."
 
 #### Effective Date of 1991 Amendment
 
@@ -4614,7 +4614,7 @@ Amendment by Pub. L. 101–194 effective Jan. 1, 1991, except that subsec. (f)(4
 
 #### Effective Date of 1983 Amendment
 
-Pub. L. 98–150, §13, Nov. 11, 1983, 97 Stat. 963, provided that: “The amendments made by this Act \[enacting sections 211 and 407 of Pub. L. 95–521, set out in this Appendix, amending sections 102, 201–203, 210, 302, and 401–405 of Pub. L. 95–521, set out in this Appendix, and enacting provisions set out as a note under section 402 of this Appendix\] shall take effect on October 1, 1983.”
+Pub. L. 98–150, §13, Nov. 11, 1983, 97 Stat. 963, provided that: "The amendments made by this Act \[enacting sections 211 and 407 of Pub. L. 95–521, set out in this Appendix, amending sections 102, 201–203, 210, 302, and 401–405 of Pub. L. 95–521, set out in this Appendix, and enacting provisions set out as a note under section 402 of this Appendix\] shall take effect on October 1, 1983."
 
 [1 So in original.](#102_1)
 
@@ -4708,29 +4708,29 @@ Section was formerly classified to section 703 of Title 2, The Congress.
 
 Subsec. (l). Pub. L. 112–105, §6(a), added subsec. (l).
 
-**2005**—Subsec. (h)(1)(A)(i)(I). Pub. L. 109–55 inserted “United States Capitol Police,” after “Architect of the Capitol,”.
+**2005**—Subsec. (h)(1)(A)(i)(I). Pub. L. 109–55 inserted "United States Capitol Police," after "Architect of the Capitol,".
 
-**2004**—Subsec. (h)(1)(A)(i)(II). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
+**2004**—Subsec. (h)(1)(A)(i)(II). Pub. L. 108–271 substituted "Government Accountability Office" for "General Accounting Office".
 
-**1996**—Subsec. (h)(1)(A)(i)(I). Pub. L. 104–186 substituted “by the Chief Administrative Officer” for “by the Clerk”.
+**1996**—Subsec. (h)(1)(A)(i)(I). Pub. L. 104–186 substituted "by the Chief Administrative Officer" for "by the Clerk".
 
-**1991**—Subsec. (i). Pub. L. 102–90 substituted “30-day” for “7-day”.
+**1991**—Subsec. (i). Pub. L. 102–90 substituted "30-day" for "7-day".
 
-**1990**—Subsec. (c). Pub. L. 101–280, §3(4)(A), inserted “individuals nominated to be judicial officers and” after “Houses of Congress other than”.
+**1990**—Subsec. (c). Pub. L. 101–280, §3(4)(A), inserted "individuals nominated to be judicial officers and" after "Houses of Congress other than".
 
-Subsec. (d). Pub. L. 101–280, §3(4)(B), inserted “of the Office of Government Ethics” after “Director”.
+Subsec. (d). Pub. L. 101–280, §3(4)(B), inserted "of the Office of Government Ethics" after "Director".
 
-Subsec. (e). Pub. L. 101–280, §3(4)(C), inserted “who is a candidate for nomination or election to the Office of President or Vice President” after “section 101(c)” and substituted “Election” for “Elections”.
+Subsec. (e). Pub. L. 101–280, §3(4)(C), inserted "who is a candidate for nomination or election to the Office of President or Vice President" after "section 101(c)" and substituted "Election" for "Elections".
 
-Subsec. (g). Pub. L. 101–280, §3(4)(D), substituted “Each supervising ethics office” for “The Office of Government Ethics”.
+Subsec. (g). Pub. L. 101–280, §3(4)(D), substituted "Each supervising ethics office" for "The Office of Government Ethics".
 
-Subsec. (h)(1)(A)(i). Pub. L. 101–280, §3(4)(E), amended cl. (i) generally. Prior to amendment, cl. (i) read as follows: “the appropriate congressional ethics committee with regard to a Member of Congress, officer or employee of the Congress described under paragraphs (9) and (10) of section 101(f) (including individuals terminating service in such office or position under section 101(e) or immediately preceding service in such office or position); and”.
+Subsec. (h)(1)(A)(i). Pub. L. 101–280, §3(4)(E), amended cl. (i) generally. Prior to amendment, cl. (i) read as follows: "the appropriate congressional ethics committee with regard to a Member of Congress, officer or employee of the Congress described under paragraphs (9) and (10) of section 101(f) (including individuals terminating service in such office or position under section 101(e) or immediately preceding service in such office or position); and".
 
-Subsec. (h)(1)(A)(ii)(I). Pub. L. 101–280, §3(4)(F)(i), substituted “Secretary of the Senate or the Clerk of the House of Representatives, as the case may be, as” for “congressional ethics committee”.
+Subsec. (h)(1)(A)(ii)(I). Pub. L. 101–280, §3(4)(F)(i), substituted "Secretary of the Senate or the Clerk of the House of Representatives, as the case may be, as" for "congressional ethics committee".
 
-Subsec. (h)(1)(A)(ii)(II). Pub. L. 101–280, §3(4)(F)(ii), substituted “Secretary of the Senate” for “Senate Select Committee on Ethics” and “Clerk” for “Committee on Standards of Official Conduct”.
+Subsec. (h)(1)(A)(ii)(II). Pub. L. 101–280, §3(4)(F)(ii), substituted "Secretary of the Senate" for "Senate Select Committee on Ethics" and "Clerk" for "Committee on Standards of Official Conduct".
 
-Subsec. (h)(1)(B). Pub. L. 101–280, §3(1), struck out “of the United States” after “Judicial Conference”.
+Subsec. (h)(1)(B). Pub. L. 101–280, §3(1), struck out "of the United States" after "Judicial Conference".
 
 Subsecs. (i) to (k). Pub. L. 101–280, §3(4)(G), added subsecs. (i) to (k).
 
@@ -4738,7 +4738,7 @@ Subsecs. (i) to (k). Pub. L. 101–280, §3(4)(G), added subsecs. (i) to (k).
 
 **1979**—Subsec. (b). Pub. L. 96–19, §4(b)(2), inserted reference to the National Commission on Air Quality.
 
-Subsec. (f). Pub. L. 96–19, §9(a), substituted “the designated committee of the House of Representatives” for “the Clerk shall, after consultation with the designated committee of the House of Representatives”.
+Subsec. (f). Pub. L. 96–19, §9(a), substituted "the designated committee of the House of Representatives" for "the Clerk shall, after consultation with the designated committee of the House of Representatives".
 
 #### Change of Name
 
@@ -4746,11 +4746,11 @@ Committee on Standards of Official Conduct of House of Representatives changed t
 
 #### Effective Date of 2012 Amendment
 
-Pub. L. 112–105, §6(b), Apr. 4, 2012, 126 Stat. 294, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to transactions occurring on or after the date that is 90 days after the date of enactment of this Act \[Apr. 4, 2012\].”
+Pub. L. 112–105, §6(b), Apr. 4, 2012, 126 Stat. 294, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply to transactions occurring on or after the date that is 90 days after the date of enactment of this Act \[Apr. 4, 2012\]."
 
 #### Effective Date of 2005 Amendment
 
-Pub. L. 109–55, title I, §1003(b), Aug. 2, 2005, 119 Stat. 572, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to reports filed under the Ethics in Government Act of 1978 \[Pub. L. 95–521\] for calendar year 2005 and each succeeding calendar year.”
+Pub. L. 109–55, title I, §1003(b), Aug. 2, 2005, 119 Stat. 572, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply with respect to reports filed under the Ethics in Government Act of 1978 \[Pub. L. 95–521\] for calendar year 2005 and each succeeding calendar year."
 
 #### Effective Date of 1989 Amendment
 
@@ -4758,27 +4758,27 @@ Amendment by Pub. L. 101–194 effective Jan. 1, 1991, see section 204 of Pub. L
 
 #### Implementation of PTR Requirements Under STOCK Act
 
-Pub. L. 112–173, §2, Aug. 16, 2012, 126 Stat. 1310, as amended by Pub. L. 112–178, §3(a), Sept. 28, 2012, 126 Stat. 1409, provided that: “Effective January 1, 2013, for purposes of implementing subsection (l) of section 103 of the Ethics in Government Act of 1978 \[5 U.S.C. App. 103(l)\] (as added by section 6 of the STOCK Act, Public Law 112–105), section 102(e) of such Act (5 U.S.C. App. 102(e)) shall apply as if the report under such subsection (l) were a report under section 101 of such Act (5 U.S.C. App. 101) but only with respect to the transaction information required under such subsection (l).”
+Pub. L. 112–173, §2, Aug. 16, 2012, 126 Stat. 1310, as amended by Pub. L. 112–178, §3(a), Sept. 28, 2012, 126 Stat. 1409, provided that: "Effective January 1, 2013, for purposes of implementing subsection (l) of section 103 of the Ethics in Government Act of 1978 \[5 U.S.C. App. 103(l)\] (as added by section 6 of the STOCK Act, Public Law 112–105), section 102(e) of such Act (5 U.S.C. App. 102(e)) shall apply as if the report under such subsection (l) were a report under section 101 of such Act (5 U.S.C. App. 101) but only with respect to the transaction information required under such subsection (l)."
 
 \[Pub. L. 112–178, §3(b), Sept. 28, 2012, 126 Stat. 1409, provided that:
 
-\[“(1) Effective date.—The amendments made by subsection (a) \[amending section 2 of Pub. L. 112–173, set out above\] shall take effect on January 1, 2013.
+\["(1) Effective date.—The amendments made by subsection (a) \[amending section 2 of Pub. L. 112–173, set out above\] shall take effect on January 1, 2013.
 
-\[“(2) Rule of construction.—Before January 1, 2013, the amendments made by subsection (a) shall not affect the applicability of section 2 of the Act entitled ‘An Act to prevent harm to the national security or endangering the military officers and civilian employees to whom internet publication of certain information applies, and for other purposes’, approved August 16, 2012 \[Pub. L. 112–173\] (5 U.S.C. App. 103 note), as in effect on the day before the effective date under paragraph (1).”\]
+\["(2) Rule of construction.—Before January 1, 2013, the amendments made by subsection (a) shall not affect the applicability of section 2 of the Act entitled 'An Act to prevent harm to the national security or endangering the military officers and civilian employees to whom internet publication of certain information applies, and for other purposes', approved August 16, 2012 \[Pub. L. 112–173\] (5 U.S.C. App. 103 note), as in effect on the day before the effective date under paragraph (1)."\]
 
-\[Pub. L. 112–178, §3(c), Sept. 28, 2012, 126 Stat. 1410, provided that: “Nothing in the amendments made by subsection (a) \[amending section 2 of Pub. L. 112–173, set out above\] shall be construed as affecting any requirement with respect to the House of Representatives or the executive branch in effect before January 1, 2013, with respect to the inclusion of transaction information for a report under section 103(l) of the Ethics in Government Act of 1978 (5 U.S.C. App. 103(l)).”\]
+\[Pub. L. 112–178, §3(c), Sept. 28, 2012, 126 Stat. 1410, provided that: "Nothing in the amendments made by subsection (a) \[amending section 2 of Pub. L. 112–173, set out above\] shall be construed as affecting any requirement with respect to the House of Representatives or the executive branch in effect before January 1, 2013, with respect to the inclusion of transaction information for a report under section 103(l) of the Ethics in Government Act of 1978 (5 U.S.C. App. 103(l))."\]
 
-\[Pub. L. 112–178, §3(d), Sept. 28, 2012, 126 Stat. 1410, provided that: “Nothing in this section \[enacting and amending provisions set out as notes above\] or the amendments made \[by\] this section shall be construed as affecting the requirement that took effect with respect to the Senate on July 3, 2012, which mandates the inclusion of transaction information for spouses and dependent children for a report under section 103(l) of the Ethics in Government Act of 1978 (5 U.S.C. App. 103(l)).”\]
+\[Pub. L. 112–178, §3(d), Sept. 28, 2012, 126 Stat. 1410, provided that: "Nothing in this section \[enacting and amending provisions set out as notes above\] or the amendments made \[by\] this section shall be construed as affecting the requirement that took effect with respect to the Senate on July 3, 2012, which mandates the inclusion of transaction information for spouses and dependent children for a report under section 103(l) of the Ethics in Government Act of 1978 (5 U.S.C. App. 103(l))."\]
 
 #### Transaction Reporting Requirements
 
-Pub. L. 112–105, §14, Apr. 4, 2012, 126 Stat. 300, provided that: “The transaction reporting requirements established by section 103(l) of the Ethics in Government Act of 1978 \[5 U.S.C. App. 103(l)\], as added by section 6 of this Act, shall not be construed to apply to a widely held investment fund (whether such fund is a mutual fund, regulated investment company, pension or deferred compensation plan, or other investment fund), if—
+Pub. L. 112–105, §14, Apr. 4, 2012, 126 Stat. 300, provided that: "The transaction reporting requirements established by section 103(l) of the Ethics in Government Act of 1978 \[5 U.S.C. App. 103(l)\], as added by section 6 of this Act, shall not be construed to apply to a widely held investment fund (whether such fund is a mutual fund, regulated investment company, pension or deferred compensation plan, or other investment fund), if—
 
-“(1)(A) the fund is publicly traded; or
+"(1)(A) the fund is publicly traded; or
 
-“(B) the assets of the fund are widely diversified; and
+"(B) the assets of the fund are widely diversified; and
 
-“(2) the reporting individual neither exercises control over nor has the ability to exercise control over the financial interests held by the fund.”
+"(2) the reporting individual neither exercises control over nor has the ability to exercise control over the financial interests held by the fund."
 
 [1 See References in Text note below.](#103_1)
 
@@ -4826,17 +4826,17 @@ Section was formerly classified to section 704 of Title 2, The Congress.
 
 #### Amendments
 
-**2007**—Subsec. (a). Pub. L. 110–81 designated existing provisions as par. (1), substituted “$50,000” for “$10,000”, and added par. (2).
+**2007**—Subsec. (a). Pub. L. 110–81 designated existing provisions as par. (1), substituted "$50,000" for "$10,000", and added par. (2).
 
-**1990**—Subsec. (b). Pub. L. 101–650 inserted at end “Whenever the Judicial Conference refers a name to the Attorney General under this subsection, the Judicial Conference also shall notify the judicial council of the circuit in which the named individual serves of the referral.”
+**1990**—Subsec. (b). Pub. L. 101–650 inserted at end "Whenever the Judicial Conference refers a name to the Attorney General under this subsection, the Judicial Conference also shall notify the judicial council of the circuit in which the named individual serves of the referral."
 
-Pub. L. 101–280, §3(5)(A), substituted “Judicial Conference” for “Chairman of the Judicial Conference”.
+Pub. L. 101–280, §3(5)(A), substituted "Judicial Conference" for "Chairman of the Judicial Conference".
 
-Pub. L. 101–280, §3(1), struck out “of the United States” after “Judicial Conference”.
+Pub. L. 101–280, §3(1), struck out "of the United States" after "Judicial Conference".
 
-Subsec. (c). Pub. L. 101–280, §3(1), struck out “of the United States” after “Judicial Conference”.
+Subsec. (c). Pub. L. 101–280, §3(1), struck out "of the United States" after "Judicial Conference".
 
-Subsec. (d)(1). Pub. L. 101–280, §3(5)(B), substituted closing provisions for former closing provisions which read “shall pay a filing fee of $200 to the miscellaneous receipts of the General Treasury”.
+Subsec. (d)(1). Pub. L. 101–280, §3(5)(B), substituted closing provisions for former closing provisions which read "shall pay a filing fee of $200 to the miscellaneous receipts of the General Treasury".
 
 **1989**—Pub. L. 101–194 amended section generally, substituting provisions relating to failure to file or filing false reports for provisions relating to accessibility of reports. See section 105 of this Appendix.
 
@@ -4942,51 +4942,51 @@ Section was formerly classified to section 705 of Title 2, The Congress.
 
 #### Amendments
 
-**2012**—Subsec. (b)(3)(A). Pub. L. 112–84, §1(1), substituted “Marshals” for “Marshall”.
+**2012**—Subsec. (b)(3)(A). Pub. L. 112–84, §1(1), substituted "Marshals" for "Marshall".
 
-Subsec. (b)(3)(C). Pub. L. 112–84, §1(2), inserted “and the Senate Committee on Homeland Security and Governmental Affairs and the House Committee on Oversight and Government Reform” after “of the Senate”.
+Subsec. (b)(3)(C). Pub. L. 112–84, §1(2), inserted "and the Senate Committee on Homeland Security and Governmental Affairs and the House Committee on Oversight and Government Reform" after "of the Senate".
 
-Subsec. (b)(3)(E). Pub. L. 112–84, §1(3), substituted “2017” for “2011” in two places.
+Subsec. (b)(3)(E). Pub. L. 112–84, §1(3), substituted "2017" for "2011" in two places.
 
-Subsec. (d). Pub. L. 112–105 amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “Any report filed with or transmitted to an agency or supervising ethics office or to the Clerk of the House of Representatives or the Secretary of the Senate pursuant to this title shall be retained by such agency or office or by the Clerk or the Secretary of the Senate, as the case may be. Such report shall be made available to the public for a period of six years after receipt of the report. After such six-year period the report shall be destroyed unless needed in an ongoing investigation, except that in the case of an individual who filed the report pursuant to section 101(b) and was not subsequently confirmed by the Senate, or who filed the report pursuant to section 101(c) and was not subsequently elected, such reports shall be destroyed one year after the individual either is no longer under consideration by the Senate or is no longer a candidate for nomination or election to the Office of President, Vice President, or as a Member of Congress, unless needed in an ongoing investigation.”
+Subsec. (d). Pub. L. 112–105 amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: "Any report filed with or transmitted to an agency or supervising ethics office or to the Clerk of the House of Representatives or the Secretary of the Senate pursuant to this title shall be retained by such agency or office or by the Clerk or the Secretary of the Senate, as the case may be. Such report shall be made available to the public for a period of six years after receipt of the report. After such six-year period the report shall be destroyed unless needed in an ongoing investigation, except that in the case of an individual who filed the report pursuant to section 101(b) and was not subsequently confirmed by the Senate, or who filed the report pursuant to section 101(c) and was not subsequently elected, such reports shall be destroyed one year after the individual either is no longer under consideration by the Senate or is no longer a candidate for nomination or election to the Office of President, Vice President, or as a Member of Congress, unless needed in an ongoing investigation."
 
-**2008**—Subsec. (a)(1). Pub. L. 110–417 substituted “National Geospatial-Intelligence Agency” for “National Imagery and Mapping Agency”.
+**2008**—Subsec. (a)(1). Pub. L. 110–417 substituted "National Geospatial-Intelligence Agency" for "National Imagery and Mapping Agency".
 
-Subsec. (b)(3)(E). Pub. L. 110–177 substituted “2011” for “2009” in two places.
+Subsec. (b)(3)(E). Pub. L. 110–177 substituted "2011" for "2009" in two places.
 
-**2007**—Subsec. (b)(3)(A). Pub. L. 110–24, §2(1), inserted “or a family member of that individual” before period at end.
+**2007**—Subsec. (b)(3)(A). Pub. L. 110–24, §2(1), inserted "or a family member of that individual" before period at end.
 
-Subsec. (b)(3)(B)(i). Pub. L. 110–24, §2(2), inserted “or a family member of that individual” before semicolon.
+Subsec. (b)(3)(B)(i). Pub. L. 110–24, §2(2), inserted "or a family member of that individual" before semicolon.
 
 Subsec. (b)(3)(C)(iv) to (vii). Pub. L. 110–24, §3(b), added cls. (iv) to (vii).
 
-Subsec. (b)(3)(E). Pub. L. 110–24, §3(a), substituted “2009” for “2005” in two places.
+Subsec. (b)(3)(E). Pub. L. 110–24, §3(a), substituted "2009" for "2005" in two places.
 
-**2004**—Subsec. (a)(1). Pub. L. 108–458 inserted “the Office of the Director of National Intelligence,” before “the Central Intelligence Agency”.
+**2004**—Subsec. (a)(1). Pub. L. 108–458 inserted "the Office of the Director of National Intelligence," before "the Central Intelligence Agency".
 
-**2002**—Subsec. (b)(3)(E). Pub. L. 107–126 substituted “2005” for “2001” in two places.
+**2002**—Subsec. (b)(3)(E). Pub. L. 107–126 substituted "2005" for "2001" in two places.
 
 **1998**—Subsec. (b)(3). Pub. L. 105–318 added par. (3).
 
-**1996**—Subsec. (a)(1). Pub. L. 104–201 substituted “National Imagery and Mapping Agency” for “Central Imagery Office”.
+**1996**—Subsec. (a)(1). Pub. L. 104–201 substituted "National Imagery and Mapping Agency" for "Central Imagery Office".
 
-**1994**—Subsec. (a)(1). Pub. L. 103–359 inserted “the Central Imagery Office,” after “Defense Intelligence Agency,”.
+**1994**—Subsec. (a)(1). Pub. L. 103–359 inserted "the Central Imagery Office," after "Defense Intelligence Agency,".
 
-**1991**—Subsec. (b)(1). Pub. L. 102–90 substituted “Except as provided in the second sentence of this subsection, each agency” for “Each agency” and inserted after first sentence “With respect to any report required to be filed by May 15 of any year, such report shall be made available for public inspection within 30 calendar days after May 15 of such year or within 30 days of the date of filing of such a report for which an extension is granted pursuant to section 101(g).”
+**1991**—Subsec. (b)(1). Pub. L. 102–90 substituted "Except as provided in the second sentence of this subsection, each agency" for "Each agency" and inserted after first sentence "With respect to any report required to be filed by May 15 of any year, such report shall be made available for public inspection within 30 calendar days after May 15 of such year or within 30 days of the date of filing of such a report for which an extension is granted pursuant to section 101(g)."
 
-**1990**—Subsec. (a). Pub. L. 101–280, §3(6)(A), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “Each agency and each supervisory ethics office shall make each report filed with it under this title available to the public in accordance with the provisions of subsection (b) of this section, except that this section does not require public availability of a report filed by—
+**1990**—Subsec. (a). Pub. L. 101–280, §3(6)(A), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: "Each agency and each supervisory ethics office shall make each report filed with it under this title available to the public in accordance with the provisions of subsection (b) of this section, except that this section does not require public availability of a report filed by—
 
-“(1) any individual in the Central Intelligence Agency, the Defense Intelligence Agency, or the National Security Agency, or any individual engaged in intelligence activities in any agency of the United States, if the President finds that, due to the nature of the office or position occupied by such individual, public disclosure of such report would, by revealing the identity of the individual or other sensitive information, compromise the national interest of the United States. In addition, such individuals may be authorized, notwithstanding section 104(a), to file such additional reports as are necessary to protect their identity from public disclosure if the President first finds that such filing is necessary in the national interest; or
+"(1) any individual in the Central Intelligence Agency, the Defense Intelligence Agency, or the National Security Agency, or any individual engaged in intelligence activities in any agency of the United States, if the President finds that, due to the nature of the office or position occupied by such individual, public disclosure of such report would, by revealing the identity of the individual or other sensitive information, compromise the national interest of the United States. In addition, such individuals may be authorized, notwithstanding section 104(a), to file such additional reports as are necessary to protect their identity from public disclosure if the President first finds that such filing is necessary in the national interest; or
 
-“(2) an independent counsel or person appointed by independent counsel under chapter 40 of title 28, United States Code, whose identity has not otherwise been disclosed.”
+"(2) an independent counsel or person appointed by independent counsel under chapter 40 of title 28, United States Code, whose identity has not otherwise been disclosed."
 
-Subsec. (b)(1). Pub. L. 101–280, §3(6)(B)(i)(I), substituted “, each supervising ethics office in the executive or judicial branch, the Clerk of the House of Representatives, and the Secretary of the Senate” for “and each supervising ethics office”.
+Subsec. (b)(1). Pub. L. 101–280, §3(6)(B)(i)(I), substituted ", each supervising ethics office in the executive or judicial branch, the Clerk of the House of Representatives, and the Secretary of the Senate" for "and each supervising ethics office".
 
-Pub. L. 101–280, §3(6)(B)(i)(II), substituted “under this title by such agency or office or by the Clerk or the Secretary of the Senate, as the case may be,” for “by such agency or office under this title”.
+Pub. L. 101–280, §3(6)(B)(i)(II), substituted "under this title by such agency or office or by the Clerk or the Secretary of the Senate, as the case may be," for "by such agency or office under this title".
 
-Pub. L. 101–280, §3(6)(B)(ii), substituted “, office, Clerk, or Secretary of the Senate, as the case may be” for “or office”.
+Pub. L. 101–280, §3(6)(B)(ii), substituted ", office, Clerk, or Secretary of the Senate, as the case may be" for "or office".
 
-Subsec. (d). Pub. L. 101–280, §3(6)(C), inserted “or to the Clerk of the House of Representatives or the Secretary of the Senate” after “ethics office” and “or by the Clerk or the Secretary of the Senate” after “or office”.
+Subsec. (d). Pub. L. 101–280, §3(6)(C), inserted "or to the Clerk of the House of Representatives or the Secretary of the Senate" after "ethics office" and "or by the Clerk or the Secretary of the Senate" after "or office".
 
 **1989**—Pub. L. 101–194 amended section generally, substituting provisions relating to custody of and public access to reports for provisions relating to review and compliance procedures. See section 106 of this Appendix.
 
@@ -5012,19 +5012,19 @@ Certain functions of Clerk of House of Representatives transferred to Director o
 
 Pub. L. 113–7, §1(a)(1), (2), Apr. 15, 2013, 127 Stat. 438, provided that:
 
-“(1) In general.—Except with respect to financial disclosure forms filed by officers and employees referred to in paragraph (2), section 8(a) and section 11(a) of the STOCK Act \[Pub. L. 112–178\] (5 U.S.C. App. 105 note\[s\]) \[set out below\] shall not be effective.
+"(1) In general.—Except with respect to financial disclosure forms filed by officers and employees referred to in paragraph (2), section 8(a) and section 11(a) of the STOCK Act \[Pub. L. 112–178\] (5 U.S.C. App. 105 note\[s\]) \[set out below\] shall not be effective.
 
-“(2) Exempted officers and employees.—The officer and employees referred to in paragraph (1) are the following:
+"(2) Exempted officers and employees.—The officer and employees referred to in paragraph (1) are the following:
 
-“(A) The President.
+"(A) The President.
 
-“(B) The Vice President.
+"(B) The Vice President.
 
-“(C) Any Member of Congress.
+"(C) Any Member of Congress.
 
-“(D) Any candidate for Congress.
+"(D) Any candidate for Congress.
 
-“(E) Any officer occupying a position listed in section 5312 or section 5313 of title 5, United States Code, having been nominated by the President and confirmed by the Senate to that position.”
+"(E) Any officer occupying a position listed in section 5312 or section 5313 of title 5, United States Code, having been nominated by the President and confirmed by the Senate to that position."
 
 #### Changed Effective Date for Financial Disclosure Forms of Certain Officers and Employees
 
@@ -5034,87 +5034,87 @@ Pub. L. 112–178, §1, Sept. 28, 2012, 126 Stat. 1408, as amended by Pub. L. 11
 
 Pub. L. 112–105, §8(a), (b), Apr. 4, 2012, 126 Stat. 295, as amended by Pub. L. 112–173, §1(1), Aug. 16, 2012, 126 Stat. 1310; Pub. L. 113–7, §1(b)(1), Apr. 15, 2013, 127 Stat. 438, provided that:
 
-“(a) Public, Online Disclosure of Financial Disclosure Forms of Members of Congress and Congressional Staff.—
+"(a) Public, Online Disclosure of Financial Disclosure Forms of Members of Congress and Congressional Staff.—
 
-“(1) In general.—Not later than September 30, 2012, or 90 days after the date of enactment of this Act \[Apr. 4, 2012\], whichever is later, the Secretary of the Senate and the Sergeant at Arms of the Senate, and the Clerk of the House of Representatives, shall ensure that financial disclosure forms filed by Members of Congress, candidates for Congress, and employees of Congress in calendar year 2012 and in subsequent years pursuant to title I of the Ethics in Government Act of 1978 \[section 101 et seq. of Pub. L. 95–521, set out in this Appendix\] are made available to the public on the respective official websites of the Senate and the House of Representatives not later than 30 days after such forms are filed.
+"(1) In general.—Not later than September 30, 2012, or 90 days after the date of enactment of this Act \[Apr. 4, 2012\], whichever is later, the Secretary of the Senate and the Sergeant at Arms of the Senate, and the Clerk of the House of Representatives, shall ensure that financial disclosure forms filed by Members of Congress, candidates for Congress, and employees of Congress in calendar year 2012 and in subsequent years pursuant to title I of the Ethics in Government Act of 1978 \[section 101 et seq. of Pub. L. 95–521, set out in this Appendix\] are made available to the public on the respective official websites of the Senate and the House of Representatives not later than 30 days after such forms are filed.
 
-“(2) Extensions.—Notices of extension for financial disclosure shall be made available electronically under this subsection along with its related disclosure.
+"(2) Extensions.—Notices of extension for financial disclosure shall be made available electronically under this subsection along with its related disclosure.
 
-“(3) Reporting transactions.—In the case of a transaction disclosure required by section 103(l) of the Ethics in Government Act of 1978 \[section 103(l) of Pub. L. 95–521, set out in this Appendix\], as added by this Act, such disclosure shall be filed not later than the date required by that section. Notices of extension for transaction disclosure shall be made available electronically under this subsection along with its related disclosure.
+"(3) Reporting transactions.—In the case of a transaction disclosure required by section 103(l) of the Ethics in Government Act of 1978 \[section 103(l) of Pub. L. 95–521, set out in this Appendix\], as added by this Act, such disclosure shall be filed not later than the date required by that section. Notices of extension for transaction disclosure shall be made available electronically under this subsection along with its related disclosure.
 
-“(4) Expiration.—The requirements of this subsection shall expire upon implementation of the public disclosure system established under subsection (b).
+"(4) Expiration.—The requirements of this subsection shall expire upon implementation of the public disclosure system established under subsection (b).
 
-“(b) Electronic Filing and Online Public Availability of Financial Disclosure Forms of Members of Congress.—
+"(b) Electronic Filing and Online Public Availability of Financial Disclosure Forms of Members of Congress.—
 
-“(1) In general.—Subject to paragraph (6) and not later than January 1, 2014, the Secretary of the Senate and the Sergeant at Arms of the Senate and the Clerk of the House of Representatives shall develop systems to enable—
+"(1) In general.—Subject to paragraph (6) and not later than January 1, 2014, the Secretary of the Senate and the Sergeant at Arms of the Senate and the Clerk of the House of Representatives shall develop systems to enable—
 
-“(A) electronic filing of reports received by them pursuant to section 103(h)(1)(A) of title I of the Ethics in Government Act of 1978 \[section 103(h)(1)(A) of Pub. L. 95–521, set out in this Appendix\]; and
+"(A) electronic filing of reports received by them pursuant to section 103(h)(1)(A) of title I of the Ethics in Government Act of 1978 \[section 103(h)(1)(A) of Pub. L. 95–521, set out in this Appendix\]; and
 
-“(B) public access to—
+"(B) public access to—
 
-“(i) financial disclosure reports filed by Members of Congress and candidates for Congress,
+"(i) financial disclosure reports filed by Members of Congress and candidates for Congress,
 
-“(ii) reports filed by Members of Congress and candidates for Congress of a transaction disclosure required by section 103(l) of the Ethics in Government Act of 1978 \[section 103(l) of Pub. L. 95–521, set out in this Appendix\], and
+"(ii) reports filed by Members of Congress and candidates for Congress of a transaction disclosure required by section 103(l) of the Ethics in Government Act of 1978 \[section 103(l) of Pub. L. 95–521, set out in this Appendix\], and
 
-“(iii) notices of extensions, amendments, and blind trusts, with respect to financial disclosure reports described in clauses (i) and (ii),
+"(iii) notices of extensions, amendments, and blind trusts, with respect to financial disclosure reports described in clauses (i) and (ii),
 
   pursuant to title I of the Ethics in Government Act of 1978 (5 U.S.C. App. 101 et seq.), through databases that are maintained on the official websites of the House of Representatives and the Senate.
 
-“(2) Login.—For purposes of filings under paragraph (1)(B), section 105(b)(2) of the Ethics in Government Act of 1978 \[section 105(b)(2) of Pub. L. 95–521, set out in this Appendix\] does not apply.
+"(2) Login.—For purposes of filings under paragraph (1)(B), section 105(b)(2) of the Ethics in Government Act of 1978 \[section 105(b)(2) of Pub. L. 95–521, set out in this Appendix\] does not apply.
 
-“(3) Public availability.—Pursuant to section 105(b)(1) of the Ethics in Government Act of 1978, electronic availability on the official websites of the Senate and the House of Representatives under paragraph (1)(B) shall be deemed to have met the public availability requirement.
+"(3) Public availability.—Pursuant to section 105(b)(1) of the Ethics in Government Act of 1978, electronic availability on the official websites of the Senate and the House of Representatives under paragraph (1)(B) shall be deemed to have met the public availability requirement.
 
-“(4) Filers covered.—Individuals required under the Ethics in Government Act of 1978 \[Pub. L. 95–521, set out in this Appendix\] or the Senate Rules to file financial disclosure reports with the Secretary of the Senate or the Clerk of the House of Representatives shall be able to file reports electronically using the systems developed by the Secretary of the Senate, the Sergeant at Arms of the Senate, and the Clerk of the House of Representatives.
+"(4) Filers covered.—Individuals required under the Ethics in Government Act of 1978 \[Pub. L. 95–521, set out in this Appendix\] or the Senate Rules to file financial disclosure reports with the Secretary of the Senate or the Clerk of the House of Representatives shall be able to file reports electronically using the systems developed by the Secretary of the Senate, the Sergeant at Arms of the Senate, and the Clerk of the House of Representatives.
 
-“(5) Extensions.—Notices of extension for financial disclosure shall be made available electronically under paragraph (1)(B) along with its related disclosure.
+"(5) Extensions.—Notices of extension for financial disclosure shall be made available electronically under paragraph (1)(B) along with its related disclosure.
 
-“(6) Additional time.—The requirements of this subsection may be implemented after the date provided in paragraph (1) if the Secretary of the Senate or the Clerk of the House of Representatives identifies in writing to relevant congressional committees the additional time needed for such implementation.”
+"(6) Additional time.—The requirements of this subsection may be implemented after the date provided in paragraph (1) if the Secretary of the Senate or the Clerk of the House of Representatives identifies in writing to relevant congressional committees the additional time needed for such implementation."
 
 #### Executive Branch Reporting
 
 Pub. L. 112–105, §11, Apr. 4, 2012, 126 Stat. 298, as amended by Pub. L. 112–173, §1(2), Aug. 16, 2012, 126 Stat. 1310; Pub. L. 113–7, §1(b)(2), Apr. 15, 2013, 127 Stat. 439, provided that:
 
-“(a) Executive Branch Reporting.—
+"(a) Executive Branch Reporting.—
 
-“(1) In general.—Not later than September 30, 2012, or 90 days after the date of enactment of this Act \[Apr. 4, 2012\], whichever is later, the President shall ensure that financial disclosure forms filed pursuant to title I of the Ethics in Government Act of 1978 (5 U.S.C. App. 101 et seq.), in calendar year 2012 and in subsequent years, by executive branch employees specified in section 101 of that Act are made available to the public on the official websites of the respective executive branch agencies not later than 30 days after such forms are filed.
+"(1) In general.—Not later than September 30, 2012, or 90 days after the date of enactment of this Act \[Apr. 4, 2012\], whichever is later, the President shall ensure that financial disclosure forms filed pursuant to title I of the Ethics in Government Act of 1978 (5 U.S.C. App. 101 et seq.), in calendar year 2012 and in subsequent years, by executive branch employees specified in section 101 of that Act are made available to the public on the official websites of the respective executive branch agencies not later than 30 days after such forms are filed.
 
-“(2) Extensions.—Notices of extension for financial disclosure shall be made available electronically along with the related disclosure.
+"(2) Extensions.—Notices of extension for financial disclosure shall be made available electronically along with the related disclosure.
 
-“(3) Reporting transactions.—In the case of a transaction disclosure required by section 103(l) of the Ethics in Government Act of 1978 \[section 103(l) of Pub. L. 95–521, set out in this Appendix\], as added by this Act, such disclosure shall be filed not later than the date required by that section. Notices of extension for transaction disclosure shall be made available electronically under this subsection along with its related disclosure.
+"(3) Reporting transactions.—In the case of a transaction disclosure required by section 103(l) of the Ethics in Government Act of 1978 \[section 103(l) of Pub. L. 95–521, set out in this Appendix\], as added by this Act, such disclosure shall be filed not later than the date required by that section. Notices of extension for transaction disclosure shall be made available electronically under this subsection along with its related disclosure.
 
-“(4) Expiration.—The requirements of this subsection shall expire upon implementation of the public disclosure system established under subsection (b).
+"(4) Expiration.—The requirements of this subsection shall expire upon implementation of the public disclosure system established under subsection (b).
 
-“(b) Electronic Filing and Online Public Availability of Financial Disclosure Forms of Certain Executive Branch Officials.—
+"(b) Electronic Filing and Online Public Availability of Financial Disclosure Forms of Certain Executive Branch Officials.—
 
-“(1) In general.—Subject to paragraph (6), and not later than January 1, 2014, the President, acting through the Director of the Office of Government Ethics, shall develop systems to enable—
+"(1) In general.—Subject to paragraph (6), and not later than January 1, 2014, the President, acting through the Director of the Office of Government Ethics, shall develop systems to enable—
 
-“(A) electronic filing of reports required by section 103 of the Ethics in Government Act of 1978 (5 U.S.C. App. 103), other than subsection (h) of such section; and
+"(A) electronic filing of reports required by section 103 of the Ethics in Government Act of 1978 (5 U.S.C. App. 103), other than subsection (h) of such section; and
 
-“(B) public access to—
+"(B) public access to—
 
-“(i) financial disclosure reports filed by the President, the Vice President, and any officer occupying a position listed in section 5312 or section 5313 of title 5, United States Code, having been nominated by the President and confirmed by the Senate to that position,
+"(i) financial disclosure reports filed by the President, the Vice President, and any officer occupying a position listed in section 5312 or section 5313 of title 5, United States Code, having been nominated by the President and confirmed by the Senate to that position,
 
-“(ii) reports filed by any individual described in clause (i) of a transaction disclosure required by section 103(l) of the Ethics in Government Act of 1978 \[section 103(l) of Pub. L. 95–521, set out in this Appendix\], and
+"(ii) reports filed by any individual described in clause (i) of a transaction disclosure required by section 103(l) of the Ethics in Government Act of 1978 \[section 103(l) of Pub. L. 95–521, set out in this Appendix\], and
 
-“(iii) notices of extensions, amendments, and blind trusts, with respect to financial disclosure reports described in clauses (i) and (ii),
+"(iii) notices of extensions, amendments, and blind trusts, with respect to financial disclosure reports described in clauses (i) and (ii),
 
   pursuant to title I of the Ethics in Government Act of 1978 (5 U.S.C. App. 101 et seq.), through databases that are maintained on the official website of the Office of Government Ethics.
 
-“(2) Login.—For purposes of filings under paragraph (1)(B), section 105(b)(2) of the Ethics in Government Act of 1978 (5 U.S.C. App. 105(b)(2)) does not apply.
+"(2) Login.—For purposes of filings under paragraph (1)(B), section 105(b)(2) of the Ethics in Government Act of 1978 (5 U.S.C. App. 105(b)(2)) does not apply.
 
-“(3) Public availability.—Pursuant to section 105(b)(1) of the Ethics in Government Act of 1978 (5 U.S.C. App. 105(b)(1)), electronic availability on the official website of the Office of Government Ethics under paragraph (1)(B) shall be deemed to have met the public availability requirement.
+"(3) Public availability.—Pursuant to section 105(b)(1) of the Ethics in Government Act of 1978 (5 U.S.C. App. 105(b)(1)), electronic availability on the official website of the Office of Government Ethics under paragraph (1)(B) shall be deemed to have met the public availability requirement.
 
-“(4) Filers covered.—Executive branch employees required under title I of the Ethics in Government Act of 1978 to file financial disclosure reports shall be able to file the reports electronically with their supervising ethics office.
+"(4) Filers covered.—Executive branch employees required under title I of the Ethics in Government Act of 1978 to file financial disclosure reports shall be able to file the reports electronically with their supervising ethics office.
 
-“(5) Extensions.—Notices of extension for financial disclosure shall be made available electronically under paragraph (1)(B) along with its related disclosure.
+"(5) Extensions.—Notices of extension for financial disclosure shall be made available electronically under paragraph (1)(B) along with its related disclosure.
 
-“(6) Additional time.—The requirements of this subsection may be implemented after the date provided in paragraph (1) if the Director of the Office of Government Ethics, after consultation with the Clerk of the House of Representatives and Secretary of the Senate, identifies in writing to relevant congressional committees the additional time needed for such implementation.”
+"(6) Additional time.—The requirements of this subsection may be implemented after the date provided in paragraph (1) if the Director of the Office of Government Ethics, after consultation with the Clerk of the House of Representatives and Secretary of the Senate, identifies in writing to relevant congressional committees the additional time needed for such implementation."
 
 #### Public Availability of Reports Filed Under Pre-1991 Ethics in Government Act Provisions
 
-Pub. L. 101–280, §9, May 4, 1990, 104 Stat. 162, provided that: “Those reports filed under title I \[formerly classified to section 701 et seq. of Title 2, The Congress\], II \[formerly set out under the heading Executive Personnel Financial Disclosure Requirements in this Appendix\], or III \[formerly set out under the heading Judicial Personnel Financial Disclosure Requirements in the Appendix to Title 28, Judiciary and Judicial Procedure\] of the Ethics in Government Act of 1978 \[Pub. L. 95–521\], as in effect before January 1, 1991, shall be made available to the public on or after such date in accordance with section 105 of that Act \[this section\], as amended by the Ethics Reform Act of 1989 \[Pub. L. 101–194\], and the provisions of such section shall apply with respect to those reports.”
+Pub. L. 101–280, §9, May 4, 1990, 104 Stat. 162, provided that: "Those reports filed under title I \[formerly classified to section 701 et seq. of Title 2, The Congress\], II \[formerly set out under the heading Executive Personnel Financial Disclosure Requirements in this Appendix\], or III \[formerly set out under the heading Judicial Personnel Financial Disclosure Requirements in the Appendix to Title 28, Judiciary and Judicial Procedure\] of the Ethics in Government Act of 1978 \[Pub. L. 95–521\], as in effect before January 1, 1991, shall be made available to the public on or after such date in accordance with section 105 of that Act \[this section\], as amended by the Ethics Reform Act of 1989 \[Pub. L. 101–194\], and the provisions of such section shall apply with respect to those reports."
 
-[1 So in original. Probably should be “by”.](#105_1)
+[1 So in original. Probably should be "by".](#105_1)
 
 [2 So in original.](#105_2)
 
@@ -5168,31 +5168,31 @@ Section was formerly classified to section 706 of Title 2, The Congress.
 
 #### Amendments
 
-**1990**—Subsec. (a)(2). Pub. L. 101–280, §3(1), struck out “of the United States” after “Judicial Conference”.
+**1990**—Subsec. (a)(2). Pub. L. 101–280, §3(1), struck out "of the United States" after "Judicial Conference".
 
-Subsec. (b)(1). Pub. L. 101–280, §3(7)(B), substituted “the Secretary concerned, the designated agency ethics official,” for “Secretary concerned, designated agency ethics official, or”.
+Subsec. (b)(1). Pub. L. 101–280, §3(7)(B), substituted "the Secretary concerned, the designated agency ethics official," for "Secretary concerned, designated agency ethics official, or".
 
-Pub. L. 101–280, §3(7)(A), substituted “a person designated by the Judicial Conference” for “the Chairman of the Judicial Conference”.
+Pub. L. 101–280, §3(7)(A), substituted "a person designated by the Judicial Conference" for "the Chairman of the Judicial Conference".
 
-Pub. L. 101–280, §3(1), struck out “of the United States” after “Judicial Conference”.
+Pub. L. 101–280, §3(1), struck out "of the United States" after "Judicial Conference".
 
-Subsec. (b)(2). Pub. L. 101–280, §3(7)(C), substituted “the Secretary concerned, the designated agency ethics official,” for “Secretary concerned, designated agency ethics official or”.
+Subsec. (b)(2). Pub. L. 101–280, §3(7)(C), substituted "the Secretary concerned, the designated agency ethics official," for "Secretary concerned, designated agency ethics official or".
 
-Pub. L. 101–280, §3(7)(A), substituted “a person designated by the Judicial Conference” for “the Chairman of the Judicial Conference”.
+Pub. L. 101–280, §3(7)(A), substituted "a person designated by the Judicial Conference" for "the Chairman of the Judicial Conference".
 
-Pub. L. 101–280, §3(1), struck out “of the United States” after “Judicial Conference”.
+Pub. L. 101–280, §3(1), struck out "of the United States" after "Judicial Conference".
 
-Subsec. (b)(3). Pub. L. 101–280, §3(7)(D), substituted “the Secretary concerned, the designated agency ethics official, a person designated by a congressional ethics committee, or a person designated by the” for “Secretary concerned, designated agency ethics official, a congressional ethics committee, or the”.
+Subsec. (b)(3). Pub. L. 101–280, §3(7)(D), substituted "the Secretary concerned, the designated agency ethics official, a person designated by a congressional ethics committee, or a person designated by the" for "Secretary concerned, designated agency ethics official, a congressional ethics committee, or the".
 
-Pub. L. 101–280, §3(1), struck out “of the United States” after “Judicial Conference”.
+Pub. L. 101–280, §3(1), struck out "of the United States" after "Judicial Conference".
 
-Subsec. (b)(4). Pub. L. 101–280, §3(7)(E), inserted “in the executive branch” after “position” and substituted “Foreign Service” for “foreign service”.
+Subsec. (b)(4). Pub. L. 101–280, §3(7)(E), inserted "in the executive branch" after "position" and substituted "Foreign Service" for "foreign service".
 
-Subsec. (b)(5). Pub. L. 101–280, §3(7)(F), substituted “Foreign Service” for “foreign service”.
+Subsec. (b)(5). Pub. L. 101–280, §3(7)(F), substituted "Foreign Service" for "foreign service".
 
-Subsec. (b)(6). Pub. L. 101–280, §3(1), struck out “of the United States” after “Judicial Conference”.
+Subsec. (b)(6). Pub. L. 101–280, §3(1), struck out "of the United States" after "Judicial Conference".
 
-Pub. L. 101–280, §3(7)(G), substituted “employee,” for “employee”.
+Pub. L. 101–280, §3(7)(G), substituted "employee," for "employee".
 
 **1989**—Pub. L. 101–194 amended section generally, substituting provisions relating to review of reports for provisions relating to failure to file or filing false reports. See section 104(a) of this Appendix.
 
@@ -5226,9 +5226,9 @@ Section was formerly classified to section 707 of Title 2, The Congress.
 
 **1989**—Pub. L. 101–194 amended section generally, substituting provisions relating to confidential reports and other additional requirements for provisions setting forth definitions for purposes of title I of Pub. L. 95–521. See section 109 of this Appendix.
 
-**1979**—Par. (1). Pub. L. 96–19, §9(d), substituted “gross income derived from business (and net income if the individual elects to include it)” for “net and gross income derived from business”.
+**1979**—Par. (1). Pub. L. 96–19, §9(d), substituted "gross income derived from business (and net income if the individual elects to include it)" for "net and gross income derived from business".
 
-Par. (16). Pub. L. 96–19, §9(g), inserted quotation marks after “designated committee of the House of Representatives” and before “designated committee of the Senate”.
+Par. (16). Pub. L. 96–19, §9(g), inserted quotation marks after "designated committee of the House of Representatives" and before "designated committee of the Senate".
 
 #### Effective Date of 1989 Amendment
 
@@ -5250,7 +5250,7 @@ Section was formerly classified to section 708 of Title 2, The Congress.
 
 **1989**—Pub. L. 101–194 amended section generally, substituting provisions relating to authority of Comptroller General for provision relating to preemption of State laws.
 
-**1979**—Pub. L. 96–19 inserted “holding the office of Member or” after “financial disclosure by reason of”.
+**1979**—Pub. L. 96–19 inserted "holding the office of Member or" after "financial disclosure by reason of".
 
 #### Effective Date of 1989 Amendment
 
@@ -5260,9 +5260,9 @@ Amendment by Pub. L. 101–194 effective Jan. 1, 1991, see section 204 of Pub. L
 
 For the purposes of this title, the term—
 
-(1) “congressional ethics committees” means the Select Committee on Ethics of the Senate and the Committee on Standards of Official Conduct of the House of Representatives;
+(1) "congressional ethics committees" means the Select Committee on Ethics of the Senate and the Committee on Standards of Official Conduct of the House of Representatives;
 
-(2) “dependent child” means, when used with respect to any reporting individual, any individual who is a son, daughter, stepson, or stepdaughter and who—
+(2) "dependent child" means, when used with respect to any reporting individual, any individual who is a son, daughter, stepson, or stepdaughter and who—
 
 (A) is unmarried and under age 21 and is living in the household of such reporting individual; or
 
@@ -5270,11 +5270,11 @@ For the purposes of this title, the term—
 
   
 
-(3) “designated agency ethics official” means an officer or employee who is designated to administer the provisions of this title within an agency;
+(3) "designated agency ethics official" means an officer or employee who is designated to administer the provisions of this title within an agency;
 
-(4) “executive branch” includes each Executive agency (as defined in section 105 of title 5, United States Code), other than the Government Accountability Office, and any other entity or administrative unit in the executive branch;
+(4) "executive branch" includes each Executive agency (as defined in section 105 of title 5, United States Code), other than the Government Accountability Office, and any other entity or administrative unit in the executive branch;
 
-(5) “gift” means a payment, advance, forbearance, rendering, or deposit of money, or any thing of value, unless consideration of equal or greater value is received by the donor, but does not include—
+(5) "gift" means a payment, advance, forbearance, rendering, or deposit of money, or any thing of value, unless consideration of equal or greater value is received by the donor, but does not include—
 
 (A) bequest and other forms of inheritance;
 
@@ -5290,17 +5290,17 @@ For the purposes of this title, the term—
 
   
 
-(6) “honoraria” has the meaning given such term in section 505 of this Act;
+(6) "honoraria" has the meaning given such term in section 505 of this Act;
 
-(7) “income” means all income from whatever source derived, including but not limited to the following items: compensation for services, including fees, commissions, and similar items; gross income derived from business (and net income if the individual elects to include it); gains derived from dealings in property; interest; rents; royalties; dividends; annuities; income from life insurance and endowment contracts; pensions; income from discharge of indebtedness; distributive share of partnership income; and income from an interest in an estate or trust;
+(7) "income" means all income from whatever source derived, including but not limited to the following items: compensation for services, including fees, commissions, and similar items; gross income derived from business (and net income if the individual elects to include it); gains derived from dealings in property; interest; rents; royalties; dividends; annuities; income from life insurance and endowment contracts; pensions; income from discharge of indebtedness; distributive share of partnership income; and income from an interest in an estate or trust;
 
-(8) “judicial employee” means any employee of the judicial branch of the Government, of the United States Sentencing Commission, of the Tax Court, of the Court of Federal Claims, of the Court of Appeals for Veterans Claims, or of the United States Court of Appeals for the Armed Forces, who is not a judicial officer and who is authorized to perform adjudicatory functions with respect to proceedings in the judicial branch, or who occupies a position for which the rate of basic pay is equal to or greater than 120 percent of the minimum rate of basic pay payable for GS–15 of the General Schedule;
+(8) "judicial employee" means any employee of the judicial branch of the Government, of the United States Sentencing Commission, of the Tax Court, of the Court of Federal Claims, of the Court of Appeals for Veterans Claims, or of the United States Court of Appeals for the Armed Forces, who is not a judicial officer and who is authorized to perform adjudicatory functions with respect to proceedings in the judicial branch, or who occupies a position for which the rate of basic pay is equal to or greater than 120 percent of the minimum rate of basic pay payable for GS–15 of the General Schedule;
 
-(9) “Judicial Conference” means the Judicial Conference of the United States;
+(9) "Judicial Conference" means the Judicial Conference of the United States;
 
-(10) “judicial officer” means the Chief Justice of the United States, the Associate Justices of the Supreme Court, and the judges of the United States courts of appeals, United States district courts, including the district courts in Guam, the Northern Mariana Islands, and the Virgin Islands, Court of Appeals for the Federal Circuit, Court of International Trade, Tax Court, Court of Federal Claims, Court of Appeals for Veterans Claims, United States Court of Appeals for the Armed Forces, and any court created by Act of Congress, the judges of which are entitled to hold office during good behavior;
+(10) "judicial officer" means the Chief Justice of the United States, the Associate Justices of the Supreme Court, and the judges of the United States courts of appeals, United States district courts, including the district courts in Guam, the Northern Mariana Islands, and the Virgin Islands, Court of Appeals for the Federal Circuit, Court of International Trade, Tax Court, Court of Federal Claims, Court of Appeals for Veterans Claims, United States Court of Appeals for the Armed Forces, and any court created by Act of Congress, the judges of which are entitled to hold office during good behavior;
 
-(11) “legislative branch” includes—
+(11) "legislative branch" includes—
 
 (A) the Architect of the Capitol;
 
@@ -5322,9 +5322,9 @@ For the purposes of this title, the term—
 
   
 
-(12) “Member of Congress” means a United States Senator, a Representative in Congress, a Delegate to Congress, or the Resident Commissioner from Puerto Rico;
+(12) "Member of Congress" means a United States Senator, a Representative in Congress, a Delegate to Congress, or the Resident Commissioner from Puerto Rico;
 
-(13) “officer or employee of the Congress” means—
+(13) "officer or employee of the Congress" means—
 
 (A) any individual described under subparagraph (B), other than a Member of Congress or the Vice President, whose compensation is disbursed by the Secretary of the Senate or the Chief Administrative Officer of the House of Representatives;
 
@@ -5336,9 +5336,9 @@ For the purposes of this title, the term—
 
   
 
-(14) “personal hospitality of any individual” means hospitality extended for a nonbusiness purpose by an individual, not a corporation or organization, at the personal residence of that individual or his family or on property or facilities owned by that individual or his family;
+(14) "personal hospitality of any individual" means hospitality extended for a nonbusiness purpose by an individual, not a corporation or organization, at the personal residence of that individual or his family or on property or facilities owned by that individual or his family;
 
-(15) “reimbursement” means any payment or other thing of value received by the reporting individual, other than gifts, to cover travel-related expenses of such individual other than those which are—
+(15) "reimbursement" means any payment or other thing of value received by the reporting individual, other than gifts, to cover travel-related expenses of such individual other than those which are—
 
 (A) provided by the United States Government, the District of Columbia, or a State or local government or political subdivision thereof;
 
@@ -5348,9 +5348,9 @@ For the purposes of this title, the term—
 
   
 
-(16) “relative” means an individual who is related to the reporting individual, as father, mother, son, daughter, brother, sister, uncle, aunt, great aunt, great uncle, first cousin, nephew, niece, husband, wife, grandfather, grandmother, grandson, granddaughter, father-in-law, mother-in-law, son-in-law, daughter-in-law, brother-in-law, sister-in-law, stepfather, stepmother, stepson, stepdaughter, stepbrother, stepsister, half brother, half sister, or who is the grandfather or grandmother of the spouse of the reporting individual, and shall be deemed to include the fiance or fiancee of the reporting individual;
+(16) "relative" means an individual who is related to the reporting individual, as father, mother, son, daughter, brother, sister, uncle, aunt, great aunt, great uncle, first cousin, nephew, niece, husband, wife, grandfather, grandmother, grandson, granddaughter, father-in-law, mother-in-law, son-in-law, daughter-in-law, brother-in-law, sister-in-law, stepfather, stepmother, stepson, stepdaughter, stepbrother, stepsister, half brother, half sister, or who is the grandfather or grandmother of the spouse of the reporting individual, and shall be deemed to include the fiance or fiancee of the reporting individual;
 
-(17) “Secretary concerned” has the meaning set forth in section 101(a)(9) of title 10, United States Code, and, in addition, means—
+(17) "Secretary concerned" has the meaning set forth in section 101(a)(9) of title 10, United States Code, and, in addition, means—
 
 (A) the Secretary of Commerce, with respect to matters concerning the National Oceanic and Atmospheric Administration;
 
@@ -5360,7 +5360,7 @@ For the purposes of this title, the term—
 
   
 
-(18) “supervising ethics office” means—
+(18) "supervising ethics office" means—
 
 (A) the Select Committee on Ethics of the Senate, for Senators, officers and employees of the Senate, and other officers or employees of the legislative branch required to file financial disclosure reports with the Secretary of the Senate pursuant to section 103(h) of this title;
 
@@ -5372,7 +5372,7 @@ For the purposes of this title, the term—
 
   
 
-(19) “value” means a good faith estimate of the dollar value if the exact value is neither known nor easily obtainable by the reporting individual.
+(19) "value" means a good faith estimate of the dollar value if the exact value is neither known nor easily obtainable by the reporting individual.
 
 (Pub. L. 95–521, title I, §109, Oct. 26, 1978, 92 Stat. 1836; Pub. L. 101–194, title II, §202, Nov. 30, 1989, 103 Stat. 1741; Pub. L. 101–280, §3(1), (8), May 4, 1990, 104 Stat. 152, 155; Pub. L. 102–378, §4(a)(2), Oct. 2, 1992, 106 Stat. 1357; Pub. L. 102–572, title IX, §902(b)(2), Oct. 29, 1992, 106 Stat. 4516; Pub. L. 103–160, div. A, title XI, §1182(d)(3), Nov. 30, 1993, 107 Stat. 1773; Pub. L. 103–337, div. A, title IX, §924(d)(3), Oct. 5, 1994, 108 Stat. 2832; Pub. L. 104–186, title II, §216(2), Aug. 20, 1996, 110 Stat. 1747; Pub. L. 105–368, title V, §512(b)(1)(D), Nov. 11, 1998, 112 Stat. 3342; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 110–323, §7, Sept. 22, 2008, 122 Stat. 3547.)
 
@@ -5386,59 +5386,59 @@ Section was formerly classified to section 709 of Title 2, The Congress.
 
 #### Amendments
 
-**2008**—Par. (13)(B)(i). Pub. L. 110–323, §7(1), inserted “(except any officer or employee of the Government Accountability Office)” after “legislative branch” and struck out “and” after semicolon.
+**2008**—Par. (13)(B)(i). Pub. L. 110–323, §7(1), inserted "(except any officer or employee of the Government Accountability Office)" after "legislative branch" and struck out "and" after semicolon.
 
 Par. (13)(B)(ii), (iii). Pub. L. 110–323, §7(2), (3), added cl. (ii) and redesignated former cl. (ii) as (iii).
 
-**2004**—Pars. (4), (11)(D). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
+**2004**—Pars. (4), (11)(D). Pub. L. 108–271 substituted "Government Accountability Office" for "General Accounting Office".
 
-**1998**—Pars. (8), (10). Pub. L. 105–368 substituted “Court of Appeals for Veterans Claims” for “Court of Veterans Appeals”.
+**1998**—Pars. (8), (10). Pub. L. 105–368 substituted "Court of Appeals for Veterans Claims" for "Court of Veterans Appeals".
 
-**1996**—Par. (13)(A). Pub. L. 104–186 substituted “Chief Administrative Officer” for “Clerk”.
+**1996**—Par. (13)(A). Pub. L. 104–186 substituted "Chief Administrative Officer" for "Clerk".
 
-**1994**—Pars. (8), (10). Pub. L. 103–337 substituted “Court of Appeals for the Armed Forces” for “Court of Military Appeals”.
+**1994**—Pars. (8), (10). Pub. L. 103–337 substituted "Court of Appeals for the Armed Forces" for "Court of Military Appeals".
 
-**1993**—Par. (17). Pub. L. 103–160 substituted “section 101(a)(9) of title 10” for “section 101(8) of title 10” in introductory provisions.
+**1993**—Par. (17). Pub. L. 103–160 substituted "section 101(a)(9) of title 10" for "section 101(8) of title 10" in introductory provisions.
 
-**1992**—Par. (8). Pub. L. 102–572 substituted “Court of Federal Claims” for “Claims Court”.
+**1992**—Par. (8). Pub. L. 102–572 substituted "Court of Federal Claims" for "Claims Court".
 
-Pub. L. 102–378, §4(a)(2)(A), substituted “who occupies a position for which the rate of basic pay is equal to or greater than 120 percent of the minimum rate of basic pay payable for GS–15 of the General Schedule” for “who is paid at a rate of basic pay equal to or greater than the minimum rate of basic pay in effect for grade GS–16 of the General Schedule”.
+Pub. L. 102–378, §4(a)(2)(A), substituted "who occupies a position for which the rate of basic pay is equal to or greater than 120 percent of the minimum rate of basic pay payable for GS–15 of the General Schedule" for "who is paid at a rate of basic pay equal to or greater than the minimum rate of basic pay in effect for grade GS–16 of the General Schedule".
 
-Par. (10). Pub. L. 102–572 substituted “Court of Federal Claims” for “Claims Court”.
+Par. (10). Pub. L. 102–572 substituted "Court of Federal Claims" for "Claims Court".
 
-Par. (13)(B)(i). Pub. L. 102–378, §4(a)(2)(B), substituted “who, for at least 60 days, occupies a position for which the rate of basic pay is equal to or greater than 120 percent of the minimum rate of basic pay payable for GS–15 of the General Schedule” for “who is compensated for at least 60 days at a rate of basic pay equal to or greater than the annual rate of basic pay in effect for grade GS–16 of the General Schedule”.
+Par. (13)(B)(i). Pub. L. 102–378, §4(a)(2)(B), substituted "who, for at least 60 days, occupies a position for which the rate of basic pay is equal to or greater than 120 percent of the minimum rate of basic pay payable for GS–15 of the General Schedule" for "who is compensated for at least 60 days at a rate of basic pay equal to or greater than the annual rate of basic pay in effect for grade GS–16 of the General Schedule".
 
-Par. (13)(B)(ii). Pub. L. 102–378, §4(a)(2)(C), substituted “who occupies a position for which the rate of basic pay is equal to or greater than 120 percent of the minimum rate of basic pay payable for GS–15 of the General Schedule” for “compensated at a rate equal to or in excess of the annual rate of basic pay in effect for grade GS–16 of the General Schedule”.
+Par. (13)(B)(ii). Pub. L. 102–378, §4(a)(2)(C), substituted "who occupies a position for which the rate of basic pay is equal to or greater than 120 percent of the minimum rate of basic pay payable for GS–15 of the General Schedule" for "compensated at a rate equal to or in excess of the annual rate of basic pay in effect for grade GS–16 of the General Schedule".
 
-**1990**—Par. (1). Pub. L. 101–280, §3(8)(A), substituted “Select Committee on Ethics of the Senate” for “Senate Select Committee on Ethics”.
+**1990**—Par. (1). Pub. L. 101–280, §3(8)(A), substituted "Select Committee on Ethics of the Senate" for "Senate Select Committee on Ethics".
 
-Par. (4). Pub. L. 101–280, §3(8)(B), inserted “, other than the General Accounting Office,” after “Code)”.
+Par. (4). Pub. L. 101–280, §3(8)(B), inserted ", other than the General Accounting Office," after "Code)".
 
-Par. (5)(C). Pub. L. 101–280, §3(8)(C)(i), inserted “, the District of Columbia, or a State or local government or political subdivision thereof” after “United States Government”.
+Par. (5)(C). Pub. L. 101–280, §3(8)(C)(i), inserted ", the District of Columbia, or a State or local government or political subdivision thereof" after "United States Government".
 
-Par. (5)(D). Pub. L. 101–280, §3(8)(C)(ii), amended subpar. (D) generally. Prior to amendment, subpar. (D) read as follows: “food and beverages consumed at banquets, receptions, or similar events; or”.
+Par. (5)(D). Pub. L. 101–280, §3(8)(C)(ii), amended subpar. (D) generally. Prior to amendment, subpar. (D) read as follows: "food and beverages consumed at banquets, receptions, or similar events; or".
 
-Par. (5)(E). Pub. L. 101–280, §3(8)(C)(iii), substituted “individual,” for “individual” and inserted “or” after semicolon at end.
+Par. (5)(E). Pub. L. 101–280, §3(8)(C)(iii), substituted "individual," for "individual" and inserted "or" after semicolon at end.
 
 Par. (5)(F). Pub. L. 101–280, §3(8)(C)(iv), added subpar. (F).
 
-Par. (8). Pub. L. 101–280, §3(8)(D), substituted “United States Sentencing Commission, of the Tax Court, of the Claims Court,” for “Tax Court,” and “who is paid at a rate of basic pay equal to or greater than the minimum rate of basic pay in effect for grade GS–16 of the General Schedule” for “who receives compensation at a rate at or in excess of the minimum rate prescribed for grade 16 of the General Schedule under section 5332 of title 5, United States Code;”.
+Par. (8). Pub. L. 101–280, §3(8)(D), substituted "United States Sentencing Commission, of the Tax Court, of the Claims Court," for "Tax Court," and "who is paid at a rate of basic pay equal to or greater than the minimum rate of basic pay in effect for grade GS–16 of the General Schedule" for "who receives compensation at a rate at or in excess of the minimum rate prescribed for grade 16 of the General Schedule under section 5332 of title 5, United States Code;".
 
-Par. (10). Pub. L. 101–280, §3(8)(E), substituted “Guam, the Northern Mariana Islands,” for “the Canal Zone, Guam,” struck out “Court of Claims,” after “Virgin Islands,” and inserted “Claims Court, Court of Veterans Appeals,” after “Tax Court,”.
+Par. (10). Pub. L. 101–280, §3(8)(E), substituted "Guam, the Northern Mariana Islands," for "the Canal Zone, Guam," struck out "Court of Claims," after "Virgin Islands," and inserted "Claims Court, Court of Veterans Appeals," after "Tax Court,".
 
-Par. (13)(B)(i). Pub. L. 101–280, §3(8)(F), substituted “at least 60” for “60 consecutive” and “of basic pay equal to or greater than” for “equal to or in excess of”.
+Par. (13)(B)(i). Pub. L. 101–280, §3(8)(F), substituted "at least 60" for "60 consecutive" and "of basic pay equal to or greater than" for "equal to or in excess of".
 
-Par. (15)(A). Pub. L. 101–280, §3(8)(G), inserted “, the District of Columbia, or a State or local government or political subdivision thereof” after “Government”.
+Par. (15)(A). Pub. L. 101–280, §3(8)(G), inserted ", the District of Columbia, or a State or local government or political subdivision thereof" after "Government".
 
 Par. (17)(C). Pub. L. 101–280, §3(8)(H), added subpar. (C).
 
-Par. (18)(A). Pub. L. 101–280, §3(8)(I)(i), substituted “the Secretary of the Senate” for “such committee”.
+Par. (18)(A). Pub. L. 101–280, §3(8)(I)(i), substituted "the Secretary of the Senate" for "such committee".
 
-Par. (18)(B). Pub. L. 101–280, §3(8)(I)(ii), substituted “the Clerk of the House of Representatives” for “such committee”.
+Par. (18)(B). Pub. L. 101–280, §3(8)(I)(ii), substituted "the Clerk of the House of Representatives" for "such committee".
 
-Par. (18)(C). Pub. L. 101–280, §3(1), struck out “of the United States” after “Judicial Conference”.
+Par. (18)(C). Pub. L. 101–280, §3(1), struck out "of the United States" after "Judicial Conference".
 
-Par. (18)(D). Pub. L. 101–280, §3(8)(I)(iii), inserted “officers and” after “branch”.
+Par. (18)(D). Pub. L. 101–280, §3(8)(I)(iii), inserted "officers and" after "branch".
 
 **1989**—Pub. L. 101–194 amended section generally, substituting provisions setting forth definitions for purposes of title I of Pub. L. 95–521 for provisions relating to a study by the Comptroller General.
 
@@ -5448,7 +5448,7 @@ Committee on Standards of Official Conduct of House of Representatives changed t
 
 #### Effective Date of 1998 Amendment
 
-Amendment by Pub. L. 105–368 effective on first day of first month beginning more than 90 days after Nov. 11, 1998, see section 513 of Pub. L. 105–368, set out as a note under section 7251 of Title 38, Veterans’ Benefits.
+Amendment by Pub. L. 105–368 effective on first day of first month beginning more than 90 days after Nov. 11, 1998, see section 513 of Pub. L. 105–368, set out as a note under section 7251 of Title 38, Veterans' Benefits.
 
 #### Effective Date of 1992 Amendment
 
@@ -5476,7 +5476,7 @@ This Act, referred to in subsec. (a), is Pub. L. 95–521, Oct. 26, 1978, 92 Sta
 
 #### Amendments
 
-**1990**—Subsec. (a). Pub. L. 101–280 struck out “of the United States” after “Judicial Conference” wherever appearing.
+**1990**—Subsec. (a). Pub. L. 101–280 struck out "of the United States" after "Judicial Conference" wherever appearing.
 
 #### Effective Date
 
@@ -5502,11 +5502,11 @@ The Judicial Conference may delegate any authority it has under this title to an
 
 **1990**—Pub. L. 101–280, §3(9)(C), inserted sentence at end authorizing Judicial Conference to delegate its authority to an ethics committee.
 
-Par. (2). Pub. L. 101–280, §3(9)(A), substituted “Select Committee on Ethics of the Senate” for “Senate Select Committee on Ethics”.
+Par. (2). Pub. L. 101–280, §3(9)(A), substituted "Select Committee on Ethics of the Senate" for "Senate Select Committee on Ethics".
 
-Par. (3). Pub. L. 101–280, §3(9)(B), struck out “and clerk of the applicable court, as appropriate,” before “in the case of”.
+Par. (3). Pub. L. 101–280, §3(9)(B), struck out "and clerk of the applicable court, as appropriate," before "in the case of".
 
-Pub. L. 101–280, §3(1), struck out “of the United States” after “Judicial Conference”.
+Pub. L. 101–280, §3(1), struck out "of the United States" after "Judicial Conference".
 
 #### Change of Name
 
@@ -5520,17 +5520,17 @@ Section effective Jan. 1, 1991, see section 204 of Pub. L. 101–194, set out as
 
 Pub. L. 101–194, title IX, §902, Nov. 30, 1989, 103 Stat. 1780, provided that:
 
-“(a) The Select Committee on Ethics shall transmit a copy of each report filed with it under title I of the Ethics in Government Act of 1978 \[section 101 et seq. of Pub. L. 95–521, set out in this Appendix\] (other than a report filed by a Member of Congress) to the head of the employing office of the individual filing the report.
+"(a) The Select Committee on Ethics shall transmit a copy of each report filed with it under title I of the Ethics in Government Act of 1978 \[section 101 et seq. of Pub. L. 95–521, set out in this Appendix\] (other than a report filed by a Member of Congress) to the head of the employing office of the individual filing the report.
 
-“(b) For purposes of this section, the head of the employing office shall be—
+"(b) For purposes of this section, the head of the employing office shall be—
 
-“(A) in the case of an employee of a Member, the Member by whom that person is employed;
+"(A) in the case of an employee of a Member, the Member by whom that person is employed;
 
-“(B) in the case of an employee of a Committee, the chairman and ranking minority member of such Committee;
+"(B) in the case of an employee of a Committee, the chairman and ranking minority member of such Committee;
 
-“(C) in the case of an employee on the leadership staff, the Member of the leadership on whose staff such person serves; and
+"(C) in the case of an employee on the leadership staff, the Member of the leadership on whose staff such person serves; and
 
-“(D) in the case of any other employee of the legislative branch, the head of the office in which such individual serves.”
+"(D) in the case of any other employee of the legislative branch, the head of the office in which such individual serves."
 
 ### \[§112. Repealed. Pub. L. 101–280, §3(10)(A), May 4, 1990, 104 Stat. 157\]
 
@@ -5566,7 +5566,7 @@ Provisions of title III of Pub. L. 95–521, as in effect prior to Nov. 30, 1989
 
 (a) There is established an executive agency to be known as the Office of Government Ethics.
 
-(b) There shall be at the head of the Office of Government Ethics a Director (hereinafter referred to as the “Director”), who shall be appointed by the President, by and with the advice and consent of the Senate. Effective with respect to any individual appointed or reappointed by the President as Director on or after October 1, 1983, the term of service of the Director shall be five years.
+(b) There shall be at the head of the Office of Government Ethics a Director (hereinafter referred to as the "Director"), who shall be appointed by the President, by and with the advice and consent of the Senate. Effective with respect to any individual appointed or reappointed by the President as Director on or after October 1, 1983, the term of service of the Director shall be five years.
 
 (c) The Director may—
 
@@ -5582,9 +5582,9 @@ Contract authority under paragraph (2) shall be effective for any fiscal year on
 
 #### Amendments
 
-**1996**—Pub. L. 104–179 substituted “Establishment; appointment of Director” for “Office of Government Ethics” in section catchline.
+**1996**—Pub. L. 104–179 substituted "Establishment; appointment of Director" for "Office of Government Ethics" in section catchline.
 
-**1988**—Subsec. (a). Pub. L. 100–598, §3(a), substituted “an executive agency to be known as” for “in the Office of Personnel Management an office to be known as”.
+**1988**—Subsec. (a). Pub. L. 100–598, §3(a), substituted "an executive agency to be known as" for "in the Office of Personnel Management an office to be known as".
 
 Subsec. (c). Pub. L. 100–598, §3(b), added subsec. (c).
 
@@ -5594,9 +5594,9 @@ Subsec. (c). Pub. L. 100–598, §3(b), added subsec. (c).
 
 Pub. L. 100–598, §10, Nov. 3, 1988, 102 Stat. 3035, provided that:
 
-“(a) In General.—Except as provided in subsection (b), the amendments made by this Act \[enacting section 408 of Pub. L. 95–521, set out in this Appendix, and amending sections 401 to 403, 405, and 407 of Pub. L. 95–521, set out in this Appendix, and sections 5314 and 5316 of this title\] shall take effect on the date of the enactment of this Act \[Nov. 3, 1988\].
+"(a) In General.—Except as provided in subsection (b), the amendments made by this Act \[enacting section 408 of Pub. L. 95–521, set out in this Appendix, and amending sections 401 to 403, 405, and 407 of Pub. L. 95–521, set out in this Appendix, and sections 5314 and 5316 of this title\] shall take effect on the date of the enactment of this Act \[Nov. 3, 1988\].
 
-“(b) Exception.—The amendments made by section 3 \[amending section 401 of Pub. L. 95–521, set out in this Appendix\] shall take effect on October 1, 1989.”
+"(b) Exception.—The amendments made by section 3 \[amending section 401 of Pub. L. 95–521, set out in this Appendix\] shall take effect on October 1, 1989."
 
 #### Effective Date of 1983 Amendment
 
@@ -5746,19 +5746,19 @@ Section 206 of this Act, referred to in subsec. (f)(2)(B)(iv), is section 206 of
 
 **1988**—Subsecs. (d) to (f). Pub. L. 100–598 added subsecs. (d) to (f).
 
-**1983**—Subsec. (a). Pub. L. 98–150, §3(a), substituted “in consultation with” for “under the general supervision of”.
+**1983**—Subsec. (a). Pub. L. 98–150, §3(a), substituted "in consultation with" for "under the general supervision of".
 
-Subsec. (b)(1). Pub. L. 98–150, §3(b)(1), struck out “and recommending to the Office of Personnel Management” after “(1) developing”, inserted “and the Office of Personnel Management” after “Attorney General”, and substituted “President or the Director” for “President or the Office of Personnel Management”.
+Subsec. (b)(1). Pub. L. 98–150, §3(b)(1), struck out "and recommending to the Office of Personnel Management" after "(1) developing", inserted "and the Office of Personnel Management" after "Attorney General", and substituted "President or the Director" for "President or the Office of Personnel Management".
 
-Subsec. (b)(2). Pub. L. 98–150, §3(b)(2), struck out “and recommending to the Office of Personnel Management” after “(2) developing”, inserted “and the Office of Personnel Management” after “Attorney General”, and substituted “President or the Director” for “President or the Office of Personnel Management”.
+Subsec. (b)(2). Pub. L. 98–150, §3(b)(2), struck out "and recommending to the Office of Personnel Management" after "(2) developing", inserted "and the Office of Personnel Management" after "Attorney General", and substituted "President or the Director" for "President or the Office of Personnel Management".
 
-Subsec. (b)(6). Pub. L. 98–150, §3(b)(3), substituted “Director” for “Office of Personnel Management”.
+Subsec. (b)(6). Pub. L. 98–150, §3(b)(3), substituted "Director" for "Office of Personnel Management".
 
-Subsec. (b)(12). Pub. L. 98–150, §3(b)(4), inserted “and the Office of Personnel Management” after “Attorney General”, and substituted “Director” for “Office of Personnel Management”.
+Subsec. (b)(12). Pub. L. 98–150, §3(b)(4), inserted "and the Office of Personnel Management" after "Attorney General", and substituted "Director" for "Office of Personnel Management".
 
-Subsec. (b)(15). Pub. L. 98–150, §3(b)(5), substituted “, in consultation with the Office of Personnel Management, and promulgating” for “and recommending for promulgation by the Office of Personnel Management”.
+Subsec. (b)(15). Pub. L. 98–150, §3(b)(5), substituted ", in consultation with the Office of Personnel Management, and promulgating" for "and recommending for promulgation by the Office of Personnel Management".
 
-**1979**—Subsec. (b)(1). Pub. L. 96–19, §9(s), substituted “consultation” for “consulation” and struck out a comma after “rules and regulations” and “President”.
+**1979**—Subsec. (b)(1). Pub. L. 96–19, §9(s), substituted "consultation" for "consulation" and struck out a comma after "rules and regulations" and "President".
 
 Subsec. (b)(15). Pub. L. 96–19, §9(e)(2), added par. (15).
 
@@ -5772,11 +5772,11 @@ Amendment by Pub. L. 98–150 effective Oct. 1, 1983, see section 13 of Pub. L. 
 
 Pub. L. 98–150, §3(d), Nov. 11, 1983, 97 Stat. 960, provided that:
 
-“(1) Any rules or regulations issued under section 402 of the Ethics in Government Act of 1978 \[this section\] which are in effect immediately before the effective date of the amendments made by this Act \[Oct. 1, 1983\] shall remain in effect according to their terms until modified, superseded, set aside, or revoked on or after such effective date.
+"(1) Any rules or regulations issued under section 402 of the Ethics in Government Act of 1978 \[this section\] which are in effect immediately before the effective date of the amendments made by this Act \[Oct. 1, 1983\] shall remain in effect according to their terms until modified, superseded, set aside, or revoked on or after such effective date.
 
-“(2) The responsibilities of the Director of the Office of Government Ethics under paragraphs (6) and (12), respectively, of section 402(b) of the Ethics in Government Act of 1978 \[this section\], with respect to rules and regulations issued by the Office of Personnel Management before the effective date of the amendments made by this Act \[Oct. 1, 1983\] shall not be affected by this Act or any of the amendments made by this Act \[see Effective Date of 1983 Amendment note set out under section 102 of this Appendix\].”
+"(2) The responsibilities of the Director of the Office of Government Ethics under paragraphs (6) and (12), respectively, of section 402(b) of the Ethics in Government Act of 1978 \[this section\], with respect to rules and regulations issued by the Office of Personnel Management before the effective date of the amendments made by this Act \[Oct. 1, 1983\] shall not be affected by this Act or any of the amendments made by this Act \[see Effective Date of 1983 Amendment note set out under section 102 of this Appendix\]."
 
-[1 So in original. Probably should be title “II”.](#402_1)
+[1 So in original. Probably should be title "II".](#402_1)
 
 ### §403. Administrative provisions
 
@@ -5812,7 +5812,7 @@ This Act, referred to in subsec. (a), is Pub. L. 95–521, Oct. 26, 1978, 92 Sta
 
 **1996**—Pub. L. 104–179 designated existing provisions as subsec. (a) and added subsec. (b).
 
-**1988**—Pub. L. 100–598 substituted “pursuant to the Office of Government Ethics responsibilities under this Act. The head of any agency may detail such personnel and furnish such services, with or without reimbursement, as the Director may request to carry out the provisions of this Act” for “pursuant to subsections (b)(3) and (b)(4) of section 402.” in closing provisions.
+**1988**—Pub. L. 100–598 substituted "pursuant to the Office of Government Ethics responsibilities under this Act. The head of any agency may detail such personnel and furnish such services, with or without reimbursement, as the Director may request to carry out the provisions of this Act" for "pursuant to subsections (b)(3) and (b)(4) of section 402." in closing provisions.
 
 **1983**—Pub. L. 98–150 inserted provision that the authority of the Director under this section includes the authority to request assistance from the inspector general of an agency in conducting the investigations pursuant to subsections (b)(3) and (b)(4) of section 402.
 
@@ -5830,7 +5830,7 @@ In promulgating rules and regulations pertaining to financial disclosure, confli
 
 #### Amendments
 
-**1983**—Pub. L. 98–150 substituted “Director” for “Office of Personnel Management”.
+**1983**—Pub. L. 98–150 substituted "Director" for "Office of Personnel Management".
 
 #### Effective Date of 1983 Amendment
 
@@ -5844,29 +5844,29 @@ There are authorized to be appropriated to carry out this title such sums as may
 
 #### Amendments
 
-**2007**—Pub. L. 109–289, §21069, as added by Pub. L. 110–5, amended text of section generally. Prior to amendment, text read as follows: “There are authorized to be appropriated to carry out this title such sums as may be necessary for each of fiscal years 2002 through 2006.”
+**2007**—Pub. L. 109–289, §21069, as added by Pub. L. 110–5, amended text of section generally. Prior to amendment, text read as follows: "There are authorized to be appropriated to carry out this title such sums as may be necessary for each of fiscal years 2002 through 2006."
 
-**2002**—Pub. L. 107–119 substituted “2002 through 2006” for “1997 through 1999”.
+**2002**—Pub. L. 107–119 substituted "2002 through 2006" for "1997 through 1999".
 
-**1996**—Pub. L. 104–179 amended text of section generally. Prior to amendment, text read as follows: “There are authorized to be appropriated to carry out the provisions of this title and for no other purpose—
+**1996**—Pub. L. 104–179 amended text of section generally. Prior to amendment, text read as follows: "There are authorized to be appropriated to carry out the provisions of this title and for no other purpose—
 
-“(1) not to exceed $2,500,000 for the fiscal year ending September 30, 1989;
+"(1) not to exceed $2,500,000 for the fiscal year ending September 30, 1989;
 
-“(2) not to exceed $5,000,000 for the fiscal year ending September 30, 1990; and
+"(2) not to exceed $5,000,000 for the fiscal year ending September 30, 1990; and
 
-“(3) such sums as may be necessary for each of the 4 fiscal years thereafter.”
+"(3) such sums as may be necessary for each of the 4 fiscal years thereafter."
 
-**1992**—Pub. L. 102–506 struck out “and” at end of par. (1), substituted “the fiscal year ending September 30, 1990; and” for “each of the 5 fiscal years thereafter.” in par. (2), and added par. (3).
+**1992**—Pub. L. 102–506 struck out "and" at end of par. (1), substituted "the fiscal year ending September 30, 1990; and" for "each of the 5 fiscal years thereafter." in par. (2), and added par. (3).
 
-**1990**—Par. (2). Pub. L. 101–334 substituted “$5,000,000” for “$3,500,000”.
+**1990**—Par. (2). Pub. L. 101–334 substituted "$5,000,000" for "$3,500,000".
 
-**1988**—Pub. L. 100–598 amended section generally. Prior to amendment, section read as follows: “There are authorized to be appropriated to carry out the provisions of this title, and for no other purpose—
+**1988**—Pub. L. 100–598 amended section generally. Prior to amendment, section read as follows: "There are authorized to be appropriated to carry out the provisions of this title, and for no other purpose—
 
-“(1) not to exceed $2,000,000 for the fiscal year ending September 30, 1979; and
+"(1) not to exceed $2,000,000 for the fiscal year ending September 30, 1979; and
 
-“(2) not to exceed $2,000,000 for each of the nine fiscal years thereafter.”
+"(2) not to exceed $2,000,000 for each of the nine fiscal years thereafter."
 
-**1983**—Par. (2). Pub. L. 98–150 substituted “nine” for “four”.
+**1983**—Par. (2). Pub. L. 98–150 substituted "nine" for "four".
 
 #### Effective Date of 1983 Amendment
 
@@ -5888,11 +5888,11 @@ Section, Pub. L. 95–521, title IV, §406, Oct. 26, 1978, 92 Stat. 1864, amende
 
 #### Amendments
 
-**1988**—Pub. L. 100–598 substituted “Annual pay of Director” for “Submission of budget” in section catchline and amended text generally. Prior to amendment, text read as follows:
+**1988**—Pub. L. 100–598 substituted "Annual pay of Director" for "Submission of budget" in section catchline and amended text generally. Prior to amendment, text read as follows:
 
-“(a) In the budget submitted to the Congress pursuant to section 1105(a) of title 31, United States Code, the President shall include estimated expenditures and proposed appropriations the President decides are necessary to support the Office of Government Ethics in the fiscal year for which the budget is submitted and the four fiscal years after that year.
+"(a) In the budget submitted to the Congress pursuant to section 1105(a) of title 31, United States Code, the President shall include estimated expenditures and proposed appropriations the President decides are necessary to support the Office of Government Ethics in the fiscal year for which the budget is submitted and the four fiscal years after that year.
 
-“(b) In the statement of changes submitted to Congress with respect to the budget pursuant to section 1106(b) of title 31, United States Code, the President shall specify the effect of such changes on the information submitted pursuant to subsection (a) of this section.”
+"(b) In the statement of changes submitted to Congress with respect to the budget pursuant to section 1106(b) of title 31, United States Code, the President shall specify the effect of such changes on the information submitted pursuant to subsection (a) of this section."
 
 #### Effective Date
 
@@ -5910,7 +5910,7 @@ The Director shall, no later than April 30 of each year in which the second sess
 
 #### Amendments
 
-**1996**—Pub. L. 104–179 substituted “April 30” for “March 31” in introductory provisions.
+**1996**—Pub. L. 104–179 substituted "April 30" for "March 31" in introductory provisions.
 
 ### TITLE V—GOVERNMENT-WIDE LIMITATIONS ON OUTSIDE EARNED INCOME AND EMPLOYMENT
 
@@ -5944,15 +5944,15 @@ A prior section 501 of Pub. L. 95–521, title V, Oct. 26, 1978, 92 Stat. 1864, 
 
 #### Amendments
 
-**1992**—Subsec. (a)(1). Pub. L. 102–378, §4(b)(1), substituted “who occupies a position classified above GS–15 of the General Schedule or, in the case of positions not under the General Schedule, for which the rate of basic pay is equal to or greater than 120 percent of the minimum rate of basic pay payable for GS–15 of the General Schedule,” for “whose rate of basic pay is equal to or greater than the annual rate of basic pay in effect for grade GS–16 of the General Schedule under section 5332 of title 5, United States Code,”.
+**1992**—Subsec. (a)(1). Pub. L. 102–378, §4(b)(1), substituted "who occupies a position classified above GS–15 of the General Schedule or, in the case of positions not under the General Schedule, for which the rate of basic pay is equal to or greater than 120 percent of the minimum rate of basic pay payable for GS–15 of the General Schedule," for "whose rate of basic pay is equal to or greater than the annual rate of basic pay in effect for grade GS–16 of the General Schedule under section 5332 of title 5, United States Code,".
 
-Subsec. (a)(2). Pub. L. 102–378, §4(b)(2), substituted “who during a calendar year becomes a Member or an officer or employee who is a noncareer officer or employee and who occupies a position classified above GS–15 of the General Schedule or, in the case of positions not under the General Schedule, for which the rate of basic pay is equal to or greater than 120 percent of the minimum rate of basic pay payable for GS–15 of the General Schedule,” for “who becomes a Member or an officer or employee who is a noncareer officer or employee and whose rate of basic pay is equal to or greater than the annual rate of basic pay in effect for grade GS–16 of the General Schedule during a calendar year,”.
+Subsec. (a)(2). Pub. L. 102–378, §4(b)(2), substituted "who during a calendar year becomes a Member or an officer or employee who is a noncareer officer or employee and who occupies a position classified above GS–15 of the General Schedule or, in the case of positions not under the General Schedule, for which the rate of basic pay is equal to or greater than 120 percent of the minimum rate of basic pay payable for GS–15 of the General Schedule," for "who becomes a Member or an officer or employee who is a noncareer officer or employee and whose rate of basic pay is equal to or greater than the annual rate of basic pay in effect for grade GS–16 of the General Schedule during a calendar year,".
 
-**1990**—Subsec. (a)(1). Pub. L. 101–280, §7(a)(1), substituted “a noncareer officer or employee” for “not a career civil servant”.
+**1990**—Subsec. (a)(1). Pub. L. 101–280, §7(a)(1), substituted "a noncareer officer or employee" for "not a career civil servant".
 
-Subsec. (a)(2). Pub. L. 101–280, §7(a)(1), substituted “a noncareer officer or employee” for “not a career civil servant”.
+Subsec. (a)(2). Pub. L. 101–280, §7(a)(1), substituted "a noncareer officer or employee" for "not a career civil servant".
 
-Pub. L. 101–280, §7(a)(2), substituted “Member or such an officer or employee which” for “Member, officer or employee which” and “Member or such officer or employee during” for “Member, officer or employee during”.
+Pub. L. 101–280, §7(a)(2), substituted "Member or such an officer or employee which" for "Member, officer or employee which" and "Member or such officer or employee during" for "Member, officer or employee during".
 
 #### Effective Date
 
@@ -5994,17 +5994,17 @@ A prior section 502 of Pub. L. 95–521, title V, Oct. 26, 1978, 92 Stat. 1867, 
 
 #### Amendments
 
-**1992**—Subsec. (a). Pub. L. 102–378, §4(b)(3), substituted “who occupies a position classified above GS–15 of the General Schedule or, in the case of positions not under the General Schedule, for which the rate of basic pay is equal to or greater than 120 percent of the minimum rate of basic pay payable for GS–15 of the General Schedule” for “whose rate of basic pay is equal to or greater than the annual rate of basic pay in effect for grade GS–16 of the General Schedule”.
+**1992**—Subsec. (a). Pub. L. 102–378, §4(b)(3), substituted "who occupies a position classified above GS–15 of the General Schedule or, in the case of positions not under the General Schedule, for which the rate of basic pay is equal to or greater than 120 percent of the minimum rate of basic pay payable for GS–15 of the General Schedule" for "whose rate of basic pay is equal to or greater than the annual rate of basic pay in effect for grade GS–16 of the General Schedule".
 
-**1991**—Subsec. (b). Pub. L. 102–198 substituted heading for one which read “Senior Judges Teaching Compensation” and amended text generally. Prior to amendment, text read as follows: “Any compensation for teaching received by a senior judge (as designated under section 294(b) of title 28, United States Code) approved under subsection (a)(5) of this section shall not be treated as outside earned income for the purpose of the limitation under section 501(a).”
+**1991**—Subsec. (b). Pub. L. 102–198 substituted heading for one which read "Senior Judges Teaching Compensation" and amended text generally. Prior to amendment, text read as follows: "Any compensation for teaching received by a senior judge (as designated under section 294(b) of title 28, United States Code) approved under subsection (a)(5) of this section shall not be treated as outside earned income for the purpose of the limitation under section 501(a)."
 
 **1990**—Pub. L. 101–650 designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
 
-Pub. L. 101–280, §7(a)(1), in introductory provisions substituted “a noncareer officer or employee” for “not a career civil servant”.
+Pub. L. 101–280, §7(a)(1), in introductory provisions substituted "a noncareer officer or employee" for "not a career civil servant".
 
-Pub. L. 101–280, §7(b)(1), in par. (1) substituted “receive compensation for affiliating with or being” for “affiliate with or be” and “which provides professional services involving” for “to provide professional services which involves”, and struck out “for compensation” after “relationship”.
+Pub. L. 101–280, §7(b)(1), in par. (1) substituted "receive compensation for affiliating with or being" for "affiliate with or be" and "which provides professional services involving" for "to provide professional services which involves", and struck out "for compensation" after "relationship".
 
-Pub. L. 101–280, §7(b)(2), in par. (3) substituted “receive compensation for practicing” for “practice” and struck out “for compensation” after “relationship”.
+Pub. L. 101–280, §7(b)(2), in par. (3) substituted "receive compensation for practicing" for "practice" and struck out "for compensation" after "relationship".
 
 #### Effective Date
 
@@ -6034,9 +6034,9 @@ A prior section 503 of Pub. L. 95–521, title V, Oct. 26, 1978, 92 Stat. 1867, 
 
 #### Amendments
 
-**1991**—Par. (1)(B). Pub. L. 102–90 substituted “Senators and legislative branch officers and employees” for “legislative branch officers and employees other than Senators, officers, and employees of the Senate and”.
+**1991**—Par. (1)(B). Pub. L. 102–90 substituted "Senators and legislative branch officers and employees" for "legislative branch officers and employees other than Senators, officers, and employees of the Senate and".
 
-**1990**—Par. (1). Pub. L. 101–280 amended par. (1) generally. Prior to amendment, par. (1) read as follows: “and administered by the committee of the House of Representatives assigned responsibility for administering the reporting requirements of title I with respect to Members, officers and employees of the House of Representatives;”.
+**1990**—Par. (1). Pub. L. 101–280 amended par. (1) generally. Prior to amendment, par. (1) read as follows: "and administered by the committee of the House of Representatives assigned responsibility for administering the reporting requirements of title I with respect to Members, officers and employees of the House of Representatives;".
 
 #### Change of Name
 
@@ -6044,7 +6044,7 @@ Committee on Standards of Official Conduct of House of Representatives changed t
 
 #### Effective Date of 1991 Amendment
 
-Section 6(f)(1) of Pub. L. 102–90 provided that: “Except for the provisions of subsection (e)(1) \[105 Stat. 451\], the provisions of this section \[amending this section and section 505 of Pub. L. 95–521, set out in this Appendix, repealing sections 31–1 and 441i of Title 2, The Congress, enacting provisions set out as a note under section 5318 of this title, and repealing provisions set out as notes under sections 31 and 358 of Title 2\] shall take effect on the date of the enactment of this Act \[Aug. 14, 1991\].”
+Section 6(f)(1) of Pub. L. 102–90 provided that: "Except for the provisions of subsection (e)(1) \[105 Stat. 451\], the provisions of this section \[amending this section and section 505 of Pub. L. 95–521, set out in this Appendix, repealing sections 31–1 and 441i of Title 2, The Congress, enacting provisions set out as a note under section 5318 of this title, and repealing provisions set out as notes under sections 31 and 358 of Title 2\] shall take effect on the date of the enactment of this Act \[Aug. 14, 1991\]."
 
 #### Effective Date
 
@@ -6066,25 +6066,25 @@ Section effective Jan. 1, 1991, but shall cease to be effective if the provision
 
 For purposes of this title:
 
-(1) The term “Member” means a Senator in, a Representative in, or a Delegate or Resident Commissioner to, the Congress.
+(1) The term "Member" means a Senator in, a Representative in, or a Delegate or Resident Commissioner to, the Congress.
 
-(2) The term “officer or employee” means any officer or employee of the Government except any special Government employee (as defined in section 202 of title 18, United States Code).
+(2) The term "officer or employee" means any officer or employee of the Government except any special Government employee (as defined in section 202 of title 18, United States Code).
 
-(3) The term “honorarium” means a payment of money or any thing of value for an appearance, speech or article (including a series of appearances, speeches, or articles if the subject matter is directly related to the individual's official duties or the payment is made because of the individual's status with the Government) by a Member, officer or employee, excluding any actual and necessary travel expenses incurred by such individual (and one relative) to the extent that such expenses are paid or reimbursed by any other person, and the amount otherwise determined shall be reduced by the amount of any such expenses to the extent that such expenses are not paid or reimbursed.
+(3) The term "honorarium" means a payment of money or any thing of value for an appearance, speech or article (including a series of appearances, speeches, or articles if the subject matter is directly related to the individual's official duties or the payment is made because of the individual's status with the Government) by a Member, officer or employee, excluding any actual and necessary travel expenses incurred by such individual (and one relative) to the extent that such expenses are paid or reimbursed by any other person, and the amount otherwise determined shall be reduced by the amount of any such expenses to the extent that such expenses are not paid or reimbursed.
 
-(4) The term “travel expenses” means, with respect to a Member, officer or employee, or a relative of any such individual, the cost of transportation, and the cost of lodging and meals while away from his or her residence or principal place of employment.
+(4) The term "travel expenses" means, with respect to a Member, officer or employee, or a relative of any such individual, the cost of transportation, and the cost of lodging and meals while away from his or her residence or principal place of employment.
 
-(5) The term “charitable organization” means an organization described in section 170(c) of the Internal Revenue Code of 1986 \[26 U.S.C. 170(c)\].
+(5) The term "charitable organization" means an organization described in section 170(c) of the Internal Revenue Code of 1986 \[26 U.S.C. 170(c)\].
 
 (Pub. L. 95–521, title V, §505, as added Pub. L. 101–194, title VI, §601(a), Nov. 30, 1989, 103 Stat. 1761; amended Pub. L. 102–90, title I, §6(b)(2), (3), title III, §314(b), Aug. 14, 1991, 105 Stat. 450, 469.)
 
 #### Amendments
 
-**1991**—Par. (1). Pub. L. 102–90, §6(b)(2), inserted “a Senator in,” before “a Representative”.
+**1991**—Par. (1). Pub. L. 102–90, §6(b)(2), inserted "a Senator in," before "a Representative".
 
-Par. (2). Pub. L. 102–90, §6(b)(3), struck out “(A) any individual (other than the Vice President) whose compensation is disbursed by the Secretary of the Senate or (B)” after “except”.
+Par. (2). Pub. L. 102–90, §6(b)(3), struck out "(A) any individual (other than the Vice President) whose compensation is disbursed by the Secretary of the Senate or (B)" after "except".
 
-Par. (3). Pub. L. 102–90, §314(b), inserted “(including a series of appearances, speeches, or articles if the subject matter is directly related to the individual's official duties or the payment is made because of the individual's status with the Government)” before “by a Member”.
+Par. (3). Pub. L. 102–90, §314(b), inserted "(including a series of appearances, speeches, or articles if the subject matter is directly related to the individual's official duties or the payment is made because of the individual's status with the Government)" before "by a Member".
 
 #### Effective Date of 1991 Amendment
 
@@ -6120,7 +6120,7 @@ Prepared by the President and transmitted to the Senate and the House of Represe
 
 #### Sec. 4. National Resources Planning Board
 
-(a) The functions of the National Resources Committee, established by Executive Order No. 7065 of June 7, 1935, and its personnel (except the members of the Committee) and all of the functions of the Federal Employment Stabilization Office in the Department of Commerce and its personnel are hereby transferred to the Executive Office of the President. The functions transferred by this section are hereby consolidated, and they shall be administered under the direction and supervision of the President by the National Resources Planning Board (hereafter referred to as the Board), which shall be composed of five members to be appointed by the President. The President shall designate one of the members of the Board as Chairman and another as Vice Chairman. The Vice Chairman shall act as Chairman in the absence of the Chairman or in the event of a vacancy in that office. The members of the Board shall be compensated at the rate of $50 per day for time spent in attending and traveling to and from meetings, or in otherwise exercising the functions and duties of the Board, plus the actual cost of transportation: *Provided*, That in no case shall a member be entitled to receive compensation for more than thirty days’ service in two consecutive months. \[Functions of Board were authorized to be carried out until June 30, 1940, and provisions concerning composition of Board were contained in Emergency Relief Appropriation Act of 1939.\]
+(a) The functions of the National Resources Committee, established by Executive Order No. 7065 of June 7, 1935, and its personnel (except the members of the Committee) and all of the functions of the Federal Employment Stabilization Office in the Department of Commerce and its personnel are hereby transferred to the Executive Office of the President. The functions transferred by this section are hereby consolidated, and they shall be administered under the direction and supervision of the President by the National Resources Planning Board (hereafter referred to as the Board), which shall be composed of five members to be appointed by the President. The President shall designate one of the members of the Board as Chairman and another as Vice Chairman. The Vice Chairman shall act as Chairman in the absence of the Chairman or in the event of a vacancy in that office. The members of the Board shall be compensated at the rate of $50 per day for time spent in attending and traveling to and from meetings, or in otherwise exercising the functions and duties of the Board, plus the actual cost of transportation: *Provided*, That in no case shall a member be entitled to receive compensation for more than thirty days' service in two consecutive months. \[Functions of Board were authorized to be carried out until June 30, 1940, and provisions concerning composition of Board were contained in Emergency Relief Appropriation Act of 1939.\]
 
 (b) The Board shall determine the rules of its own proceedings, and a majority of its members in office shall constitute a quorum for the transaction of business, but the Board may function notwithstanding vacancies.
 
@@ -6296,7 +6296,7 @@ The Federal Loan Administrator shall appoint an Assistant Federal Loan Administr
 
 #### (c) Powers and Duties of Administrator
 
-The Administrator shall supervise the administration, and shall be responsible for the coordination of the functions and activities, of the following agencies: Reconstruction Finance Corporation, Electric Home and Farm Authority, R.F.C. Mortgage Company, Disaster Loan Corporation, Federal National Mortgage Association, Federal Home Loan Bank Board, Home Owners’ Loan Corporation, Federal Savings and Loan Insurance Corporation, Federal Housing Administration, and Export-Import Bank of Washington. The Administrator may appoint such officers and employees and make such expenditures as may be necessary. \[For subsequent history, see Codification note set out under 15 U.S.C. 1801 et seq.\]
+The Administrator shall supervise the administration, and shall be responsible for the coordination of the functions and activities, of the following agencies: Reconstruction Finance Corporation, Electric Home and Farm Authority, R.F.C. Mortgage Company, Disaster Loan Corporation, Federal National Mortgage Association, Federal Home Loan Bank Board, Home Owners' Loan Corporation, Federal Savings and Loan Insurance Corporation, Federal Housing Administration, and Export-Import Bank of Washington. The Administrator may appoint such officers and employees and make such expenditures as may be necessary. \[For subsequent history, see Codification note set out under 15 U.S.C. 1801 et seq.\]
 
 #### (d) Administrative Funds
 
@@ -6426,7 +6426,7 @@ Since 1916 the Congress has established from time to time agencies for providing
 
 #### Economy and Efficiency
 
-One of the five purposes of the Reorganization Act of 1939 is “to reduce expenditures to the fullest extent consistent with the efficient operation of the Government.” This purpose is important in each phase of the plan here presented. The Reorganization Act prohibits abolishing functions—in other words basic services or activities performed. Therefore the reduction in expenditures to be effected must necessarily be brought about chiefly in the overhead administrative expenses of the agencies set up to perform certain functions. The chance for economy arises therefore not from stopping work, but from organizing the work and the overhead more efficiently in combination with other similar activities. Only the Congress can abolish or curtail functions now provided by law.
+One of the five purposes of the Reorganization Act of 1939 is "to reduce expenditures to the fullest extent consistent with the efficient operation of the Government." This purpose is important in each phase of the plan here presented. The Reorganization Act prohibits abolishing functions—in other words basic services or activities performed. Therefore the reduction in expenditures to be effected must necessarily be brought about chiefly in the overhead administrative expenses of the agencies set up to perform certain functions. The chance for economy arises therefore not from stopping work, but from organizing the work and the overhead more efficiently in combination with other similar activities. Only the Congress can abolish or curtail functions now provided by law.
 
 The overhead administrative costs of all the agencies affected in Reorganization Plan No. I is about $235,000,000. This does not include the loans they make, the benefits they pay, the wages of the unemployed who have been given jobs; it does not include the loans and grants to States or, in short, the functional expense. It does include the overhead expense of operating and administering all these agencies.
 
@@ -6452,7 +6452,7 @@ Franklin D. Roosevelt.      
 
 The White House, April 25, 1939.
 
-[1 So in original. Probably should be “sections 23b and 137e,”.](#REORGANIZATION_PLAN_NO_I_OF_1939_1)
+[1 So in original. Probably should be "sections 23b and 137e,".](#REORGANIZATION_PLAN_NO_I_OF_1939_1)
 
 ## **REORGANIZATION PLAN NO. II OF 1939**
 
@@ -6506,9 +6506,9 @@ The functions of the National Bituminous Coal Commission (including the function
 
 The National Bituminous Coal Commission and the offices of the members thereof are hereby abolished and the outstanding affairs of the Commission shall be wound up by the Secretary of the Interior.
 
-#### (c) Office of Consumers’ Counsel Abolished and Functions Transferred
+#### (c) Office of Consumers' Counsel Abolished and Functions Transferred
 
-The office of Consumers’ Counsel of the National Bituminous Coal Commission is hereby abolished and its functions are transferred to, and shall be administered in, the office of the Solicitor of the Department of the Interior under the direction and supervision of the Secretary of the Interior.
+The office of Consumers' Counsel of the National Bituminous Coal Commission is hereby abolished and its functions are transferred to, and shall be administered in, the office of the Solicitor of the Department of the Interior under the direction and supervision of the Secretary of the Interior.
 
 \[Functions, records, property, and personnel of Consumer's Counsel of the National Bituminous Coal Commission, which were transferred by this Plan to office of Solicitor of Department of Interior, were retransferred to Office of Bituminous Coal Consumer Counsel by 15 U.S.C. 852. Such Office terminated Aug. 24, 1943.\]
 
@@ -6666,7 +6666,7 @@ The plan provides for the abolition of the National Emergency Council and the tr
 
 The National Emergency Council was established by Executive order in 1933 and is composed of the President, the Vice President, the Members of the Cabinet, and the heads of some 23 independent establishments. Its usefulness as an actual council, which met weekly under my chairmanship, was very great in the period of the emergency which then confronted the country, but, as time has gone on, it no longer operates as a council but does continue to carry on important activities which are indispensable to the President of the United States, as well as to other branches of the Government, and the public. It maintains an information service and a press intelligence service, it publishes the United States Government Manual, and it carries on through State and central staffs an important work of coordinating and reporting.
 
-The information service makes available general information concerning all phases of governmental activity and is provided for all who submit questions or inquiries by mail, by telephone, or by personal call. In one sense it may be called a post-office address—“Uncle Sam, Post Office Box No. 1, Washington, D.C.”—to which persons who want information about the Government but do not know the exact division or agency of the Government to which to apply, may write with confidence that their questions will be answered or else sent on to the proper agency for direct reply.
+The information service makes available general information concerning all phases of governmental activity and is provided for all who submit questions or inquiries by mail, by telephone, or by personal call. In one sense it may be called a post-office address—"Uncle Sam, Post Office Box No. 1, Washington, D.C."—to which persons who want information about the Government but do not know the exact division or agency of the Government to which to apply, may write with confidence that their questions will be answered or else sent on to the proper agency for direct reply.
 
 The press intelligence service carried on in the Council is not a service for giving intelligence to the press, but rather for making available to responsible persons in the Government, both in the executive and in the legislative branches, a clipping service, which shows what the press of the country has printed. The partial consolidation of clipping services in this unit—a consolidation which should go further—already has resulted in economy and convenience. A clipping service of this kind, on a smaller scale, was maintained for many years in the White House but it was not then available to other branches of the Government. Its return to the White House with the additional feature of availability to all the rest of the Government will promote efficiency without violating tradition.
 
@@ -6676,7 +6676,7 @@ The coordinating and reporting functions of the Council have to do with the pres
 
 The plan also includes certain general provisions in order to accomplish fully the purposes of the act. In addition to the transfer of bureaus and other units, it is necessary also to transfer certain functions of heads of departments; to transfer records, property, and personnel; to transfer funds; and to provide that the power of appointment occasionally, and sometimes apparently quite accidentally, vested in a subordinate official of a department, shall be vested in the head of the department. It is impossible to exercise the proper direction and supervision over subordinate units unless the definite power of appointment, fixing of compensation, transfer, and promotion or dismissal of personnel is vested in the principal responsible head. In no other way can the purpose of consolidating similar functions under a single head as required by the act be accomplished in practice.
 
-It is one of the five purposes of the Reorganization Act “to reduce expenditures to the fullest extent consistent with the efficient operation of the Government.” This is an important purpose in each phase of the plan here presented. The Reorganization Act prohibits abolishing functions—in other words, basic services or activities performed. Therefore, the reduction in expenditures must necessarily be brought about chiefly in the overhead administrative expenses of the agencies affected. In a great many cases the economies to be effected by Reorganization Plan No. II will be the result of improved efficiency which will, as the plan works out, require fewer persons to perform the work or will require the employment of less temporary assistance.
+It is one of the five purposes of the Reorganization Act "to reduce expenditures to the fullest extent consistent with the efficient operation of the Government." This is an important purpose in each phase of the plan here presented. The Reorganization Act prohibits abolishing functions—in other words, basic services or activities performed. Therefore, the reduction in expenditures must necessarily be brought about chiefly in the overhead administrative expenses of the agencies affected. In a great many cases the economies to be effected by Reorganization Plan No. II will be the result of improved efficiency which will, as the plan works out, require fewer persons to perform the work or will require the employment of less temporary assistance.
 
 In the case of the consolidation of the foreign services it is estimated that the administration by a single administrative unit in the Department of State will achieve a saving of $20,000 a year and that consolidation of the three field forces will make it possible to drop alien employees and, by a more effective use of personnel, to save an additional $100,000 a year when the readjustments have been made.
 
@@ -6902,7 +6902,7 @@ The Weather Bureau in the Department of Agriculture and its functions are transf
 
 #### Sec. 9. Transfer of Certain Functions Relating to Enforcement of Wage Payments on Public Construction
 
-The functions of the Secretary of the Treasury and the Secretary of the Interior under section 2 of the Act of June 13, 1934, entitled “An act to effectuate the purpose of certain statutes concerning rates of pay for labor, by making it unlawful to prevent anyone from receiving the compensation contracted for thereunder, and for other purposes” (48 Stat. 948) \[now 40 U.S.C. 3145\], are transferred to the Secretary of Labor and shall be administered by him or under his direction and supervision by such agency in the Department of Labor as the Secretary shall designate.
+The functions of the Secretary of the Treasury and the Secretary of the Interior under section 2 of the Act of June 13, 1934, entitled "An act to effectuate the purpose of certain statutes concerning rates of pay for labor, by making it unlawful to prevent anyone from receiving the compensation contracted for thereunder, and for other purposes" (48 Stat. 948) \[now 40 U.S.C. 3145\], are transferred to the Secretary of Labor and shall be administered by him or under his direction and supervision by such agency in the Department of Labor as the Secretary shall designate.
 
 #### UNITED STATES MARITIME COMMISSION
 
@@ -7104,9 +7104,9 @@ Prepared by the President and transmitted to the Senate and the House of Represe
 
 The functions of the Secretary of Commerce, the Bureau of the Census, and the Director of the Bureau of the Census with respect to vital statistics (including statistics on births, deaths, marriages, divorces, and annulments) are transferred to the Federal Security Administrator and shall be performed under his direction and control by the United States Public Health Service or by such officers and employees of the Federal Security Agency as the Administrator shall designate.
 
-#### Sec. 3. United States Employees’ Compensation Commission
+#### Sec. 3. United States Employees' Compensation Commission
 
-\[Repealed. Pub. L. 89–554, §8(a), Sept. 6, 1966, 80 Stat. 662. Section abolished the United States Employees’ Compensation Commission and transferred its functions to the Federal Security Agency. See sections 8145 and 8149 of Title 5, Government Organization and Employees.\]
+\[Repealed. Pub. L. 89–554, §8(a), Sept. 6, 1966, 80 Stat. 662. Section abolished the United States Employees' Compensation Commission and transferred its functions to the Federal Security Agency. See sections 8145 and 8149 of Title 5, Government Organization and Employees.\]
 
 #### Sec. 4. Social Security Board
 
@@ -7194,7 +7194,7 @@ Next, the plan transfers the vital statistics functions of the Census Bureau to 
 
 The plan transfers the functions of the United States Employees Compensation Commission to the Federal Security Administrator, and provides for a three-member board of appeals to hear and finally decide appeals on claims of Government employees. By abolishing the Commission, the plan eliminates a small agency and lightens the burden on the President. The Federal Security Administrator, as the head of the Federal agency with the greatest experience in insurance administration, is in the best position to guide and further the program of the Commission.
 
-The abolition of the Commission as an administrative body and the creation of an appeals board will provide the advantages of a single official in charge of operations while affording claimants the protection of a three-member board for the final decision of appeals on claims. This arrangement has proved both administratively efficient and satisfactory to claimants in many similar programs. It is essentially the plan used in the administration of veterans’ pensions and old-age and survivors insurance and employed by many States in their workmen's compensation programs. The board of appeals created by this plan will deal only with claims of Government employees since appeals on other types of claims under the jurisdiction of the Commission—(a) longshoremen and harbor workers and (b) private employees in the District of Columbia—are heard by the Federal district courts rather than the Commission.
+The abolition of the Commission as an administrative body and the creation of an appeals board will provide the advantages of a single official in charge of operations while affording claimants the protection of a three-member board for the final decision of appeals on claims. This arrangement has proved both administratively efficient and satisfactory to claimants in many similar programs. It is essentially the plan used in the administration of veterans' pensions and old-age and survivors insurance and employed by many States in their workmen's compensation programs. The board of appeals created by this plan will deal only with claims of Government employees since appeals on other types of claims under the jurisdiction of the Commission—(a) longshoremen and harbor workers and (b) private employees in the District of Columbia—are heard by the Federal district courts rather than the Commission.
 
 The reorganization plan which created the Federal Security Agency in 1939 provided that the Federal Security Administrator should direct and supervise the Social Security Board, and that he might assign administrative duties to the Chairman of the Board, rather than to the Board as a whole. Thus, it took the first step toward establishing a definite line of responsibility for the administration of social security functions in the Agency. The plan I am now submitting further clarifies these lines of responsibility by providing for the normal type of internal organization used in Federal departments and agencies.
 
@@ -7276,7 +7276,7 @@ The Hydrographic Office and the Naval Observatory, together with their respectiv
 
 #### Sec. 302. Supply Department of the United States Marine Corps
 
-The Paymaster's Department of the United States Marine Corps and the Quartermaster's Department of the United States Marine Corps, and the functions of such departments, are hereby consolidated to form a single new agency, which shall be known as the Supply Department of the United States Marine Corps, and at the head of which there shall be the Quartermaster General of the Marine Corps. The office and title of “The Paymaster General of the Marine Corps,” provided for in the Act of March 24, 1944 (58 Stat. 121) are hereby abolished.
+The Paymaster's Department of the United States Marine Corps and the Quartermaster's Department of the United States Marine Corps, and the functions of such departments, are hereby consolidated to form a single new agency, which shall be known as the Supply Department of the United States Marine Corps, and at the head of which there shall be the Quartermaster General of the Marine Corps. The office and title of "The Paymaster General of the Marine Corps," provided for in the Act of March 24, 1944 (58 Stat. 121) are hereby abolished.
 
 #### PART IV. DEPARTMENT OF THE INTERIOR
 
@@ -7388,13 +7388,13 @@ The proposed transfer will permit more efficient administration by ending divide
 
 #### *Functions With Respect to Certain Insane Persons*
 
-Prior to World War I practically all mental patients for whom the Federal Government was legally obligated to provide hospital care and treatment, including personnel of the armed forces, were hospitalized in St. Elizabeths Hospital, Washington, D. C. In addition, this hospital served as the mental hospital for the District of Columbia government. Following World War I, the responsibility for hospital care of mentally ill war veterans was assigned to the Veterans’ Administration. Somewhat later, specialized hospital facilities were provided by the Bureau of Prisons of the Department of Justice to enable that agency to care for prisoners suffering from mental disorders.
+Prior to World War I practically all mental patients for whom the Federal Government was legally obligated to provide hospital care and treatment, including personnel of the armed forces, were hospitalized in St. Elizabeths Hospital, Washington, D. C. In addition, this hospital served as the mental hospital for the District of Columbia government. Following World War I, the responsibility for hospital care of mentally ill war veterans was assigned to the Veterans' Administration. Somewhat later, specialized hospital facilities were provided by the Bureau of Prisons of the Department of Justice to enable that agency to care for prisoners suffering from mental disorders.
 
 With the growth in the population of the District of Columbia and the wartime expansion of the armed forces, the facilities of St. Elizabeths Hospital became inadequate. The War Department therefore established its own mental hospitals at the outset of World War II. Furthermore it became necessary a year ago for the Navy Department to discontinue the use of St. Elizabeths and to assume the responsibility for the care of its mental patients.
 
 Since the return of the Coast Guard to the Treasury Department, the Public Health Service now provides care in its mental hospitals for personnel of the Coast Guard in accordance with the basic responsibility delegated to it in the Public Health Service Code enacted in 1944. The plan abolishes the functions of St. Elizabeths Hospital with respect to insane persons belonging to the Coast Guard which are provided for by section 4843 of the Revised Statutes \[24 U.S.C. 191\].
 
-Responsibility for the care of mental patients has been allocated on the basis of the four broad categories of beneficiaries, namely, (1) veterans, to be cared for by the Veterans’ Administration; (2) military and naval personnel, to be cared for by the War and Navy Departments; (3) prisoners, for whom the Department of Justice will be responsible; and (4) other civilians, to be cared for by the Federal Security Agency. The reorganization plan, in order to carry out this policy, provides for the transfer or abolition of certain functions and legal responsibilities now resting with the Federal Security Administrator and Superintendent of St. Elizabeths Hospital.
+Responsibility for the care of mental patients has been allocated on the basis of the four broad categories of beneficiaries, namely, (1) veterans, to be cared for by the Veterans' Administration; (2) military and naval personnel, to be cared for by the War and Navy Departments; (3) prisoners, for whom the Department of Justice will be responsible; and (4) other civilians, to be cared for by the Federal Security Agency. The reorganization plan, in order to carry out this policy, provides for the transfer or abolition of certain functions and legal responsibilities now resting with the Federal Security Administrator and Superintendent of St. Elizabeths Hospital.
 
 #### navy department
 
@@ -7414,7 +7414,7 @@ The consolidation will make possible a more efficient and more economical organi
 
 #### *The Franklin D. Roosevelt Library at Hyde Park*
 
-At the present time, the National Park Service, the Public Buildings Administration, and the Archivist of the United States all perform “housekeeping” functions at the Franklin D. Roosevelt Library and home at Hyde Park. The plan unifies in the National Park Service responsibility for activities of this character at Hyde Park—that is, the maintenance and protection of buildings and grounds, the collection of fees, and the handling of traffic and visitors. Because of its wide experience in the administration of historic sites, the National Park Service is the logical agency to assume the combined functions.
+At the present time, the National Park Service, the Public Buildings Administration, and the Archivist of the United States all perform "housekeeping" functions at the Franklin D. Roosevelt Library and home at Hyde Park. The plan unifies in the National Park Service responsibility for activities of this character at Hyde Park—that is, the maintenance and protection of buildings and grounds, the collection of fees, and the handling of traffic and visitors. Because of its wide experience in the administration of historic sites, the National Park Service is the logical agency to assume the combined functions.
 
 Transfer of these functions does not affect the responsibility of the Archivist for the contents and professional services of the library proper. It also does not affect the present disposition of the receipts, which is provided by law.
 
@@ -7648,7 +7648,7 @@ Prepared by the President and transmitted to the Senate and the House of Represe
 
 #### Section 1. Housing and Home Finance Agency
 
-The Home Owners’ Loan Corporation, the Federal Savings and Loan Insurance Corporation, the Federal Housing Administration, the United States Housing Authority, the Defense Homes Corporation, and the United States Housing Corporation, together with their respective functions, the functions of the Federal Home Loan Bank Board, and the other functions transferred by this plan, are consolidated, subject to the provisions of sections 2 to 5, inclusive, hereof, into an agency which shall be known as the Housing and Home Finance Agency. There shall be in said Agency constituent agencies which shall be known as the Home Loan Bank Board, the Federal Housing Administration, and the Public Housing Administration.
+The Home Owners' Loan Corporation, the Federal Savings and Loan Insurance Corporation, the Federal Housing Administration, the United States Housing Authority, the Defense Homes Corporation, and the United States Housing Corporation, together with their respective functions, the functions of the Federal Home Loan Bank Board, and the other functions transferred by this plan, are consolidated, subject to the provisions of sections 2 to 5, inclusive, hereof, into an agency which shall be known as the Housing and Home Finance Agency. There shall be in said Agency constituent agencies which shall be known as the Home Loan Bank Board, the Federal Housing Administration, and the Public Housing Administration.
 
 #### Sec. 2. Home Loan Bank Board
 
@@ -7656,7 +7656,7 @@ The Home Owners’ Loan Corporation, the Federal Savings and Loan Insurance Corp
 
 (b) The President shall designate one of the members of the Home Loan Bank Board as Chairman of the Board. The Chairman shall (1) be the chief executive officer of the Board, (2) appoint and direct the personnel necessary for the performance of the functions of the Board or of the Chairman or of any agency under the Board, and (3) designate the order in which the other members of the Board shall, during the absence or disability of the Chairman, be Acting Chairman and perform the duties of the Chairman.
 
-(c) Except as otherwise provided in subsection (b) of this section there are transferred to the Home Loan Bank Board the functions (1) of the Federal Home Loan Bank Board, (2) of the Board of Directors of the Home Owners’ Loan Corporation, (3) of the Board of Trustees of the Federal Savings and Loan Insurance Corporation, (4) of any member or members of any of said Boards, and (5) with respect to the dissolution of the United States Housing Corporation.
+(c) Except as otherwise provided in subsection (b) of this section there are transferred to the Home Loan Bank Board the functions (1) of the Federal Home Loan Bank Board, (2) of the Board of Directors of the Home Owners' Loan Corporation, (3) of the Board of Trustees of the Federal Savings and Loan Insurance Corporation, (4) of any member or members of any of said Boards, and (5) with respect to the dissolution of the United States Housing Corporation.
 
 #### Sec. 3. Federal Housing Administration
 
@@ -7668,7 +7668,7 @@ The Public Housing Administration shall be headed by a Public Housing Commission
 
 (a) Of the Administrator of the United States Housing Authority (which agency shall hereafter be administered and known as the Public Housing Administration);
 
-(b) Of the National Housing Agency with respect to non-farm housing projects and other properties remaining under its jurisdiction pursuant to section 2(a)(3) of the Farmers’ Home Administration Act of 1946 (Public Law 731, Seventy-ninth Congress, approved August 14, 1946) \[7 U.S.C. 1001 note\]; and
+(b) Of the National Housing Agency with respect to non-farm housing projects and other properties remaining under its jurisdiction pursuant to section 2(a)(3) of the Farmers' Home Administration Act of 1946 (Public Law 731, Seventy-ninth Congress, approved August 14, 1946) \[7 U.S.C. 1001 note\]; and
 
 (c) With respect to the liquidation and dissolution of the Defense Homes Corporation.
 
@@ -7676,7 +7676,7 @@ The Public Housing Administration shall be headed by a Public Housing Commission
 
 (a) The Housing and Home Finance Agency shall be headed by a Housing and Home Finance Administrator who shall be appointed by the President, by and with the advice and consent of the Senate, and shall receive compensation at the rate of $10,000 per annum.
 
-(b) The Administrator shall be responsible for the general supervision and coordination of the functions of the constituent agencies of the Housing and Home Finance Agency and for such purpose there are transferred to said Administrator the functions of the Federal Loan Administrator and the Federal Works Administrator (1) with respect to the Federal Home Loan Bank Board, the Home Owners’ Loan Corporation, the Federal Savings and Loan Insurance Corporation, the Federal Housing Administration, and the United States Housing Authority, and (2) with respect to the functions of said agencies.
+(b) The Administrator shall be responsible for the general supervision and coordination of the functions of the constituent agencies of the Housing and Home Finance Agency and for such purpose there are transferred to said Administrator the functions of the Federal Loan Administrator and the Federal Works Administrator (1) with respect to the Federal Home Loan Bank Board, the Home Owners' Loan Corporation, the Federal Savings and Loan Insurance Corporation, the Federal Housing Administration, and the United States Housing Authority, and (2) with respect to the functions of said agencies.
 
 (c) There are also transferred to the Administrator the functions—
 
@@ -7702,7 +7702,7 @@ The assets, contracts, property, records, personnel, and unexpended balances of 
 
 #### Sec. 9. Abolitions
 
-The Federal Home Loan Bank Board, the Board of Directors of the Home Owners’ Loan Corporation, and the Board of Trustees of the Federal Savings and Loan Insurance Corporation, together with the offices for the members of said boards, the office of Federal Housing Administrator, and the office of Administrator of the United States Housing Authority, are abolished.
+The Federal Home Loan Bank Board, the Board of Directors of the Home Owners' Loan Corporation, and the Board of Trustees of the Federal Savings and Loan Insurance Corporation, together with the offices for the members of said boards, the office of Federal Housing Administrator, and the office of Administrator of the United States Housing Authority, are abolished.
 
 \[For lapse of Housing and Home Finance Agency, Federal Housing Administration, and Public Housing Administration, and transfer of functions to Secretary of Housing and Urban Development, see 42 U.S.C. 3534 and Transfer of Functions note thereunder.\]
 
@@ -7728,7 +7728,7 @@ The grouping of housing functions in one establishment is essential to assure th
 
 It is vital that a sound permanent organization of housing activities be established at the earliest possible date in order to insure that housing functions will not be scattered among numerous agencies, with consequent confusion and disruption. To avoid this danger, and to accomplish the needed changes promptly, it is desirable to employ a reorganization plan under the Reorganization Act of 1945. No other area of Federal activity affords greater opportunity than housing for accomplishing the objectives of the Reorganization Act to group, consolidate, and coordinate functions, reduce the number of agencies, and promote efficiency and economy; and in no other area could the application of the Reorganization Act be more appropriate and necessary.
 
-In brief, this reorganization plan groups nearly all of the permanent housing agencies and functions of the Government, and the remaining emergency housing activities, in a Housing and Home Finance Agency, with the following constituent operating agencies: *(a)* A Home Loan Bank Board to administer the Federal Savings and Loan Insurance Corporation, the Home Owners’ Loan Corporation, and the functions of the Federal Home Loan Bank Board and its members; *(b)* a Federal Housing Administration with the same functions as now provided by law for that agency; and *(c)* a Public Housing Administration to take over the functions of the United States Housing Authority and certain remaining emergency housing activities pending the completion of their liquidation. Each constituent agency will possess its individual identity and be responsible for the operation of its program.
+In brief, this reorganization plan groups nearly all of the permanent housing agencies and functions of the Government, and the remaining emergency housing activities, in a Housing and Home Finance Agency, with the following constituent operating agencies: *(a)* A Home Loan Bank Board to administer the Federal Savings and Loan Insurance Corporation, the Home Owners' Loan Corporation, and the functions of the Federal Home Loan Bank Board and its members; *(b)* a Federal Housing Administration with the same functions as now provided by law for that agency; and *(c)* a Public Housing Administration to take over the functions of the United States Housing Authority and certain remaining emergency housing activities pending the completion of their liquidation. Each constituent agency will possess its individual identity and be responsible for the operation of its program.
 
 By reason of the reorganizations made by the plan, I have found it necessary to include therein provisions for the appointment of (1) an Administrator to head the Housing and Home Finance Agency, (2) the three members of the Home Loan Bank Board, and (3) two Commissioners to head the Federal Housing Administration and the Public Housing Administration, respectively. Each of these officers is to be appointed by the President by and with the advice and consent of the Senate.
 
@@ -7766,9 +7766,9 @@ Prepared by the President and transmitted to the Senate and the House of Represe
 
 The Bureau of Employment Security of the Federal Security Agency, including the United States Employment Service and the Unemployment Insurance Service, together with the functions thereof, is transferred as an organizational entity to the Department of Labor. The functions of the Federal Security Administrator with respect to employment services, unemployment compensation, and the Bureau of Employment Security, together with his functions under the Federal Unemployment Tax Act (as amended, and as affected by the provisions of Reorganization Plan No. 2 of 1946, 60 Stat. 1095, 26 U.S.C. \[former\] 1600–11) \[26 U.S.C. 3301 et seq.\], are transferred to the Secretary of Labor. The functions transferred by the provisions of this section shall be performed by the Secretary of Labor or, subject to his direction and control, by such officers, agencies, and employees of the Department of Labor as he shall designate.
 
-#### Sec. 2. Veterans’ Placement Service Board
+#### Sec. 2. Veterans' Placement Service Board
 
-The functions of the Veterans’ Placement Service Board under Title IV of the Servicemen's Readjustment Act of 1944 (58 Stat. 284, as amended; 38 U.S.C. 695–695f) \[see 38 U.S.C. 2001 et seq.\] are transferred to and shall be performed by the Secretary of Labor. The functions of the Chairman of the said Veterans’ Placement Service Board are transferred to the Secretary of Labor and shall be performed by the Secretary or, subject to his direction and control, by the Chief of the Veterans’ Employment Service. The Veterans’ Placement Service Board is abolished.
+The functions of the Veterans' Placement Service Board under Title IV of the Servicemen's Readjustment Act of 1944 (58 Stat. 284, as amended; 38 U.S.C. 695–695f) \[see 38 U.S.C. 2001 et seq.\] are transferred to and shall be performed by the Secretary of Labor. The functions of the Chairman of the said Veterans' Placement Service Board are transferred to the Secretary of Labor and shall be performed by the Secretary or, subject to his direction and control, by the Chief of the Veterans' Employment Service. The Veterans' Placement Service Board is abolished.
 
 #### Sec. 3. Federal Advisory Council
 
@@ -7782,7 +7782,7 @@ There are transferred to the Department of Labor, for use in connection with the
 
 To the Congress of the United States:
 
-I transmit herewith Reorganization Plan No. 2 of 1949, prepared in accordance with the provisions of the Reorganization Act of 1949. This plan transfers the Bureau of Employment Security, now in the Federal Security Agency, to the Department of Labor and vests in the Secretary of Labor the functions of the Federal Security Administrator with respect to employment services and unemployment compensation, the latter of which is now more commonly referred to as unemployment insurance. The plan also transfers to the Secretary of Labor the functions of the Veterans’ Placement Service Board and of its Chairman and abolishes that Board. These changes are in general accord with recommendations made by the Commission on Organization of the Executive Branch of the Government.
+I transmit herewith Reorganization Plan No. 2 of 1949, prepared in accordance with the provisions of the Reorganization Act of 1949. This plan transfers the Bureau of Employment Security, now in the Federal Security Agency, to the Department of Labor and vests in the Secretary of Labor the functions of the Federal Security Administrator with respect to employment services and unemployment compensation, the latter of which is now more commonly referred to as unemployment insurance. The plan also transfers to the Secretary of Labor the functions of the Veterans' Placement Service Board and of its Chairman and abolishes that Board. These changes are in general accord with recommendations made by the Commission on Organization of the Executive Branch of the Government.
 
 After investigation, I have found and hereby declare that each reorganization included in Reorganization Plan No. 2 of 1949 is necessary to accomplish one or more of the purposes set forth in section 2(a) of said act. The primary benefits from these reorganizations will take the form of improvements in administration and service. It is probable that a significant reduction in expenditures will result from the taking effect of the plan as compared with the current estimates and work-load assumptions contained in the 1950 budget as amended, but an itemization of such savings is not possible in advance of the transfer.
 
@@ -7808,11 +7808,11 @@ The transfer of the Bureau of Employment Security, including the United States E
 
 The plan also transfers to the Department of Labor the Federal Advisory Council created by the act establishing the United States Employment Service. This Council consists of outstanding representatives of labor, management, and the public who are especially familiar with employment problems.
 
-#### veterans’ placement service board
+#### veterans' placement service board
 
-Although the Veterans’ Employment Service operates through the regular employment office system, its policies are determined by the Veterans’ Placement Service Board created by the Servicemen's Readjustment Act of 1944. This Board consists of the heads of three Federal agencies, only one of which administers employment services. Furthermore, the full-time director of the Service is appointed by the Chairman of this Board, who is not otherwise engaged in employment-service activity, rather than by the head of the agency within which the service is administered. Such an arrangement is cumbersome and results in an undue division of authority and responsibility.
+Although the Veterans' Employment Service operates through the regular employment office system, its policies are determined by the Veterans' Placement Service Board created by the Servicemen's Readjustment Act of 1944. This Board consists of the heads of three Federal agencies, only one of which administers employment services. Furthermore, the full-time director of the Service is appointed by the Chairman of this Board, who is not otherwise engaged in employment-service activity, rather than by the head of the agency within which the service is administered. Such an arrangement is cumbersome and results in an undue division of authority and responsibility.
 
-In order to simplify the administration of the Veterans’ Employment Service and assure the fullest cooperation between it and the general employment service, the plan eliminates the Veterans’ Placement Service Board and transfers its functions and those of its Chairman to the Secretary of Labor. By thus concentrating responsibility for the success of the Service, the plan will make for better service to the veteran seeking employment or vocational counseling.
+In order to simplify the administration of the Veterans' Employment Service and assure the fullest cooperation between it and the general employment service, the plan eliminates the Veterans' Placement Service Board and transfers its functions and those of its Chairman to the Secretary of Labor. By thus concentrating responsibility for the success of the Service, the plan will make for better service to the veteran seeking employment or vocational counseling.
 
 This plan is a major step in the rebuilding and strengthening of the Department of Labor, which I am convinced is essential to the sound and efficient organization of the executive branch of the Government.
 
@@ -7996,7 +7996,7 @@ Prepared by the President and transmitted to the Senate and the House of Represe
 
 #### DEPARTMENT OF JUSTICE
 
-Sections 1–5. \[Repealed. Pub. L. 89–554, §8(a), Sept. 6, 1966, 80 Stat. 662. Section 1, transferred to the Attorney General, all functions of other officers, agencies and employees of Department of Justice, with certain exceptions, see 28 U.S.C. 509. Section 2, provided for performance of Attorney General's functions by such other officer, agency or employee as he might authorize, see 28 U.S.C. 510. Section 3, changed title of “The Assistant to the Attorney General” to “Deputy Attorney General”, see 28 U.S.C. 504. Sections 4, 5, provided for positions of Assistant Attorney General and Administrative Assistant Attorney General, respectively, see 28 U.S.C. 506, 507.\]
+Sections 1–5. \[Repealed. Pub. L. 89–554, §8(a), Sept. 6, 1966, 80 Stat. 662. Section 1, transferred to the Attorney General, all functions of other officers, agencies and employees of Department of Justice, with certain exceptions, see 28 U.S.C. 509. Section 2, provided for performance of Attorney General's functions by such other officer, agency or employee as he might authorize, see 28 U.S.C. 510. Section 3, changed title of "The Assistant to the Attorney General" to "Deputy Attorney General", see 28 U.S.C. 504. Sections 4, 5, provided for positions of Assistant Attorney General and Administrative Assistant Attorney General, respectively, see 28 U.S.C. 506, 507.\]
 
 #### Sec. 6. Incidental Transfers
 
@@ -8332,7 +8332,7 @@ The plan is in general accord with the recommendations of the Commission on Orga
 
 After investigation I have found and hereby declare that the reorganization contained in this plan is necessary to accomplish one or more of the purposes set forth in section 2(a) of the Reorganization Act of 1949.
 
-There are several laws regulating wages and hours of workers employed on Federal contracts for public works or construction. The “eight hour laws” limit the employment of laborers and mechanics on such projects to 8 hours per day and permit their employment in excess of that limit only upon condition that time and one-half the basic-wage rate is paid for the excess hours. The Davis-Bacon Act provides that the minimum rates of pay for laborers and mechanics on certain Federal public-works contracts shall be those prevailing for the corresponding classes of workers in the locality as determined by the Secretary of Labor. The Copeland anti-kick-back law prohibits the exaction of rebates or kick-backs from workers employed on the construction of Federal public works or works financed by the Federal Government and authorizes the Secretary of Labor to make regulations for contractors engaged on such projects.
+There are several laws regulating wages and hours of workers employed on Federal contracts for public works or construction. The "eight hour laws" limit the employment of laborers and mechanics on such projects to 8 hours per day and permit their employment in excess of that limit only upon condition that time and one-half the basic-wage rate is paid for the excess hours. The Davis-Bacon Act provides that the minimum rates of pay for laborers and mechanics on certain Federal public-works contracts shall be those prevailing for the corresponding classes of workers in the locality as determined by the Secretary of Labor. The Copeland anti-kick-back law prohibits the exaction of rebates or kick-backs from workers employed on the construction of Federal public works or works financed by the Federal Government and authorizes the Secretary of Labor to make regulations for contractors engaged on such projects.
 
 In addition to the above statutes, there are several acts which require the payment of prevailing-wage rates, as determined by the Secretary of Labor, to laborers and mechanics employed on construction financed in whole or in part by loans or grants from the Federal Government or by mortgages guaranteed by the Federal Government. These acts are: the National Housing Act, the Housing Act of 1949, the Federal Airport Act, and the Hospital Survey and Construction Act of 1946.
 
@@ -8360,7 +8360,7 @@ Prepared by the President and transmitted to the Senate and the House of Represe
 
 #### Section 1. Transfer of Functions
 
-There are hereby transferred to the Secretary of the Interior all functions of the Administrator of General Services under the Alaska Public Works Act, approved August 24, 1949, and under the Act of December 20, 1944, 58 Stat. 827, entitled “An Act to assist in the internal development of the Virgin Islands by the undertaking of useful projects therein, and for other purposes,” as amended \[48 U.S.C. 1409 et seq.\], together with so much of any other function of the Administrator of General Services or of the General Services Administration as is incidental to or necessary for the carrying out of the provisions of such Acts.
+There are hereby transferred to the Secretary of the Interior all functions of the Administrator of General Services under the Alaska Public Works Act, approved August 24, 1949, and under the Act of December 20, 1944, 58 Stat. 827, entitled "An Act to assist in the internal development of the Virgin Islands by the undertaking of useful projects therein, and for other purposes," as amended \[48 U.S.C. 1409 et seq.\], together with so much of any other function of the Administrator of General Services or of the General Services Administration as is incidental to or necessary for the carrying out of the provisions of such Acts.
 
 #### Sec. 2. Performance of Transferred Functions
 
@@ -8398,7 +8398,7 @@ Prepared by the President and transmitted to the Senate and the House of Represe
 
 #### Section 1. Transfer of Functions
 
-There are hereby transferred to the Federal Security Administrator all functions of the Administrator of General Services under the Act of September 10, 1949, entitled “An Act to provide assistance for local school agencies in providing educational opportunities for children on Federal reservations or in defense areas, and for other purposes \[former 20 U.S.C. 231–235\],” and under the Water Pollution Control Act, approved June 30, 1948, as amended \[33 U.S.C. 1151 et seq., see 33 U.S.C. 1251 et seq.\], together with so much of any other function of the Administrator of General Services or of the General Services Administration as is incidental to or necessary for the carrying out of the provisions of such Acts.
+There are hereby transferred to the Federal Security Administrator all functions of the Administrator of General Services under the Act of September 10, 1949, entitled "An Act to provide assistance for local school agencies in providing educational opportunities for children on Federal reservations or in defense areas, and for other purposes \[former 20 U.S.C. 231–235\]," and under the Water Pollution Control Act, approved June 30, 1948, as amended \[33 U.S.C. 1151 et seq., see 33 U.S.C. 1251 et seq.\], together with so much of any other function of the Administrator of General Services or of the General Services Administration as is incidental to or necessary for the carrying out of the provisions of such Acts.
 
 #### Sec. 2. Performance of Transferred Functions
 
@@ -8440,11 +8440,11 @@ Prepared by the President and transmitted to the Senate and the House of Represe
 
 Except as otherwise provided in section 2 of this reorganization plan, there are hereby transferred to the Housing and Home Finance Administrator all functions of the Administrator of General Services under,
 
-(1) the Act of October 13, 1949, entitled “An Act to provide for the advance planning of non-Federal public works \[former 40 U.S.C. 451 et seq.\],”
+(1) the Act of October 13, 1949, entitled "An Act to provide for the advance planning of non-Federal public works \[former 40 U.S.C. 451 et seq.\],"
 
 (2) title V of the War Mobilization and Reconversion Act of 1944, 58 Stat. 791, as amended \[50 U.S.C. App. 1671\], and
 
-(3) title II of the Act of October 14, 1940, entitled “An Act to expedite the provision of housing in connection with national defense, and for other purposes,” as amended \[42 U.S.C. 1531–1535\], together with so much of any other function of the Administrator of General Services or of the General Services Administration as is incidental to or necessary for the carrying out of the foregoing provisions of law.
+(3) title II of the Act of October 14, 1940, entitled "An Act to expedite the provision of housing in connection with national defense, and for other purposes," as amended \[42 U.S.C. 1531–1535\], together with so much of any other function of the Administrator of General Services or of the General Services Administration as is incidental to or necessary for the carrying out of the foregoing provisions of law.
 
 #### Sec. 2. Functions Excepted From Transfer
 
@@ -8568,7 +8568,7 @@ The White House, March 13, 1950.
 
 ## **REORGANIZATION PLAN NO. 19 OF 1950**
 
-Reorg. Plan No. 19 of 1950, 15 F.R. 3178, 64 Stat. 1271, which related to employees’ compensation functions, was repealed by Pub. L. 89–554, §8(a), Sept. 6, 1966, 80 Stat. 662. See sections 8145 and 8149 of Title 5, Government Organization and Employees.
+Reorg. Plan No. 19 of 1950, 15 F.R. 3178, 64 Stat. 1271, which related to employees' compensation functions, was repealed by Pub. L. 89–554, §8(a), Sept. 6, 1966, 80 Stat. 662. See sections 8145 and 8149 of Title 5, Government Organization and Employees.
 
 ## **REORGANIZATION PLAN NO. 20 OF 1950**
 
@@ -8652,7 +8652,7 @@ Secs. 203, 204. \[Repealed. Pub. L. 109–304, §19, Oct. 6, 2006, 120 Stat. 171
 
 #### Sec. 301. Under Secretary of Commerce for Transportation
 
-There shall be in the Department of Commerce an additional office of Under Secretary with the title “Under Secretary of Commerce for Transportation.” The Under Secretary of Commerce for Transportation shall be appointed by the President, by and with the advice and consent of the Senate, shall receive compensation at the rate prescribed by law for Under Secretaries of Executive departments, and shall perform such duties as the Secretary of Commerce shall prescribe.
+There shall be in the Department of Commerce an additional office of Under Secretary with the title "Under Secretary of Commerce for Transportation." The Under Secretary of Commerce for Transportation shall be appointed by the President, by and with the advice and consent of the Senate, shall receive compensation at the rate prescribed by law for Under Secretaries of Executive departments, and shall perform such duties as the Secretary of Commerce shall prescribe.
 
 Secs. 302–307. \[Superseded. Reorg. Plan No. 7 of 1961, §305, eff. Aug. 12, 1961, 26 F.R. 7315, 75 Stat. 840. Section 302 provided that person who was both Administrator and Chairman was to make joint use of the personnel under his supervision. Section 303 made conflict of interest provisions of the Merchant Marine Act, 1936, applicable to members of the Federal Maritime Board and officers and employees of the Board or of the Maritime Administration. Section 304 allowed the President to make interim appointments to the Federal Maritime Board from officers of the Executive Branch. Section 305 transferred to the Department of Commerce all property, personnel, records, and funds of the United States Maritime Commission. Section 306 abolished the United States Maritime Commission. Section 307 provided that the functions transferred by this reorganization plan would not be subject to Reorg. Plan No. 5 of 1950.\]
 
@@ -8764,7 +8764,7 @@ The provisions of this reorganization plan shall take effect 60 days after they 
 
 To the Congress of the United States:
 
-I transmit herewith Reorganization Plan No. 22 of 1950, prepared in accordance with the provisions of the Reorganization Act of 1949. The plan improves the grouping of Government programs according to their major purposes by transferring the Federal National Mortgage Association from the Reconstruction Finance Corporation to the Housing and Home Finance Agency. This reorganization carries out the specific recommendation of the Commission on Organization of the Executive Branch of the Government that “The Federal National Mortgage Association be placed under the Administrator of the Housing and Home Finance Agency.”
+I transmit herewith Reorganization Plan No. 22 of 1950, prepared in accordance with the provisions of the Reorganization Act of 1949. The plan improves the grouping of Government programs according to their major purposes by transferring the Federal National Mortgage Association from the Reconstruction Finance Corporation to the Housing and Home Finance Agency. This reorganization carries out the specific recommendation of the Commission on Organization of the Executive Branch of the Government that "The Federal National Mortgage Association be placed under the Administrator of the Housing and Home Finance Agency."
 
 At present, the Federal National Mortgage Association, a wholly owned Government corporation, is a subsidiary of the Reconstruction Finance Corporation. Its purpose is to provide a secondary market for home mortgages insured or guaranteed by other Government agencies through the purchase, service, and sale of such mortgages. In addition, it is authorized to make direct loans for housing in Alaska. As of the end of March 1950 its total holdings were approximately a billion dollars and its outstanding commitments to purchase were more than $1,400,000,000 in addition. Such a volume of activity has an obvious impact on the Government's entire housing program.
 
@@ -8802,7 +8802,7 @@ Prepared by the President and transmitted to the Senate and the House of Represe
 
 There are hereby transferred to the Housing and Home Finance Administrator, hereinafter referred to as the Administrator—
 
-(1) all functions of the Reconstruction Finance Corporation, hereinafter referred to as the “Corporation,” under section 102 of the Housing Act of 1948, as amended \[12 U.S.C. 1701g\];
+(1) all functions of the Reconstruction Finance Corporation, hereinafter referred to as the "Corporation," under section 102 of the Housing Act of 1948, as amended \[12 U.S.C. 1701g\];
 
 (2) all other functions of the Corporation, under the Reconstruction Finance Corporation Act, as amended \[15 U.S.C. 601 et seq.\]; or any other law, with respect to financing predominantly for the production, manufacture, distribution, sale, purchase, or erection of prefabricated houses, sections, or panels or site improvements therefor;
 
@@ -8828,9 +8828,9 @@ The provisions of this reorganization plan shall take effect sixty days after th
 
 To the Congress of the United States:
 
-I transmit herewith Reorganization Plan No. 23 of 1950, prepared in accordance with the provisions of the Reorganization Act of 1949. The plan further promotes the grouping of Government programs according to their major purposes by transferring from the Reconstruction Finance Corporation to the Housing and Home Finance Agency the lending functions of the Government with respect to the production and distribution of prefabricated houses and components. This reorganization would be consistent with the objective set by the Commission on Organization of the Executive Branch of the Government which recommended that “all housing activities be placed in one agency under a single administrator.”
+I transmit herewith Reorganization Plan No. 23 of 1950, prepared in accordance with the provisions of the Reorganization Act of 1949. The plan further promotes the grouping of Government programs according to their major purposes by transferring from the Reconstruction Finance Corporation to the Housing and Home Finance Agency the lending functions of the Government with respect to the production and distribution of prefabricated houses and components. This reorganization would be consistent with the objective set by the Commission on Organization of the Executive Branch of the Government which recommended that "all housing activities be placed in one agency under a single administrator."
 
-Under its general powers pursuant to the Reconstruction Finance Corporation Act, and pursuant to the Veterans’ Emergency Housing Act of 1946, the Reconstruction Finance Corporation has made a number of loans to finance the production, distribution, and marketing of prefabricated houses and components. In addition, under section 102 of the Housing Act of 1948, the Reconstruction Finance Corporation is specifically authorized to make loans, not exceeding $50,000,000 outstanding at any one time, to finance the production of such housing. The greater portion of the loans so authorized have been made and are now outstanding.
+Under its general powers pursuant to the Reconstruction Finance Corporation Act, and pursuant to the Veterans' Emergency Housing Act of 1946, the Reconstruction Finance Corporation has made a number of loans to finance the production, distribution, and marketing of prefabricated houses and components. In addition, under section 102 of the Housing Act of 1948, the Reconstruction Finance Corporation is specifically authorized to make loans, not exceeding $50,000,000 outstanding at any one time, to finance the production of such housing. The greater portion of the loans so authorized have been made and are now outstanding.
 
 The development of an efficient prefabricated housing industry is an essential part of the total housing program. It, therefore, requires integration with the major housing activities of the Federal Government.
 
@@ -8880,7 +8880,7 @@ To the Congress of the United States:
 
 I transmit herewith Reorganization Plan No. 25 of 1950, prepared in accordance with the provisions of the Reorganization Act of 1949. The plan transfers the function of the National Security Resources Board from the Board to the Chairman of the Board and makes the Board advisory to the Chairman. The plan also provides for a Vice Chairman, appointed by the President and confirmed by the Senate.
 
-The function assigned to the National Security Resources Board by the National Security Act of 1947 is “to advise the President concerning the coordination of military, industrial and civilian mobilization.” Proper performance of this function requires action by the Board and its staff in two broad areas:
+The function assigned to the National Security Resources Board by the National Security Act of 1947 is "to advise the President concerning the coordination of military, industrial and civilian mobilization." Proper performance of this function requires action by the Board and its staff in two broad areas:
 
 (1) The conduct of advance mobilization planning which identifies the problems which will arise and the measures necessary to meet these problems if and when the Nation moves from a peacetime into a wartime situation.
 
@@ -9060,7 +9060,7 @@ There are abolished the offices of Assistant Commissioner, Special Deputy Commis
 
 #### Sec. 2. Establishment of New Offices
 
-(a) New offices are hereby established in the Bureau of Internal Revenue as follows: (1) three offices each of which shall have the title of “Assistant Commissioner of Internal Revenue”; (2) so many offices, not in excess of 25 existing at any one time, as the Secretary of the Treasury shall from time to time determine, each of which shall have the title of “District Commissioner of Internal Revenue”; and (3) so many other offices, not in excess of 70 existing at any one time, and with such title or titles, as the Secretary of the Treasury shall from time to time determine.
+(a) New offices are hereby established in the Bureau of Internal Revenue as follows: (1) three offices each of which shall have the title of "Assistant Commissioner of Internal Revenue"; (2) so many offices, not in excess of 25 existing at any one time, as the Secretary of the Treasury shall from time to time determine, each of which shall have the title of "District Commissioner of Internal Revenue"; and (3) so many other offices, not in excess of 70 existing at any one time, and with such title or titles, as the Secretary of the Treasury shall from time to time determine.
 
 (b) \[Repealed. Pub. L. 97–258, §5(b), Sept. 13, 1982, 96 Stat. 1068, 1085. Subsection established a new and additional office of Assistant General Counsel. See 31 U.S.C. 301.\]
 
@@ -9080,7 +9080,7 @@ I transmit herewith Reorganization Plan No. 1 of 1952, prepared in accordance wi
 
 A comprehensive reorganization of that Bureau is necessary both to increase the efficiency of its operations and to provide better machinery for assuring honest and impartial administration of the internal revenue laws. The reorganization plan transmitted with this message is essential to accomplish the basic changes in the structure of the Bureau of Internal Revenue which are necessary for the kind of comprehensive reorganization that is now required.
 
-By bringing additional personnel in the Bureau of Internal Revenue under the merit system, Reorganization Plan No. 1 likewise removes what the Commission on Organization of the Executive Branch of the Government described as “one of the chief handicaps to effective organization of the Department \* \* \*.”
+By bringing additional personnel in the Bureau of Internal Revenue under the merit system, Reorganization Plan No. 1 likewise removes what the Commission on Organization of the Executive Branch of the Government described as "one of the chief handicaps to effective organization of the Department \* \* \*."
 
 It is my determination to maintain the highest standards of integrity and efficiency in the Federal service. While those standards have been observed faithfully by all but a relatively few public servants, the betrayal of their trust by those few demands the strongest corrective action.
 
@@ -9304,9 +9304,9 @@ Prepared by the President and transmitted to the Senate and the House of Represe
 
 #### Section 1. Establishment of Office
 
-(a) There is hereby established in the Executive Office of the President a new agency which shall be known as the Office of Defense Mobilization, hereinafter referred to as the “Office.”
+(a) There is hereby established in the Executive Office of the President a new agency which shall be known as the Office of Defense Mobilization, hereinafter referred to as the "Office."
 
-(b) There shall be at the head of the Office a Director of the Office of Defense Mobilization, hereinafter referred to as the “Director,” who shall be appointed by the President by and with the advice and consent of the Senate and shall receive compensation at the rate of $22,500 per annum.
+(b) There shall be at the head of the Office a Director of the Office of Defense Mobilization, hereinafter referred to as the "Director," who shall be appointed by the President by and with the advice and consent of the Senate and shall receive compensation at the rate of $22,500 per annum.
 
 (c) There shall be in the Office a Deputy Director of the Office of Defense Mobilization, who shall be appointed by the President, by and with the advice and consent of the Senate, shall receive compensation at the rate of $17,500 per annum, shall perform such functions as the Director shall designate, and shall act as Director during the absence or disability of the Director or in the event of a vacancy in the office of the Director.
 
@@ -9432,7 +9432,7 @@ The following are hereby abolished: (1) The Board of Directors of the Export-Imp
 
 Sections 3 to 7, inclusive, of this reorganization plan shall become effective when the Managing Director first appointed hereunder enters upon office pursuant to the provisions of this reorganization plan.
 
-\[A Board of Directors was reestablished for the Export-Import Bank of Washington by section 1 of act Aug. 9, 1954, ch. 660, 68 Stat. 677, amending 12 U.S.C. 635a. The Board had previously been abolished and its functions transferred to the Managing Director of the Bank by Reorg. Plan No. 5 of 1953, set out above. The 1953 Reorg. Plan was superseded by sections 1, 4 of act Aug. 9, 1954. See 12 U.S.C. 635a and 1954 Amendment and Effective Date of 1954 Amendment notes thereunder. The “Export-Import Bank of Washington” was renamed the “Export-Import Bank of the United States” by Pub. L. 90–267, §1(a), Mar. 13, 1968, 82 Stat. 47.\]
+\[A Board of Directors was reestablished for the Export-Import Bank of Washington by section 1 of act Aug. 9, 1954, ch. 660, 68 Stat. 677, amending 12 U.S.C. 635a. The Board had previously been abolished and its functions transferred to the Managing Director of the Bank by Reorg. Plan No. 5 of 1953, set out above. The 1953 Reorg. Plan was superseded by sections 1, 4 of act Aug. 9, 1954. See 12 U.S.C. 635a and 1954 Amendment and Effective Date of 1954 Amendment notes thereunder. The "Export-Import Bank of Washington" was renamed the "Export-Import Bank of the United States" by Pub. L. 90–267, §1(a), Mar. 13, 1968, 82 Stat. 47.\]
 
 #### Message of the President
 
@@ -9896,7 +9896,7 @@ There are hereby transferred to each transferee agency so much of the functions 
 
 #### Sec. 4. Definition
 
-As used in this reorganization plan, the term “transferee agencies” means the Export-Import Bank of Washington, the Small Business Administration, and the Federal National Mortgage Association.
+As used in this reorganization plan, the term "transferee agencies" means the Export-Import Bank of Washington, the Small Business Administration, and the Federal National Mortgage Association.
 
 #### Sec. 5. Effective Date
 
@@ -9940,11 +9940,11 @@ Prepared by the President and transmitted to the Senate and the House of Represe
 
 As used in this reorganization plan:
 
-(a) The term “Corporation” means the Reconstruction Finance Corporation.
+(a) The term "Corporation" means the Reconstruction Finance Corporation.
 
-(b) The term “remaining functions” means (1) all functions of the Corporation, (2) except as otherwise provided in subsections (b) and (c) of section 6 of this reorganization plan, all functions of the Secretary of the Treasury under section 10 of the Reconstruction Finance Corporation Act, as amended (15 U.S.C. 609), and (3) all functions of the Secretary of the Treasury under sections 102 and 106(b) of the Reconstruction Finance Corporation Liquidation Act (67 Stat. 230, 231), as amended \[15 U.S.C. 609 note\].
+(b) The term "remaining functions" means (1) all functions of the Corporation, (2) except as otherwise provided in subsections (b) and (c) of section 6 of this reorganization plan, all functions of the Secretary of the Treasury under section 10 of the Reconstruction Finance Corporation Act, as amended (15 U.S.C. 609), and (3) all functions of the Secretary of the Treasury under sections 102 and 106(b) of the Reconstruction Finance Corporation Liquidation Act (67 Stat. 230, 231), as amended \[15 U.S.C. 609 note\].
 
-(c) The term “transferees” means the Housing and Home Finance Administrator, the Administrator of General Services, the Administrator of the Small Business Administration, and the Secretary of the Treasury.
+(c) The term "transferees" means the Housing and Home Finance Administrator, the Administrator of General Services, the Administrator of the Small Business Administration, and the Secretary of the Treasury.
 
 #### Sec. 2. Transfer of Functions
 
@@ -10162,7 +10162,7 @@ Prepared by the President and transmitted to the Senate and the House of Represe
 
 #### Section 1. Authority To Delegate
 
-(a) In addition to its existing authority, the Federal Trade Commission, hereinafter referred to as the “Commission”, shall have the authority to delegate, by published order or rule, any of its functions to a division of the Commission, an individual Commissioner, a hearing examiner, or an employee or employee board, including functions with respect to hearing, determining, ordering, certifying, reporting or otherwise acting as to any work, business, or matter: *Provided, however*, That nothing herein contained shall be deemed to supersede the provisions of section 7(a) of the Administrative Procedure Act (60 Stat. 241), as amended \[see 5 U.S.C. 556\].
+(a) In addition to its existing authority, the Federal Trade Commission, hereinafter referred to as the "Commission", shall have the authority to delegate, by published order or rule, any of its functions to a division of the Commission, an individual Commissioner, a hearing examiner, or an employee or employee board, including functions with respect to hearing, determining, ordering, certifying, reporting or otherwise acting as to any work, business, or matter: *Provided, however*, That nothing herein contained shall be deemed to supersede the provisions of section 7(a) of the Administrative Procedure Act (60 Stat. 241), as amended \[see 5 U.S.C. 556\].
 
 (b) With respect to the delegation of any of its functions, as provided in subsection (a) of this section, the Commission shall retain a discretionary right to review the action of any such division of the Commission, individual Commissioner, hearing examiner, employee or employee board, upon its own initiative or upon petition of a party to or an intervenor in such action, within such time and in such manner as the Commission shall by rule prescribe: *Provided, however*, That the vote of a majority of the Commission less one member thereof shall be sufficient to bring any such action before the Commission for review.
 
@@ -10248,7 +10248,7 @@ I transmit herewith Reorganization Plan No. 6 of 1961, prepared in accordance wi
 
 Reorganization Plan No. 6 of 1961 relates to my message of April 13, 1961, to the Congress regarding regulatory agencies and, in particular, to that portion of the message advocating the fixing of responsibility for the overall administration of multiheaded agencies in their chairmen. The reorganization plan also is in keeping with actions begun by President Truman, largely through reorganization plans, to strengthen the internal management of multiheaded agencies by making their chairmen, rather than the boards or commissions as a whole, responsible for day-to-day administration.
 
-The first Commission on Organization of the Executive Branch of the Government concluded that purely executive duties can be performed far better by a single administrative official and stated: “Administration by a plural executive is universally regarded as inefficient.” Also, as a matter of sound organization, the Congress and the President should be able to hold a single official rather than a group accountable for the effective management of an agency. The reorganization plan will meet both of those needs by placing responsibility and authority for the administration of the activities of the Federal Home Loan Bank Board in the Chairman of the Board. By relieving the Board of day-to-day managerial functions, the reorganization plan will significantly further the ability of the Board to deal more effectively with regulatory and policy matters before it.
+The first Commission on Organization of the Executive Branch of the Government concluded that purely executive duties can be performed far better by a single administrative official and stated: "Administration by a plural executive is universally regarded as inefficient." Also, as a matter of sound organization, the Congress and the President should be able to hold a single official rather than a group accountable for the effective management of an agency. The reorganization plan will meet both of those needs by placing responsibility and authority for the administration of the activities of the Federal Home Loan Bank Board in the Chairman of the Board. By relieving the Board of day-to-day managerial functions, the reorganization plan will significantly further the ability of the Board to deal more effectively with regulatory and policy matters before it.
 
 Action to strengthen the management of the Federal Home Loan Bank Board and to relieve the Board of day-to-day operating responsibility is particularly needed because of the phenomenal growth of the Board's activities in recent years. By way of example, the number of institutions that are members of the Federal home loan bank system and subject to the Board's supervision has increased from 3,898 in 1950 to 4,552 at present. In the same period the assets of those institutions have increased almost fivefold from $15.4 billion to $71 billion. In fiscal year 1950 the Board examined 2,450 institutions; in fiscal 1961 about 4,224 examinations will be conducted. The personnel of the Board have more than doubled in number in the last decade to handle the increased workload.
 
@@ -10414,7 +10414,7 @@ Sec. 4. \[Repealed. Pub. L. 94–282, title V, §502, May 11, 1976, 90 Stat. 472
 
 (b) There are also hereby abolished:
 
-(1) The functions conferred upon the National Science Board by that part of section 6(a) of the National Science Foundation Act of 1950 (42 U.S.C. 1865(a)) which reads “The Board is authorized to appoint from among its members an Executive Committee”.
+(1) The functions conferred upon the National Science Board by that part of section 6(a) of the National Science Foundation Act of 1950 (42 U.S.C. 1865(a)) which reads "The Board is authorized to appoint from among its members an Executive Committee".
 
 (2) The functions of the Director of the National Science Foundation provided for in sections 4(a) and 5 (a) of the National Science Foundation Act of 1950 (42 U.S.C. 1863(a); 1864(a)) with respect to serving as a nonvoting member of the Board and his functions with respect to serving as a nonvoting member of the Executive Committee provided for in section 6(b) of that Act (42 U.S.C. 1865(b)).
 
@@ -10560,7 +10560,7 @@ Prepared by the President and transmitted to the Senate and the House of Represe
 
 #### Section 1. Abolition of Offices
 
-All offices in the Bureau of Customs of the Department of the Treasury of collector of customs, comptroller of customs, surveyor of customs, and appraiser of merchandise to which appointments are required to be made by the President, by and with the advice and consent of the Senate, are abolished. The foregoing provisions shall become effective with respect to each office abolished thereby at such time, not later than December 31, 1966, as the Secretary of the Treasury shall specify, but nothing herein shall empower the Secretary to increase the term of any office beyond that provided by law for such office or affect his authority under the first paragraph under the heading “TREASURY DEPARTMENT” appearing in the Act of March 2, 1895 (ch. 187, 28 Stat. 844; 5 U.S.C. 252) \[31 U.S.C. 309\], to retain in office, prior to December 31, 1966, those persons whose offices are to be terminated under this reorganization plan.
+All offices in the Bureau of Customs of the Department of the Treasury of collector of customs, comptroller of customs, surveyor of customs, and appraiser of merchandise to which appointments are required to be made by the President, by and with the advice and consent of the Senate, are abolished. The foregoing provisions shall become effective with respect to each office abolished thereby at such time, not later than December 31, 1966, as the Secretary of the Treasury shall specify, but nothing herein shall empower the Secretary to increase the term of any office beyond that provided by law for such office or affect his authority under the first paragraph under the heading "TREASURY DEPARTMENT" appearing in the Act of March 2, 1895 (ch. 187, 28 Stat. 844; 5 U.S.C. 252) \[31 U.S.C. 309\], to retain in office, prior to December 31, 1966, those persons whose offices are to be terminated under this reorganization plan.
 
 #### Sec. 2. Transfer of Functions
 
@@ -10580,9 +10580,9 @@ To the Congress of the United States:
 
 All that we do to serve the people of this land must be done, as has been my insistent pledge, with the least cost and the most effectiveness.
 
-In my state of the Union message, I announced it was this administration's intention to “reshape and reorganize” the executive branch. This goal had one objective: “to meet more effectively the tasks of today.”
+In my state of the Union message, I announced it was this administration's intention to "reshape and reorganize" the executive branch. This goal had one objective: "to meet more effectively the tasks of today."
 
-I report today now one step taken forward toward that goal as part of our progress “on new economies we were planning to make.”
+I report today now one step taken forward toward that goal as part of our progress "on new economies we were planning to make."
 
 I submit today a plan for reorganization in the Bureau of Customs of the Department of the Treasury.
 
@@ -10752,7 +10752,7 @@ The President may from time to time make such provisions as he may deem appropri
 
 #### Section 11. Transfer of Functions
 
-(a) \[Repealed. Pub. L. 90–83, §10(c), Sept. 11, 1967, 81 Stat. 224. Subsection transferred to the Chairman of the United States Civil Service Commission all functions of the Advisory Council on Group Insurance, provided for in section 12(a) of the Federal Employees’ Group Life Insurance Act of 1954, 68 Stat. 742 (5 U.S.C. 2101(a)) \[5 U.S.C. 8713(a)(1)–(3)\].
+(a) \[Repealed. Pub. L. 90–83, §10(c), Sept. 11, 1967, 81 Stat. 224. Subsection transferred to the Chairman of the United States Civil Service Commission all functions of the Advisory Council on Group Insurance, provided for in section 12(a) of the Federal Employees' Group Life Insurance Act of 1954, 68 Stat. 742 (5 U.S.C. 2101(a)) \[5 U.S.C. 8713(a)(1)–(3)\].
 
 (b) There are hereby transferred to the Administrator of the Small Business Administration all functions of the Loan Policy Board of the Small Business Administration, provided for in section 4(d) of the Small Business Act, 72 Stat. 385 (15 U.S.C. 633(d)).
 
@@ -11000,7 +11000,7 @@ To the Congress of the United States:
 
 I transmit herewith Reorganization Plan No. 2 of 1966, prepared in accordance with the provisions of the Reorganization Act of 1949, as amended, and providing for reorganization of certain water pollution control functions.
 
-Thirty-five years ago Justice Oliver Wendell Holmes said: “A river is more than an amenity, it is a treasure.”
+Thirty-five years ago Justice Oliver Wendell Holmes said: "A river is more than an amenity, it is a treasure."
 
 Only recently has the truth of this observation entered the public conscience. For we now recognize that the Nation's rivers, far from being treasured, have been carelessly neglected for too long.
 
@@ -11020,11 +11020,11 @@ But, most importantly, the Government's management structure must be strengthene
 
 In my February 23 message on the quality of our environment I stated:
 
-“\* \* \* we must reorganize the Federal effort. In the past, the Federal anti-pollution effort has been organizationally separate from water conservation and use programs.
+"\* \* \* we must reorganize the Federal effort. In the past, the Federal anti-pollution effort has been organizationally separate from water conservation and use programs.
 
-“One agency should assume leadership in our clean water effort.
+"One agency should assume leadership in our clean water effort.
 
-“That agency should be the Department of the Interior.”
+"That agency should be the Department of the Interior."
 
 The Department of the Interior, for many years, has been concerned with the comprehensive management and development of the Nation's water resources.
 
@@ -11174,7 +11174,7 @@ To secure the highest possible level of health services for the American people 
 
 He must also have the authority to coordinate health functions throughout the Department. The reorganization plan I propose will accomplish these purposes. It will provide the Secretary with the flexibility to create new and responsive organizational arrangements to keep pace with the changing and dynamic nature of our health programs.
 
-My views in this respect follow a basic principle of good government set by the Hoover Commission in 1949 when it recommended that “the Department head should be given authority to determine the organization within his Department.”
+My views in this respect follow a basic principle of good government set by the Hoover Commission in 1949 when it recommended that "the Department head should be given authority to determine the organization within his Department."
 
 #### IV
 
@@ -11278,7 +11278,7 @@ The situation that existed in 1952 has been changed by two major developments—
 
 The founding of the Metropolitan Washington Council of Governments; and
 
-The inauguration of a nationwide urban planning assistance program, commonly referred to as the “701 Program.”
+The inauguration of a nationwide urban planning assistance program, commonly referred to as the "701 Program."
 
 The Metropolitan Washington Council of Governments, established in 1957, is a voluntary association of elected officials of local governments in the area. It has a competent professional staff and has done constructive work on areawide development matters. It had a budget of nearly a quarter of a million dollars for fiscal year 1965, mostly derived from local government contributions, and has developed to the point where it can fully carry out the State and local aspects of regional planning.
 
@@ -11292,7 +11292,7 @@ It will also result in long-range savings to the Federal Government. The regiona
 
 Annual savings of at least $25,000 should result from the reorganization plan.
 
-The functions to be abolished by the reorganization plan are provided for in sections 2(e), 3, 4, 5(d), and 6(b) of the act approved June 6, 1924, entitled “An Act providing for a comprehensive development of the park and playground system of the National Capital” (43 Stat. 463), as amended (66 Stat. 783, \[former\] 40 U.S.C. 71a(e), 71b, 71c, 71d(d), and 71e(b)) \[now, in part, 40 U.S.C. 8711(e), 8721(a), (e), 8722(c)\].
+The functions to be abolished by the reorganization plan are provided for in sections 2(e), 3, 4, 5(d), and 6(b) of the act approved June 6, 1924, entitled "An Act providing for a comprehensive development of the park and playground system of the National Capital" (43 Stat. 463), as amended (66 Stat. 783, \[former\] 40 U.S.C. 71a(e), 71b, 71c, 71d(d), and 71e(b)) \[now, in part, 40 U.S.C. 8711(e), 8721(a), (e), 8722(c)\].
 
 I have found, after investigation, that each reorganization included in the accompanying reorganization plan is necessary to accomplish one or more of the purposes set forth in section 2(a) of the Reorganization Act of 1949, as amended.
 
@@ -11322,7 +11322,7 @@ Prepared by the President and Transmitted to the Senate and the House of Represe
 
 #### Part I. General Provisions
 
-Section 101. *Definitions*. (a) As used in this reorganization plan, the term “the Corporation” means the body-corporate for municipal purposes created a government by the name of the “District of Columbia.”
+Section 101. *Definitions*. (a) As used in this reorganization plan, the term "the Corporation" means the body-corporate for municipal purposes created a government by the name of the "District of Columbia."
 
 (b) References in this reorganization plan to any provision of the District of Columbia Code are references to the provisions of statutory law codified under that provision and include the said provision as amended, modified, or supplemented prior to the effective date of this reorganization plan (including modifications made by Reorganization Plan No. 5 of 1952 (66 Stat. 824)).
 
@@ -11330,7 +11330,7 @@ Sec. 102. *Reorganization*. The Corporation is hereby reorganized as provided in
 
 #### Part II. District of Columbia Council
 
-Sec. 201. *Establishment of the Council*. (a) There is hereby established in the Corporation a Council which shall be known as the “District of Columbia Council” (hereinafter referred to as the Council).
+Sec. 201. *Establishment of the Council*. (a) There is hereby established in the Corporation a Council which shall be known as the "District of Columbia Council" (hereinafter referred to as the Council).
 
 (b) The Council shall be composed of a Chairman of the Council, a Vice Chairman of the Council, and seven other members, all of whom shall be appointed by the President of the United States, by and with the advice and consent of the Senate. At the time of his appointment each member of the Council shall be a citizen of the United States, shall have been an actual resident of the District of Columbia for three years next preceding his appointment, and shall during that period have claimed residence nowhere else. The Council shall be nonpartisan and no more than six of its members shall be adherents of any one political party. Appointments to the Council shall be made with a view toward achieving a Council membership which will be broadly representative of the District of Columbia community.
 
@@ -11358,7 +11358,7 @@ Sec. 205. *Performance of functions of the Council*. (a) The Council is hereby a
 
 #### Part III. Commissioner of the District of Columbia
 
-Sec. 301. *Establishment of office of Commissioner*. (a) There is hereby established in the Corporation an office with the title of “Commissioner of the District of Columbia.” The officer who holds that office is hereinafter referred to as the Commissioner.
+Sec. 301. *Establishment of office of Commissioner*. (a) There is hereby established in the Corporation an office with the title of "Commissioner of the District of Columbia." The officer who holds that office is hereinafter referred to as the Commissioner.
 
 (b) The Commissioner shall be appointed by the President of the United States, by and with the advice and consent of the Senate. The Commissioner shall at the time of his appointment be a citizen of the United States. Before entering upon the discharge of his duties the Commissioner shall take an oath or affirmation to support the Constitution of the United States and faithfully discharge the duties imposed upon him as Commissioner. The Commissioner shall receive compensation at the rate now or hereafter prescribed by law for offices and positions of Level III of the Executive Schedule Pay Rates (5 U.S.C. 5314). Whenever both a Commissioner and an Assistant to the Commissioner appointed under section 302 hereof are in office at least one of them shall have been an actual resident of the District of Columbia for three years next preceding his appointment and have during that period claimed residence nowhere else. Both the Commissioner and the Assistant to the Commissioner shall reside in the District of Columbia during the time each holds office.
 
@@ -11366,7 +11366,7 @@ Sec. 301. *Establishment of office of Commissioner*. (a) There is hereby establi
 
 (d) The President may from time to time (1) designate officials of the Corporation (including the Chairman, the Vice Chairman, and the other members of the Council provided for in Part II of this reorganization plan if the President so elects) to act as Commissioner during the absence or disability of the Commissioner or in the event of a vacancy in the office of Commissioner, and (2) prescribe the order of succession in which the officials so designated shall so act.
 
-Sec. 302. *Assistant to the Commissioner*. There is hereby established in the Corporation a new office which shall have the title “Assistant to the Commissioner of the District of Columbia.” Such assistant (1) shall be appointed by the President of the United States, by and with the advice and consent of the Senate, (2) shall receive compensation at the rate now or hereafter prescribed by law for offices and positions of Level V of the Executive Schedule Pay Rates (5 U.S.C. 5316), and (3) shall assist the Commissioner as the Commissioner may direct in connection with the carrying out of the functions of the Commissioner.
+Sec. 302. *Assistant to the Commissioner*. There is hereby established in the Corporation a new office which shall have the title "Assistant to the Commissioner of the District of Columbia." Such assistant (1) shall be appointed by the President of the United States, by and with the advice and consent of the Senate, (2) shall receive compensation at the rate now or hereafter prescribed by law for offices and positions of Level V of the Executive Schedule Pay Rates (5 U.S.C. 5316), and (3) shall assist the Commissioner as the Commissioner may direct in connection with the carrying out of the functions of the Commissioner.
 
 Sec. 303. *Establishment of other new offices*. There are hereby established in the Corporation so many agencies and offices, with such names or titles, as the Commissioner shall from time to time determine. The said offices shall be filled by appointment by, or under the authority of, the Commissioner. Each officer so appointed shall perform the functions delegated or otherwise assigned to him in pursuance of this reorganization plan and shall receive compensation to be fixed in accordance with the classification laws as amended from time to time.
 
@@ -11382,7 +11382,7 @@ Sec. 402. *Transfer of functions to Council*. The following regulatory and other
 
 #### 1\. general provisions
 
-(1) Making and modifying police regulations under D.C. Code, sec. 1–224 (including the prescribing of penalties under paragraph “Eleventh” thereof).
+(1) Making and modifying police regulations under D.C. Code, sec. 1–224 (including the prescribing of penalties under paragraph "Eleventh" thereof).
 
 (2) Prescribing penalties under D.C. Code, sec. 1–224a.
 
@@ -11490,7 +11490,7 @@ Sec. 402. *Transfer of functions to Council*. The following regulatory and other
 
 (53) Making reciprocal arrangements with authorities of the several states and territories of the United States concerning the licensing of veterinarians under D.C. Code, sec. 2–804.
 
-(54) Making rules for the examination and registration of applicants for (architects’) certificates under D.C. Code, sec. 2–1001.
+(54) Making rules for the examination and registration of applicants for (architects') certificates under D.C. Code, sec. 2–1001.
 
 (55) Fixing fees, relating to architects and applicants under D.C. Code, sec. 2–1023.
 
@@ -11522,7 +11522,7 @@ Sec. 402. *Transfer of functions to Council*. The following regulatory and other
 
 (69) Fixing the form and amount of bond required to be furnished under D.C. Code, sec. 2–1813.
 
-(70) Prescribing additional information to be contained in applications for pawnbrokers’ licenses under D.C. Code, sec. 2–2003(b)(4).
+(70) Prescribing additional information to be contained in applications for pawnbrokers' licenses under D.C. Code, sec. 2–2003(b)(4).
 
 (71) Making rules and regulations for the enforcement of the Act of August 6, 1965, under D.C. Code, sec. 2–2007(a)
 
@@ -11580,7 +11580,7 @@ Sec. 402. *Transfer of functions to Council*. The following regulatory and other
 
 (96) Providing rules for uniform clothing of the police force under D.C. Code, sec. 4–130.
 
-(97) Prescribing the area constituting the “Washington, District of Columbia, metropolitan district” under D.C. Code, sec. 4–132a(b).
+(97) Prescribing the area constituting the "Washington, District of Columbia, metropolitan district" under D.C. Code, sec. 4–132a(b).
 
 (98) Causing the Metropolitan Police force to keep records under D.C. Code, sec. 4–134(5).
 
@@ -11660,7 +11660,7 @@ Sec. 402. *Transfer of functions to Council*. The following regulatory and other
 
 (134) Promulgating rules and regulations to prevent and control the spread of communicable diseases under D.C. Code, sec. 6–118.
 
-(135) By regulation, denominating the diseases within the meaning of “communicable diseases” under D.C. Code, sec. 6–119.
+(135) By regulation, denominating the diseases within the meaning of "communicable diseases" under D.C. Code, sec. 6–119.
 
 (136) Prescribing penalties for violation of communicable disease regulations under D.C. Code, sec. 6–119h.
 
@@ -11800,7 +11800,7 @@ Sec. 402. *Transfer of functions to Council*. The following regulatory and other
 
 (200) Making regulations for the control, regulation, and operation of the municipal fish wharf and market under D.C. Code, sec. 10–135.
 
-(201) Making and promulgating rules and regulations for the control and operation of the wholesale farmers’ produce market, and establishing a scale of charges, under D.C. Code, sec. 10–137.
+(201) Making and promulgating rules and regulations for the control and operation of the wholesale farmers' produce market, and establishing a scale of charges, under D.C. Code, sec. 10–137.
 
 #### 11\. feeble-minded persons
 
@@ -11996,7 +11996,7 @@ Sec. 402. *Transfer of functions to Council*. The following regulatory and other
 
 (284) Adopting and promulgating rules and regulations under D.C. Code, sec. 36–434.
 
-(285) Promulgating regulations defining and delimiting the term “any person employed in a bona fide executive, administrative, or professional capacity” under D.C. Code, sec. 36–601(b).
+(285) Promulgating regulations defining and delimiting the term "any person employed in a bona fide executive, administrative, or professional capacity" under D.C. Code, sec. 36–601(b).
 
 #### 25\. motor vehicles
 
@@ -12006,13 +12006,13 @@ Sec. 402. *Transfer of functions to Council*. The following regulatory and other
 
 (288) Prescribing regulations to carry out provisions of law respecting registration of, and identification tags for, motor vehicles and trailers, under D.C. Code, sec. 40–102(e).
 
-(289) Prescribing rules and regulations respecting the revocation or suspension of dealers’ registrations and dealers’ identification tags, including return of such tags, under D.C. Code, sec. 40–102(f).
+(289) Prescribing rules and regulations respecting the revocation or suspension of dealers' registrations and dealers' identification tags, including return of such tags, under D.C. Code, sec. 40–102(f).
 
 (290) Prescribing tags treated with special reflective materials and fixing the additional fee charged in connection therewith under D.C. Code, sec. 40–103(a).
 
 (291) Determining the percentage of fees for registration of motor vehicles and trailers to be credited to the General Fund of the District of Columbia under D.C. Code, sec. 40–103(d).
 
-(292) Prescribing regulations relating to the issuance of motor vehicle operators’ permits and to extending the validity of certain motor vehicle operators’ permits under D.C. Code, secs. 40–301(a)(1) and (6).
+(292) Prescribing regulations relating to the issuance of motor vehicle operators' permits and to extending the validity of certain motor vehicle operators' permits under D.C. Code, secs. 40–301(a)(1) and (6).
 
 (293) Prescribing by regulation matter to be stated on each motor vehicle operator's permit under D.C. Code, sec. 40–301(b).
 
@@ -12046,7 +12046,7 @@ Sec. 402. *Transfer of functions to Council*. The following regulatory and other
 
 (308) Fixing the amount of collateral to be deposited under D.C. Code, sec. 40–810.
 
-(309) Including fees within the definition of the term “Governmental charges” under D.C. Code, sec. 40–901(4).
+(309) Including fees within the definition of the term "Governmental charges" under D.C. Code, sec. 40–901(4).
 
 (310) By regulation or order, determining, fixing, redetermining, and refixing, maximum finance charges under D.C. Code, sec. 40–902(d).
 
@@ -12116,9 +12116,9 @@ Sec. 402. *Transfer of functions to Council*. The following regulatory and other
 
 (339) Prescribing by regulation the period of time as equivalent to a calendar quarter under D.C. Code, sec. 46–301(k).
 
-(340) Prescribing the period of time to be used for the term “month” under D.C. Code, sec. 46–301(n).
+(340) Prescribing the period of time to be used for the term "month" under D.C. Code, sec. 46–301(n).
 
-(341) Prescribing by regulation the period of seven consecutive days to be used as a “week” under D.C. Code, sec. 46–301(o).
+(341) Prescribing by regulation the period of seven consecutive days to be used as a "week" under D.C. Code, sec. 46–301(o).
 
 (342) Prescribing regulations specifying time within which employers shall make a return of, and pay contributions accrued with respect to, wages paid during preceding calendar quarter with respect to employment under D.C. Code, sec. 46–304(b).
 
@@ -12250,7 +12250,7 @@ Sec. 402. *Transfer of functions to Council*. The following regulatory and other
 
 (405) Requiring returns of purchasers to be made for periods and upon dates other than those specified in the Act, and specifying such periods and dates, under D.C. Code, sec. 47–2711(b).
 
-(406) By regulation, including wrapper within the definition of “original package” under D.C. Code, sec. 47–2801(g).
+(406) By regulation, including wrapper within the definition of "original package" under D.C. Code, sec. 47–2801(g).
 
 (407) By regulation, permitting tax stamps to be affixed other than to original packages, and approving regulations prescribing the manner of cancellation of stamps, under D.C. Code, sec. 47–2802(c).
 
@@ -12392,7 +12392,7 @@ To the Congress of the United States:
 
 I am transmitting Reorganization Plan No. 3 of 1967 to provide a better government for the citizens of the Nation's Capital.
 
-The explosive growth of the District of Columbia challenges the city on every front—from schools and hospitals, courts and police, to housing and transportation, recreation and job opportunities. If the District is to meet these tests and fulfill the needs of its citizens, it must, as I said in my message on the National Capital, “have the most responsive and efficient government we are capable of providing.”
+The explosive growth of the District of Columbia challenges the city on every front—from schools and hospitals, courts and police, to housing and transportation, recreation and job opportunities. If the District is to meet these tests and fulfill the needs of its citizens, it must, as I said in my message on the National Capital, "have the most responsive and efficient government we are capable of providing."
 
 The plan I submit today is more than a matter of routine reorganization. Its vital purpose is to bring Twentieth Century government to the Capital of this Nation: to strengthen and modernize the government of the District of Columbia; to make it as efficient and effective as possible.
 
@@ -12498,7 +12498,7 @@ There are hereby transferred to the Attorney General:
 
 There are hereby transferred to the Attorney General:
 
-(a) The functions of the Secretary of Health, Education, and Welfare under the Drug Abuse Control Amendments of 1965 (Public Law 89–74; 79 Stat. 226) \[see Short Title note under 21 U.S.C. 301\], except the function of regulating the counterfeiting of those drugs which are not controlled “depressant or stimulant” drugs.
+(a) The functions of the Secretary of Health, Education, and Welfare under the Drug Abuse Control Amendments of 1965 (Public Law 89–74; 79 Stat. 226) \[see Short Title note under 21 U.S.C. 301\], except the function of regulating the counterfeiting of those drugs which are not controlled "depressant or stimulant" drugs.
 
 (b) So much of other functions or parts of functions of the Secretary of Health, Education, and Welfare, and of the Department of Health, Education, and Welfare, as is incidental to or necessary for the performance of the functions transferred by paragraph (a) of this section.
 
@@ -12600,7 +12600,7 @@ Prepared by the President and transmitted to the Senate and the House of Represe
 
 #### Section 1. Definitions
 
-(a) As used in this reorganization plan, the term “the Recreation Board” means the District of Columbia Recreation Board provided for in D.C. Code, sec. 8–201 and in other law.
+(a) As used in this reorganization plan, the term "the Recreation Board" means the District of Columbia Recreation Board provided for in D.C. Code, sec. 8–201 and in other law.
 
 (b) References in this reorganization plan to any provision of the District of Columbia Code are references to the provisions of statutory law codified under that provision and include the said provision as amended, modified, or supplemented prior to the effective date of this reorganization plan.
 
@@ -12784,7 +12784,7 @@ The new Office of Telecommunications Policy would play three essential roles:
 
 3\. Finally, the new Office would enable the executive branch to speak with a clearer voice and to act as a more effective partner in discussions of communications policy with both the Congress and the Federal Communications Commission. This action would take away none of the prerogatives or functions assigned to the Federal Communications Commission by the Congress. It is my hope, however, that the new Office and the Federal Communications Commission would cooperate in achieving certain reforms in telecommunications policy, especially in their procedures for allocating portions of the radio spectrum for government and civilian use. Our current procedures must be more flexible if they are to deal adequately with problems such as the worsening spectrum shortage.
 
-Each reorganization included in the plan which accompanies this message is necessary to accomplish one or more of the purposes set forth in section 901(a) of title 5 of the United States Code. In particular, the plan is responsive to section 901(a)(1), “to promote the better execution of the laws, the more effective management of the executive branch and of its agencies and functions, and the expeditious administration of the public business;” and section 901(a)(3), “to increase the efficiency of the operations of the government to the fullest extent practicable.”
+Each reorganization included in the plan which accompanies this message is necessary to accomplish one or more of the purposes set forth in section 901(a) of title 5 of the United States Code. In particular, the plan is responsive to section 901(a)(1), "to promote the better execution of the laws, the more effective management of the executive branch and of its agencies and functions, and the expeditious administration of the public business;" and section 901(a)(3), "to increase the efficiency of the operations of the government to the fullest extent practicable."
 
 The reorganizations provided for in this plan make necessary the appointment and compensation of new officers, as specified in sections 3(a) and 3(b) of the plan. The rates of compensation fixed for these officers are comparable to those fixed for other officers in the executive branch who have similar responsibilities.
 
@@ -12876,7 +12876,7 @@ We in government often are quick to call for reform in other institutions, but s
 
 In 1939, President Franklin D. Roosevelt proposed and the Congress accepted a reorganization plan that laid the groundwork for providing managerial assistance for a modern Presidency.
 
-The plan placed the Bureau of the Budget within the Executive Office of the President. It made available to the President direct access to important new management instruments. The purpose of the plan was to improve the administration of the Government—to ensure that the Government could perform “promptly, effectively, without waste or lost motion.”
+The plan placed the Bureau of the Budget within the Executive Office of the President. It made available to the President direct access to important new management instruments. The purpose of the plan was to improve the administration of the Government—to ensure that the Government could perform "promptly, effectively, without waste or lost motion."
 
 Fulfilling that purpose today is far more difficult—and more important—than it was 30 years ago.
 
@@ -12914,7 +12914,7 @@ The past year's experience with the Council for Urban Affairs has shown how imme
 
 The Domestic Council will be chaired by the President. Under the plan, its membership will include the Vice President, and the Secretaries of the Treasury, Interior, Agriculture, Commerce, Labor, Health, Education and Welfare, Housing and Urban Development, and Transportation, and the Attorney General. I also intend to designate as members the Director of the Office of Economic Opportunity and, while he remains a member of the Cabinet, the Postmaster General. (Although I continue to hope that the Congress will adopt my proposal to create, in place of the Post Office Department, a self-sufficient postal authority.) The President could add other Branch officials at his discretion.
 
-The Council will be supported by a staff under an Executive Director who will also be one of the President's assistants. Like the National Security Council staff, this staff will work in close coordination with the President's personal staff but will have its own institutional identity. By being established on a permanent, institutional basis, it will be designed to develop and employ the “institutional memory” so essential if continuity is to be maintained, and if experience is to play its proper role in the policy-making process.
+The Council will be supported by a staff under an Executive Director who will also be one of the President's assistants. Like the National Security Council staff, this staff will work in close coordination with the President's personal staff but will have its own institutional identity. By being established on a permanent, institutional basis, it will be designed to develop and employ the "institutional memory" so essential if continuity is to be maintained, and if experience is to play its proper role in the policy-making process.
 
 There does not now exist an organized, institutionally-staffed group charged with advising the President on the total range of domestic policy. The Domestic Council will fill that need. Under the President's direction, it will also be charged with integrating the various aspects of domestic policy into a consistent whole.
 
@@ -12964,7 +12964,7 @@ Finally, the new Office will continue the Legislative Reference functions now pe
 
 The people deserve a more responsive and more effective Government. The times require it. These changes will help provide it.
 
-Each reorganization included in the plan which accompanies this message is necessary to accomplish one or more of the purposes set forth in Section 901(a) of Title 5 of the United States Code. In particular, the plan is responsive to Section 901(a)(1), “to promote the better execution of the laws, the more effective management of the Executive Branch and of its agencies and functions, and the expeditious administration of the public business;” and Section 901(a)(3), “to increase the efficiency of the operations of the Government to the fullest extent practicable.”
+Each reorganization included in the plan which accompanies this message is necessary to accomplish one or more of the purposes set forth in Section 901(a) of Title 5 of the United States Code. In particular, the plan is responsive to Section 901(a)(1), "to promote the better execution of the laws, the more effective management of the Executive Branch and of its agencies and functions, and the expeditious administration of the public business;" and Section 901(a)(3), "to increase the efficiency of the operations of the Government to the fullest extent practicable."
 
 The reorganizations provided for in this plan make necessary the appointment and compensation of new officers, as specified in Section 102(c) of the plan. The rates of compensation fixed for these officers are comparable to those fixed for other officers in the Executive Branch who have similar responsibilities.
 
@@ -12994,9 +12994,9 @@ Prepared by the President and transmitted to the Senate and the House of Represe
 
 #### Section 1. Establishment of Agency
 
-(a) There is hereby established the Environmental Protection Agency, hereinafter referred to as the “Agency.”
+(a) There is hereby established the Environmental Protection Agency, hereinafter referred to as the "Agency."
 
-(b) There shall be at the head of the Agency the Administrator of the Environmental Protection Agency, hereinafter referred to as the “Administrator.” The Administrator shall be appointed by the President, by and with the advice and consent of the Senate.
+(b) There shall be at the head of the Agency the Administrator of the Environmental Protection Agency, hereinafter referred to as the "Administrator." The Administrator shall be appointed by the President, by and with the advice and consent of the Senate.
 
 (c) There shall be in the Agency a Deputy Administrator of the Environmental Protection Agency who shall be appointed by the President, by and with the advice and consent of the Senate. The Deputy Administrator shall perform such functions as the Administrator shall from time to time assign or delegate, and shall act as Administrator during the absence or disability of the Administrator or in the event of a vacancy in the office of Administrator.
 
@@ -13080,7 +13080,7 @@ To the Congress of the United States:
 
 I transmit herewith Reorganization Plan No. 3 of 1970, prepared in accordance with chapter 9 of title 5 of the United States Code and providing for an Environmental Protection Agency. My reasons for transmitting this plan are stated in a more extended accompanying message.
 
-After investigation, I have found and hereby declare that each reorganization included in Reorganization Plan No. 3 of 1970 is necessary to accomplish one or more of the purposes set forth in section 901(a) of title 5 of the United States Code. In particular, the plan is responsive to section 901(a)(1), “to promote the better execution of the laws, the more effective management of the executive branch and of its agencies and functions, and the expeditious administration of the public business;” and section 901(a)(3), “to increase the efficiency of the operations of the Government to the fullest extent practicable.”
+After investigation, I have found and hereby declare that each reorganization included in Reorganization Plan No. 3 of 1970 is necessary to accomplish one or more of the purposes set forth in section 901(a) of title 5 of the United States Code. In particular, the plan is responsive to section 901(a)(1), "to promote the better execution of the laws, the more effective management of the executive branch and of its agencies and functions, and the expeditious administration of the public business;" and section 901(a)(3), "to increase the efficiency of the operations of the Government to the fullest extent practicable."
 
 The reorganizations provided for in the plan make necessary the appointment and compensation of new officers as specified in section 1 of the plan. The rates of compensation fixed for these officers are comparable to those fixed for other officers in the executive branch who have similar responsibilities.
 
@@ -13170,7 +13170,7 @@ The Department of Agriculture would continue to conduct research on the effectiv
 
 #### advantages of reorganization
 
-This reorganization would permit response to environmental problems in a manner beyond the previous capability of our pollution control programs. The EPA would have the capacity to do research on important pollutants irrespective of the media in which they appear, and on the impact of these pollutants on the total environment. Both by itself and together with other agencies, the EPA would monitor the condition of the environment—biological as well as physical. With these data, the EPA would be able to establish quantitative “environmental baselines”—critical if we are to measure adequately the success or failure of our pollution abatement efforts.
+This reorganization would permit response to environmental problems in a manner beyond the previous capability of our pollution control programs. The EPA would have the capacity to do research on important pollutants irrespective of the media in which they appear, and on the impact of these pollutants on the total environment. Both by itself and together with other agencies, the EPA would monitor the condition of the environment—biological as well as physical. With these data, the EPA would be able to establish quantitative "environmental baselines"—critical if we are to measure adequately the success or failure of our pollution abatement efforts.
 
 As no disjointed array of separate programs can, the EPA would be able—in concert with the States—to set and enforce standards for air and water quality and for individual pollutants. This consolidation of pollution control authorities would help assure that we do not create new environmental problems in the process of controlling existing ones. Industries seeking to minimize the adverse impact of their activities on the environment would be assured of consistent standards covering the full range of their waste disposal problems. As the States develop and expand their own pollution control programs, they would be able to look to one agency to support their efforts with financial and technical assistance and training.
 
@@ -13196,7 +13196,7 @@ The principal roles and functions of the EPA would include:
 
 One natural question concerns the relationship between the EPA and the Council on Environmental Quality, recently established by Act of Congress.
 
-It is my intention and expectation that the two will work in close harmony, reinforcing each other's mission. Essentially, the Council is a top-level advisory group which might be compared with the Council of Economic Advisers), while the EPA would be an operating, “line” organization. The Council will continue to be a part of the Executive Office of the President and will perform its overall coordinating and advisory roles with respect to all Federal programs related to environmental quality.
+It is my intention and expectation that the two will work in close harmony, reinforcing each other's mission. Essentially, the Council is a top-level advisory group which might be compared with the Council of Economic Advisers), while the EPA would be an operating, "line" organization. The Council will continue to be a part of the Executive Office of the President and will perform its overall coordinating and advisory roles with respect to all Federal programs related to environmental quality.
 
 The Council, then, is concerned with all aspects of environmental quality—wildlife preservation, parklands, land use, and population growth, as well as pollution. The EPA would be charged with protecting the environment by abating pollution. In short, the Council focuses on what our broad policies in the environmental field should be; the EPA would focus on setting and enforcing pollution control standards. The two are not competing, but complementary—and taken together, they should give us, for the first time, the means to mount an effectively coordinated campaign against environmental degradation in all of its many forms.
 
@@ -13264,7 +13264,7 @@ The Marine Minerals Technology Center is concerned with the development of marin
 
 Office of Sea Grant Programs.—The Sea Grant Program was authorized in 1966 to permit the Federal Government to assist the academic and industrial communities in developing marine resources and technology. It aims at strengthening education and training of marine specialists, supporting applied research in the recovery and use of marine resources, and developing extension and advisory services. The Office carries out these objectives by making grants to selected academic institutions.
 
-The U.S. Lake Survey has two primary missions. It prepares and publishes navigation charts of the Great Lakes and tributary waters and conducts research on a variety of hydraulic and hydrologic phenomena of the Great Lakes’ waters. Its activities are very similar to those conducted along the Atlantic and Pacific coasts by ESSA's Coast and Geodetic Survey.
+The U.S. Lake Survey has two primary missions. It prepares and publishes navigation charts of the Great Lakes and tributary waters and conducts research on a variety of hydraulic and hydrologic phenomena of the Great Lakes' waters. Its activities are very similar to those conducted along the Atlantic and Pacific coasts by ESSA's Coast and Geodetic Survey.
 
 The National Oceanographic Data Center is responsible for the collection and dissemination of oceanographic data accumulated by all Federal agencies.
 
@@ -13316,15 +13316,15 @@ The following are hereby transferred to the Secretary of Commerce:
 
 (d) All functions vested in the National Science Foundation by the National Sea Grant College and Program Act of 1966 (80 Stat. 998), as amended (33 U.S.C. 1121 et seq.).
 
-(e) Those functions vested in the Secretary of Defense or in any officer, employee, or organizational entity of the Department of Defense by the provision of Public Law 91–144, 83 Stat. 326, under the heading “Operation and maintenance, general” with respect to “surveys and charting of northern and northwestern lakes and connecting waters,” or by other law, which come under the mission assigned as of July 1, 1969, to the United States Army Engineer District, Lake Survey, Corps of Engineers, Department of the Army and relate to (1) the conduct of hydrographic surveys of the Great Lakes and their outflow rivers, Lake Champlain, New York State Barge Canals, and the Minnesota-Ontario border lakes, and the compilation and publication of navigation charts, including recreational aspects, and the Great Lakes Pilot for the benefit and use of the public, (2) the conception, planning, and conduct of basic research and development in the fields of water motion, water characteristics, water quantity, and ice and snow, and (3) the publication of data and the results of research projects in forms useful to the Corps of Engineers and the public, and the operation of a Regional Data Center for the collection, coordination, analysis, and the furnishing to interested agencies of data relating to water resources of the Great Lakes.
+(e) Those functions vested in the Secretary of Defense or in any officer, employee, or organizational entity of the Department of Defense by the provision of Public Law 91–144, 83 Stat. 326, under the heading "Operation and maintenance, general" with respect to "surveys and charting of northern and northwestern lakes and connecting waters," or by other law, which come under the mission assigned as of July 1, 1969, to the United States Army Engineer District, Lake Survey, Corps of Engineers, Department of the Army and relate to (1) the conduct of hydrographic surveys of the Great Lakes and their outflow rivers, Lake Champlain, New York State Barge Canals, and the Minnesota-Ontario border lakes, and the compilation and publication of navigation charts, including recreational aspects, and the Great Lakes Pilot for the benefit and use of the public, (2) the conception, planning, and conduct of basic research and development in the fields of water motion, water characteristics, water quantity, and ice and snow, and (3) the publication of data and the results of research projects in forms useful to the Corps of Engineers and the public, and the operation of a Regional Data Center for the collection, coordination, analysis, and the furnishing to interested agencies of data relating to water resources of the Great Lakes.
 
 (f) So much of the functions of the transferor officers and agencies referred to in or affected by the foregoing provisions of this section as is incidental to or necessary for the performance by or under the Secretary of Commerce of the functions transferred by those provisions or relates primarily to those functions. The transfers to the Secretary of Commerce made by this section shall be deemed to include the transfer of authority, provided by law, to prescribe regulations relating primarily to the transferred functions.
 
 #### Sec. 2. Establishment of Administration
 
-(a) There is hereby established in the Department of Commerce an agency which shall be known as the National Oceanic and Atmospheric Administration, hereinafter referred to as the “Administration.”
+(a) There is hereby established in the Department of Commerce an agency which shall be known as the National Oceanic and Atmospheric Administration, hereinafter referred to as the "Administration."
 
-(b) There shall be at the head of the Administration the Administrator of the National Oceanic and Atmospheric Administration, hereinafter referred to as the “Administrator.” The Administrator shall be appointed by the President, by and with the advice and consent of the Senate, and shall be compensated at the rate now or hereafter provided for Level III of the Executive Schedule Pay Rates (5 U.S.C. 5314).
+(b) There shall be at the head of the Administration the Administrator of the National Oceanic and Atmospheric Administration, hereinafter referred to as the "Administrator." The Administrator shall be appointed by the President, by and with the advice and consent of the Senate, and shall be compensated at the rate now or hereafter provided for Level III of the Executive Schedule Pay Rates (5 U.S.C. 5314).
 
 (c) There shall be in the Administration a Deputy Administrator of the National Oceanic and Atmospheric Administration who shall be appointed by the President, by and with the advice and consent of the Senate, and shall be compensated at the rate now or hereafter provided for Level IV of the Executive Schedule Pay Rates (5 U.S.C. 5315). The Deputy Administrator shall perform such functions as the Administrator shall from time to time assign or delegate, and shall act as Administrator during the absence or disability of the Administrator or in the event of a vacancy in the office of Administrator.
 
@@ -13386,7 +13386,7 @@ To the Congress of the United States:
 
 I transmit herewith Reorganization Plan No. 4 of 1970, prepared in accordance with chapter 9 of title 5 of the United States Code. The plan would transfer to the Secretary of Commerce various functions relating to the oceans and atmosphere, including commercial fishery functions, and would establish a National Oceanic and Atmospheric Administration in the Department of Commerce. My reasons for transmitting this plan are stated in a more extended accompanying message.
 
-After investigation, I have found and hereby declare that each reorganization included in Reorganization Plan No. 4 of 1970 is necessary to accomplish one or more of the purposes set forth in section 901(a) of title 5 of the United States Code. In particular, the plan is responsive to section 901(a)(1), “to promote the better execution of the laws, the more effective management of the executive branch and of its agencies and functions, and the expeditious administration of the public business;” and section 901(a)(3) “to increase the efficiency of the operations of the Government to the fullest extent practicable.”
+After investigation, I have found and hereby declare that each reorganization included in Reorganization Plan No. 4 of 1970 is necessary to accomplish one or more of the purposes set forth in section 901(a) of title 5 of the United States Code. In particular, the plan is responsive to section 901(a)(1), "to promote the better execution of the laws, the more effective management of the executive branch and of its agencies and functions, and the expeditious administration of the public business;" and section 901(a)(3) "to increase the efficiency of the operations of the Government to the fullest extent practicable."
 
 The reorganizations provided for in the plan make necessary the appointment and compensation of new officers as specified in section 2 of the plan. The rates of compensation fixed for these officers are comparable to those fixed for other officers in the executive branch who have similar responsibilities.
 
@@ -13406,7 +13406,7 @@ Prepared by the President and transmitted to the Senate and the House of Represe
 
 #### Section 1. Establishment of Agency
 
-\[Superseded. Pub. L. 93–113, title VI, §601(a), Oct. 1, 1973, 87 Stat. 416. Section established the “Action” Agency.\]
+\[Superseded. Pub. L. 93–113, title VI, §601(a), Oct. 1, 1973, 87 Stat. 416. Section established the "Action" Agency.\]
 
 #### Sec. 2. Transfer of Functions
 
@@ -13466,7 +13466,7 @@ Under the reorganization plan Action would administer the functions of the follo
 
 —Active Corps of Executives: ACE provides opportunities for working businessmen to assist in the development of small businesses.
 
-After investigation I have found and hereby declare that each reorganization included in the accompanying reorganization plan is necessary to accomplish one or more of the purposes set forth in section 901(a) of title 5 of the United States Code. In particular, the plan is responsive to section 901(a)(1), “to promote the better execution of the laws, the more effective management of the executive branch and of its agencies and functions, and the expeditious administration of the public business;” and section 901(a)(3), “to increase the efficiency of the operations of the Government to the fullest extent practicable.”
+After investigation I have found and hereby declare that each reorganization included in the accompanying reorganization plan is necessary to accomplish one or more of the purposes set forth in section 901(a) of title 5 of the United States Code. In particular, the plan is responsive to section 901(a)(1), "to promote the better execution of the laws, the more effective management of the executive branch and of its agencies and functions, and the expeditious administration of the public business;" and section 901(a)(3), "to increase the efficiency of the operations of the Government to the fullest extent practicable."
 
 The reorganizations provided for in the plan make necessary the appointment and compensation of new officers as specified in section 1 of the plan. The rates of compensation fixed for these officers would be comparable to those fixed for officers in the executive branch who have similar responsibilities.
 
@@ -13474,7 +13474,7 @@ The reorganization plan should result in more efficient operation of the Governm
 
 Upon the establishment of Action, I would delegate to it the principal authority for the Peace Corps now vested in me as President and delegated to the Secretary of State. In addition, the function of the Office of Voluntary Action, now operating in the Department of Housing and Urban Development, would be transferred to the new agency by executive action.
 
-Finally, I will submit legislation which would include the transfer of the functions of the Teacher Corps from the Department of Health, Education, and Welfare to the new agency. This legislation would expand authority to develop new uses of volunteer talents, it would provide a citizens’ advisory board to work with the director of the new agency, and it would provide authority to match private contributions.
+Finally, I will submit legislation which would include the transfer of the functions of the Teacher Corps from the Department of Health, Education, and Welfare to the new agency. This legislation would expand authority to develop new uses of volunteer talents, it would provide a citizens' advisory board to work with the director of the new agency, and it would provide authority to match private contributions.
 
 #### GOALS
 
@@ -13518,7 +13518,7 @@ To insure that the new agency has financial resources to begin working toward th
 
 #### CONCLUSION
 
-The early nineteenth century observer of America, Alexis de Tocqueville, was intrigued by the propensity of Americans to join together in promoting common purposes. “As soon as several of the inhabitants of the United States have taken up an opinion or a feeling which they wish to promote in the world, they look out for mutual assistance, and as soon as they have found one another out, they combine. From that moment they are no longer isolated men, but a power seen from afar \* \* \*.”
+The early nineteenth century observer of America, Alexis de Tocqueville, was intrigued by the propensity of Americans to join together in promoting common purposes. "As soon as several of the inhabitants of the United States have taken up an opinion or a feeling which they wish to promote in the world, they look out for mutual assistance, and as soon as they have found one another out, they combine. From that moment they are no longer isolated men, but a power seen from afar \* \* \*."
 
 Though we have seen the success of Government volunteer efforts in the past ten years, I believe voluntary citizen service is still little more than a power seen from afar. In relation to its potential, this power is virtually undeveloped. We must develop it.
 
@@ -13628,7 +13628,7 @@ The Oil Policy Committee will continue to function as in the past, unaffected by
 
 #### DECLARATIONS
 
-After investigation, I have found that each action included in the accompanying plan is necessary to accomplish one or more of the purposes set forth in Section 901(a) of title 5 of the United States Code. In particular, the plan is responsive to the intention of the Congress as expressed in Section 901(a)(1), “to promote better execution of the laws, more effective management of the executive branch and of its agencies and functions, and expeditious administration of the public business;” and in Section 901(a)(3), “to increase the efficiency of the operations of the Government to the fullest extent practicable;” and in Section 901(a)(5), “to reduce the number of agencies by consolidating those having similar functions under a single head, and to abolish such agencies or functions as may not be necessary for the efficient conduct of the Government.”
+After investigation, I have found that each action included in the accompanying plan is necessary to accomplish one or more of the purposes set forth in Section 901(a) of title 5 of the United States Code. In particular, the plan is responsive to the intention of the Congress as expressed in Section 901(a)(1), "to promote better execution of the laws, more effective management of the executive branch and of its agencies and functions, and expeditious administration of the public business;" and in Section 901(a)(3), "to increase the efficiency of the operations of the Government to the fullest extent practicable;" and in Section 901(a)(5), "to reduce the number of agencies by consolidating those having similar functions under a single head, and to abolish such agencies or functions as may not be necessary for the efficient conduct of the Government."
 
 While it is not practicable to specify all of the expenditure reductions and other economies which will result from the actions proposed, personnel and budget savings from abolition of the National Aeronautics and Space Council and the Office of Science and Technology alone will exceed $2 million annually, and additional savings should result from a reduction of Executive Pay Schedule positions now associated with other transferred and delegated functions.
 
@@ -13674,13 +13674,13 @@ The Bureau of Narcotics and Dangerous Drugs, including the Office of Director th
 
 #### Sec. 4. Drug Enforcement Administration
 
-There is established in the Department of Justice an agency which shall be known as the Drug Enforcement Administration, hereinafter referred to as “the Administration.”
+There is established in the Department of Justice an agency which shall be known as the Drug Enforcement Administration, hereinafter referred to as "the Administration."
 
 #### Sec. 5. Officers of the Administration
 
-(a) There shall be at the head of the Administration the Administrator of Drug Enforcement, hereinafter referred to as “the Administrator.” The Administrator shall be appointed by the President by and with the advice and consent of the Senate, and shall receive compensation at the rate now or hereafter prescribed by law for positions of level III of the Executive Schedule Pay Rates (5 U.S.C. 5314). He shall perform such functions as the Attorney General shall from time to time direct.
+(a) There shall be at the head of the Administration the Administrator of Drug Enforcement, hereinafter referred to as "the Administrator." The Administrator shall be appointed by the President by and with the advice and consent of the Senate, and shall receive compensation at the rate now or hereafter prescribed by law for positions of level III of the Executive Schedule Pay Rates (5 U.S.C. 5314). He shall perform such functions as the Attorney General shall from time to time direct.
 
-(b) There shall be in the Administration a Deputy Administrator of the Drug Enforcement Administration, hereinafter referred to as “the Deputy Administrator,” who shall be appointed by the President by and with the advice and consent of the Senate, shall perform such functions as the Attorney General may from time to time direct, and shall receive compensation at the rate now or hereafter prescribed by law for positions of level V of the Executive Schedule Pay Rates (5 U.S.C. 5316).
+(b) There shall be in the Administration a Deputy Administrator of the Drug Enforcement Administration, hereinafter referred to as "the Deputy Administrator," who shall be appointed by the President by and with the advice and consent of the Senate, shall perform such functions as the Attorney General may from time to time direct, and shall receive compensation at the rate now or hereafter prescribed by law for positions of level V of the Executive Schedule Pay Rates (5 U.S.C. 5316).
 
 (c) The Deputy Administrator or such other official of the Department of Justice as the Attorney General shall from time to time designate shall act as Administrator during the absence or disability of the Administrator or in the event of a vacancy in the office of Administrator.
 
@@ -13734,7 +13734,7 @@ Seeking ways to intensify our counter-offensive against this menace, I am asking
 
 Funding for this effort has increased sevenfold during the past five years, from $36 million in fiscal year 1969 to $257 million in fiscal year 1974—more money is not the most pressing enforcement need at present. Nor is there a primary need for more manpower working on the problem, over 2100 new agents having already been added to the Federal drug enforcement agencies under this Administration, an increase of more than 250 percent over the 1969 level.
 
-The enforcement work could benefit significantly, however, from consolidation of our anti-drug forces under a single unified command. Right now the Federal Government is fighting the war on drug abuse under a distinct handicap, for its efforts are those of a loosely confederated alliance facing a resourceful, elusive, worldwide enemy. Admiral Mahan, the master naval strategist, described this handicap precisely when he wrote that “Granting the same aggregate of force, it is never as great in two hands as in one, because it is not perfectly concentrated.”
+The enforcement work could benefit significantly, however, from consolidation of our anti-drug forces under a single unified command. Right now the Federal Government is fighting the war on drug abuse under a distinct handicap, for its efforts are those of a loosely confederated alliance facing a resourceful, elusive, worldwide enemy. Admiral Mahan, the master naval strategist, described this handicap precisely when he wrote that "Granting the same aggregate of force, it is never as great in two hands as in one, because it is not perfectly concentrated."
 
 More specifically, the drug law enforcement activities of the United States now are not merely in two hands but in half a dozen. Within the Department of Justice, with no overall direction below the level of the Attorney General, these fragmented forces include the Bureau of Narcotics and Dangerous Drugs, the Office for Drug Abuse Law Enforcement, the Office of National Narcotics Intelligence, and certain activities of the Law Enforcement Assistance Administration. The Treasury Department is also heavily engaged in enforcement work through the Bureau of Customs.
 
@@ -13780,7 +13780,7 @@ The consolidation effected under Reorganization Plan No. 2 would reinforce the b
 
 Such progress could be especially helpful on the international front. Narcotics control action plans, developed under the leadership of the Cabinet Committee on International Narcotics Control, are now being carried out by U.S. officials in cooperation with host governments in 59 countries around the world. This wide-ranging effort to cut off drug supplies before they ever reach U.S. borders or streets is just now beginning to bear fruit. We can enhance its effectiveness, with little disruption of ongoing enforcement activities, by merging both the highly effective narcotics force of overseas Customs agents and the rapidly developing international activities of the Bureau of Narcotics and Dangerous Drugs into the Drug Enforcement Administration. The new agency would work closely with the Cabinet Committee under the active leadership of the U.S. Ambassador in each country where anti-drug programs are underway.
 
-Two years ago, when I established the Special Action Office for Drug Abuse Prevention within the Executive Office of the President, we gained an organization with the necessary resources, breadth, and leadership capacity to begin dealing decisively with the “demand” side of the drug abuse problem—treatment and rehabilitation for those who have been drug victims, and preventive programs for potential drug abusers. This year, by permitting my reorganization proposals to take effect, the Congress can help provide a similar capability on the “supply” side. The proposed Drug Enforcement Administration, working as a team with the Special Action Office, would arm Americans with a potent one-two punch to help us fight back against the deadly menace of drug abuse. I ask full Congressional cooperation in its establishment.
+Two years ago, when I established the Special Action Office for Drug Abuse Prevention within the Executive Office of the President, we gained an organization with the necessary resources, breadth, and leadership capacity to begin dealing decisively with the "demand" side of the drug abuse problem—treatment and rehabilitation for those who have been drug victims, and preventive programs for potential drug abusers. This year, by permitting my reorganization proposals to take effect, the Congress can help provide a similar capability on the "supply" side. The proposed Drug Enforcement Administration, working as a team with the Special Action Office, would arm Americans with a potent one-two punch to help us fight back against the deadly menace of drug abuse. I ask full Congressional cooperation in its establishment.
 
 #### IMPROVING PORT-OF-ENTRY INSPECTIONS
 
@@ -13808,7 +13808,7 @@ For these reasons, I am convinced that inspection activities at U.S. ports-of-en
 
 #### DECLARATIONS
 
-After investigation, I have found that each action included in Reorganization Plan No. 2 of 1973 is necessary to accomplish one or more of the purposes set forth in Section 901(a) of Title 5 of the United States Code. In particular, the plan is responsive to the intention of the Congress as expressed in Section 901(a)(1): “to promote better execution of the laws, more effective management of the executive branch and of its agencies and functions, and expeditious administration of the public business;” Section 901(a)(3): “to increase the efficiency of the operations of the Government to the fullest extent practicable;” Section 901(a)(5): “to reduce the number of agencies by consolidating those having similar functions under a single head, and to abolish such agencies or functions as may not be necessary for the efficient conduct of the Government;” and Section 901(a)(6): “to eliminate overlapping and duplication of effort.”
+After investigation, I have found that each action included in Reorganization Plan No. 2 of 1973 is necessary to accomplish one or more of the purposes set forth in Section 901(a) of Title 5 of the United States Code. In particular, the plan is responsive to the intention of the Congress as expressed in Section 901(a)(1): "to promote better execution of the laws, more effective management of the executive branch and of its agencies and functions, and expeditious administration of the public business;" Section 901(a)(3): "to increase the efficiency of the operations of the Government to the fullest extent practicable;" Section 901(a)(5): "to reduce the number of agencies by consolidating those having similar functions under a single head, and to abolish such agencies or functions as may not be necessary for the efficient conduct of the Government;" and Section 901(a)(6): "to eliminate overlapping and duplication of effort."
 
 As required by law, the plan has one logically consistent subject matter: consolidation of Federal drug law enforcement activities in a manner designed to increase their effectiveness.
 
@@ -14192,9 +14192,9 @@ Prepared by the President and transmitted to the Senate and House of Representat
 
 (15) Section 201 of Public Law 89–665, as amended by section 201(5) of Public Law 94–422 (16 U.S.C. 470i(a)(9));
 
-(16) The third proviso in the twenty-third unnumbered paragraph of title V of Public Law 95–86 (headed “UNITED STATES INFORMATION AGENCY, SALARIES AND EXPENSES”), 91 Stat. 440–41 \[Aug. 2, 1977\];
+(16) The third proviso in the twenty-third unnumbered paragraph of title V of Public Law 95–86 (headed "UNITED STATES INFORMATION AGENCY, SALARIES AND EXPENSES"), 91 Stat. 440–41 \[Aug. 2, 1977\];
 
-(17) The twentieth unnumbered paragraph of title I of Public Law 95–86 (headed “CENTER FOR CULTURAL AND TECHNICAL INTERCHANGE BETWEEN EAST AND WEST”), 91 Stat. 424;
+(17) The twentieth unnumbered paragraph of title I of Public Law 95–86 (headed "CENTER FOR CULTURAL AND TECHNICAL INTERCHANGE BETWEEN EAST AND WEST"), 91 Stat. 424;
 
 (18) Sections 4(d)(1)(F), 4(f)(1)(F), 4(g)(1)(F), and 4(h)(1)(F) of the Foreign Service Buildings Act, 1926, as amended (22 U.S.C. 295(d)(1)(F), 295(f)(1)(F), 295(g)(1)(F), and 295(h)(1)(F)); and
 
@@ -14206,7 +14206,7 @@ Prepared by the President and transmitted to the Senate and House of Representat
 
 #### Sec. 8. Establishment of the United States Advisory Commission on International Communication, Cultural and Educational Affairs
 
-(a) There is hereby established an advisory commission, to be known as the United States Advisory Commission on International Communication, Cultural and Educational Affairs (the “Commission”) \[the United States Advisory Commission on Public Diplomacy\]. The Commission shall consist of seven members who shall be appointed by the President, by and with the advice and consent of the Senate. The members of the Commission shall represent the public interest and shall be selected from the cross section of educational, communications, cultural, scientific, technical, public service, labor and business and professional backgrounds. Not more than four members shall be from any one political party. The term of each member shall be three years except that of the original seven appointments, two shall be for a term of one year and two shall be for a term of two years. Any member appointed to fill a vacancy occurring prior to the expiration of the term for which a predecessor was appointed shall be appointed for the remainder of such term. Upon the expiration of a member's term of office, such member may continue to serve until a successor is appointed and has qualified. The President shall designate a member to chair the Commission.
+(a) There is hereby established an advisory commission, to be known as the United States Advisory Commission on International Communication, Cultural and Educational Affairs (the "Commission") \[the United States Advisory Commission on Public Diplomacy\]. The Commission shall consist of seven members who shall be appointed by the President, by and with the advice and consent of the Senate. The members of the Commission shall represent the public interest and shall be selected from the cross section of educational, communications, cultural, scientific, technical, public service, labor and business and professional backgrounds. Not more than four members shall be from any one political party. The term of each member shall be three years except that of the original seven appointments, two shall be for a term of one year and two shall be for a term of two years. Any member appointed to fill a vacancy occurring prior to the expiration of the term for which a predecessor was appointed shall be appointed for the remainder of such term. Upon the expiration of a member's term of office, such member may continue to serve until a successor is appointed and has qualified. The President shall designate a member to chair the Commission.
 
 (b) The functions now vested in the United States Advisory Commission on Information and in the United States Advisory Commission on International Educational and Cultural Affairs under sections 601 through 603 and 801(6) of the United States Information and Educational Exchange Act of 1948, as amended (22 U.S.C. 1466–1468, 1471(6)), and under sections 106(b) and 107 of the Mutual Educational and Cultural Exchange Act of 1961, as amended (22 U.S.C. 2456(b), 2457), respectively, are hereby consolidated and vested in the Commission, as follows:
 
@@ -14288,7 +14288,7 @@ Several principles guided me in shaping this reorganization plan. Among the most
 
 —Maintaining the integrity of the educational and cultural exchange programs is imperative. To this end, the plan retains the Board of Foreign Scholarships, whose strong leadership has done so much to insure the high quality of the educational exchange program. In addition, I intend to nominate an Associate Director who will be responsible for the administration and supervision of educational and cultural functions consolidated in the new Agency. The responsibilities presently exercised by the Department of State in relation to the Center for Technical and Cultural Interchange Between East and West, Inc., will be transferred to the new agency without alteration.
 
-—Keeping the Voice of America's news gathering and reporting functions independent and objective. The Voice's charter, enacted into law in 1976, provides that “VOA news will be accurate, objective, and comprehensive”; that VOA will “present a balanced and comprehensive projection of significant American thought and institutions”; and that VOA will present U.S. policies “clearly and effectively, and will also present responsible discussion and opinion on these policies.” Under this Administration, VOA will be solely responsible for the content of news broadcasts—for there is no more valued coin than candor in the international marketplace of ideas. I also plan to nominate an Associate Director who will be responsible for the administration and supervision of the Voice of America.
+—Keeping the Voice of America's news gathering and reporting functions independent and objective. The Voice's charter, enacted into law in 1976, provides that "VOA news will be accurate, objective, and comprehensive"; that VOA will "present a balanced and comprehensive projection of significant American thought and institutions"; and that VOA will present U.S. policies "clearly and effectively, and will also present responsible discussion and opinion on these policies." Under this Administration, VOA will be solely responsible for the content of news broadcasts—for there is no more valued coin than candor in the international marketplace of ideas. I also plan to nominate an Associate Director who will be responsible for the administration and supervision of the Voice of America.
 
 —The new agency's activities must be straightforward, open, candid, balanced, and representative. They will not be given over to the advancement of the views of any one group, any one party or any one Administration. The agency must not operate in a covert, manipulative or propagandistic way.
 
@@ -14308,7 +14308,7 @@ In presenting this plan, I ask the support of Congress to strengthen and simplif
 
 Such action will make us better able to project the great variety and vitality of American life to those abroad, and to enrich our own lives with a fuller knowledge of the vitality and variety of other societies.
 
-The new Agency for International Communication will help us demonstrate “a decent respect for the opinions of mankind,” and to deal intelligently with a world awakening to a new spirit of freedom.
+The new Agency for International Communication will help us demonstrate "a decent respect for the opinions of mankind," and to deal intelligently with a world awakening to a new spirit of freedom.
 
 Jimmy Carter.      
 
@@ -14384,9 +14384,9 @@ Fair employment is too vital for haphazard enforcement. My Administration will a
 
 Eighteen government units now exercise important responsibilities under statutes, Executive Orders and regulations relating to equal employment opportunity:
 
-*The Equal Employment Opportunity Commission* (EEOC) enforces Title VII of the Civil Rights Act of 1964 \[42 U.S.C. 2000e et seq.\], which bans employment discrimination based on race, national origin, sex or religion. The EEOC acts on individual complaints and also initiates private sector cases involving a “pattern or practice” of discrimination.
+*The Equal Employment Opportunity Commission* (EEOC) enforces Title VII of the Civil Rights Act of 1964 \[42 U.S.C. 2000e et seq.\], which bans employment discrimination based on race, national origin, sex or religion. The EEOC acts on individual complaints and also initiates private sector cases involving a "pattern or practice" of discrimination.
 
-*The Department of Labor* and 11 other agencies enforce Executive Order 11246 \[set out as a note under 42 U.S.C. 2000e\]. This prohibits discrimination in employment on the basis of race, national origin, sex, or religion and requires affirmative action by government contractors. While the Department now coordinates enforcement of this “contract compliance” program, it is actually administered by eleven other departments and agencies. The Department also administers those statutes requiring contractors to take affirmative action to employ handicapped people, disabled veterans and Vietnam veterans.
+*The Department of Labor* and 11 other agencies enforce Executive Order 11246 \[set out as a note under 42 U.S.C. 2000e\]. This prohibits discrimination in employment on the basis of race, national origin, sex, or religion and requires affirmative action by government contractors. While the Department now coordinates enforcement of this "contract compliance" program, it is actually administered by eleven other departments and agencies. The Department also administers those statutes requiring contractors to take affirmative action to employ handicapped people, disabled veterans and Vietnam veterans.
 
 In addition, the Labor Department enforces the Equal Pay Act of 1963 \[29 U.S.C. 206(d)\], which prohibits employers from paying unequal wages based on sex, and the Age Discrimination in Employment Act of 1967 \[29 U.S.C. 621 et seq.\], which forbids age discrimination against persons between the ages of 40 and 65.
 
@@ -14428,9 +14428,9 @@ On October 1, 1978, shift enforcement of equal employment opportunity for Federa
 
 On July 1, 1979, shift responsibility for enforcing both the Equal Pay Act and the Age Discrimination in Employment Act from the Labor Department to the EEOC (198 positions and $5.3 million shifted for Equal Pay; 119 positions and $3.5 million for Age Discrimination).
 
-Clarify the Attorney General's authority to initiate “pattern or practice” suits under Title VII in the public sector.
+Clarify the Attorney General's authority to initiate "pattern or practice" suits under Title VII in the public sector.
 
-In addition, I will issue an Executive Order on October 1, 1978, to consolidate the contract compliance program—now the responsibility of Labor and eleven “compliance agencies”—into the Labor Department (1,517 positions and $33.1 million shifted).
+In addition, I will issue an Executive Order on October 1, 1978, to consolidate the contract compliance program—now the responsibility of Labor and eleven "compliance agencies"—into the Labor Department (1,517 positions and $33.1 million shifted).
 
 These proposed transfers and consolidations reduce from fifteen to three the number of Federal agencies having important equal employment opportunity responsibilities under Title VII of the Civil Rights Act of 1964 and Federal contract compliance provisions.
 
@@ -14452,7 +14452,7 @@ The transfer will strengthen efforts to combat sex discrimination. Such efforts 
 
 There is now virtually complete overlap in the employers, labor organizations, and employment agencies covered by Title VII and by the Age Discrimination in Employment Act. This overlap is burdensome to employers and confusing to victims of discrimination. The proposed transfer of the age discrimination program from the Labor Department to the EEOC will eliminate the duplication.
 
-The Plan I am proposing will not affect the Attorney General's responsibility to enforce Title VII against State or local governments or to represent the Federal government in suits against Federal contractors and grant recipients. In 1972, the Congress determined that the Attorney General should be involved in suits against State and local governments. This proposal reinforces that judgment and clarifies the Attorney General's authority to initiate litigation against State or local governments engaged in a “pattern or practice” of discrimination. This in no way diminishes the EEOC's existing authority to investigate complaints filed against State or local governments and, where appropriate, to refer them to the Attorney General. The Justice Department and the EEOC will cooperate so that the Department sues on valid referrals, as well as on its own “pattern or practice” cases.
+The Plan I am proposing will not affect the Attorney General's responsibility to enforce Title VII against State or local governments or to represent the Federal government in suits against Federal contractors and grant recipients. In 1972, the Congress determined that the Attorney General should be involved in suits against State and local governments. This proposal reinforces that judgment and clarifies the Attorney General's authority to initiate litigation against State or local governments engaged in a "pattern or practice" of discrimination. This in no way diminishes the EEOC's existing authority to investigate complaints filed against State or local governments and, where appropriate, to refer them to the Attorney General. The Justice Department and the EEOC will cooperate so that the Department sues on valid referrals, as well as on its own "pattern or practice" cases.
 
 A critical element of my proposals will be accomplished by Executive Order rather than by the Reorganization Plan. This involves consolidation in the Labor Department of the responsibility to ensure that Federal contractors comply with Executive Order 11246. Consolidation will achieve the following: promote consistent standards, procedures, and reporting requirements; remove contractors from the jurisdiction of multiple agencies; prevent an agency's equal employment objectives from being outweighed by its procurement and construction objectives; and produce more effective law enforcement through unification of planning, training and sanctions. By 1981, after I have had an opportunity to review the manner in which both the EEOC and the Labor Department are exercising their new responsibilities, I will determine whether further action is appropriate.
 
@@ -14470,7 +14470,7 @@ The White House, February 23, 1978.
 
 #### Reorganization Plans No. 1 and 2 of 1978 Superseded by Civil Service Reform Act of 1978
 
-Pub. L. 95–454, title IX, §905, Oct. 13, 1978, 92 Stat. 1224, provided that: “Any provision in either Reorganization Plan Numbered 1 \[set out above\] or 2 \[set out below\] of 1978 inconsistent with any provision in this Act \[see Tables for classification\] is hereby superseded.”
+Pub. L. 95–454, title IX, §905, Oct. 13, 1978, 92 Stat. 1224, provided that: "Any provision in either Reorganization Plan Numbered 1 \[set out above\] or 2 \[set out below\] of 1978 inconsistent with any provision in this Act \[see Tables for classification\] is hereby superseded."
 
 ## **REORGANIZATION PLAN NO. 2 OF 1978**
 
@@ -14482,7 +14482,7 @@ Prepared by the President and transmitted to the Senate and the House of Represe
 
 #### Section 101. Establishment of the Office of Personnel Management and its Director and Other Matters
 
-There is hereby established as an independent establishment in the Executive Branch, the Office of Personnel Management (the “Office”). The head of the Office shall be the Director of the Office of Personnel Management (the “Director”), who shall be appointed by the President, by and with the advice and consent of the Senate, and shall be compensated at the rate now or hereafter provided for level II of the Executive Schedule \[5 U.S.C. 5313\]. The position referred to in 5 U.S.C. 5109(b) is hereby abolished.
+There is hereby established as an independent establishment in the Executive Branch, the Office of Personnel Management (the "Office"). The head of the Office shall be the Director of the Office of Personnel Management (the "Director"), who shall be appointed by the President, by and with the advice and consent of the Senate, and shall be compensated at the rate now or hereafter provided for level II of the Executive Schedule \[5 U.S.C. 5313\]. The position referred to in 5 U.S.C. 5109(b) is hereby abolished.
 
 #### Sec. 102. Transfer of Functions
 
@@ -14516,7 +14516,7 @@ The Director may delegate, from time to time, to the head of any agency employin
 
 #### Sec. 201. Merit Systems Protection Board
 
-(a) The United States Civil Service Commission is hereby redesignated the Merit Systems Protection Board. The Commissioners of the United States Civil Service Commission are hereby redesignated as members of the Merit Systems Protection Board (the “Board”).
+(a) The United States Civil Service Commission is hereby redesignated the Merit Systems Protection Board. The Commissioners of the United States Civil Service Commission are hereby redesignated as members of the Merit Systems Protection Board (the "Board").
 
 (b) The Chairman of the Board shall be its chief executive and administrative officer. The position of Executive Director, established by 5 U.S.C. 1103(d), is hereby abolished.
 
@@ -14570,7 +14570,7 @@ The Board shall accept appeals from agency actions effected prior to the effecti
 
 #### Sec. 301. Establishment of the Federal Labor Relations Authority
 
-(a) There is hereby established, as an independent establishment in the Executive Branch, the Federal Labor Relations Authority (the “Authority”). The Authority shall be composed of three members, one of whom shall be Chairman, not more than two of whom may be adherents of the same political party, and none of whom may hold another office or position in the Government of the United States except where provided by law or by the President.
+(a) There is hereby established, as an independent establishment in the Executive Branch, the Federal Labor Relations Authority (the "Authority"). The Authority shall be composed of three members, one of whom shall be Chairman, not more than two of whom may be adherents of the same political party, and none of whom may hold another office or position in the Government of the United States except where provided by law or by the President.
 
 (b) Members of the Authority shall be appointed by the President, by and with the advice and consent of the Senate. The President shall designate one member to serve as Chairman of the Authority, who shall be compensated at the rate now or hereafter provided for level III of the Executive Schedule \[5 U.S.C. 5314\]. The other members shall be compensated at the rate now or hereafter provided for level IV of the Executive Schedule \[5 U.S.C. 5315\].
 
@@ -14584,7 +14584,7 @@ There shall be a General Counsel of the Authority, who shall be appointed by the
 
 #### Sec. 303. The Federal Service Impasses Panel
 
-The Federal Service Impasses Panel, established under Executive Order 11491, as amended \[set out under 5 U.S.C. 7101\], (the “Panel”) shall continue, and shall be a distinct organizational entity within the Authority.
+The Federal Service Impasses Panel, established under Executive Order 11491, as amended \[set out under 5 U.S.C. 7101\], (the "Panel") shall continue, and shall be a distinct organizational entity within the Authority.
 
 #### Sec. 304. Functions
 
@@ -14648,7 +14648,7 @@ The positive personnel management tasks of the government—such as training, pr
 
 The adjudication and prosecution responsibilities of the Civil Service Commission will be performed by the Merit Systems Protection Board. The Board will be headed by a bipartisan panel of three members appointed to six-year, staggered terms. This Board would be the first independent and institutionally impartial Federal agency solely for the protection of Federal employees.
 
-The Plan will create, within the Board, a Special Counsel to investigate and prosecute political abuses and merit system violations. Under the civil service reform legislation now being considered by the Congress, the Counsel would have power to investigate and prevent reprisals against employees who report illegal acts—the so-called “whistleblowers.” The Council would be appointed by the President and confirmed by the Senate.
+The Plan will create, within the Board, a Special Counsel to investigate and prosecute political abuses and merit system violations. Under the civil service reform legislation now being considered by the Congress, the Counsel would have power to investigate and prevent reprisals against employees who report illegal acts—the so-called "whistleblowers." The Council would be appointed by the President and confirmed by the Senate.
 
 #### federal labor relations authority
 
@@ -14660,7 +14660,7 @@ The cost of replacing the Civil Service Commission can be paid by our present re
 
 Each of the provisions of this proposed reorganization would accomplish one or more of the purposes set forth in 5 U.S.C. 901(a). No functions are abolished by the Plan, but the offices referred to in 5 U.S.C. 5109(b) and 5 U.S.C. 1103(d) are abolished. The portions of the Plan providing for the appointment and pay for the head and one or more officers of the Office of Personnel Management, the Merit Systems Protection Board, the Federal Labor Relations Authority and the Federal Service Impasses Panel, are necessary to carry out the reorganization. The rates of compensation are comparable to those for similar positions within the Executive Branch.
 
-I am confident that this Plan and the companion civil service reform legislation will both lead to more effective protection of Federal employees’ legitimate rights and a more rewarding workplace. At the same time the American people will benefit from a better managed, more productive and more efficient Federal Government.
+I am confident that this Plan and the companion civil service reform legislation will both lead to more effective protection of Federal employees' legitimate rights and a more rewarding workplace. At the same time the American people will benefit from a better managed, more productive and more efficient Federal Government.
 
 Jimmy Carter.      
 
@@ -14678,7 +14678,7 @@ Prepared by the President and transmitted to the Senate and the House of Represe
 
 #### Sec. 101. Establishment of the Federal Emergency Management Agency
 
-There is hereby established as an independent establishment in the Executive Branch, the Federal Emergency Management Agency (the “Agency”).
+There is hereby established as an independent establishment in the Executive Branch, the Federal Emergency Management Agency (the "Agency").
 
 #### Sec. 102. The Director
 
@@ -14776,7 +14776,7 @@ The new Agency would be in this position. To increase White House oversight and 
 
 The communications, warning, evacuation, and public education processes involved in preparedness for a possible nuclear attack should be developed, tested, and used for major natural and accidental disasters as well. Consolidation of civil defense functions in the new Agency will assure that attack readiness programs are effectively integrated into the preparedness organizations and programs of State and local government, private industry, and volunteer organizations.
 
-While serving an important “all hazards” readiness and response role, civil defense must continue to be fully compatible with and be ready to play an important role in our Nation's overall strategic policy. Accordingly, to maintain a link between our strategic nuclear planning and our nuclear attack preparedness planning, I will make the Secretary of Defense and the National Security Council responsible for oversight of civil defense related programs and policies of the new Agency. This will also include appropriate Department of Defense support in areas like program development, technical support, research, communications, intelligence and emergency operations.
+While serving an important "all hazards" readiness and response role, civil defense must continue to be fully compatible with and be ready to play an important role in our Nation's overall strategic policy. Accordingly, to maintain a link between our strategic nuclear planning and our nuclear attack preparedness planning, I will make the Secretary of Defense and the National Security Council responsible for oversight of civil defense related programs and policies of the new Agency. This will also include appropriate Department of Defense support in areas like program development, technical support, research, communications, intelligence and emergency operations.
 
 *Third, whenever possible, emergency responsibilities should be extensions of the regular missions of Federal agencies*. The primary task of the Federal Emergency Management Agency will be to coordinate and plan for the emergency deployment of resources that have other routine uses. There is no need to develop a separate set of Federal skills and capabilities for those rare occasions when catastrophe occurs.
 
@@ -14784,7 +14784,7 @@ While serving an important “all hazards” readiness and response role, civil 
 
 The affected hazard mitigation activities include the Federal Insurance Administration which seeks to reduce flood losses by assisting States and local governments in developing appropriate land uses and building standards and several agencies that presently seek to reduce fire and earthquake losses through research and education.
 
-Most State and local governments have consolidated emergency planning, preparedness and response functions on an “all hazard” basis to take advantage of the similarities in preparing for and responding to the full range of potential emergencies. The Federal Government can and should follow this lead.
+Most State and local governments have consolidated emergency planning, preparedness and response functions on an "all hazard" basis to take advantage of the similarities in preparing for and responding to the full range of potential emergencies. The Federal Government can and should follow this lead.
 
 Each of the changes set forth in the plan is necessary to accomplish one or more of the purposes set forth in section 901(a) of title 5 of the United States Code. The plan does not call for abolishing any functions now authorized by law. The provisions in the plan for the appointment and pay of any head or officer of the new agency have been found by me to be necessary.
 
@@ -14808,13 +14808,13 @@ Prepared by the President and transmitted to the Senate and the House of Represe
 
 Except as otherwise provided in Sections 104 and 106 of this Plan, all authority of the Secretary of Labor to issue the following described documents pursuant to the statutes hereinafter specified is hereby transferred to the Secretary of the Treasury:
 
-(a) regulations, rulings, opinions, variances and waivers under Parts 2 \[29 U.S.C. 1051 et seq.\] and 3 \[29 U.S.C. 1081 et seq.\] of Subtitle B of Title I and subsection 1012(c) \[set out as a note under 26 U.S.C. 411\] of Title II of the Employee Retirement Income Security Act of 1974 (29 U.S.C. 1001 note) (hereinafter referred to as “ERISA”),
+(a) regulations, rulings, opinions, variances and waivers under Parts 2 \[29 U.S.C. 1051 et seq.\] and 3 \[29 U.S.C. 1081 et seq.\] of Subtitle B of Title I and subsection 1012(c) \[set out as a note under 26 U.S.C. 411\] of Title II of the Employee Retirement Income Security Act of 1974 (29 U.S.C. 1001 note) (hereinafter referred to as "ERISA"),
 
 EXCEPT for sections and subsections 201, 203(a)(3)(B), 209, and 301(a) of ERISA \[29 U.S.C. 1051, 1053(a)(3)(B), 1059, and 1081(a)\];
 
-(b) such regulations, rulings, and opinions which are granted to the Secretary of Labor under Sections 404, 410, 411, 412, and 413 of the Internal Revenue Code of 1986, as amended \[26 U.S.C. 404, 410, 411, 412, and 413\], (hereinafter referred to as the “Code”).
+(b) such regulations, rulings, and opinions which are granted to the Secretary of Labor under Sections 404, 410, 411, 412, and 413 of the Internal Revenue Code of 1986, as amended \[26 U.S.C. 404, 410, 411, 412, and 413\], (hereinafter referred to as the "Code").
 
-EXCEPT for subsection 411(a)(3)(B) of the Code \[section 411(a)(3)(B) of Title 26\] and the definitions of “collectively bargained plan” and “collective bargaining agreement” contained in subsections 404 (a)(1)(B) and (a)(1)(C), 410(b)(2)(A) and (b)(2)(B), and 413(a)(1) of the Code \[26 U.S.C. 404(a)(1)(B) and (a)(1)(C), 410(b)(2)(A) and (b)(2)(B), and 413(a)(1)\]; and
+EXCEPT for subsection 411(a)(3)(B) of the Code \[section 411(a)(3)(B) of Title 26\] and the definitions of "collectively bargained plan" and "collective bargaining agreement" contained in subsections 404 (a)(1)(B) and (a)(1)(C), 410(b)(2)(A) and (b)(2)(B), and 413(a)(1) of the Code \[26 U.S.C. 404(a)(1)(B) and (a)(1)(C), 410(b)(2)(A) and (b)(2)(B), and 413(a)(1)\]; and
 
 (c) regulations, rulings, and opinions under subsections 3(19), 3(22), 3(23), 3(24), 3(25), 3(27), 3(28), 3(29), 3(30), and 3(31) of Subtitle A of Title I of ERISA \[29 U.S.C. 1002(19), (22), (23), (24), (25), (27), (28), (29), (30), and (31)\]. \[As amended Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095.\]
 
@@ -14928,17 +14928,17 @@ Prepared by the President and transmitted to the Senate and House of Representat
 
 #### Sec. 101. Establishment of the Office of Federal Inspector for the Alaska Natural Gas Transportation System
 
-(a) There is hereby established as an independent establishment in the executive branch, the Office of the Federal Inspector for the Alaska Natural Gas Transportation System (the “Office”).
+(a) There is hereby established as an independent establishment in the executive branch, the Office of the Federal Inspector for the Alaska Natural Gas Transportation System (the "Office").
 
-(b) The Office shall be headed by a Federal Inspector for the Alaska Natural Gas Transportation System (the “Federal Inspector”) who shall be appointed by the President, by and with the advice and consent of the Senate, and shall be compensated at the rate now or hereafter prescribed by law for Level III of the Executive Schedule \[5 U.S.C. 5314\], and who shall serve at the pleasure of the President.
+(b) The Office shall be headed by a Federal Inspector for the Alaska Natural Gas Transportation System (the "Federal Inspector") who shall be appointed by the President, by and with the advice and consent of the Senate, and shall be compensated at the rate now or hereafter prescribed by law for Level III of the Executive Schedule \[5 U.S.C. 5314\], and who shall serve at the pleasure of the President.
 
 (c) Each Federal agency having statutory responsibilities over any aspect of the Alaska Natural Gas Transportation System shall appoint an Agency Authorized Officer to represent that authority on all matters pertaining to pre-construction, construction, and initial operation of the system.
 
 #### Sec. 102. Transfer of Functions to the Federal Inspector
 
-Subject to the provisions of Sections 201, 202, and 203 of this Plan, all functions insofar as they relate to enforcement of Federal statutes or regulations and to enforcement of terms, conditions, and stipulations of grants, certificates, permits and other authorizations issued by Federal agencies with respect to pre-construction, construction, and initial operation of an “approved transportation system” for transport of Canadian natural gas and “Alaskan natural gas,” as such terms are defined in the Alaska Natural Gas Transportation Act of 1976 (15 U.S.C. 719 et seq.), hereinafter called the “Act”, are hereby transferred to the Federal Inspector. This transfer shall vest in the Federal Inspector exclusive responsibility for enforcement of all Federal statutes relevant in any manner to pre-construction, construction, and initial operation. With respect to each of the statutory authorities cited below, the transferred functions include all enforcement functions of the given agencies or their officials under the statutes as may be related to the enforcement of such terms, conditions, and stipulations, including but not limited to the specific sections of the statute cited. “Enforcement”, for purposes of this transfer of functions, includes monitoring and any other compliance or oversight activities reasonably related to the enforcement process. These transferred functions include:
+Subject to the provisions of Sections 201, 202, and 203 of this Plan, all functions insofar as they relate to enforcement of Federal statutes or regulations and to enforcement of terms, conditions, and stipulations of grants, certificates, permits and other authorizations issued by Federal agencies with respect to pre-construction, construction, and initial operation of an "approved transportation system" for transport of Canadian natural gas and "Alaskan natural gas," as such terms are defined in the Alaska Natural Gas Transportation Act of 1976 (15 U.S.C. 719 et seq.), hereinafter called the "Act", are hereby transferred to the Federal Inspector. This transfer shall vest in the Federal Inspector exclusive responsibility for enforcement of all Federal statutes relevant in any manner to pre-construction, construction, and initial operation. With respect to each of the statutory authorities cited below, the transferred functions include all enforcement functions of the given agencies or their officials under the statutes as may be related to the enforcement of such terms, conditions, and stipulations, including but not limited to the specific sections of the statute cited. "Enforcement", for purposes of this transfer of functions, includes monitoring and any other compliance or oversight activities reasonably related to the enforcement process. These transferred functions include:
 
-(a) Such enforcement functions of the Administrator or other appropriate official or entity in the Environmental Protection Agency related to compliance with: national pollutant discharge elimination system permits provided for in Section 402 of the Federal Water Pollution Control Act (33 U.S.C. 1342); spill prevention, containment and countermeasure plans in Section 311 of the Federal Water Pollution Control Act (33 U.S.C. 1321); review of the Corps of Engineers’ dredged and fill material permits issued under Section 404 of the Federal Water Pollution Control Act (33 U.S.C. 1344); new source performance standards in Section 111 of the Clean Air Act, as amended by the Clean Air Act Amendments of 1977 (42 U.S.C. 7411); prevention of significant deterioration review and approval in Sections 160–169 of the Clean Air Act, as amended by the Clean Air Amendments of 1977 (42 U.S.C. 7470 et seq.); and the resource conservation and recovery permits issued under the Resource Conservation and Recovery Act of 1976 (42 U.S.C. 6901 et seq.);
+(a) Such enforcement functions of the Administrator or other appropriate official or entity in the Environmental Protection Agency related to compliance with: national pollutant discharge elimination system permits provided for in Section 402 of the Federal Water Pollution Control Act (33 U.S.C. 1342); spill prevention, containment and countermeasure plans in Section 311 of the Federal Water Pollution Control Act (33 U.S.C. 1321); review of the Corps of Engineers' dredged and fill material permits issued under Section 404 of the Federal Water Pollution Control Act (33 U.S.C. 1344); new source performance standards in Section 111 of the Clean Air Act, as amended by the Clean Air Act Amendments of 1977 (42 U.S.C. 7411); prevention of significant deterioration review and approval in Sections 160–169 of the Clean Air Act, as amended by the Clean Air Amendments of 1977 (42 U.S.C. 7470 et seq.); and the resource conservation and recovery permits issued under the Resource Conservation and Recovery Act of 1976 (42 U.S.C. 6901 et seq.);
 
 (b) Such enforcement functions of the Secretary of the Army, the Chief of Engineers, or other appropriate officer or entity in the Corps of Engineers of the United States Army related to compliance with: dredged and fill material permits issued under Section 404 of the Federal Water Pollution Control Act (33 U.S.C. 1344); and permits for structures in navigable waters, issued under Section 10 of the Rivers and Harbors Appropriation Act of 1899 (33 U.S.C. 403);
 
@@ -14956,19 +14956,19 @@ Subject to the provisions of Sections 201, 202, and 203 of this Plan, all functi
 
 (2) All functions assigned to the person or board to be appointed by the President under Section 7(a)(5) of the Act (15 U.S.C. 719e); and
 
-(3) Pursuant to Section 7(a)(6) of the Act (15 U.S.C. 719e), enforcement of the terms and conditions described in Section 5 of the Decision and Report to the Congress on the Alaska Natural Gas Transportation System, as approved by the Congress pursuant to Public Law 95–158 (91 Stat. 1268), November 2 \[8\], 1977 \[set out under 15 U.S.C. 719f\]; (hereinafter the “Decision”).
+(3) Pursuant to Section 7(a)(6) of the Act (15 U.S.C. 719e), enforcement of the terms and conditions described in Section 5 of the Decision and Report to the Congress on the Alaska Natural Gas Transportation System, as approved by the Congress pursuant to Public Law 95–158 (91 Stat. 1268), November 2 \[8\], 1977 \[set out under 15 U.S.C. 719f\]; (hereinafter the "Decision").
 
 #### Part II. Other Provisions
 
 #### Sec. 201. Executive Policy Board
 
-The Executive Policy Board for the Alaska Natural Gas Transportation System, hereinafter the “Executive Policy Board”, which shall be established by executive order, shall advise the Federal Inspector on the performance of the Inspector's functions. All other functions assigned, or which could be assigned pursuant to the Decision, to the Executive Policy Board are hereby transferred to the Federal Inspector.
+The Executive Policy Board for the Alaska Natural Gas Transportation System, hereinafter the "Executive Policy Board", which shall be established by executive order, shall advise the Federal Inspector on the performance of the Inspector's functions. All other functions assigned, or which could be assigned pursuant to the Decision, to the Executive Policy Board are hereby transferred to the Federal Inspector.
 
 #### Sec. 202. Federal Inspector and Agency Authorized Officers
 
-(a) The Agency Authorized Officers shall be detailed to and located within the Office. The Federal Inspector shall delegate to each Agency Authorized Officer the authority to enforce the terms, conditions, and stipulations of each grant, permit, or other authorization issued by the Federal agency which appointed the Agency Authorized Officer. In the exercise of these enforcement functions, the Agency Authorized Officers shall be subject to the supervision and direction of the Federal Inspector, whose decision on enforcement matters shall constitute “action” for purposes of Section 10 of the Act (15 U.S.C. 719h).
+(a) The Agency Authorized Officers shall be detailed to and located within the Office. The Federal Inspector shall delegate to each Agency Authorized Officer the authority to enforce the terms, conditions, and stipulations of each grant, permit, or other authorization issued by the Federal agency which appointed the Agency Authorized Officer. In the exercise of these enforcement functions, the Agency Authorized Officers shall be subject to the supervision and direction of the Federal Inspector, whose decision on enforcement matters shall constitute "action" for purposes of Section 10 of the Act (15 U.S.C. 719h).
 
-(b) The Federal Inspector shall be responsible for coordinating the expeditious discharge of nonenforcement activities by Federal agencies and coordinating the compliance by all the Federal agencies with Section 9 of the Act (15 U.S.C. 719g). Such coordination shall include requiring submission of scheduling plans for all permits, certificates, grants or other necessary authorizations, and coordinating scheduling of system-related agency activities. Such coordination may include serving as the “one window” point for filing for and issuance of all necessary permits, certificates, grants or other authorizations, and, consistent with law, Federal government requests for data or information related to any application for a permit, certificate, grant or other authorization. Upon agreement between the Federal Inspector and the head of any agency, that agency may delegate to the Federal Inspector any statutory function vested in such agency related to the functions of the Federal Inspector.
+(b) The Federal Inspector shall be responsible for coordinating the expeditious discharge of nonenforcement activities by Federal agencies and coordinating the compliance by all the Federal agencies with Section 9 of the Act (15 U.S.C. 719g). Such coordination shall include requiring submission of scheduling plans for all permits, certificates, grants or other necessary authorizations, and coordinating scheduling of system-related agency activities. Such coordination may include serving as the "one window" point for filing for and issuance of all necessary permits, certificates, grants or other authorizations, and, consistent with law, Federal government requests for data or information related to any application for a permit, certificate, grant or other authorization. Upon agreement between the Federal Inspector and the head of any agency, that agency may delegate to the Federal Inspector any statutory function vested in such agency related to the functions of the Federal Inspector.
 
 (c) The Federal Inspector and Agency Authorized Officers in implementing the enforcement authorities herein transferred shall carry out the enforcement policies and procedures established by the Federal agencies which nominally administer these authorities, except where the Federal Inspector determines that such policies and procedures would require action inconsistent with Section 9 of the Act (15 U.S.C. 719g).
 
@@ -15032,7 +15032,7 @@ Prepared by the President and transmitted to the Senate and the House of Represe
 
 (a) The Office of the Special Representative for Trade Negotiations is redesignated the Office of the United States Trade Representative.
 
-(b)(1) The Special Representative for Trade Negotiations is redesignated the United States Trade Representative (hereinafter referred to as the “Trade Representative”). The Trade Representative shall have primary responsibility, with the advice of the interagency organization established under section 242 of the Trade Expansion Act of 1962 (19 U.S.C. 1872) (hereinafter referred to as the “Committee”), for developing, and for coordinating the implementation of, United States international trade policy, including commodity matters and, to the extent they are related to international trade policy, direct investment matters. The Trade Representative shall serve as the principal advisor to the President on international trade policy and shall advise the President on the impact of other policies of the United States Government on international trade.
+(b)(1) The Special Representative for Trade Negotiations is redesignated the United States Trade Representative (hereinafter referred to as the "Trade Representative"). The Trade Representative shall have primary responsibility, with the advice of the interagency organization established under section 242 of the Trade Expansion Act of 1962 (19 U.S.C. 1872) (hereinafter referred to as the "Committee"), for developing, and for coordinating the implementation of, United States international trade policy, including commodity matters and, to the extent they are related to international trade policy, direct investment matters. The Trade Representative shall serve as the principal advisor to the President on international trade policy and shall advise the President on the impact of other policies of the United States Government on international trade.
 
 (2) The Trade Representative shall have lead responsibility for the conduct of international trade negotiations, including commodity and direct investment negotiations in which the United States participates.
 
@@ -15056,9 +15056,9 @@ Prepared by the President and transmitted to the Senate and the House of Represe
 
 #### Sec. 2. Department of Commerce
 
-(a) The Secretary of Commerce (hereinafter referred to as the “Secretary”) shall have, in addition to any other functions assigned by law, general operational responsibility for major nonagricultural international trade functions of the United States Government, including export development, commercial representation abroad, the administration of the antidumping and countervailing duty laws, export controls, trade adjustment assistance to firms and communities, research and analysis, and monitoring compliance with international trade agreements to which the United States is a party.
+(a) The Secretary of Commerce (hereinafter referred to as the "Secretary") shall have, in addition to any other functions assigned by law, general operational responsibility for major nonagricultural international trade functions of the United States Government, including export development, commercial representation abroad, the administration of the antidumping and countervailing duty laws, export controls, trade adjustment assistance to firms and communities, research and analysis, and monitoring compliance with international trade agreements to which the United States is a party.
 
-(b)(1) There shall be in the Department of Commerce (hereinafter referred to as the “Department”) a Deputy Secretary appointed by the President, by and with the advice and consent of the Senate. The Deputy Secretary shall receive compensation at the rate payable for Level II of the Executive Schedule \[5 U.S.C. 5313\], and shall perform such duties and exercise such powers as the Secretary may from time to time prescribe.
+(b)(1) There shall be in the Department of Commerce (hereinafter referred to as the "Department") a Deputy Secretary appointed by the President, by and with the advice and consent of the Senate. The Deputy Secretary shall receive compensation at the rate payable for Level II of the Executive Schedule \[5 U.S.C. 5313\], and shall perform such duties and exercise such powers as the Secretary may from time to time prescribe.
 
 (2) The position of Under Secretary of Commerce established under section 1 of the Act of June 5, 1939 (ch. 180, 53 Stat. 808; 15 U.S.C. 1502) is abolished.
 
@@ -15244,7 +15244,7 @@ Prepared by the President and submitted to the Senate and the House of Represent
 
 #### NUCLEAR REGULATORY COMMISSION
 
-Section 1. (a) Those functions of the Nuclear Regulatory Commission, hereinafter referred to as the “Commission”, concerned with:
+Section 1. (a) Those functions of the Nuclear Regulatory Commission, hereinafter referred to as the "Commission", concerned with:
 
 (1) policy formulation;
 
@@ -15252,7 +15252,7 @@ Section 1. (a) Those functions of the Nuclear Regulatory Commission, hereinafter
 
 (3) orders and adjudications, as defined in section 551 (6) and (7) of Title 5 of the United States Code;
 
-shall remain vested in the Commission. The Commission may determine by majority vote, in an area of doubt, whether any matter, action, question or area of inquiry pertains to one of these functions. The performance of any portion of these functions may be delegated by the Commission to a member of the Commission, including the Chairman of the Nuclear Regulatory Commission, hereinafter referred to as the “Chairman”, and to the staff through the Chairman.
+shall remain vested in the Commission. The Commission may determine by majority vote, in an area of doubt, whether any matter, action, question or area of inquiry pertains to one of these functions. The performance of any portion of these functions may be delegated by the Commission to a member of the Commission, including the Chairman of the Nuclear Regulatory Commission, hereinafter referred to as the "Chairman", and to the staff through the Chairman.
 
 (b)(1) With respect to the following officers or successor officers duly established by statute or by the Commission, the Chairman shall initiate the appointment, subject to the approval of the Commission; and the Chairman or a member of the Commission may initiate an action for removal, subject to the approval of the Commission;
 
@@ -15344,11 +15344,11 @@ The Plan clarifies the duties of the Chairman as principal executive officer. In
 
 Intensive investigations undertaken since the Three Mile Island accident have revealed management problems at the Nuclear Regulatory Commission. These problems must be rectified if the Commission is to be a strong and effective safety regulator.
 
-—My Commission, called the Kemeny Commission after its Chairman, Dr. John Kemeny, concluded that the underlying problem at Three Mile Island stemmed not from deficient equipment but rather from compounded human failures. This included the inability of the Nuclear Regulatory Commission to pursue its safety mission effectively in view of its existing management policies and practices. The Kemeny Commission reported a lack of “closure” in the system to ensure that safety issues are raised, analyzed and resolved. Kemeny Commission members also concluded that the Nuclear Regulatory Commission relies too heavily on licensing, and pays insufficient attention to ensuring the safety of plants once they are in operation.
+—My Commission, called the Kemeny Commission after its Chairman, Dr. John Kemeny, concluded that the underlying problem at Three Mile Island stemmed not from deficient equipment but rather from compounded human failures. This included the inability of the Nuclear Regulatory Commission to pursue its safety mission effectively in view of its existing management policies and practices. The Kemeny Commission reported a lack of "closure" in the system to ensure that safety issues are raised, analyzed and resolved. Kemeny Commission members also concluded that the Nuclear Regulatory Commission relies too heavily on licensing, and pays insufficient attention to ensuring the safety of plants once they are in operation.
 
 —During the course of its investigation, the Kemeny Commission found serious managerial problems at the top of the Nuclear Regulatory Commission. It noted that the Commissioners and the Chairman are unclear as to their respective roles. Uncertain, diffuse leadership of this kind leads to highly compartmentalized offices that operate with little or no effective guidance and little coordination.
 
-—A recently completed independent study authorized and funded by the Nuclear Regulatory Commission itself also found serious fault with the Commission's management and called for a major organizational overhaul. The report states that there is no authoritative manager but, instead, five equally responsible Commissioners who deal individually with office directors who, in turn, head their own “independent fiefdoms.”
+—A recently completed independent study authorized and funded by the Nuclear Regulatory Commission itself also found serious fault with the Commission's management and called for a major organizational overhaul. The report states that there is no authoritative manager but, instead, five equally responsible Commissioners who deal individually with office directors who, in turn, head their own "independent fiefdoms."
 
 —Likewise, a recent report of the General Accounting Office notes the failure of the Nuclear Regulatory Commission to define either the authority of the Chairman or that of the Executive Director for Operations. The staff lacks policy guidance and top management leadership to set priorities and resolve safety issues. There are unreasonable delays in developing policies to guide the licensing and enforcement activities of the agency.
 

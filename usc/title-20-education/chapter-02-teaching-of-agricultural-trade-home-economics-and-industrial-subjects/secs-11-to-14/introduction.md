@@ -14,4 +14,4 @@ Act June 8, 1936, ch. 541, §2, 49 Stat. 1488, as amended by act Aug. 1, 1946, c
 
 The act of June 8, 1936, ch. 541, 49 Stat. 1488 (enacting sections 15i to 15ggg of this title), which was repealed by Pub. L. 90–576, title I, §103, Oct. 16, 1968, 82 Stat. 1091, was known as the Vocational Education Act of 1946.
 
-Pub. L. 87–22, §1, Apr. 24, 1961, 75 Stat. 44, provided that Pub. L. 87–22 (amending sections 15aa, 15bb, 15cc, and 15jj of this title) could be cited as “The Practical Nurse Training Extension Act of 1961”.
+Pub. L. 87–22, §1, Apr. 24, 1961, 75 Stat. 44, provided that Pub. L. 87–22 (amending sections 15aa, 15bb, 15cc, and 15jj of this title) could be cited as "The Practical Nurse Training Extension Act of 1961".

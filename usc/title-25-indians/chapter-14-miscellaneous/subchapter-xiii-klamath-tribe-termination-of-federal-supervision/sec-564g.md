@@ -34,6 +34,6 @@ The Secretary is authorized to approve—
 
 **1958**—Subsec. (b). Pub. L. 85–731 struck out provision making subsection inapplicable to subsurface rights and directing Secretary to transfer subsurface rights to trustees for management for a period not less than ten years.
 
-**1957**—Subsec. (b). Pub. L. 85–132, §1(i), substituted “interests in land, wherever located” for “land”, and inserted “purchasers” and “and on trust or restricted interests in land within the Klamath Reservation regardless of ownership” preceding proviso.
+**1957**—Subsec. (b). Pub. L. 85–132, §1(i), substituted "interests in land, wherever located" for "land", and inserted "purchasers" and "and on trust or restricted interests in land within the Klamath Reservation regardless of ownership" preceding proviso.
 
-Subsec. (c). Pub. L. 85–132, §1(h), inserted “one or by” after “on land owned by”.
+Subsec. (c). Pub. L. 85–132, §1(h), inserted "one or by" after "on land owned by".

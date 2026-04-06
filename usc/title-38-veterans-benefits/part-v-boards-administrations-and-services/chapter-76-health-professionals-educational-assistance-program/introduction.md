@@ -110,9 +110,9 @@ Sec.
 
 #### Amendments
 
-**2010**—Pub. L. 111–163, title VI, §603(d), May 5, 2010, 124 Stat. 1174, added items 7618 and 7619 and struck out former item 7618 “Expiration of program”.
+**2010**—Pub. L. 111–163, title VI, §603(d), May 5, 2010, 124 Stat. 1174, added items 7618 and 7619 and struck out former item 7618 "Expiration of program".
 
-**2002**—Pub. L. 107–135, title I, §§101(a)(2), 102(a)(2), Jan. 23, 2002, 115 Stat. 2447, 2448, struck out items 7676 “Expiration of program” and 7684 “Expiration of program”.
+**2002**—Pub. L. 107–135, title I, §§101(a)(2), 102(a)(2), Jan. 23, 2002, 115 Stat. 2447, 2448, struck out items 7676 "Expiration of program" and 7684 "Expiration of program".
 
 **1998**—Pub. L. 105–368, title VIII, §§802(b), 803(b), Nov. 11, 1998, 112 Stat. 3356, 3358, added headings for subchapters VI and VII and items 7671 to 7676 and 7681 to 7684.
 

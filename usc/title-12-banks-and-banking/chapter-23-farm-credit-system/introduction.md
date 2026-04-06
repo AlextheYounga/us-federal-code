@@ -232,7 +232,7 @@ Sec.
 
 2214\. State laws.
 
-2214a. “Bank” defined.
+2214a. "Bank" defined.
 
         
 

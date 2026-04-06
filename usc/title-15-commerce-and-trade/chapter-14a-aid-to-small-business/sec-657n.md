@@ -36,4 +36,4 @@ Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110�
 
 Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as a note under section 8701 of Title 7, Agriculture.
 
-[1 So in original. Probably should be “subsection (a)”.](#657n_1)
+[1 So in original. Probably should be "subsection (a)".](#657n_1)

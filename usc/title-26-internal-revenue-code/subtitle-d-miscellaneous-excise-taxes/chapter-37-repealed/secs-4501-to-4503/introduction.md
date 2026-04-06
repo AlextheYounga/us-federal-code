@@ -12,7 +12,7 @@ Section 4504, acts Aug. 16, 1954, ch. 736, 68A Stat. 535; May 29, 1956, ch. 342,
 
 Section 4511, act Aug. 16, 1954, ch. 736, 68A Stat. 536, imposed a tax upon the processing of coconut oil, etc.
 
-Section 4512, act Aug. 16, 1954, ch. 736, 68A Stat. 536, defined “first domestic processing”.
+Section 4512, act Aug. 16, 1954, ch. 736, 68A Stat. 536, defined "first domestic processing".
 
 Section 4513, act Aug. 16, 1954, ch. 736, 68A Stat. 536, related to exemptions from the tax imposed.
 

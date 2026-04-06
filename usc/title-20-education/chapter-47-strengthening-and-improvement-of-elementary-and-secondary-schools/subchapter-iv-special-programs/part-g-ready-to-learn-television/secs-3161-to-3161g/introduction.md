@@ -18,4 +18,4 @@ Section 3161e, Pub. L. 89–10, title IV, §4706, as added Pub. L. 102–545, §
 
 Section 3161f, Pub. L. 89–10, title IV, §4707, as added Pub. L. 102–545, §3, Oct. 27, 1992, 106 Stat. 3589, which related to administrative costs, was renumbered section 477 of the General Education Provisions Act by Pub. L. 103–252, title I, §121(a)(1), May 18, 1994, 108 Stat. 649, transferred to section 1235f of this title, and subsequently repealed.
 
-Section 3161g, Pub. L. 89–10, title IV, §4708, as added Pub. L. 102–545, §3, Oct. 27, 1992, 106 Stat. 3589, which defined “distance learning”, was renumbered section 478 of the General Education Provisions Act by Pub. L. 103–252, title I, §121(a)(1), May 18, 1994, 108 Stat. 649, transferred to section 1235g of this title, and subsequently repealed.
+Section 3161g, Pub. L. 89–10, title IV, §4708, as added Pub. L. 102–545, §3, Oct. 27, 1992, 106 Stat. 3589, which defined "distance learning", was renumbered section 478 of the General Education Provisions Act by Pub. L. 103–252, title I, §121(a)(1), May 18, 1994, 108 Stat. 649, transferred to section 1235g of this title, and subsequently repealed.

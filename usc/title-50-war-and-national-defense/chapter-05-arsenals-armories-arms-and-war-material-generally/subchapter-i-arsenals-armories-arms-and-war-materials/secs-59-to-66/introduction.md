@@ -8,13 +8,13 @@ Section 61, acts Mar. 3, 1879, ch. 183, 20 Stat. 412; Apr. 14, 1937, ch. 79, 50 
 
 Section 62, acts Feb. 10, 1920, ch. 64, 41 Stat. 403; June 5, 1920, ch. 240, 41 Stat. 976; May 26, 1952, ch. 334, 66 Stat. 94, authorized loan of rifles to organizations of honorably discharged soldiers. See section 4683 of Title 10.
 
-Section 62a, act June 30, 1906, ch. 3938, 34 Stat. 817, authorized loan of ordnance to schools and State homes for veterans’ orphans. See sections 4685 and 9685 of Title 10.
+Section 62a, act June 30, 1906, ch. 3938, 34 Stat. 817, authorized loan of ordnance to schools and State homes for veterans' orphans. See sections 4685 and 9685 of Title 10.
 
 Section 62b, act Dec. 15, 1926, ch. 10, 44 Stat. 922, authorized Secretary of War to relieve posts or camps or organizations composed of honorably discharged soldiers, sailors, or marines, and sureties on bonds, from liability on account of loss or destruction of rifles, slings, and cartridge belts loaned to such organizations. See section 4683 of Title 10.
 
 Section 62c, acts May 29, 1934, ch. 369, 48 Stat. 815; Aug. 30, 1935, ch. 826, 49 Stat. 1013, authorized Secretary of War to donate Army equipment loaned under authority of section 62 of this title.
 
-Section 63, act May 11, 1908, ch. 163, 35 Stat. 125, authorized sales of ordnance property to schools and State homes for veterans’ orphans. See sections 4625 and 9625 of Title 10, Armed Forces.
+Section 63, act May 11, 1908, ch. 163, 35 Stat. 125, authorized sales of ordnance property to schools and State homes for veterans' orphans. See sections 4625 and 9625 of Title 10, Armed Forces.
 
 Section 64, acts May 28, 1908, ch. 215, §14, 35 Stat. 443; June 28, 1950, ch. 383, title IV, §402(g), 64 Stat. 273; Oct. 31, 1951, ch. 654, §2(26), 65 Stat. 707, authorized sale of obsolete small arms to patriotic organizations. See sections 4684 and 9684 of Title 10.
 

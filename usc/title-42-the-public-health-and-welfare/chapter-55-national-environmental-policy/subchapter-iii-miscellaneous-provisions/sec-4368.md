@@ -4,7 +4,7 @@
 
 (2) Grants under this section may be made for the purpose of supporting and encouraging participation by qualified citizens groups in determining how scientific, technological, and social trends and changes affect the future environment and quality of life of an area, and for setting goals and identifying measures for improvement.
 
-(3) The term “qualified citizens group” shall mean a nonprofit organization of citizens having an area based focus, which is not single-issue oriented and which can demonstrate a prior record of interest and involvement in goal-setting and research concerned with improving the quality of life, including plans to identify, protect and enhance significant natural and cultural resources and the environment.
+(3) The term "qualified citizens group" shall mean a nonprofit organization of citizens having an area based focus, which is not single-issue oriented and which can demonstrate a prior record of interest and involvement in goal-setting and research concerned with improving the quality of life, including plans to identify, protect and enhance significant natural and cultural resources and the environment.
 
 (4) A citizens group shall be eligible for assistance only if certified by the Governor in consultation with the State legislature as a bonafide organization entitled to receive Federal assistance to pursue the aims of this program. The group shall further demonstrate its capacity to employ usefully the funds for the purposes of this program and its broad-based representative nature.
 

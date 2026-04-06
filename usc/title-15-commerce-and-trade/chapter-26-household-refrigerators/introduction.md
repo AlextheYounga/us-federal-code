@@ -8,6 +8,6 @@ Sec.
 
 1213\. Publication of safety standards in Federal Register.
 
-1214\. “Interstate commerce” defined.
+1214\. "Interstate commerce" defined.
 
         

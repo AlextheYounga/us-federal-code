@@ -52,7 +52,7 @@ Amounts recovered under paragraph (1) shall be available to the Secretary for ma
 
 #### (e) Eligible individual defined
 
-For purposes of this section, the term “eligible individual” means an individual who—
+For purposes of this section, the term "eligible individual" means an individual who—
 
 (1) is a United States citizen, national, or lawful permanent resident;
 
@@ -80,4 +80,4 @@ A prior section 297q, act July 1, 1944, ch. 373, title VIII, §841, as added Pub
 
 [2 So in original. Probably should not be capitalized.](#297o_2)
 
-[3 So in original. Probably should be “individual student loan repayments”.](#297o_3)
+[3 So in original. Probably should be "individual student loan repayments".](#297o_3)

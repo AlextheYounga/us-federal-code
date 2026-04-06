@@ -6,9 +6,9 @@ Section 616k, Pub. L. 87–594, §1, Aug. 24, 1962, 76 Stat. 395, authorized con
 
 Section 616l, Pub. L. 87–594, §2, Aug. 24, 1962, 76 Stat. 395, related to allocation of costs of construction, operation, and maintenance of this project.
 
-Section 616m, Pub. L. 87–594, §3, Aug. 24, 1962, 76 Stat. 396, related to contracts with water users’ organization.
+Section 616m, Pub. L. 87–594, §3, Aug. 24, 1962, 76 Stat. 396, related to contracts with water users' organization.
 
-Section 616n, Pub. L. 87–594, §4, Aug. 24, 1962, 76 Stat. 396, related to transfer of care, operation, and maintenance of this project to water users’ organization.
+Section 616n, Pub. L. 87–594, §4, Aug. 24, 1962, 76 Stat. 396, related to transfer of care, operation, and maintenance of this project to water users' organization.
 
 Section 616o, Pub. L. 87–594, §5, Aug. 24, 1962, 76 Stat. 397, related to construction of this project in stages or units.
 

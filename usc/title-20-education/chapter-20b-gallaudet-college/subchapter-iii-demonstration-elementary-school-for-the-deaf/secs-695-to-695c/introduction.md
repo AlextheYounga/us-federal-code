@@ -2,7 +2,7 @@
 
 Section 695, Pub. L. 91–587, §1, Dec. 24, 1970, 84 Stat. 1579, authorized Gallaudet College to operate Kendall School as a demonstration elementary school for the deaf. See section 4311 of this title.
 
-Section 695a, Pub. L. 91–587, §2, Dec. 24, 1970, 84 Stat. 1579, defined “elementary school” and “construction”. See section 4351 of this title.
+Section 695a, Pub. L. 91–587, §2, Dec. 24, 1970, 84 Stat. 1579, defined "elementary school" and "construction". See section 4351 of this title.
 
 Section 695b, Pub. L. 91–587, §3, Dec. 24, 1970, 84 Stat. 1579, authorized appropriations for establishment and operation, including construction and equipment, of demonstration elementary school.
 

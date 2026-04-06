@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-There is established in the Administration a Center for Substance Abuse Treatment (hereafter in this section referred to as the “Center”). The Center shall be headed by a Director (hereafter in this section referred to as the “Director”) appointed by the Secretary from among individuals with extensive experience or academic qualifications in the treatment of substance abuse or in the evaluation of substance abuse treatment systems.
+There is established in the Administration a Center for Substance Abuse Treatment (hereafter in this section referred to as the "Center"). The Center shall be headed by a Director (hereafter in this section referred to as the "Director") appointed by the Secretary from among individuals with extensive experience or academic qualifications in the treatment of substance abuse or in the evaluation of substance abuse treatment systems.
 
 #### (b) Duties
 
@@ -50,17 +50,17 @@ A prior section 507 of act July 1, 1944, which was classified to section 290aa�
 
 #### Amendments
 
-**2003**—Subsec. (b)(6). Pub. L. 108–173 substituted “Centers for Medicare & Medicaid Services” for “Health Care Financing Administration”.
+**2003**—Subsec. (b)(6). Pub. L. 108–173 substituted "Centers for Medicare & Medicaid Services" for "Health Care Financing Administration".
 
 **2000**—Subsec. (b)(2) to (6). Pub. L. 106–310, §3112(a)(1), (2), added pars. (2) and (3) and redesignated former pars. (2) to (4) as (4) to (6), respectively. Former pars. (5) and (6) redesignated (7) and (8), respectively.
 
-Subsec. (b)(7). Pub. L. 106–310, §3112(a)(1), (3), redesignated par. (5) as (7) and substituted “services” for “services, and monitor the use of revolving loan funds pursuant to section 300x–25 of this title”. Former par. (7) redesignated (9).
+Subsec. (b)(7). Pub. L. 106–310, §3112(a)(1), (3), redesignated par. (5) as (7) and substituted "services" for "services, and monitor the use of revolving loan funds pursuant to section 300x–25 of this title". Former par. (7) redesignated (9).
 
 Subsec. (b)(8) to (12). Pub. L. 106–310, §3112(a)(1), redesignated pars. (6) to (10) as (8) to (12), respectively. Former pars. (11) and (12) redesignated (13) and (14), respectively.
 
-Subsec. (b)(13). Pub. L. 106–310, §3112(a)(1), (4), redesignated par. (11) as (13) and substituted “treatment, which shall” for “treatment, including the effect of living in housing provided by programs established under section 300x–25 of this title, which shall”.
+Subsec. (b)(13). Pub. L. 106–310, §3112(a)(1), (4), redesignated par. (11) as (13) and substituted "treatment, which shall" for "treatment, including the effect of living in housing provided by programs established under section 300x–25 of this title, which shall".
 
-Subsec. (b)(14). Pub. L. 106–310, §3112(a)(1), (5), redesignated par. (12) as (14) and substituted “paragraph (13)” for “paragraph (11)”.
+Subsec. (b)(14). Pub. L. 106–310, §3112(a)(1), (5), redesignated par. (12) as (14) and substituted "paragraph (13)" for "paragraph (11)".
 
 #### Effective Date
 

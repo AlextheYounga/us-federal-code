@@ -188,7 +188,7 @@ A national bank that does not continue to meet standards of credit-worthiness es
 
 #### (2) Equity capital
 
-For purposes of this subsection, the term “equity capital” includes, in addition to any equity instrument, any debt instrument issued by a financial subsidiary, if the instrument qualifies as capital of the subsidiary under any Federal or State law, regulation, or interpretation applicable to the subsidiary.
+For purposes of this subsection, the term "equity capital" includes, in addition to any equity instrument, any debt instrument issued by a financial subsidiary, if the instrument qualifies as capital of the subsidiary under any Federal or State law, regulation, or interpretation applicable to the subsidiary.
 
 #### (g) Definitions
 
@@ -196,15 +196,15 @@ For purposes of this section, the following definitions shall apply:
 
 #### (1) Affiliate, company, control, and subsidiary
 
-The terms “affiliate”, “company”, “control”, and “subsidiary” have the meanings given those terms in section 1841 of this title.
+The terms "affiliate", "company", "control", and "subsidiary" have the meanings given those terms in section 1841 of this title.
 
 #### (2) Appropriate Federal banking agency, depository institution, insured bank, and insured depository institution
 
-The terms “appropriate Federal banking agency”, “depository institution”, “insured bank”, and “insured depository institution” have the meanings given those terms in section 1813 of this title.
+The terms "appropriate Federal banking agency", "depository institution", "insured bank", and "insured depository institution" have the meanings given those terms in section 1813 of this title.
 
 #### (3) Financial subsidiary
 
-The term “financial subsidiary” means any company that is controlled by 1 or more insured depository institutions other than a subsidiary that—
+The term "financial subsidiary" means any company that is controlled by 1 or more insured depository institutions other than a subsidiary that—
 
 (A) engages solely in activities that national banks are permitted to engage in directly and are conducted subject to the same terms and conditions that govern the conduct of such activities by national banks; or
 
@@ -212,7 +212,7 @@ The term “financial subsidiary” means any company that is controlled by 1 or
 
 #### (4) Eligible debt
 
-The term “eligible debt” means unsecured long-term debt that—
+The term "eligible debt" means unsecured long-term debt that—
 
 (A) is not supported by any form of credit enhancement, including a guarantee or standby letter of credit; and
 
@@ -220,11 +220,11 @@ The term “eligible debt” means unsecured long-term debt that—
 
 #### (5) Well capitalized
 
-The term “well capitalized” has the meaning given the term in section 1831o of this title.
+The term "well capitalized" has the meaning given the term in section 1831o of this title.
 
 #### (6) Well managed
 
-The term “well managed” means—
+The term "well managed" means—
 
 (A) in the case of a depository institution that has been examined, unless otherwise determined in writing by the appropriate Federal banking agency—
 
@@ -252,23 +252,23 @@ A prior section 5136A of the Revised Statutes was renumbered section 5136B by Pu
 
 #### Amendments
 
-**2010**—Subsec. (a)(2)(E). Pub. L. 111–203, §939(d)(1), substituted “standards of credit-worthiness established by the Comptroller of the Currency” for “any applicable rating”.
+**2010**—Subsec. (a)(2)(E). Pub. L. 111–203, §939(d)(1), substituted "standards of credit-worthiness established by the Comptroller of the Currency" for "any applicable rating".
 
-Subsec. (a)(3). Pub. L. 111–203, §939(d)(2), substituted “Requirement” for “Rating or comparable requirement” in heading.
+Subsec. (a)(3). Pub. L. 111–203, §939(d)(2), substituted "Requirement" for "Rating or comparable requirement" in heading.
 
-Subsec. (a)(3)(A). Pub. L. 111–203, §939(d)(3), amended subpar. (A) generally. Prior to amendment, text read as follows: “A national bank meets the requirements of this paragraph if—
+Subsec. (a)(3)(A). Pub. L. 111–203, §939(d)(3), amended subpar. (A) generally. Prior to amendment, text read as follows: "A national bank meets the requirements of this paragraph if—
 
-“(i) the bank is 1 of the 50 largest insured banks and has not fewer than 1 issue of outstanding eligible debt that is currently rated within the 3 highest investment grade rating categories by a nationally recognized statistical rating organization; or
+"(i) the bank is 1 of the 50 largest insured banks and has not fewer than 1 issue of outstanding eligible debt that is currently rated within the 3 highest investment grade rating categories by a nationally recognized statistical rating organization; or
 
-“(ii) the bank is 1 of the second 50 largest insured banks and meets the criteria set forth in clause (i) or such other criteria as the Secretary of the Treasury and the Board of Governors of the Federal Reserve System may jointly establish by regulation and determine to be comparable to and consistent with the purposes of the rating required in clause (i).”
+"(ii) the bank is 1 of the second 50 largest insured banks and meets the criteria set forth in clause (i) or such other criteria as the Secretary of the Treasury and the Board of Governors of the Federal Reserve System may jointly establish by regulation and determine to be comparable to and consistent with the purposes of the rating required in clause (i)."
 
-Subsec. (f). Pub. L. 111–203, §939(d)(4), substituted “meet standards of credit-worthiness” for “maintain public rating or” in heading.
+Subsec. (f). Pub. L. 111–203, §939(d)(4), substituted "meet standards of credit-worthiness" for "maintain public rating or" in heading.
 
-Subsec. (f)(1). Pub. L. 111–203, §939(d)(5), substituted “standards of credit-worthiness established by the Comptroller of the Currency” for “any applicable rating”.
+Subsec. (f)(1). Pub. L. 111–203, §939(d)(5), substituted "standards of credit-worthiness established by the Comptroller of the Currency" for "any applicable rating".
 
 #### Effective Date of 2010 Amendment
 
-Pub. L. 111–203, title IX, §939(g), July 21, 2010, 124 Stat. 1887, provided that: “The amendments made by this section \[amending this section, sections 1817, 1831e, and 4519 of this title, sections 78c and 80a–6 of Title 15, Commerce and Trade, and section 286hh of Title 22, Foreign Relations and Intercourse\] shall take effect 2 years after the date of enactment of this Act \[July 21, 2010\].”
+Pub. L. 111–203, title IX, §939(g), July 21, 2010, 124 Stat. 1887, provided that: "The amendments made by this section \[amending this section, sections 1817, 1831e, and 4519 of this title, sections 78c and 80a–6 of Title 15, Commerce and Trade, and section 286hh of Title 22, Foreign Relations and Intercourse\] shall take effect 2 years after the date of enactment of this Act \[July 21, 2010\]."
 
 #### Effective Date
 
@@ -276,4 +276,4 @@ Section effective 120 days after Nov. 12, 1999, see section 161 of Pub. L. 106�
 
 [1 So in original.](#24a_1)
 
-[2 So in original. Probably should be “or meet”.](#24a_2)
+[2 So in original. Probably should be "or meet".](#24a_2)

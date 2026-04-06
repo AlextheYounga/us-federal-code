@@ -20,7 +20,7 @@ Section 1139d, Pub. L. 89–329, title VII, §755, as added Pub. L. 105–244, t
 
 Section 1139e, Pub. L. 89–329, title VII, §756, as added Pub. L. 105–244, title VII, §701, Oct. 7, 1998, 112 Stat. 1800, related to disbursement of funds.
 
-Section 1139f, Pub. L. 89–329, title VII, §757, as added Pub. L. 105–244, title VII, §701, Oct. 7, 1998, 112 Stat. 1800, related to designation of “Urban Grant Institutions”.
+Section 1139f, Pub. L. 89–329, title VII, §757, as added Pub. L. 105–244, title VII, §701, Oct. 7, 1998, 112 Stat. 1800, related to designation of "Urban Grant Institutions".
 
 Section 1139g, Pub. L. 89–329, title VII, §758, as added Pub. L. 105–244, title VII, §701, Oct. 7, 1998, 112 Stat. 1801, set out definitions.
 

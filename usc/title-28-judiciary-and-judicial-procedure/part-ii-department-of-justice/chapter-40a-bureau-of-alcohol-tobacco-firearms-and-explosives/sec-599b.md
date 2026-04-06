@@ -14,8 +14,8 @@ The text of section 1115 of Pub. L. 107–296, formerly classified as section 53
 
 #### Amendments
 
-**2006**—Pub. L. 109–162 transferred section 1115 of Pub. L. 107–296 to this chapter, redesignated it as this section, and substituted “demonstration project” for “Demonstration Project” in the section catchline. See Codification note above.
+**2006**—Pub. L. 109–162 transferred section 1115 of Pub. L. 107–296 to this chapter, redesignated it as this section, and substituted "demonstration project" for "Demonstration Project" in the section catchline. See Codification note above.
 
 [1 So in original. Probably should be capitalized.](#599B_1)
 
-[2 So in original. Probably should be “112”.](#599B_2)
+[2 So in original. Probably should be "112".](#599B_2)

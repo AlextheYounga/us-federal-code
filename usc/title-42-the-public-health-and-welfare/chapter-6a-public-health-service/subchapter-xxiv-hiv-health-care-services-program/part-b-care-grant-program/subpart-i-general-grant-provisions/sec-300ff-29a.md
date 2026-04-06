@@ -70,7 +70,7 @@ Another prior section 2620 of act July 1, 1944, was classified to section 300ff�
 
 **2009**—Pub. L. 111–87, §2(a)(1), (3)(A), repealed Pub. L. 109–415, §703, and revived the provisions of this section as in effect on Sept. 30, 2009. See 2006 Amendment note and Effective Date of 2009 Amendment; Revival of Section note below.
 
-Subsec. (a)(2). Pub. L. 111–87, §§5(c)(2), 8(a)(2), (b)(2)(D), substituted “300ff–28(a)(2)(F)(i)” for “300ff–28(a)(2)(G)(i)”, “5 percent” for “2 percent”, and “canceled, offset under section 300ff–31a(e) of this title,” for “canceled”.
+Subsec. (a)(2). Pub. L. 111–87, §§5(c)(2), 8(a)(2), (b)(2)(D), substituted "300ff–28(a)(2)(F)(i)" for "300ff–28(a)(2)(G)(i)", "5 percent" for "2 percent", and "canceled, offset under section 300ff–31a(e) of this title," for "canceled".
 
 **2006**—Pub. L. 109–415, §703, which directed repeal of this section effective Oct. 1, 2009, was itself repealed by Pub. L. 111–87, §2(a)(1), effective Sept. 30, 2009.
 

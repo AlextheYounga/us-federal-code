@@ -32,7 +32,7 @@ Sec.
 
 1759\. Membership.
 
-1760\. Members’ meetings.
+1760\. Members' meetings.
 
 1761\. Management.
 

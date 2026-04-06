@@ -4,8 +4,8 @@ Section 234, acts Aug. 4, 1949, ch. 393, 63 Stat. 515; Aug. 3, 1950, ch. 536, §
 
 Section 235, act Aug. 4, 1949, ch. 393, 63 Stat. 515, related to designation and assembly of a personnel board, its procedure and its recommendations. See sections 251 to 254 of this title.
 
-Section 236, act Aug. 4, 1949, ch. 393, 63 Stat. 516, related to involuntary retirement after 30 years’ service.
+Section 236, act Aug. 4, 1949, ch. 393, 63 Stat. 516, related to involuntary retirement after 30 years' service.
 
-Section 237, act Aug. 4, 1949, ch. 393, 63 Stat. 516, related to involuntary retirement after 10 years’ service.
+Section 237, act Aug. 4, 1949, ch. 393, 63 Stat. 516, related to involuntary retirement after 10 years' service.
 
 Section 238, act Aug. 4, 1949, ch. 393, 63 Stat. 516, related to voluntary retirement when out of line of promotion.

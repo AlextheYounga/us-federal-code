@@ -54,9 +54,9 @@ Sec.
 
 Prior chapter 3, consisted of sections 201 to 203, 210 to 224, 230, 231, 233 to 236, and 240 to 246, prior to repeal by Pub. L. 102–83, §2(a), Aug. 6, 1991, 105 Stat. 378.
 
-Section 201, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1114, established Veterans’ Administration as an independent agency in executive branch of Government. See section 301 of this title.
+Section 201, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1114, established Veterans' Administration as an independent agency in executive branch of Government. See section 301 of this title.
 
-Section 202, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1114, related to seal of Veterans’ Administration and authentication of records of Veterans’ Administration. See section 302 of this title.
+Section 202, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1114, related to seal of Veterans' Administration and authentication of records of Veterans' Administration. See section 302 of this title.
 
 Section 203, added Pub. L. 94–424, §2(a), Sept. 28, 1976, 90 Stat. 1332; amended Pub. L. 97–258, §2(j), Sept. 13, 1982, 96 Stat. 1062; Pub. L. 98–160, title VII, §702(1), Nov. 21, 1983, 97 Stat. 1009, related to availability of appropriations. See section 313 of this title.
 
@@ -78,7 +78,7 @@ Another prior section 216, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1116; Pub. 
 
 Section 217, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1116; Pub. L. 99–576, title VII, §701(10), Oct. 28, 1986, 100 Stat. 3291, related to studies of rehabilitation of disabled persons. See section 522 of this title.
 
-Section 218, added Pub. L. 93–43, §4(a), June 18, 1973, 87 Stat. 79; amended Pub. L. 98–528, title I, §101(a)(1), Oct. 19, 1984, 98 Stat. 2686; Pub. L. 99–576, title II, §211, Oct. 28, 1986, 100 Stat. 3257, related to security and law enforcement on property under jurisdiction of Veterans’ Administration. See section 901 et seq. of this title.
+Section 218, added Pub. L. 93–43, §4(a), June 18, 1973, 87 Stat. 79; amended Pub. L. 98–528, title I, §101(a)(1), Oct. 19, 1984, 98 Stat. 2686; Pub. L. 99–576, title II, §211, Oct. 28, 1986, 100 Stat. 3257, related to security and law enforcement on property under jurisdiction of Veterans' Administration. See section 901 et seq. of this title.
 
 Section 219, added Pub. L. 93–508, title II, §213(a), Dec. 3, 1974, 88 Stat. 1586; amended Pub. L. 99–576, title VII, §701(12), Oct. 28, 1986, 100 Stat. 3291, related to evaluation of programs and collection of data. See section 527 of this title.
 
@@ -128,14 +128,14 @@ Section 246, added Pub. L. 95–202, title III, §310(b)(1), Nov. 23, 1977, 91 S
 
 **2003**—Pub. L. 108–136, div. A, title V, §583(a)(2), Nov. 24, 2003, 117 Stat. 1491, added item 320.
 
-**1998**—Pub. L. 105–368, title IV, §403(c)(1)(B), Nov. 11, 1998, 112 Stat. 3338, substituted “Under Secretary for Memorial Affairs” for “Director of the National Cemetery System” in item 307.
+**1998**—Pub. L. 105–368, title IV, §403(c)(1)(B), Nov. 11, 1998, 112 Stat. 3338, substituted "Under Secretary for Memorial Affairs" for "Director of the National Cemetery System" in item 307.
 
 **1997**—Pub. L. 105–114, title I, §102(a)(2), Nov. 21, 1997, 111 Stat. 2281, added item 319.
 
-**1996**—Pub. L. 104–106, div. E, title LVI, §5608(b), Feb. 10, 1996, 110 Stat. 702, substituted “Chief Information Officer” for “Chief Information Resources Officer” in item 310.
+**1996**—Pub. L. 104–106, div. E, title LVI, §5608(b), Feb. 10, 1996, 110 Stat. 702, substituted "Chief Information Officer" for "Chief Information Resources Officer" in item 310.
 
-**1994**—Pub. L. 103–446, title V, §509(b), Nov. 2, 1994, 108 Stat. 4668, substituted “Center for Minority Veterans” for “Chief Minority Affairs Officer” in item 317 and added item 318.
+**1994**—Pub. L. 103–446, title V, §509(b), Nov. 2, 1994, 108 Stat. 4668, substituted "Center for Minority Veterans" for "Chief Minority Affairs Officer" in item 317 and added item 318.
 
-**1992**—Pub. L. 102–405, title III, §302(c)(1), Oct. 9, 1992, 106 Stat. 1984, substituted “Under Secretary for Health” for “Chief Medical Director” in item 305 and “Under Secretary for Benefits” for “Chief Benefits Director” in item 306.
+**1992**—Pub. L. 102–405, title III, §302(c)(1), Oct. 9, 1992, 106 Stat. 1984, substituted "Under Secretary for Health" for "Chief Medical Director" in item 305 and "Under Secretary for Benefits" for "Chief Benefits Director" in item 306.
 
 **1991**—Pub. L. 102–218, §1(b), Dec. 11, 1991, 105 Stat. 1672, added item 317.

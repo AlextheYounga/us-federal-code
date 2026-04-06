@@ -8,7 +8,7 @@ If any consul or vice consul falsely and knowingly certifies that property belon
 
 R.S. §1737 derived from act Feb. 22, 1803, ch. 9, §7, 2 Stat. 204.
 
-References to “commercial agent” and “vice-commercial agent” were omitted in view of the abolition of the grade of commercial agent by act Apr. 5, 1906.
+References to "commercial agent" and "vice-commercial agent" were omitted in view of the abolition of the grade of commercial agent by act Apr. 5, 1906.
 
 Section was not enacted as part of the Foreign Service Act of 1980 which comprises this chapter.
 

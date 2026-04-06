@@ -18,11 +18,11 @@ R.S. §5199 derived from act June 3, 1864, ch. 106, §33, 13 Stat. 109, which wa
 
 **2006**—Pub. L. 109–351 amended section generally. Prior to amendment, section related to periodic declarations of dividends subject to certain surplus fund requirements and to the approval of the Comptroller of the Currency in certain situations.
 
-**1994**—Subsec. (a). Pub. L. 103–325, §602(h)(2)(A), (B), substituted “undivided profits of the association, subject to the limitations in subsection (b) of this section,” for “net profits of the association” in first sentence and “net income” for “net profits” wherever subsequently appearing.
+**1994**—Subsec. (a). Pub. L. 103–325, §602(h)(2)(A), (B), substituted "undivided profits of the association, subject to the limitations in subsection (b) of this section," for "net profits of the association" in first sentence and "net income" for "net profits" wherever subsequently appearing.
 
-Subsec. (b). Pub. L. 103–325, §602(h)(2)(B), substituted “net income” for “net profits” in two places.
+Subsec. (b). Pub. L. 103–325, §602(h)(2)(B), substituted "net income" for "net profits" in two places.
 
-Subsec. (c). Pub. L. 103–325, §602(h)(2)(C), struck out subsec. (c) which read as follows: “For the purpose of this section the term ‘net profits’ shall mean the remainder of all earnings from current operations plus actual recoveries on loans and investments and other assets, after deducting from the total thereof all current operating expenses, actual losses, accrued dividends on preferred stock, if any, and all Federal and State taxes.”
+Subsec. (c). Pub. L. 103–325, §602(h)(2)(C), struck out subsec. (c) which read as follows: "For the purpose of this section the term 'net profits' shall mean the remainder of all earnings from current operations plus actual recoveries on loans and investments and other assets, after deducting from the total thereof all current operating expenses, actual losses, accrued dividends on preferred stock, if any, and all Federal and State taxes."
 
 **1959**—Pub. L. 86–230 designated existing provisions as subsec. (a), authorized the declaration of dividends, quarterly and annually, when at least one-tenth of the bank's net profits of the preceding half year or of the preceding two consecutive half-year periods has been carried to the surplus fund, respectively, and added subsecs. (b) and (c).
 

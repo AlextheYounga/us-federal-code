@@ -2,15 +2,15 @@
 
 Section 241c–1, act Sept. 30, 1950, ch. 1124, title II, §121, as added Aug. 21, 1974, Pub. L. 93–380, title I, §101(a)(2)(E), 88 Stat. 491, provided for programs for handicapped children.
 
-Another section 121 of act Sept. 30, 1950, as added by Pub. L. 91–230, title I, §113(b)(6), Apr. 13, 1970, 84 Stat. 126, and renumbered section “126” by Pub. L. 93–380, was classified to section 241d of this title.
+Another section 121 of act Sept. 30, 1950, as added by Pub. L. 91–230, title I, §113(b)(6), Apr. 13, 1970, 84 Stat. 126, and renumbered section "126" by Pub. L. 93–380, was classified to section 241d of this title.
 
 Section 241c–2, act Sept. 30, 1950, title II, §122, as added Aug. 21, 1974, Pub. L. 93–380, title I, §101(a)(2)(E), 88 Stat. 492, provided for programs for migratory children.
 
-Another section 122 of act Sept. 30, 1950, as added by Pub. L. 91–230, title I, §113(b)(6), Apr. 13, 1970, 84 Stat. 126, and renumbered section “127” by Pub. L. 93–380, was classified to section 241d–1 of this title.
+Another section 122 of act Sept. 30, 1950, as added by Pub. L. 91–230, title I, §113(b)(6), Apr. 13, 1970, 84 Stat. 126, and renumbered section "127" by Pub. L. 93–380, was classified to section 241d–1 of this title.
 
 Section 241c–3, act Sept. 30, 1950, ch. 1124, title II, §123, as added Aug. 21, 1974, Pub. L. 93–380, title I, §101(a)(2)(E), 88 Stat. 494, provided for programs for neglected or delinquent children.
 
-Another section 123 of act Sept. 30, 1950, as added by Pub. L. 91–230, title I, §113(b)(6), Apr. 13, 1970, 84 Stat. 127, and renumbered section “128” by Pub. L. 93–380, was classified to section 241d–2 of this title.
+Another section 123 of act Sept. 30, 1950, as added by Pub. L. 91–230, title I, §113(b)(6), Apr. 13, 1970, 84 Stat. 127, and renumbered section "128" by Pub. L. 93–380, was classified to section 241d–2 of this title.
 
 Section 241c–4, act Sept. 30, 1950, ch. 1124, title II, §124, as added Aug. 21, 1974, Pub. L. 93–380, title I, §101(a)(2)(E), 88 Stat. 494, provided for the reservation of funds for territories.
 

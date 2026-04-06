@@ -142,7 +142,7 @@ Sec.
 
 231\. Repealed.
 
-232\. “Port” defined.
+232\. "Port" defined.
 
 233\. Departure from prescribed forms.
 

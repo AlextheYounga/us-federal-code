@@ -34,6 +34,6 @@ A member who is eighteen years of age or older is entitled and eligible to be gi
 
 (Pub. L. 98–481, §4, Oct. 17, 1984, 98 Stat. 2251.)
 
-[1 So in original. Probably should be “allottee”.](#714b_1)
+[1 So in original. Probably should be "allottee".](#714b_1)
 
-[2 So in original. Probably should be “Interim Council”.](#714b_2)
+[2 So in original. Probably should be "Interim Council".](#714b_2)

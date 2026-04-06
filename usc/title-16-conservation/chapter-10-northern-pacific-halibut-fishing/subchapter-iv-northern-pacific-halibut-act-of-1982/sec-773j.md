@@ -8,4 +8,4 @@ There is hereby authorized to be appropriated for fiscal year 1983 and beyond, s
 
 (Pub. L. 97–176, §12, May 17, 1982, 96 Stat. 84.)
 
-[1 So in original. Probably should be section “262b”.](#773j_1)
+[1 So in original. Probably should be section "262b".](#773j_1)

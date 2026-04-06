@@ -4,7 +4,7 @@
 
 (b) Any person who is a party to a criminal proceeding in a court of the United States who submits, or causes to be submitted, a pleading or other document to a court or other authority in a foreign country in opposition to an official request for evidence of an offense that is a subject of such proceeding shall serve such pleading or other document on the appropriate attorney for the Government, pursuant to the Federal Rules of Criminal Procedure, at the time such pleading or other document is submitted.
 
-(c) As used in this section, the term “official request” means a letter rogatory, a request under a treaty or convention, or any other request for evidence made by a court of the United States or an authority of the United States having criminal law enforcement responsibility, to a court or other authority of a foreign country.
+(c) As used in this section, the term "official request" means a letter rogatory, a request under a treaty or convention, or any other request for evidence made by a court of the United States or an authority of the United States having criminal law enforcement responsibility, to a court or other authority of a foreign country.
 
 (Added Pub. L. 98–473, title II, §1217(a), Oct. 12, 1984, 98 Stat. 2166.)
 

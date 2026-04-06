@@ -98,7 +98,7 @@ Sec.
 
 #### Amendments
 
-**2011**—Pub. L. 112–10, div. B, title VIII, §1858(b)(2)(B), Apr. 15, 2011, 125 Stat. 168, struck out item 139D “Free choice vouchers”.
+**2011**—Pub. L. 112–10, div. B, title VIII, §1858(b)(2)(B), Apr. 15, 2011, 125 Stat. 168, struck out item 139D "Free choice vouchers".
 
 **2010**—Pub. L. 111–148, title X, §10108(f)(2), Mar. 23, 2010, 124 Stat. 913, added item 139D relating to free choice vouchers.
 
@@ -108,9 +108,9 @@ Pub. L. 111–148, title IX, §9021(b), Mar. 23, 2010, 124 Stat. 874, added item
 
 **2007**—Pub. L. 110–142, §5(b), Dec. 20, 2007, 121 Stat. 1806, added item 139B.
 
-**2004**—Pub. L. 108–357, title I, §101(b)(3), Oct. 22, 2004, 118 Stat. 1423, struck out item 114 “Extraterritorial income”.
+**2004**—Pub. L. 108–357, title I, §101(b)(3), Oct. 22, 2004, 118 Stat. 1423, struck out item 114 "Extraterritorial income".
 
-Pub. L. 108–311, title IV, §408(a)(5)(G), Oct. 4, 2004, 118 Stat. 1191, substituted “Medicare Advantage MSA” for “Medicare+Choice MSA” in item 138.
+Pub. L. 108–311, title IV, §408(a)(5)(G), Oct. 4, 2004, 118 Stat. 1191, substituted "Medicare Advantage MSA" for "Medicare+Choice MSA" in item 138.
 
 **2003**—Pub. L. 108–173, title XII, §1202(c), Dec. 8, 2003, 117 Stat. 2480, added item 139A.
 
@@ -118,21 +118,21 @@ Pub. L. 108–311, title IV, §408(a)(5)(G), Oct. 4, 2004, 118 Stat. 1191, subst
 
 **2000**—Pub. L. 106–519, §4(6), Nov. 15, 2000, 114 Stat. 2433, added item 114.
 
-**1997**—Pub. L. 105–34, title III, §312(d)(14), title XII, §1213(d), Aug. 5, 1997, 111 Stat. 841, 1001, added item 110 and substituted “Exclusion of gain from sale of principal residence” for “One-time exclusion of gain from sale of principal residence by individual who has attained age 55” in item 121.
+**1997**—Pub. L. 105–34, title III, §312(d)(14), title XII, §1213(d), Aug. 5, 1997, 111 Stat. 841, 1001, added item 110 and substituted "Exclusion of gain from sale of principal residence" for "One-time exclusion of gain from sale of principal residence by individual who has attained age 55" in item 121.
 
-Pub. L. 105–33, title IV, §4006(b)(3), Aug. 5, 1997, 111 Stat. 334, added items 138 and 139 and struck out former item 138 “Cross reference to other Acts”.
+Pub. L. 105–33, title IV, §4006(b)(3), Aug. 5, 1997, 111 Stat. 334, added items 138 and 139 and struck out former item 138 "Cross reference to other Acts".
 
-**1996**—Pub. L. 104–188, title I, §§1602(b)(8), 1704(t)(4)(B), 1807(c)(7), Aug. 20, 1996, 110 Stat. 1834, 1887, 1902, substituted “combat zone compensation” for “combat pay” in item 112, struck out item 133 “Interest on certain loans used to acquire employer securities”, added items 137 and 138, and struck out former item 137 “Cross reference to other Acts”.
+**1996**—Pub. L. 104–188, title I, §§1602(b)(8), 1704(t)(4)(B), 1807(c)(7), Aug. 20, 1996, 110 Stat. 1834, 1887, 1902, substituted "combat zone compensation" for "combat pay" in item 112, struck out item 133 "Interest on certain loans used to acquire employer securities", added items 137 and 138, and struck out former item 137 "Cross reference to other Acts".
 
-**1992**—Pub. L. 102–486, title XIX, §1912(b), Oct. 24, 1992, 106 Stat. 3016, added items 136 and 137 and struck out former item 136 “Cross references to other Acts”.
+**1992**—Pub. L. 102–486, title XIX, §1912(b), Oct. 24, 1992, 106 Stat. 3016, added items 136 and 137 and struck out former item 136 "Cross references to other Acts".
 
-**1990**—Pub. L. 101–508, title XI, §11801(b)(2), Nov. 5, 1990, 104 Stat. 1388–522, struck out item 110 “Income taxes paid by lessee corporation”, item 113 “Mustering-out payments for members of the Armed Forces”, item 114 “Sports programs conducted for the American National Red Cross”, item 124 “Qualified transportation provided by employer”, and item 128 “Interest on certain savings certificates”.
+**1990**—Pub. L. 101–508, title XI, §11801(b)(2), Nov. 5, 1990, 104 Stat. 1388–522, struck out item 110 "Income taxes paid by lessee corporation", item 113 "Mustering-out payments for members of the Armed Forces", item 114 "Sports programs conducted for the American National Red Cross", item 124 "Qualified transportation provided by employer", and item 128 "Interest on certain savings certificates".
 
-**1988**—Pub. L. 100–647, title I, §1013(a)(37), title VI, §6009(c)(4), Nov. 10, 1988, 102 Stat. 3544, 3690, substituted “Interest on State and local bonds” for “Interest on certain governmental obligations” in item 103, struck out item 103A “Mortgage subsidy bonds”, added item 135 and redesignated former item 135 “Cross references to other Acts” as item 136.
+**1988**—Pub. L. 100–647, title I, §1013(a)(37), title VI, §6009(c)(4), Nov. 10, 1988, 102 Stat. 3544, 3690, substituted "Interest on State and local bonds" for "Interest on certain governmental obligations" in item 103, struck out item 103A "Mortgage subsidy bonds", added item 135 and redesignated former item 135 "Cross references to other Acts" as item 136.
 
-**1986**—Pub. L. 99–514, title I, §123(b)(4), title VI, §612(b)(8), title XI, §1168(b), Oct. 22, 1986, 100 Stat. 2113, 2251, 2512, struck out item 116 “Partial exclusion of dividends received by individuals”, substituted in item 117 “Qualified scholarships” for “Scholarships and fellowship grants”, added item 134, and redesignated former item 134 as 135.
+**1986**—Pub. L. 99–514, title I, §123(b)(4), title VI, §612(b)(8), title XI, §1168(b), Oct. 22, 1986, 100 Stat. 2113, 2251, 2512, struck out item 116 "Partial exclusion of dividends received by individuals", substituted in item 117 "Qualified scholarships" for "Scholarships and fellowship grants", added item 134, and redesignated former item 134 as 135.
 
-**1984**—Pub. L. 98–369, div. A, title I, §171(b), title V, §§531(a)(2), 543(b), July 18, 1984, 98 Stat. 699, 881, 892, substituted “Recovery of tax benefit items” for “Recovery of bad debts, prior taxes, and delinquency amounts” in item 111, added items 132 (relating to certain fringe benefits) and 133 (relating to interest on certain loans used to acquire employer securities), and redesignated former item 132 (relating to cross references to other Acts) as item 134.
+**1984**—Pub. L. 98–369, div. A, title I, §171(b), title V, §§531(a)(2), 543(b), July 18, 1984, 98 Stat. 699, 881, 892, substituted "Recovery of tax benefit items" for "Recovery of bad debts, prior taxes, and delinquency amounts" in item 111, added items 132 (relating to certain fringe benefits) and 133 (relating to interest on certain loans used to acquire employer securities), and redesignated former item 132 (relating to cross references to other Acts) as item 134.
 
 Pub. L. 98–369, div. A, title I, §16(a), July 18, 1984, 98 Stat. 505, repealed an amendment made by Pub. L. 97–34, §302(c). See 1981 Amendment note below.
 
@@ -140,15 +140,15 @@ Pub. L. 98–369, div. A, title I, §16(a), July 18, 1984, 98 Stat. 505, repeale
 
 Pub. L. 97–473, title I, §102(b), Jan. 14, 1983, 96 Stat. 2607, struck out item 131 (relating to cross references to other Acts) and added items 131 (relating to certain foster care payments) and 132 (relating to cross references to other Acts).
 
-**1981**—Pub. L. 97–34, title III, §§301(b)(1), 302(c)(1), (d)(1), Aug. 13, 1981, 95 Stat. 270, 272, 274, effective with regard to taxable years beginning after Sept. 30, 1981, redesignated item 128 “Cross References to other Acts” as 129 and added item 128 “Interest on certain savings certificates” and, section 302(c)(1), with regard to taxable years beginning after Dec. 31, 1984, provided that “Partial exclusion of interest” is substituted for “Interest on certain savings certificates” in item 128. Section 16(a) of Pub. L. 98–369, repealed section 302(c) of Pub. L. 97–34, and provided that this title shall be applied and administered as if section 302(c), and the amendments made by section 302(c), had not been enacted.
+**1981**—Pub. L. 97–34, title III, §§301(b)(1), 302(c)(1), (d)(1), Aug. 13, 1981, 95 Stat. 270, 272, 274, effective with regard to taxable years beginning after Sept. 30, 1981, redesignated item 128 "Cross References to other Acts" as 129 and added item 128 "Interest on certain savings certificates" and, section 302(c)(1), with regard to taxable years beginning after Dec. 31, 1984, provided that "Partial exclusion of interest" is substituted for "Interest on certain savings certificates" in item 128. Section 16(a) of Pub. L. 98–369, repealed section 302(c) of Pub. L. 97–34, and provided that this title shall be applied and administered as if section 302(c), and the amendments made by section 302(c), had not been enacted.
 
 **1980**—Pub. L. 96–499, title XI, §1102(b), Dec. 5, 1980, 94 Stat. 2669, added item 103A.
 
-Pub. L. 96–223, title IV, §404(b)(1), Apr. 2, 1980, 94 Stat. 306, inserted “and interest” after “dividends” in item 116.
+Pub. L. 96–223, title IV, §404(b)(1), Apr. 2, 1980, 94 Stat. 306, inserted "and interest" after "dividends" in item 116.
 
 **1978**—Pub. L. 95–618, title II, §242(b), Nov. 9, 1978, 92 Stat. 3194, redesignated former item 124 as 125 and added item 124.
 
-Pub. L. 95–600, title I, §§134(b), 164(c), title IV, §404(c)(3), title V, §543(b), Nov. 6, 1978, 92 Stat. 2785, 2814, 2870, 2890, in item 121 substituted “One-time exclusion of gain from sale of principal residence by individual who has attained age 55” for “Gain from sale of exchange of residence of individual who has attained age 65”, redesignated former item 124 as 128, and added items 125 to 127.
+Pub. L. 95–600, title I, §§134(b), 164(c), title IV, §404(c)(3), title V, §543(b), Nov. 6, 1978, 92 Stat. 2785, 2814, 2870, 2890, in item 121 substituted "One-time exclusion of gain from sale of principal residence by individual who has attained age 55" for "Gain from sale of exchange of residence of individual who has attained age 65", redesignated former item 124 as 128, and added items 125 to 127.
 
 **1976**—Pub. L. 94–455, title XXI, §2134(c), Oct. 4, 1976, 90 Stat. 1928, added item 120.
 
@@ -158,43 +158,43 @@ Pub. L. 95–600, title I, §§134(b), 164(c), title IV, §404(c)(3), title V, �
 
 **1964**—Pub. L. 88–272, title II, §206(b)(2), Feb. 26, 1964, 78 Stat. 40, redesignated former item 121 as 122, and added item 121.
 
-**1958**—Pub. L. 85–866, title I, §3(b), Sept. 2, 1958, 72 Stat. 1607, struck out item 120 “Statutory subsistence allowance received by police”.
+**1958**—Pub. L. 85–866, title I, §3(b), Sept. 2, 1958, 72 Stat. 1607, struck out item 120 "Statutory subsistence allowance received by police".
 
 #### No Federal Income Tax on Restitution Received by Victims of the Nazi Regime or Their Heirs or Estates
 
 Pub. L. 107–16, title VIII, §803, June 7, 2001, 115 Stat. 149, provided that:
 
-“(a) In General.—For purposes of the Internal Revenue Code of 1986, any excludable restitution payments received by an eligible individual (or the individual's heirs or estate) and any excludable interest—
+"(a) In General.—For purposes of the Internal Revenue Code of 1986, any excludable restitution payments received by an eligible individual (or the individual's heirs or estate) and any excludable interest—
 
-“(1) shall not be included in gross income; and
+"(1) shall not be included in gross income; and
 
-“(2) shall not be taken into account for purposes of applying any provision of such Code which takes into account excludable income in computing adjusted gross income, including section 86 of such Code (relating to taxation of Social Security benefits).
+"(2) shall not be taken into account for purposes of applying any provision of such Code which takes into account excludable income in computing adjusted gross income, including section 86 of such Code (relating to taxation of Social Security benefits).
 
 For purposes of such Code, the basis of any property received by an eligible individual (or the individual's heirs or estate) as part of an excludable restitution payment shall be the fair market value of such property as of the time of the receipt.
 
-“(b) Eligible Individual.—For purposes of this section, the term ‘eligible individual’ means a person who was persecuted on the basis of race, religion, physical or mental disability, or sexual orientation by Nazi Germany, any other Axis regime, or any other Nazi-controlled or Nazi-allied country.
+"(b) Eligible Individual.—For purposes of this section, the term 'eligible individual' means a person who was persecuted on the basis of race, religion, physical or mental disability, or sexual orientation by Nazi Germany, any other Axis regime, or any other Nazi-controlled or Nazi-allied country.
 
-“(c) Excludable Restitution Payment.—For purposes of this section, the term ‘excludable restitution payment’ means any payment or distribution to an individual (or the individual's heirs or estate) which—
+"(c) Excludable Restitution Payment.—For purposes of this section, the term 'excludable restitution payment' means any payment or distribution to an individual (or the individual's heirs or estate) which—
 
-“(1) is payable by reason of the individual's status as an eligible individual, including any amount payable by any foreign country, the United States of America, or any other foreign or domestic entity, or a fund established by any such country or entity, any amount payable as a result of a final resolution of a legal action, and any amount payable under a law providing for payments or restitution of property;
+"(1) is payable by reason of the individual's status as an eligible individual, including any amount payable by any foreign country, the United States of America, or any other foreign or domestic entity, or a fund established by any such country or entity, any amount payable as a result of a final resolution of a legal action, and any amount payable under a law providing for payments or restitution of property;
 
-“(2) constitutes the direct or indirect return of, or compensation or reparation for, assets stolen or hidden from, or otherwise lost to, the individual before, during, or immediately after World War II by reason of the individual's status as an eligible individual, including any proceeds of insurance under policies issued on eligible individuals by European insurance companies immediately before and during World War II; or
+"(2) constitutes the direct or indirect return of, or compensation or reparation for, assets stolen or hidden from, or otherwise lost to, the individual before, during, or immediately after World War II by reason of the individual's status as an eligible individual, including any proceeds of insurance under policies issued on eligible individuals by European insurance companies immediately before and during World War II; or
 
-“(3) consists of interest which is payable as part of any payment or distribution described in paragraph (1) or (2).
+"(3) consists of interest which is payable as part of any payment or distribution described in paragraph (1) or (2).
 
-“(d) Excludable Interest.—For purposes of this section, the term ‘excludable interest’ means any interest earned by—
+"(d) Excludable Interest.—For purposes of this section, the term 'excludable interest' means any interest earned by—
 
-“(1) escrow accounts or settlement funds established pursuant to the settlement of the action entitled ‘In re: Holocaust Victim Assets Litigation,’ (E.D.N.Y.) C.A. No. 96–4849,
+"(1) escrow accounts or settlement funds established pursuant to the settlement of the action entitled 'In re: Holocaust Victim Assets Litigation,' (E.D.N.Y.) C.A. No. 96–4849,
 
-“(2) funds to benefit eligible individuals or their heirs created by the International Commission on Holocaust Insurance Claims as a result of the Agreement between the Government of the United States of America and the Government of the Federal Republic of Germany concerning the Foundation ‘Remembrance, Responsibility, and Future,’ dated July 17, 2000, or
+"(2) funds to benefit eligible individuals or their heirs created by the International Commission on Holocaust Insurance Claims as a result of the Agreement between the Government of the United States of America and the Government of the Federal Republic of Germany concerning the Foundation 'Remembrance, Responsibility, and Future,' dated July 17, 2000, or
 
-“(3) similar funds subject to the administration of the United States courts created to provide excludable restitution payments to eligible individuals (or eligible individuals’ heirs or estates).
+"(3) similar funds subject to the administration of the United States courts created to provide excludable restitution payments to eligible individuals (or eligible individuals' heirs or estates).
 
-“(e) Effective Date.—
+"(e) Effective Date.—
 
-“(1) In general.—This section shall apply to any amount received on or after January 1, 2000.
+"(1) In general.—This section shall apply to any amount received on or after January 1, 2000.
 
-“(2) No inference.—Nothing in this Act \[see Tables for classification\] shall be construed to create any inference with respect to the proper tax treatment of any amount received before January 1, 2000.”
+"(2) No inference.—Nothing in this Act \[see Tables for classification\] shall be construed to create any inference with respect to the proper tax treatment of any amount received before January 1, 2000."
 
 [1 So in original. Does not conform to section catchline.](#I_1)
 

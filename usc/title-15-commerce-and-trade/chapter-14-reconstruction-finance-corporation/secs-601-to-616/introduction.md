@@ -68,13 +68,13 @@ Section 606b–4, act Aug. 7, 1946, ch. 811, §2, 60 Stat. 902, related to purch
 
 Section 606b–5, act Aug. 7, 1946, ch. 811, §3, 60 Stat. 902, authorized extension of credit by Reconstruction Finance Corporation to Republic of the Philippines, which Corporation was abolished by section 6 of Reorg. Plan No. 1 of 1957, eff. June 30, 1957, 22 F.R. 4633, 71 Stat. 647. Reorg. Plan No. 1 of 1957 is set out preceding section 601 of this title.
 
-Section 606c, act June 19, 1934, ch. 653, §13, 48 Stat. 1112, related to loans for organizing farmers’ mineral rights pools. It was repealed by act of June 30, 1947, ch. 166, title II, §206(k), 61 Stat. 208.
+Section 606c, act June 19, 1934, ch. 653, §13, 48 Stat. 1112, related to loans for organizing farmers' mineral rights pools. It was repealed by act of June 30, 1947, ch. 166, title II, §206(k), 61 Stat. 208.
 
 Section 606d, acts June 19, 1934, ch. 653, §14, 48 Stat. 1112; Jan. 31, 1935, ch. 2, §12, 49 Stat. 5; Sept. 16, 1940, ch. 721, 54 Stat. 897, related to loans to aid mining, milling and smelting industry. It was repealed by act of June 30, 1947, ch. 166, title II, §206(k), 61 Stat. 208.
 
 Section 606e, act June 19, 1934, ch. 653, §15, 48 Stat. 1112, related to loans to aid fishing industry. It was repealed by act of June 30, 1947, ch. 166, title II, §206(k), 61 Stat. 208.
 
-Section 606f, act June 19, 1934, ch. 653, §16, 48 Stat. 1113, related to loans for payment of teachers’ salaries due prior to June 1, 1934. It was repealed by act of June 30, 1947, ch. 166, title II, §206(k), 61 Stat. 208.
+Section 606f, act June 19, 1934, ch. 653, §16, 48 Stat. 1113, related to loans for payment of teachers' salaries due prior to June 1, 1934. It was repealed by act of June 30, 1947, ch. 166, title II, §206(k), 61 Stat. 208.
 
 Section 606g, act Jan. 22, 1932, ch. 8, §5b, as added June 19, 1934, ch. 653, §8, 48 Stat. 1109, was omitted by act June 30, 1947, ch. 166, title I, §1, 61 Stat. 202, which generally amended the Reconstruction Finance Corporation Act, act Jan. 22, 1932, ch. 8, 47 Stat. 5.
 
@@ -168,4 +168,4 @@ Section 614, acts Jan. 22, 1932, ch. 8, §14, 47 Stat. 10; June 25, 1940, ch. 42
 
 Section 615, act Jan. 22, 1932, ch. 8, §15, 47 Stat. 11, relating to reports to Congress, was omitted by act June 30, 1947, ch. 166, title I, §1, 61 Stat. 202, which generally amended the Reconstruction Finance Corporation Act, act Jan. 22, 1932, ch. 8, 47 Stat. 5.
 
-Section 616, act Jan. 22, 1932, ch. 8, §16, 47 Stat. 11, related to false statements, forgery, embezzlement, and use of words “Reconstruction Finance Corporation”, and is now covered by sections 433, 493, 657, 709, 1006, 1014, and 1904 of Title 18, Crimes and Criminal Procedure.
+Section 616, act Jan. 22, 1932, ch. 8, §16, 47 Stat. 11, related to false statements, forgery, embezzlement, and use of words "Reconstruction Finance Corporation", and is now covered by sections 433, 493, 657, 709, 1006, 1014, and 1904 of Title 18, Crimes and Criminal Procedure.

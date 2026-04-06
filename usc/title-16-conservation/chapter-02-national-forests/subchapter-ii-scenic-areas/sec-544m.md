@@ -82,6 +82,6 @@ The State courts of the States of Oregon and Washington shall have jurisdiction�
 
 (Pub. L. 99–663, §15, Nov. 17, 1986, 100 Stat. 4297.)
 
-[1 So in original. The word “Commission” probably should not appear.](#544m_1)
+[1 So in original. The word "Commission" probably should not appear.](#544m_1)
 
-[2 So in original. Probably should be paragraph “(4)”.](#544m_2)
+[2 So in original. Probably should be paragraph "(4)".](#544m_2)

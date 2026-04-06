@@ -42,7 +42,7 @@ Sec.
 
 590p–1. Limitation on wetlands drainage assistance to aid wildlife preservation; termination of limitation; redetermination of need for assistance upon change of ownership of lands.
 
-590q. Coverage; “State” defined; short title.
+590q. Coverage; "State" defined; short title.
 
 590q–1. Sale and distribution of supplies, materials, and equipment to other Government agencies; reimbursement.
 

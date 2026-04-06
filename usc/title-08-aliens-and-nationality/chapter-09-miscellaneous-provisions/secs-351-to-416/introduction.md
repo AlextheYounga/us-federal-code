@@ -28,13 +28,13 @@ Sections 369 and 369a, relating to naturalization of women, were repealed by act
 
 Section 370, relating to naturalization of women married to aliens ineligible to citizenship, was repealed by act Mar. 3, 1931, ch. 442, §4(b), 46 Stat. 1512. It was from act Sept. 22, 1922, ch. 411, §5, 42 Stat. 1022.
 
-Section 371, relating to naturalization of wives and children of aliens becoming insane after declaration of intention to become citizens, was repealed by act May 24, 1934, ch. 344, §5, 48 Stat. 798, which provided that such repeal should “not affect any right or privilege or terminate any citizenship acquired under” the section before its repeal. Section was from act Feb. 24, 1911, ch. 151, 36 Stat. 929.
+Section 371, relating to naturalization of wives and children of aliens becoming insane after declaration of intention to become citizens, was repealed by act May 24, 1934, ch. 344, §5, 48 Stat. 798, which provided that such repeal should "not affect any right or privilege or terminate any citizenship acquired under" the section before its repeal. Section was from act Feb. 24, 1911, ch. 151, 36 Stat. 929.
 
 Sections 372 to 373 were repealed by act Oct. 14, 1940, ch. 876, title I, subch. V, §504, 54 Stat. 1172. Section 372, relating to procedure for naturalization, was from act June 29, 1906, ch. 3592, §4, 34 Stat. 596; see section 1421(d) of this title. Section 372a, relating to naturalization of former citizens, was from act Mar. 3, 1931, ch. 442, §3, 46 Stat. 1511. Section 373, relating to declaration of intention to become citizen, was from acts June 29, 1906, ch. 3592, §4, 34 Stat. 596; Mar. 4, 1929, ch. 683, §1, 45 Stat. 1545; June 20, 1939, ch. 224, §1, 53 Stat. 843; see section 1445(f) of this title.
 
 Section 374, making it unlawful to make a declaration of intention on election day, was repealed by act May 25, 1926, ch. 388, §1, 44 Stat. 652. It was from act June 29, 1906, ch. 3592, §4(7), as added May 9, 1918, ch. 69, §1, 40 Stat. 544.
 
-Section 375, providing that declarations of intention should not be required of widow or minor children of aliens dying after having filed a declaration of intention, was repealed by act May 24, 1934, ch. 344, §5, 48 Stat. 798, which provided that such repeal should “not affect any right or privilege or terminate any citizenship acquired under” the section before its repeal. Section was from act June 29, 1906, ch. 3592, §4, 34 Stat. 597.
+Section 375, providing that declarations of intention should not be required of widow or minor children of aliens dying after having filed a declaration of intention, was repealed by act May 24, 1934, ch. 344, §5, 48 Stat. 798, which provided that such repeal should "not affect any right or privilege or terminate any citizenship acquired under" the section before its repeal. Section was from act June 29, 1906, ch. 3592, §4, 34 Stat. 597.
 
 Section 375a, act July 2, 1940, ch. 512, §§1, 2, 54 Stat. 715, relating to exemption from declaration of intention and filing of petition by children spending childhood in United States, was repealed by act June 27, 1952, ch. 477, title IV, §403(a)(40), 66 Stat. 280.
 

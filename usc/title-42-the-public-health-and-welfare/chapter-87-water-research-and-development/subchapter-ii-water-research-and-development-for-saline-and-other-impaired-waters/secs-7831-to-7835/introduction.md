@@ -8,6 +8,6 @@ Section 7833, Pub. L. 95–467, title II, §202, Oct. 17, 1978, 92 Stat. 1310, s
 
 Section 7834, Pub. L. 95–467, title II, §203, Oct. 17, 1978, 92 Stat. 1311, authorized the Secretary to issue rules and regulations to carry out this subchapter.
 
-Section 7835, Pub. L. 95–467, title II, §204, Oct. 17, 1978, 92 Stat. 1311, defined “saline and other impaired water”, “United States”, “pilot plant”, “demonstration”, and “prototype”.
+Section 7835, Pub. L. 95–467, title II, §204, Oct. 17, 1978, 92 Stat. 1311, defined "saline and other impaired water", "United States", "pilot plant", "demonstration", and "prototype".
 
 For similar provisions, see section 10301 et seq. of this title.

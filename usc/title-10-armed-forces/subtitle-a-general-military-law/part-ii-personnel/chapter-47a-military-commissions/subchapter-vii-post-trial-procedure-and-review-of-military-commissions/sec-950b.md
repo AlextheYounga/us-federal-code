@@ -56,4 +56,4 @@
 
 A prior section 950b, added Pub. L. 109–366, §3(a)(1), Oct. 17, 2006, 120 Stat. 2618, related to review by the convening authority, prior to the general amendment of this chapter by Pub. L. 111–84.
 
-[1 So in original. Probably should read “given”.](#950b_1)
+[1 So in original. Probably should read "given".](#950b_1)

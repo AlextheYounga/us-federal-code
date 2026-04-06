@@ -1,6 +1,6 @@
 ### §241. Creation; membership; compensation and expenses
 
-The Board of Governors of the Federal Reserve System (hereinafter referred to as the “Board”) shall be composed of seven members, to be appointed by the President, by and with the advice and consent of the Senate, after August 23, 1935, for terms of fourteen years except as hereinafter provided, but each appointive member of the Federal Reserve Board in office on such date shall continue to serve as a member of the Board until February 1, 1936, and the Secretary of the Treasury and the Comptroller of the Currency shall continue to serve as members of the Board until February 1, 1936. In selecting the members of the Board, not more than one of whom shall be selected from any one Federal Reserve district, the President shall have due regard to a fair representation of the financial, agricultural, industrial, and commercial interests, and geographical divisions of the country. The members of the Board shall devote their entire time to the business of the Board and shall each receive basic compensation at the rate of $15,000 per annum, payable monthly, together with actual necessary traveling expenses.
+The Board of Governors of the Federal Reserve System (hereinafter referred to as the "Board") shall be composed of seven members, to be appointed by the President, by and with the advice and consent of the Senate, after August 23, 1935, for terms of fourteen years except as hereinafter provided, but each appointive member of the Federal Reserve Board in office on such date shall continue to serve as a member of the Board until February 1, 1936, and the Secretary of the Treasury and the Comptroller of the Currency shall continue to serve as members of the Board until February 1, 1936. In selecting the members of the Board, not more than one of whom shall be selected from any one Federal Reserve district, the President shall have due regard to a fair representation of the financial, agricultural, industrial, and commercial interests, and geographical divisions of the country. The members of the Board shall devote their entire time to the business of the Board and shall each receive basic compensation at the rate of $15,000 per annum, payable monthly, together with actual necessary traveling expenses.
 
 (Dec. 23, 1913, ch. 6, §10 (par.), 38 Stat. 260; June 3, 1922, ch. 205, 42 Stat. 620; Aug. 23, 1935, ch. 614, title II, §203(b), 49 Stat. 704.)
 
@@ -14,11 +14,11 @@ Section is comprised of first par. of section 10 of act Dec. 23, 1913. Pars. 2�
 
 #### Change of Name
 
-Act Aug. 23, 1935, ch. 614, title II, §203(a), 49 Stat. 704, provided that: “Hereafter the Federal Reserve Board shall be known as the ‘Board of Governors of the Federal Reserve System,’ and the governor and the vice governor of the Federal Reserve Board shall be known as the ‘chairman’ and the ‘vice chairman,’ respectively, of the Board of Governors of the Federal Reserve System.”
+Act Aug. 23, 1935, ch. 614, title II, §203(a), 49 Stat. 704, provided that: "Hereafter the Federal Reserve Board shall be known as the 'Board of Governors of the Federal Reserve System,' and the governor and the vice governor of the Federal Reserve Board shall be known as the 'chairman' and the 'vice chairman,' respectively, of the Board of Governors of the Federal Reserve System."
 
 #### Repeals
 
-Act Oct. 15, 1949, ch. 695, §4, 63 Stat. 880, formerly cited as a credit to this section, which was used as authority to substitute “$16,000” for “$15,000” in the last sentence, was repealed by Pub. L. 89–554, §8(a), Sept. 6, 1966, 80 Stat. 655.
+Act Oct. 15, 1949, ch. 695, §4, 63 Stat. 880, formerly cited as a credit to this section, which was used as authority to substitute "$16,000" for "$15,000" in the last sentence, was repealed by Pub. L. 89–554, §8(a), Sept. 6, 1966, 80 Stat. 655.
 
 #### General Accounting Office Study of Conflicts of Interest
 

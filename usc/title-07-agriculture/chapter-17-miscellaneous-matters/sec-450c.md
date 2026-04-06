@@ -2,9 +2,9 @@
 
 As used in sections 450c to 450g of this title—
 
-(a) The term “regulatory order” means an order, marketing agreement, standard, permit, license, registration, suspension or revocation of a permit, license, or registration, certificate, award, rule or regulation, if it has the force and effect of law, and if it may be made, prescribed, issued, or promulgated only after notice and hearing or opportunity for hearing have been given.
+(a) The term "regulatory order" means an order, marketing agreement, standard, permit, license, registration, suspension or revocation of a permit, license, or registration, certificate, award, rule or regulation, if it has the force and effect of law, and if it may be made, prescribed, issued, or promulgated only after notice and hearing or opportunity for hearing have been given.
 
-(b) The term “regulatory function” means the making, prescribing, issuing, or promulgating of a regulatory order; and includes (1) determining whether such making, prescribing, issuing, or promulgating is authorized or required by law, and (2) any action which is required or authorized to be performed before, after, or in connection with, such determining, making, prescribing, issuing, or promulgating.
+(b) The term "regulatory function" means the making, prescribing, issuing, or promulgating of a regulatory order; and includes (1) determining whether such making, prescribing, issuing, or promulgating is authorized or required by law, and (2) any action which is required or authorized to be performed before, after, or in connection with, such determining, making, prescribing, issuing, or promulgating.
 
 (Apr. 4, 1940, ch. 75, §1, 54 Stat. 81.)
 

@@ -38,7 +38,7 @@ Section 15704, Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2655, related to duties 
 
 Section 15727, Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2655, related to discharge.
 
-Section 151102, Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2655, related to creditors’ and equity security holders’ committees.
+Section 151102, Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2655, related to creditors' and equity security holders' committees.
 
 Section 151104, Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2655, related to appointment of trustee or examiner.
 

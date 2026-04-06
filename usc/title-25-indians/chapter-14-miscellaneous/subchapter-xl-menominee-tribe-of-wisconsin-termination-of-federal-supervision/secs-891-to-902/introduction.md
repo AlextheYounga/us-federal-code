@@ -2,7 +2,7 @@
 
 Section 891, act June 17, 1954, ch. 303, §1, 68 Stat. 250, set out purpose of sections 891 to 902 as orderly termination of Federal supervision over property of Menominee Tribe.
 
-Section 892, act June 17, 1954, ch. 303, §2, 68 Stat. 250, defined “Tribe” and “Secretary”.
+Section 892, act June 17, 1954, ch. 303, §2, 68 Stat. 250, defined "Tribe" and "Secretary".
 
 Section 893, act June 17, 1954, ch. 303, §3, 68 Stat. 250, set forth procedure for inclusion on tribal membership roll prior to its closure.
 

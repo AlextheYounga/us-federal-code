@@ -98,7 +98,7 @@ The credit allowed under subsection (a) for any taxable year shall not exceed th
 
   
 
-For purposes of the preceding sentence, the term “net income tax” means the sum of the regular tax liability and the tax imposed by section 55, reduced by the credits allowable under subparts A and B of this part, and the term “net regular tax liability” means the regular tax liability reduced by the sum of the credits allowable under subparts A and B of this part.
+For purposes of the preceding sentence, the term "net income tax" means the sum of the regular tax liability and the tax imposed by section 55, reduced by the credits allowable under subparts A and B of this part, and the term "net regular tax liability" means the regular tax liability reduced by the sum of the credits allowable under subparts A and B of this part.
 
 #### (2) Empowerment zone employment credit may offset 25 percent of minimum tax
 
@@ -116,7 +116,7 @@ In the case of the empowerment zone employment credit credit—
 
 #### (B) Empowerment zone employment credit
 
-For purposes of this paragraph, the term “empowerment zone employment credit” means the portion of the credit under subsection (a) which is attributable to the credit determined under section 1396 (relating to empowerment zone employment credit).
+For purposes of this paragraph, the term "empowerment zone employment credit" means the portion of the credit under subsection (a) which is attributable to the credit determined under section 1396 (relating to empowerment zone employment credit).
 
 #### (3) Special rules for New York Liberty Zone business employee credit
 
@@ -134,7 +134,7 @@ In the case of the New York Liberty Zone business employee credit—
 
 #### (B) New York Liberty Zone business employee credit
 
-For purposes of this subsection, the term “New York Liberty Zone business employee credit” means the portion of work opportunity credit under section 51 determined under section 1400L(a).
+For purposes of this subsection, the term "New York Liberty Zone business employee credit" means the portion of work opportunity credit under section 51 determined under section 1400L(a).
 
 #### (4) Special rules for specified credits
 
@@ -152,7 +152,7 @@ In the case of specified credits—
 
 #### (B) Specified credits
 
-For purposes of this subsection, the term “specified credits” means—
+For purposes of this subsection, the term "specified credits" means—
 
 (i) for taxable years beginning after December 31, 2004, the credit determined under section 40,
 
@@ -194,11 +194,11 @@ In the case of eligible small business credits determined in taxable years begin
 
 #### (B) Eligible small business credits
 
-For purposes of this subsection, the term “eligible small business credits” means the sum of the credits listed in subsection (b) which are determined for the taxable year with respect to an eligible small business. Such credits shall not be taken into account under paragraph (2), (3), or (4).
+For purposes of this subsection, the term "eligible small business credits" means the sum of the credits listed in subsection (b) which are determined for the taxable year with respect to an eligible small business. Such credits shall not be taken into account under paragraph (2), (3), or (4).
 
 #### (C) Eligible small business
 
-For purposes of this subsection, the term “eligible small business” means, with respect to any taxable year—
+For purposes of this subsection, the term "eligible small business" means, with respect to any taxable year—
 
 (i) a corporation the stock of which is not publicly traded,
 
@@ -222,7 +222,7 @@ In the case of a husband or wife who files a separate return, the amount specifi
 
 #### (B) Controlled groups
 
-In the case of a controlled group, the $25,000 amount specified under subparagraph (B) of paragraph (1) shall be reduced for each component member of such group by apportioning $25,000 among the component members of such group in such manner as the Secretary shall by regulations prescribe. For purposes of the preceding sentence, the term “controlled group” has the meaning given to such term by section 1563(a).
+In the case of a controlled group, the $25,000 amount specified under subparagraph (B) of paragraph (1) shall be reduced for each component member of such group by apportioning $25,000 among the component members of such group in such manner as the Secretary shall by regulations prescribe. For purposes of the preceding sentence, the term "controlled group" has the meaning given to such term by section 1563(a).
 
 #### (C) Limitations with respect to certain persons
 
@@ -282,17 +282,17 @@ Another prior section 38 was renumbered section 37 of this title.
 
 **2010**—Subsec. (b)(36). Pub. L. 111–148, §1421(b), added par. (36).
 
-Subsec. (c)(2)(A)(ii)(II). Pub. L. 111–240, §2013(c)(1), inserted “the eligible small business credits,” after “the New York Liberty Zone business employee credit,”.
+Subsec. (c)(2)(A)(ii)(II). Pub. L. 111–240, §2013(c)(1), inserted "the eligible small business credits," after "the New York Liberty Zone business employee credit,".
 
-Subsec. (c)(3)(A)(ii)(II). Pub. L. 111–240, §2013(c)(2), inserted “, the eligible small business credits,” after “the New York Liberty Zone business employee credit”.
+Subsec. (c)(3)(A)(ii)(II). Pub. L. 111–240, §2013(c)(2), inserted ", the eligible small business credits," after "the New York Liberty Zone business employee credit".
 
-Subsec. (c)(4)(A)(ii)(II). Pub. L. 111–240, §2013(c)(3), inserted “the eligible small business credits and” before “the specified credits”.
+Subsec. (c)(4)(A)(ii)(II). Pub. L. 111–240, §2013(c)(3), inserted "the eligible small business credits and" before "the specified credits".
 
 Subsec. (c)(4)(B)(vi) to (ix). Pub. L. 111–148, §1421(c), added cl. (vi) and redesignated former cls. (vi) to (viii) as (vii) to (ix), respectively.
 
 Subsec. (c)(5), (6). Pub. L. 111–240, §2013(a), added par. (5) and redesignated former par. (5) as (6).
 
-**2009**—Subsec. (b)(35). Pub. L. 111–5 substituted “30D(c)(1)” for “30D(d)(1)”.
+**2009**—Subsec. (b)(35). Pub. L. 111–5 substituted "30D(c)(1)" for "30D(d)(1)".
 
 **2008**—Subsec. (b)(32). Pub. L. 110–246, §15343(b), added par. (32).
 
@@ -314,27 +314,27 @@ Pub. L. 110–289, §3022(b), redesignated cl. (iv) as (v).
 
 Subsec. (c)(4)(B)(vi). Pub. L. 110–343, §316(b)(1), redesignated cl. (v) as (vi). Former cl. (vi) redesignated (vii).
 
-Pub. L. 110–343, §103(b)(2), substituted “section 46 to the extent that such credit is attributable to the rehabilitation credit under section 47, but only with respect to” for “section 47 to the extent attributable to”.
+Pub. L. 110–343, §103(b)(2), substituted "section 46 to the extent that such credit is attributable to the rehabilitation credit under section 47, but only with respect to" for "section 47 to the extent attributable to".
 
-Pub. L. 110–343, §103(b)(1), which directed amendment of subpar. (B) by “redesignating clause (vi) as clause (vi) and (vii), respectively”, was executed by redesignating cls. (v) and (vi) as (vi) and (vii), respectively, to reflect the probable intent of Congress.
+Pub. L. 110–343, §103(b)(1), which directed amendment of subpar. (B) by "redesignating clause (vi) as clause (vi) and (vii), respectively", was executed by redesignating cls. (v) and (vi) as (vi) and (vii), respectively, to reflect the probable intent of Congress.
 
 Pub. L. 110–289, §3022(c), redesignated cl. (v) as (vi).
 
 Subsec. (c)(4)(B)(vii). Pub. L. 110–343, §316(b)(1), redesignated cl. (vi) as (vii). Former cl. (vii) redesignated (viii).
 
-Pub. L. 110–343, §103(b)(1), which directed amendment of subpar. (B) by “redesignating clause (vi) as clause (vi) and (vii), respectively”, was executed by redesignating cls. (v) and (vi) as (vi) and (vii), respectively, to reflect the probable intent of Congress.
+Pub. L. 110–343, §103(b)(1), which directed amendment of subpar. (B) by "redesignating clause (vi) as clause (vi) and (vii), respectively", was executed by redesignating cls. (v) and (vi) as (vi) and (vii), respectively, to reflect the probable intent of Congress.
 
 Subsec. (c)(4)(B)(viii). Pub. L. 110–343, §316(b)(1), redesignated cl. (vii) as (viii).
 
-**2007**—Subsec. (b)(8), (24). Pub. L. 110–172, §11(a)(6)(A), struck out “and” at end.
+**2007**—Subsec. (b)(8), (24). Pub. L. 110–172, §11(a)(6)(A), struck out "and" at end.
 
-Subsec. (b)(30). Pub. L. 110–172, §11(a)(6)(C), inserted “plus” at end.
+Subsec. (b)(30). Pub. L. 110–172, §11(a)(6)(C), inserted "plus" at end.
 
-Pub. L. 110–172, §11(a)(6)(B), struck out “plus” at end.
+Pub. L. 110–172, §11(a)(6)(B), struck out "plus" at end.
 
 Subsec. (c)(4)(B)(iii), (iv). Pub. L. 110–28 added cls. (iii) and (iv).
 
-**2006**—Subsec. (b)(29) to (31). Pub. L. 109–432 struck out “and” at end of par. (29), substituted “, plus” for period at end of par. (30), and added par. (31).
+**2006**—Subsec. (b)(29) to (31). Pub. L. 109–432 struck out "and" at end of par. (29), substituted ", plus" for period at end of par. (30), and added par. (31).
 
 **2005**—Subsec. (b)(20). Pub. L. 109–59, §11126(b), added par. (20).
 
@@ -344,7 +344,7 @@ Subsec. (b)(22). Pub. L. 109–58, §1322(a)(2), added par. (22).
 
 Subsec. (b)(23). Pub. L. 109–58, §1332(b), added par. (23).
 
-Subsec. (b)(24). Pub. L. 109–58, §1342(b)(1), which directed the striking out of “plus” at end, could not be executed because “plus” did not appear at end.
+Subsec. (b)(24). Pub. L. 109–58, §1342(b)(1), which directed the striking out of "plus" at end, could not be executed because "plus" did not appear at end.
 
 Pub. L. 109–58, §1334(b), added par. (24).
 
@@ -356,11 +356,11 @@ Subsec. (b)(27). Pub. L. 109–135, §103(b)(1), added par. (27).
 
 Subsec. (b)(28) to (30). Pub. L. 109–135, §201(b)(1), added pars. (28) to (30).
 
-Subsec. (c)(2)(A)(ii)(II). Pub. L. 109–135, §412(f)(1), substituted “, the New York Liberty Zone business employee credit, and the specified credits” for “or the New York Liberty Zone business employee credit or the specified credits”.
+Subsec. (c)(2)(A)(ii)(II). Pub. L. 109–135, §412(f)(1), substituted ", the New York Liberty Zone business employee credit, and the specified credits" for "or the New York Liberty Zone business employee credit or the specified credits".
 
-Subsec. (c)(3)(A)(ii)(II). Pub. L. 109–135, §412(f)(2), substituted “and the specified credits” for “or the specified credits”.
+Subsec. (c)(3)(A)(ii)(II). Pub. L. 109–135, §412(f)(2), substituted "and the specified credits" for "or the specified credits".
 
-Subsec. (c)(4)(B). Pub. L. 109–135, §412(f)(3), substituted “means” for “includes” in introductory provisions and inserted “and” at end of cl. (i).
+Subsec. (c)(4)(B). Pub. L. 109–135, §412(f)(3), substituted "means" for "includes" in introductory provisions and inserted "and" at end of cl. (i).
 
 **2004**—Subsec. (b)(16). Pub. L. 108–357, §245(c)(1), added par. (16).
 
@@ -370,49 +370,49 @@ Subsec. (b)(18). Pub. L. 108–357, §339(b), added par. (18).
 
 Subsec. (b)(19). Pub. L. 108–357, §341(b), added par. (19).
 
-Subsec. (c)(2)(A)(ii)(II), (3)(A)(ii)(II). Pub. L. 108–357, §711(b), inserted “or the specified credits” after “employee credit”.
+Subsec. (c)(2)(A)(ii)(II), (3)(A)(ii)(II). Pub. L. 108–357, §711(b), inserted "or the specified credits" after "employee credit".
 
 Subsec. (c)(4), (5). Pub. L. 108–357, §711(a), added par. (4) and redesignated former par. (4) as (5).
 
-**2002**—Subsec. (b)(15). Pub. L. 107–147, §411(d)(2), substituted “45F(a)” for “45F”.
+**2002**—Subsec. (b)(15). Pub. L. 107–147, §411(d)(2), substituted "45F(a)" for "45F".
 
-Subsec. (c)(2)(A)(ii)(II). Pub. L. 107–147, §301(b)(2), inserted “or the New York Liberty Zone business employee credit” after “employment credit”.
+Subsec. (c)(2)(A)(ii)(II). Pub. L. 107–147, §301(b)(2), inserted "or the New York Liberty Zone business employee credit" after "employment credit".
 
 Subsec. (c)(3), (4). Pub. L. 107–147, §301(b)(1), added par. (3) and redesignated former par. (3) as (4).
 
-**2001**—Subsec. (b)(12). Pub. L. 107–16, §619(b), struck out “plus” at end.
+**2001**—Subsec. (b)(12). Pub. L. 107–16, §619(b), struck out "plus" at end.
 
-Subsec. (b)(13). Pub. L. 107–16, §619(b), substituted “, plus” for period at end.
+Subsec. (b)(13). Pub. L. 107–16, §619(b), substituted ", plus" for period at end.
 
-Pub. L. 107–16, §205(b)(1), struck out “plus” at end.
+Pub. L. 107–16, §205(b)(1), struck out "plus" at end.
 
 Subsec. (b)(14). Pub. L. 107–16, §619(b), added par. (14).
 
-Pub. L. 107–16, §205(b)(1), substituted “, plus” for period at end.
+Pub. L. 107–16, §205(b)(1), substituted ", plus" for period at end.
 
 Subsec. (b)(15). Pub. L. 107–16, §205(b)(1), added par. (15).
 
 **2000**—Subsec. (b)(13). Pub. L. 106–554 added par. (13).
 
-**1996**—Subsec. (b)(2). Pub. L. 104–188, §1201(e)(1), substituted “work opportunity credit” for “targeted jobs credit”.
+**1996**—Subsec. (b)(2). Pub. L. 104–188, §1201(e)(1), substituted "work opportunity credit" for "targeted jobs credit".
 
 Subsec. (b)(12). Pub. L. 104–188, §1205(a)(2), added par. (12).
 
-Subsec. (c)(2)(C). Pub. L. 104–188, §1702(e)(4), amended subpar. (C), as in effect on day before date of enactment of the Revenue Reconciliation Act of 1990 (title XI of Pub. L. 101–508, approved Nov. 5, 1990), by inserting before period at end of first sentence “and without regard to the deduction under section 56(h)”.
+Subsec. (c)(2)(C). Pub. L. 104–188, §1702(e)(4), amended subpar. (C), as in effect on day before date of enactment of the Revenue Reconciliation Act of 1990 (title XI of Pub. L. 101–508, approved Nov. 5, 1990), by inserting before period at end of first sentence "and without regard to the deduction under section 56(h)".
 
-**1993**—Subsec. (b)(7). Pub. L. 103–66, §13302(a)(1), struck out “plus” at end.
+**1993**—Subsec. (b)(7). Pub. L. 103–66, §13302(a)(1), struck out "plus" at end.
 
-Subsec. (b)(8). Pub. L. 103–66, §13322(a), which directed amendment of par. (8) by striking “plus” at end, could not be executed because “plus” did not appear at end.
+Subsec. (b)(8). Pub. L. 103–66, §13322(a), which directed amendment of par. (8) by striking "plus" at end, could not be executed because "plus" did not appear at end.
 
-Pub. L. 103–66, §13302(a)(1), substituted “, and” for period at end.
+Pub. L. 103–66, §13302(a)(1), substituted ", and" for period at end.
 
-Subsec. (b)(9). Pub. L. 103–66, §13443(b)(1), struck out “plus” at end.
+Subsec. (b)(9). Pub. L. 103–66, §13443(b)(1), struck out "plus" at end.
 
-Pub. L. 103–66, §13322(a), substituted “, plus” for period at end.
+Pub. L. 103–66, §13322(a), substituted ", plus" for period at end.
 
 Pub. L. 103–66, §13302(a)(1), added par. (9).
 
-Subsec. (b)(10). Pub. L. 103–66, §13443(b)(1), substituted “, plus” for period at end.
+Subsec. (b)(10). Pub. L. 103–66, §13443(b)(1), substituted ", plus" for period at end.
 
 Pub. L. 103–66, §13322(a), added par. (10).
 
@@ -420,17 +420,17 @@ Subsec. (b)(11). Pub. L. 103–66, §13443(b)(1), added par. (11).
 
 Subsec. (c)(2), (3). Pub. L. 103–66, §13302(c)(1), added par. (2) and redesignated former par. (2) as (3).
 
-**1992**—Subsec. (b)(6) to (8). Pub. L. 102–486 struck out “plus” at end of par. (6), substituted “; plus” for period at end of par. (7), and added par. (8).
+**1992**—Subsec. (b)(6) to (8). Pub. L. 102–486 struck out "plus" at end of par. (6), substituted "; plus" for period at end of par. (7), and added par. (8).
 
-**1990**—Subsec. (b)(1). Pub. L. 101–508, §11813(b)(2)(A), substituted “section 46” for “section 46(a)”.
+**1990**—Subsec. (b)(1). Pub. L. 101–508, §11813(b)(2)(A), substituted "section 46" for "section 46(a)".
 
-Subsec. (b)(4). Pub. L. 101–508, §11511(b)(1), struck out “plus” at end.
+Subsec. (b)(4). Pub. L. 101–508, §11511(b)(1), struck out "plus" at end.
 
-Subsec. (b)(5). Pub. L. 101–508, §11611(b)(1), struck out “plus” at end.
+Subsec. (b)(5). Pub. L. 101–508, §11611(b)(1), struck out "plus" at end.
 
-Pub. L. 101–508, §11511(b)(1), substituted “, plus” for period at end.
+Pub. L. 101–508, §11511(b)(1), substituted ", plus" for period at end.
 
-Subsec. (b)(6). Pub. L. 101–508, §11611(b)(1), substituted “, plus” for period at end.
+Subsec. (b)(6). Pub. L. 101–508, §11611(b)(1), substituted ", plus" for period at end.
 
 Pub. L. 101–508, §11511(b)(1), added par. (6).
 
@@ -438,55 +438,55 @@ Subsec. (b)(7). Pub. L. 101–508, §11611(b)(1), added par. (7).
 
 Subsec. (c)(2). Pub. L. 101–508, §11813(b)(2)(B), redesignated par. (3) as (2) and struck out former par. (2) which permitted an offset of regular investment tax credit against 25 percent of minimum tax.
 
-Subsec. (c)(2)(C). Pub. L. 101–508, §11813(b)(2)(C), inserted “(as in effect on the day before the date of the enactment of the Revenue Reconciliation Act of 1990)” after “46(e)(1)” and “(as so in effect)” after “46(e)(2)”.
+Subsec. (c)(2)(C). Pub. L. 101–508, §11813(b)(2)(C), inserted "(as in effect on the day before the date of the enactment of the Revenue Reconciliation Act of 1990)" after "46(e)(1)" and "(as so in effect)" after "46(e)(2)".
 
 Subsec. (c)(3). Pub. L. 101–508, §11813(b)(2)(B), redesignated par. (3) as (2).
 
-Subsec. (d). Pub. L. 101–508, §11813(b)(2)(D)(i), substituted “any provision” for “sections 46(f), 47(a), 196(a), and any other provision” in introductory provisions.
+Subsec. (d). Pub. L. 101–508, §11813(b)(2)(D)(i), substituted "any provision" for "sections 46(f), 47(a), 196(a), and any other provision" in introductory provisions.
 
-Subsec. (d)(2). Pub. L. 101–508, §11813(b)(2)(D)(ii), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “The order in which credits attributable to a percentage referred to in section 46(a) are used shall be determined on the basis of the order in which such percentages are listed in section 46(a) as of the close of the taxable year in which the credit is used.”
+Subsec. (d)(2). Pub. L. 101–508, §11813(b)(2)(D)(ii), amended par. (2) generally. Prior to amendment, par. (2) read as follows: "The order in which credits attributable to a percentage referred to in section 46(a) are used shall be determined on the basis of the order in which such percentages are listed in section 46(a) as of the close of the taxable year in which the credit is used."
 
-Subsec. (d)(3)(B). Pub. L. 101–508, §11813(b)(2)(D)(iii), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “the employee plan percentage (as defined in section 46(a)(2)(E), as in effect on the day before the date of the enactment of the Tax Reform Act of 1984) shall be treated as referred to after section 46(a)(2).”
+Subsec. (d)(3)(B). Pub. L. 101–508, §11813(b)(2)(D)(iii), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: "the employee plan percentage (as defined in section 46(a)(2)(E), as in effect on the day before the date of the enactment of the Tax Reform Act of 1984) shall be treated as referred to after section 46(a)(2)."
 
-**1988**—Subsec. (c). Pub. L. 100–647, §1007(g)(2), amended pars. (1) to (3) generally, substituting pars. (1) and (2) for former pars. (1) to (3), redesignating former par. (4) as (3), and substituting “subparagraph (B) of paragraph (1)” for “subparagraphs (A) and (B) of paragraph (1)” in subpars. (A), (B), (C), and (D).
+**1988**—Subsec. (c). Pub. L. 100–647, §1007(g)(2), amended pars. (1) to (3) generally, substituting pars. (1) and (2) for former pars. (1) to (3), redesignating former par. (4) as (3), and substituting "subparagraph (B) of paragraph (1)" for "subparagraphs (A) and (B) of paragraph (1)" in subpars. (A), (B), (C), and (D).
 
 Pub. L. 100–647, §1007(g)(8), made technical correction to directory language of Pub. L. 99–514, §701(c)(4), see 1986 Amendment note below.
 
-Subsec. (d). Pub. L. 100–647, §1002(e)(8)(A), substituted “Ordering rules” for “Special rules for certain regulated companies” in heading and amended text generally. Prior to amendment, text read as follows: “In the case of any taxpayer to which section 46(f) applies, for purposes of sections 46(f), 47(a), and 196(a) and any other provision of this title where it is necessary to ascertain the extent to which the credits determined under section 40(a), 41(a), 42(a), 46(a), or 51(a) are used in a taxable year or as a carryback or carryforward, the order in which such credits are used shall be determined on the basis of the order in which they are listed in subsection (b).”
+Subsec. (d). Pub. L. 100–647, §1002(e)(8)(A), substituted "Ordering rules" for "Special rules for certain regulated companies" in heading and amended text generally. Prior to amendment, text read as follows: "In the case of any taxpayer to which section 46(f) applies, for purposes of sections 46(f), 47(a), and 196(a) and any other provision of this title where it is necessary to ascertain the extent to which the credits determined under section 40(a), 41(a), 42(a), 46(a), or 51(a) are used in a taxable year or as a carryback or carryforward, the order in which such credits are used shall be determined on the basis of the order in which they are listed in subsection (b)."
 
 **1986**—Subsec. (b)(4). Pub. L. 99–514, §231(d)(1), added par. (4).
 
-Pub. L. 99–514, §1171(b)(1), struck out former par. (4) which read as follows: “the employee stock ownership credit determined under section 41(a)”.
+Pub. L. 99–514, §1171(b)(1), struck out former par. (4) which read as follows: "the employee stock ownership credit determined under section 41(a)".
 
 Subsec. (b)(5). Pub. L. 99–514, §252(b)(1), added par. (5).
 
-Subsec. (c). Pub. L. 99–514, §701(c)(4), as amended by Pub. L. 100–647, §1007(g)(8), added pars. (1) to (3), redesignated former par. (3) as (4), and struck out former par. (1) “In general” which provided: “The credit allowed under subsection (a) for any taxable year shall not exceed the sum of—
+Subsec. (c). Pub. L. 99–514, §701(c)(4), as amended by Pub. L. 100–647, §1007(g)(8), added pars. (1) to (3), redesignated former par. (3) as (4), and struck out former par. (1) "In general" which provided: "The credit allowed under subsection (a) for any taxable year shall not exceed the sum of—
 
-“(A) so much of the taxpayer's net tax liability for the taxable year as does not exceed $25,000, plus
+"(A) so much of the taxpayer's net tax liability for the taxable year as does not exceed $25,000, plus
 
-“(B) 75 percent of so much of the taxpayer's net tax liability for the taxable year as exceeds $25,000.”
+"(B) 75 percent of so much of the taxpayer's net tax liability for the taxable year as exceeds $25,000."
 
-and former par. (2) “Net tax liability”, which provided: “For purposes of paragraph (1), the term ‘net tax liability’ means the tax liability (as defined in section 26(b)), reduced by the sum of the credits allowable under subparts A and B of this part.”
+and former par. (2) "Net tax liability", which provided: "For purposes of paragraph (1), the term 'net tax liability' means the tax liability (as defined in section 26(b)), reduced by the sum of the credits allowable under subparts A and B of this part."
 
-Subsec. (c)(1)(B). Pub. L. 99–514, §221(a), substituted “75 percent” for “85 percent”.
+Subsec. (c)(1)(B). Pub. L. 99–514, §221(a), substituted "75 percent" for "85 percent".
 
-Subsec. (d). Pub. L. 99–514, §252(b)(2), inserted “42(a),”.
+Subsec. (d). Pub. L. 99–514, §252(b)(2), inserted "42(a),".
 
-Pub. L. 99–514, §1171(b)(2), substituted “and 196(a)” for “196(a), and 404(i)” and struck out “41(a),” after “40(a)”.
+Pub. L. 99–514, §1171(b)(2), substituted "and 196(a)" for "196(a), and 404(i)" and struck out "41(a)," after "40(a)".
 
-Pub. L. 99–514, §231(d)(3)(B), inserted “41(a),” after “40(a),”.
+Pub. L. 99–514, §231(d)(3)(B), inserted "41(a)," after "40(a),".
 
-**1984**—Subsec. (c)(2). Pub. L. 98–369, §612(e)(1), substituted “section 26(b)” for “section 25(b)”.
+**1984**—Subsec. (c)(2). Pub. L. 98–369, §612(e)(1), substituted "section 26(b)" for "section 25(b)".
 
 #### Effective Date of 2010 Amendment
 
-Pub. L. 111–240, title II, §2013(d), Sept. 27, 2010, 124 Stat. 2556, provided that: “The amendments made by subsection (a) \[amending this section\] shall apply to credits determined in taxable years beginning after December 31, 2009, and to carrybacks of such credits.”
+Pub. L. 111–240, title II, §2013(d), Sept. 27, 2010, 124 Stat. 2556, provided that: "The amendments made by subsection (a) \[amending this section\] shall apply to credits determined in taxable years beginning after December 31, 2009, and to carrybacks of such credits."
 
 Pub. L. 111–148, title I, §1421(f), title X, §10105(e)(4), Mar. 23, 2010, 124 Stat. 242, 907, provided that:
 
-“(1) In general.—The amendments made by this section \[enacting section 45R of this title and amending this section and sections 196 and 280C of this title\] shall apply to amounts paid or incurred in taxable years beginning after December 31, 2009.
+"(1) In general.—The amendments made by this section \[enacting section 45R of this title and amending this section and sections 196 and 280C of this title\] shall apply to amounts paid or incurred in taxable years beginning after December 31, 2009.
 
-“(2) Minimum tax.—The amendments made by subsection (c) \[amending this section\] shall apply to credits determined under section 45R of the Internal Revenue Code of 1986 in taxable years beginning after December 31, 2009, and to carrybacks of such credits.”
+"(2) Minimum tax.—The amendments made by subsection (c) \[amending this section\] shall apply to credits determined under section 45R of the Internal Revenue Code of 1986 in taxable years beginning after December 31, 2009, and to carrybacks of such credits."
 
 #### Effective Date of 2009 Amendment
 
@@ -496,49 +496,49 @@ Amendment by Pub. L. 111–5 applicable to vehicles acquired after Dec. 31, 2009
 
 Amendment by section 103(b) of Pub. L. 110–343 applicable to credits determined under section 46 of this title in taxable years beginning after Oct. 3, 2008, and to carrybacks of such credits, see section 103(f)(1), (2) of Pub. L. 110–343, set out as a note under section 48 of this title.
 
-Pub. L. 110–343, div. B, title I, §115(d), Oct. 3, 2008, 122 Stat. 3831, provided that: “The amendments made by this section \[enacting section 45Q of this title and amending this section\] shall apply to carbon dioxide captured after the date of the enactment of this Act \[Oct. 3, 2008\].”
+Pub. L. 110–343, div. B, title I, §115(d), Oct. 3, 2008, 122 Stat. 3831, provided that: "The amendments made by this section \[enacting section 45Q of this title and amending this section\] shall apply to carbon dioxide captured after the date of the enactment of this Act \[Oct. 3, 2008\]."
 
 Amendment by section 205(c) of Pub. L. 110–343 applicable to taxable years beginning after Dec. 31, 2008, see section 205(e) of Pub. L. 110–343, set out as an Effective and Termination Dates of 2008 Amendment note under section 24 of this title.
 
-Pub. L. 110–343, div. C, title III, §316(c)(2), Oct. 3, 2008, 122 Stat. 3873, provided that: “The amendments made by subsection (b) \[amending this section\] shall apply to credits determined under section 45G of the Internal Revenue Code of 1986 in taxable years beginning after December 31, 2007, and to carrybacks of such credits.”
+Pub. L. 110–343, div. C, title III, §316(c)(2), Oct. 3, 2008, 122 Stat. 3873, provided that: "The amendments made by subsection (b) \[amending this section\] shall apply to credits determined under section 45G of the Internal Revenue Code of 1986 in taxable years beginning after December 31, 2007, and to carrybacks of such credits."
 
 Pub. L. 110–289, div. C, title I, §3022(d)(2), (3), July 30, 2008, 122 Stat. 2894, provided that:
 
-“(2) Low income housing credit.—The amendments made by subsection (b) \[amending this section\] shall apply to credits determined under section 42 of the Internal Revenue Code of 1986 to the extent attributable to buildings placed in service after December 31, 2007.
+"(2) Low income housing credit.—The amendments made by subsection (b) \[amending this section\] shall apply to credits determined under section 42 of the Internal Revenue Code of 1986 to the extent attributable to buildings placed in service after December 31, 2007.
 
-“(3) Rehabilitation credit.—The amendments made by subsection (c) \[amending this section\] shall apply to credits determined under section 47 of the Internal Revenue Code of 1986 to the extent attributable to qualified rehabilitation expenditures properly taken into account for periods after December 31, 2007.”
+"(3) Rehabilitation credit.—The amendments made by subsection (c) \[amending this section\] shall apply to credits determined under section 47 of the Internal Revenue Code of 1986 to the extent attributable to qualified rehabilitation expenditures properly taken into account for periods after December 31, 2007."
 
-Pub. L. 110–245, title I, §111(e), June 17, 2008, 122 Stat. 1635, provided that: “The amendments made by this section \[enacting section 45P of this title and amending this section and section 280C of this title\] shall apply to amounts paid after the date of the enactment of this Act \[June 17, 2008\].”
+Pub. L. 110–245, title I, §111(e), June 17, 2008, 122 Stat. 1635, provided that: "The amendments made by this section \[enacting section 45P of this title and amending this section and section 280C of this title\] shall apply to amounts paid after the date of the enactment of this Act \[June 17, 2008\]."
 
 Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of Title 7, Agriculture.
 
-Pub. L. 110–234, title XV, §15343(e), May 22, 2008, 122 Stat. 1520, and Pub. L. 110–246, §4(a), title XV, §15343(e), June 18, 2008, 122 Stat. 1664, 2282, provided that: “The amendments made by this section \[enacting section 45O of this title and amending this section and section 280C of this title\] shall apply to amounts paid or incurred after the date of the enactment of this Act \[June 18, 2008\].”
+Pub. L. 110–234, title XV, §15343(e), May 22, 2008, 122 Stat. 1520, and Pub. L. 110–246, §4(a), title XV, §15343(e), June 18, 2008, 122 Stat. 1664, 2282, provided that: "The amendments made by this section \[enacting section 45O of this title and amending this section and section 280C of this title\] shall apply to amounts paid or incurred after the date of the enactment of this Act \[June 18, 2008\]."
 
 \[Pub. L. 110–234 and Pub. L. 110–246 enacted identical provisions. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246, set out as a note under section 8701 of Title 7, Agriculture.\]
 
 #### Effective Date of 2007 Amendment
 
-Pub. L. 110–28, title VIII, §8214(b), May 25, 2007, 121 Stat. 193, provided that: “The amendments made by this section \[amending this section\] shall apply to credits determined under sections 45B and 51 of the Internal Revenue Code of 1986 in taxable years beginning after December 31, 2006, and to carrybacks of such credits.”
+Pub. L. 110–28, title VIII, §8214(b), May 25, 2007, 121 Stat. 193, provided that: "The amendments made by this section \[amending this section\] shall apply to credits determined under sections 45B and 51 of the Internal Revenue Code of 1986 in taxable years beginning after December 31, 2006, and to carrybacks of such credits."
 
 #### Effective Date of 2006 Amendment
 
-Pub. L. 109–432, div. A, title IV, §405(e), Dec. 20, 2006, 120 Stat. 2958, provided that: “The amendments made by this section \[enacting section 45N of this title and amending this section and section 280C of this title\] shall apply to taxable years beginning after December 31, 2005.”
+Pub. L. 109–432, div. A, title IV, §405(e), Dec. 20, 2006, 120 Stat. 2958, provided that: "The amendments made by this section \[enacting section 45N of this title and amending this section and section 280C of this title\] shall apply to taxable years beginning after December 31, 2005."
 
 #### Effective Date of 2005 Amendment
 
-Pub. L. 109–59, title XI, §11126(d), Aug. 10, 2005, 119 Stat. 1958, provided that: “The amendments made by this section \[enacting section 5011 of this title and amending this section\] shall apply to taxable years beginning after September 30, 2005.”
+Pub. L. 109–59, title XI, §11126(d), Aug. 10, 2005, 119 Stat. 1958, provided that: "The amendments made by this section \[enacting section 5011 of this title and amending this section\] shall apply to taxable years beginning after September 30, 2005."
 
-Pub. L. 109–59, title XI, §11151(d)(2), Aug. 10, 2005, 119 Stat. 1968, provided that: “If the Energy Policy Act of 2005 \[Pub. L. 109–58, see Tables for classification\] is enacted before the date of the enactment of this Act \[Aug. 10, 2005\], for purposes of executing any amendments made by the Energy Policy Act of 2005 to section 38(b) of the Internal Revenue Code of 1986, the amendments made by section 11126(b) of this Act \[amending this section\] shall be treated as having been executed before such amendments made by the Energy Policy Act of 2005.”
+Pub. L. 109–59, title XI, §11151(d)(2), Aug. 10, 2005, 119 Stat. 1968, provided that: "If the Energy Policy Act of 2005 \[Pub. L. 109–58, see Tables for classification\] is enacted before the date of the enactment of this Act \[Aug. 10, 2005\], for purposes of executing any amendments made by the Energy Policy Act of 2005 to section 38(b) of the Internal Revenue Code of 1986, the amendments made by section 11126(b) of this Act \[amending this section\] shall be treated as having been executed before such amendments made by the Energy Policy Act of 2005."
 
-Pub. L. 109–59, title XI, §11151(f)(3), Aug. 10, 2005, 119 Stat. 1969, provided that: “The amendments made by subsections (d)(1) and (e)(2) \[amending this section and sections 4041 and 6426 of this title\] shall take effect as if included in the provision of the Energy Tax Incentives Act of 2005 \[Pub. L. 109–58, title XIII\] to which they relate.”
+Pub. L. 109–59, title XI, §11151(f)(3), Aug. 10, 2005, 119 Stat. 1969, provided that: "The amendments made by subsections (d)(1) and (e)(2) \[amending this section and sections 4041 and 6426 of this title\] shall take effect as if included in the provision of the Energy Tax Incentives Act of 2005 \[Pub. L. 109–58, title XIII\] to which they relate."
 
-Pub. L. 109–58, title XIII, §1306(d), Aug. 8, 2005, 119 Stat. 999, provided that: “The amendments made by this section \[enacting section 45J of this title and amending this section\] shall apply to production in taxable years beginning after the date of the enactment of this Act \[Aug. 8, 2005\].”
+Pub. L. 109–58, title XIII, §1306(d), Aug. 8, 2005, 119 Stat. 999, provided that: "The amendments made by this section \[enacting section 45J of this title and amending this section\] shall apply to production in taxable years beginning after the date of the enactment of this Act \[Aug. 8, 2005\]."
 
 Amendment by section 1322(a)(2) of Pub. L. 109–58 applicable to credits determined under the Internal Revenue Code of 1986 for taxable years ending after Dec. 31, 2005, see section 1322(c)(1) of Pub. L. 109–58, set out as a note under section 45K of this title.
 
-Pub. L. 109–58, title XIII, §1332(f), Aug. 8, 2005, 119 Stat. 1026, provided that: “The amendments made by this section \[enacting section 45L of this title and amending this section and sections 196 and 1016 of this title\] shall apply to qualified new energy efficient homes acquired after December 31, 2005, in taxable years ending after such date.”
+Pub. L. 109–58, title XIII, §1332(f), Aug. 8, 2005, 119 Stat. 1026, provided that: "The amendments made by this section \[enacting section 45L of this title and amending this section and sections 196 and 1016 of this title\] shall apply to qualified new energy efficient homes acquired after December 31, 2005, in taxable years ending after such date."
 
-Pub. L. 109–58, title XIII, §1334(d), Aug. 8, 2005, 119 Stat. 1033, provided that: “The amendments made by this section \[enacting section 45M of this title and amending this section\] shall apply to appliances produced after December 31, 2005.”
+Pub. L. 109–58, title XIII, §1334(d), Aug. 8, 2005, 119 Stat. 1033, provided that: "The amendments made by this section \[enacting section 45M of this title and amending this section\] shall apply to appliances produced after December 31, 2005."
 
 Amendment by section 1341(b)(1) of Pub. L. 109–58 applicable to property placed in service after Dec. 31, 2005, in taxable years ending after such date, see section 1341(c) of Pub. L. 109–58, set out as an Effective Date note under section 30B of this title.
 
@@ -546,51 +546,51 @@ Amendment by section 1342(b)(1) of Pub. L. 109–58 applicable to property place
 
 #### Effective Date of 2004 Amendment
 
-Pub. L. 108–357, title II, §245(e), Oct. 22, 2004, 118 Stat. 1448, provided that: “The amendments made by this section \[enacting section 45G of this title and amending this section and sections 39 and 1016 of this title\] shall apply to taxable years beginning after December 31, 2004.”
+Pub. L. 108–357, title II, §245(e), Oct. 22, 2004, 118 Stat. 1448, provided that: "The amendments made by this section \[enacting section 45G of this title and amending this section and sections 39 and 1016 of this title\] shall apply to taxable years beginning after December 31, 2004."
 
-Pub. L. 108–357, title III, §302(d), Oct. 22, 2004, 118 Stat. 1466, provided that: “The amendments made by this section \[enacting section 40A of this title and amending this section and sections 87 and 196 of this title\] shall apply to fuel produced, and sold or used, after December 31, 2004, in taxable years ending after such date.”
+Pub. L. 108–357, title III, §302(d), Oct. 22, 2004, 118 Stat. 1466, provided that: "The amendments made by this section \[enacting section 40A of this title and amending this section and sections 87 and 196 of this title\] shall apply to fuel produced, and sold or used, after December 31, 2004, in taxable years ending after such date."
 
-Pub. L. 108–357, title III, §339(f), Oct. 22, 2004, 118 Stat. 1485, provided that: “The amendments made by this section \[enacting section 45H of this title and amending this section and sections 196, 280C, and 1016 of this title\] shall apply to expenses paid or incurred after December 31, 2002, in taxable years ending after such date.”
+Pub. L. 108–357, title III, §339(f), Oct. 22, 2004, 118 Stat. 1485, provided that: "The amendments made by this section \[enacting section 45H of this title and amending this section and sections 196, 280C, and 1016 of this title\] shall apply to expenses paid or incurred after December 31, 2002, in taxable years ending after such date."
 
-Pub. L. 108–357, title III, §341(e), Oct. 22, 2004, 118 Stat. 1487, provided that: “The amendments made by this section \[enacting section 45I of this title and amending this section and section 39 of this title\] shall apply to production in taxable years beginning after December 31, 2004.”
+Pub. L. 108–357, title III, §341(e), Oct. 22, 2004, 118 Stat. 1487, provided that: "The amendments made by this section \[enacting section 45I of this title and amending this section and section 39 of this title\] shall apply to production in taxable years beginning after December 31, 2004."
 
-Pub. L. 108–357, title VII, §711(c), Oct. 22, 2004, 118 Stat. 1558, provided that: “Except as otherwise provided, the amendments made by this section \[amending this section\] shall apply to taxable years ending after the date of the enactment of this Act \[Oct. 22, 2004\].”
+Pub. L. 108–357, title VII, §711(c), Oct. 22, 2004, 118 Stat. 1558, provided that: "Except as otherwise provided, the amendments made by this section \[amending this section\] shall apply to taxable years ending after the date of the enactment of this Act \[Oct. 22, 2004\]."
 
 #### Effective Date of 2002 Amendment
 
-Pub. L. 107–147, title III, §301(b)(3), Mar. 9, 2002, 116 Stat. 40, provided that: “The amendments made by this subsection \[amending this section\] shall apply to taxable years ending after December 31, 2001.”
+Pub. L. 107–147, title III, §301(b)(3), Mar. 9, 2002, 116 Stat. 40, provided that: "The amendments made by this subsection \[amending this section\] shall apply to taxable years ending after December 31, 2001."
 
 Amendment by section 411(d)(2) of Pub. L. 107–147 effective as if included in the provisions of the Economic Growth and Tax Relief Reconciliation Act of 2001, Pub. L. 107–16, to which such amendment relates, see section 411(x) of Pub. L. 107–147, set out as a note under section 25B of this title.
 
 #### Effective Date of 2001 Amendment
 
-Pub. L. 107–16, title II, §205(c), June 7, 2001, 115 Stat. 53, provided that: “The amendments made by this section \[enacting section 45F of this title and amending this section and section 1016 of this title\] shall apply to taxable years beginning after December 31, 2001.”
+Pub. L. 107–16, title II, §205(c), June 7, 2001, 115 Stat. 53, provided that: "The amendments made by this section \[enacting section 45F of this title and amending this section and section 1016 of this title\] shall apply to taxable years beginning after December 31, 2001."
 
-Pub. L. 107–16, title VI, §619(d), June 7, 2001, 115 Stat. 110, as amended by Pub. L. 107–147, title IV, §411(n)(2), Mar. 9, 2002, 116 Stat. 48, provided that: “The amendments made by this section \[enacting section 45E of this title and amending this section and sections 39 and 196 of this title\] shall apply to costs paid or incurred in taxable years beginning after December 31, 2001, with respect to qualified employer plans first effective after such date.”
+Pub. L. 107–16, title VI, §619(d), June 7, 2001, 115 Stat. 110, as amended by Pub. L. 107–147, title IV, §411(n)(2), Mar. 9, 2002, 116 Stat. 48, provided that: "The amendments made by this section \[enacting section 45E of this title and amending this section and sections 39 and 196 of this title\] shall apply to costs paid or incurred in taxable years beginning after December 31, 2001, with respect to qualified employer plans first effective after such date."
 
 #### Effective Date of 2000 Amendment
 
-Pub. L. 106–554, §1(a)(7) \[title I, §121(e)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–610, provided that: “The amendments made by this section \[enacting section 45D of this title, amending this section and sections 39 and 196 of this title, and enacting provisions set out as notes under section 45D of this title\] shall apply to investments made after December 31, 2000.”
+Pub. L. 106–554, §1(a)(7) \[title I, §121(e)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–610, provided that: "The amendments made by this section \[enacting section 45D of this title, amending this section and sections 39 and 196 of this title, and enacting provisions set out as notes under section 45D of this title\] shall apply to investments made after December 31, 2000."
 
 #### Effective Date of 1996 Amendment
 
-Pub. L. 104–188, title I, §1201(g), Aug. 20, 1996, 110 Stat. 1772, provided that: “The amendments made by this section \[amending this section and sections 41, 45A, 51, 196, and 1396 of this title\] shall apply to individuals who begin work for the employer after September 30, 1996.”
+Pub. L. 104–188, title I, §1201(g), Aug. 20, 1996, 110 Stat. 1772, provided that: "The amendments made by this section \[amending this section and sections 41, 45A, 51, 196, and 1396 of this title\] shall apply to individuals who begin work for the employer after September 30, 1996."
 
 Amendment by section 1205(a)(2) of Pub. L. 104–188 applicable to amounts paid or incurred in taxable years ending after June 30, 1996, see section 1205(e) of Pub. L. 104–188, set out as a note under section 45K of this title.
 
-Pub. L. 104–188, title I, §1702(i), Aug. 20, 1996, 110 Stat. 1875, provided that: “Except as otherwise expressly provided, any amendment made by this section \[amending this section, sections 50, 56, 59, 143, 151, 168, 172, 179, 243, 280F, 341, 424, 460, 613A, 805, 832, 861, 897, 1248, 1250, 1367, 1504, 2701, 2702, 2704, 4093, 4975, 5041, 5061, 5354, 6038A, 6302, 6416, 6427, 6501, 6503, 6621, 6724, and 7012 of this title, and provisions set out as a note under section 42 of this title\] shall take effect as if included in the provision of the Revenue Reconciliation Act of 1990 \[Pub. L. 101–508, title XI\] to which such amendment relates.”
+Pub. L. 104–188, title I, §1702(i), Aug. 20, 1996, 110 Stat. 1875, provided that: "Except as otherwise expressly provided, any amendment made by this section \[amending this section, sections 50, 56, 59, 143, 151, 168, 172, 179, 243, 280F, 341, 424, 460, 613A, 805, 832, 861, 897, 1248, 1250, 1367, 1504, 2701, 2702, 2704, 4093, 4975, 5041, 5061, 5354, 6038A, 6302, 6416, 6427, 6501, 6503, 6621, 6724, and 7012 of this title, and provisions set out as a note under section 42 of this title\] shall take effect as if included in the provision of the Revenue Reconciliation Act of 1990 \[Pub. L. 101–508, title XI\] to which such amendment relates."
 
 #### Effective Date of 1993 Amendment
 
-Pub. L. 103–66, title XIII, §13303, Aug. 10, 1993, 107 Stat. 556, provided that: “The amendments made by this part \[part I (§§13301–13303) of subchapter C of chapter 1 of title XIII of Pub. L. 103–66, enacting sections 1391 to 1394 and 1396 to 1397D of this title and amending this section and sections 39, 51, 196, 280C, and 381 of this title\] shall take effect on the date of the enactment of this Act \[Aug. 10, 1993\].”
+Pub. L. 103–66, title XIII, §13303, Aug. 10, 1993, 107 Stat. 556, provided that: "The amendments made by this part \[part I (§§13301–13303) of subchapter C of chapter 1 of title XIII of Pub. L. 103–66, enacting sections 1391 to 1394 and 1396 to 1397D of this title and amending this section and sections 39, 51, 196, 280C, and 381 of this title\] shall take effect on the date of the enactment of this Act \[Aug. 10, 1993\]."
 
-Pub. L. 103–66, title XIII, §13322(f), Aug. 10, 1993, 107 Stat. 563, provided that: “The amendments made by this section \[enacting section 45A of this title and amending this section and sections 39, 196, and 280C of this title\] shall apply to wages paid or incurred after December 31, 1993.”
+Pub. L. 103–66, title XIII, §13322(f), Aug. 10, 1993, 107 Stat. 563, provided that: "The amendments made by this section \[enacting section 45A of this title and amending this section and sections 39, 196, and 280C of this title\] shall apply to wages paid or incurred after December 31, 1993."
 
-Pub. L. 103–66, title XIII, §13443(d), Aug. 10, 1993, 107 Stat. 569, as amended by Pub. L. 104–188, title I, §1112(a)(2), Aug. 20, 1996, 110 Stat. 1759, provided that: “The amendments made by this section \[enacting section 45B of this title and amending this section and section 39 of this title\] shall apply with respect to taxes paid after December 31, 1993, with respect to services performed before, on, or after such date.”
+Pub. L. 103–66, title XIII, §13443(d), Aug. 10, 1993, 107 Stat. 569, as amended by Pub. L. 104–188, title I, §1112(a)(2), Aug. 20, 1996, 110 Stat. 1759, provided that: "The amendments made by this section \[enacting section 45B of this title and amending this section and section 39 of this title\] shall apply with respect to taxes paid after December 31, 1993, with respect to services performed before, on, or after such date."
 
 #### Effective Date of 1992 Amendment
 
-Pub. L. 102–486, title XIX, §1914(e), Oct. 24, 1992, 106 Stat. 3023, provided that: “The amendments made by this section \[enacting section 45 of this title and amending this section and section 39 of this title\] shall apply to taxable years ending after December 31, 1992.”
+Pub. L. 102–486, title XIX, §1914(e), Oct. 24, 1992, 106 Stat. 3023, provided that: "The amendments made by this section \[enacting section 45 of this title and amending this section and section 39 of this title\] shall apply to taxable years ending after December 31, 1992."
 
 #### Effective Date of 1990 Amendment
 
@@ -598,21 +598,21 @@ Amendment by section 11511(b)(1) of Pub. L. 101–508 applicable to costs paid o
 
 Pub. L. 101–508, title XI, §11611(e), Nov. 5, 1990, 104 Stat. 1388–503, provided that:
 
-“(1) In general.—Except as provided in paragraph (2), the amendments made by this section \[enacting section 44 of this title and amending this section and sections 39 and 190 of this title\] shall apply to expenditures paid or incurred after the date of the enactment of this Act \[Nov. 5, 1990\].
+"(1) In general.—Except as provided in paragraph (2), the amendments made by this section \[enacting section 44 of this title and amending this section and sections 39 and 190 of this title\] shall apply to expenditures paid or incurred after the date of the enactment of this Act \[Nov. 5, 1990\].
 
-“(2) Subsection (c).—The amendment made by subsection (c) \[amending section 190 of this title\] shall apply to taxable years beginning after the date of the enactment of this Act.”
+"(2) Subsection (c).—The amendment made by subsection (c) \[amending section 190 of this title\] shall apply to taxable years beginning after the date of the enactment of this Act."
 
 Amendment by section 11813(b)(2) of Pub. L. 101–508 applicable to property placed in service after Dec. 31, 1990, but not applicable to any transition property (as defined in section 49(e) of this title), any property with respect to which qualified progress expenditures were previously taken into account under section 46(d) of this title, and any property described in section 46(b)(2)(C) of this title, as such sections were in effect on Nov. 4, 1990, see section 11813(c) of Pub. L. 101–508, set out as a note under section 45K of this title.
 
 #### Effective Date of 1988 Amendment
 
-Pub. L. 100–647, title I, §1002(e)(8)(C), Nov. 10, 1988, 102 Stat. 3369, provided that: “The amendments made by this paragraph \[amending this section and section 49 of this title\] shall apply to taxable years beginning after December 31, 1983, and to carrybacks from such years.”
+Pub. L. 100–647, title I, §1002(e)(8)(C), Nov. 10, 1988, 102 Stat. 3369, provided that: "The amendments made by this paragraph \[amending this section and section 49 of this title\] shall apply to taxable years beginning after December 31, 1983, and to carrybacks from such years."
 
 Amendment by section 1007(g)(2), (8) of Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
 
 #### Effective Date of 1986 Amendment
 
-Pub. L. 99–514, title II, §221(b), Oct. 22, 1986, 100 Stat. 2173, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to taxable years beginning after December 31, 1985.”
+Pub. L. 99–514, title II, §221(b), Oct. 22, 1986, 100 Stat. 2173, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply to taxable years beginning after December 31, 1985."
 
 Amendment by section 231(d)(1), (3)(B) of Pub. L. 99–514 applicable to taxable years beginning after Dec. 31, 1985, see section 231(g) of Pub. L. 99–514, set out as a note under section 41 of this title.
 
@@ -622,9 +622,9 @@ Amendment by section 701(c)(4) of Pub. L. 99–514 applicable to taxable years b
 
 Pub. L. 99–514, title XI, §1171(c), Oct. 22, 1986, 100 Stat. 2513, provided that:
 
-“(1) In general.—Except as provided in paragraph (2), the amendments made by this section \[amending this section and sections 56, 108, 401, and 404 of this title and repealing sections 41 and 6699 of this title\] shall apply to compensation paid or accrued after December 31, 1986, in taxable years ending after such date.
+"(1) In general.—Except as provided in paragraph (2), the amendments made by this section \[amending this section and sections 56, 108, 401, and 404 of this title and repealing sections 41 and 6699 of this title\] shall apply to compensation paid or accrued after December 31, 1986, in taxable years ending after such date.
 
-“(2) Sections 404(i) and 6699 to continue to apply to pre-1987 credits.—The provisions of sections 404(i) and 6699 of the Internal Revenue Code of 1986 shall continue to apply with respect to credits under section 41 of such Code attributable to compensation paid or accrued before January 1, 1987 (or under section 38 of such Code with respect to qualified investment before January 1, 1983).”
+"(2) Sections 404(i) and 6699 to continue to apply to pre-1987 credits.—The provisions of sections 404(i) and 6699 of the Internal Revenue Code of 1986 shall continue to apply with respect to credits under section 41 of such Code attributable to compensation paid or accrued before January 1, 1987 (or under section 38 of such Code with respect to qualified investment before January 1, 1983)."
 
 #### Effective Date of 1984 Amendment
 
@@ -642,93 +642,93 @@ For provisions that nothing in amendment by section 11813(b)(2) of Pub. L. 101�
 
 Pub. L. 111–147, title I, §102, Mar. 18, 2010, 124 Stat. 75, provided that:
 
-“(a) In General.—In the case of any taxable year ending after the date of the enactment of this Act \[Mar. 18, 2010\], the current year business credit determined under section 38(b) of the Internal Revenue Code of 1986 for such taxable year shall be increased, with respect to each retained worker with respect to which subsection (b)(2) is first satisfied during such taxable year, by the lesser of—
+"(a) In General.—In the case of any taxable year ending after the date of the enactment of this Act \[Mar. 18, 2010\], the current year business credit determined under section 38(b) of the Internal Revenue Code of 1986 for such taxable year shall be increased, with respect to each retained worker with respect to which subsection (b)(2) is first satisfied during such taxable year, by the lesser of—
 
-“(1) $1,000, or
+"(1) $1,000, or
 
-“(2) 6.2 percent of the wages (as defined in section 3401(a) \[probably means section 3401(a) of the Internal Revenue Code of 1986\]) paid by the taxpayer to such retained worker during the 52 consecutive week period referred to in subsection (b)(2).
+"(2) 6.2 percent of the wages (as defined in section 3401(a) \[probably means section 3401(a) of the Internal Revenue Code of 1986\]) paid by the taxpayer to such retained worker during the 52 consecutive week period referred to in subsection (b)(2).
 
-“(b) Retained Worker.—For purposes of this section, the term ‘retained worker’ means any qualified individual (as defined in section 3111(d)(3) or section 3221(c)(3) of the Internal Revenue Code of 1986)—
+"(b) Retained Worker.—For purposes of this section, the term 'retained worker' means any qualified individual (as defined in section 3111(d)(3) or section 3221(c)(3) of the Internal Revenue Code of 1986)—
 
-“(1) who was employed by the taxpayer on any date during the taxable year,
+"(1) who was employed by the taxpayer on any date during the taxable year,
 
-“(2) who was so employed by the taxpayer for a period of not less than 52 consecutive weeks, and
+"(2) who was so employed by the taxpayer for a period of not less than 52 consecutive weeks, and
 
-“(3) whose wages (as defined in section 3401(a) \[probably means section 3401(a) of the Internal Revenue Code of 1986\]) for such employment during the last 26 weeks of such period equaled at least 80 percent of such wages for the first 26 weeks of such period.
+"(3) whose wages (as defined in section 3401(a) \[probably means section 3401(a) of the Internal Revenue Code of 1986\]) for such employment during the last 26 weeks of such period equaled at least 80 percent of such wages for the first 26 weeks of such period.
 
-“(c) Limitation on Carrybacks.—No portion of the unused business credit under section 38 of the Internal Revenue Code of 1986 for any taxable year which is attributable to the increase in the current year business credit under this section may be carried to a taxable year beginning before the date of the enactment of this section \[Mar. 18, 2010\].
+"(c) Limitation on Carrybacks.—No portion of the unused business credit under section 38 of the Internal Revenue Code of 1986 for any taxable year which is attributable to the increase in the current year business credit under this section may be carried to a taxable year beginning before the date of the enactment of this section \[Mar. 18, 2010\].
 
-“(d) Treatment of Possessions.—
+"(d) Treatment of Possessions.—
 
-“(1) Payments to possessions.—
+"(1) Payments to possessions.—
 
-“(A) Mirror code possessions.—The Secretary of the Treasury shall pay to each possession of the United States with a mirror code tax system amounts equal to the loss to that possession by reason of the application of this section (other than this subsection). Such amounts shall be determined by the Secretary of the Treasury based on information provided by the government of the respective possession.
+"(A) Mirror code possessions.—The Secretary of the Treasury shall pay to each possession of the United States with a mirror code tax system amounts equal to the loss to that possession by reason of the application of this section (other than this subsection). Such amounts shall be determined by the Secretary of the Treasury based on information provided by the government of the respective possession.
 
-“(B) Other possessions.—The Secretary of the Treasury shall pay to each possession of the United States which does not have a mirror code tax system amounts estimated by the Secretary of the Treasury as being equal to the aggregate benefits that would have been provided to residents of such possession by reason of the application of this section (other than this subsection) if a mirror code tax system had been in effect in such possession. The preceding sentence shall not apply with respect to any possession of the United States unless such possession has a plan, which has been approved by the Secretary of the Treasury, under which such possession will promptly distribute such payments to the residents of such possession.
+"(B) Other possessions.—The Secretary of the Treasury shall pay to each possession of the United States which does not have a mirror code tax system amounts estimated by the Secretary of the Treasury as being equal to the aggregate benefits that would have been provided to residents of such possession by reason of the application of this section (other than this subsection) if a mirror code tax system had been in effect in such possession. The preceding sentence shall not apply with respect to any possession of the United States unless such possession has a plan, which has been approved by the Secretary of the Treasury, under which such possession will promptly distribute such payments to the residents of such possession.
 
-“(2) Coordination with credit allowed against united states income taxes.—No increase in the credit determined under section 38(b) of the Internal Revenue Code of 1986 against United States income taxes for any taxable year determined under subsection (a) shall be taken into account with respect to any person—
+"(2) Coordination with credit allowed against united states income taxes.—No increase in the credit determined under section 38(b) of the Internal Revenue Code of 1986 against United States income taxes for any taxable year determined under subsection (a) shall be taken into account with respect to any person—
 
-“(A) to whom a credit is allowed against taxes imposed by the possession by reason of this section for such taxable year, or
+"(A) to whom a credit is allowed against taxes imposed by the possession by reason of this section for such taxable year, or
 
-“(B) who is eligible for a payment under a plan described in paragraph (1)(B) with respect to such taxable year.
+"(B) who is eligible for a payment under a plan described in paragraph (1)(B) with respect to such taxable year.
 
-“(3) Definitions and special rules.—
+"(3) Definitions and special rules.—
 
-“(A) Possession of the united states.—For purposes of this subsection, the term ‘possession of the United States’ includes the Commonwealth of Puerto Rico and the Commonwealth of the Northern Mariana Islands.
+"(A) Possession of the united states.—For purposes of this subsection, the term 'possession of the United States' includes the Commonwealth of Puerto Rico and the Commonwealth of the Northern Mariana Islands.
 
-“(B) Mirror code tax system.—For purposes of this subsection, the term ‘mirror code tax system’ means, with respect to any possession of the United States, the income tax system of such possession if the income tax liability of the residents of such possession under such system is determined by reference to the income tax laws of the United States as if such possession were the United States.
+"(B) Mirror code tax system.—For purposes of this subsection, the term 'mirror code tax system' means, with respect to any possession of the United States, the income tax system of such possession if the income tax liability of the residents of such possession under such system is determined by reference to the income tax laws of the United States as if such possession were the United States.
 
-“(C) Treatment of payments.—For purposes of section 1324(b)(2) of title 31, United States Code, rules similar to the rules of section 1001(b)(3)(C) of the American Recovery and Reinvestment Tax Act of 2009 \[section 1001(b)(3)(C) of Pub. L. 111–5, set out as a note under section 36A of this title\] shall apply.”
+"(C) Treatment of payments.—For purposes of section 1324(b)(2) of title 31, United States Code, rules similar to the rules of section 1001(b)(3)(C) of the American Recovery and Reinvestment Tax Act of 2009 \[section 1001(b)(3)(C) of Pub. L. 111–5, set out as a note under section 36A of this title\] shall apply."
 
 #### Credit for Contributions to Certain Community Development Corporations
 
 Pub. L. 103–66, title XIII, §13311, Aug. 10, 1993, 107 Stat. 556, as amended by Pub. L. 104–188, title I, §1703(n)(13), Aug. 20, 1996, 110 Stat. 1877, provided that:
 
-“(a) In General.—For purposes of section 38 of the Internal Revenue Code of 1986, the current year business credit shall include the credit determined under this section.
+"(a) In General.—For purposes of section 38 of the Internal Revenue Code of 1986, the current year business credit shall include the credit determined under this section.
 
-“(b) Determination of Credit.—The credit determined under this section for each taxable year in the credit period with respect to any qualified CDC contribution made by the taxpayer is an amount equal to 5 percent of such contribution.
+"(b) Determination of Credit.—The credit determined under this section for each taxable year in the credit period with respect to any qualified CDC contribution made by the taxpayer is an amount equal to 5 percent of such contribution.
 
-“(c) Credit Period.—For purposes of this section, the credit period with respect to any qualified CDC contribution is the period of 10 taxable years beginning with the taxable year during which such contribution was made.
+"(c) Credit Period.—For purposes of this section, the credit period with respect to any qualified CDC contribution is the period of 10 taxable years beginning with the taxable year during which such contribution was made.
 
-“(d) Qualified CDC Contribution.—For purposes of this section—
+"(d) Qualified CDC Contribution.—For purposes of this section—
 
-“(1) In general.—The term ‘qualified CDC contribution’ means any transfer of cash—
+"(1) In general.—The term 'qualified CDC contribution' means any transfer of cash—
 
-“(A) which is made to a selected community development corporation during the 5-year period beginning on the date such corporation was selected for purposes of this section,
+"(A) which is made to a selected community development corporation during the 5-year period beginning on the date such corporation was selected for purposes of this section,
 
-“(B) the amount of which is available for use by such corporation for at least 10 years,
+"(B) the amount of which is available for use by such corporation for at least 10 years,
 
-“(C) which is to be used by such corporation for qualified low-income assistance within its operational area, and
+"(C) which is to be used by such corporation for qualified low-income assistance within its operational area, and
 
-“(D) which is designated by such corporation for purposes of this section.
+"(D) which is designated by such corporation for purposes of this section.
 
-“(2) Limitations on amount designated.—The aggregate amount of contributions to a selected community development corporation which may be designated by such corporation shall not exceed $2,000,000.
+"(2) Limitations on amount designated.—The aggregate amount of contributions to a selected community development corporation which may be designated by such corporation shall not exceed $2,000,000.
 
-“(e) Selected Community Development Corporations.—
+"(e) Selected Community Development Corporations.—
 
-“(1) In general.—For purposes of this section, the term ‘selected community development corporation’ means any corporation—
+"(1) In general.—For purposes of this section, the term 'selected community development corporation' means any corporation—
 
-“(A) which is described in section 501(c)(3) of such Code and exempt from tax under section 501(a) of such Code,
+"(A) which is described in section 501(c)(3) of such Code and exempt from tax under section 501(a) of such Code,
 
-“(B) the principal purposes of which include promoting employment of, and business opportunities for, low-income individuals who are residents of the operational area, and
+"(B) the principal purposes of which include promoting employment of, and business opportunities for, low-income individuals who are residents of the operational area, and
 
-“(C) which is selected by the Secretary of Housing and Urban Development for purposes of this section.
+"(C) which is selected by the Secretary of Housing and Urban Development for purposes of this section.
 
-“(2) Only 20 corporations may be selected.—The Secretary of Housing and Urban Development may select 20 corporations for purposes of this section, subject to the availability of eligible corporations. Such selections may be made only before July 1, 1994. At least 8 of the operational areas of the corporations selected must be rural areas (as defined by section 1393(a)(2) of such Code).
+"(2) Only 20 corporations may be selected.—The Secretary of Housing and Urban Development may select 20 corporations for purposes of this section, subject to the availability of eligible corporations. Such selections may be made only before July 1, 1994. At least 8 of the operational areas of the corporations selected must be rural areas (as defined by section 1393(a)(2) of such Code).
 
-“(3) Operational areas must have certain characteristics.—A corporation may be selected for purposes of this section only if its operational area meets the following criteria:
+"(3) Operational areas must have certain characteristics.—A corporation may be selected for purposes of this section only if its operational area meets the following criteria:
 
-“(A) The area meets the size requirements under section 1392(a)(3).
+"(A) The area meets the size requirements under section 1392(a)(3).
 
-“(B) The unemployment rate (as determined by the appropriate available data) is not less than the national unemployment rate.
+"(B) The unemployment rate (as determined by the appropriate available data) is not less than the national unemployment rate.
 
-“(C) The median family income of residents of such area does not exceed 80 percent of the median gross income of residents of the jurisdiction of the local government which includes such area.
+"(C) The median family income of residents of such area does not exceed 80 percent of the median gross income of residents of the jurisdiction of the local government which includes such area.
 
-“(f) Qualified Low-Income Assistance.—For purposes of this section, the term ‘qualified low-income assistance’ means assistance—
+"(f) Qualified Low-Income Assistance.—For purposes of this section, the term 'qualified low-income assistance' means assistance—
 
-“(1) which is designed to provide employment of, and business opportunities for, low-income individuals who are residents of the operational area of the community development corporation, and
+"(1) which is designed to provide employment of, and business opportunities for, low-income individuals who are residents of the operational area of the community development corporation, and
 
-“(2) which is approved by the Secretary of Housing and Urban Development.”
+"(2) which is approved by the Secretary of Housing and Urban Development."
 
 #### Applicability of Certain Amendments by Public Law 99–514 in Relation to Treaty Obligations of United States
 
@@ -738,109 +738,109 @@ For applicability of amendment by section 701(c)(4) of Pub. L. 99–514 notwiths
 
 Pub. L. 99–514, title II, §212, Oct. 22, 1986, 100 Stat. 2170, as amended by Pub. L. 100–647, title I, §1002(f), Nov. 10, 1988, 102 Stat. 3369, provided that:
 
-“(a) General Rule.—If a qualified corporation makes an election under this section for its 1st taxable year beginning after December 31, 1986, with respect to any portion of its existing carryforwards, the amount determined under subsection (b) shall be treated as a payment against the tax imposed by chapter 1 of the Internal Revenue Code of 1986 made by such corporation on the last day prescribed by law (without regard to extensions) for filing its return of tax under chapter 1 of such Code for such 1st taxable year.
+"(a) General Rule.—If a qualified corporation makes an election under this section for its 1st taxable year beginning after December 31, 1986, with respect to any portion of its existing carryforwards, the amount determined under subsection (b) shall be treated as a payment against the tax imposed by chapter 1 of the Internal Revenue Code of 1986 made by such corporation on the last day prescribed by law (without regard to extensions) for filing its return of tax under chapter 1 of such Code for such 1st taxable year.
 
-“(b) Amount.—For purposes of subsection (a), the amount determined under this subsection shall be the lesser of—
+"(b) Amount.—For purposes of subsection (a), the amount determined under this subsection shall be the lesser of—
 
-“(1) 50 percent of the portion of the corporation's existing carryforwards to which the election under subsection (a) applies, or
+"(1) 50 percent of the portion of the corporation's existing carryforwards to which the election under subsection (a) applies, or
 
-“(2) the corporation's net tax liability for the carryback period.
+"(2) the corporation's net tax liability for the carryback period.
 
-“(c) Corporation Making Election May Not Use Same Amounts Under Section 38.—In the case of a qualified corporation which makes an election under subsection (a), the portion of such corporation's existing carryforwards to which such an election applies shall not be taken into account under section 38 of the Internal Revenue Code of 1986 for any taxable year beginning after December 31, 1986.
+"(c) Corporation Making Election May Not Use Same Amounts Under Section 38.—In the case of a qualified corporation which makes an election under subsection (a), the portion of such corporation's existing carryforwards to which such an election applies shall not be taken into account under section 38 of the Internal Revenue Code of 1986 for any taxable year beginning after December 31, 1986.
 
-“(d) Net Tax Liability for Carryback Period.—For purposes of this section—
+"(d) Net Tax Liability for Carryback Period.—For purposes of this section—
 
-“(1) In general.—A corporation's net tax liability for the carryback period is the aggregate of such corporation's net tax liability for taxable years in the carryback period.
+"(1) In general.—A corporation's net tax liability for the carryback period is the aggregate of such corporation's net tax liability for taxable years in the carryback period.
 
-“(2) Net tax liability.—The term ‘net tax liability’ means, with respect to any taxable year, the amount of the tax imposed by chapter 1 of the Internal Revenue Code of 1954 \[now 1986\] for such taxable year, reduced by the sum of the credits allowable under part IV of subchapter A of such chapter 1 (other than section 34 thereof). For purposes of the preceding sentence, any tax treated as not imposed by chapter 1 of such Code under section 26(b)(2) of such Code shall not be treated as tax imposed by such chapter 1.
+"(2) Net tax liability.—The term 'net tax liability' means, with respect to any taxable year, the amount of the tax imposed by chapter 1 of the Internal Revenue Code of 1954 \[now 1986\] for such taxable year, reduced by the sum of the credits allowable under part IV of subchapter A of such chapter 1 (other than section 34 thereof). For purposes of the preceding sentence, any tax treated as not imposed by chapter 1 of such Code under section 26(b)(2) of such Code shall not be treated as tax imposed by such chapter 1.
 
-“(3) Carryback period.—The term ‘carryback period’ means the period—
+"(3) Carryback period.—The term 'carryback period' means the period—
 
-“(A) which begins with the corporation's 15th taxable year preceding the 1st taxable year from which there is an unused credit included in such corporation's existing carryforwards (but in no event shall such period begin before the corporation's 1st taxable year ending after December 31, 1961), and
+"(A) which begins with the corporation's 15th taxable year preceding the 1st taxable year from which there is an unused credit included in such corporation's existing carryforwards (but in no event shall such period begin before the corporation's 1st taxable year ending after December 31, 1961), and
 
-“(B) which ends with the corporation's last taxable year beginning before January 1, 1986.
+"(B) which ends with the corporation's last taxable year beginning before January 1, 1986.
 
-“(e) No Recomputation of Minimum Tax, Etc.—Nothing in this section shall be construed to affect—
+"(e) No Recomputation of Minimum Tax, Etc.—Nothing in this section shall be construed to affect—
 
-“(1) the amount of the tax imposed by section 56 of the Internal Revenue Code of 1986, or
+"(1) the amount of the tax imposed by section 56 of the Internal Revenue Code of 1986, or
 
-“(2) the amount of any credit allowable under such Code,
+"(2) the amount of any credit allowable under such Code,
 
 for any taxable year in the carryback period.
 
-“(f) Reinvestment Requirement.—
+"(f) Reinvestment Requirement.—
 
-“(1) In general.—Any amount determined under this section must be committed to reinvestment in, and modernization of the steel industry through investment in modern plant and equipment, research and development, and other appropriate projects, such as working capital for steel operations and programs for the retraining of steel workers.
+"(1) In general.—Any amount determined under this section must be committed to reinvestment in, and modernization of the steel industry through investment in modern plant and equipment, research and development, and other appropriate projects, such as working capital for steel operations and programs for the retraining of steel workers.
 
-“(2) Special rule.—In the case of the LTV Corporation, in lieu of the requirements of paragraph (1)—
+"(2) Special rule.—In the case of the LTV Corporation, in lieu of the requirements of paragraph (1)—
 
-“(A) such corporation shall place such refund in a separate account; and
+"(A) such corporation shall place such refund in a separate account; and
 
-“(B) amounts in such separate account—
+"(B) amounts in such separate account—
 
-“(i) shall only be used by the corporation—
+"(i) shall only be used by the corporation—
 
-     “(I) to purchase an insurance policy which provides that, in the event the corporation becomes involved in a title 11 or similar case (as defined in section 368(a)(3)(A) of the Internal Revenue Code of 1954 \[now 1986\]), the insurer will provide life and health insurance coverage during the 1-year period beginning on the date when the corporation receives the refund to any individual with respect to whom the corporation would (but for such involvement) have been obligated to provide such coverage the coverage provided by the insurer will be identical to the coverage which the corporation would (but for such involvement) have been obligated to provide, and provides that the payment of insurance premiums will not be required during such 1-year period to keep such policy in force, or
+     "(I) to purchase an insurance policy which provides that, in the event the corporation becomes involved in a title 11 or similar case (as defined in section 368(a)(3)(A) of the Internal Revenue Code of 1954 \[now 1986\]), the insurer will provide life and health insurance coverage during the 1-year period beginning on the date when the corporation receives the refund to any individual with respect to whom the corporation would (but for such involvement) have been obligated to provide such coverage the coverage provided by the insurer will be identical to the coverage which the corporation would (but for such involvement) have been obligated to provide, and provides that the payment of insurance premiums will not be required during such 1-year period to keep such policy in force, or
 
-     “(II) directly in connection with the trade or business of the corporation in the manufacturer or production of steel; and
+     "(II) directly in connection with the trade or business of the corporation in the manufacturer or production of steel; and
 
-“(ii) shall be used (or obligated) for purposes described in clause (i) not later than 3 months after the corporation receives the refund.
+"(ii) shall be used (or obligated) for purposes described in clause (i) not later than 3 months after the corporation receives the refund.
 
-“(3) In the case of a qualified corporation, no offset to any refund under this section may be made by reason of any tax imposed by section 4971 of the Internal Revenue Code of 1986 (or any interest or penalty attributable to any such tax), and the date on which any such refund is to be paid shall be determined without regard to such corporation's status under title 11, United States Code.
+"(3) In the case of a qualified corporation, no offset to any refund under this section may be made by reason of any tax imposed by section 4971 of the Internal Revenue Code of 1986 (or any interest or penalty attributable to any such tax), and the date on which any such refund is to be paid shall be determined without regard to such corporation's status under title 11, United States Code.
 
-“(g) Definitions.—For purposes of this section—
+"(g) Definitions.—For purposes of this section—
 
-“(1) Qualified corporation.—
+"(1) Qualified corporation.—
 
-“(A) In general.—The term ‘qualified corporation’ means any corporation which is described in section 806(b) of the Steel Import Stabilization Act \[19 U.S.C. 2253 note\] and a company which was incorporated on February 11, 1983, in Michigan.
+"(A) In general.—The term 'qualified corporation' means any corporation which is described in section 806(b) of the Steel Import Stabilization Act \[19 U.S.C. 2253 note\] and a company which was incorporated on February 11, 1983, in Michigan.
 
-“(B) Certain predecessors included.—In the case of any qualified corporation which has carryforward attributable to a predecessor corporation described in such section 806(b), the qualified corporation and the predecessor corporation shall be treated as 1 corporation for purposes of subsections (d) and (e).
+"(B) Certain predecessors included.—In the case of any qualified corporation which has carryforward attributable to a predecessor corporation described in such section 806(b), the qualified corporation and the predecessor corporation shall be treated as 1 corporation for purposes of subsections (d) and (e).
 
-“(2) Existing carryforwards.—The term ‘existing carryforward’ means the aggregate of the amounts which—
+"(2) Existing carryforwards.—The term 'existing carryforward' means the aggregate of the amounts which—
 
-“(A) are unused business credit carryforwards to the taxpayer's 1st taxable year beginning after December 31, 1986 (determined without regard to the limitations of section 38(c) and any reduction under section 49 of the Internal Revenue Code of 1986), and
+"(A) are unused business credit carryforwards to the taxpayer's 1st taxable year beginning after December 31, 1986 (determined without regard to the limitations of section 38(c) and any reduction under section 49 of the Internal Revenue Code of 1986), and
 
-“(B) are attributable to the amount of the regular investment credit determined for periods before January 1, 1986, under section 46(a)(1) of such Code (relating to regular percentage), or any corresponding provision of prior law, determined on the basis that the regular investment credit was used first.
+"(B) are attributable to the amount of the regular investment credit determined for periods before January 1, 1986, under section 46(a)(1) of such Code (relating to regular percentage), or any corresponding provision of prior law, determined on the basis that the regular investment credit was used first.
 
-“(3) Special rule for restructuring.—In the case of any corporation, any restructuring shall not limit, increase, or otherwise affect the benefits which would have been available under this section but for such restructuring.
+"(3) Special rule for restructuring.—In the case of any corporation, any restructuring shall not limit, increase, or otherwise affect the benefits which would have been available under this section but for such restructuring.
 
-“(h) Tentative Refunds.—Rules similar to the rules of section 6425 of the Internal Revenue Code of 1986 shall apply to any overpayment resulting from the application of this section.”
+"(h) Tentative Refunds.—Rules similar to the rules of section 6425 of the Internal Revenue Code of 1986 shall apply to any overpayment resulting from the application of this section."
 
 #### Effective 15-Year Carryback of Existing Carryforwards of Qualified Farmers
 
 Pub. L. 99–514, title II, §213, Oct. 22, 1986, 100 Stat. 2172, as amended by Pub. L. 100–647, title I, §1002(g), Nov. 10, 1988, 102 Stat. 3369, provided that:
 
-“(a) General Rule.—If a taxpayer who is a qualified farmer makes an election under this section for its 1st taxable year beginning after December 31, 1986, with respect to any portion of its existing carryforwards, the amount determined under subsection (b) shall be treated as a payment against the tax imposed by chapter 1 of the Internal Revenue Code of 1986 made by such taxpayer on the last day prescribed by law (without regard to extensions) for filing its return of tax under chapter 1 of such Code for such 1st taxable year.
+"(a) General Rule.—If a taxpayer who is a qualified farmer makes an election under this section for its 1st taxable year beginning after December 31, 1986, with respect to any portion of its existing carryforwards, the amount determined under subsection (b) shall be treated as a payment against the tax imposed by chapter 1 of the Internal Revenue Code of 1986 made by such taxpayer on the last day prescribed by law (without regard to extensions) for filing its return of tax under chapter 1 of such Code for such 1st taxable year.
 
-“(b) Amount.—For purposes of subsection (a), the amount determined under this subsection shall be equal to the smallest of—
+"(b) Amount.—For purposes of subsection (a), the amount determined under this subsection shall be equal to the smallest of—
 
-“(1) 50 percent of the portion of the taxpayer's existing carryforwards to which the election under subsection (a) applies,
+"(1) 50 percent of the portion of the taxpayer's existing carryforwards to which the election under subsection (a) applies,
 
-“(2) the taxpayer's net tax liability for the carryback period (within the meaning of section 212(d) of this Act \[set out as a note above\]), or
+"(2) the taxpayer's net tax liability for the carryback period (within the meaning of section 212(d) of this Act \[set out as a note above\]), or
 
-“(3) $750.
+"(3) $750.
 
-“(c) Taxpayer Making Election May Not Use Same Amounts Under Section 38.—In the case of a qualified farmer who makes an election under subsection (a), the portion of such farmer's existing carryforwards to which such an election applies shall not be taken into account under section 38 of the Internal Revenue Code of 1986 for any taxable year beginning after December 31, 1986.
+"(c) Taxpayer Making Election May Not Use Same Amounts Under Section 38.—In the case of a qualified farmer who makes an election under subsection (a), the portion of such farmer's existing carryforwards to which such an election applies shall not be taken into account under section 38 of the Internal Revenue Code of 1986 for any taxable year beginning after December 31, 1986.
 
-“(d) No Recomputation of Minimum Tax, Etc.—Nothing in this section shall be construed to affect—
+"(d) No Recomputation of Minimum Tax, Etc.—Nothing in this section shall be construed to affect—
 
-“(1) the amount of the tax imposed by section 56 of the Internal Revenue Code of 1954 \[now 1986\], or
+"(1) the amount of the tax imposed by section 56 of the Internal Revenue Code of 1954 \[now 1986\], or
 
-“(2) the amount of any credit allowable under such Code,
+"(2) the amount of any credit allowable under such Code,
 
 for any taxable year in the carryback period (within the meaning of section 212(d)(3) of this Act \[set out as a note above\]).
 
-“(e) Definitions and Special Rules.—For purposes of this section—
+"(e) Definitions and Special Rules.—For purposes of this section—
 
-“(1) Qualified farmer.—The term ‘qualified farmer’ means any taxpayer who, during the 3-taxable year period preceding the taxable year for which an election is made under subsection (a), derived 50 percent or more of the taxpayer's gross income from the trade or business of farming.
+"(1) Qualified farmer.—The term 'qualified farmer' means any taxpayer who, during the 3-taxable year period preceding the taxable year for which an election is made under subsection (a), derived 50 percent or more of the taxpayer's gross income from the trade or business of farming.
 
-“(2) Existing carryforward.—The term ‘existing carryforward’ means the aggregate of the amounts which—
+"(2) Existing carryforward.—The term 'existing carryforward' means the aggregate of the amounts which—
 
-“(A) are unused business credit carryforwards to the taxpayer's 1st taxable year beginning after December 31, 1986 (determined without regard to the limitations of section 38(c) of the Internal Revenue Code of 1986), and
+"(A) are unused business credit carryforwards to the taxpayer's 1st taxable year beginning after December 31, 1986 (determined without regard to the limitations of section 38(c) of the Internal Revenue Code of 1986), and
 
-“(B) are attributable to the amount of the investment credit determined for periods before January 1, 1986, under section 46(a) of such Code (or any corresponding provision of prior law) with respect to section 38 property which was used by the taxpayer in the trade or business of farming, determined on the basis that such credit was used first.
+"(B) are attributable to the amount of the investment credit determined for periods before January 1, 1986, under section 46(a) of such Code (or any corresponding provision of prior law) with respect to section 38 property which was used by the taxpayer in the trade or business of farming, determined on the basis that such credit was used first.
 
-“(3) Farming.—The term ‘farming’ has the meaning given such term by section 2032A(e)(4) and (5) of such Code.”
+"(3) Farming.—The term 'farming' has the meaning given such term by section 2032A(e)(4) and (5) of such Code."
 
 #### Treatment of Investment Tax Credits With Respect to Certain Public Utilities
 
@@ -854,43 +854,43 @@ For provisions directing that if any amendments made by subtitle A or subtitle C
 
 Pub. L. 99–514, title XI, §1177, Oct. 22, 1986, 100 Stat. 2520, as amended by Pub. L. 100–647, title I, §1011B(l)(1), (2), Nov. 10, 1988, 102 Stat. 3493, provided that:
 
-“(a) Section 1171.—The amendments made by section 1171 \[amending this section and sections 56, 108, 401, and 404 of this title and repealing sections 41 and 6699 of this title\] shall not apply in the case of a tax credit employee stock ownership plan if—
+"(a) Section 1171.—The amendments made by section 1171 \[amending this section and sections 56, 108, 401, and 404 of this title and repealing sections 41 and 6699 of this title\] shall not apply in the case of a tax credit employee stock ownership plan if—
 
-“(1) such plan was favorably approved on September 23, 1983, by employees, and
+"(1) such plan was favorably approved on September 23, 1983, by employees, and
 
-“(2) not later than January 11, 1984, the employer of such employees was 100 percent owned by such plan.
+"(2) not later than January 11, 1984, the employer of such employees was 100 percent owned by such plan.
 
-“(b) Subtitle Not To Apply to Certain Newspaper.—The amendments made by section 1175 \[amending section 401 of this title\] shall not apply to any daily newspaper—
+"(b) Subtitle Not To Apply to Certain Newspaper.—The amendments made by section 1175 \[amending section 401 of this title\] shall not apply to any daily newspaper—
 
-“(1) which was first published on December 17, 1855, and which began publication under its current name in 1954, and
+"(1) which was first published on December 17, 1855, and which began publication under its current name in 1954, and
 
-“(2) which is published in a constitutional home rule city (within the meaning of section 146(d)(3)(C) of the Internal Revenue Code of 1986) which has a population of less than 2,500,000.”
+"(2) which is published in a constitutional home rule city (within the meaning of section 146(d)(3)(C) of the Internal Revenue Code of 1986) which has a population of less than 2,500,000."
 
-Pub. L. 100–647, title I, §1011B(l)(3), Nov. 10, 1988, 102 Stat. 3493, provided that: “If any newspaper corporation described in section 1177(b) of the Reform Act \[section 1177(b) of Pub. L. 99–514, set out above\], as amended by this subsection, pays in cash a dividend within 60 days after the date of the enactment of this Act \[Nov. 10, 1988\] to the corporation's employee stock ownership plans and if a corporate resolution declaring such dividend was adopted before November 30, 1987, and such resolution specifies that such dividend shall be contingent upon passage by the Congress of technical corrections, then such dividend (to the extent the aggregate amount so paid does not exceed $3,500,000) shall be treated as if it had been declared and paid in 1987 for all purposes of the Internal Revenue Code of 1986.”
+Pub. L. 100–647, title I, §1011B(l)(3), Nov. 10, 1988, 102 Stat. 3493, provided that: "If any newspaper corporation described in section 1177(b) of the Reform Act \[section 1177(b) of Pub. L. 99–514, set out above\], as amended by this subsection, pays in cash a dividend within 60 days after the date of the enactment of this Act \[Nov. 10, 1988\] to the corporation's employee stock ownership plans and if a corporate resolution declaring such dividend was adopted before November 30, 1987, and such resolution specifies that such dividend shall be contingent upon passage by the Congress of technical corrections, then such dividend (to the extent the aggregate amount so paid does not exceed $3,500,000) shall be treated as if it had been declared and paid in 1987 for all purposes of the Internal Revenue Code of 1986."
 
 #### Accounting for Investment Credit in Certain Financial Reports and Reports to Federal Agencies
 
 Pub. L. 92–178, title I, §101(c), Dec. 10, 1971, 85 Stat. 499, as amended by Pub. L. 98–369, div. A, title IV, §450(a), July 18, 1984, 98 Stat. 818; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
-“(1) In general.—It was the intent of Congress in enacting, in the Revenue Act of 1962 \[see Short Title of 1962 Amendment note set out under section 1 of this title\], the investment credit allowed by section 38 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\], and it is the intent of the Congress in restoring that credit in this Act \[section 50 of this title\], to provide an incentive for modernization and growth of private industry. Accordingly, notwithstanding any other provision of law, on and after the date of the enactment of this Act \[Dec. 10, 1971\]—
+"(1) In general.—It was the intent of Congress in enacting, in the Revenue Act of 1962 \[see Short Title of 1962 Amendment note set out under section 1 of this title\], the investment credit allowed by section 38 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\], and it is the intent of the Congress in restoring that credit in this Act \[section 50 of this title\], to provide an incentive for modernization and growth of private industry. Accordingly, notwithstanding any other provision of law, on and after the date of the enactment of this Act \[Dec. 10, 1971\]—
 
-“(A) no taxpayer shall be required to use, for purposes of financial reports subject to the jurisdiction of any Federal agency or reports made to any Federal agency, any particular method of accounting for the credit allowed by such section 38 \[this section\], and
+"(A) no taxpayer shall be required to use, for purposes of financial reports subject to the jurisdiction of any Federal agency or reports made to any Federal agency, any particular method of accounting for the credit allowed by such section 38 \[this section\], and
 
-“(B) a taxpayer shall disclose, in any such report, the method of accounting for such credit used by him for purposes of such report.
+"(B) a taxpayer shall disclose, in any such report, the method of accounting for such credit used by him for purposes of such report.
 
-“(2) Exceptions.—Paragraph (1) shall not apply to taxpayers who are subject to the provisions of section 46(e) of the Internal Revenue Code of 1986 (as added by section 105(c) of this Act) or to section 203(e) of the Revenue Act of 1964 (as modified by section 105(e) of this Act) \[set out as note below\].”
+"(2) Exceptions.—Paragraph (1) shall not apply to taxpayers who are subject to the provisions of section 46(e) of the Internal Revenue Code of 1986 (as added by section 105(c) of this Act) or to section 203(e) of the Revenue Act of 1964 (as modified by section 105(e) of this Act) \[set out as note below\]."
 
-\[Pub. L. 98–369, div. A, title IV, §450(b), July 18, 1984, 98 Stat. 818, provided that: “The amendments made by this section \[amending this note\] shall take effect as if included in the Revenue Act of 1971.”\]
+\[Pub. L. 98–369, div. A, title IV, §450(b), July 18, 1984, 98 Stat. 818, provided that: "The amendments made by this section \[amending this note\] shall take effect as if included in the Revenue Act of 1971."\]
 
 #### Treatment of Investment Credit by Federal Regulatory Agencies
 
-Pub. L. 88–272, title II, §203(e), Feb. 26, 1964, 78 Stat. 35, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “It was the intent of the Congress in providing an investment credit under section 38 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] and it is the intent of the Congress in repealing the reduction in basis required by section 48(g) of such Code to provide an incentive for modernization and growth of private industry (including that portion thereof which is regulated). Accordingly, Congress does not intend that any agency or instrumentality of the United States having jurisdiction with respect to a taxpayer shall, without the consent of the taxpayer, use—
+Pub. L. 88–272, title II, §203(e), Feb. 26, 1964, 78 Stat. 35, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: "It was the intent of the Congress in providing an investment credit under section 38 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] and it is the intent of the Congress in repealing the reduction in basis required by section 48(g) of such Code to provide an incentive for modernization and growth of private industry (including that portion thereof which is regulated). Accordingly, Congress does not intend that any agency or instrumentality of the United States having jurisdiction with respect to a taxpayer shall, without the consent of the taxpayer, use—
 
-“(1) in the case of public utility property (as defined in section 46(c)(3)(B) of the Internal Revenue Code of 1986, more than a proportionate part (determined with reference to the average useful life of the property with respect to which the credit was allowed) of the credit against tax allowed for any taxable year by section 38 of such Code, or
+"(1) in the case of public utility property (as defined in section 46(c)(3)(B) of the Internal Revenue Code of 1986, more than a proportionate part (determined with reference to the average useful life of the property with respect to which the credit was allowed) of the credit against tax allowed for any taxable year by section 38 of such Code, or
 
-“(2) in the case of any other property, any credit against tax allowed by section 38 of such Code,
+"(2) in the case of any other property, any credit against tax allowed by section 38 of such Code,
 
-to reduce such taxpayer's Federal income taxes for the purpose of establishing the cost of service of the taxpayer or to accomplish a similar result by any other method.”
+to reduce such taxpayer's Federal income taxes for the purpose of establishing the cost of service of the taxpayer or to accomplish a similar result by any other method."
 
 Section 203(e) of Pub. L. 88–272, not applicable to public utility property to which section 46(e) of this title applies, see section 105(e) of Pub. L. 92–178, set out as a note under section 46 of this title.
 

@@ -20,4 +20,4 @@ Act Aug. 23, 1935, §310(a), among other changes in last par., inserted proviso.
 
 **1933**—Act June 16, 1933, added last par.
 
-**1927**—Act Feb. 25, 1927, inserted “or into shares of such less amount as may be provided in the articles of association” in first sentence.
+**1927**—Act Feb. 25, 1927, inserted "or into shares of such less amount as may be provided in the articles of association" in first sentence.

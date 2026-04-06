@@ -4,7 +4,7 @@ The Secretary shall issue regulations to carry out the provisions of sections 52
 
 (1) criteria which shall be used in making the determination as to what constitutes the public interest;
 
-(2) the definition of and the procedure for determining “approximately equal value”; and
+(2) the definition of and the procedure for determining "approximately equal value"; and
 
 (3) factors relating to location or size which shall be considered in connection with determining the lands to be sold, exchanged, or interchanged under clause (1) of section 521e of this title.
 

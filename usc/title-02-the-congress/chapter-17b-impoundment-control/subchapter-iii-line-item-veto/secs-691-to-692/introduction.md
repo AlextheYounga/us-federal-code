@@ -26,10 +26,10 @@ For information regarding constitutionality of part C of title X of Pub. L. 93�
 
 #### Effective and Termination Dates
 
-Pub. L. 104–130, §5, Apr. 9, 1996, 110 Stat. 1212, provided that: “This Act \[enacting this subchapter and provisions set out as a note under section 681 of this title and amending provisions set out as notes under section 621 of this title\] and the amendments made by it shall take effect and apply to measures enacted on the earlier of—
+Pub. L. 104–130, §5, Apr. 9, 1996, 110 Stat. 1212, provided that: "This Act \[enacting this subchapter and provisions set out as a note under section 681 of this title and amending provisions set out as notes under section 621 of this title\] and the amendments made by it shall take effect and apply to measures enacted on the earlier of—
 
-“(1) the day after the enactment into law, pursuant to Article I, section 7, of the Constitution of the United States, of an Act entitled ‘An Act to provide for a seven-year plan for deficit reduction and achieve a balanced Federal budget.’; or
+"(1) the day after the enactment into law, pursuant to Article I, section 7, of the Constitution of the United States, of an Act entitled 'An Act to provide for a seven-year plan for deficit reduction and achieve a balanced Federal budget.'; or
 
-“(2) January 1, 1997;
+"(2) January 1, 1997;
 
-and shall have no force or effect on or after January 1, 2005.”
+and shall have no force or effect on or after January 1, 2005."

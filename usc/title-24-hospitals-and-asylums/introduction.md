@@ -4,7 +4,7 @@ Chap. Sec.
 
 1\. Navy Hospitals, Army and Navy Hospital, and Hospital Relief for Seamen and Others 1
 
-2\. Soldiers’ and Airmen's Home \[Repealed\] 41
+2\. Soldiers' and Airmen's Home \[Repealed\] 41
 
 3\. National Home for Disabled Volunteer Soldiers 71
 

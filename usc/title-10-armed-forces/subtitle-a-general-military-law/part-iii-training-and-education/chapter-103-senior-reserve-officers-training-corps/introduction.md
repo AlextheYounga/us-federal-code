@@ -1,4 +1,4 @@
-### **CHAPTER 103—SENIOR RESERVE OFFICERS’ TRAINING CORPS**
+### **CHAPTER 103—SENIOR RESERVE OFFICERS' TRAINING CORPS**
 
 Sec.
 
@@ -40,13 +40,13 @@ Sec.
 
 **1999**—Pub. L. 106–65, div. A, title V, §541(a)(2), Oct. 5, 1999, 113 Stat. 606, added item 2111b.
 
-**1997**—Pub. L. 105–85, div. A, title V, §544(f)(2), Nov. 18, 1997, 111 Stat. 1746, substituted “Support for” for “Detail of officers to” in item 2111a.
+**1997**—Pub. L. 105–85, div. A, title V, §544(f)(2), Nov. 18, 1997, 111 Stat. 1746, substituted "Support for" for "Detail of officers to" in item 2111a.
 
 **1996**—Pub. L. 104–106, div. A, title V, §545(b), Feb. 10, 1996, 110 Stat. 318, added item 2111a.
 
-**1991**—Pub. L. 102–190, div. A, title V, §522(b)(2), Dec. 5, 1991, 105 Stat. 1362, substituted “Army Reserve and Army National Guard” for “military junior colleges” in item 2107a.
+**1991**—Pub. L. 102–190, div. A, title V, §522(b)(2), Dec. 5, 1991, 105 Stat. 1362, substituted "Army Reserve and Army National Guard" for "military junior colleges" in item 2107a.
 
-**1988**—Pub. L. 100–456, div. A, title VI, §633(a)(3)(B), Sept. 29, 1988, 102 Stat. 1986, substituted “Practical military training” for “Field training; practice cruises” in item 2109.
+**1988**—Pub. L. 100–456, div. A, title VI, §633(a)(3)(B), Sept. 29, 1988, 102 Stat. 1986, substituted "Practical military training" for "Field training; practice cruises" in item 2109.
 
 **1980**—Pub. L. 96–357, §1(c)(2), Sept. 24, 1980, 94 Stat. 1180, added item 2107a.
 

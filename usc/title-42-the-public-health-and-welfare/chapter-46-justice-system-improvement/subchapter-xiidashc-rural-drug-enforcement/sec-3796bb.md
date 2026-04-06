@@ -12,7 +12,7 @@
 
   
 
-(b) For the purpose of this section, the term “rural State” means a State that has a population density of fifty-two or fewer persons per square mile or a State in which the largest county has fewer than one hundred and fifty thousand people, based on the decennial census of 1990 through fiscal year 1997.
+(b) For the purpose of this section, the term "rural State" means a State that has a population density of fifty-two or fewer persons per square mile or a State in which the largest county has fewer than one hundred and fifty thousand people, based on the decennial census of 1990 through fiscal year 1997.
 
 (Pub. L. 90–351, title I, §1501, as added Pub. L. 101–647, title VIII, §801(a)(3), Nov. 29, 1990, 104 Stat. 4825; amended Pub. L. 103–322, title XVIII, §180101(b), (c), Sept. 13, 1994, 108 Stat. 2045.)
 
@@ -24,6 +24,6 @@ Another prior section 1501 of Pub. L. 90–351, title X, June 19, 1968, 82 Stat.
 
 #### Amendments
 
-**1994**—Subsec. (a)(2)(A). Pub. L. 103–322, §180101(b), substituted “$250,000” for “$100,000”.
+**1994**—Subsec. (a)(2)(A). Pub. L. 103–322, §180101(b), substituted "$250,000" for "$100,000".
 
-Subsec. (b). Pub. L. 103–322, §180101(c), inserted before period at end “, based on the decennial census of 1990 through fiscal year 1997”.
+Subsec. (b). Pub. L. 103–322, §180101(c), inserted before period at end ", based on the decennial census of 1990 through fiscal year 1997".

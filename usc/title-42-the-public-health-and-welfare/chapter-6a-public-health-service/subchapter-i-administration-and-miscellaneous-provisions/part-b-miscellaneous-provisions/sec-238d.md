@@ -16,9 +16,9 @@ Section was formerly classified to section 300aaa–4 of this title prior to ren
 
 **1981**—Pub. L. 97–35 struck out provisions relating to appropriations available under Community Mental Health Centers Act for construction, etc.
 
-**1980**—Pub. L. 96–398 struck out “and” after “drug dependence,” and inserted reference to title VI of the Mental Health Systems Act.
+**1980**—Pub. L. 96–398 struck out "and" after "drug dependence," and inserted reference to title VI of the Mental Health Systems Act.
 
-**1976**—Pub. L. 94–278 substituted “Federal institutions, except that grants to” for “hospitals of the Service, of the Veterans’ Administration, or of the Bureau of Prisons of the Department of Justice, and to Saint Elizabeths Hospital, except grants to such”.
+**1976**—Pub. L. 94–278 substituted "Federal institutions, except that grants to" for "hospitals of the Service, of the Veterans' Administration, or of the Bureau of Prisons of the Department of Justice, and to Saint Elizabeths Hospital, except grants to such".
 
 **1970**—Pub. L. 91–513 inserted references to appropriations available for grants to expand existing treatment and research programs and facilities for alcoholism, narcotic addiction, drug abuse, and drug dependence, and appropriations available under Community Mental Health Centers Act for construction and staffing of community mental health centers and alcoholism and narcotic addiction, drug abuse, and drug dependence facilities, and inserted provision that grants to specified Federal institutions may be funded at 100 per centum of the costs.
 

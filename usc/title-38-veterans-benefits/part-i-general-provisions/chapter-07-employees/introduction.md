@@ -20,6 +20,6 @@ Sec.
 
 #### Amendments
 
-**2001**—Pub. L. 107–103, title V, §509(a)(2), Dec. 27, 2001, 115 Stat. 997, struck out item 712 “Full-time equivalent positions: limitation on reduction”.
+**2001**—Pub. L. 107–103, title V, §509(a)(2), Dec. 27, 2001, 115 Stat. 997, struck out item 712 "Full-time equivalent positions: limitation on reduction".
 
 **1994**—Pub. L. 103–446, title XI, §1102(b), Nov. 2, 1994, 108 Stat. 4681, added item 712.

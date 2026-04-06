@@ -4,7 +4,7 @@
 
 Sections 714 to 716 were omitted in the general revision of this subchapter by Pub. L. 97–35, title XXI, §2192(a), Aug. 13, 1981, 95 Stat. 818. For effective date, savings, and transitional provisions, see section 2194 of Pub. L. 97–35, set out as a note under section 701 of this title.
 
-Section 714, act Aug. 14, 1935, ch. 531, title V, §514, as added Jan. 2, 1968, Pub. L. 90–248, title III, §301, 81 Stat. 928, defined “crippled child”.
+Section 714, act Aug. 14, 1935, ch. 531, title V, §514, as added Jan. 2, 1968, Pub. L. 90–248, title III, §301, 81 Stat. 928, defined "crippled child".
 
 Another prior section 714, acts Aug. 14, 1935, ch. 531, title V, §514, 49 Stat. 632; Aug. 10, 1939, ch. 666, title V, §507(a), (b), 53 Stat. 1381; 1940 Reorg. Plan No. III, §1(a)(1), eff. June 30, 1940, 5 F.R. 2107, 54 Stat. 1231; 1946 Reorg. Plan No. 2, §1, eff. July 16, 1946, 11 F.R. 7873, 60 Stat. 1095; Aug. 28, 1950, ch. 809, title III, pt. 6, §361(e), 64 Stat. 558; Sept. 13, 1960, Pub. L. 86–778, title VII, §707(b)(2)(B), 74 Stat. 996; July 30, 1965, Pub. L. 89–97, title II, §§202(b), 203(b), 79 Stat. 353, 354, provided for payment to States with an approved plan for services for crippled children, computation of amounts, and prescribed general availability of services by July 1, 1975, as requisite for payments for any period after June 30, 1966 prior to the general amendment of title V of the Social Security Act by Pub. L. 90–248, §301, and was covered by former section 706 of this title.
 

@@ -16,7 +16,7 @@
 
 Source: Section (U.S. Code) 46 App. U.S.C. 86d, 88b.
 
-Section 5107(a) requires the Secretary to delegate the performance of various load line functions to the American Bureau of Shipping or other similarly qualified organizations. In providing for the delegation to a “similarly qualified organization,” the Committee expects that the Secretary will ensure that that organization complies with the same stringent standards and requirements for conducting business that apply to the American Bureau of Shipping.
+Section 5107(a) requires the Secretary to delegate the performance of various load line functions to the American Bureau of Shipping or other similarly qualified organizations. In providing for the delegation to a "similarly qualified organization," the Committee expects that the Secretary will ensure that that organization complies with the same stringent standards and requirements for conducting business that apply to the American Bureau of Shipping.
 
 Section 5107(b) permits an appeal to the Secretary of a decision by an organization that has received delegated authority. This ensures that the Secretary has full oversight of the delegated load line functions.
 

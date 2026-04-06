@@ -18,8 +18,8 @@ Cargo ships of three hundred gross tons and upward but less than one thousand si
 
 Subsec. (a). Pub. L. 89–121 required the radiotelephone station to be so located that it is sheltered to the greatest possible extent from noise which might impair the correct reception of messages and signals.
 
-Subsec. (b). Pub. L. 89–121 substituted “on the frequencies, and using the classes of emission, designated” for “on the frequencies and with types of emissions designated”.
+Subsec. (b). Pub. L. 89–121 substituted "on the frequencies, and using the classes of emission, designated" for "on the frequencies and with types of emissions designated".
 
-Subsec. (c). Pub. L. 89–121 substituted “radiotelephone installation” for “transmitter” and inserted provisions requiring the installation to be capable of receiving clearly perceptible signals over the minimum normal range.
+Subsec. (c). Pub. L. 89–121 substituted "radiotelephone installation" for "transmitter" and inserted provisions requiring the installation to be capable of receiving clearly perceptible signals over the minimum normal range.
 
-Subsec. (d). Pub. L. 89–121 substituted “a main source of electrical energy” for “a source of energy”, “at least six continuous hours” for “at least six hours continuously”, and “installations made on or after November 19, 1952, a reserve source of electrical energy” for “in installations an emergency source of energy”.
+Subsec. (d). Pub. L. 89–121 substituted "a main source of electrical energy" for "a source of energy", "at least six continuous hours" for "at least six hours continuously", and "installations made on or after November 19, 1952, a reserve source of electrical energy" for "in installations an emergency source of energy".

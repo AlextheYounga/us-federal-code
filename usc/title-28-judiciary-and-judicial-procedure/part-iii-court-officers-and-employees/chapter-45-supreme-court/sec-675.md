@@ -10,9 +10,9 @@ Based on title 28, U.S.C., 1926 ed., §328 (June 1, 1922, ch. 204, title II, 42 
 
 Section is derived from Appropriation Acts for fiscal years cited in the credits. It was omitted from the 1934 and 1940 editions of the U.S. Code because it was considered to be probably of a temporary nature. This section is consistent with other provisions authorizing the appointment of similar personnel for circuit and district judges.
 
-The 1942 appropriation act (July 2, 1942, ch. 472, title IV, 56 Stat. 501) made provision for “all other officers and employees, whose compensation shall be fixed by the Court, except as otherwise provided by law and who may be assigned by the Chief Justice to any office or work of the Court.”
+The 1942 appropriation act (July 2, 1942, ch. 472, title IV, 56 Stat. 501) made provision for "all other officers and employees, whose compensation shall be fixed by the Court, except as otherwise provided by law and who may be assigned by the Chief Justice to any office or work of the Court."
 
-The salary limitation of $3,600 was omitted and the Court authorized to fix law clerks’ salaries. Current appropriation acts provide that salaries of the Court's officers and employees, except the clerk and reporter, shall be fixed by the Court.
+The salary limitation of $3,600 was omitted and the Court authorized to fix law clerks' salaries. Current appropriation acts provide that salaries of the Court's officers and employees, except the clerk and reporter, shall be fixed by the Court.
 
 See section 711 et seq. and section 751 et seq., of this title, relating to appointment of law clerks and secretaries to circuit and district judges.
 

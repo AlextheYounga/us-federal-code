@@ -12,4 +12,4 @@ Certain lands excluded from Kings Canyon National Park and added to Sequoia Nati
 
 Certain lands excluded from Sequoia National Forest and added to Kings Canyon National Park, see section 80a–2 of this title.
 
-[1 So in original. Probably should be “Fork”.](#45a_1)
+[1 So in original. Probably should be "Fork".](#45a_1)

@@ -4,7 +4,7 @@ Section 1761, added Pub. L. 96–22, title I, §105(a), June 13, 1979, 93 Stat. 
 
 Prior section 1761 was renumbered section 3561 of this title.
 
-Section 1762, added Pub. L. 96–22, title I, §105(a), June 13, 1979, 93 Stat. 52, §662; renumbered §1762 and amended Pub. L. 102–83, §§4(b)(1), (2)(E), 5(a), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 102–585, title V, §513(a), Nov. 4, 1992, 106 Stat. 4958, defined the term “preventive health-care services” for purposes of this subchapter. Section 1762 of this title was transferred to section 1701(9) of this title by Pub. L. 102–585.
+Section 1762, added Pub. L. 96–22, title I, §105(a), June 13, 1979, 93 Stat. 52, §662; renumbered §1762 and amended Pub. L. 102–83, §§4(b)(1), (2)(E), 5(a), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 102–585, title V, §513(a), Nov. 4, 1992, 106 Stat. 4958, defined the term "preventive health-care services" for purposes of this subchapter. Section 1762 of this title was transferred to section 1701(9) of this title by Pub. L. 102–585.
 
 Prior section 1762 was renumbered section 3562 of this title.
 

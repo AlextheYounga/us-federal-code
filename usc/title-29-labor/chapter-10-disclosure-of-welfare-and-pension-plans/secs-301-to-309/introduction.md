@@ -6,7 +6,7 @@ Section 302, Pub. L. 85–836, §3, Aug. 28, 1958, 72 Stat. 997; Pub. L. 86–62
 
 Section 303, Pub. L. 85–836, §4, Aug. 28, 1958, 72 Stat. 998; Pub. L. 87–420, §6, Mar. 20, 1962, 76 Stat. 35, related to plans covered within chapter. See section 1003 of this title.
 
-Section 304, Pub. L. 85–836, §5, Aug. 28, 1958, 72 Stat. 998; Pub. L. 87–420, §7, Mar. 20, 1962, 76 Stat. 36, related to duties of administrator and definition of “administrator”. See sections 1002(16)(A) and 1021 of this title.
+Section 304, Pub. L. 85–836, §5, Aug. 28, 1958, 72 Stat. 998; Pub. L. 87–420, §7, Mar. 20, 1962, 76 Stat. 36, related to duties of administrator and definition of "administrator". See sections 1002(16)(A) and 1021 of this title.
 
 Section 305, Pub. L. 85–836, §6, Aug. 28, 1958, 72 Stat. 999; Pub. L. 87–420, §8, Mar. 20, 1962, 76 Stat. 36, related to time for publication and contents of plan. See section 1022 of this title.
 

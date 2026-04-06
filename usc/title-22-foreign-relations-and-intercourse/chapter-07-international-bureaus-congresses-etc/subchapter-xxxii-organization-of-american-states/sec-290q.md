@@ -54,36 +54,36 @@ Section 4(8), referred to in subsec. (a)(1)(A), is section 4(8) of Pub. L. 113�
 
 #### Short Title
 
-Pub. L. 113–41, §1, Oct. 2, 2013, 127 Stat. 548, provided that: “This Act \[enacting this section and provisions set out as notes under this section\] may be cited as the ‘Organization of American States Revitalization and Reform Act of 2013’.”
+Pub. L. 113–41, §1, Oct. 2, 2013, 127 Stat. 548, provided that: "This Act \[enacting this section and provisions set out as notes under this section\] may be cited as the 'Organization of American States Revitalization and Reform Act of 2013'."
 
 #### Findings
 
-Pub. L. 113–41, §2, Oct. 2, 2013, 127 Stat. 548, provided that: “Congress makes the following findings:
+Pub. L. 113–41, §2, Oct. 2, 2013, 127 Stat. 548, provided that: "Congress makes the following findings:
 
-“(1) The Charter of the Organization of American States recognizes that—
+"(1) The Charter of the Organization of American States recognizes that—
 
-“(A) representative democracy is indispensable for the stability, peace, and development of the Western Hemisphere; and
+"(A) representative democracy is indispensable for the stability, peace, and development of the Western Hemisphere; and
 
-“(B) a purpose of the Organization of American States is to promote and consolidate representative democracy, with due respect for the principle of nonintervention.
+"(B) a purpose of the Organization of American States is to promote and consolidate representative democracy, with due respect for the principle of nonintervention.
 
-“(2) The United States supports the purposes and principles enshrined in—
+"(2) The United States supports the purposes and principles enshrined in—
 
-“(A) the Charter of the Organization of American States;
+"(A) the Charter of the Organization of American States;
 
-“(B) the Inter-American Democratic Charter; and
+"(B) the Inter-American Democratic Charter; and
 
-“(C) the American Declaration on the Rights and Duties of Man.
+"(C) the American Declaration on the Rights and Duties of Man.
 
-“(3) The United States supports the Organization of American States in its efforts with all member states to meet our commitments under the instruments set forth in paragraph (2).
+"(3) The United States supports the Organization of American States in its efforts with all member states to meet our commitments under the instruments set forth in paragraph (2).
 
-“(4) Congress supports the Organization of American States as it operates in a manner consistent with the Inter-American Democratic Charter.”
+"(4) Congress supports the Organization of American States as it operates in a manner consistent with the Inter-American Democratic Charter."
 
 #### Statement of Policy
 
-Pub. L. 113–41, §3, Oct. 2, 2013, 127 Stat. 548, provided that: “It is the policy of the United States—
+Pub. L. 113–41, §3, Oct. 2, 2013, 127 Stat. 548, provided that: "It is the policy of the United States—
 
-“(1) to promote democracy and the rule of law throughout the Western Hemisphere;
+"(1) to promote democracy and the rule of law throughout the Western Hemisphere;
 
-“(2) to promote and protect human rights and fundamental freedoms in the Western Hemisphere; and
+"(2) to promote and protect human rights and fundamental freedoms in the Western Hemisphere; and
 
-“(3) to support the practices, purposes, and principles expressed in the Charter of the Organization of American States, the American Declaration on the Rights and Duties of Man, the Inter-American Democratic Charter, and other fundamental instruments of democracy.”
+"(3) to support the practices, purposes, and principles expressed in the Charter of the Organization of American States, the American Declaration on the Rights and Duties of Man, the Inter-American Democratic Charter, and other fundamental instruments of democracy."

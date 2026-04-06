@@ -22,7 +22,7 @@ Sec.
 
 715i. Restraining violations.
 
-715j. “President” as including agencies, officers and employees.
+715j. "President" as including agencies, officers and employees.
 
 715k. Saving clause.
 

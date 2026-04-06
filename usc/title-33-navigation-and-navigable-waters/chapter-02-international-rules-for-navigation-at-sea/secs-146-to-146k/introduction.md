@@ -16,7 +16,7 @@ Section 146f, act Oct. 11, 1951, ch. 495, §6, Pt. C, 65 Stat. 418, related to c
 
 Section 146g, act Oct. 11, 1951, ch. 495, §6, Pt. C, 65 Stat. 418, related to duty of power-driven vessel to slacken speed.
 
-Section 146h, act Oct. 11, 1951, ch. 495, §6, Pt. C, 65 Stat. 418, provided that overtaking vessel keep out of the way of the overtaken vessel, defined “overtaken vessel”.
+Section 146h, act Oct. 11, 1951, ch. 495, §6, Pt. C, 65 Stat. 418, provided that overtaking vessel keep out of the way of the overtaken vessel, defined "overtaken vessel".
 
 Section 146i, act Oct. 11, 1951, ch. 495, §6, Pt. C, 65 Stat. 419, related to power-driven vessels in narrow channels and in nearing bends in a channel.
 

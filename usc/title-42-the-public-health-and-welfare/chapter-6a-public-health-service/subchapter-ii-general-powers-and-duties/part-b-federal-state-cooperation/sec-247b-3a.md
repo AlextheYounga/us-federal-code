@@ -20,6 +20,6 @@ Section was enacted as part of the Children's Health Act of 2000, and not as par
 
 #### Amendments
 
-**2003**—Subsec. (a). Pub. L. 108–173 substituted “Centers for Medicare & Medicaid Services” for “Health Care Financing Administration”.
+**2003**—Subsec. (a). Pub. L. 108–173 substituted "Centers for Medicare & Medicaid Services" for "Health Care Financing Administration".
 
-[1 So in original. Probably should be followed by “of”.](#247b-3a_1)
+[1 So in original. Probably should be followed by "of".](#247b-3a_1)

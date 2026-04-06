@@ -20,4 +20,4 @@ R.S. §5580 derived from acts Aug. 10, 1846, ch. 178, §3, 9 Stat. 103; Jan. 10,
 
 **1970**—Pub. L. 91–551 authorized three additional persons on the Board of Regents.
 
-**1894**—Act Mar. 12, 1894, struck out “the governor of the District of Columbia” after “the Chief Justice of the United States,”.
+**1894**—Act Mar. 12, 1894, struck out "the governor of the District of Columbia" after "the Chief Justice of the United States,".
