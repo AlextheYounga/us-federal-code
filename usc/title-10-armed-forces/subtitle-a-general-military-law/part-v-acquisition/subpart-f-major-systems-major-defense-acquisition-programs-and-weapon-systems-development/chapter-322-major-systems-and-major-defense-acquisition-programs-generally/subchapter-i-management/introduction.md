@@ -56,4 +56,4 @@ Pub. L. 111–383, div. A, title VIII, §812, Jan. 7, 2011, 124 Stat. 4264, as a
 
 #### Congressional Notification of Cancellation of Major Automated Information Systems
 
-Pub. L. 109–163, div. A, title VIII, §806, Jan. 6, 2006, 119 Stat. 3373, which required notification to the Committees on Armed Services and Appropriations of the Senate and the House of Representatives prior to cancellation of a major automated information system program that had been fielded or approved to be fielded or making a change that would significantly reduce the scope of such a program, was repealed by Pub. L. 118–159, div. A, title XVII, §1701(g), Dec. 23, 2025, 138 Stat. 2207.
+Pub. L. 109–163, div. A, title VIII, §806, Jan. 6, 2006, 119 Stat. 3373, which required notification to the Committees on Armed Services and Appropriations of the Senate and the House of Representatives prior to cancellation of a major automated information system program that had been fielded or approved to be fielded or making a change that would significantly reduce the scope of such a program, was repealed by Pub. L. 118–159, div. A, title XVII, §1701(g), Dec. 23, 2024, 138 Stat. 2207.

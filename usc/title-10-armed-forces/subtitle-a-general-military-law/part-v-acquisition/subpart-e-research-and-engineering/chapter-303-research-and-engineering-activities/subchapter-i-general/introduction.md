@@ -42,7 +42,7 @@ Pub. L. 115–232, div. A, title II, §220, Aug. 13, 2018, 132 Stat. 1681, as am
 
 "(E) the date of the initial award to the participant from the Department of Defense; and
 
-"(F) the dates of any additional awards made to the participant by the Department of Defense, including the dates of any contracts or other agreements entered into between the participant the Department of Defense; and
+"(F) the dates of any additional awards made to the participant by the Department of Defense, including the dates of any contracts or other agreements entered into between the participant the Department of Defense \[sic\]; and
 
 "(3) incorporate the appropriate classification due to compilation of information.
 

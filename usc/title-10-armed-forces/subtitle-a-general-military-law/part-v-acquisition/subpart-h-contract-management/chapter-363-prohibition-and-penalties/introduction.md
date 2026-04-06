@@ -356,11 +356,11 @@ Pub. L. 118–31, div. A, title VIII, §804, Dec. 22, 2023, 137 Stat. 313, provi
 
 "(iii) actions taken to support the suspension or termination of business operations for commercial activities during the period beginning on the date of the enactment of this Act and ending on the date described in subsection (d), including—
 
-(I) any action to secure or divest from facilities, property, or equipment;
+"(I) any action to secure or divest from facilities, property, or equipment;
 
-(II) the provision of products or services provided to reduce or eliminate operations in territory internationally recognized as the Russian Federation or to comply with sanctions relating to the Russian Federation; and
+"(II) the provision of products or services provided to reduce or eliminate operations in territory internationally recognized as the Russian Federation or to comply with sanctions relating to the Russian Federation; and
 
-(III) activities that are incident to liquidating, dissolving, or winding down a subsidiary or legal entity in Russia.
+"(III) activities that are incident to liquidating, dissolving, or winding down a subsidiary or legal entity in Russia.
 
 "(3) Fossil fuel company.—The term 'fossil fuel company' means a person that—
 

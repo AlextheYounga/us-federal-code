@@ -92,15 +92,15 @@ Sec.
 
         
 
+#### Amendment of Analysis
+
+Pub. L. 118–159, div. B, title XXVIII, §2846(b), Dec. 23, 2024, 138 Stat. 2264, provided that, eff. Oct. 1, 2027, this analysis is amended by inserting "domestic" before "military airfields" in item 2697. See 2024 Amendment note below.
+
 #### Historical and Revision Notes
 
 #### 1962 Act
 
 This section makes necessary clerical amendments to chapter analysis.
-
-#### Amendment of Analysis
-
-Pub. L. 118–159, div. B, title XXVIII, §2846(b), Dec. 23, 2024, 138 Stat. 2264, provided that, eff. Oct. 1, 2027, this analysis is amended by inserting "domestic" before "military airfields" in item 2697. See 2024 Amendment note below.
 
   
 
@@ -110,7 +110,7 @@ Pub. L. 118–159, div. B, title XXVIII, §2846(b), Dec. 23, 2024, 138 Stat. 226
 
 **2024**—Pub. L. 118–159, div. B, title XXVIII, §2846(b)(1), Dec. 23, 2024, 138 Stat. 2264, inserted "domestic" before "military airfields" in item 2697. Amendment was made pursuant to operation of section 102 of this title.
 
-Pub. L. 118–159, div. B, title XXVIII, §§2841(a), 2846(a)(1), Dec. 23, 2024, 138 Stat. 2262, 2264, added item 2680 and struck out "domestic" before "military airfields" in item 2697. Amendment of item 2697 was made pursuant to operation of section 102 of this title.
+Pub. L. 118–159, div. B, title XXVIII, §§2841(a), 2846(a)(1), Dec. 23, 2024, 138 Stat. 2262, 2264, added item 2680 and struck out "domestic" before "military airfields" in item 2697. Amendments were made pursuant to operation of section 102 of this title.
 
 **2023**—Pub. L. 118–31, div. A, title III, §311(a), Dec. 22, 2023, 137 Stat. 213, added item 2693. Amendment was made pursuant to operation of section 102 of this title.
 

@@ -140,7 +140,7 @@ The Presidential Protection Assistance Act of 1976, referred to in subsec. (j)(3
 
 #### Amendments
 
-**2024**—Subsec. (j)(3)(C)(ix). Pub. L. 118–159, §2871(c)(1), which directed substitution of "section 4173" for "sections 4173(i)", was executed by making the substitution for "section 4173(i)", to reflect the probable intent of Congress and the intervening amendment by Pub. L. 118–159, §1701(a)(2). See below.
+**2024**—Subsec. (j)(3)(C)(ix). Pub. L. 118–159, §2871(c)(1), which directed substitution of "section 4173" for "sections 4173(i)", was executed by making the substitution for "section 4173(i)", to reflect the probable intent of Congress and the intervening amendment by Pub. L. 118–159, §1701(a)(2). See below and see section 1701(h) of Pub. L. 118–159, set out as a Coordination of Certain Sections of an Act With Other Provisions of That Act under section 101 of this title.
 
 Pub. L. 118–159, §1701(a)(2), substituted "section" for "sections".
 

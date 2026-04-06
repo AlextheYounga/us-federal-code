@@ -166,9 +166,7 @@ Pub. L. 102–25, title VII, §701(e)(1), Apr. 6, 1991, 105 Stat. 114, added ite
 
 #### Military Entrance Processing Command: Acceleration of Review of Medical Records
 
-Pub. L. 118–159, div. A, title V, §534(a), Dec. 23, 2024, 138 Stat. 1887, provided that:
-
-"(a) In General.—Not later than 120 days after the date of the enactment of this Act \[Dec. 23, 2024\], the Secretary of Defense shall implement a program to use health care providers, from any component of the Armed Forces under the jurisdiction of such Secretary, to support United States Military Entrance Processing Command (in this section, referred to as 'MEPCOM') and accelerate the review of medical records, as determined necessary by the Secretary."
+Pub. L. 118–159, div. A, title V, §534(a), Dec. 23, 2024, 138 Stat. 1887, provided that: "Not later than 120 days after the date of the enactment of this Act \[Dec. 23, 2024\], the Secretary of Defense shall implement a program to use health care providers, from any component of the Armed Forces under the jurisdiction of such Secretary, to support United States Military Entrance Processing Command (in this section, referred to as 'MEPCOM') and accelerate the review of medical records, as determined necessary by the Secretary."
 
 #### Reimbursement of Applicants to Certain Armed Forces for Certain Medical Costs Incurred During Military Entrance Processing
 
@@ -688,7 +686,7 @@ Pub. L. 116–92, div. A, title II, §230, Dec. 20, 2019, 133 Stat. 1273, as ame
 
 "(c) Responsibility.—
 
-"(1) Appointment of officer.—Not later than April 30, 2025, the Secretary of Defense shall appoint a civilian official responsible for the development and implementation of the policy and implementation plan set forth in subsections (a) and (b), respectively. The official shall be known as the "Chief Digital Engineering Recruitment and Management Officer of the Department of Defense".
+"(1) Appointment of officer.—Not later than April 30, 2025, the Secretary of Defense shall appoint a civilian official responsible for the development and implementation of the policy and implementation plan set forth in subsections (a) and (b), respectively. The official shall be known as the 'Chief Digital Engineering Recruitment and Management Officer of the Department of Defense'.
 
 "(2) Additional responsibilities.—In addition to the responsibilities specified in paragraph (1), the Officer appointed under such paragraph shall—
 

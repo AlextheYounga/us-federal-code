@@ -36,7 +36,7 @@ Pub. L. 118–31, div. A, title VIII, §826, Dec. 22, 2023, 137 Stat. 335, provi
 
 #### Modifications to Earned Value Management System Requirements
 
-Pub. L. 118–31, div. A, title VIII, §827, Dec. 22, 2023, 137 Stat. 335, provided that:
+Pub. L. 118–31, div. A, title VIII, §827, Dec. 22, 2023, 137 Stat. 335, as amended by Pub. L. 118–159, div. A, title VIII, §820, Dec. 23, 2024, 138 Stat. 1982, provided that:
 
 "(a) In General.—Not later than 180 days after the date of the enactment of the National Defense Authorization Act for Fiscal Year 2025 \[Dec. 23, 2024\], the Department of Defense Supplement to the Federal Acquisition Regulation shall be revised to—
 

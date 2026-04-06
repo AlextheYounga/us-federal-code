@@ -62,7 +62,7 @@
 
 #### Amendments
 
-**2024**—Subsec. (b)(2) to (6). Pub. L. 118–159, §566(a), added par. (2) and redesignated former pars. (2) to (5) as (3) to (6), respectively.
+**2024**—Subsec. (b)(2) to (6). Pub. L. 118–159 added par. (2) and redesignated former pars. (2) to (5) as (3) to (6), respectively.
 
 **2021**—Subsec. (b)(2)(D). Pub. L. 116–283 added subpar. (D).
 

@@ -638,7 +638,7 @@ Pub. L. 116–92, div. A, title II, §256(d), as added by Pub. L. 118–159, div
 
 "(B) make such courses available to members of the Armed Forces.
 
-"(2) Report.—Not later than 270 days after the date of the enactment of this subsection \[Dec. 23, 2024\], the Secretary of Defense shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report on the progress of the Chief Digital and Artificial Intelligence Officer in implementing paragraph (1).
+"(2) Report.—Not later than 270 days after the date of the enactment of this subsection \[Dec. 23, 2024\], the Secretary of Defense shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report on the progress of the Chief Digital and Artificial Intelligence Officer in implementing paragraph (1)."
 
 #### Collection of Blast Exposure Information
 
