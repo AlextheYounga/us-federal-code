@@ -8,7 +8,7 @@
 
 #### (b) Administration
 
-Upon enactment of this subchapter, the Secretary shall transfer the lands under the jurisdiction of the Bureau of Land Management which are identified on the map for inclusion in the park [1](#410fff-2_1_target) to the administrative jurisdiction of the National Park Service. The Secretary shall administer the park [1](#410fff-2_1_target) in accordance with this subchapter and laws generally applicable to units of the National Park System, including sections 1, 2, 3, 4, and 461 to 467 of this title.
+Upon enactment of this subchapter, the Secretary shall transfer the lands under the jurisdiction of the Bureau of Land Management which are identified on the map for inclusion in the park [1](#410fff-2_1_target) to the administrative jurisdiction of the National Park Service. The Secretary shall administer the park [1](#410fff-2_1_target) in accordance with this subchapter and laws generally applicable to units of the National Park System, including the Act entitled "An Act to establish a National Park Service, and for other purposes", approved August 25, 1916 (16 U.S.C. 1, 2–4),[2](#410fff-2_2_target) and the Act entitled "An Act to provide for the preservation of historic American sites, buildings, objects, and antiquities of national significance, and for other purposes,[3](#410fff-2_3_target) approved August 21, 1935 (16 U.S.C. 461 et seq.).[2](#410fff-2_2_target)
 
 #### (c) Maps and legal description
 
@@ -46,6 +46,10 @@ Subject to valid existing rights, all Federal lands within the park [1](#410fff
 
 Upon enactment of this subchapter, referred to in subsec. (b), was in the original "upon enactment of this title", which was translated as reading "upon enactment of this act", meaning upon enactment of Pub. L. 106–76, which was approved Oct. 21, 1999, to reflect the probable intent of Congress.
 
+The Act entitled "An Act to establish a National Park Service, and for other purposes", approved August 25, 1916 (16 U.S.C. 1, 2–4), referred to in subsec. (b), is act Aug. 25, 1916, ch. 408, 39 Stat. 535, known as the National Park Service Organic Act, which enacted sections 1, 2, 3, and 4 of this title, amended sections 22 and 43 of this title and section 1457 of Title 43, Public Lands, and enacted provisions set out as a note under section 1 of this title. Sections 1 to 4 of the Act were repealed and restated as section 1865(a) of Title 18, Crimes and Criminal Procedure, and section 100101(a), chapter 1003, and sections 100751(a), 100752, 100753, and 102101 of Title 54, National Park Service and Related Programs, by Pub. L. 113–287, §§3, 4(a)(1), 7, Dec. 19, 2014, 128 Stat. 3094, 3260, 3272. For complete classification of this Act to the Code, see Tables. For disposition of former sections of this title, see Disposition Table preceding section 100101 of Title 54.
+
+The Act entitled "An Act to provide for the preservation of historic American sites, buildings, objects, and antiquities of national significance, and for other purposes, approved August 21, 1935 (16 U.S.C. 461 et seq.), referred to in subsec. (b), is act Aug. 21, 1935, ch. 593, 49 Stat. 666, known as the Historic Sites Act of 1935 and also as the Historic Sites, Buildings, and Antiquities Act, which enacted sections 461 to 467 of this title. The Act was repealed and restated as section 1866(a) of Title 18, Crimes and Criminal Procedure, and sections 102303 and 102304 and chapter 3201 of Title 54, National Park Service and Related Programs, by Pub. L. 113–287, §§3, 4(a)(1), 7, Dec. 19, 2014, 128 Stat. 3094, 3260, 3272. For complete classification of this Act to the Code, see Tables. For disposition of former sections of this title, see Disposition Table preceding section 100101 of Title 54.
+
 The Wilderness Act, referred to in subsec. (e)(2), is Pub. L. 88–577, Sept. 3, 1964, 78 Stat. 890, which is classified generally to chapter 23 (§1131 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1131 of this title and Tables.
 
 #### Codification
@@ -73,3 +77,7 @@ Pub. L. 108–128, §2(b), Nov. 17, 2003, 117 Stat. 1355, provided that: "On the
 Pub. L. 108–128, §5, Nov. 17, 2003, 117 Stat. 1357, provided that: "The Commissioner of Reclamation shall retain administrative jurisdiction over the Crystal Dam Access Road and land, facilities, and roads of the Bureau of Reclamation in the East Portal area, including the Gunnison Tunnel, and the Crystal Dam area, as depicted on the map entitled 'Black Canyon of the Gunnison National Park and Gunnison Gorge NCA Boundary Modifications', and dated April 2, 2003, for the maintenance, repair, construction, replacement, and operation of any facilities relating to the delivery of water and power under the jurisdiction of the Bureau of Reclamation."
 
 [1 So in original. The word "park" probably should be capitalized.](#410fff-2_1)
+
+[2 See References in Text note below.](#410fff-2_2)
+
+[3 So in original. Probably should be followed by closing quotation marks.](#410fff-2_3)

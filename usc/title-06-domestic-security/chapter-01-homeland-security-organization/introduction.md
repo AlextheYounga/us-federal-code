@@ -510,6 +510,8 @@ Sec.
 
 471\. Annual ammunition report.
 
+472\. Annual weaponry report.
+
         
 
 #### Part I—Information Sharing

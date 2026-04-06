@@ -4,4 +4,4 @@ Section, acts Mar. 7, 1928, ch. 137, §1, 45 Stat. 238; Mar. 4, 1929, ch. 705, �
 
 #### Effective Date of Repeal
 
-Repeal effective Jan. 1, 1965, see section 1(a) of Pub. L. 88–578, set out as an Effective Date note under section 460l–4 of this title.
+Repeal effective Jan. 1, 1965, see section 1(a) of Pub. L. 88–578, set out in part as an Effective Date of 1964 Amendment note under section 460d of this title.
