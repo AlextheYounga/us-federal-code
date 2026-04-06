@@ -20,4 +20,8 @@ Sec.
 
 30109\. National strategy, classification, and reporting on cybercrime.
 
+30110\. Improved investigative and forensic resources for enforcement of laws related to cybercrimes against individuals.
+
+30111\. Training and technical assistance for States.
+
         
