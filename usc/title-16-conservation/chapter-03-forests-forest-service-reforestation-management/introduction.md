@@ -200,8 +200,6 @@ Sec.
 
 579c. Availability of funds received from forfeitures, judgments, compromises, or settlements.
 
-579c–1. Forest Service interest bearing account.
-
 579d. Indirect expenditures; future budget justifications.
 
 579e. Forest service budget restructure.

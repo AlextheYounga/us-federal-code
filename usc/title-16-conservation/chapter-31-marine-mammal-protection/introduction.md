@@ -62,8 +62,6 @@ Sec.
 
 1392\. Monitoring ocean soundscapes.
 
-1393\. Conservation and mitigation assistance.
-
         
 
 #### SUBCHAPTER III—MARINE MAMMAL COMMISSION

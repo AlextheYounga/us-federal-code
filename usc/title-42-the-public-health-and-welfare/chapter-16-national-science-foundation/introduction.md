@@ -194,8 +194,6 @@ Sec.
 
 1875\. Appropriations.
 
-1875a. National Science Foundation Nonrecurring Expenses Fund.
-
 1876 to 1879. Repealed.
 
 1880\. National Medal of Science.

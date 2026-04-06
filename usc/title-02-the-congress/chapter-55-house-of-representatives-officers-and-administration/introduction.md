@@ -78,8 +78,6 @@ Sec.
 
 5548\. Payments to ensure continuing availability of goods and services during the coronavirus emergency.
 
-5549\. House Intern Resource Office.
-
         
 
 #### SUBCHAPTER IV—CLERK
