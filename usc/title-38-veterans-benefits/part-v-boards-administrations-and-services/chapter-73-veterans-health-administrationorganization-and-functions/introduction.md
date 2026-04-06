@@ -22,6 +22,8 @@ Sec.
 
 7309\. Readjustment Counseling Service.
 
+7309A. Office of Patient Advocacy.
+
         
 
 #### SUBCHAPTER II—GENERAL AUTHORITY AND ADMINISTRATION
@@ -107,6 +109,8 @@ Sec.
         
 
 #### Amendments
+
+**2016**—Pub. L. 114–198, title IX, §924(b), July 22, 2016, 130 Stat. 769, added item 7309A.
 
 **2013**—Pub. L. 112–239, div. A, title VII, §728(b), Jan. 2, 2013, 126 Stat. 1813, added item 7309.
 

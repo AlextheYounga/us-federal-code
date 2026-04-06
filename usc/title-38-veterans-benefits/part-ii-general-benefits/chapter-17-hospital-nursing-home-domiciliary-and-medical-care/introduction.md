@@ -52,6 +52,8 @@ Sec.
 
 1712B. Counseling for former prisoners of war.
 
+1712C. Dental insurance plan for veterans and survivors and dependents of veterans.
+
 \[1713. Renumbered.\]
 
 1714\. Fitting and training in use of prosthetic appliances; guide dogs; service dogs.
@@ -185,6 +187,8 @@ Sec.
         
 
 #### Amendments
+
+**2016**—Pub. L. 114–218, §2(a)(2), July 29, 2016, 130 Stat. 843, added item 1712C.
 
 **2015**—Pub. L. 114–2, §2(a)(2), Feb. 12, 2015, 129 Stat. 31, added item 1709B.
 
