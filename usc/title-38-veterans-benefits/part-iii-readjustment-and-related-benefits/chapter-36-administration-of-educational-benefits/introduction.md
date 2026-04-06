@@ -102,17 +102,27 @@ Sec. 2
 
 3698\. Comprehensive policy on providing education information to veterans.
 
+3698A. Provision of certificates of eligibility and award letters using electronic means.
+
 3699\. Effects of closure or disapproval of educational institution.
 
 3699A. Provision of certain information to educational institutions.
 
 3699B. Treatment of certain for-profit educational institutions.
 
+3699C. High technology program.
+
+3699D. Notice of changes to policies and guidance relating to educational assistance programs.
+
         
 
 #### **Editorial Notes**
 
 #### Amendments
+
+**2025**—Pub. L. 118–210, title II, §§212(a)(2), 213(b), Jan. 2, 2025, 138 Stat. 2772, 2774, added items 3699C and 3699D.
+
+Pub. L. 118–210, title II, §210(a), (b), Jan. 2, 2025, 138 Stat. 2766, identically added item 3698A.
 
 **2023**—Pub. L. 117–333, §§2(b), 11(b), Jan. 5, 2023, 136 Stat. 6125, 6134, redesignated items for subchapter I and subchapter II as subchapter II and subchapter III, respectively, and added item for subchapter I and items 3601 to 3605 and 3672A.
 

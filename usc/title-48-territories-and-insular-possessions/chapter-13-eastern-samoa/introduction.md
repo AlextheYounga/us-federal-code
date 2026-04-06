@@ -6,7 +6,7 @@ Sec.
 
 1662\. Sovereignty of United States extended over Swains Island.
 
-1662a. Amendment of constitution of American Samoa.
+1662a. Repealed.
 
 1663\. Acknowledgment of deeds.
 

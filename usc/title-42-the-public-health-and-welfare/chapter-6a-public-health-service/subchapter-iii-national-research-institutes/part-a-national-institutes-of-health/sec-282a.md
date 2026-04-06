@@ -18,9 +18,9 @@ For purposes of carrying out this subchapter, there are authorized to be appropr
 
 (F) $36,472,442,775 for fiscal year 2020.
 
-#### (2) Funding for 10-year pediatric research initiative through Common Fund
+#### (2) Funding for pediatric research initiative
 
-For the purpose of carrying out section 282(b)(7)(B)(ii) of this title, there is authorized to be appropriated to the Common Fund, out of the 10-Year Pediatric Research Initiative Fund described in section 9008 of title 26, and in addition to amounts otherwise made available under paragraph (1) of this subsection and reserved under subsection (c)(1)(B)(i) of this section, $12,600,000 for each of fiscal years 2014 through 2023.
+For the purpose of carrying out section 282(b)(7)(B)(ii) of this title, there is authorized to be appropriated to the Division of Program Coordination, Planning, and Strategic Initiatives, out of the Pediatric Research Initiative Fund described in section 9008 of title 26, and in addition to amounts otherwise made available under paragraph (1) of this subsection, $12,600,000 for each of fiscal years 2024 through 2028.
 
 #### (b) Office of the Director
 
@@ -32,7 +32,7 @@ Of the amount authorized to be appropriated under subsection (a) for a fiscal ye
 
 #### (A) Account
 
-For the purpose of allocations under section 282(b)(7)(B) of this title (relating to research identified by the Division of Program Coordination, Planning, and Strategic Initiatives), there is established an account to be known as the Common Fund.
+For the purpose of allocations under section 282(b)(7)(B)(i) of this title (relating to research identified by the Division of Program Coordination, Planning, and Strategic Initiatives), there is established an account to be known as the Common Fund.
 
 #### (B) Reservation
 
@@ -74,7 +74,7 @@ Not later than 2 years after December 13, 2016, the head of each national resear
 
 #### (C) Determination
 
-For purposes of determining the amount or percentage of funds to be reported under subparagraph (B), any amounts made available to an institute or center under section 282(b)(7)(B) of this title shall be included.
+For purposes of determining the amount or percentage of funds to be reported under subparagraph (B), any amounts made available to an institute or center under section 282(b)(7)(B)(i) of this title shall be included.
 
 #### (D) Verification of amounts
 
@@ -92,13 +92,17 @@ Of the total amount appropriated under subsection (a)(1) for a fiscal year, the 
 
 This section may not be construed as affecting the authorities of the Director of NIH under section 281 of this title.
 
-(July 1, 1944, ch. 373, title IV, §402A, as added Pub. L. 109–482, title I, §103(a), Jan. 15, 2007, 120 Stat. 3685; amended Pub. L. 113–94, §3(b), Apr. 3, 2014, 128 Stat. 1087; Pub. L. 114–255, div. A, title II, §§2001, 2031(b), 2042(a), Dec. 13, 2016, 130 Stat. 1047, 1056, 1073.)
+(July 1, 1944, ch. 373, title IV, §402A, as added Pub. L. 109–482, title I, §103(a), Jan. 15, 2007, 120 Stat. 3685; amended Pub. L. 113–94, §3(b), Apr. 3, 2014, 128 Stat. 1087; Pub. L. 114–255, div. A, title II, §§2001, 2031(b), 2042(a), Dec. 13, 2016, 130 Stat. 1047, 1056, 1073; Pub. L. 118–228, §2(1), (2), Jan. 4, 2025, 138 Stat. 2822.)
 
   
 
 #### **Editorial Notes**
 
 #### Amendments
+
+**2025**—Subsec. (a)(2). Pub. L. 118–228, §2(1), struck out "10-year" before "pediatric" and "through Common Fund" after "initiative" in heading, and in text substituted "to the Division of Program Coordination, Planning, and Strategic Initiatives" for "to the Common Fund" and "2024 through 2028" for "2014 through 2023", and struck out "10-Year" before "Pediatric Research Initiative Fund" and "and reserved under subsection (c)(1)(B)(i) of this section" after "paragraph (1) of this subsection".
+
+Subsec. (c)(1)(A), (2)(C). Pub. L. 118–228, §2(2), substituted "section 282(b)(7)(B)(i)" for "section 282(b)(7)(B)".
 
 **2016**—Subsec. (a)(1)(D) to (F). Pub. L. 114–255, §2001, added subpars. (D) to (F).
 
