@@ -86,6 +86,12 @@ Sec.
 
 823d. Alternative conditions and prescriptions.
 
+823e. Promoting hydropower development at existing nonpowered dams.
+
+823f. Closed-loop pumped storage projects.
+
+823g. Considerations for relicensing terms.
+
         
 
 #### SUBCHAPTER II—REGULATION OF ELECTRIC UTILITY COMPANIES ENGAGED IN INTERSTATE COMMERCE
