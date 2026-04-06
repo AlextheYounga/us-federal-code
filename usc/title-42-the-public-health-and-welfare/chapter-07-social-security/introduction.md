@@ -568,6 +568,8 @@ Sec.
 
 1320a–6. Adjustments in SSI benefits on account of retroactive benefits under subchapter II.
 
+1320a–6a. Interagency coordination to improve program administration.
+
 1320a–7. Exclusion of certain individuals and entities from participation in Medicare and State health care programs.
 
 1320a–7a. Civil monetary penalties.
@@ -727,6 +729,8 @@ Sec.
 1320e–1. Limitations on certain uses of comparative clinical effectiveness research.
 
 1320e–2. Trust Fund transfers to Patient-Centered Outcomes Research Trust Fund.
+
+1320e–3. Information exchange with payroll data providers.
 
         
 
