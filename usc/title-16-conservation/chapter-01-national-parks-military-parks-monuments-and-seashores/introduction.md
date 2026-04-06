@@ -36,7 +36,7 @@ Sec.
 
 #### SUBCHAPTER III—NATIONAL PARK FOUNDATION
 
-19 to 19o. Repealed.
+19 to 19 o. Repealed.
 
         
 
@@ -2478,7 +2478,7 @@ Sec.
 
 #### SUBCHAPTER LIX–JJ—PATERSON GREAT FALLS NATIONAL HISTORICAL PARK
 
-410lll. Paterson Great Falls National Historical Park, New Jersey.
+410 lll. Paterson Great Falls National Historical Park, New Jersey.
 
         
 
