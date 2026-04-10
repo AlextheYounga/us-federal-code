@@ -72,7 +72,7 @@ For purposes of clause (i), an individual is not considered to have completed a 
 
 (III) has been assessed a civil money penalty described in subsection (f)(2)(A)(i) of not less than $5,000; or
 
-(IV) has been subject to the remedies described in subsection (e)(1) of this section or in clauses (ii) or (iii) of subsection (f)(2)(A).
+(IV) has been subject to the remedies described in subsection (e)(1) or in clauses (ii) or (iii) of subsection (f)(2)(A).
 
   
 

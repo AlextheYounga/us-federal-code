@@ -2,6 +2,6 @@
 
 Sec.
 
-18501\. Exclusion of payments from State Eugenics compensation programs from consideration in determining eligibility for, or the amount of, Federal public benefits.
+18501\. Exclusion of payments from State eugenics compensation programs from consideration in determining eligibility for, or the amount of, Federal public benefits.
 
         

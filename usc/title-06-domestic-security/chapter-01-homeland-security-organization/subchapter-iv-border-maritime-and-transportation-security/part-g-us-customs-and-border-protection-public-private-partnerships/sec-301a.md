@@ -150,7 +150,7 @@ Not later than 180 days after receiving a completed proposal to enter into an ag
 
 #### (4) Supplemental funding
 
-Except as required under section 3307 of title 40, real property donations to the Administrator of General Services made pursuant to subsection (a) and (b) at a GSA-owned land port of entry may be used in addition to any other funding for such purpose, including appropriated funds, property, or services.
+Except as required under section 3307 of title 40, real property donations to the Administrator of General Services made pursuant to subsection [1](#301a_1_target) (a) and [1](#301a_1_target) (b) at a GSA-owned land port of entry may be used in addition to any other funding for such purpose, including appropriated funds, property, or services.
 
 #### (5) Return of donations
 

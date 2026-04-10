@@ -132,7 +132,7 @@ The topics described in this paragraph include—
 
 (E) the health care workforce needs of special populations, such as minorities, rural populations, medically underserved populations, gender specific needs, individuals with disabilities, and geriatric and pediatric populations with recommendations for new and existing Federal policies to meet the needs of these special populations; and
 
-(F) recommendations creating or revising national loan repayment programs and scholarship programs to require low-income, minority medical students to serve in their home communities, if designated as medical underserved community.[2](#294q_2_target)
+(F) recommendations creating or revising national loan repayment programs and scholarship programs to require low-income, minority medical students to serve in their home communities, if designated as medical underserved community.[3](#294q_3_target)
 
 #### (4) High priority areas
 
@@ -188,7 +188,7 @@ The Commission shall submit recommendations to Congress, the Department of Labor
 
 #### (8) Assessment
 
-The Commission shall assess and receive reports from the National Center for Health Care Workforce Analysis established under section 761(b) of the Public Service Health Act \[42 U.S.C. 294n(b)\] (as amended by section 5103).[3](#294q_3_target)
+The Commission shall assess and receive reports from the National Center for Health Care Workforce Analysis established under section 761(b) of the Public Service Health Act \[42 U.S.C. 294n(b)\] (as amended by section 5103).[4](#294q_4_target)
 
 #### (e) Consultation with Federal, State, and local agencies, Congress, and other organizations
 
@@ -266,11 +266,11 @@ The term "health care workforce" includes all health care providers with direct 
 
 The term "health professionals" includes—
 
-(A) dentists, dental hygienists, primary care providers, specialty physicians, nurses, nurse practitioners, physician assistants, psychologists and other behavioral and mental health professionals (including substance abuse prevention and treatment providers), social workers, physical and occupational therapists, optometrists, ophthalmologists,[4](#294q_4_target) public health professionals, clinical pharmacists, allied health professionals, doctors of chiropractic, community health workers, school nurses, certified nurse midwives, podiatrists, licensed complementary and alternative medicine providers, the EMS workforce (including professional and volunteer ambulance personnel and firefighters who perform emergency medical services), and integrative health practitioners;
+(A) dentists, dental hygienists, primary care providers, specialty physicians, nurses, nurse practitioners, physician assistants, psychologists and other behavioral and mental health professionals (including substance abuse prevention and treatment providers), social workers, physical and occupational therapists, optometrists, ophthalmologists,[5](#294q_5_target) public health professionals, clinical pharmacists, allied health professionals, doctors of chiropractic, community health workers, school nurses, certified nurse midwives, podiatrists, licensed complementary and alternative medicine providers, the EMS workforce (including professional and volunteer ambulance personnel and firefighters who perform emergency medical services), and integrative health practitioners;
 
 (B) national representatives of health professionals;
 
-(C) representatives of schools of medicine, osteopathy, nursing, dentistry, optometry, pharmacy, chiropractic, allied health, educational programs for public health professionals, behavioral and mental health professionals (as so defined), social workers, pharmacists, physical and occupational therapists, optometrists, ophthalmologists,[4](#294q_4_target) oral health care industry dentistry and dental hygiene, and physician assistants;
+(C) representatives of schools of medicine, osteopathy, nursing, dentistry, optometry, pharmacy, chiropractic, allied health, educational programs for public health professionals, behavioral and mental health professionals (as so defined), social workers, pharmacists, physical and occupational therapists, optometrists, ophthalmologists,[5](#294q_5_target) oral health care industry dentistry and dental hygiene, and physician assistants;
 
 (D) representatives of public and private teaching hospitals, and ambulatory health facilities, including Federal medical facilities; and
 
@@ -388,8 +388,8 @@ Pub. L. 111–148, title V, §5002(a), Mar. 23, 2010, 124 Stat. 588, provided th
 
 [2 So in original. Probably should be followed by a period.](#294q_2)
 
-[2 So in original.](#294q_2)
+[3 So in original.](#294q_3)
 
-[3 See References in Text note below.](#294q_3)
+[4 See References in Text note below.](#294q_4)
 
-[4 See 2010 Amendment note below.](#294q_4)
+[5 See 2010 Amendment note below.](#294q_5)

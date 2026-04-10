@@ -32,7 +32,7 @@ The annual report of the Secretary which is required by section 1671 of title 25
 
   
 
-(3) Subsection (c) of this section shall not apply to payments made under this subsection.
+(3) Subsection (c) shall not apply to payments made under this subsection.
 
 #### (f) Cross reference
 

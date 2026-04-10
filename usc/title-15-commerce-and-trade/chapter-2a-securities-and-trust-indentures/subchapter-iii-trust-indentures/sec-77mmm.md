@@ -10,7 +10,7 @@ The indenture trustee shall transmit to the indenture security holders as herein
 
 (3) the character and amount of any advances made by it, as indenture trustee, which remain unpaid on the date of such report, and for the reimbursement of which it claims or may claim a lien or charge, prior to that of the indenture securities, on the trust estate or on property or funds held or collected by it as such trustee, if such advances so remaining unpaid aggregate more than one-half of 1 per centum of the principal amount of the indenture securities outstanding on such date;
 
-(4) any change to the amount, interest rate, and maturity date of all other indebtedness owning to it in its individual capacity, on the date of such report, by the obligor upon the indenture securities, with a brief description of any property held as collateral security therefor, except an indebtedness based upon a creditor relationship arising in any manner described in paragraphs (2), (3), (4), or (6) of subsection (b) of section 77kkk of this title;
+(4) any change to the amount, interest rate, and maturity date of all other indebtedness owing to it in its individual capacity, on the date of such report, by the obligor upon the indenture securities, with a brief description of any property held as collateral security therefor, except an indebtedness based upon a creditor relationship arising in any manner described in paragraphs (2), (3), (4), or (6) of subsection (b) of section 77kkk of this title;
 
 (5) any change to the property and funds physically in its possession as indenture trustee on the date of such report;
 
