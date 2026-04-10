@@ -12,4 +12,6 @@ Sec.
 
 3005\. Savings clause.
 
+3006\. Ensuring energy security.
+
         
