@@ -1,0 +1,3 @@
+### \[§483. Repealed. Pub. L. 113–66, div. A, title X, §1084(a)(1)(A), Dec. 26, 2013, 127 Stat. 871\]
+
+Section, added Pub. L. 105–85, div. A, title III, §323(a), Nov. 18, 1997, 111 Stat. 1675; amended Pub. L. 106–65, div. A, title X, §1067(1), Oct. 5, 1999, 113 Stat. 774; Pub. L. 106–398, §1 \[\[div. A\], title III, §372\], Oct. 30, 2000, 114 Stat. 1654, 1654A–80, related to reports on transfers from high-priority readiness appropriations.

@@ -266,7 +266,7 @@ Sec.
 
 17282\. Renewable energy deployment.
 
-17283\. Coordination of planned refinery outages.
+17283\. Repealed.
 
 17284\. Assessment of resources.
 
