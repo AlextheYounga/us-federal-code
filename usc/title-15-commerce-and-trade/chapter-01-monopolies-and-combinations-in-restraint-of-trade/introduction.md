@@ -72,8 +72,6 @@ Sec.
 
 18a. Premerger notification and waiting period.
 
-18b. Mergers involving foreign government subsidies.
-
 19\. Interlocking directorates and officers.
 
 19a, 20. Repealed.

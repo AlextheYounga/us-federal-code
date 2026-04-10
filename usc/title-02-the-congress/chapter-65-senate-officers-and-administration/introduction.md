@@ -40,8 +40,6 @@ Sec.
 
 6518\. Workers compensation payments.
 
-6519\. McCain-Mansfield and SFC Sean Cooley and SPC Christopher Horton Congressional Gold Star Family Fellowships Programs.
-
         
 
 #### SUBCHAPTER II—SECRETARY OF THE SENATE
