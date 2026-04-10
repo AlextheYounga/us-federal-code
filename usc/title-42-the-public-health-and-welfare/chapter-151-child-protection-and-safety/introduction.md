@@ -52,6 +52,8 @@ Sec.
 
 16928\. Registration of sex offenders entering the United States.
 
+16928a. Registration of sex offenders released from military corrections facilities or upon conviction.
+
 16929\. Immunity for good faith conduct.
 
         
