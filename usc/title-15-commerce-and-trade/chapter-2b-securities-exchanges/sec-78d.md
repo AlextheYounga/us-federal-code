@@ -186,39 +186,7 @@ The Division of Investment Management of the Commission, or any successor organi
 
 (B) report to the Director of that Division.
 
-#### (i) Securities and Exchange Commission Reserve Fund
-
-#### (1) Reserve Fund established
-
-There is established in the Treasury of the United States a separate fund, to be known as the "Securities and Exchange Commission Reserve Fund" (referred to in this subsection as the "Reserve Fund").
-
-#### (2) Reserve Fund amounts
-
-#### (A) In general
-
-Except as provided in subparagraph (B), any registration fees collected by the Commission under section 77f(b) of this title or section 80a–24(f) of this title shall be deposited into the Reserve Fund.
-
-#### (B) Limitations
-
-For any 1 fiscal year—
-
-(i) the amount deposited in the Fund may not exceed $50,000,000; and
-
-(ii) the balance in the Fund may not exceed $100,000,000.
-
-#### (C) Excess fees
-
-Any amounts in excess of the limitations described in subparagraph (B) that the Commission collects from registration fees under section 77f(b) of this title or section 80a–24(f) of this title shall be deposited in the General Fund of the Treasury of the United States and shall not be available for obligation by the Commission.
-
-#### (3) Use of amounts in Reserve Fund
-
-The Commission may obligate amounts in the Reserve Fund, not to exceed a total of $100,000,000 in any 1 fiscal year, as the Commission determines is necessary to carry out the functions of the Commission. Any amounts in the reserve fund shall remain available until expended. Not later than 10 days after the date on which the Commission obligates amounts under this paragraph, the Commission shall notify Congress of the date, amount, and purpose of the obligation.
-
-#### (4) Rule of construction
-
-Amounts collected and deposited in the Reserve Fund shall not be construed to be Government funds or appropriated monies and shall not be subject to apportionment for the purpose of chapter 15 of title 31 or under any other authority.
-
-#### (j) Office of the Advocate for Small Business Capital Formation
+#### (i) Office of the Advocate for Small Business Capital Formation
 
 #### (1) Office established
 
@@ -326,7 +294,7 @@ The Advocate for Small Business Capital Formation shall be responsible for plann
 
 Nothing in this subsection may be construed as replacing or reducing the responsibilities of the Investor Advocate with respect to small business investors.
 
-#### (k) Open data publication
+#### (j) Open data publication
 
 All public data assets published by the Commission under the securities laws and the Dodd-Frank Wall Street Reform and Consumer Protection Act (Public Law 111–203; 124 Stat. 1376) shall be—
 
@@ -338,7 +306,7 @@ All public data assets published by the Commission under the securities laws and
 
 (4) accessible via application programming interface where appropriate.
 
-(June 6, 1934, ch. 404, title I, §4, 48 Stat. 885; Oct. 28, 1949, ch. 782, title XI, §1106(a), 63 Stat. 972; Pub. L. 86–619, §3, July 12, 1960, 74 Stat. 408; Pub. L. 86–771, Sept. 13, 1960, 74 Stat. 913; Pub. L. 88–426, title III, §305(20), Aug. 14, 1964, 78 Stat. 425; Pub. L. 98–38, §1, June 6, 1983, 97 Stat. 205; Pub. L. 100–181, title III, §307, Dec. 4, 1987, 101 Stat. 1254; Pub. L. 101–550, title I, §103, title II, §207, Nov. 15, 1990, 104 Stat. 2713, 2721; Pub. L. 104–290, title IV, §406, Oct. 11, 1996, 110 Stat. 3444; Pub. L. 105–353, title II, §203, Nov. 3, 1998, 112 Stat. 3234; Pub. L. 107–123, §8(d)(2), Jan. 16, 2002, 115 Stat. 2399; Pub. L. 111–203, title IX, §§915, 919D, 965, 991(e)(1), July 21, 2010, 124 Stat. 1830, 1840, 1911, 1954; Pub. L. 114–284, §2(a), Dec. 16, 2016, 130 Stat. 1447; Pub. L. 115–141, div. S, title IX, §902, Mar. 23, 2018, 132 Stat. 1143; Pub. L. 117–263, div. E, title LVIII, §5822, Dec. 23, 2022, 136 Stat. 3427.)
+(June 6, 1934, ch. 404, title I, §4, 48 Stat. 885; Oct. 28, 1949, ch. 782, title XI, §1106(a), 63 Stat. 972; Pub. L. 86–619, §3, July 12, 1960, 74 Stat. 408; Pub. L. 86–771, Sept. 13, 1960, 74 Stat. 913; Pub. L. 88–426, title III, §305(20), Aug. 14, 1964, 78 Stat. 425; Pub. L. 98–38, §1, June 6, 1983, 97 Stat. 205; Pub. L. 100–181, title III, §307, Dec. 4, 1987, 101 Stat. 1254; Pub. L. 101–550, title I, §103, title II, §207, Nov. 15, 1990, 104 Stat. 2713, 2721; Pub. L. 104–290, title IV, §406, Oct. 11, 1996, 110 Stat. 3444; Pub. L. 105–353, title II, §203, Nov. 3, 1998, 112 Stat. 3234; Pub. L. 107–123, §8(d)(2), Jan. 16, 2002, 115 Stat. 2399; Pub. L. 111–203, title IX, §§915, 919D, 965, 991(e)(1), July 21, 2010, 124 Stat. 1830, 1840, 1911, 1954; Pub. L. 114–284, §2(a), Dec. 16, 2016, 130 Stat. 1447; Pub. L. 115–141, div. S, title IX, §902, Mar. 23, 2018, 132 Stat. 1143; Pub. L. 117–263, div. E, title LVIII, §5822, Dec. 23, 2022, 136 Stat. 3427; Pub. L. 119–21, title III, §30003(a), July 4, 2025, 139 Stat. 126.)
 
   
 
@@ -346,11 +314,13 @@ All public data assets published by the Commission under the securities laws and
 
 #### References in Text
 
-This chapter, referred to in subsecs. (a), (g)(4)(D)(ii), and (j)(4)(D)(ii), was in the original "this title". See References in Text note set out under section 78a of this title.
+This chapter, referred to in subsecs. (a), (g)(4)(D)(ii), and (i)(4)(D)(ii), was in the original "this title". See References in Text note set out under section 78a of this title.
 
-The Dodd-Frank Wall Street Reform and Consumer Protection Act, referred to in subsec. (k), is Pub. L. 111–203, July 21, 2010, 124 Stat. 1376, which enacted chapter 53 (§5301 et seq.) of Title 12, Banks and Banking, and chapters 108 (§8201 et seq.) and 109 (§8301 et seq.) of this title, and enacted, amended, and repealed numerous other sections and notes in the Code. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of Title 12 and Tables.
+The Dodd-Frank Wall Street Reform and Consumer Protection Act, referred to in subsec. (j), is Pub. L. 111–203, July 21, 2010, 124 Stat. 1376, which enacted chapter 53 (§5301 et seq.) of Title 12, Banks and Banking, and chapters 108 (§8201 et seq.) and 109 (§8301 et seq.) of this title, and enacted, amended, and repealed numerous other sections and notes in the Code. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of Title 12 and Tables.
 
 #### Amendments
+
+**2025**—Subsecs. (i) to (k). Pub. L. 119–21 redesignated subsecs. (j) and (k) as (i) and (j), respectively, and struck out former subsec. (i) which related to the establishment of the Securities and Exchange Commission Reserve Fund and amounts therein.
 
 **2022**—Subsec. (k). Pub. L. 117–263 added subsec. (k).
 
@@ -413,6 +383,16 @@ Act Oct. 28, 1949, ch. 782, set out in the credit of this section, was repealed 
 #### Rule of Construction—No New Disclosure Requirements
 
 Amendment by Pub. L. 117–263 not to be construed to require certain additional information to be collected or disclosed, see section 5826 of Pub. L. 117–263, set out as a note under section 77g of this title.
+
+#### Expenditure of Funds in and Closure of the Securities and Exchange Commission Reserve Fund
+
+Pub. L. 119–21, title III, §30003(c)–(e), July 4, 2025, 139 Stat. 126, provided that:
+
+"(c) Transition Provision.—During the period beginning on the date of enactment of this Act \[July 4, 2025\] and ending on October 1, 2025, the Securities and Exchange Commission may expend amounts in the Securities and Exchange Commission Reserve Fund that were obligated before the date of enactment of this Act for any program, project, or activity that is ongoing (as of the day before the date of enactment of this Act) in accordance with \[former\] subsection (i) of section 4 of the Securities Exchange Act of 1934 (15 U.S.C. 78d), as in effect on the day before the date of enactment of this Act.
+
+"(d) Transfer of Remaining Amounts.—Effective on October 1, 2025, the obligated and unobligated balances of amounts in the Securities and Exchange Commission Reserve Fund shall be transferred to the general fund of the Treasury.
+
+"(e) Closing of Account.—For the purposes of section 1555 of title 31, United States Code, the Securities and Exchange Commission Reserve Fund shall be considered closed, and thereafter shall not be available for obligation or expenditure for any purpose, upon execution of the transfer required under subsection (d)."
 
 #### Outreach by the Commission
 

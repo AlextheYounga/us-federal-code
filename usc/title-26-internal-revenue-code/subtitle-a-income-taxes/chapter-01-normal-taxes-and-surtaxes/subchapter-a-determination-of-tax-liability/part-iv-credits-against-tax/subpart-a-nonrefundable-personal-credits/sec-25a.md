@@ -148,23 +148,21 @@ The term "eligible educational institution" means an institution—
 
 #### (1) Identification requirement
 
-#### (A) In general
+#### (A) Social security number requirement
 
-No credit shall be allowed under subsection (a) to a taxpayer with respect to the qualified tuition and related expenses of an individual unless the taxpayer includes the name and taxpayer identification number of such individual on the return of tax for the taxable year.
+No credit shall be allowed under subsection (a) to an individual unless the individual includes on the return of tax for the taxable year—
 
-#### (B) Additional identification requirements with respect to American Opportunity Tax Credit
+(i) such individual's social security number, and
 
-#### (i) Student
+(ii) in the case of a credit with respect to the qualified tuition and related expenses of an individual other than the taxpayer or the taxpayer's spouse, the name and social security number of such individual.
 
-The requirements of subparagraph (A) shall not be treated as met with respect to the American Opportunity Tax Credit unless the individual's taxpayer identification number was issued on or before the due date for filing the return of tax for the taxable year.
+#### (B) Institution
 
-#### (ii) Taxpayer
+No American Opportunity Tax Credit shall be allowed under this section unless the taxpayer includes the employer identification number of any institution to which the taxpayer paid qualified tuition and related expenses taken into account under this section on the return of tax for the taxable year.
 
-No American Opportunity Tax Credit shall be allowed under this section if the taxpayer identification number of the taxpayer was issued after the due date for filing the return for the taxable year.
+#### (C) Social security number defined
 
-#### (iii) Institution
-
-No American Opportunity Tax Credit shall be allowed under this section unless the taxpayer includes the employer identification number of any institution to which qualified tuition and related expenses were paid with respect to the individual.
+For purposes of this paragraph, the term "social security number" shall have the meaning given such term in section 24(h)(7).
 
 #### (2) Adjustment for certain scholarships, etc.
 
@@ -216,7 +214,7 @@ Forty percent of so much of the credit allowed under subsection (a) as is attrib
 
 The Secretary may prescribe such regulations as may be necessary or appropriate to carry out this section, including regulations providing for a recapture of the credit allowed under this section in cases where there is a refund in a subsequent taxable year of any amount which was taken into account in determining the amount of such credit.
 
-(Added Pub. L. 105–34, title II, §201(a), Aug. 5, 1997, 111 Stat. 799; amended Pub. L. 107–16, title IV, §401(g)(2)(A), June 7, 2001, 115 Stat. 59; Pub. L. 111–5, div. B, title I, §1004(a), Feb. 17, 2009, 123 Stat. 313; Pub. L. 111–148, title X, §10909(b)(2)(C), (c), Mar. 23, 2010, 124 Stat. 1023; Pub. L. 111–312, title I, §§101(b)(1), 103(a)(1), Dec. 17, 2010, 124 Stat. 3298, 3299; Pub. L. 112–240, title I, §§103(a)(1), 104(c)(2)(D), Jan. 2, 2013, 126 Stat. 2319, 2322; Pub. L. 113–295, div. A, title II, §209(b), Dec. 19, 2014, 128 Stat. 4028; Pub. L. 114–27, title VIII, §804(a), June 29, 2015, 129 Stat. 415; Pub. L. 114–113, div. Q, title I, §102(a), title II, §§206(a), 208(a)(2), 211(a), Dec. 18, 2015, 129 Stat. 3044, 3082, 3083, 3085; Pub. L. 115–97, title I, §11002(d)(1)(B), Dec. 22, 2017, 131 Stat. 2060; Pub. L. 115–141, div. U, title I, §101(l)(1)–(9), (11)–(14), title IV, §401(b)(1), Mar. 23, 2018, 132 Stat. 1162–1165, 1201; Pub. L. 116–260, div. EE, title I, §104(a), Dec. 27, 2020, 134 Stat. 3040.)
+(Added Pub. L. 105–34, title II, §201(a), Aug. 5, 1997, 111 Stat. 799; amended Pub. L. 107–16, title IV, §401(g)(2)(A), June 7, 2001, 115 Stat. 59; Pub. L. 111–5, div. B, title I, §1004(a), Feb. 17, 2009, 123 Stat. 313; Pub. L. 111–148, title X, §10909(b)(2)(C), (c), Mar. 23, 2010, 124 Stat. 1023; Pub. L. 111–312, title I, §§101(b)(1), 103(a)(1), Dec. 17, 2010, 124 Stat. 3298, 3299; Pub. L. 112–240, title I, §§103(a)(1), 104(c)(2)(D), Jan. 2, 2013, 126 Stat. 2319, 2322; Pub. L. 113–295, div. A, title II, §209(b), Dec. 19, 2014, 128 Stat. 4028; Pub. L. 114–27, title VIII, §804(a), June 29, 2015, 129 Stat. 415; Pub. L. 114–113, div. Q, title I, §102(a), title II, §§206(a), 208(a)(2), 211(a), Dec. 18, 2015, 129 Stat. 3044, 3082, 3083, 3085; Pub. L. 115–97, title I, §11002(d)(1)(B), Dec. 22, 2017, 131 Stat. 2060; Pub. L. 115–141, div. U, title I, §101(l)(1)–(9), (11)–(14), title IV, §401(b)(1), Mar. 23, 2018, 132 Stat. 1162–1165, 1201; Pub. L. 116–260, div. EE, title I, §104(a), Dec. 27, 2020, 134 Stat. 3040; Pub. L. 119–21, title VII, §70606(a), July 4, 2025, 139 Stat. 289.)
 
 #### Inflation Adjusted Items for Certain Years
 
@@ -233,6 +231,8 @@ The date of the enactment of this section, referred to in subsecs. (b)(3)(A) and
 The Higher Education Act of 1965, referred to in subsec. (f)(2)(B), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219. Title IV of the Act is classified generally to subchapter IV (§1070 et seq.) of chapter 28 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 20 and Tables.
 
 #### Amendments
+
+**2025**—Subsec. (g)(1). Pub. L. 119–21 amended par. (1) generally. Prior to amendment, par. (1) required inclusion of the name and taxpayer identification number of an individual on the individual's tax return for claim of American Opportunity Tax and Lifetime Learning Credits with respect to qualified tuition and related expenses and additionally required inclusion of the employer identification number of the institution on the individual's tax return for claim of American Opportunity Tax Credit.
 
 **2020**—Subsec. (d). Pub. L. 116–260, §104(a)(1), added par. (1), redesignated par. (3) as (2), and struck out former pars. (1) and (2) which provided income limitations for the American Opportunity Tax Credit and Lifetime Learning Credit, respectively.
 
@@ -305,6 +305,10 @@ Subsec. (i)(5)(B). Pub. L. 111–148, §10909(b)(2)(C), (c), as amended by Pub. 
   
 
 #### **Statutory Notes and Related Subsidiaries**
+
+#### Effective Date of 2025 Amendment
+
+Pub. L. 119–21, title VII, §70606(c), July 4, 2025, 139 Stat. 289, provided that: "The amendments made by this section \[amending this section and section 6213 of this title\] shall apply to taxable years beginning after December 31, 2025."
 
 #### Effective Date of 2020 Amendment
 

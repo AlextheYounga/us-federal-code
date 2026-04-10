@@ -20,7 +20,7 @@ Sec.
 
 44509\. Demonstration projects.
 
-44510\. Repealed.
+\[44510. Repealed.\]
 
 44511\. Aviation research grants.
 
@@ -28,7 +28,7 @@ Sec.
 
 44513\. Regional centers of air transportation excellence.
 
-44514, 44515. Repealed.
+\[44514, 44515. Repealed.\]
 
 44516\. Human factors program.
 

@@ -24,11 +24,11 @@ A program shall not be treated as a qualified ABLE program unless it provides th
 
 (A) unless it is in cash, or
 
-(B) except in the case of contributions under subsection (c)(1)(C), if such contribution to an ABLE account would result in aggregate contributions from all contributors to the ABLE account for the taxable year exceeding the sum of—
+(B) except in the case of contributions under subsection (c)(1)(C) or received in a qualified ABLE rollover contribution described in section 530A(d)(4)(B), if such contribution to an ABLE account would result in aggregate contributions from all contributors to the ABLE account for the taxable year exceeding the sum of—
 
-(i) the amount in effect under section 2503(b) for the calendar year in which the taxable year begins, plus
+(i) the amount in effect under section 2503(b) (determined by substituting "1996" for "1997" in paragraph (2)(B) thereof) for the calendar year in which the taxable year begins, plus
 
-(ii) in the case of any contribution by a designated beneficiary described in paragraph (7) before January 1, 2026, the lesser of—
+(ii) in the case of any contribution by a designated beneficiary described in paragraph (7), the lesser of—
 
 (I) compensation (as defined by section 219(f)(1)) includible in the designated beneficiary's gross income for the taxable year, or
 
@@ -52,7 +52,7 @@ A program shall not be treated as a qualified ABLE program if it allows any inte
 
 #### (6) Prohibition on excess contributions
 
-A program shall not be treated as a qualified ABLE program unless it provides adequate safeguards to prevent aggregate contributions on behalf of a designated beneficiary in excess of the limit established by the State under section 529(b)(6). For purposes of the preceding sentence, aggregate contributions include contributions under any prior qualified ABLE program of any State or agency or instrumentality thereof.
+A program shall not be treated as a qualified ABLE program unless it provides adequate safeguards to prevent aggregate contributions on behalf of a designated beneficiary in excess of the limit established by the State under section 529(b)(6). For purposes of the preceding sentence, aggregate contributions include contributions under any prior qualified ABLE program of any State or agency or instrumentality thereof but do not include any contributions received in a qualified ABLE rollover contribution described in section 530A(d)(4)(B).
 
 #### (7) Special rules related to contribution limit
 
@@ -178,7 +178,7 @@ For purposes of this section—
 
 An individual is an eligible individual for a taxable year if during such taxable year—
 
-(A) the individual is entitled to benefits based on blindness or disability under title II or XVI of the Social Security Act, and such blindness or disability occurred before the date on which the individual attained age 26, or
+(A) the individual is entitled to benefits based on blindness or disability under title II or XVI of the Social Security Act, and such blindness or disability occurred before the date on which the individual attained age 46, or
 
 (B) a disability certification with respect to such individual is filed with the Secretary for such taxable year.
 
@@ -192,7 +192,7 @@ The term "disability certification" means, with respect to an individual, a cert
 
 (I) the individual has a medically determinable physical or mental impairment, which results in marked and severe functional limitations, and which can be expected to result in death or which has lasted or can be expected to last for a continuous period of not less than 12 months, or is blind (within the meaning of section 1614(a)(2) of the Social Security Act), and
 
-(II) such blindness or disability occurred before the date on which the individual attained age 26, and
+(II) such blindness or disability occurred before the date on which the individual attained age 46, and
 
   
 
@@ -240,11 +240,7 @@ The Secretary shall prescribe such regulations or other guidance as the Secretar
 
 (7) to allow for transfers from one ABLE account to another ABLE account.
 
-(Added Pub. L. 113–295, div. B, title I, §102(a), Dec. 19, 2014, 128 Stat. 4056; amended Pub. L. 114–113, div. Q, title III, §303(a)–(c), Dec. 18, 2015, 129 Stat. 3087; Pub. L. 115–97, title I, §11024(a), Dec. 22, 2017, 131 Stat. 2075; Pub. L. 115–141, div. U, title I, §101(o), title IV, §401(a)(129), (130), Mar. 23, 2018, 132 Stat. 1166, 1190; Pub. L. 117–328, div. T, title I, §124(a), Dec. 29, 2022, 136 Stat. 5314.)
-
-#### Amendment of Subsection (e)
-
-Pub. L. 117–328, div. T, title I, §124, Dec. 29, 2022, 136 Stat. 5314, provided that, applicable to taxable years beginning after Dec. 31, 2025, paragraphs (1)(A) and (2)(A)(i)(II) of subsection (e) of this section are amended by striking "age 26" and inserting "age 46". See 2022 Amendment note below.
+(Added Pub. L. 113–295, div. B, title I, §102(a), Dec. 19, 2014, 128 Stat. 4056; amended Pub. L. 114–113, div. Q, title III, §303(a)–(c), Dec. 18, 2015, 129 Stat. 3087; Pub. L. 115–97, title I, §11024(a), Dec. 22, 2017, 131 Stat. 2075; Pub. L. 115–141, div. U, title I, §101(o), title IV, §401(a)(129), (130), Mar. 23, 2018, 132 Stat. 1166, 1190; Pub. L. 117–328, div. T, title I, §124(a), Dec. 29, 2022, 136 Stat. 5314; Pub. L. 119–21, title VII, §§70115(a), 70204(a)(2)(A), (B), July 4, 2025, 139 Stat. 166, 185.)
 
   
 
@@ -257,6 +253,14 @@ The Stephen Beck, Jr., ABLE Act of 2014, referred to in subsec. (d)(4), is div. 
 The Social Security Act, referred to in subsecs. (e)(1)(A), (2) and (f), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Titles II, XVI, and XIX of the Act are classified generally to subchapters II (§401 et seq.), XVI (§1381 et seq.), and XIX (§1396 et seq.), respectively, of chapter 7 of Title 42, The Public Health and Welfare. Sections 1614 and 1861 of the Act are classified to sections 1382c and 1395x, respectively, of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 #### Amendments
+
+**2025**—Subsec. (b)(2)(B). Pub. L. 119–21, §70204(a)(2)(A), which directed the insertion of "or received in a qualified ABLE rollover contribution described in section 530A(d)(4)(B)" after "except as provided in the case of contributions under subsection (c)(1)(C)" in introductory provisions, was executed by making the insertion after "except in the case of contributions under subsection (c)(1)(C)" to reflect the probable intent of Congress.
+
+Subsec. (b)(2)(B)(i). Pub. L. 119–21, §70115(a)(1), inserted "(determined by substituting '1996' for '1997' in paragraph (2)(B) thereof)" after "section 2503(b)".
+
+Subsec. (b)(2)(B)(ii). Pub. L. 119–21, §70115(a)(2), struck out "before January 1, 2026" after "paragraph (7)" in introductory provisions.
+
+Subsec. (b)(6). Pub. L. 119–21, §70204(a)(2)(B), inserted "but do not include any contributions received in a qualified ABLE rollover contribution described in section 530A(d)(4)(B)" after "instrumentality thereof".
 
 **2022**—Subsec. (e)(1)(A), (2)(A)(i)(II). Pub. L. 117–328 substituted "age 46" for "age 26".
 
@@ -285,6 +289,16 @@ Subsec. (e)(7). Pub. L. 114–113, §303(b)(2), struck out par. (7). Text read a
   
 
 #### **Statutory Notes and Related Subsidiaries**
+
+#### Effective Date of 2025 Amendment
+
+Pub. L. 119–21, title VII, §70115(b), July 4, 2025, 139 Stat. 166, provided that:
+
+"(1) In general.—Except as otherwise provided in this subsection, the amendments made by this section \[amending this section\] shall apply to contributions made after December 31, 2025.
+
+"(2) Modified inflation adjustment.—The amendment made by subsection (a)(1) \[amending this section\] shall apply to taxable years beginning after December 31, 2025."
+
+Amendment by section 70204(a)(2)(A), (B) of Pub. L. 119–21 applicable to taxable years beginning after Dec. 31, 2025, see section 70204(e) of Pub. L. 119–21, set out as an Effective Date note under section 128 of this title.
 
 #### Effective Date of 2022 Amendment
 

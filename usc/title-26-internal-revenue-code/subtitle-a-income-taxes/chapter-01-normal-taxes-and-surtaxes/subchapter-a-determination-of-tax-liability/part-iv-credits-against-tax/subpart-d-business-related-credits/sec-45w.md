@@ -78,9 +78,17 @@ The Secretary shall issue such regulations or other guidance as the Secretary de
 
 #### (g) Termination
 
-No credit shall be determined under this section with respect to any vehicle acquired after December 31, 2032.
+No credit shall be determined under this section with respect to any vehicle acquired after September 30, 2025.
 
-(Added Pub. L. 117–169, title I, §13403(a), Aug. 16, 2022, 136 Stat. 1964.)
+(Added Pub. L. 117–169, title I, §13403(a), Aug. 16, 2022, 136 Stat. 1964; Pub. L. 119–21, title VII, §70503, July 4, 2025, 139 Stat. 251.)
+
+  
+
+#### **Editorial Notes**
+
+#### Amendments
+
+**2025**—Subsec. (g). Pub. L. 119–21 substituted "September 30, 2025" for "December 31, 2032".
 
   
 

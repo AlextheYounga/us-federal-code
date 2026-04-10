@@ -316,7 +316,7 @@ For purposes of this paragraph, the term "energy community" means—
 
 (I) has (or, at any time during the period beginning after December 31, 2009, had) 0.17 percent or greater direct employment or 25 percent or greater local tax revenues related to the extraction, processing, transport, or storage of coal, oil, or natural gas (as determined by the Secretary), and
 
-(II) has an unemployment rate at or above the national average unemployment rate for the previous year (as determined by the Secretary), or
+(II) has an unemployment rate at or above the national average unemployment rate for the previous year (as determined by the Secretary),
 
   
 
@@ -330,7 +330,29 @@ For purposes of this paragraph, the term "energy community" means—
 
   
 
-(II) which is directly adjoining to any census tract described in subclause (I).
+(II) which is directly adjoining to any census tract described in subclause (I), or
+
+  
+
+(iv) for purposes of any qualified facility which is an advanced nuclear facility, a metropolitan statistical area which has (or, at any time during the period beginning after December 31, 2009, had) 0.17 percent or greater direct employment related to the advancement of nuclear power, including employment related to—
+
+(I) an advanced nuclear facility,
+
+(II) advanced nuclear power research and development,
+
+(III) nuclear fuel cycle research, development, or production, including mining, enrichment, manufacture, storage, disposal, or recycling of nuclear fuel, and
+
+(IV) the manufacturing or assembly of components used in an advanced nuclear facility.
+
+#### (C) Advanced nuclear facilities
+
+#### (i) In general
+
+Subject to clause (ii), for purposes of subparagraph (B)(iv), the term "advanced nuclear facility" means any nuclear facility the reactor design for which is approved in the manner described in section 45J(d)(2).
+
+#### (ii) Special rule
+
+For purposes of clause (i), a facility shall be deemed to have a reactor design which is approved in the manner described in section 45J(d)(2) if the Nuclear Regulatory Commission has authorized construction and issued a site-specific construction permit or combined license with respect to such facility (without regard to whether the reactor design was approved after December 31, 1993).
 
 #### (12) Regulations and guidance
 
@@ -860,7 +882,7 @@ Electricity produced by the taxpayer shall be treated as sold by such taxpayer t
 
 (B) such use and production is verified (in such form or manner as the Secretary may prescribe) by an unrelated third party.
 
-(Added Pub. L. 102–486, title XIX, §1914(a), Oct. 24, 1992, 106 Stat. 3020; amended Pub. L. 106–170, title V, §507(a)–(c), Dec. 17, 1999, 113 Stat. 1922; Pub. L. 106–554, §1(a)(7) \[title III, §319(1)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–646; Pub. L. 107–147, title VI, §603(a), Mar. 9, 2002, 116 Stat. 59; Pub. L. 108–311, title III, §313(a), Oct. 4, 2004, 118 Stat. 1181; Pub. L. 108–357, title VII, §710(a)–(d), (f), Oct. 22, 2004, 118 Stat. 1552–1557; Pub. L. 109–58, title XIII, §§1301(a)–(f)(4), 1302(a), 1322(a)(3)(C), Aug. 8, 2005, 119 Stat. 986–990, 1011; Pub. L. 109–135, title IV, §§402(b), 403(t), 412(j), Dec. 21, 2005, 119 Stat. 2610, 2628, 2637; Pub. L. 109–432, div. A, title II, §201, Dec. 20, 2006, 120 Stat. 2944; Pub. L. 110–172, §§7(b), 9(a), Dec. 29, 2007, 121 Stat. 2482, 2484; Pub. L. 110–343, div. B, title I, §§101(a)–(e), 102(a)–(e), 106(c)(3)(B), 108(a)–(d)(1), Oct. 3, 2008, 122 Stat. 3808–3810, 3815, 3819–3821; Pub. L. 111–5, div. B, title I, §1101(a), (b), Feb. 17, 2009, 123 Stat. 319; Pub. L. 111–312, title VII, §702(a), Dec. 17, 2010, 124 Stat. 3311; Pub. L. 112–240, title IV, §§406(a), 407(a), Jan. 2, 2013, 126 Stat. 2340; Pub. L. 113–295, div. A, title I, §§154(a), 155(a), title II, §210(g)(1), Dec. 19, 2014, 128 Stat. 4021, 4032; Pub. L. 114–113, div. P, title III, §301(a), div. Q, title I, §§186(a)–(c), (d)(2), 187(a), Dec. 18, 2015, 129 Stat. 3038, 3073, 3074; Pub. L. 115–123, div. D, title I, §§40408(a), 40409(a), Feb. 9, 2018, 132 Stat. 149, 150; Pub. L. 115–141, div. U, title IV, §401(a)(14)–(16), Mar. 23, 2018, 132 Stat. 1185; Pub. L. 116–94, div. Q, title I, §§127(a), (c)(1), (2)(A), 128(a), Dec. 20, 2019, 133 Stat. 3231, 3232; Pub. L. 116–260, div. EE, title I, §§131(a), (c)(1), 145(a), Dec. 27, 2020, 134 Stat. 3052, 3054; Pub. L. 117–169, title I, §§13101(a)–(c), (e)(1), (2)(A), (f)–(j), 13102(f)(4), 13204(b)(1), Aug. 16, 2022, 136 Stat. 1906–1913, 1916, 1939.)
+(Added Pub. L. 102–486, title XIX, §1914(a), Oct. 24, 1992, 106 Stat. 3020; amended Pub. L. 106–170, title V, §507(a)–(c), Dec. 17, 1999, 113 Stat. 1922; Pub. L. 106–554, §1(a)(7) \[title III, §319(1)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–646; Pub. L. 107–147, title VI, §603(a), Mar. 9, 2002, 116 Stat. 59; Pub. L. 108–311, title III, §313(a), Oct. 4, 2004, 118 Stat. 1181; Pub. L. 108–357, title VII, §710(a)–(d), (f), Oct. 22, 2004, 118 Stat. 1552–1557; Pub. L. 109–58, title XIII, §§1301(a)–(f)(4), 1302(a), 1322(a)(3)(C), Aug. 8, 2005, 119 Stat. 986–990, 1011; Pub. L. 109–135, title IV, §§402(b), 403(t), 412(j), Dec. 21, 2005, 119 Stat. 2610, 2628, 2637; Pub. L. 109–432, div. A, title II, §201, Dec. 20, 2006, 120 Stat. 2944; Pub. L. 110–172, §§7(b), 9(a), Dec. 29, 2007, 121 Stat. 2482, 2484; Pub. L. 110–343, div. B, title I, §§101(a)–(e), 102(a)–(e), 106(c)(3)(B), 108(a)–(d)(1), Oct. 3, 2008, 122 Stat. 3808–3810, 3815, 3819–3821; Pub. L. 111–5, div. B, title I, §1101(a), (b), Feb. 17, 2009, 123 Stat. 319; Pub. L. 111–312, title VII, §702(a), Dec. 17, 2010, 124 Stat. 3311; Pub. L. 112–240, title IV, §§406(a), 407(a), Jan. 2, 2013, 126 Stat. 2340; Pub. L. 113–295, div. A, title I, §§154(a), 155(a), title II, §210(g)(1), Dec. 19, 2014, 128 Stat. 4021, 4032; Pub. L. 114–113, div. P, title III, §301(a), div. Q, title I, §§186(a)–(c), (d)(2), 187(a), Dec. 18, 2015, 129 Stat. 3038, 3073, 3074; Pub. L. 115–123, div. D, title I, §§40408(a), 40409(a), Feb. 9, 2018, 132 Stat. 149, 150; Pub. L. 115–141, div. U, title IV, §401(a)(14)–(16), Mar. 23, 2018, 132 Stat. 1185; Pub. L. 116–94, div. Q, title I, §§127(a), (c)(1), (2)(A), 128(a), Dec. 20, 2019, 133 Stat. 3231, 3232; Pub. L. 116–260, div. EE, title I, §§131(a), (c)(1), 145(a), Dec. 27, 2020, 134 Stat. 3052, 3054; Pub. L. 117–169, title I, §§13101(a)–(c), (e)(1), (2)(A), (f)–(j), 13102(f)(4), 13204(b)(1), Aug. 16, 2022, 136 Stat. 1906–1913, 1916, 1939; Pub. L. 119–21, title VII, §70512(f)(1), July 4, 2025, 139 Stat. 266.)
 
 #### Inflation Adjusted Items for Certain Years
 
@@ -889,6 +911,10 @@ The date of enactment of the Energy Tax Incentives Act of 2005, referred to in s
 A prior section 45 was renumbered section 37 of this title.
 
 #### Amendments
+
+**2025**—Subsec. (b)(11)(B)(iv). Pub. L. 119–21, §70512(f)(1)(A), added cl. (iv).
+
+Subsec. (b)(11)(C). Pub. L. 119–21, §70512(f)(1)(B), added subpar. (C).
 
 **2022**—Subsec. (a)(1). Pub. L. 117–169, §13101(b)(1), substituted "0.3 cents" for "1.5 cents".
 
@@ -1194,6 +1220,18 @@ Subsec. (d)(6), (7). Pub. L. 106–170, §507(c), added pars. (6) and (7).
 
 #### **Statutory Notes and Related Subsidiaries**
 
+#### Effective Date of 2025 Amendment
+
+Pub. L. 119–21, title VII, §70512(l), July 4, 2025, 139 Stat. 269, provided that:
+
+"(1) In general.—Except as provided in paragraphs (2), (3), and (4), the amendments made by this section \[enacting section 6695B of this title and amending this section and sections 45Y, 48E, 6417, 6418, 6501, 6662, 6696, and 7701 of this title\] shall apply to taxable years beginning after the date of enactment of this Act \[July 4, 2025\].
+
+"(2) Material assistance from prohibited foreign entities.—The amendments made by subsection (b)(1) \[amending section 45Y of this title\] shall apply to facilities for which construction begins after December 31, 2025.
+
+"(3) Penalty for substantial misstatements on certification provided by supplier.—The amendments made by subsection (k) \[enacting section 6695B of this title and amending section 6696 of this title\] shall apply to certifications provided after December 31, 2025.
+
+"(4) Termination for wind and solar facilities.—The amendments made by subsection (a) \[amending section 45Y of this title\] shall apply to facilities the construction of which begins after the date which is 12 months after the date of enactment of this Act."
+
 #### Effective Date of 2022 Amendment
 
 Pub. L. 117–169, title I, §13101(k), Aug. 16, 2022, 136 Stat. 1913, provided that:
@@ -1350,9 +1388,11 @@ Section applicable to taxable years ending after Dec. 31, 1992, see section 1914
 
 Provisions relating to inflation adjustment of items in this section for certain years were contained in the following:
 
+**2024**—Internal Revenue Notice 2024–69.
+
 **2023**—Internal Revenue Notice 2023–51.
 
-2022–Internal Revenue Notice 2022–20.
+**2022**—Internal Revenue Notice 2022–20.
 
 **2021**—Internal Revenue Notice 2021–32.
 

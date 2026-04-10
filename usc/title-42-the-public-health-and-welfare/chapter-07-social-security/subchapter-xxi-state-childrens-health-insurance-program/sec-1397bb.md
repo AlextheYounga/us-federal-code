@@ -60,7 +60,7 @@ The plan shall include a description of procedures to be used to ensure—
 
 (C) that the insurance provided under the State child health plan does not substitute for coverage under group health plans;
 
-(D) the provision of child health assistance to targeted low-income children in the State who are Indians (as defined in section 1603(c) [1](#1397bb_1_target) of title 25); and
+(D) the provision of child health assistance to targeted low-income children in the State who are Indians (as defined in section 1603(c) [2](#1397bb_2_target) of title 25); and
 
 (E) coordination with other public and private programs providing creditable coverage for low-income children.
 
@@ -110,9 +110,21 @@ The State child health plan shall provide that—
 
 A State child health plan shall provide that, in the case of a targeted low-income child who is within 30 days of the date on which such child is scheduled to be released from a public institution following adjudication, the State shall have in place a plan for providing, and shall provide in accordance with such plan, screenings, diagnostic services, referrals, and case management services otherwise covered under the State child health plan (or waiver of such plan) in the same manner as described in section 1396a(a)(84)(D) of this title.
 
-(Aug. 14, 1935, ch. 531, title XXI, §2102, as added Pub. L. 105–33, title IV, §4901(a), Aug. 5, 1997, 111 Stat. 552; amended Pub. L. 111–3, title I, §111(b)(2), title II, §§201(b)(2)(B)(i), 212, title III, §302(a), title V, §501(a)(2), (b)(2), Feb. 4, 2009, 123 Stat. 28, 39, 55, 63, 85, 86; Pub. L. 111–148, title II, §2101(d)(1), Mar. 23, 2010, 124 Stat. 287; Pub. L. 111–152, title I, §1004(b)(2)(A), Mar. 30, 2010, 124 Stat. 1034; Pub. L. 114–198, title VII, §706(b)(2), July 22, 2016, 130 Stat. 754; Pub. L. 115–271, title V, §5022(c), Oct. 24, 2018, 132 Stat. 3964; Pub. L. 117–328, div. FF, title V, §5121(c)(1), Dec. 29, 2022, 136 Stat. 5942; Pub. L. 118–42, div. G, title I, §205(b)(1), Mar. 9, 2024, 138 Stat. 406.)
+(Aug. 14, 1935, ch. 531, title XXI, §2102, as added Pub. L. 105–33, title IV, §4901(a), Aug. 5, 1997, 111 Stat. 552; amended Pub. L. 111–3, title I, §111(b)(2), title II, §§201(b)(2)(B)(i), 212, title III, §302(a), title V, §501(a)(2), (b)(2), Feb. 4, 2009, 123 Stat. 28, 39, 55, 63, 85, 86; Pub. L. 111–148, title II, §2101(d)(1), Mar. 23, 2010, 124 Stat. 287; Pub. L. 111–152, title I, §1004(b)(2)(A), Mar. 30, 2010, 124 Stat. 1034; Pub. L. 114–198, title VII, §706(b)(2), July 22, 2016, 130 Stat. 754; Pub. L. 115–271, title V, §5022(c), Oct. 24, 2018, 132 Stat. 3964; Pub. L. 117–328, div. FF, title V, §5121(c)(1), Dec. 29, 2022, 136 Stat. 5942; Pub. L. 118–42, div. G, title I, §205(b)(1), Mar. 9, 2024, 138 Stat. 406; Pub. L. 119–21, title VII, §71112(c), July 4, 2025, 139 Stat. 299.)
 
-#### Applicability of Amendment
+#### Amendment of Subsection (b)(1)(B)
+
+Pub. L. 119–21, title VII, §71112(b), (d), July 4, 2025, 139 Stat. 299, provided that, applicable to medical assistance, child health assistance, and pregnancy-related assistance with respect to individuals whose eligibility for such assistance is based on an application made on or after the first day of the first quarter that begins after Dec. 31, 2026, subsection (b)(1)(B) of this section is amended—
+
+(1) in clause (iv), by striking "and" at the end;
+
+(2) in clause (v), by striking the period and inserting "; and"; and
+
+(3) by adding at the end the following new clause:
+
+*"(vi) shall, in the case that the State elects to provide child health or pregnancy-related assistance to an individual for any period prior to the month in which the individual made application for such assistance (or application was made on behalf of the individual), provide that such assistance is not made available to such individual for items and services included under the State child health plan (or waiver of such plan) that are furnished before the second month preceding the month in which such individual made application (or application was made on behalf of such individual) for assistance."*
+
+See 2025 Amendment note below.
 
 Amendment of section by section 205(b)(1) of title I of div. G of Pub. L. 118–42 applicable beginning Jan. 1, 2026. See 2024 Amendment notes below.
 
@@ -127,6 +139,8 @@ The Internal Revenue Code of 1986, referred to in subsec. (b)(1)(B)(v), is class
 Section 1603(c) of title 25, referred to in subsec. (b)(3)(D), was redesignated section 1603(13) of title 25 by Pub. L. 111–148, title X, §10221(a), Mar. 23, 2010, 124 Stat. 935.
 
 #### Amendments
+
+**2025**—Subsec. (b)(1)(B)(vi). Pub. L. 119–21 added cl. (vi).
 
 **2024**—Subsec. (d)(1)(A). Pub. L. 118–42, §205(b)(1)(B)–(D), inserted "or targeted low-income pregnant woman" after "targeted low-income child", "or pregnant woman" after "because the child", and "or pregnant woman" after "during the period the child".
 
@@ -156,6 +170,10 @@ Subsec. (c)(3). Pub. L. 111–3, §302(a), added par. (3).
 
 #### **Statutory Notes and Related Subsidiaries**
 
+#### Effective Date of 2025 Amendment
+
+Amendment by Pub. L. 119–21 applicable to medical assistance, child health assistance, and pregnancy-related assistance with respect to individuals whose eligibility for such assistance is based on an application made on or after the first day of the first quarter that begins after Dec. 31, 2026, see section 71112(d) of Pub. L. 119–21, set out as a note under section 1396a of this title.
+
 #### Effective Date of 2024 Amendment
 
 Pub. L. 118–42, div. G, title I, §205(b)(2), Mar. 9, 2024, 138 Stat. 406, provided that: "The amendments made by paragraph (1) \[amending this section\] shall apply beginning January 1, 2026."
@@ -178,4 +196,4 @@ Amendment by sections 111(b)(2), 201(b)(2)(B)(i), 212, 302(a), and 501(b)(2) of 
 
 Pub. L. 111–3, title V, §501(a)(3), Feb. 4, 2009, 123 Stat. 85, provided that: "The amendments made by paragraphs (1) and (2) \[amending this section and section 1397cc of this title\] shall apply to coverage of items and services furnished on or after October 1, 2009."
 
-[1 See References in Text note below.](#1397bb_1)
+[2 See References in Text note below.](#1397bb_2)

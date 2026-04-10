@@ -72,7 +72,7 @@ Sec.
 
 7433\. Grants to reduce air pollution at ports.
 
-7434\. Greenhouse gas reduction fund.
+7434\. Repealed.
 
 7435\. Low emissions electricity program.
 

@@ -190,7 +190,27 @@ The term "homeless youth" has the meaning given the term "homeless children and 
 
 The terms "unaccompanied", "unaccompanied youth", or "unaccompanied homeless youth" have the meaning given the term "unaccompanied youth" in section 11434a of title 42.
 
-(Pub. L. 89–329, title IV, §480, as added Pub. L. 99–498, title IV, §406(a), Oct. 17, 1986, 100 Stat. 1472; amended Pub. L. 100–50, §14(28), June 3, 1987, 101 Stat. 353; Pub. L. 100–369, §7(b), July 18, 1988, 102 Stat. 837; Pub. L. 101–610, title I, §185(3), (4), Nov. 16, 1990, 104 Stat. 3168; Pub. L. 102–325, title IV, §471(a), July 23, 1992, 106 Stat. 606; Pub. L. 103–82, title I, §102(c)(4), (5), Sept. 21, 1993, 107 Stat. 824; Pub. L. 103–208, §2(g)(17)–(20), Dec. 20, 1993, 107 Stat. 2474; Pub. L. 104–193, title I, §110(h)(2), Aug. 22, 1996, 110 Stat. 2172; Pub. L. 105–78, title VI, §609(j), (k), Nov. 13, 1997, 111 Stat. 1524; Pub. L. 105–244, title IV, §479, Oct. 7, 1998, 112 Stat. 1732; Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(d)(15)(B), (f)(12)(B)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–421, 2681–431; Pub. L. 109–171, title VIII, §8019, Feb. 8, 2006, 120 Stat. 176; Pub. L. 110–84, title VI, §604(a), Sept. 27, 2007, 121 Stat. 806; Pub. L. 110–153, §1(a), Dec. 21, 2007, 121 Stat. 1824; Pub. L. 110–315, title IV, §473(a)–(e), Aug. 14, 2008, 122 Stat. 3270, 3271; Pub. L. 111–39, title IV, §406(a)(6)–(8), July 1, 2009, 123 Stat. 1949, 1950; Pub. L. 113–128, title V, §512(n)(4), July 22, 2014, 128 Stat. 1710; Pub. L. 116–260, div. FF, title VII, §702(l)(2), Dec. 27, 2020, 134 Stat. 3163.)
+(Pub. L. 89–329, title IV, §480, as added Pub. L. 99–498, title IV, §406(a), Oct. 17, 1986, 100 Stat. 1472; amended Pub. L. 100–50, §14(28), June 3, 1987, 101 Stat. 353; Pub. L. 100–369, §7(b), July 18, 1988, 102 Stat. 837; Pub. L. 101–610, title I, §185(3), (4), Nov. 16, 1990, 104 Stat. 3168; Pub. L. 102–325, title IV, §471(a), July 23, 1992, 106 Stat. 606; Pub. L. 103–82, title I, §102(c)(4), (5), Sept. 21, 1993, 107 Stat. 824; Pub. L. 103–208, §2(g)(17)–(20), Dec. 20, 1993, 107 Stat. 2474; Pub. L. 104–193, title I, §110(h)(2), Aug. 22, 1996, 110 Stat. 2172; Pub. L. 105–78, title VI, §609(j), (k), Nov. 13, 1997, 111 Stat. 1524; Pub. L. 105–244, title IV, §479, Oct. 7, 1998, 112 Stat. 1732; Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(d)(15)(B), (f)(12)(B)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–421, 2681–431; Pub. L. 109–171, title VIII, §8019, Feb. 8, 2006, 120 Stat. 176; Pub. L. 110–84, title VI, §604(a), Sept. 27, 2007, 121 Stat. 806; Pub. L. 110–153, §1(a), Dec. 21, 2007, 121 Stat. 1824; Pub. L. 110–315, title IV, §473(a)–(e), Aug. 14, 2008, 122 Stat. 3270, 3271; Pub. L. 111–39, title IV, §406(a)(6)–(8), July 1, 2009, 123 Stat. 1949, 1950; Pub. L. 113–128, title V, §512(n)(4), July 22, 2014, 128 Stat. 1710; Pub. L. 116–260, div. FF, title VII, §702(l)(2), Dec. 27, 2020, 134 Stat. 3163; Pub. L. 119–21, title VIII, §80001(a), July 4, 2025, 139 Stat. 333.)
+
+#### Amendment of Subsection (f)(2)
+
+Pub. L. 119–21, title VIII, §80001, July 4, 2025, 139 Stat. 333, provided that, effective on July 1, 2026, and applicable with respect to award year 2026–2027 and each subsequent award year, as determined under this chapter, subsection (f)(2) of this section is amended as follows:
+
+(1) by striking "net value of the" and inserting "net value of—
+
+*"(A) the";*
+
+(2) by striking the period at the end and inserting a semicolon; and
+
+(3) by adding at the end the following:
+
+*"(B) a family farm on which the family resides;*
+
+*"(C) a small business with not more than 100 full-time or full-time equivalent employees (or any part of such a small business) that is owned and controlled by the family; or*
+
+*"(D) a commercial fishing business and related expenses, including fishing vessels and permits owned and controlled by the family."*
+
+See 2025 Amendment note below.
 
   
 
@@ -213,6 +233,8 @@ The Social Security Act, referred to in subsec. (i)(4), is act Aug. 14, 1935, ch
 Amendment by section 2(g)(19) of Pub. L. 103–208 (which was effective as if included in Pub. L. 102–325) was executed to this section as amended by Pub. L. 102–325 and Pub. L. 103–82, to reflect the probable intent of Congress.
 
 #### Amendments
+
+**2025**—Subsec. (f)(2). Pub. L. 119–21 inserted a dash after "net value of", designated remainder of existing provisions as subpar. (A), and added subpars. (B) to (D).
 
 **2020**—Pub. L. 116–260 amended section generally. Prior to amendment, section provided definitions for this part, including current balance of checking and savings accounts and special combat pay.
 
@@ -329,6 +351,10 @@ Subsecs. (f) to (h). Pub. L. 100–50, §14(28)(G), added subsecs. (f) to (h).
   
 
 #### **Statutory Notes and Related Subsidiaries**
+
+#### Effective Date of 2025 Amendment
+
+Pub. L. 119–21, title VIII, §80001(b), July 4, 2025, 139 Stat. 333, provided that: "The amendments made by subsection (a) \[amending this section\] shall take effect on July 1, 2026, and shall apply with respect to award year 2026–2027 and each subsequent award year, as determined under the Higher Education Act of 1965 (20 U.S.C. 1001 et seq.)."
 
 #### Effective Date of 2020 Amendment
 

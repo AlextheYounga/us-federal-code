@@ -70,7 +70,7 @@ In the case of any energy storage technology—
 
 #### (i) In general
 
-In the case of any qualified investment with respect to a qualified facility or with respect to energy storage technology which is placed in service within an energy community (as defined in section 45(b)(11)(B)), for purposes of applying paragraph (2) with respect to such property or investment, the applicable percentage shall be increased by the applicable credit rate increase.
+In the case of any qualified investment with respect to a qualified facility or with respect to energy storage technology which is placed in service within an energy community (as defined in section 45(b)(11)(B), as applied without regard to clause (iv) thereof), for purposes of applying paragraph (2) with respect to such property or investment, the applicable percentage shall be increased by the applicable credit rate increase.
 
 #### (ii) Applicable credit rate increase
 
@@ -82,7 +82,15 @@ For purposes of clause (i), the applicable credit rate increase shall be an amou
 
 #### (B) Domestic content
 
-Rules similar to the rules of section 48(a)(12) shall apply.
+Rules similar to the rules of section 48(a)(12) shall apply, except that, for purposes of subparagraph (B) of such section and the application of rules similar to the rules of section 45(b)(9)(B), the adjusted percentage (as determined under section 45(b)(9)(C)) shall be determined as follows:
+
+(i) In the case of any qualified investment with respect to any qualified facility or energy storage technology the construction of which begins before June 16, 2025, 40 percent (or, in the case of a qualified facility which is an offshore wind facility, 20 percent).
+
+(ii) In the case of any qualified investment with respect to any qualified facility or energy storage technology the construction of which begins on or after June 16, 2025, and before January 1, 2026, 45 percent (or, in the case of a qualified facility which is an offshore wind facility, 27.5 percent).
+
+(iii) In the case of any qualified investment with respect to any qualified facility or energy storage technology the construction of which begins during calendar year 2026, 50 percent (or, in the case of a qualified facility which is an offshore wind facility, 35 percent).
+
+(iv) In the case of any qualified investment with respect to any qualified facility or energy storage technology the construction of which begins after December 31, 2026, 55 percent.
 
 #### (b) Qualified investment with respect to a qualified facility
 
@@ -174,7 +182,11 @@ For purposes of this paragraph, the term "qualified interconnection property" ha
 
 The qualified investment with respect to any qualified facility for any taxable year shall not include that portion of the basis of any property which is attributable to qualified rehabilitation expenditures (as defined in section 47(c)(2)).
 
-#### (6) Definitions
+#### (6) Material assistance from prohibited foreign entities
+
+The terms "qualified facility" and "qualified interconnection property" shall not include any facility or property the construction, reconstruction, or erection of which begins after December 31, 2025, if the construction, reconstruction, or erection of such facility or property includes any material assistance from a prohibited foreign entity (as defined in section 7701(a)(52)).
+
+#### (7) Definitions
 
 For purposes of this subsection, the terms "CO2e per KWh" and "greenhouse gas emissions rate" have the same meaning given such terms under section 45Y.
 
@@ -187,6 +199,10 @@ For purposes of subsection (a), the qualified investment with respect to energy 
 #### (2) Energy storage technology
 
 For purposes of this section, the term "energy storage technology" has the meaning given such term in section 48(c)(6) (except that subparagraph (D) of such section shall not apply).
+
+#### (3) Material assistance from prohibited foreign entities
+
+The term "energy storage technology" shall not include any property the construction of which begins after December 31, 2025, if the construction of such property includes any material assistance from a prohibited foreign entity (as defined in section 7701(a)(52)).
 
 #### (d) Special rules
 
@@ -210,11 +226,25 @@ Rules similar to the rules of section 45(b)(8) shall apply.
 
 In the case of a taxpayer making an election under section 6417 with respect to a credit under this section, rules similar to the rules of section 45Y(g)(12) shall apply.
 
+#### (6) Restrictions relating to prohibited foreign entities
+
+#### (A) In general
+
+No credit shall be determined under subsection (a) for any taxable year if the taxpayer is—
+
+(i) a specified foreign entity (as defined in section 7701(a)(51)(B)), or
+
+(ii) a foreign-influenced entity (as defined in section 7701(a)(51)(D), without regard to clause (i)(II) thereof).
+
+#### (B) Effective control
+
+In the case of a taxpayer for which section 7701(a)(51)(D)(i)(II) is determined to apply for any taxable year, no credit shall be determined under subsection (a) for such taxable year if such determination relates to a qualified facility described in subsection (b)(3) or energy storage technology described in subsection (c)(2).
+
 #### (e) Credit phase-out
 
 #### (1) In general
 
-The amount of the clean electricity investment credit under subsection (a) for any qualified investment with respect to any qualified facility or energy storage technology the construction of which begins during a calendar year described in paragraph (2) shall be equal to the product of—
+Subject to paragraph (4), the amount of the clean electricity investment credit under subsection (a) for any qualified investment with respect to any qualified facility or energy storage technology the construction of which begins during a calendar year described in paragraph (2) shall be equal to the product of—
 
 (A) the amount of the credit determined under subsection (a) without regard to this subsection, multiplied by
 
@@ -235,6 +265,24 @@ The phase-out percentage under this paragraph is equal to—
 #### (3) Applicable year
 
 For purposes of this subsection, the term "applicable year" has the same meaning given such term in section 45Y(d)(3).
+
+#### (4) Termination for wind and solar facilities
+
+#### (A) In general
+
+This section shall not apply to any qualified property placed in service by the taxpayer after December 31, 2027, which is part of an applicable facility.
+
+#### (B) Applicable facility
+
+For purposes of this paragraph, the term "applicable facility" means a qualified facility which—
+
+(i) uses wind to produce electricity (within the meaning of such term as used in section 45(d)(1), as determined without regard to any requirement under such section with respect to the date on which construction of property begins), or
+
+(ii) uses solar energy to produce electricity (within the meaning of such term as used in section 45(d)(4), as determined without regard to any requirement under such section with respect to the date on which construction of property begins).
+
+#### (C) Exception
+
+This paragraph shall not apply with respect to any energy storage technology which is placed in service at any applicable facility.
 
 #### (f) Greenhouse gas
 
@@ -344,11 +392,25 @@ Any amount of environmental justice capacity limitation which expires under clau
 
 The Secretary shall, by regulations or other guidance, provide for recapturing the benefit of any increase in the credit allowed under subsection (a) by reason of this subsection with respect to any property which ceases to be property eligible for such increase (but which does not cease to be investment credit property within the meaning of section 50(a)). The period and percentage of such recapture shall be determined under rules similar to the rules of section 50(a). To the extent provided by the Secretary, such recapture may not apply with respect to any property if, within 12 months after the date the taxpayer becomes aware (or reasonably should have become aware) of such property ceasing to be property eligible for such increase, the eligibility of such property for such increase is restored. The preceding sentence shall not apply more than once with respect to any facility.
 
-#### (i) Guidance
+#### (i) Denial of credit for expenditures for wind and solar leasing arrangements
+
+No credit shall be determined under this section for any qualified investment during the taxable year with respect to property described in paragraph (1) or (4) of section 25D(d) (as applied by substituting "lessee" for "taxpayer") if the taxpayer rents or leases such property to a third party during such taxable year.
+
+#### (j) Application to qualified fuel cell property
+
+For purposes of this section, in the case of any qualified fuel cell property (as defined in section 48(c)(1), as applied without regard to subparagraph (E) thereof)—
+
+(1) subsection (b)(3)(A) shall be applied without regard to clause (iii) thereof,
+
+(2) for purposes of subsection (a)(1), the applicable percentage shall be 30 percent and such percentage shall not be increased or otherwise adjusted by any other provision of this section, and
+
+(3) subsection (g) shall not apply.
+
+#### (k) Guidance
 
 Not later than January 1, 2025, the Secretary shall issue guidance regarding implementation of this section.
 
-(Added Pub. L. 117–169, title I, §13702(a), Aug. 16, 2022, 136 Stat. 1990.)
+(Added Pub. L. 117–169, title I, §13702(a), Aug. 16, 2022, 136 Stat. 1990; amended Pub. L. 119–21, title VII, §§70512(f)(2), 70513(a)–(b)(2), (c)(1), (d), (f), July 4, 2025, 139 Stat. 267, 270–273.)
 
   
 
@@ -360,9 +422,39 @@ The date of the enactment of the Revenue Reconciliation Act of 1990, referred to
 
 The Housing Act of 1949, referred to in subsec. (h)(2)(B)(i), is act July 15, 1949, ch. 338, 63 Stat. 413. Title V of the Act is classified generally to subchapter III (§1471 et seq.) of chapter 8A of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1441 of Title 42 and Tables.
 
+#### Amendments
+
+**2025**—Subsec. (a)(3)(A)(i). Pub. L. 119–21, §70512(f)(2), inserted ", as applied without regard to clause (iv) thereof" after "section 45(b)(11)(B)".
+
+Subsec. (a)(3)(B). Pub. L. 119–21, §70513(d), amended subpar. (B) generally. Prior to amendment, text read as follows: "Rules similar to the rules of section 48(a)(12) shall apply."
+
+Subsec. (b)(6), (7). Pub. L. 119–21, §70513(b)(1)(A), added par. (6) and redesignated former par. (6) as (7).
+
+Subsec. (c)(3). Pub. L. 119–21, §70513(b)(1)(B), added par. (3).
+
+Subsec. (d)(6). Pub. L. 119–21, §70513(b)(2), added par. (6).
+
+Subsec. (e)(1). Pub. L. 119–21, §70513(a)(1), substituted "Subject to paragraph (4), the amount of" for "The amount of" in introductory provisions.
+
+Subsec. (e)(4). Pub. L. 119–21, §70513(a)(2), added par. (4).
+
+Subsec. (i). Pub. L. 119–21, §70513(c)(1)(B), added subsec. (i). Former subsec. (i) redesignated (j), then (k).
+
+Subsec. (j). Pub. L. 119–21, §70513(f)(2), added subsec. (j).
+
+Pub. L. 119–21, §70513(c)(1)(A), redesignated subsec. (i) as (j), which was subsequently redesignated (k).
+
+Subsec. (k). Pub. L. 119–21, §70513(f)(1), redesignated subsec. (j), as redesignated by section 70513(c)(1)(A), as (k).
+
   
 
 #### **Statutory Notes and Related Subsidiaries**
+
+#### Effective Date of 2025 Amendment
+
+Amendment by section 70512(f)(2) of Pub. L. 119–21 applicable to taxable years beginning after July 4, 2025, see section 70512(l)(1) of Pub. L. 119–21, set out in a note under section 45 of this title.
+
+Amendment by section 70513 of Pub. L. 119–21 applicable to taxable years beginning after July 4, 2025, except that amendment by section 70513(a) of Pub. L. 119–21 applicable to facilities the construction of which begins after the date which is 12 months after July 4, 2025, amendment by section 70513(d) of Pub. L. 119–21 applicable on or after June 16, 2025, and amendment by section 70513(f) of Pub. L. 119–21 applicable to property the construction of which begins after December 31, 2025, see section 70513(g)(1), (2), (4), (5) of Pub. L. 119–21, set out in a note under section 48 of this title.
 
 #### Effective Date
 

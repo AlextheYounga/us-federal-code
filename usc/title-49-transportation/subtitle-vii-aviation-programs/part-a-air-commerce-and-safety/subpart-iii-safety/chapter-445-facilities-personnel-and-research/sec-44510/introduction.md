@@ -1,3 +1,3 @@
-### §44510. Repealed. Pub. L. 118–63, title IV, §401(a), May 16, 2024, 138 Stat. 1148
+### \[§44510. Repealed. Pub. L. 118–63, title IV, §401(a), May 16, 2024, 138 Stat. 1148\]
 
 Section, Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1181, related to airway science curriculum grants.

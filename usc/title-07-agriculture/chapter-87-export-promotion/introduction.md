@@ -34,6 +34,8 @@ Sec.
 
 5623\. Agricultural trade promotion and facilitation.
 
+5623a. Supplemental agricultural trade promotion program.
+
 5624\. Barter of agricultural commodities.
 
 5625\. Combination of programs.

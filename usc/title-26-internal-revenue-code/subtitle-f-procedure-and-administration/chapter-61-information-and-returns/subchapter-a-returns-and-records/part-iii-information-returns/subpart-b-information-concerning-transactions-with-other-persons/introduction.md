@@ -82,11 +82,15 @@ Sec.
 
 6050Z. Reports relating to long-term care premium statements.
 
+6050AA. Returns relating to applicable passenger vehicle loan interest received in trade or business from individuals.
+
         
 
 #### **Editorial Notes**
 
 #### Amendments
+
+**2025**—Pub. L. 119–21, title VII, §70203(d)(2), July 4, 2025, 139 Stat. 179, added item 6050AA.
 
 **2022**—Pub. L. 117–328, div. T, title III, §334(d)(3), Dec. 29, 2022, 136 Stat. 5372, added item 6050Z.
 

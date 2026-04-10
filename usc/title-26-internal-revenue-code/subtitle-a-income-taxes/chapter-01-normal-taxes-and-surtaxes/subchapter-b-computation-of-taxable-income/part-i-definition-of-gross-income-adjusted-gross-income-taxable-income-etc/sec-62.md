@@ -486,7 +486,7 @@ Pub. L. 108–311, title III, §307(b), Oct. 4, 2004, 118 Stat. 1179, provided t
 
 #### Effective Date of 2003 Amendment
 
-Pub. L. 108–173, title XII, §1201(k), Dec. 8, 2003, 117 Stat. 2479, provided that: "The amendments made by this section \[enacting sections 223 and 4980G of this title, amending this section and sections 106, 125, 220, 848, 3231, 3306, 3401, 4973, 4975, 6051, and 6693 of this title, and renumbering former section 223 of this title as 224\] shall apply to taxable years beginning after December 31, 2003."
+Pub. L. 108–173, title XII, §1201(k), Dec. 8, 2003, 117 Stat. 2479, provided that: "The amendments made by this section \[enacting sections 223 and 4980G of this title, amending this section and sections 106, 125, 220, 848, 3231, 3306, 3401, 4973, 4975, 6051, and 6693 of this title, and renumbering former section 223 of this title as section 224\] shall apply to taxable years beginning after December 31, 2003."
 
 Pub. L. 108–121, title I, §109(c), Nov. 11, 2003, 117 Stat. 1342, provided that: "The amendments made by this section \[amending this section and section 162 of this title\] shall apply to amounts paid or incurred in taxable years beginning after December 31, 2002."
 
@@ -496,11 +496,11 @@ Pub. L. 107–147, title IV, §406(c), Mar. 9, 2002, 116 Stat. 44, provided that
 
 #### Effective Date of 2001 Amendment
 
-Pub. L. 107–16, title IV, §431(d), June 7, 2001, 115 Stat. 69, provided that: "The amendments made by this section \[enacting section 222 of this title, amending this section and sections 86, 135, 137, 219, 221, and 469 of this title, and renumbering former section 222 of this title as 223\] shall apply to payments made in taxable years beginning after December 31, 2001."
+Pub. L. 107–16, title IV, §431(d), June 7, 2001, 115 Stat. 69, provided that: "The amendments made by this section \[enacting section 222 of this title, amending this section and sections 86, 135, 137, 219, 221, and 469 of this title, and renumbering former section 222 of this title as section 223\] shall apply to payments made in taxable years beginning after December 31, 2001."
 
 #### Effective Date of 1997 Amendment
 
-Pub. L. 105–34, title II, §202(e), Aug. 5, 1997, 111 Stat. 809, provided that: "The amendments made by this section \[enacting section 221 of this title, amending this section and section 6050S of this title, and renumbering former section 221 of this title as section 222 of this title\] shall apply to any qualified education loan (as defined in section 221(e)(1) of the Internal Revenue Code of 1986, as added by this section) incurred on, before, or after the date of the enactment of this Act \[Aug. 5, 1997\], but only with respect to—
+Pub. L. 105–34, title II, §202(e), Aug. 5, 1997, 111 Stat. 809, provided that: "The amendments made by this section \[enacting section 221 of this title, amending this section and section 6050S of this title, and renumbering former section 221 of this title as section 222\] shall apply to any qualified education loan (as defined in section 221(e)(1) of the Internal Revenue Code of 1986, as added by this section) incurred on, before, or after the date of the enactment of this Act \[Aug. 5, 1997\], but only with respect to—
 
 "(1) any loan interest payment due and paid after December 31, 1997, and
 
@@ -510,7 +510,7 @@ Pub. L. 105–34, title IX, §975(b), Aug. 5, 1997, 111 Stat. 898, provided that
 
 #### Effective Date of 1996 Amendment
 
-Pub. L. 104–191, title III, §301(j), Aug. 21, 1996, 110 Stat. 2052, provided that: "The amendments made by this section \[enacting sections 220 and 4980E of this title, amending this section and sections 106, 125, 848, 3231, 3306, 3401, 4973, 4975, 6051, and 6693 of this title, and renumbering section 220 of this title as section 221\] shall apply to taxable years beginning after December 31, 1996."
+Pub. L. 104–191, title III, §301(j), Aug. 21, 1996, 110 Stat. 2052, provided that: "The amendments made by this section \[enacting sections 220 and 4980E of this title, amending this section and sections 106, 125, 848, 3231, 3306, 3401, 4973, 4975, 6051, and 6693 of this title, and renumbering former section 220 of this title as section 221\] shall apply to taxable years beginning after December 31, 1996."
 
 Amendment by Pub. L. 104–188 applicable to taxable years beginning after Dec. 31, 1999, with retention of certain transition rules, see section 1401(c) of Pub. L. 104–188, set out as a note under section 402 of this title.
 
@@ -528,7 +528,7 @@ Amendment by Pub. L. 102–318 applicable to distributions after Dec. 31, 1992, 
 
 Amendment by section 1001(b)(3)(A) of Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
 
-Pub. L. 100–647, title VI, §6007(d), Nov. 10, 1988, 102 Stat. 3687, provided that: "The amendments made by this section \[enacting section 220 of this title, amending this section, and renumbering former section 220 of this title as section 221 of this title\] shall apply as if included in the amendments made by section 132 of the Tax Reform Act of 1986 \[Pub. L. 99–514\]."
+Pub. L. 100–647, title VI, §6007(d), Nov. 10, 1988, 102 Stat. 3687, provided that: "The amendments made by this section \[enacting section 220 of this title, amending this section, and renumbering former section 220 of this title as section 221\] shall apply as if included in the amendments made by section 132 of the Tax Reform Act of 1986 \[Pub. L. 99–514\]."
 
 Pub. L. 100–485, title VII, §702(b), Oct. 13, 1988, 102 Stat. 2426, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply to taxable years beginning after December 31, 1988."
 
@@ -568,7 +568,7 @@ Amendment by Pub. L. 95–615 applicable to taxable years beginning after Dec. 3
 
 Pub. L. 94–455, title V, §502(c), Oct. 4, 1976, 90 Stat. 1559, provided that: "The amendments made by this section \[amending this section and section 3402 of this title\] shall apply to taxable years beginning after December 31, 1976."
 
-Pub. L. 94–455, title XV, §1501(d), Oct. 4, 1976, 90 Stat. 1737, provided that: "The amendments made by this section \[enacting section 220 of this title, amending this section and sections 219, 408, 409, 3401, 4973, and 6047 of this title, and renumbering former section 220 as 221 of this title\], other than the amendment made by subsection (b)(3), shall apply to taxable years beginning after December 31, 1976. The amendment made by subsection (b)(3) \[amending section 415 of this title\] shall apply to years beginning after December 31, 1976."
+Pub. L. 94–455, title XV, §1501(d), Oct. 4, 1976, 90 Stat. 1737, provided that: "The amendments made by this section \[enacting section 220 of this title, amending this section and sections 219, 408, 409, 3401, 4973, and 6047 of this title, and renumbering former section 220 of this title as section 221\], other than the amendment made by subsection (b)(3), shall apply to taxable years beginning after December 31, 1976. The amendment made by subsection (b)(3) \[amending section 415 of this title\] shall apply to years beginning after December 31, 1976."
 
 Amendment by section 1901(a)(8), (9) of Pub. L. 94–455 applicable with respect to taxable years beginning after Dec. 31, 1976, see section 1901(d) of Pub. L. 94–455, set out as a note under section 2 of this title.
 
@@ -586,7 +586,7 @@ Amendment by Pub. L. 91–172 applicable with respect to taxable years of electi
 
 #### Effective Date of 1964 Amendment
 
-Pub. L. 88–272, title II, §213(d), Feb. 26, 1964, 78 Stat. 52, provided that: "The amendments made by subsections (a) \[enacting section 217 and redesignating former section 217 as 218\] and (b) \[amending this section\] shall apply to expenses incurred after December 31, 1963, in taxable years ending after such date. The amendment made by subsection (c) \[amending section 3401 of this title\] shall apply with respect to remuneration paid after the seventh day following the date of the enactment of this Act \[Feb. 26, 1964\]."
+Pub. L. 88–272, title II, §213(d), Feb. 26, 1964, 78 Stat. 52, provided that: "The amendments made by subsections (a) \[enacting section 217 of this title and renumbering former section 217 of this title as section 218\] and (b) \[amending this section\] shall apply to expenses incurred after December 31, 1963, in taxable years ending after such date. The amendment made by subsection (c) \[amending section 3401 of this title\] shall apply with respect to remuneration paid after the seventh day following the date of the enactment of this Act \[Feb. 26, 1964\]."
 
 #### Effective Date of 1962 Amendment
 

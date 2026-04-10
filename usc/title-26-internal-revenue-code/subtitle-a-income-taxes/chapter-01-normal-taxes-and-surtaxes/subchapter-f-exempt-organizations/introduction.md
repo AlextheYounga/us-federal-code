@@ -20,11 +20,17 @@ VIII. Certain Savings Entities 1
 
         
 
+IX Trump Accounts 2
+
+        
+
   
 
 #### **Editorial Notes**
 
 #### Amendments
+
+**2025**—Pub. L. 119–21, title VII, §70204(a)(4)(A), July 4, 2025, 139 Stat. 185, added part IX heading.
 
 **2018**—Pub. L. 115–141, div. U, title IV, §401(a)(121), Mar. 23, 2018, 132 Stat. 1190, substituted "Certain Savings Entities" for "Certain Savings Entities." in part VIII heading.
 
@@ -41,3 +47,5 @@ VIII. Certain Savings Entities 1
 **1969**—Pub. L. 91–172, title I, §101(j)(58), Dec. 30, 1969, 83 Stat. 532, added part II heading, and redesignated former parts II, III and IV as parts III, IV and V, respectively.
 
 [1 So in original. Probably should be "Certain savings entities."](#SubchapterF_1)
+
+[2 So in original. Probably should be "Trump accounts."](#SubchapterF_2)

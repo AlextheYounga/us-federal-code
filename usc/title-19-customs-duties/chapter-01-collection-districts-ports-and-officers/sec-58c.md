@@ -262,8 +262,6 @@ With respect to merchandise that is classified under subheading 9802.00.60 or he
 
 (B) No fee may be charged under paragraph (9) or (10) of subsection (a) with respect to goods that qualify as originating goods under section 4531 of this title or qualify for duty-free treatment under Annex 6–A of the USMCA (as defined in section 4502 of this title). Any service for which an exemption from such fee is provided by reason of this paragraph may not be funded with money contained in the Customs User Fee Account.
 
-  
-
 Any service for which an exemption from such fee is provided by reason of this paragraph may not be funded with money contained in the Customs User Fee Account.
 
 (11) No fee may be charged under subsection (a)(9) or (10) with respect to products of Israel if an exemption with respect to the fee is implemented under section 112 of the Customs and Trade Act of 1990.

@@ -112,7 +112,7 @@ Sec.
 
 225\. Condition of lease, forfeiture for violation.
 
-226\. Lease of oil and gas lands.
+226\. Leasing of oil and gas parcels.
 
 226–1. Extension of noncompetitive oil or gas lease issued before September 2, 1960.
 

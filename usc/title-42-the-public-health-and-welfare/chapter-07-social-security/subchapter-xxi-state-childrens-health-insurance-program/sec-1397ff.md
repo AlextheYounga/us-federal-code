@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-As a condition of receiving payment under section 1397ee of this title, a State shall submit to the Secretary a State child health plan that meets the applicable requirements of this subchapter.
+As a condition of receiving payment under subsection (a) or (g) of section 1397ee of this title, a State shall submit to the Secretary a State child health plan that meets the applicable requirements of this subchapter.
 
 #### (2) Approval
 
@@ -76,4 +76,12 @@ The Secretary shall establish a process for enforcing requirements under this su
 
 An approved State child health plan shall continue in effect unless and until the State amends the plan under subsection (b) or the Secretary finds, under subsection (d), substantial noncompliance of the plan with the requirements of this subchapter.
 
-(Aug. 14, 1935, ch. 531, title XXI, §2106, as added Pub. L. 105–33, title IV, §4901(a), Aug. 5, 1997, 111 Stat. 563.)
+(Aug. 14, 1935, ch. 531, title XXI, §2106, as added Pub. L. 105–33, title IV, §4901(a), Aug. 5, 1997, 111 Stat. 563; amended Pub. L. 119–21, title VII, §71401(b)(3), July 4, 2025, 139 Stat. 332.)
+
+  
+
+#### **Editorial Notes**
+
+#### Amendments
+
+**2025**—Subsec. (a)(1). Pub. L. 119–21 inserted "subsection (a) or (g) of" before "section 1397ee of this title".

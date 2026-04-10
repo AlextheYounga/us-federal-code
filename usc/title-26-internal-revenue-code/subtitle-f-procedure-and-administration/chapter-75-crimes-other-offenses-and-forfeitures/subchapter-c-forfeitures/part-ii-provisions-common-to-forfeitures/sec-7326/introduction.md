@@ -4,7 +4,7 @@ Section, act Aug. 16, 1954, ch. 736, 68A Stat. 871; Pub. L. 85–859, title II, 
 
   
 
-#### **Editorial Notes**
+#### **Statutory Notes and Related Subsidiaries**
 
 #### Savings Provision
 

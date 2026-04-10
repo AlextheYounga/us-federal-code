@@ -264,7 +264,11 @@ The Secretary shall promulgate such regulations as necessary—
 
 (2) to provide for a recapture of the deduction allowed under this section if the plan described in subsection (c)(1)(D) is not fully implemented.
 
-(Added Pub. L. 109–58, title XIII, §1331(a), Aug. 8, 2005, 119 Stat. 1020; amended Pub. L. 109–432, div. A, title II, §204, Dec. 20, 2006, 120 Stat. 2945; Pub. L. 110–343, div. B, title III, §303, Oct. 3, 2008, 122 Stat. 3845; Pub. L. 113–295, div. A, title I, §158(a), Dec. 19, 2014, 128 Stat. 4022; Pub. L. 114–113, div. Q, title I, §190(a), title III, §341(a), (b), Dec. 18, 2015, 129 Stat. 3075, 3113; Pub. L. 115–123, div. D, title I, §40413(a), Feb. 9, 2018, 132 Stat. 151; Pub. L. 115–141, div. U, title IV, §401(a)(54), Mar. 23, 2018, 132 Stat. 1186; Pub. L. 116–94, div. Q, title I, §131(a), Dec. 20, 2019, 133 Stat. 3232; Pub. L. 116–260, div. EE, title I, §102(a)–(c), Dec. 27, 2020, 134 Stat. 3039, 3040; Pub. L. 117–169, title I, §13303(a), (c), Aug. 16, 2022, 136 Stat. 1947, 1952.)
+#### (i) Termination
+
+This section shall not apply with respect to property the construction of which begins after June 30, 2026.
+
+(Added Pub. L. 109–58, title XIII, §1331(a), Aug. 8, 2005, 119 Stat. 1020; amended Pub. L. 109–432, div. A, title II, §204, Dec. 20, 2006, 120 Stat. 2945; Pub. L. 110–343, div. B, title III, §303, Oct. 3, 2008, 122 Stat. 3845; Pub. L. 113–295, div. A, title I, §158(a), Dec. 19, 2014, 128 Stat. 4022; Pub. L. 114–113, div. Q, title I, §190(a), title III, §341(a), (b), Dec. 18, 2015, 129 Stat. 3075, 3113; Pub. L. 115–123, div. D, title I, §40413(a), Feb. 9, 2018, 132 Stat. 151; Pub. L. 115–141, div. U, title IV, §401(a)(54), Mar. 23, 2018, 132 Stat. 1186; Pub. L. 116–94, div. Q, title I, §131(a), Dec. 20, 2019, 133 Stat. 3232; Pub. L. 116–260, div. EE, title I, §102(a)–(c), Dec. 27, 2020, 134 Stat. 3039, 3040; Pub. L. 117–169, title I, §13303(a), (c), Aug. 16, 2022, 136 Stat. 1947, 1952; Pub. L. 119–21, title VII, §70507, July 4, 2025, 139 Stat. 251.)
 
 #### Inflation Adjusted Items for Certain Years
 
@@ -275,6 +279,8 @@ For inflation adjustment of certain items in this section, see Revenue Procedure
 #### **Editorial Notes**
 
 #### Amendments
+
+**2025**—Subsec. (i). Pub. L. 119–21 added subsec. (i).
 
 **2022**—Subsec. (b). Pub. L. 117–169, §13303(a)(1), amended subsec. (b) generally. Prior to amendment, text read as follows: "The deduction under subsection (a) with respect to any building for any taxable year shall not exceed the excess (if any) of—
 

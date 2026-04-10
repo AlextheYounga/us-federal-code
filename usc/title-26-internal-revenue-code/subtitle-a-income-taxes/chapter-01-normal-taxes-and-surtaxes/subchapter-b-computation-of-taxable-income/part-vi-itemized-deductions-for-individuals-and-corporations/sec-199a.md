@@ -2,7 +2,7 @@
 
 #### (a) Allowance of deduction
 
-In the case of a taxpayer other than a corporation, there shall be allowed as a deduction for any taxable year an amount equal to the lesser of—
+In the case of a taxpayer other than a corporation, except as provided in subsection (i), there shall be allowed as a deduction for any taxable year an amount equal to the lesser of—
 
 (1) the combined qualified business income amount of the taxpayer, or
 
@@ -48,7 +48,7 @@ In the case of any taxpayer whose taxable income for the taxable year does not e
 
 If—
 
-(I) the taxable income of a taxpayer for any taxable year exceeds the threshold amount, but does not exceed the sum of the threshold amount plus $50,000 ($100,000 in the case of a joint return), and
+(I) the taxable income of a taxpayer for any taxable year exceeds the threshold amount, but does not exceed the sum of the threshold amount plus $75,000 ($150,000 in the case of a joint return), and
 
 (II) the amount determined under paragraph (2)(B) (determined without regard to this subparagraph) with respect to any qualified trade or business carried on by the taxpayer is less than the amount determined under paragraph (2)(A) with respect such trade or business,
 
@@ -62,7 +62,7 @@ The amount determined under this subparagraph is the amount which bears the same
 
 (I) the amount by which the taxpayer's taxable income for the taxable year exceeds the threshold amount, bears to
 
-(II) $50,000 ($100,000 in the case of a joint return).
+(II) $75,000 ($150,000 in the case of a joint return).
 
 #### (iii) Excess amount
 
@@ -168,9 +168,11 @@ Qualified business income shall not include—
 
 (A) reasonable compensation paid to the taxpayer by any qualified trade or business of the taxpayer for services rendered with respect to the trade or business,
 
-(B) any guaranteed payment described in section 707(c) paid to a partner for services rendered with respect to the trade or business, and
+(B) any guaranteed payment described in section 707(c) paid to a partner for services rendered with respect to the trade or business,
 
-(C) to the extent provided in regulations, any payment described in section 707(a) to a partner for services rendered with respect to the trade or business.
+(C) to the extent provided in regulations, any payment described in section 707(a) to a partner for services rendered with respect to the trade or business, and
+
+(D) any amount with respect to which a deduction is allowable to the taxpayer under section 224(a) for the taxable year.
 
 #### (d) Qualified trade or business
 
@@ -196,7 +198,7 @@ The term "specified service trade or business" means any trade or business—
 
 #### (A) In general
 
-If, for any taxable year, the taxable income of any taxpayer is less than the sum of the threshold amount plus $50,000 ($100,000 in the case of a joint return), then—
+If, for any taxable year, the taxable income of any taxpayer is less than the sum of the threshold amount plus $75,000 ($150,000 in the case of a joint return), then—
 
 (i) any specified service trade or business of the taxpayer shall not fail to be treated as a qualified trade or business due to paragraph (1)(A), but
 
@@ -208,7 +210,7 @@ For purposes of subparagraph (A), the term "applicable percentage" means, with r
 
 (i) the taxable income of the taxpayer for the taxable year in excess of the threshold amount, bears to
 
-(ii) $50,000 ($100,000 in the case of a joint return).
+(ii) $75,000 ($150,000 in the case of a joint return).
 
 #### (e) Other definitions
 
@@ -216,7 +218,7 @@ For purposes of this section—
 
 #### (1) Taxable income
 
-Except as otherwise provided in subsection (g)(2)(B), taxable income shall be computed without regard to any deduction allowable under this section.
+Except as otherwise provided in subsection (g)(2)(B), taxable income shall be computed without regard to section 68 and without regard to any deduction allowable under this section.
 
 #### (2) Threshold amount
 
@@ -338,7 +340,7 @@ In the case of any eligible taxpayer who receives a qualified payment from a spe
 
 #### (B) Limitation based on taxable income
 
-The deduction allowed to any taxpayer under this paragraph shall not exceed the taxable income of the taxpayer determined without regard to the deduction allowed under this paragraph and after taking into account any deduction allowed to the taxpayer under subsection (a) for the taxable year.
+The deduction allowed to any taxpayer under this paragraph shall not exceed the taxable income of the taxpayer determined without regard to section 68 or the deduction allowed under this paragraph and after taking into account any deduction allowed to the taxpayer under subsection (a) for the taxable year.
 
 #### (C) Cooperative denied deduction for portion of qualified payments
 
@@ -488,11 +490,41 @@ The Secretary shall—
 
 (2) prescribe rules for determining the unadjusted basis immediately after acquisition of qualified property acquired in like-kind exchanges or involuntary conversions.
 
-#### (i) Termination
+#### (i) Minimum deduction for active qualified business income
 
-This section shall not apply to taxable years beginning after December 31, 2025.
+#### (1) In general
 
-(Added Pub. L. 115–97, title I, §11011(a), Dec. 22, 2017, 131 Stat. 2063; amended Pub. L. 115–141, div. T, §101(a)(1), (2)(A), (C), (b), Mar. 23, 2018, 132 Stat. 1151, 1155.)
+In the case of an applicable taxpayer for any taxable year, the deduction allowed under subsection (a) for the taxable year shall be equal to the greater of—
+
+(A) the amount of such deduction determined without regard to this subsection, or
+
+(B) $400.
+
+#### (2) Applicable taxpayer
+
+For purposes of this subsection—
+
+#### (A) In general
+
+The term "applicable taxpayer" means, with respect to any taxable year, a taxpayer whose aggregate qualified business income with respect to all active qualified trades or businesses of the taxpayer for such taxable year is at least $1,000.
+
+#### (B) Active qualified trade or business
+
+The term "active qualified trade or business" means, with respect to any taxpayer for any taxable year, any qualified trade or business of the taxpayer in which the taxpayer materially participates (within the meaning of section 469(h)).
+
+#### (3) Inflation adjustment
+
+In the case of any taxable year beginning after 2026, the $400 amount in paragraph (1)(B) and the $1,000 amount in paragraph (2)(A) shall each be increased by an amount equal to —
+
+(A) such dollar amount, multiplied by
+
+(B) the cost-of-living adjustment determined under section 1(f)(3) for the calendar year in which the taxable year begins, determined by substituting "calendar year 2025" for "calendar year 2016" in subparagraph (A)(ii) thereof.
+
+  
+
+If any increase under this paragraph is not a multiple of $5, such increase shall be rounded to the nearest multiple of $5
+
+(Added Pub. L. 115–97, title I, §11011(a), Dec. 22, 2017, 131 Stat. 2063; amended Pub. L. 115–141, div. T, §101(a)(1), (2)(A), (C), (b), Mar. 23, 2018, 132 Stat. 1151, 1155; Pub. L. 119–21, title VII, §§70105(a), (b), 70111(b), 70201(d), July 4, 2025, 139 Stat. 161, 165, 171.)
 
 #### Inflation Adjusted Items for Certain Years
 
@@ -507,6 +539,20 @@ For inflation adjustment of certain items in this section, see Revenue Procedure
 Section 199(d)(1)(B)(i) (as in effect on December 1, 2017), referred to in subsec. (f)(1)(B), means section 199(d)(1)(B)(i) of this title prior to repeal of section 199 by Pub. L. 115–97, title I, §13305(a), Dec. 22, 2017, 131 Stat. 2126.
 
 #### Amendments
+
+**2025**—Subsec. (a). Pub. L. 119–21, §70105(b)(2), inserted "except as provided in subsection (i)," before "there" in introductory provisions.
+
+Subsec. (b)(3)(B). Pub. L. 119–21, §70105(a)(1), substituted "$75,000 ($150,000 in the case of a joint return)" for "$50,000 ($100,000 in the case of a joint return)" in two places.
+
+Subsec. (c)(4)(D). Pub. L. 119–21, §70201(d), added subpar. (D).
+
+Subsec. (d)(3). Pub. L. 119–21, §70105(a)(2), substituted "$75,000 ($150,000 in the case of a joint return)" for "$50,000 ($100,000 in the case of a joint return)" in two places.
+
+Subsec. (e)(1). Pub. L. 119–21, §70111(b)(1), inserted "without regard to section 68 and" after "shall be computed".
+
+Subsec. (g)(2)(B). Pub. L. 119–21, §70111(b)(2), inserted "section 68 or" after "without regard to".
+
+Subsec. (i). Pub. L. 119–21, §70105(b)(1), amended subsec. (i) generally. Prior to amendment, text read as follows: "This section shall not apply to taxable years beginning after December 31, 2025."
 
 **2018**—Subsec. (a). Pub. L. 115–141, §101(b)(1), amended subsec. (a) generally. Prior to amendment, subsec. (a) provided equation for allowed deduction for any taxable year, which included special deduction for qualified cooperative dividends.
 
@@ -529,6 +575,14 @@ Subsec. (g). Pub. L. 115–141, §101(a)(1), amended subsec. (g) generally. Prio
   
 
 #### **Statutory Notes and Related Subsidiaries**
+
+#### Effective Date of 2025 Amendment
+
+Pub. L. 119–21, title VII, §70105(c), July 4, 2025, 139 Stat. 162, provided that: "The amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 2025."
+
+Amendment by section 70111(b) of Pub. L. 119–21 applicable to taxable years beginning after Dec. 31, 2025, see section 70111(c) of Pub. L. 119–21, set out as a note under section 68 of this title.
+
+Amendment by section 70201(d) of Pub. L. 119–21 applicable to taxable years beginning after Dec. 31, 2024, see section 70201(j) of Pub. L. 119–21, set out as a note under section 45B of this title.
 
 #### Effective Date of 2018 Amendment
 

@@ -194,7 +194,7 @@ Each applicant for certification shall have 2 years from the date of acceptance 
 
 #### (C) Period of issuance
 
-An applicant which receives a certification shall have 2 years from the date of issuance of the certification in order to place the project in service and to notify the Secretary that such project has been so placed in service, and if such project is not placed in service by that time period, then the certification shall no longer be valid. If any certification is revoked under this subparagraph, the amount of the limitation under paragraph (2) shall be increased by the amount of the credit with respect to such revoked certification.
+An applicant which receives a certification shall have 2 years from the date of issuance of the certification in order to place the project in service and to notify the Secretary that such project has been so placed in service, and if such project is not placed in service by that time period, then the certification shall no longer be valid. If any certification is revoked under this subparagraph, the amount of the limitation under paragraph (2) shall not be increased by the amount of the credit with respect to such revoked certification.
 
 #### (D) Location of project
 
@@ -232,7 +232,7 @@ The Secretary shall, upon making a certification under this subsection, publicly
 
 A credit shall not be allowed under this section for any qualified investment for which a credit is allowed under section 48, 48A, 48B, 48E, 45Q, or 45V.
 
-(Added Pub. L. 111–5, div. B, title I, §1302(b), Feb. 17, 2009, 123 Stat. 345; amended Pub. L. 113–295, div. A, title II, §§209(g), 221(a)(2)(C), Dec. 19, 2014, 128 Stat. 4029, 4037; Pub. L. 117–169, title I, §13501(a)–(d), Aug. 16, 2022, 136 Stat. 1969–1971.)
+(Added Pub. L. 111–5, div. B, title I, §1302(b), Feb. 17, 2009, 123 Stat. 345; amended Pub. L. 113–295, div. A, title II, §§209(g), 221(a)(2)(C), Dec. 19, 2014, 128 Stat. 4029, 4037; Pub. L. 117–169, title I, §13501(a)–(d), Aug. 16, 2022, 136 Stat. 1969–1971; Pub. L. 119–21, title VII, §70515(a), July 4, 2025, 139 Stat. 276.)
 
   
 
@@ -247,6 +247,8 @@ The date of enactment of this section, referred to in subsec. (d)(1)(A), (4)(A),
 The date of enactment of this subsection, referred to in subsec. (e)(1), (2)(B), is the date of enactment of Pub. L. 117–169, which was approved Aug. 16, 2022.
 
 #### Amendments
+
+**2025**—Subsec. (e)(3)(C). Pub. L. 119–21 substituted "shall not be increased" for "shall be increased".
 
 **2022**—Subsec. (c)(1)(A). Pub. L. 117–169, §13501(b)(1), inserted ", any portion of the qualified investment of which is certified by the Secretary under subsection (e) as eligible for a credit under this section" after "means a project" in introductory provisions.
 
@@ -279,6 +281,10 @@ Subsec. (c)(1)(A)(i)(VI). Pub. L. 113–295, §221(a)(2)(C), struck out ", qual
   
 
 #### **Statutory Notes and Related Subsidiaries**
+
+#### Effective Date of 2025 Amendment
+
+Pub. L. 119–21, title VII, §70515(b), July 4, 2025, 139 Stat. 276, provided that: "The amendment made by this section \[amending this section\] shall take effect on the date of enactment of this Act \[July 4, 2025\]."
 
 #### Effective Date of 2022 Amendment
 

@@ -14,4 +14,8 @@ Sec.
 
 3006\. Ensuring energy security.
 
+3007\. Renewable energy fees on Federal land.
+
+3008\. Renewable energy revenue sharing.
+
         

@@ -124,11 +124,23 @@ In the case of an organization subject to tax under section 511, adjusted financ
 
 Adjusted financial statement income shall be—
 
-(A) reduced by depreciation deductions allowed under section 167 with respect to property to which section 168 applies to the extent of the amount allowed as deductions in computing taxable income for the taxable year, and
+(A) reduced by—
+
+(i) depreciation deductions allowed under section 167 with respect to property to which section 168 applies to the extent of the amount allowed as deductions in computing taxable income for the year, and
+
+(ii) any deduction allowed for expenses under section 263(c) (including any deduction for such expenses under section 59(e) or 291(b)(2)) with respect to property described therein to the extent of the amount allowed as deductions in computing taxable income for the year, and
+
+  
 
 (B) appropriately adjusted—
 
-(i) to disregard any amount of depreciation expense that is taken into account on the taxpayer's applicable financial statement with respect to such property, and
+(i) to disregard any amount of—
+
+(I) depreciation expense that is taken into account on the taxpayer's applicable financial statement with respect to such property, and
+
+(II) depletion expense that is taken into account on the taxpayer's applicable financial statement with respect to the intangible drilling and development costs of such property, and
+
+  
 
 (ii) to take into account any other item specified by the Secretary in order to provide that such property is accounted for in the same manner as it is accounted for under this chapter.
 
@@ -184,7 +196,7 @@ For purposes of this subsection, the term "financial statement net operating los
 
 The Secretary shall provide for such regulations and other guidance as necessary to carry out the purposes of this section, including regulations and other guidance relating to the effect of the rules of this section on partnerships with income taken into account by an applicable corporation.
 
-(Added Pub. L. 117–169, title I, §10101(b)(1), Aug. 16, 2022, 136 Stat. 1822.)
+(Added Pub. L. 117–169, title I, §10101(b)(1), Aug. 16, 2022, 136 Stat. 1822; amended Pub. L. 119–21, title VII, §70523(a), July 4, 2025, 139 Stat. 281.)
 
   
 
@@ -194,9 +206,19 @@ The Secretary shall provide for such regulations and other guidance as necessary
 
 The date of enactment of this section, referred to in subsec. (c)(14)(B)(ii), is the date of enactment of Pub. L. 117–169, which was approved Aug. 16, 2022.
 
+#### Amendments
+
+**2025**—Subsec. (c)(13)(A). Pub. L. 119–21, §70523(a)(1), added subpar. (A) and struck out former subpar. (A) which read as follows: "reduced by depreciation deductions allowed under section 167 with respect to property to which section 168 applies to the extent of the amount allowed as deductions in computing taxable income for the taxable year, and".
+
+Subsec. (c)(13)(B)(i). Pub. L. 119–21, §70523(a)(2), added cl. (i) and struck out former cl (i) which read as follows: "to disregard any amount of depreciation expense that is taken into account on the taxpayer's applicable financial statement with respect to such property, and".
+
   
 
 #### **Statutory Notes and Related Subsidiaries**
+
+#### Effective Date of 2025 Amendment
+
+Pub. L. 119–21, title VII, §70523(b), July 4, 2025, 139 Stat. 281, provided that: "The amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 2025."
 
 #### Effective Date
 

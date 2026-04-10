@@ -4,7 +4,9 @@ Sec.
 
 951\. Amounts included in gross income of United States shareholders.
 
-951A. Global intangible low-taxed income included in gross income of United States shareholders.
+951A. Net CFC tested income included in gross income of United States shareholders.
+
+951B. Amounts included in gross income of foreign controlled United States shareholders.
 
 952\. Subpart F income defined.
 
@@ -41,6 +43,8 @@ Sec.
 #### **Editorial Notes**
 
 #### Amendments
+
+**2025**—Pub. L. 119–21, title VII, §§70323(a)(3)(E)(ii), 70353(c), July 4, 2025, 139 Stat. 205, 210, substituted "Global intangible low-taxed income" for "Global intangible low-taxed income" in item 951A and added item 951B.
 
 **2017**—Pub. L. 115–97, title I, §§14103(b), 14201(c), 14212(b)(6), 14301(c)(39), Dec. 22, 2017, 131 Stat. 2208, 2213, 2217, 2225, added item 951A, substituted "Deemed paid credit for subpart F inclusions" for "Special rules for foreign tax credit" in item 960 and "Treatment of deferred foreign income upon transition to participation exemption system of taxation" for "Temporary dividends received deduction" in item 965, and struck out item 955 "Withdrawal of previously excluded subpart F income from qualified investment".
 

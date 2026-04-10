@@ -108,6 +108,36 @@ The Small Business Act, referred to in subsec. (i)(1), is Pub. L. 85–536, §2(
 
 Amendment by Pub. L. 101–626 not applicable to certain long-term timber sale contracts, see section 105(c) of Pub. L. 101–626, set out as a note under section 539d of this title.
 
+#### Timber Sales and Long-Term Contracting for the Forest Service
+
+Pub. L. 119–21, title V, §50301(a), July 4, 2025, 139 Stat. 146, provided that:
+
+"(1) Definitions.—In this subsection:
+
+"(A) Forest plan.—The term 'forest plan' means a land and resource management plan prepared by the Secretary for a unit of the National Forest System pursuant to section 6 of the Forest and Rangeland Renewable Resources Planning Act of 1974 (16 U.S.C. 1604).
+
+"(B) National forest system.—
+
+"(i) In general.—The term 'National Forest System' means land of the National Forest System (as defined in section 11(a) of the Forest and Rangeland Renewable Resources Planning Act of 1974 (16 U.S.C. 1609(a))) administered by the Secretary.
+
+"(ii) Exclusions.—The term 'National Forest System' does not include any forest reserve not created from the public domain.
+
+"(C) Secretary.—The term 'Secretary' means the Secretary of Agriculture, acting through the Chief of the Forest Service.
+
+"(2) Timber sales on public domain forest reserves.—
+
+"(A) In general.—For each of fiscal years 2026 through 2034, the Secretary shall sell timber annually on National Forest System land in a total quantity that is not less than 250,000,000 board-feet greater than the quantity of board-feet sold in the previous fiscal year.
+
+"(B) Limitation.—The timber sales under subparagraph (A) shall be subject to the maximum allowable sale quantity of timber or the projected timber sale quantity under the applicable forest plan in effect on the date of enactment of this Act \[July 4, 2025\].
+
+"(3) Long-term contracting for the forest service.—
+
+"(A) Long-term contracting.—For the period of fiscal years 2025 through 2034, the Secretary shall enter into not fewer than 40 long-term timber sale contracts with private persons or other public or private entities under subsection (a) of section 14 of the National Forest Management Act of 1976 (16 U.S.C. 472a) for the sale of national forest materials (as defined in subsection (e)(1) of that section) in the National Forest System.
+
+"(B) Contract length.—The period of a timber sale contract entered into to meet the requirement under subparagraph (A) shall be not less than 20 years, with options for extensions or renewals, as determined by the Secretary.
+
+"(C) Receipts.—Any monies derived from a timber sale contract entered into to meet the requirements under subparagraphs (A) and (B) shall be deposited in the general fund of the Treasury."
+
 #### Qualifying Timber Contract Options
 
 Pub. L. 110–234, title VIII, §8401, May 22, 2008, 122 Stat. 1300, and Pub. L. 110–246, §4(a), title VIII, §8401, June 18, 2008, 122 Stat. 1664, 2061, provided that:

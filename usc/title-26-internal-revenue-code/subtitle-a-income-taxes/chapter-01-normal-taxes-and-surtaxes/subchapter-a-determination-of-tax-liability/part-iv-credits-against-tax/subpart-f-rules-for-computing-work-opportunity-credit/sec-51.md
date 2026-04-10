@@ -462,7 +462,7 @@ The Rehabilitation Act of 1973, referred to in subsec. (d)(6)(B)(i), is Pub. L. 
 
 Section 212 of Public Law 93–66, referred to in subsec. (d)(9), is set out as a note under section 1382 of Title 42, The Public Health and Welfare.
 
-Act of June 6, 1933, referred to in subsec. (d)(12), is act June 6, 1933, ch. 49, 48 Stat. 113, as amended, popularly known as the Wagner-Peyser Act, which is classified generally to chapter 4B (§49 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 49 of Title 29 and Tables.
+Act of June 6, 1933, referred to in subsec. (d)(12), is act June 6, 1933, ch. 49, 48 Stat. 113, popularly known as the Wagner-Peyser Act, which is classified generally to chapter 4B (§49 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 49 of Title 29 and Tables.
 
 #### Codification
 

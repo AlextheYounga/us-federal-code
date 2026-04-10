@@ -2,7 +2,7 @@
 
 Sec.
 
-6301\. Collection authority
+6301\. Collection authority.
 
 6302\. Mode or time of collection.
 

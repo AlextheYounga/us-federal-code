@@ -226,7 +226,7 @@ Sec.
 
 2344\. Financial assistance.
 
-2345\. Conditions for financial assistance
+2345\. Conditions for financial assistance.
 
 2345a. Omitted.
 

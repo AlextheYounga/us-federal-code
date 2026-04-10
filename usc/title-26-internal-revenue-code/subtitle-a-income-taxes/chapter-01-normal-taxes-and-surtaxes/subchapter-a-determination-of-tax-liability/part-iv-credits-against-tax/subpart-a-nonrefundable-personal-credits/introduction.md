@@ -22,6 +22,8 @@ Sec.
 
 25E. Previously-owned clean vehicles.
 
+25F. Qualified elementary and secondary education scholarships.
+
 26\. Limitation based on tax liability; definition of tax liability.
 
         
@@ -29,6 +31,8 @@ Sec.
 #### **Editorial Notes**
 
 #### Amendments
+
+**2025**—Pub. L. 119–21, title VII, §70411(a)(2)(B), July 4, 2025, 139 Stat. 217, added item 25F.
 
 **2022**—Pub. L. 117–169, title I, §§13301(h)(2), 13302(c)(3), 13402(d), Aug. 16, 2022, 136 Stat. 1946, 1947, 1964, added items 25C to 25E and struck out former items 25C "Nonbusiness energy property" and 25D "Residential energy efficient property".
 

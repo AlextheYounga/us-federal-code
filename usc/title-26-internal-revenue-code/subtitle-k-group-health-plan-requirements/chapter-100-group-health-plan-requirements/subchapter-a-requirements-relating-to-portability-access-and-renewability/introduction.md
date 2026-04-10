@@ -8,7 +8,7 @@ Sec.
 
 9803\. Guaranteed renewability in multiemployer plans and certain multiple employer welfare arrangements.
 
-\[9804–9806. Renumbered.\]
+\[9804 to 9806. Renumbered.\]
 
         
 

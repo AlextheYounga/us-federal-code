@@ -24,13 +24,17 @@ Sec.
 
 1061\. Partnership interests held in connection with performance of services.
 
-1062\. Cross references.
+1062\. Gain from the sale or exchange of qualified farmland property to qualified farmers.
+
+1063\. Cross references.
 
         
 
 #### **Editorial Notes**
 
 #### Amendments
+
+**2025**—Pub. L. 119–21, title VII, §70437(b), July 4, 2025, 139 Stat. 250, added item 1062 and renumbered former item 1062 as 1063.
 
 **2017**—Pub. L. 115–97, title I, §13309(b), Dec. 22, 2017, 131 Stat. 2131, added items 1061 and 1062 and struck out former item 1061 "Cross references".
 

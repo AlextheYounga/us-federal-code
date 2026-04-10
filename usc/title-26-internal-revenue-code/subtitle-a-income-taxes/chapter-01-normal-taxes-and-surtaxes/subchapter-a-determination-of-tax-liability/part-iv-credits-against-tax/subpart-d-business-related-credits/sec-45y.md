@@ -68,9 +68,25 @@ The term "qualified facility" shall include either of the following in connectio
 
 (ii) Any additions of capacity which are placed in service after December 31, 2024.
 
-#### (D) Coordination with other credits
+#### (D) Determination of capacity
+
+For purposes of subparagraph (C), additions of capacity of a facility shall be determined in any reasonable manner, including based on—
+
+(i) determinations by, or reports to, the Federal Energy Regulatory Commission (including interconnection agreements), the Nuclear Regulatory Commission, or any similar entity, reflecting additions of capacity,
+
+(ii) determinations or reports reflecting additions of capacity made by an independent professional engineer,
+
+(iii) reports to, or issued by, regional transmission organizations or independent system operators reflecting additions of capacity, or
+
+(iv) any other method or manner provided by the Secretary.
+
+#### (E) [1](#45Y_1_target) Coordination with other credits
 
 The term "qualified facility" shall not include any facility for which a credit determined under section 45, 45J, 45Q, 45U, 48, 48A, or 48E is allowed under section 38 for the taxable year or any prior taxable year.
+
+#### (E) [1](#45Y_1_target) Material assistance from prohibited foreign entities
+
+The term "qualified facility" shall not include any facility for which construction begins after December 31, 2025, if the construction of such facility includes any material assistance from a prohibited foreign entity (as defined in section 7701(a)(52)).
 
 #### (2) Greenhouse gas emissions rate
 
@@ -91,6 +107,10 @@ The Secretary shall annually publish a table that sets forth the greenhouse gas 
 #### (ii) Provisional emissions rate
 
 In the case of any facility for which an emissions rate has not been established by the Secretary, a taxpayer which owns such facility may file a petition with the Secretary for determination of the emissions rate with respect to such facility.
+
+#### (iii) Existing studies
+
+For purposes of clause (i), in determining greenhouse gas emissions rates for types or categories of facilities for the purpose of determining whether a facility satisfies the requirements under paragraph (1), the Secretary shall consider studies published on or before the date of enactment of this clause which demonstrate a net lifecycle greenhouse gas emissions rate which is not greater than zero using widely accepted lifecycle assessment concepts, such as concepts described in standards developed by the International Organization for Standardization.
 
 #### (D) Carbon capture and sequestration equipment
 
@@ -118,7 +138,7 @@ The term "inflation adjustment factor" means, with respect to a calendar year, a
 
 #### (1) In general
 
-The amount of the clean electricity production credit under subsection (a) for any qualified facility the construction of which begins during a calendar year described in paragraph (2) shall be equal to the product of—
+Subject to paragraph (4), the amount of the clean electricity production credit under subsection (a) for any qualified facility the construction of which begins during a calendar year described in paragraph (2) shall be equal to the product of—
 
 (A) the amount of the credit determined under subsection (a) without regard to this subsection, multiplied by
 
@@ -138,11 +158,21 @@ The phase-out percentage under this paragraph is equal to—
 
 #### (3) Applicable year
 
-For purposes of this subsection, the term "applicable year" means the later of—
+For purposes of this subsection, the term "applicable year" means calendar year 2032.
 
-(A) the calendar year in which the Secretary determines that the annual greenhouse gas emissions from the production of electricity in the United States are equal to or less than 25 percent of the annual greenhouse gas emissions from the production of electricity in the United States for calendar year 2022, or
+#### (4) Termination for wind and solar facilities
 
-(B) 2032.
+#### (A) In general
+
+This section shall not apply with respect to any applicable facility placed in service after December 31, 2027.
+
+#### (B) Applicable facility
+
+For purposes of this paragraph, the term "applicable facility" means a qualified facility which—
+
+(i) uses wind to produce electricity (within the meaning of such term as used in section 45(d)(1), as determined without regard to any requirement under such section with respect to the date on which construction of property begins), or
+
+(ii) uses solar energy to produce electricity (within the meaning of such term as used in section 45(d)(4), as determined without regard to any requirement under such section with respect to the date on which construction of property begins).
 
 #### (e) Definitions
 
@@ -368,7 +398,25 @@ For purposes of this paragraph, the Secretary shall provide exceptions to the re
 
 In any case in which the Secretary provides an exception pursuant to clause (i), the applicable percentage shall be 100 percent.
 
-(Added Pub. L. 117–169, title I, §13701(a), Aug. 16, 2022, 136 Stat. 1982.)
+#### (13) Restrictions relating to prohibited foreign entities
+
+#### (A) In general
+
+No credit shall be determined under subsection (a) for any taxable year if the taxpayer is—
+
+(i) a specified foreign entity (as defined in section 7701(a)(51)(B)), or
+
+(ii) a foreign-influenced entity (as defined in section 7701(a)(51)(D), without regard to clause (i)(II) thereof).
+
+#### (B) Effective control
+
+In the case of a taxpayer for which section 7701(a)(51)(D)(i)(II) is determined to apply for any taxable year, no credit shall be determined under subsection (a) for such taxable year if such determination relates to a qualified facility described in subsection (b)(1).
+
+#### (h) Denial of credit for wind and solar leasing arrangements
+
+No credit shall be determined under this section with respect to any production of electricity during the taxable year with respect to property described in paragraph (1) or (4) of section 25D(d) (as applied by substituting "lessee" for "taxpayer") if the taxpayer rents or leases such property to a third party during such taxable year.
+
+(Added Pub. L. 117–169, title I, §13701(a), Aug. 16, 2022, 136 Stat. 1982; amended Pub. L. 119–21, title VII, §70512(a), (b), (d), (e), (g), July 4, 2025, 139 Stat. 252, 253, 266, 267.)
 
   
 
@@ -376,12 +424,42 @@ In any case in which the Secretary provides an exception pursuant to clause (i),
 
 #### References in Text
 
+The date of enactment of this clause, referred to in subsec. (b)(2)(C)(iii), is the date of enactment of Pub. L. 119–21, which was approved July 4, 2025.
+
 The date of the enactment of this section, referred to in subsec. (e)(2), is the date of enactment of Pub. L. 117–169, which was approved Aug. 16, 2022.
+
+#### Amendments
+
+**2025**—Subsec. (b)(1)(D). Pub. L. 119–21, §70512(g)(2), added subpar. (D). Former subpar. (D) redesignated (E) relating to coordination with other credits.
+
+Subsec. (b)(1)(E). Pub. L. 119–21, §70512(g)(1), redesignated subpar. (D) as (E) relating to coordination with other credits.
+
+Pub. L. 119–21, §70512(b)(1), added subpar. (E) relating to material assistance from prohibited foreign entities.
+
+Subsec. (b)(2)(C)(iii). Pub. L. 119–21, §70512(e), added cl. (iii).
+
+Subsec. (d)(1). Pub. L. 119–21, §70512(a)(1), substituted "Subject to paragraph (4), the amount of" for "The amount of" in introductory provisions.
+
+Subsec. (d)(3), (4). Pub. L. 119–21, §70512(a)(2), added pars. (3) and (4) and struck out former par. (3). Prior to amendment, text of par. (3) read as follows: "For purposes of this subsection, the term 'applicable year' means the later of—
+
+"(A) the calendar year in which the Secretary determines that the annual greenhouse gas emissions from the production of electricity in the United States are equal to or less than 25 percent of the annual greenhouse gas emissions from the production of electricity in the United States for calendar year 2022, or
+
+"(B) 2032."
+
+Subsec. (g)(13). Pub. L. 119–21, §70512(b)(2), added par. (13).
+
+Subsec. (h). Pub. L. 119–21, §70512(d), added subsec. (h).
 
   
 
 #### **Statutory Notes and Related Subsidiaries**
 
+#### Effective Date of 2025 Amendment
+
+Amendment by Pub. L. 119–21 applicable to taxable years beginning after July 4, 2025, except that amendment by section 70512(a) of Pub. L. 119–21 applicable to facilities the construction of which begins after the date which is 12 months after July 4, 2025, and amendment by section 70512(b)(1) of Pub. L. 119–21 applicable to facilities for which construction begins after Dec. 31, 2025, see section 70512(l)(1), (2), (4) of Pub. L. 119–21, set out in a note under section 45 of this title.
+
 #### Effective Date
 
 Pub. L. 117–169, title I, §13701(c), Aug. 16, 2022, 136 Stat. 1990, provided that: "The amendments made by this section \[enacting this section and amending section 38 of this title\] shall apply to facilities placed in service after December 31, 2024."
+
+[1 So in original. There are two subpars. (E).](#45Y_1)

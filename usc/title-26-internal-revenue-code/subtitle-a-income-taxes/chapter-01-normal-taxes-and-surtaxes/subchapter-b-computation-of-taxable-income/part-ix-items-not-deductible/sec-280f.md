@@ -342,7 +342,7 @@ Subsec. (d)(4)(C). Pub. L. 99–514, §1812(e)(4), added subpar. (C).
 
 Subsec. (d)(5)(A). Pub. L. 99–514, §1812(e)(1)(A), (C), substituted "unloaded gross vehicle weight" for "gross vehicle weight" in cl. (ii) and inserted at end "In the case of a truck or van, clause (ii) shall be applied by substituting 'gross vehicle weight' for 'unloaded gross vehicle weight'."
 
-Subsec. (d)(8). Pub. L. 99–514, §201(d)(4)(H), amended par. (8) generally. Prior to amendment, par. (8) read as follows: "For purposes of subsection (a)(2), the term "unrecovered basis" means the excess (if any) of—
+Subsec. (d)(8). Pub. L. 99–514, §201(d)(4)(H), amended par. (8) generally. Prior to amendment, par. (8) read as follows: "For purposes of subsection (a)(2), the term 'unrecovered basis' means the excess (if any) of—
 
 "(A) the unadjusted basis (as defined in section 168(d)(1)(A)) of the passenger automobile, over
 
@@ -465,6 +465,8 @@ For provisions directing that if any amendments made by subtitle A or subtitle C
 #### Inflation Adjusted Items for Certain Years
 
 Provisions relating to inflation adjustment of items in this section for certain years were contained in the following:
+
+**2024**—Revenue Procedure 2024–13.
 
 **2023**—Revenue Procedure 2023–14.
 

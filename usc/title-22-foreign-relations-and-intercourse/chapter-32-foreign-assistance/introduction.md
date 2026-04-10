@@ -54,7 +54,7 @@ Sec.
 
 2151n–2. Human Rights and Democracy Fund.
 
-2151o. Repealed.
+2151 o. Repealed.
 
 2151p. Environmental and natural resources.
 
@@ -300,7 +300,7 @@ Sec.
 
         
 
-#### Part VI—Central America Democracy, Peace, and Development Initiative.
+#### Part VI—Central America Democracy, Peace, and Development Initiative
 
 2271\. Statement of policy.
 
@@ -370,13 +370,13 @@ Sec.
 
 2291k. Repealed.
 
-2291l. Prioritization of efforts of the Department of State to combat international trafficking in covered synthetic drugs.
+2291 l. Prioritization of efforts of the Department of State to combat international trafficking in covered synthetic drugs.
 
 2291m. Program to provide assistance to build the capacity of foreign law enforcement agencies with respect to covered synthetic drugs.
 
 2291n. Exchange program on demand reduction matters relating to illicit use of covered synthetic drugs.
 
-2291o. Fentanyl reporting and authorities.
+2291 o. Fentanyl reporting and authorities.
 
         
 

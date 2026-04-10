@@ -43,7 +43,7 @@ If, after property is placed in service, there is a disposition or other cessati
 
 #### (E) Special rules
 
-Rules similar to the rules of this paragraph shall apply in cases where qualified progress expenditures were taken into account under the rules referred to in section 48(b), 48A(b)(3), 48B(b)(3), 48C(b)(2), or 48D(b)(5).
+Rules similar to the rules of this paragraph shall apply in cases where qualified progress expenditures were taken into account under the rules referred to in section 48(b), 48A(b)(3), 48B(b)(3), 48C(b)(2), 48D(b)(5), or 48E(e).
 
 #### (3) Certain expansions in connection with advanced manufacturing facilities
 
@@ -59,11 +59,25 @@ Subparagraph (A) shall not apply if the applicable taxpayer demonstrates to the 
 
 The Secretary shall issue such regulations or other guidance as the Secretary determines necessary or appropriate to carry out the purposes of this paragraph, including regulations or other guidance which provide for requirements for recordkeeping or information reporting for purposes of administering the requirements of this paragraph.
 
-#### (4) Carrybacks and carryovers adjusted
+#### (4) Payments to prohibited foreign entities
 
-In the case of any cessation described in paragraph (1) or (2), or any applicable transaction to which paragraph (3)(A) applies, the carrybacks and carryovers under section 39 shall be adjusted by reason of such cessation or applicable transaction.
+#### (A) In general
 
-#### (5) Subsection not to apply in certain cases
+If there is an applicable payment made by a specified taxpayer before the close of the 10-year period beginning on the date such taxpayer placed in service investment credit property which is eligible for the clean electricity investment credit under section 48E(a), then the tax under this chapter for the taxable year in which such applicable payment occurs shall be increased by 100 percent of the aggregate decrease in the credits allowed under section 38 for all prior taxable years which would have resulted solely from reducing to zero any credit determined under section 46 which is attributable to the clean electricity investment credit under section 48E(a) with respect to such property.
+
+#### (B) Applicable payment
+
+For purposes of this paragraph, the term "applicable payment" means, with respect to any taxable year, a payment or payments described in section 7701(a)(51)(D)(i)(II).
+
+#### (C) Specified taxpayer
+
+For purposes of this paragraph, the term "specified taxpayer" means any taxpayer who has been allowed a credit under section 48E(a) for any taxable year beginning after the date which is 2 years after the date of enactment of this paragraph.
+
+#### (5) Carrybacks and carryovers adjusted
+
+In the case of any cessation described in paragraph (1) or (2), any applicable transaction to which paragraph (3)(A) applies, or any applicable payment to which paragraph (4)(A) applies, the carrybacks and carryovers under section 39 shall be adjusted by reason of such cessation or applicable transaction.
+
+#### (6) Subsection not to apply in certain cases
 
 Paragraphs (1) and (2) shall not apply to—
 
@@ -75,7 +89,7 @@ Paragraphs (1) and (2) shall not apply to—
 
 For purposes of this subsection, property shall not be treated as ceasing to be investment credit property with respect to the taxpayer by reason of a mere change in the form of conducting the trade or business so long as the property is retained in such trade or business as investment credit property and the taxpayer retains a substantial interest in such trade or business.
 
-#### (6) Definitions and special rules
+#### (7) Definitions and special rules
 
 #### (A) Investment credit property
 
@@ -91,7 +105,7 @@ In the case of any transfer described in subsection (a) of section 1041—
 
 #### (C) Special rule
 
-Any increase in tax under paragraph (1), (2), or (3) shall not be treated as tax imposed by this chapter for purposes of determining the amount of any credit allowable under this chapter.
+Any increase in tax under paragraph (1), (2), (3), or (4) shall not be treated as tax imposed by this chapter for purposes of determining the amount of any credit allowable under this chapter.
 
 #### (D) Applicable transaction
 
@@ -177,7 +191,7 @@ If during any taxable year there is a recapture amount determined with respect t
 
 #### (3) Special rule
 
-In the case of any energy credit—
+In the case of any energy credit or clean electricity investment credit—
 
 (A) only 50 percent of such credit shall be taken into account under paragraph (1),
 
@@ -237,17 +251,11 @@ For purposes of this subpart, rules similar to the rules of the following provis
 
 Paragraphs (1)(A), (2)(A), and (4) of the section 46(e) referred to in paragraph (1) of this subsection shall not apply to any taxable year beginning after December 31, 1995. In the case of a real estate investment trust making an election under section 6418, paragraphs (1)(B) and (2)(B) of the section 46(e) referred to in paragraph (1) of this subsection shall not apply to any investment credit property of such real estate investment trust to which such election applies.
 
-(Added Pub. L. 101–508, title XI, §11813(a), Nov. 5, 1990, 104 Stat. 1388–546; amended Pub. L. 104–188, title I, §§1616(b)(1), 1702(h)(11), 1704(t)(29), Aug. 20, 1996, 110 Stat. 1856, 1874, 1889; Pub. L. 105–206, title VI, §6004(g)(7), July 22, 1998, 112 Stat. 796; Pub. L. 108–357, title III, §322(d)(2)(D), Oct. 22, 2004, 118 Stat. 1475; Pub. L. 109–135, title IV, §412(o), Dec. 21, 2005, 119 Stat. 2638; Pub. L. 113–295, div. A, title II, §220(d), Dec. 19, 2014, 128 Stat. 4036; Pub. L. 115–141, div. U, title IV, §401(a)(25), (d)(3)(B)(ii), Mar. 23, 2018, 132 Stat. 1185, 1209; Pub. L. 117–167, div. A, §107(b)(1)–(3)(B), (d)(3), Aug. 9, 2022, 136 Stat. 1397–1399; Pub. L. 117–169, title I, §§13102(f)(5), (i), 13702(b)(3), (4), 13801(c), Aug. 16, 2022, 136 Stat. 1917, 1997, 2012.)
+#### (e) Rules for geothermal heat pumps
 
-#### Amendment of Section
+For purposes of this section and section 168, the ownership of energy property described in section 48(a)(3)(A)(vii) shall be determined without regard to whether such property is readily usable by a person other than the lessee or service recipient.
 
-Pub. L. 117–169, title I, §13702(b)(3), (4), (c), Aug. 16, 2022, 136 Stat. 1997, provided that, applicable to property placed in service after Dec. 31, 2024, this section is amended:
-
-(1) in subsection (a)(2)(E), by striking "or 48D(b)(5)" and inserting "48D(b)(5), or 48E(e)"; and
-
-(2) in subsection (c)(3), by inserting "or clean electricity investment credit" after "In the case of any energy credit".
-
-See 2022 Amendment notes below.
+(Added Pub. L. 101–508, title XI, §11813(a), Nov. 5, 1990, 104 Stat. 1388–546; amended Pub. L. 104–188, title I, §§1616(b)(1), 1702(h)(11), 1704(t)(29), Aug. 20, 1996, 110 Stat. 1856, 1874, 1889; Pub. L. 105–206, title VI, §6004(g)(7), July 22, 1998, 112 Stat. 796; Pub. L. 108–357, title III, §322(d)(2)(D), Oct. 22, 2004, 118 Stat. 1475; Pub. L. 109–135, title IV, §412(o), Dec. 21, 2005, 119 Stat. 2638; Pub. L. 113–295, div. A, title II, §220(d), Dec. 19, 2014, 128 Stat. 4036; Pub. L. 115–141, div. U, title IV, §401(a)(25), (d)(3)(B)(ii), Mar. 23, 2018, 132 Stat. 1185, 1209; Pub. L. 117–167, div. A, §107(b)(1)–(3)(B), (d)(3), Aug. 9, 2022, 136 Stat. 1397–1399; Pub. L. 117–169, title I, §§13102(f)(5), (i), 13702(b)(3), (4), 13801(c), Aug. 16, 2022, 136 Stat. 1917, 1997, 2012; Pub. L. 119–21, title VII, §70513(b)(3)(A), (c)(2), July 4, 2025, 139 Stat. 271, 272.)
 
   
 
@@ -255,9 +263,11 @@ See 2022 Amendment notes below.
 
 #### References in Text
 
-Section 9901(7) of the William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021, referred to in subsec. (a)(6)(D)(i), is section 9901(7) of Pub. L. 116–283, which is classified to section 4651(7) of Title 15, Commerce and Trade.
+The date of enactment of this paragraph, referred to in subsec. (a)(4)(C), is the date of enactment of Pub. L. 119–21, which was approved July 4, 2025.
 
-Section 9902(a)(6) of the William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021, referred to in subsec. (a)(6)(D)(ii), is section 9902(a)(6) of Pub. L. 116–283, which is classified to section 4652(a)(6) of Title 15, Commerce and Trade.
+Section 9901(7) of the William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021, referred to in subsec. (a)(7)(D)(i), is section 9901(7) of Pub. L. 116–283, which is classified to section 4651(7) of Title 15, Commerce and Trade.
+
+Section 9902(a)(6) of the William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021, referred to in subsec. (a)(7)(D)(ii), is section 9902(a)(6) of Pub. L. 116–283, which is classified to section 4652(a)(6) of Title 15, Commerce and Trade.
 
 The date of the enactment of the Revenue Reconciliation Act of 1990, referred to in subsec. (d), is the date of enactment of Pub. L. 101–508, which was approved Nov. 5, 1990.
 
@@ -266,6 +276,16 @@ The date of the enactment of the Revenue Reconciliation Act of 1990, referred to
 A prior section 50, Pub. L. 92–178, title I, §101(a), Dec. 10, 1971, 85 Stat. 498, related to restoration of credit for investment in certain depreciable property, prior to repeal by Pub. L. 95–600, title III, §312(c)(1), Nov. 6, 1978, 92 Stat. 2826, applicable to taxable years ending after Dec. 31, 1978.
 
 #### Amendments
+
+**2025**—Subsec. (a)(4). Pub. L. 119–21, §70513(b)(3)(A)(ii), added par. (4). Former par. (4) redesignated (5).
+
+Subsec. (a)(5). Pub. L. 119–21, §70513(b)(3)(A)(i), (iii), redesignated par. (4) as (5) and substituted "any applicable transaction to which paragraph (3)(A) applies, or any applicable payment to which paragraph (4)(A) applies," for "or any applicable transaction to which paragraph (3)(A) applies,". Former par. (5) redesignated (6).
+
+Subsec. (a)(6). Pub. L. 119–21, §70513(b)(3)(A)(i), redesignated par. (5) as (6). Former par. (6) redesignated (7).
+
+Subsec. (a)(7). Pub. L. 119–21, §70513(b)(3)(A)(i), (iv), redesignated par. (6) as (7) and, in subpar. (C), substituted "(3), or (4)" for "or (3)".
+
+Subsec. (e). Pub. L. 119–21, §70513(c)(2), added subsec. (e).
 
 **2022**—Subsec. (a)(2)(E). Pub. L. 117–169, §13702(b)(3), substituted "48D(b)(5), or 48E(e)" for "or 48D(b)(5)".
 
@@ -314,6 +334,10 @@ Subsec. (d). Pub. L. 104–188, §1616(b)(1), inserted closing provisions.
   
 
 #### **Statutory Notes and Related Subsidiaries**
+
+#### Effective Date of 2025 Amendment
+
+Amendment by Pub. L. 119–21 applicable to taxable years beginning after July 4, 2025, see section 70513(g)(1) of Pub. L. 119–21, set out in a note under section 48 of this title.
 
 #### Effective Date of 2022 Amendment
 

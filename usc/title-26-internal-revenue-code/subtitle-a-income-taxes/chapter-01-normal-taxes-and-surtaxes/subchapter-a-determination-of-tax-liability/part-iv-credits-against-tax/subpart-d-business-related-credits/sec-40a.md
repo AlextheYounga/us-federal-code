@@ -62,11 +62,11 @@ No credit shall be allowed under paragraph (1) or (2) of subsection (a) unless t
 
 #### (A) In general
 
-The small agri-biodiesel producer credit of any eligible small agri-biodiesel producer for any taxable year is 10 cents for each gallon of qualified agri-biodiesel production of such producer.
+The small agri-biodiesel producer credit of any eligible small agri-biodiesel producer for any taxable year is 20 cents for each gallon of qualified agri-biodiesel production of such producer.
 
 #### (B) Qualified agri-biodiesel production
 
-For purposes of this paragraph, the term "qualified agri-biodiesel production" means any agri-biodiesel which is produced by an eligible small agri-biodiesel producer, and which during the taxable year—
+For purposes of this paragraph, the term "qualified agri-biodiesel production" means any agri-biodiesel which is produced by an eligible small agri-biodiesel producer in a manner which complies with the requirements under section 45Z(f)(1)(A)(iii), and which during the taxable year—
 
 (i) is sold by such producer to another person—
 
@@ -83,6 +83,10 @@ For purposes of this paragraph, the term "qualified agri-biodiesel production" m
 #### (C) Limitation
 
 The qualified agri-biodiesel production of any producer for any taxable year shall not exceed 15,000,000 gallons.
+
+#### (D) Coordination with clean fuel production credit
+
+The credit determined under this paragraph with respect to any gallon of fuel shall be in addition to any credit determined under section 45Z with respect to such gallon of fuel.
 
 #### (c) Coordination with credit against excise tax
 
@@ -248,9 +252,9 @@ Such term shall not include any liquid with respect to which a credit may be det
 
 #### (g) Termination
 
-This section shall not apply to any sale or use after December 31, 2024.
+This section shall not apply to any sale or use after December 31, 2024 (or, in the case of the small agri-biodiesel producer credit, any sale or use after December 31, 2026).
 
-(Added Pub. L. 108–357, title III, §302(a), Oct. 22, 2004, 118 Stat. 1463; amended Pub. L. 109–58, title XIII, §§1344(a), 1345(a)–(d), 1346(a), (b)(1), Aug. 8, 2005, 119 Stat. 1052–1055; Pub. L. 109–135, title IV, §412(h), Dec. 21, 2005, 119 Stat. 2637; Pub. L. 110–234, title XV, §15321(f), May 22, 2008, 122 Stat. 1514; Pub. L. 110–246, §4(a), title XV, §15321(f), June 18, 2008, 122 Stat. 1664, 2276; Pub. L. 110–343, div. B, title II, §§202(a), (b)(1), (b)(3)–(f), 203(b), Oct. 3, 2008, 122 Stat. 3832, 3833; Pub. L. 111–312, title VII, §701(a), Dec. 17, 2010, 124 Stat. 3310; Pub. L. 112–240, title IV, §405(a), Jan. 2, 2013, 126 Stat. 2340; Pub. L. 113–295, div. A, title I, §153(a), Dec. 19, 2014, 128 Stat. 4021; Pub. L. 114–113, div. Q, title I, §185(a)(1), Dec. 18, 2015, 129 Stat. 3073; Pub. L. 115–123, div. D, title I, §40407(a)(1), Feb. 9, 2018, 132 Stat. 149; Pub. L. 116–94, div. Q, title I, §121(a)(1), Dec. 20, 2019, 133 Stat. 3230; Pub. L. 117–169, title I, §§13201(a), 13203(c), Aug. 16, 2022, 136 Stat. 1931, 1934.)
+(Added Pub. L. 108–357, title III, §302(a), Oct. 22, 2004, 118 Stat. 1463; amended Pub. L. 109–58, title XIII, §§1344(a), 1345(a)–(d), 1346(a), (b)(1), Aug. 8, 2005, 119 Stat. 1052–1055; Pub. L. 109–135, title IV, §412(h), Dec. 21, 2005, 119 Stat. 2637; Pub. L. 110–234, title XV, §15321(f), May 22, 2008, 122 Stat. 1514; Pub. L. 110–246, §4(a), title XV, §15321(f), June 18, 2008, 122 Stat. 1664, 2276; Pub. L. 110–343, div. B, title II, §§202(a), (b)(1), (b)(3)–(f), 203(b), Oct. 3, 2008, 122 Stat. 3832, 3833; Pub. L. 111–312, title VII, §701(a), Dec. 17, 2010, 124 Stat. 3310; Pub. L. 112–240, title IV, §405(a), Jan. 2, 2013, 126 Stat. 2340; Pub. L. 113–295, div. A, title I, §153(a), Dec. 19, 2014, 128 Stat. 4021; Pub. L. 114–113, div. Q, title I, §185(a)(1), Dec. 18, 2015, 129 Stat. 3073; Pub. L. 115–123, div. D, title I, §40407(a)(1), Feb. 9, 2018, 132 Stat. 149; Pub. L. 116–94, div. Q, title I, §121(a)(1), Dec. 20, 2019, 133 Stat. 3230; Pub. L. 117–169, title I, §§13201(a), 13203(c), Aug. 16, 2022, 136 Stat. 1931, 1934; Pub. L. 119–21, title VII, §70521(j)(1), July 4, 2025, 139 Stat. 278.)
 
   
 
@@ -261,6 +265,14 @@ This section shall not apply to any sale or use after December 31, 2024.
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
+
+**2025**—Subsec. (b)(4)(A). Pub. L. 119–21, §70521(j)(1)(A)(i), substituted "20 cents" for "10 cents".
+
+Subsec. (b)(4)(B). Pub. L. 119–21, §70521(j)(1)(A)(ii), inserted "in a manner which complies with the requirements under section 45Z(f)(1)(A)(iii)" after "produced by an eligible small agri-biodiesel producer".
+
+Subsec. (b)(4)(D). Pub. L. 119–21, §70521(j)(1)(A)(iii), added subpar. (D).
+
+Subsec. (g). Pub. L. 119–21, §70521(j)(1)(B), inserted "(or, in the case of the small agri-biodiesel producer credit, any sale or use after December 31, 2026)" after "December 31, 2024".
 
 **2022**—Subsec. (d)(1). Pub. L. 117–169, §13203(c)(1), inserted "or 40B" after "determined under section 40" in concluding provisions.
 
@@ -343,6 +355,10 @@ Subsec. (g). Pub. L. 109–58, §1346(a), redesignated subsec. (f) as (g).
   
 
 #### **Statutory Notes and Related Subsidiaries**
+
+#### Effective Date of 2025 Amendment
+
+Pub. L. 119–21, title VII, §70521(j)(3), July 4, 2025, 139 Stat. 279, provided that: "The amendments made by this subsection \[amending this section and section 6418 of this title\] shall apply to fuel sold or used after June 30, 2025."
 
 #### Effective Date of 2022 Amendment
 

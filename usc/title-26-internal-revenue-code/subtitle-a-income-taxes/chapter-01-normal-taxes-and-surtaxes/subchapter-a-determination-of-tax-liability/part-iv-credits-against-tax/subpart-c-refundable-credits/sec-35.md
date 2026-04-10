@@ -322,13 +322,13 @@ In the case of a taxpayer who makes the election under paragraph (11) with respe
 
   
 
-(ii) section 36B(f)(2) shall not apply with respect to such taxpayer for such taxable year, except that if such taxpayer received any advance payments under section 7527 for any month in such taxable year and is later allowed a credit under section 36B for such taxable year, then section 36B(f)(2)(B) shall be applied by substituting the amount determined under clause (i) for the amount determined under section 36B(f)(2)(A).
+(ii) section 36B(f)(2) shall not apply with respect to such taxpayer for such taxable year, except that if such taxpayer received any advance payments under section 7527 for any month in such taxable year and is later allowed a credit under section 36B for such taxable year, then the amount determined under clause (i) shall be substituted for the amount determined under section 36B(f)(2).
 
 #### (13) Regulations
 
 The Secretary may prescribe such regulations and other guidance as may be necessary or appropriate to carry out this section, section 6050T, and section 7527.
 
-(Added Pub. L. 107–210, div. A, title II, §201(a), Aug. 6, 2002, 116 Stat. 954; amended Pub. L. 108–311, title IV, §401(a)(2), Oct. 4, 2004, 118 Stat. 1183; Pub. L. 110–172, §11(a)(5), Dec. 29, 2007, 121 Stat. 2485; Pub. L. 111–5, div. B, title I, §§1899A(a)(1), 1899C(a), 1899E(a), 1899G(a), title III, §3001(a)(14)(A), Feb. 17, 2009, 123 Stat. 423, 424, 426, 430, 465; Pub. L. 111–144, §3(b)(5)(A), Mar. 2, 2010, 124 Stat. 44; Pub. L. 111–344, title I, §§111(a), 113(a), 115(a), 117(a), Dec. 29, 2010, 124 Stat. 3614–3616; Pub. L. 112–40, title II, §241(a), (b)(1), (3)(A)–(C), Oct. 21, 2011, 125 Stat. 418, 419; Pub. L. 113–295, div. A, title II, §209(j)(3), Dec. 19, 2014, 128 Stat. 4031; Pub. L. 114–27, title IV, §407(a), (b), (d), June 29, 2015, 129 Stat. 381, 382; Pub. L. 116–94, div. Q, title I, §146(a), Dec. 20, 2019, 133 Stat. 3236; Pub. L. 116–260, div. EE, title I, §134(a), Dec. 27, 2020, 134 Stat. 3053; Pub. L. 117–2, title IX, §9501(b)(3)(A), Mar. 11, 2021, 135 Stat. 137.)
+(Added Pub. L. 107–210, div. A, title II, §201(a), Aug. 6, 2002, 116 Stat. 954; amended Pub. L. 108–311, title IV, §401(a)(2), Oct. 4, 2004, 118 Stat. 1183; Pub. L. 110–172, §11(a)(5), Dec. 29, 2007, 121 Stat. 2485; Pub. L. 111–5, div. B, title I, §§1899A(a)(1), 1899C(a), 1899E(a), 1899G(a), title III, §3001(a)(14)(A), Feb. 17, 2009, 123 Stat. 423, 424, 426, 430, 465; Pub. L. 111–144, §3(b)(5)(A), Mar. 2, 2010, 124 Stat. 44; Pub. L. 111–344, title I, §§111(a), 113(a), 115(a), 117(a), Dec. 29, 2010, 124 Stat. 3614–3616; Pub. L. 112–40, title II, §241(a), (b)(1), (3)(A)–(C), Oct. 21, 2011, 125 Stat. 418, 419; Pub. L. 113–295, div. A, title II, §209(j)(3), Dec. 19, 2014, 128 Stat. 4031; Pub. L. 114–27, title IV, §407(a), (b), (d), June 29, 2015, 129 Stat. 381, 382; Pub. L. 116–94, div. Q, title I, §146(a), Dec. 20, 2019, 133 Stat. 3236; Pub. L. 116–260, div. EE, title I, §134(a), Dec. 27, 2020, 134 Stat. 3053; Pub. L. 117–2, title IX, §9501(b)(3)(A), Mar. 11, 2021, 135 Stat. 137; Pub. L. 119–21, title VII, §71305(b)(2), July 4, 2025, 139 Stat. 325.)
 
   
 
@@ -360,6 +360,8 @@ Another prior section 35, acts Aug. 16, 1954, ch. 736, 68A Stat. 14; Sept. 2, 19
 
 #### Amendments
 
+**2025**—Subsec. (g)(12)(B)(ii). Pub. L. 119–21 substituted "then the amount determined under clause (i) shall be substituted for the amount determined under section 36B(f)(2)" for "then section 36B(f)(2)(B) shall be applied by substituting the amount determined under clause (i) for the amount determined under section 36B(f)(2)(A)".
+
 **2021**—Subsec. (g)(9). Pub. L. 117–2 amended par. (9) generally. Prior to amendment, par. (9) related to COBRA premium assistance.
 
 **2020**—Subsec. (b)(1)(B). Pub. L. 116–260 substituted "January 1, 2022" for "January 1, 2021".
@@ -368,7 +370,7 @@ Another prior section 35, acts Aug. 16, 1954, ch. 736, 68A Stat. 14; Sept. 2, 19
 
 **2015**—Subsec. (b)(1)(B). Pub. L. 114–27, §407(a), substituted "before January 1, 2020" for "before January 1, 2014".
 
-Subsec. (e)(1)(J). Pub. L. 114–27, §407(d)(2), inserted "(other than coverage enrolled in through an Exchange established under the Patient Protection and Affordable Care Act)" after "under individual health insurance"
+Subsec. (e)(1)(J). Pub. L. 114–27, §407(d)(2), inserted "(other than coverage enrolled in through an Exchange established under the Patient Protection and Affordable Care Act)" after "under individual health insurance".
 
 Pub. L. 114–27, §407(d)(1), substituted "under individual health insurance. For purposes of" for "under individual health insurance if the eligible individual was covered under individual health insurance during the entire 30-day period that ends on the date that such individual became separated from the employment which qualified such individual for—
 
@@ -423,6 +425,10 @@ Subsec. (g)(11). Pub. L. 111–5, §3001(a)(14)(A), as amended by Pub. L. 113–
   
 
 #### **Statutory Notes and Related Subsidiaries**
+
+#### Effective Date of 2025 Amendment
+
+Pub. L. 119–21, title VII, §71305(c), July 4, 2025, 139 Stat. 325, provided that: "The amendments made by this section \[amending this section and section 36B of this title\] shall apply to taxable years beginning after December 31, 2025."
 
 #### Effective Date of 2021 Amendment
 

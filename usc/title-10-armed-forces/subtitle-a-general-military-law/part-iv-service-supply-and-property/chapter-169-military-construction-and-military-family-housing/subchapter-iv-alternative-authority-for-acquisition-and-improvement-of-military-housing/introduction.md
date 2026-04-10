@@ -28,7 +28,7 @@ Sec.
 
 2881\. Ancillary supporting facilities.
 
-2881a. Pilot projects for acquisition or construction of military unaccompanied housing.
+2881a. Temporary authority for acquisition or construction of privatized military unaccompanied housing.
 
 2882\. Effect of assignment of members to housing units acquired or constructed under alternative authority.
 
@@ -47,6 +47,8 @@ Sec.
 #### **Editorial Notes**
 
 #### Amendments
+
+**2025**—Pub. L. 119–21, title II, §20001(c)(1), July 4, 2025, 139 Stat. 113, substituted "Temporary authority for acquisition or construction of privatized military unaccompanied housing" for 'Pilot projects for acquisition or construction of military unaccompanied housing" in item 2881a. Amendment was made pursuant to operation of section 102 of this title.
 
 **2021**—Pub. L. 117–81, div. B, §2003(b), title XXVIII, §2812(a), Dec. 27, 2021, 135 Stat. 2162, 2191, renumbered item 2879 as 2857 and transferred it to appear after item 2856 in analysis under subchapter III of this chapter.
 

@@ -76,6 +76,16 @@ The 0.3 cent amount in subsection (a)(1)(A) and the 2.5 cent amount in subsectio
 
 Rules similar to the rules of paragraphs (1), (3), (4), (5), and (13) of section 45(e) shall apply for purposes of this section.
 
+#### (3) Restrictions relating to prohibited foreign entities
+
+#### (A) In general
+
+No credit shall be determined under subsection (a) for any taxable year beginning after the date of enactment of this paragraph if the taxpayer is a specified foreign entity (as defined in section 7701(a)(51)(B)).
+
+#### (B) Other prohibited foreign entities
+
+No credit shall be determined under subsection (a) for any taxable year beginning after the date which is 2 years after the date of enactment of this paragraph if the taxpayer is a foreign-influenced entity (as defined in section 7701(a)(51)(D), without regard to clause (i)(II) thereof).
+
 #### (d) Wage requirements
 
 #### (1) Increased credit amount for qualified nuclear power facilities
@@ -100,7 +110,7 @@ The Secretary shall issue such regulations or other guidance as the Secretary de
 
 This section shall not apply to taxable years beginning after December 31, 2032.
 
-(Added and amended Pub. L. 117–169, title I, §§13105(a), 13204(b)(2), Aug. 16, 2022, 136 Stat. 1929, 1940.)
+(Added and amended Pub. L. 117–169, title I, §§13105(a), 13204(b)(2), Aug. 16, 2022, 136 Stat. 1929, 1940; Pub. L. 119–21, title VII, §70510(a), July 4, 2025, 139 Stat. 252.)
 
   
 
@@ -110,13 +120,21 @@ This section shall not apply to taxable years beginning after December 31, 2032.
 
 The date of the enactment of this section, referred to in subsec. (b)(1)(C), is the date of enactment of Pub. L. 117–169, which was approved Aug. 16, 2022.
 
+The date of enactment of this paragraph, referred to in subsec. (c)(3), is the date of enactment of Pub. L. 119–21, which was approved July 4, 2025.
+
 #### Amendments
+
+**2025**—Subsec. (c)(3). Pub. L. 119–21 added par. (3).
 
 **2022**—Subsec. (c)(2). Pub. L. 117–169, §13204(b)(2), substituted "(5), and (13)" for "and (5)".
 
   
 
 #### **Statutory Notes and Related Subsidiaries**
+
+#### Effective Date of 2025 Amendment
+
+Pub. L. 119–21, title VII, §70510(b), July 4, 2025, 139 Stat. 252, provided that: "The amendments made by this section \[amending this section\] shall apply to taxable years beginning after the date of enactment of this Act \[July 4, 2025\]."
 
 #### Effective Date of 2022 Amendment
 

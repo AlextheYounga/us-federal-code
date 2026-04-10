@@ -100,7 +100,7 @@ Subject to paragraph (3), the amount determined under this subsection with respe
 
   
 
-(M) in the case of any applicable critical mineral, an amount equal to 10 percent of the costs incurred by the taxpayer with respect to production of such mineral.
+(M) in the case of any applicable critical mineral, an amount equal to 10 percent (2.5 percent in the case of metallurgical coal) of the costs incurred by the taxpayer with respect to production of such mineral.
 
 #### (2) Applicable amounts
 
@@ -134,11 +134,11 @@ For purposes of paragraph (1)(I), the applicable amount with respect to any inve
 
 (v) in the case of a microinverter or a distributed wind inverter, 11 cents.
 
-#### (3) Phase out
+#### (3) Phase out and termination
 
 #### (A) In general
 
-Subject to subparagraph (C), in the case of any eligible component sold after December 31, 2029, the amount determined under this subsection with respect to such component shall be equal to the product of—
+Subject to subparagraphs (C) and (D), in the case of any eligible component sold after December 31, 2029, the amount determined under this subsection with respect to such component shall be equal to the product of—
 
 (i) the amount determined under paragraph (1) with respect to such component, as determined without regard to this paragraph, multiplied by
 
@@ -156,9 +156,35 @@ The phase out percentage under this subparagraph is equal to—
 
 (iv) in the case of an eligible component sold after December 31, 2032, 0 percent.
 
-#### (C) Exception
+#### (C) Phase out for applicable critical minerals other than metallurgical coal
 
-For purposes of determining the amount under this subsection with respect to any applicable critical mineral, this paragraph shall not apply.
+#### (i) In general
+
+In the case of any applicable critical mineral (other than metallurgical coal) produced after December 31, 2030, the amount determined under this subsection with respect to such mineral shall be equal to the product of—
+
+(I) the amount determined under paragraph (1) with respect to such mineral, as determined without regard to this subparagraph, multiplied by
+
+(II) the phase out percentage under clause (ii).
+
+#### (ii) Phase out percentage for applicable critical minerals other than metallurgical coal
+
+The phase out percentage under this clause is equal to—
+
+(I) in the case of any applicable critical mineral produced during calendar year 2031, 75 percent,
+
+(II) in the case of any applicable critical mineral produced during calendar year 2032, 50 percent,
+
+(III) in the case of any applicable critical mineral produced during calendar year 2033, 25 percent, and
+
+(IV) in the case of any applicable critical mineral produced after December 31, 2033, 0 percent.
+
+#### (D) Termination for wind energy components
+
+This section shall not apply to any wind energy component produced and sold after December 31, 2027.
+
+#### (E) Termination for metallurgical coal
+
+This section shall not apply to any metallurgical coal produced after December 31, 2029.
 
 #### (4) Limitation on capacity of battery cells and battery modules
 
@@ -193,6 +219,10 @@ The term "eligible component" means—
 #### (B) Application with other credits
 
 The term "eligible component" shall not include any property which is produced at a facility if the basis of any property which is part of such facility is taken into account for purposes of the credit allowed under section 48C after the date of the enactment of this section.
+
+#### (C) Material assistance from prohibited foreign entities
+
+In the case of taxable years beginning after the date of enactment of this subparagraph, the term "eligible component" shall not include any property which includes any material assistance from a prohibited foreign entity (as defined in section 7701(a)(52), as applied by substituting "used in a product sold before January 1, 2027" for "used in a product sold before January 1, 2030" in subparagraph (D)(iv)(II)(bb) thereof).
 
 #### (2) Inverters
 
@@ -430,9 +460,11 @@ The term "battery module" means a module—
 
 (I)(aa) in the case of a module using battery cells, with 2 or more battery cells which are configured electrically, in series or parallel, to create voltage or current, as appropriate, to a specified end use, or
 
-(bb) with no battery cells, and
+(bb) with no battery cells,
 
-(II) with an aggregate capacity of not less than 7 kilowatt-hours (or, in the case of a module for a hydrogen fuel cell vehicle, not less than 1 kilowatt-hour).
+(II) with an aggregate capacity of not less than 7 kilowatt-hours (or, in the case of a module for a hydrogen fuel cell vehicle, not less than 1 kilowatt-hour), and
+
+(III) which is comprised of all other essential equipment needed for battery functionality, such as current collector assemblies and voltage sense harnesses, or any other essential energy collection equipment.
 
 #### (6) Applicable critical minerals
 
@@ -572,7 +604,11 @@ Manganese which is—
 
 (ii) purified to a minimum purity of 99.7 percent manganese by mass.
 
-#### (R) Neodymium
+#### (R) Metallurgical coal
+
+Metallurgical coal which is suitable for use in the production of steel (within the meaning of the notice published by the Department of Energy entitled "Critical Material List; Addition of Metallurgical Coal Used for Steelmaking" (90 Fed. Reg. 22711 (May 29, 2025))), regardless of whether such production occurs inside or outside of the United States.
+
+#### (S) Neodymium
 
 Neodymium which is—
 
@@ -582,7 +618,7 @@ Neodymium which is—
 
 (iii) purified to a minimum purity of 99.9 percent neodymium by mass.
 
-#### (S) Nickel
+#### (T) Nickel
 
 Nickel which is—
 
@@ -590,7 +626,7 @@ Nickel which is—
 
 (ii) purified to a minimum purity of 99 percent nickel by mass.
 
-#### (T) Niobium
+#### (U) Niobium
 
 Niobium which is—
 
@@ -598,7 +634,7 @@ Niobium which is—
 
 (ii) purified to a minimum purity of 99 percent niobium by mass.
 
-#### (U) Tellurium
+#### (V) Tellurium
 
 Tellurium which is—
 
@@ -606,7 +642,7 @@ Tellurium which is—
 
 (ii) purified to a minimum purity of 99 percent tellurium by mass.
 
-#### (V) Tin
+#### (W) Tin
 
 Tin which is purified to low alpha emitting tin which—
 
@@ -614,15 +650,15 @@ Tin which is purified to low alpha emitting tin which—
 
 (ii) possesses an alpha emission rate of not greater than 0.01 counts per hour per centimeter square.
 
-#### (W) Tungsten
+#### (X) Tungsten
 
 Tungsten which is converted to ammonium paratungstate or ferrotungsten.
 
-#### (X) Vanadium
+#### (Y) Vanadium
 
 Vanadium which is converted to ferrovanadium or vanadium pentoxide.
 
-#### (Y) Yttrium
+#### (Z) Yttrium
 
 Yttrium which is—
 
@@ -630,7 +666,7 @@ Yttrium which is—
 
 (ii) purified to a minimum purity of 99.9 percent yttrium by mass.
 
-#### (Z) Other minerals
+#### (AA) Other minerals
 
 Any of the following minerals, provided that such mineral is purified to a minimum purity of 99 percent by mass:
 
@@ -704,11 +740,45 @@ Sales shall be taken into account under this section only with respect to eligib
 
 Under regulations prescribed by the Secretary, rules similar to the rules of subsection (d) of section 52 shall apply.
 
-#### (4) Sale of integrated components
+#### (4) [3](#45X_3_target) Sale of integrated components
 
 For purposes of this section, a person shall be treated as having sold an eligible component to an unrelated person if such component is integrated, incorporated, or assembled into another eligible component which is sold to an unrelated person.
 
-(Added Pub. L. 117–169, title I, §13502(a), Aug. 16, 2022, 136 Stat. 1971.)
+#### (4) [3](#45X_3_target) Restrictions relating to prohibited foreign entities
+
+#### (A) In general
+
+No credit shall be determined under subsection (a) for any taxable year if the taxpayer is—
+
+(i) a specified foreign entity (as defined in section 7701(a)(51)(B)), or
+
+(ii) a foreign-influenced entity (as defined in section 7701(a)(51)(D), without regard to clause (i)(II) thereof).
+
+#### (B) Effective control
+
+In the case of a taxpayer for which section 7701(a)(51)(D)(i)(II) is determined to apply for any taxable year, no credit shall be determined under subsection (a) for such taxable year if such determination relates to an eligible component described in subsection (c)(1).
+
+(Added Pub. L. 117–169, title I, §13502(a), Aug. 16, 2022, 136 Stat. 1971; amended Pub. L. 119–21, title VII, §70514(a)–(e), July 4, 2025, 139 Stat. 273–275.)
+
+#### Amendment of Subsection (d)(4)
+
+Pub. L. 119–21, title VII, §70514(a), (f), July 4, 2025, 139 Stat. 273, 276, provided that, applicable to components sold during taxable years beginning after Dec. 31, 2026, subsection (d)(4) of this section is amended to read as follows:
+
+#### *(4) Sale of integrated components*
+
+#### *(A) In general*
+
+*For purposes of this section, a person shall be treated as having sold an eligible component to an unrelated person if—*
+
+*(i) such component (referred to in this paragraph as the "primary component") is integrated, incorporated, or assembled into another eligible component (referred to in this paragraph as the "secondary component") produced within the same manufacturing facility as the primary component, and*
+
+*(ii) the secondary component is sold to an unrelated person.*
+
+#### *(B) Additional requirements*
+
+*Subparagraph (A) shall only apply with respect to a secondary component for which not less than 65 percent of the total direct material costs which are paid or incurred (within the meaning of section 461 and any regulations issued under section 263A) by the taxpayer to produce such secondary component are attributable to primary components which are mined, produced, or manufactured in the United States.*
+
+See 2025 Amendment note below.
 
   
 
@@ -718,9 +788,39 @@ For purposes of this section, a person shall be treated as having sold an eligib
 
 The date of the enactment of this section, referred to in subsec. (c)(1)(B), is the date of enactment of Pub. L. 117–169, which was approved Aug. 16, 2022.
 
+The date of enactment of this subparagraph, referred to in subsec. (c)(1)(C), is the date of enactment of Pub. L. 119–21, which was approved July 4, 2025.
+
+#### Amendments
+
+**2025**—Subsec. (b)(1)(M). Pub. L. 119–21, §70514(e)(2), inserted "(2.5 percent in the case of metallurgical coal)" after "10 percent".
+
+Subsec. (b)(3). Pub. L. 119–21, §70514(b)(1), inserted "and termination" after "Phase out" in heading.
+
+Subsec. (b)(3)(A). Pub. L. 119–21, §70514(b)(2), substituted "subparagraphs (C) and (D)" for "subparagraph (C)" in introductory provisions.
+
+Subsec. (b)(3)(C) to (E). Pub. L. 119–21, §70514(b)(3), added subpars. (C) to (E) and struck out former subpar. (C). Prior to amendment, text of subpar. (C) read as follows: "For purposes of determining the amount under this subsection with respect to any applicable critical mineral, this paragraph shall not apply."
+
+Subsec. (c)(1)(C). Pub. L. 119–21, §70514(c)(1), added subpar. (C).
+
+Subsec. (c)(5)(B)(iii)(III). Pub. L. 119–21, §70514(d), added subcl. (III).
+
+Subsec. (c)(6)(R) to (AA). Pub. L. 119–21, §70514(e)(1), added subpar. (R) and redesignated former subpars. (R) to (Z) as (S) to (AA), respectively.
+
+Subsec. (d)(4). Pub. L. 119–21, §70514(c)(2), added par. (4) relating to restrictions relating to prohibited foreign entities.
+
+Pub. L. 119–21, §70514(a), amended par. (4) generally. Prior to amendment, text read as follows: "For purposes of this section, a person shall be treated as having sold an eligible component to an unrelated person if such component is integrated, incorporated, or assembled into another eligible component which is sold to an unrelated person."
+
   
 
 #### **Statutory Notes and Related Subsidiaries**
+
+#### Effective Date of 2025 Amendment
+
+Pub. L. 119–21, title VII, §70514(f), July 4, 2025, 139 Stat. 276, provided that:
+
+"(1) In general.—Except as provided in paragraph (2), the amendments made by this section \[amending this section\] shall apply to taxable years beginning after the date of enactment of this Act \[July 4, 2025\].
+
+"(2) Modification of provision relating to sale of integrated components.—The amendment made by subsection (a) \[amending this section\] shall apply to components sold during taxable years beginning after December 31, 2026."
 
 #### Effective Date
 
@@ -729,3 +829,5 @@ Pub. L. 117–169, title I, §13502(c), Aug. 16, 2022, 136 Stat. 1981, provided 
 [1 So in original. Probably should be followed by a period.](#45X_1)
 
 [2 So in original. Probably should be followed by ", or".](#45X_2)
+
+[3 So in original. There are two pars. (4).](#45X_3)

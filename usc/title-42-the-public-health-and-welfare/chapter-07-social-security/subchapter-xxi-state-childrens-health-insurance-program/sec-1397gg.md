@@ -72,35 +72,39 @@ The following sections of this chapter shall apply to States under this subchapt
 
 (F) Section 1396a(a)(73) of this title (relating to requiring certain States to seek advice from designees of Indian Health Programs and Urban Indian Organizations).
 
-(G) Subsections (a)(77) and (kk) of section 1396a of this title (relating to provider and supplier screening, oversight, and reporting requirements).
+(G) Subsections (a)(77) and (kk) of section 1396a of this title (relating to provider and supplier screening, oversight, and reporting requirements) and subsection (a)(83) of section 1396a of this title (relating to searchable directories of the providers described in subsection (mm) of such section).
 
-(H) Section 1396a(e)(13) of this title (relating to the State option to rely on findings from an Express Lane agency to help evaluate a child's eligibility for medical assistance).
+(H) Section 1396a(a)(88) of this title (relating to address information for enrollees and prevention of simultaneous enrollments).
 
-(I) Section 1396a(e)(14) of this title (relating to income determined using modified adjusted gross income and household income).
+(I) Section 1396a(e)(13) of this title (relating to the State option to rely on findings from an Express Lane agency to help evaluate a child's eligibility for medical assistance).
 
-(J) Paragraphs (5) and (16) of section 1396a(e) of this title (relating to the State option to provide medical assistance consisting of full benefits during pregnancy and throughout the 12-month postpartum period under subchapter XIX),[1](#1397gg_1_target) if the State provides child health assistance for targeted low-income children who are pregnant or to targeted low-income pregnant women and the State has elected to apply such paragraph (16) with respect to pregnant women under subchapter XIX, the provision of assistance under the State child health plan or waiver for targeted low-income children or targeted low-income pregnant women during pregnancy and the 12-month postpartum period shall be required and not at the option of the State and shall include coverage of all items or services provided to a targeted low-income child or targeted low-income pregnant woman (as applicable) under the State child health plan or waiver).[1](#1397gg_1_target)
+(J) Section 1396a(e)(14) of this title (relating to income determined using modified adjusted gross income and household income).
 
-(K) Section 1396a(e)(12) of this title (relating to 1 year of continuous eligibility for children), except that a targeted low-income child enrolled under the State child health plan or waiver may be transferred to the Medicaid program under subchapter XIX for the remaining duration of the 12-month continuous eligibility period, if the child becomes eligible for full benefits under subchapter XIX during such period.
+(K) Paragraphs (5) and (16) of section 1396a(e) of this title (relating to the State option to provide medical assistance consisting of full benefits during pregnancy and throughout the 12-month postpartum period under subchapter XIX),[1](#1397gg_1_target) if the State provides child health assistance for targeted low-income children who are pregnant or to targeted low-income pregnant women and the State has elected to apply such paragraph (16) with respect to pregnant women under subchapter XIX, the provision of assistance under the State child health plan or waiver for targeted low-income children or targeted low-income pregnant women during pregnancy and the 12-month postpartum period shall be required and not at the option of the State and shall include coverage of all items or services provided to a targeted low-income child or targeted low-income pregnant woman (as applicable) under the State child health plan or waiver).[1](#1397gg_1_target)
 
-(L) Section 1396a(bb) of this title (relating to payment for services provided by Federally-qualified health centers and rural health clinics).
+(L) Section 1396a(e)(12) of this title (relating to 1 year of continuous eligibility for children), except that a targeted low-income child enrolled under the State child health plan or waiver may be transferred to the Medicaid program under subchapter XIX for the remaining duration of the 12-month continuous eligibility period, if the child becomes eligible for full benefits under subchapter XIX during such period.
 
-(M) Section 1396a(ff) of this title (relating to disregard of certain property for purposes of making eligibility determinations).
+(M) Section 1396a(bb) of this title (relating to payment for services provided by Federally-qualified health centers and rural health clinics).
 
-(N) Paragraphs (2), (16), and (17) of section 1396b(i) of this title (relating to limitations on payment).
+(N) Section 1396a(ff) of this title (relating to disregard of certain property for purposes of making eligibility determinations).
 
-(O) Section 1396b(m)(3) of this title (relating to limitation on payment with respect to managed care).
+(O) Paragraphs (2), (16), and (17) of section 1396b(i) of this title (relating to limitations on payment).
 
-(P) Paragraph (4) of section 1396b(v) of this title (relating to optional coverage of categories of lawfully residing immigrant children or pregnant women), but only if the State has elected to apply such paragraph with respect to such category of children or pregnant women under subchapter XIX.
+(P) Section 1396b(m)(3) of this title (relating to limitation on payment with respect to managed care).
 
-(Q) Section 1396b(w) of this title (relating to limitations on provider taxes and donations).
+(Q) Paragraph (4) of section 1396b(v) of this title (relating to optional coverage of categories of lawfully residing immigrant children or pregnant women), but only if the State has elected to apply such paragraph with respect to such category of children or pregnant women under subchapter XIX.
 
-(R) Section 1396r–1a of this title (relating to presumptive eligibility for children).
+(R) Section 1396b(v)(5) of this title (relating to payments for medical assistance furnished to aliens), except in relation to payments for services provided under section 1397ee(a)(1)(D)(ii) of this title.
 
-(S) Subsections (a)(2)(C) (relating to Indian enrollment), (d)(5) (relating to contract requirement for managed care entities), (d)(6) (relating to enrollment of providers participating with a managed care entity), and (h) (relating to special rules with respect to Indian enrollees, Indian health care providers, and Indian managed care entities) of section 1396u–2 of this title.
+(S) Section 1396b(w) of this title (relating to limitations on provider taxes and donations).
 
-(T) Section 1396w–2 of this title (relating to authorization to receive data directly relevant to eligibility determinations).
+(T) Section 1396r–1a of this title (relating to presumptive eligibility for children).
 
-(U) Section 1396w–3(b) of this title (relating to coordination with State Exchanges and the State Medicaid agency).
+(U) Subsections (a)(2)(C) (relating to Indian enrollment), (d)(5) (relating to contract requirement for managed care entities), (d)(6) (relating to enrollment of providers participating with a managed care entity), and (h) (relating to special rules with respect to Indian enrollees, Indian health care providers, and Indian managed care entities) of section 1396u–2 of this title.
+
+(V) Section 1396w–2 of this title (relating to authorization to receive data directly relevant to eligibility determinations).
+
+(W) Section 1396w–3(b) of this title (relating to coordination with State Exchanges and the State Medicaid agency).
 
 #### (2) Subchapter XI provisions
 
@@ -140,11 +144,7 @@ In this subsection, the term "qualified CHIP look-alike program" means a State p
 
 (B) that is funded exclusively through non-Federal funds, including funds received by the State in the form of premiums for the purchase of such coverage.
 
-(Aug. 14, 1935, ch. 531, title XXI, §2107, as added Pub. L. 105–33, title IV, §4901(a), Aug. 5, 1997, 111 Stat. 565; amended Pub. L. 106–554, §1(a)(6) \[title VIII, §803\], Dec. 21, 2000, 114 Stat. 2763, 2763A–582; Pub. L. 109–171, title VI, §6102(a), Feb. 8, 2006, 120 Stat. 131; Pub. L. 111–3, title I, §112(a)(2)(A), title II, §§203(a)(2), (d)(2), 214(b), title V, §§501(d)(2), 503(a)(1), Feb. 4, 2009, 123 Stat. 33, 46, 49, 57, 87, 89; Pub. L. 111–5, div. B, title V, §5006(b)(2), (d)(2), (e)(2)(B), Feb. 17, 2009, 123 Stat. 506, 510; Pub. L. 111–148, title II, §2101(d)(2), (e), title VI, §6401(c), Mar. 23, 2010, 124 Stat. 287, 753; Pub. L. 111–152, title I, §1004(b)(2)(B), Mar. 30, 2010, 124 Stat. 1034; Pub. L. 111–309, title II, §205(f)(2), Dec. 15, 2010, 124 Stat. 3291; Pub. L. 114–255, div. A, title V, §5005(c)(1), Dec. 13, 2016, 130 Stat. 1194; Pub. L. 115–120, div. C, §3002(g)(1), Jan. 22, 2018, 132 Stat. 35; Pub. L. 115–123, div. E, title XII, §53102(d)(1), Feb. 9, 2018, 132 Stat. 299; Pub. L. 117–2, title IX, §9822(a)(1), Mar. 11, 2021, 135 Stat. 220; Pub. L. 117–328, div. FF, title V, §§5112(b), 5123(c), Dec. 29, 2022, 136 Stat. 5940, 5946.)
-
-#### Amendment of Subsection (e)(1)(G)
-
-Pub. L. 117–328, div. FF, title V, §5123(c), (d), Dec. 29, 2022, 136 Stat. 5946, provided that, effective July 1, 2025, subsection (e)(1)(G) of this section is amended by inserting "and subsection (a)(83) of section 1396a of this title (relating to searchable directories of the providers described in subsection (mm) of such section)" before the period at end. See 2022 Amendment note below.
+(Aug. 14, 1935, ch. 531, title XXI, §2107, as added Pub. L. 105–33, title IV, §4901(a), Aug. 5, 1997, 111 Stat. 565; amended Pub. L. 106–554, §1(a)(6) \[title VIII, §803\], Dec. 21, 2000, 114 Stat. 2763, 2763A–582; Pub. L. 109–171, title VI, §6102(a), Feb. 8, 2006, 120 Stat. 131; Pub. L. 111–3, title I, §112(a)(2)(A), title II, §§203(a)(2), (d)(2), 214(b), title V, §§501(d)(2), 503(a)(1), Feb. 4, 2009, 123 Stat. 33, 46, 49, 57, 87, 89; Pub. L. 111–5, div. B, title V, §5006(b)(2), (d)(2), (e)(2)(B), Feb. 17, 2009, 123 Stat. 506, 510; Pub. L. 111–148, title II, §2101(d)(2), (e), title VI, §6401(c), Mar. 23, 2010, 124 Stat. 287, 753; Pub. L. 111–152, title I, §1004(b)(2)(B), Mar. 30, 2010, 124 Stat. 1034; Pub. L. 111–309, title II, §205(f)(2), Dec. 15, 2010, 124 Stat. 3291; Pub. L. 114–255, div. A, title V, §5005(c)(1), Dec. 13, 2016, 130 Stat. 1194; Pub. L. 115–120, div. C, §3002(g)(1), Jan. 22, 2018, 132 Stat. 35; Pub. L. 115–123, div. E, title XII, §53102(d)(1), Feb. 9, 2018, 132 Stat. 299; Pub. L. 117–2, title IX, §9822(a)(1), Mar. 11, 2021, 135 Stat. 220; Pub. L. 117–328, div. FF, title V, §§5112(b), 5123(c), Dec. 29, 2022, 136 Stat. 5940, 5946; Pub. L. 119–21, title VII, §§71103(b)(1), 71109(b), July 4, 2025, 139 Stat. 293, 297.)
 
   
 
@@ -155,6 +155,10 @@ Pub. L. 117–328, div. FF, title V, §5123(c), (d), Dec. 29, 2022, 136 Stat. 59
 Amendment by section 501(d)(2) of Pub. L. 111–3 executed after amendment by section 214(b) of Pub. L. 111–3 to reflect the probable intent of Congress, notwithstanding section 501(d)(3) of Pub. L. 111–3, set out as an Effective Date of 2009 Amendment note under section 1396a of this title.
 
 #### Amendments
+
+**2025**—Subsec. (e)(1)(H) to (Q). Pub. L. 119–21, §71103(b)(1), added subpar. (H) and redesignated former subpars. (H) to (P) as (I) to (Q), respectively. Former subpar. (Q) redesignated (R), then (S).
+
+Subsec. (e)(1)(R) to (W). Pub. L. 119–21, §§71103(b)(1)(A), 71109(b), added subpar. (R) and redesignated former subpars. (Q) to (U) as (R) to (V), respectively, then (S) to (W), respectively.
 
 **2022**—Subsec. (e)(1)(G). Pub. L. 117–328, §5123(c), inserted "and subsection (a)(83) of section 1396a of this title (relating to searchable directories of the providers described in subsection (mm) of such section)" before period at end.
 

@@ -20,19 +20,29 @@ If the Secretary determines that any sugarcane processor who has been allocated 
 
 #### (2) Beet sugar
 
+#### (A) In general
+
 If the Secretary determines that a sugar beet processor who has been allocated a share of the beet sugar allotment will be unable to market that allocation—
 
-(A) the Secretary first shall reassign the estimated quantity of the deficit to the allotments for other sugar beet processors, depending on the capacity of each other processor to fill the portion of the deficit to be assigned to it and taking into account the interests of producers served by the processors;
+(i) the Secretary first shall reassign the estimated quantity of the deficit to the allotments for other sugar beet processors, depending on the capacity of each other processor to fill the portion of the deficit to be assigned to it and taking into account the interests of producers served by the processors;
 
-(B) if after the reassignments the deficit cannot be completely eliminated, the Secretary shall reassign the estimated quantity of the deficit to the Commodity Credit Corporation and shall sell such quantity of sugar from inventories of the Corporation unless the Secretary determines that such sales would have a significant effect on the price of sugar; and
+(ii) if after the reassignments the deficit cannot be completely eliminated, the Secretary shall reassign the estimated quantity of the deficit to the Commodity Credit Corporation and shall sell such quantity of sugar from inventories of the Corporation unless the Secretary determines that such sales would have a significant effect on the price of sugar; and
 
-(C) if after the reassignments and sales, the deficit cannot be completely eliminated, the Secretary shall reassign the remainder to imports of raw cane sugar.
+(iii) if after the reassignments and sales, the deficit cannot be completely eliminated, the Secretary shall reassign the remainder to imports of raw cane sugar.
+
+#### (B) Timing
+
+In carrying out subparagraph (A), the Secretary shall—
+
+(i) make an initial determination based on the World Agricultural Supply and Demand Estimates approved by the World Agricultural Outlook Board for January that shall be applicable to the crop year for which allotments are required; and
+
+(ii) provide for an initial reassignment under subparagraph (A)(i) not later than 30 days after the date on which the World Agricultural Supply and Demand Estimates described in clause (i) is released.
 
 #### (3) Corresponding increase
 
 The allocation of each processor receiving a reassigned quantity of an allotment under this subsection for a crop year shall be increased to reflect the reassignment.
 
-(Feb. 16, 1938, ch. 30, title III, §359e, as added Pub. L. 107–171, title I, §1403, May 13, 2002, 116 Stat. 197; amended Pub. L. 110–234, title I, §1403(e), May 22, 2008, 122 Stat. 986; Pub. L. 110–246, §4(a), title I, §1403(e), June 18, 2008, 122 Stat. 1664, 1714.)
+(Feb. 16, 1938, ch. 30, title III, §359e, as added Pub. L. 107–171, title I, §1403, May 13, 2002, 116 Stat. 197; amended Pub. L. 110–234, title I, §1403(e), May 22, 2008, 122 Stat. 986; Pub. L. 110–246, §4(a), title I, §1403(e), June 18, 2008, 122 Stat. 1664, 1714; Pub. L. 119–21, title I, §10312(c)(3), July 4, 2025, 139 Stat. 97.)
 
   
 
@@ -47,6 +57,8 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 A prior section 1359ee, act Feb. 16, 1938, ch. 30, title III, §359e, as added Pub. L. 101–624, title IX, §902, Nov. 28, 1990, 104 Stat. 3484; amended Pub. L. 102–237, title I, §111(g), Dec. 13, 1991, 105 Stat. 1833, related to reassignment of sugar deficits, prior to the general amendment of this subpart by Pub. L. 107–171.
 
 #### Amendments
+
+**2025**—Subsec. (b)(2). Pub. L. 119–21 designated existing provisions as subpar. (A) and inserted heading, redesignated former subpars. (A) to (C) as cls. (i) to (iii), respectively, of subpar. (A) and realigned margins, and added subpar. (B).
 
 **2008**—Subsec. (b)(1)(D), (2)(C). Pub. L. 110–246, §1403(e), inserted "of raw cane sugar" after "imports".
 

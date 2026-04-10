@@ -150,25 +150,31 @@ For purposes of subsection (a), the applicable percentage shall be—
 
 (1) in the case of property placed in service after December 31, 2016, and before January 1, 2020, 30 percent,
 
-(2) in the case of property placed in service after December 31, 2019, and before January 1, 2022, 26 percent,
+(2) in the case of property placed in service after December 31, 2019, and before January 1, 2022, 26 percent, and
 
-(3) in the case of property placed in service after December 31, 2021, and before January 1, 2033, 30 percent,
-
-(4) in the case of property placed in service after December 31, 2032, and before January 1, 2034, 26 percent, and
-
-(5) in the case of property placed in service after December 31, 2033, and before January 1, 2035, 22 percent.
+(3) in the case of property placed in service after December 31, 2021, 30 percent.
 
 #### (h) Termination
 
-The credit allowed under this section shall not apply to property placed in service after December 31, 2034.
+The credit allowed under this section shall not apply with respect to any expenditures made after December 31, 2025.
 
-(Added Pub. L. 109–58, title XIII, §1335(a), Aug. 8, 2005, 119 Stat. 1033; amended Pub. L. 109–135, title IV, §402(i)(1), (2), (3)(E), Dec. 21, 2005, 119 Stat. 2612, 2614; Pub. L. 109–432, div. A, title II, §206, Dec. 20, 2006, 120 Stat. 2945; Pub. L. 110–343, div. B, title I, §106(a)–(c)(3)(A), (c)(4)–(e)(1), Oct. 3, 2008, 122 Stat. 3814–3816; Pub. L. 111–5, div. B, title I, §§1103(b)(2)(B), 1122(a), Feb. 17, 2009, 123 Stat. 320, 324; Pub. L. 112–240, title I, §104(c)(2)(F), Jan. 2, 2013, 126 Stat. 2322; Pub. L. 114–113, div. P, title III, §304(a), Dec. 18, 2015, 129 Stat. 3039; Pub. L. 115–123, div. D, title I, §40402(a), (b), Feb. 9, 2018, 132 Stat. 148; Pub. L. 116–260, div. EE, title I, §148(a)–(b)(2), Dec. 27, 2020, 134 Stat. 3055; Pub. L. 117–169, title I, §13302(a)–(c)(2), Aug. 16, 2022, 136 Stat. 1946, 1947.)
+(Added Pub. L. 109–58, title XIII, §1335(a), Aug. 8, 2005, 119 Stat. 1033; amended Pub. L. 109–135, title IV, §402(i)(1), (2), (3)(E), Dec. 21, 2005, 119 Stat. 2612, 2614; Pub. L. 109–432, div. A, title II, §206, Dec. 20, 2006, 120 Stat. 2945; Pub. L. 110–343, div. B, title I, §106(a)–(c)(3)(A), (c)(4)–(e)(1), Oct. 3, 2008, 122 Stat. 3814–3816; Pub. L. 111–5, div. B, title I, §§1103(b)(2)(B), 1122(a), Feb. 17, 2009, 123 Stat. 320, 324; Pub. L. 112–240, title I, §104(c)(2)(F), Jan. 2, 2013, 126 Stat. 2322; Pub. L. 114–113, div. P, title III, §304(a), Dec. 18, 2015, 129 Stat. 3039; Pub. L. 115–123, div. D, title I, §40402(a), (b), Feb. 9, 2018, 132 Stat. 148; Pub. L. 116–260, div. EE, title I, §148(a)–(b)(2), Dec. 27, 2020, 134 Stat. 3055; Pub. L. 117–169, title I, §13302(a)–(c)(2), Aug. 16, 2022, 136 Stat. 1946, 1947; Pub. L. 119–21, title VII, §70506, July 4, 2025, 139 Stat. 251.)
 
   
 
 #### **Editorial Notes**
 
 #### Amendments
+
+**2025**—Subsec. (g)(3). Pub. L. 119–21, §70506(b)(2), substituted "30 percent." for "and before January 1, 2033, 30 percent,".
+
+Subsec. (g)(4), (5). Pub. L. 119–21, §70506(b)(1), (3), struck out pars. (4) and (5) which read as follows:
+
+"(4) in the case of property placed in service after December 31, 2032, and before January 1, 2034, 26 percent, and
+
+"(5) in the case of property placed in service after December 31, 2033, and before January 1, 2035, 22 percent."
+
+Subsec. (h). Pub. L. 119–21, §70506(a), substituted "with respect to any expenditures made after December 31, 2025" for "to property placed in service after December 31, 2034".
 
 **2022**—Pub. L. 117–169, §13302(c)(2), substituted "clean energy credit" for "energy efficient property" in section catchline.
 

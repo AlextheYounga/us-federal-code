@@ -1,14 +1,16 @@
 ### §78. Gross up for deemed paid foreign tax credit
 
-If a domestic corporation chooses to have the benefits of subpart A of part III of subchapter N (relating to foreign tax credit) for any taxable year, an amount equal to the taxes deemed to be paid by such corporation under subsections (a), (b), and (d) of section 960 (determined without regard to the phrase "80 percent of" in subsection (d)(1) thereof) for such taxable year shall be treated for purposes of this title (other than sections 245 and 245A) as a dividend received by such domestic corporation from the foreign corporation.
+If a domestic corporation chooses to have the benefits of subpart A of part III of subchapter N (relating to foreign tax credit) for any taxable year, an amount equal to the taxes deemed to be paid by such corporation under subsections (a) and (d) of section 960 (determined without regard to the phrase "90 percent of" in subsection (d)(1) thereof) for such taxable year shall be treated for purposes of this title (other than sections 245 and 245A) as a dividend received by such domestic corporation from the foreign corporation.
 
-(Added Pub. L. 87–834, §9(b), Oct. 16, 1962, 76 Stat. 1001; amended Pub. L. 94–455, title X, §1033(b)(1), Oct. 4, 1976, 90 Stat. 1628; Pub. L. 115–97, title I, §14301(c)(1), Dec. 22, 2017, 131 Stat. 2222.)
+(Added Pub. L. 87–834, §9(b), Oct. 16, 1962, 76 Stat. 1001; amended Pub. L. 94–455, title X, §1033(b)(1), Oct. 4, 1976, 90 Stat. 1628; Pub. L. 115–97, title I, §14301(c)(1), Dec. 22, 2017, 131 Stat. 2222; Pub. L. 119–21, title VII, §70312(a)(2), July 4, 2025, 139 Stat. 203.)
 
   
 
 #### **Editorial Notes**
 
 #### Amendments
+
+**2025**—Pub. L. 119–21 substituted "subsections (a) and (d)" for "subsections (a), (b), and (d)" and "90 percent" for "80 percent".
 
 **2017**—Pub. L. 115–97 amended section generally. Prior to amendment, text read as follows: "If a domestic corporation chooses to have the benefits of subpart A of part III of subchapter N (relating to foreign tax credit) for any taxable year, an amount equal to the taxes deemed to be paid by such corporation under section 902(a) (relating to credit for corporate stockholder in foreign corporation) or under section 960(a)(1) (relating to taxes paid by foreign corporation) for such taxable year shall be treated for purposes of this title (other than section 245) as a dividend received by such domestic corporation from the foreign corporation."
 
@@ -17,6 +19,14 @@ If a domestic corporation chooses to have the benefits of subpart A of part III 
   
 
 #### **Statutory Notes and Related Subsidiaries**
+
+#### Effective Date of 2025 Amendment
+
+Pub. L. 119–21, title VII, §70312(c), July 4, 2025, 139 Stat. 203, provided that:
+
+"(1) In general.—The amendments made by subsection (a) \[amending this section and section 960 of this title\] shall apply to taxable years beginning after December 31, 2025.
+
+"(2) Disallowance.—The amendment made by subsection (b) \[amending section 960 of this title\] shall apply to foreign income taxes paid or accrued (or deemed paid under section 960(b)(1) of the Internal Revenue Code of 1986) with respect to any amount excluded from gross income under section 959(a) of such Code by reason of an inclusion in gross income under section 951A(a) of such Code after June 28, 2025."
 
 #### Effective Date of 2017 Amendment
 

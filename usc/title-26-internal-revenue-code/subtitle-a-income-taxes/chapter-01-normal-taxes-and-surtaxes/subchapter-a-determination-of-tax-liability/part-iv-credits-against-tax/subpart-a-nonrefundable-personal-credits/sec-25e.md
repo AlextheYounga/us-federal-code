@@ -102,9 +102,9 @@ Rules similar to the rules of section 30D(g) shall apply.
 
 #### (g) Termination
 
-No credit shall be allowed under this section with respect to any vehicle acquired after December 31, 2032.
+No credit shall be allowed under this section with respect to any vehicle acquired after September 30, 2025.
 
-(Added and amended Pub. L. 117–169, title I, §13402(a), (b), Aug. 16, 2022, 136 Stat. 1962, 1963.)
+(Added and amended Pub. L. 117–169, title I, §13402(a), (b), Aug. 16, 2022, 136 Stat. 1962, 1963; Pub. L. 119–21, title VII, §70501, July 4, 2025, 139 Stat. 250.)
 
   
 
@@ -115,6 +115,8 @@ No credit shall be allowed under this section with respect to any vehicle acquir
 The date of the enactment of this section, referred to in subsec. (c)(2)(C), is the date of enactment of Pub. L. 117–169, which was approved Aug. 16, 2022.
 
 #### Amendments
+
+**2025**—Subsec. (g). Pub. L. 119–21 substituted "September 30, 2025" for "December 31, 2032".
 
 **2022**—Subsecs. (f), (g). Pub. L. 117–169, §13402(b), added subsec. (f) and redesignated former subsec. (f) as (g).
 

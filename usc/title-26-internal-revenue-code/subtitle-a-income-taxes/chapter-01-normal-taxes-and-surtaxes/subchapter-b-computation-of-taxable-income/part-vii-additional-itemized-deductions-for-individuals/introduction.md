@@ -26,13 +26,19 @@ Sec.
 
 223\. Health savings accounts.
 
-224\. Cross reference.
+224\. Qualified tips.
+
+225\. Qualified overtime compensation.
+
+226\. Cross reference.
 
         
 
 #### **Editorial Notes**
 
 #### Amendments
+
+**2025**—Pub. L. 119–21, title VII, §§70201(g), 70202(e), July 4, 2025, 139 Stat. 173, 175, added items 224 and 225 and successively renumbered former item 224 as 225, then 226.
 
 **2020**—Pub. L. 116–260, div. EE, title I, §104(b)(1), Dec. 27, 2020, 134 Stat. 3041, struck out item 222 "Qualified tuition and related expenses".
 

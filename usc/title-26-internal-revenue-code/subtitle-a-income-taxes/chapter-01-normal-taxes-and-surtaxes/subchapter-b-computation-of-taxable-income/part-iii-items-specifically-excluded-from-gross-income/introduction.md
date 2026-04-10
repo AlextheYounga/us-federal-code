@@ -58,7 +58,7 @@ Sec.
 
 127\. Educational assistance programs.
 
-\[128. Repealed.\]
+128\. Employer contributions to Trump accounts.
 
 129\. Dependent care assistance programs. 2
 
@@ -102,6 +102,12 @@ Sec.
 
 139I. Continuation coverage premium assistance.
 
+139J. Certain contributions to Trump accounts.
+
+139K. Scholarships for qualified elementary or secondary education expenses of eligible students.
+
+139L. Interest on loans secured by rural or agricultural real property.
+
 140\. Cross references to other Acts.
 
         
@@ -109,6 +115,10 @@ Sec.
 #### **Editorial Notes**
 
 #### Amendments
+
+**2025**—Pub. L. 119–21, title VII, §§70204(b)(2), 70411(b)(2), 70435(b), July 4, 2025, 139 Stat. 186, 218, 247, added items 128, 139K, and 139L.
+
+Pub. L. 119–21, title VII, §70204(c)(2), July 4, 2025, 139 Stat. 186, which directed amendment of the table of sections for part III of subchapter B by adding item 139J before item 140, was executed to the table of sections for part III of subchapter B of this chapter to reflect the probable intent of Congress.
 
 **2022**—Pub. L. 117–328, div. T, title III, §309(b), Dec. 29, 2022, 136 Stat. 5346, added item 139C.
 

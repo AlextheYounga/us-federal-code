@@ -10,13 +10,17 @@ Not more than 3 percent of the funds made available for any project for an agric
 
 #### (c) Maximum amount
 
-Not more than 25 percent of the funds made available pursuant to subsection (a) for any fiscal year shall be used for any single agricultural research facility project.
+Not more than 25 percent of the funds made available pursuant to subsections (a) and (e) for any fiscal year shall be used for any single agricultural research facility project.
 
 #### (d) Project limitation
 
 An entity eligible to receive funds under this subchapter may receive funds for only one project at a time.
 
-(Pub. L. 88–74, §6, as added Pub. L. 104–127, title VIII, §884(a), Apr. 4, 1996, 110 Stat. 1179; amended Pub. L. 105–185, title III, §301(d), June 23, 1998, 112 Stat. 563; Pub. L. 107–171, title VII, §7135, May 13, 2002, 116 Stat. 436; Pub. L. 110–234, title VII, §7405, May 22, 2008, 122 Stat. 1247; Pub. L. 110–246, §4(a), title VII, §7405, June 18, 2008, 122 Stat. 1664, 2008; Pub. L. 113–79, title VII, §7403, Feb. 7, 2014, 128 Stat. 895; Pub. L. 115–334, title VII, §7503(d), Dec. 20, 2018, 132 Stat. 4821.)
+#### (e) Mandatory funding
+
+Subject to subsections (b), (c), and (d), of the funds of the Commodity Credit Corporation, the Secretary shall make available to carry out the competitive grant program under section 390b of this title $125,000,000 for fiscal year 2026 and each fiscal year thereafter.
+
+(Pub. L. 88–74, §6, as added Pub. L. 104–127, title VIII, §884(a), Apr. 4, 1996, 110 Stat. 1179; amended Pub. L. 105–185, title III, §301(d), June 23, 1998, 112 Stat. 563; Pub. L. 107–171, title VII, §7135, May 13, 2002, 116 Stat. 436; Pub. L. 110–234, title VII, §7405, May 22, 2008, 122 Stat. 1247; Pub. L. 110–246, §4(a), title VII, §7405, June 18, 2008, 122 Stat. 1664, 2008; Pub. L. 113–79, title VII, §7403, Feb. 7, 2014, 128 Stat. 895; Pub. L. 115–334, title VII, §7503(d), Dec. 20, 2018, 132 Stat. 4821; Pub. L. 119–21, title I, §10604(f), July 4, 2025, 139 Stat. 109.)
 
   
 
@@ -57,6 +61,10 @@ A prior section 9 of Pub. L. 88–74 was renumbered section 7 and was classified
 A prior section 390k, Pub. L. 88–74, §12, July 22, 1963, 77 Stat. 92, authorized appropriation of such sums as might be necessary for proper administration of this subchapter, prior to repeal by Pub. L. 95–113, title XIV, §1416(2), Sept. 29, 1977, 91 Stat. 994, effective Oct. 1, 1977.
 
 #### Amendments
+
+**2025**—Subsec. (c). Pub. L. 119–21, §10604(f)(1), substituted "subsections (a) and (e)" for "subsection (a)".
+
+Subsec. (e). Pub. L. 119–21, §10604(f)(2), added subsec. (e).
 
 **2018**—Subsec. (a). Pub. L. 115–334, §7503(d)(1), substituted "subsections (b), (c), and (d)," for "subsection (b)," and "2023" for "2018" and inserted at end "Funds appropriated pursuant to the preceding sentence shall be available until expended."
 

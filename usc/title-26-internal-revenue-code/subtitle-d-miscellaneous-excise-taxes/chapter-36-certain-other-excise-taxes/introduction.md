@@ -12,7 +12,7 @@ B. Occupational tax on coin-operated devices 2 4461
 
         
 
-\[C. Repealed.\]
+C. Remittance transfers 4475
 
 D. Tax on use of certain vehicles 4481
 
@@ -25,6 +25,8 @@ D. Tax on use of certain vehicles 4481
 #### **Editorial Notes**
 
 #### Amendments
+
+**2025**—Pub. L. 119–21, title VII, §70604(b), July 4, 2025, 139 Stat. 286, added item for subchapter C.
 
 **1997**—Pub. L. 105–34, title XIV, §1432(b)(2), Aug. 5, 1997, 110 Stat. 1050, struck out item for subchapter F "Tax on removal of hard mineral resources from deep seabed".
 

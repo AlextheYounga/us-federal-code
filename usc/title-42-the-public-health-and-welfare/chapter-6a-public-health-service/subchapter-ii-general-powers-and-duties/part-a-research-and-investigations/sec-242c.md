@@ -110,10 +110,6 @@ The Director, in consultation with the Secretary, shall establish guidelines reg
 
 (July 1, 1944, ch. 373, title III, §305, as added Pub. L. 117–328, div. FF, title II, §2101(a), Dec. 29, 2022, 136 Stat. 5706.)
 
-#### Delayed Effective Date
-
-For delayed effective date of first sentence of subection (a) of this section, see Effective Date note below.
-
   
 
 #### **Editorial Notes**

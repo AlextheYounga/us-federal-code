@@ -64,19 +64,21 @@ For purposes of this section—
 
 The term "qualified retirement savings contributions" means, with respect to any taxable year, the sum of—
 
-(A) the amount of the qualified retirement contributions (as defined in section 219(e)) made by the eligible individual,
+(A) the amount of contributions made by the eligible individual during such taxable year to the ABLE account (within the meaning of section 529A) of which such individual is the designated beneficiary, and
 
-(B) the amount of—
+(B) in the case of any taxable year beginning before January 1, 2027—
 
-(i) any elective deferrals (as defined in section 402(g)(3)) of such individual, and
+(i) the amount of the qualified retirement contributions (as defined in section 219(e)) made by the eligible individual,
 
-(ii) any elective deferral of compensation by such individual under an eligible deferred compensation plan (as defined in section 457(b)) of an eligible employer described in section 457(e)(1)(A),
+(ii) the amount of—
+
+(I) any elective deferrals (as defined in section 402(g)(3)) of such individual, and
+
+(II) any elective deferral of compensation by such individual under an eligible deferred compensation plan (as defined in section 457(b)) of an eligible employer described in section 457(e)(1)(A), and
 
   
 
-(C) the amount of voluntary employee contributions by such individual to any qualified retirement plan (as defined in section 4974(c)), and
-
-(D) the amount of contributions made before January 1, 2026, by such individual to the ABLE account (within the meaning of section 529A) of which such individual is the designated beneficiary.
+(iii) the amount of voluntary employee contributions by such individual to any qualified retirement plan (as defined in section 4974(c)).
 
 #### (2) Reduction for certain distributions
 
@@ -114,11 +116,11 @@ For purposes of this section, adjusted gross income shall be determined without 
 
 Notwithstanding any other provision of law, a qualified retirement savings contribution shall not fail to be included in determining the investment in the contract for purposes of section 72 by reason of the credit under this section.
 
-(Added and amended Pub. L. 107–16, title VI, §618(a), (b)(1), June 7, 2001, 115 Stat. 106, 108; Pub. L. 107–147, title IV, §§411(m), 417(1), Mar. 9, 2002, 116 Stat. 48, 56; Pub. L. 108–311, title II, §207(4), Oct. 4, 2004, 118 Stat. 1177; Pub. L. 109–135, title IV, §402(i)(3)(D), Dec. 21, 2005, 119 Stat. 2614; Pub. L. 109–280, title VIII, §§812, 833(a), Aug. 17, 2006, 120 Stat. 997, 1003; Pub. L. 110–343, div. B, title I, §106(e)(2)(C), title II, §205(d)(1)(C), Oct. 3, 2008, 122 Stat. 3817, 3838; Pub. L. 111–5, div. B, title I, §§1004(b)(4), 1142(b)(1)(C), 1144(b)(1)(C), Feb. 17, 2009, 123 Stat. 314, 330, 332; Pub. L. 111–148, title X, §10909(b)(2)(D), (c), Mar. 23, 2010, 124 Stat. 1023; Pub. L. 111–312, title I, §101(b)(1), Dec. 17, 2010, 124 Stat. 3298; Pub. L. 112–240, title I, §104(c)(2)(E), Jan. 2, 2013, 126 Stat. 2322; Pub. L. 115–97, title I, §§11002(d)(1)(C), 11024(b), Dec. 22, 2017, 131 Stat. 2060, 2076; Pub. L. 117–328, div. T, title I, §103(e)(1), Dec. 29, 2022, 136 Stat. 5286.)
+(Added and amended Pub. L. 107–16, title VI, §618(a), (b)(1), June 7, 2001, 115 Stat. 106, 108; Pub. L. 107–147, title IV, §§411(m), 417(1), Mar. 9, 2002, 116 Stat. 48, 56; Pub. L. 108–311, title II, §207(4), Oct. 4, 2004, 118 Stat. 1177; Pub. L. 109–135, title IV, §402(i)(3)(D), Dec. 21, 2005, 119 Stat. 2614; Pub. L. 109–280, title VIII, §§812, 833(a), Aug. 17, 2006, 120 Stat. 997, 1003; Pub. L. 110–343, div. B, title I, §106(e)(2)(C), title II, §205(d)(1)(C), Oct. 3, 2008, 122 Stat. 3817, 3838; Pub. L. 111–5, div. B, title I, §§1004(b)(4), 1142(b)(1)(C), 1144(b)(1)(C), Feb. 17, 2009, 123 Stat. 314, 330, 332; Pub. L. 111–148, title X, §10909(b)(2)(D), (c), Mar. 23, 2010, 124 Stat. 1023; Pub. L. 111–312, title I, §101(b)(1), Dec. 17, 2010, 124 Stat. 3298; Pub. L. 112–240, title I, §104(c)(2)(E), Jan. 2, 2013, 126 Stat. 2322; Pub. L. 115–97, title I, §§11002(d)(1)(C), 11024(b), Dec. 22, 2017, 131 Stat. 2060, 2076; Pub. L. 117–328, div. T, title I, §103(e)(1), Dec. 29, 2022, 136 Stat. 5286; Pub. L. 119–21, title VII, §70116(a)(1), (2), (b)(1), July 4, 2025, 139 Stat. 166, 167.)
 
-#### Amendment of Subsection (d)(1)
+#### Amendment of Subsection (a)
 
-Pub. L. 117–328, div. T, title I, §103(e)(1), (f), Dec. 29, 2022, 136 Stat. 5286, provided that, applicable to taxable years beginning after Dec. 31, 2026, subsection (d)(1) of this section is amended by striking "the sum of—" and all that follows through "the amount of contributions made before January 1, 2026" and inserting "the amount of contributions made before January 1, 2026". See 2022 Amendment note below.
+Pub. L. 119–21, title VII, §70116(b), July 4, 2025, 139 Stat. 167, provided that, applicable to taxable years beginning after Dec. 31, 2026, subsection (a) of this section is amended by striking "$2,000" and inserting "$2,100". See 2025 Amendment note below.
 
 #### Inflation Adjusted Items for Certain Years
 
@@ -130,7 +132,13 @@ For inflation adjustment of certain items in this section, see Revenue Procedure
 
 #### Amendments
 
-**2022**—Subsec. (d)(1). Pub. L. 117–328 substituted "the amount of contributions made before January 1, 2026" for "the sum of—
+**2025**—Subsec. (a). Pub. L. 119–21, §70116(b)(1), substituted "$2,100" for "$2,000".
+
+Subsec. (d)(1). Pub. L. 119–21, §70116(a)(2), repealed Pub. L. 117–328, §103(e)(1), and provided that this title shall be applied and administered as though par. (1) of section 103(e) was never enacted. See 2022 Amendment note below.
+
+Pub. L. 119–21, §70116(a)(1), amended par. (1) generally. Prior to amendment, par. (1) defined qualified retirement savings contributions.
+
+**2022**—Subsec. (d)(1). Pub. L. 117–328, §103(e)(1), which directed the substitution of "the amount of contributions made before January 1, 2026" for "the sum of—
 
 "(A) the amount of the qualified retirement contributions (as defined in section 219(e)) made by the eligible individual,
 
@@ -142,7 +150,9 @@ For inflation adjustment of certain items in this section, see Revenue Procedure
 
 "(C) the amount of voluntary employee contributions by such individual to any qualified retirement plan (as defined in section 4974(c)), and
 
-"(D) the amount of contributions made before January 1, 2026".
+"(D) the amount of contributions made before January 1, 2026",
+
+was repealed by Pub. L. 119–21, §70116(a)(2).
 
 **2017**—Subsec. (b)(3)(B). Pub. L. 115–97, §11002(d)(1)(C), substituted "for 'calendar year 2016' in subparagraph (A)(ii)" for "for 'calendar year 1992' in subparagraph (B)".
 
@@ -187,6 +197,12 @@ Subsecs. (g), (h). Pub. L. 107–147, §417(1), redesignated subsec. (g), relati
   
 
 #### **Statutory Notes and Related Subsidiaries**
+
+#### Effective Date of 2025 Amendment
+
+Pub. L. 119–21, title VII, §70116(a)(3), July 4, 2025, 139 Stat. 167, provided that: "The amendments and repeal made by this subsection \[amending this section\] shall apply to taxable years ending after December 31, 2025."
+
+Pub. L. 119–21, title VII, §70116(b)(2), July 4, 2025, 139 Stat. 167, provided that: "The amendment made by this subsection \[amending this section\] shall apply to taxable years beginning after December 31, 2026."
 
 #### Effective Date of 2022 Amendment
 
@@ -247,3 +263,7 @@ Amendment by section 618(b)(1) of Pub. L. 107–16 inapplicable to taxable years
 Amendment by section 618(b)(1) of Pub. L. 107–16 inapplicable to taxable years beginning during 2002 and 2003, see section 601(b)(2) of Pub. L. 107–147, set out as an Effective Date of 2001 Amendment note under section 23 of this title.
 
 Amendment by section 618(b)(1) of Pub. L. 107–16 applicable to taxable years beginning after Dec. 31, 2001, see section 618(d) of Pub. L. 107–16, set out as an Effective Date of 2001 Amendment note under section 24 of this title.
+
+#### Coordination With Secure 2.0 Act of 2022 Amendment
+
+Pub. L. 119–21, title VII, §70116(a)(2), July 4, 2025, 139 Stat. 167, provided that: "Paragraph (1) of section 103(e) of the SECURE 2.0 Act of 2022 \[div. T of Pub. L. 117–328, amending this section\] is repealed, and the Internal Revenue Code of 1986 shall be applied and administered as though such paragraph were \[sic\] never enacted."
