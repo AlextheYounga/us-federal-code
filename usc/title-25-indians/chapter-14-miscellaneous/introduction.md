@@ -42,7 +42,7 @@ Sec.
 
 #### SUBCHAPTER VIII—INDIANS IN OKLAHOMA: PROMOTION OF WELFARE
 
-501 to 510. Omitted.
+501 to 510. Transferred.
 
         
 

@@ -114,6 +114,8 @@ Sec.
 
 519 . Annual audit of pay and allowances of members undergoing permanent change of station.
 
+520\. Prospective payment of funds necessary to provide medical care.
+
         
 
 #### Historical and Revision Notes
@@ -122,7 +124,9 @@ Chapter 13 of this title deals with pay, allowances, awards, and other rights an
 
 #### Amendments
 
-**2016**—Pub. L. 114–120, title II, §§203(b), 216(a)(2), Feb. 8, 2016, 130 Stat. 34, 46, added items 461 and 519 and struck out former item 461 "Remission of indebtedness of enlisted members upon discharge".
+**2016**—Pub. L. 114–328, div. A, title VII, §722(b), Dec. 23, 2016, 130 Stat. 2229, added item 520.
+
+Pub. L. 114–120, title II, §§203(b), 216(a)(2), Feb. 8, 2016, 130 Stat. 34, 46, added items 461 and 519 and struck out former item 461 "Remission of indebtedness of enlisted members upon discharge".
 
 **2014**—Pub. L. 113–281, title II, §214(b)(2)(B), Dec. 18, 2014, 128 Stat. 3033, struck out items 514 "Reimbursement for adoption expenses" and 515 "Child development services".
 
