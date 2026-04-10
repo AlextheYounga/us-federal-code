@@ -88,6 +88,8 @@
 
 (2) Exception.—If the Secretary determines that waiting for the regular notification process before initiating a program as described in paragraph (1) would cause exceptionally grave damage to the national security, the Secretary may begin a program to be managed under alternative compensatory control measures in the Department before such waiting period elapses. The Secretary shall notify the congressional defense committees within 10 days of initiating a program under this paragraph, including a justification for the determination of the Secretary that waiting for the regular notification process would cause exceptionally grave damage to the national security.
 
+  
+
 (g) Congressional Oversight.—(1) Neither the Secretary of Defense nor the Director of National Intelligence may take any action that would have the effect of limiting the access of the congressional defense committees to—
 
 (A) any classified program, or any information about any classified program, to which such committees have access as of the date of the enactment of the National Defense Authorization Act for Fiscal Year 2022; or
