@@ -32,6 +32,10 @@ Chapter Sec.
 
         
 
+229\. Rail Improvement Grants 22901
+
+        
+
 #### PART C—PASSENGER TRANSPORTATION
 
 241\. General 24101
@@ -42,9 +46,7 @@ Chapter Sec.
 
 243\. Amtrak 24301
 
-244\. Rail improvement grants 3 24401
-
-        
+\[244. Transferred.\]
 
 \[245. Repealed.\]
 
@@ -72,6 +74,8 @@ Chapter Sec.
 
 #### Amendments
 
+**2019**—Pub. L. 115–420, §7(a)(4), Jan. 3, 2019, 132 Stat. 5445, added item for chapter 229 and struck out item for chapter 244 "Rail improvement grants".
+
 2015–Pub. L. 114–94, div. A, title XI, §§11301(c)(3), 11303(b)(2), 11503(c), Dec. 4, 2015, 129 Stat. 1648, 1654, 1692, struck out item for chapter 225 "Federal grants to States for highway-rail grade crossing safety", added item for chapter 242, and substituted "Rail improvement grants" for "Intercity Passenger Rail Service Corridor Capital Assistance" in item for chapter 244.
 
 **2008**—Pub. L. 110–432, div. A, title II, §207(b), div. B, title III, §301(b), title IV, §401(b), Oct. 16, 2008, 122 Stat. 4875, 4946, 4956, added items for chapters 225, 244, and 285.
@@ -91,5 +95,3 @@ Pub. L. 110–432, div. B, title III, §303(b), Oct. 16, 2008, 122 Stat. 4951, w
 [1 So in original. Probably should be "State Rail Plans".](#SUBTITLEV_1)
 
 [2 So in original. Probably should be "Project Delivery".](#SUBTITLEV_2)
-
-[3 So in original. Probably should be "Rail Improvement Grants".](#SUBTITLEV_3)
