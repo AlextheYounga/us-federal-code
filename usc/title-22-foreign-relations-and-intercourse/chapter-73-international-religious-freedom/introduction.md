@@ -58,6 +58,8 @@ Sec.
 
 6442\. Presidential actions in response to particularly severe violations of religious freedom.
 
+6442a. Non-state actor designations.
+
 6443\. Consultations.
 
 6444\. Report to Congress.
@@ -90,6 +92,8 @@ Sec.
 
 6473\. Reform of asylum policy.
 
+6473a. Designated persons list for particularly severe violations of religious freedom.
+
 6474\. Studies on effect of expedited removal provisions on asylum claims.
 
         
@@ -97,5 +101,9 @@ Sec.
 #### SUBCHAPTER V—MISCELLANEOUS PROVISIONS
 
 6481\. Business codes of conduct.
+
+6482\. Voluntary codes of conduct for United States institutions of higher education outside the United States.
+
+6483\. Sense of Congress regarding national security strategy to promote religious freedom through United States foreign policy.
 
         
