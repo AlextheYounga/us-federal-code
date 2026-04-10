@@ -1,32 +1,32 @@
 ### SUBCHAPTER IX—POST-TRIAL PROCEDURE AND REVIEW OF COURTS-MARTIAL
 
  
-| Sec.  | Art. |                                                                                                        |
-| ----- | ---- | ------------------------------------------------------------------------------------------------------ |
-| 859\. | 59\. | Error of law; lesser included offense.                                                                 |
-| 860\. | 60\. | Post-trial processing in general and special courts-martial.                                           |
-| 860a. | 60a. | Limited authority to act on sentence in specified post-trial circumstances.                            |
-| 860b. | 60b. | Post-trial actions in summary courts-martial and certain general and special courts-martial.           |
-| 860c. | 60c. | Entry of judgment.                                                                                     |
-| 861\. | 61\. | Waiver of right to appeal; withdrawal of appeal.                                                       |
-| 862\. | 62\. | Appeal by the United States.                                                                           |
-| 863\. | 63\. | Rehearings.                                                                                            |
-| 864\. | 64\. | Judge advocate review of finding of guilty in summary court-martial.                                   |
-| 865\. | 65\. | Transmittal and review of records.                                                                     |
-| 866\. | 66\. | Courts of Criminal Appeals.                                                                            |
-| 867\. | 67\. | Review by the Court of Appeals for the Armed Forces.                                                   |
-| 867a. | 67a. | Review by the Supreme Court.                                                                           |
-| 868\. | 68\. | Branch offices.                                                                                        |
-| 869\. | 69\. | Review by Judge Advocate General.                                                                      |
-| 870\. | 70\. | Appellate counsel.                                                                                     |
-| 871\. | 71\. | Execution of sentence; suspension of sentence.                                                         |
-| 872\. | 72\. | Vacation of suspension.                                                                                |
-| 873\. | 73\. | Petition for a new trial.                                                                              |
-| 874\. | 74\. | Remission and suspension.                                                                              |
-| 875\. | 75\. | Restoration.                                                                                           |
-| 876\. | 76\. | Finality of proceedings, findings, and sentences.                                                      |
-| 876a. | 76a. | Leave required to be taken pending review of certain court-martial convictions.                        |
-| 876b. | 76b. | Lack of mental capacity or mental responsibility: commitment of accused for examination and treatment. |
+| Sec.   | Art. |                                                                                                        |
+| ------ | ---- | ------------------------------------------------------------------------------------------------------ |
+| 859\.  | 59\. | Error of law; lesser included offense.                                                                 |
+| 860\.  | 60\. | Post-trial processing in general and special courts-martial.                                           |
+| 860a.  | 60a. | Limited authority to act on sentence in specified post-trial circumstances.                            |
+| 860b.  | 60b. | Post-trial actions in summary courts-martial and certain general and special courts-martial.           |
+| 860c.  | 60c. | Entry of judgment.                                                                                     |
+| 861\.  | 61\. | Waiver of right to appeal; withdrawal of appeal.                                                       |
+| 862\.  | 62\. | Appeal by the United States.                                                                           |
+| 863\.  | 63\. | Rehearings.                                                                                            |
+| 864\.  | 64\. | Judge advocate review of finding of guilty in summary court-martial.                                   |
+| 865\.  | 65\. | Transmittal and review of records.                                                                     |
+| 866\.  | 66\. | Courts of Criminal Appeals.                                                                            |
+| 867\.  | 67\. | Review by the Court of Appeals for the Armed Forces.                                                   |
+| 867a.  | 67a. | Review by the Supreme Court.                                                                           |
+| 868\.  | 68\. | Branch offices.                                                                                        |
+| 869\.  | 69\. | Review by Judge Advocate General.                                                                      |
+| 870\.  | 70\. | Appellate counsel.                                                                                     |
+| \[871. | 71\. | Repealed.\]                                                                                            |
+| 872\.  | 72\. | Vacation of suspension.                                                                                |
+| 873\.  | 73\. | Petition for a new trial.                                                                              |
+| 874\.  | 74\. | Remission and suspension.                                                                              |
+| 875\.  | 75\. | Restoration.                                                                                           |
+| 876\.  | 76\. | Finality of proceedings, findings, and sentences.                                                      |
+| 876a.  | 76a. | Leave required to be taken pending review of certain court-martial convictions.                        |
+| 876b.  | 76b. | Lack of mental capacity or mental responsibility: commitment of accused for examination and treatment. |
 
 #### Amendments
 

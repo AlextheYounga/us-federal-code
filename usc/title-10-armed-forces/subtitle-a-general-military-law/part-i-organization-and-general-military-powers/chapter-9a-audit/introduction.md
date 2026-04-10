@@ -18,10 +18,6 @@ Sec.
 
         
 
-#### Codification
-
-Chapter enacted and added after chapter 9 of this title by Pub. L. 115–91, div. A, title X, §1002(a)(1), Dec. 12, 2017, 131 Stat. 1537, with out-of-sequence numbering of analysis items as 251 to 254b. See 2018 Amendment note below.
-
 #### Amendments
 
 **2018**—Pub. L. 115–232, div. A, title X, §1002(a)(1)(B), Aug. 13, 2018, 132 Stat. 1945, renumbered items 251 to 254b as 240a to 240f, respectively.
