@@ -46,11 +46,9 @@ Chap. Sec.
 
 24\. Nuclear Posture 491
 
-25\. Electronic Warfare 1
+25\. Electronic Warfare 1 500
 
         
-
-500
 
   
 
