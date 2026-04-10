@@ -28,7 +28,7 @@ Sec.
 
 1862k. Findings; core strategies.
 
-1862l. National research facilities.
+1862 l. National research facilities.
 
 1862m. Financial disclosure.
 
@@ -56,7 +56,7 @@ Sec.
 
 1862n–10. Minority-serving institutions undergraduate program.
 
-1862o. Postdoctoral research fellows.
+1862 o. Postdoctoral research fellows.
 
 1862o–1. Responsible conduct of research.
 
