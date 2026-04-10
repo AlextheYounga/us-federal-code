@@ -6,9 +6,11 @@ Sec.
 
 2241a. Prohibition on use of funds for publicity or propaganda purposes within the United States.
 
+2241b. Prohibition on contracts providing payments for activities at sporting events to honor members of the armed forces.
+
 2242\. Authority to use appropriated funds for certain investigations and security services.
 
-2243\. Authority to use appropriated funds to support student meal programs in overseas dependents' schools.
+2243\. Authority to use appropriated funds to support student meal programs in overseas defense dependents' schools.
 
 2244\. Security investigations.
 
@@ -35,6 +37,8 @@ Sec.
         
 
 #### Amendments
+
+**2015**—Pub. L. 114–92, div. A, title III, §341(b), title V, §573(b)(2), Nov. 25, 2015, 129 Stat. 793, 831, added item 2241b and substituted "Authority to use appropriated funds to support student meal programs in overseas defense dependents' schools" for "Authority to use appropriated funds to support student meal programs in overseas dependents' schools" in item 2243.
 
 **2014**—Pub. L. 113–291, div. A, title XII, §1204(a)(2), Dec. 19, 2014, 128 Stat. 3533, added item 2249e.
 
