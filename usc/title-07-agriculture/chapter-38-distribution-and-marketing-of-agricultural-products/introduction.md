@@ -112,8 +112,6 @@ Sec.
 
 1636h. Federal preemption.
 
-1636i. Termination of authority.
-
         
 
 #### SUBCHAPTER III—DAIRY PRODUCT MANDATORY REPORTING
