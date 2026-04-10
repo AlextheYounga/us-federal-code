@@ -82,6 +82,8 @@ Sec.
 
         
 
+#### **Editorial Notes**
+
 #### Amendments
 
 **2017**—Pub. L. 115–48, title I, §109(a)(2), title III, §§307(b), 308(b), Aug. 16, 2017, 131 Stat. 980, 993, 994, added items 3697B, 3699, and 3699A.

@@ -82,6 +82,8 @@ Sec.
 
         
 
+#### **Editorial Notes**
+
 #### Amendments
 
 **2013**—Pub. L. 112–260, title III, §302(a)(2), Jan. 10, 2013, 126 Stat. 2425, which directed amendment of the table of sections for chapter 72 by adding item 7255 and striking out former item 7255 "Offices", without specifying the Code title to be amended, was executed to the table of sections for this chapter, to reflect the probable intent of Congress.

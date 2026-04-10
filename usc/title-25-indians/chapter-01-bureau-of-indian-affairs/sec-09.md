@@ -4,6 +4,10 @@ The President may prescribe such regulations as he may think fit for carrying in
 
 (R.S. §465.)
 
+  
+
+#### **Editorial Notes**
+
 #### Codification
 
 R.S. §465 derived from act June 30, 1834, ch. 162, §17, 4 Stat. 738.

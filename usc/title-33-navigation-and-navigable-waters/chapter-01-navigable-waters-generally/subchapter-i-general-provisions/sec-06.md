@@ -4,6 +4,10 @@ The passage of vessels to and from the harbor of Michigan City, in Indiana, shal
 
 (R.S. §5247.)
 
+  
+
+#### **Editorial Notes**
+
 #### Codification
 
 R.S. §5247 derived from acts June 23, 1866, ch. 138, §1, 14 Stat. 73; Mar. 2, 1867, ch. 144, §2, 14 Stat. 421.

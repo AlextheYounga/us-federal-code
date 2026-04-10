@@ -84,6 +84,8 @@ Sec.
 
         
 
+#### **Editorial Notes**
+
 #### Amendments
 
 **2013**—Pub. L. 113–66, div. A, title V, §563(c)(2), Dec. 26, 2013, 127 Stat. 768, struck out items 1560 "Medal of Honor Roll; persons eligible" and 1561 "Certificate".

@@ -4644,7 +4644,7 @@ Respondent
 
 ### Form 4. Affidavit Accompanying Motion for Permission to Appeal In Forma Pauperis
 
-![](http://uscode.house.gov/images/uscprelim/Apf4p1.gif) ![](http://uscode.house.gov/images/uscprelim/Apf4p2.gif) ![](http://uscode.house.gov/images/uscprelim/Apf4p3.gif) ![](http://uscode.house.gov/images/uscprelim/Apf4p4.gif) ![](http://uscode.house.gov/images/uscprelim/Apf4p5.gif) ![](http://uscode.house.gov/images/uscprelim/Apf4p6.gif)
+![](http://uscode.house.gov/images/uscprelim/Apf4p1.png) ![](http://uscode.house.gov/images/uscprelim/Apf4p2.png) ![](http://uscode.house.gov/images/uscprelim/Apf4p3.png) ![](http://uscode.house.gov/images/uscprelim/Apf4p4.png) ![](http://uscode.house.gov/images/uscprelim/Apf4p5.png) ![](http://uscode.house.gov/images/uscprelim/Apf4p6.png)
 
 (As amended Apr. 24, 1998, eff. Dec. 1, 1998; Apr. 28, 2010, eff. Dec. 1, 2010; Apr. 16, 2013, eff. Dec. 1, 2013; Apr. 26, 2018, eff. Dec. 1, 2018.)
 
@@ -4662,7 +4662,7 @@ Respondent
 
 ### District of \_\_\_\_\_\_\_\_\_\_\_\_
 
-![](http://uscode.house.gov/images/uscprelim/28AApF5.gif)
+![](http://uscode.house.gov/images/uscprelim/28AApF5.png)
 
 ### Notice of Appeal to United States Court of Appeals for the \_\_\_\_\_\_\_\_\_\_\_\_ Circuit
 
@@ -4688,7 +4688,7 @@ Address: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_      
 
 #### Form 6
 
-![](http://uscode.house.gov/images/uscprelim/28ap6.gif)
+![](http://uscode.house.gov/images/uscprelim/28ap6.png)
 
 (As added Apr. 29, 2002, eff. Dec. 1, 2002; amended Apr. 28, 2016, eff. Dec. 1, 2016.)
 
@@ -4734,7 +4734,7 @@ Signed on \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\[*insert date*\]
 
 ### APPENDIX
 
-![](http://uscode.house.gov/images/uscprelim/28Aapp1.gif) ![](http://uscode.house.gov/images/uscprelim/28Aapp2.gif)
+![](http://uscode.house.gov/images/uscprelim/28Aapp1.png) ![](http://uscode.house.gov/images/uscprelim/28Aapp2.png)
 
 (As added Apr. 28, 2016, eff. Dec. 1, 2016.)
 
