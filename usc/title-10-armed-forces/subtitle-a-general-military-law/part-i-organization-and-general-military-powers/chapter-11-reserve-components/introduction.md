@@ -2,11 +2,9 @@
 
 Sec.
 
-261\. 1
+261\. Reference to chapters 1003, 1005, and 1007.
 
         
-
-Reference to chapters 1003, 1005, and 1007.
 
 #### Amendments
 
@@ -23,5 +21,3 @@ Reference to chapters 1003, 1005, and 1007.
 **1960**—Pub. L. 86–559, §1(2)(D), June 30, 1960, 74 Stat. 264, added item 281.
 
 **1958**—Pub. L. 85–861, §1(6), Sept. 2, 1958, 72 Stat. 1439, added items 270, 271, 272 and 279.
-
-[1 So in original. Probably should be section "241".](#CHAPTER11_1)

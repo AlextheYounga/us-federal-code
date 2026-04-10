@@ -141,21 +141,3 @@ Sec.
 893c. Workforce study.
 
         
-
-#### SUBCHAPTER VI—SEXUAL HARASSMENT AND ASSAULT PREVENTION
-
-894\. Actions to address sexual harassment at National Oceanic and Atmospheric Administration.
-
-894a. Actions to address sexual assault at National Oceanic and Atmospheric Administration.
-
-894b. Rights of the victim of a sexual assault.
-
-894c. Change of station.
-
-894d. Applicability of policies to crews of vessels secured by National Oceanic and Atmospheric Administration under contract.
-
-894e. Annual report on sexual assaults in the National Oceanic and Atmospheric Administration.
-
-894f. Sexual assault defined.
-
-        
