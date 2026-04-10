@@ -34,7 +34,7 @@ Pub. L. 96–190, Feb. 12, 1980, 94 Stat. 17, known as the Dispute Resolution Ac
 
 # FEDERAL RULES OF APPELLATE PROCEDURE
 
-(As amended to December 1, 2023)
+(As amended to December 26, 2023)
 
 #### Historical Note
 
@@ -4918,7 +4918,7 @@ Signed on \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\[*insert date*\]
 
 # FEDERAL RULES OF CIVIL PROCEDURE
 
-(As amended to December 1, 2023)
+(As amended to December 26, 2023)
 
 #### Historical Note
 
@@ -18361,7 +18361,7 @@ Rules 6, 7, and 8 set the times for serving the briefs: 30 days after the answer
 
 # FEDERAL RULES OF EVIDENCE
 
-(As amended to December 1, 2023)
+(As amended to December 26, 2023)
 
 #### Effective Date and Application of Rules
 
