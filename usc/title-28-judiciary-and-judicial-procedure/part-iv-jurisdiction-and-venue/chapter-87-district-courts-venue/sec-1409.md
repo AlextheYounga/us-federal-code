@@ -32,7 +32,9 @@ Section effective July 10, 1984, see section 122(a) of Pub. L. 98–353, set out
 
 The dollar amounts specified in this section were adjusted by notices of the Judicial Conference of the United States pursuant to section 104 of Title 11, Bankruptcy, as follows:
 
-By notice dated Feb. 12, 2013, 78 F.R. 12089, effective Apr. 1, 2013, in subsec. (b), dollar amounts "1,175", "17,575", and "11,725" were adjusted to "1,250", "18,675", and "12,475", respectively. See notice of the Judicial Conference of the United States set out as a note under section 104 of Title 11.
+By notice dated Feb. 16, 2016, 81 F.R. 8748, effective Apr. 1, 2016, in subsec. (b), dollar amounts "1,250", "18,675", and "12,475" were adjusted to "1,300", "19,250", and "12,850", respectively. See notice of the Judicial Conference of the United States set out as a note under section 104 of Title 11.
+
+By notice dated Feb. 12, 2013, 78 F.R. 12089, effective Apr. 1, 2013, in subsec. (b), dollar amounts "1,175", "17,575", and "11,725" were adjusted to "1,250", "18,675", and "12,475", respectively.
 
 By notice dated Feb. 19, 2010, 75 F.R. 8747, effective Apr. 1, 2010, in subsec. (b), dollar amounts "1,100", "16,425", and "10,950" were adjusted to "1,175", "17,575", and "11,725", respectively.
 

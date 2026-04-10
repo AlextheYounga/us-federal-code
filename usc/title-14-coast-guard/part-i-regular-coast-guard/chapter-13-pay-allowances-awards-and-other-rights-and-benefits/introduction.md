@@ -2,7 +2,7 @@
 
 Sec.
 
-461\. Remission of indebtedness of enlisted members upon discharge.
+461\. Remission of indebtedness.
 
 \[462 to 466. Repealed.\]
 
@@ -112,6 +112,8 @@ Sec.
 
 518\. Reimbursement for medical-related travel expenses for certain persons residing on islands in the continental United States.
 
+519 . Annual audit of pay and allowances of members undergoing permanent change of station.
+
         
 
 #### Historical and Revision Notes
@@ -120,13 +122,15 @@ Chapter 13 of this title deals with pay, allowances, awards, and other rights an
 
 #### Amendments
 
+**2016**—Pub. L. 114–120, title II, §§203(b), 216(a)(2), Feb. 8, 2016, 130 Stat. 34, 46, added items 461 and 519 and struck out former item 461 "Remission of indebtedness of enlisted members upon discharge".
+
 **2014**—Pub. L. 113–281, title II, §214(b)(2)(B), Dec. 18, 2014, 128 Stat. 3033, struck out items 514 "Reimbursement for adoption expenses" and 515 "Child development services".
 
 **2010**—Pub. L. 111–281, title II, §§203(b), 224(d), Oct. 15, 2010, 124 Stat. 2910, 2922, added items 491a, 492a, 492b, and 518 and struck out former item 492a "Distinguished flying cross".
 
 **2004**—Pub. L. 108–293, title II, §§210(b), 218(b), Aug. 9, 2004, 118 Stat. 1036, 1039, added items 472 and 517.
 
-**2002**—Pub. L. 107–295, title III, §312(b), Nov. 25, 2002, 116 Stat. 2102, added item 511 and struck out former item 511 "Compensatory absence of military personnel at isolated aids to navigation."
+**2002**—Pub. L. 107–295, title III, §312(b), Nov. 25, 2002, 116 Stat. 2102, added item 511 and struck out former item 511 "Compensatory absence of military personnel at isolated aids to navigation".
 
 Pub. L. 107–248, title VIII, §8143(c)(4)(B), Oct. 23, 2002, 116 Stat. 1571, added item 505.
 

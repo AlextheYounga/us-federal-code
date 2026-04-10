@@ -40,7 +40,7 @@ Pub. L. 114–74, title XI, §1101(a), (c)(1), (g), Nov. 2, 2015, 129 Stat. 625,
 
   
 
-**Subchapter C—Treatment of Partnerships**
+g741**Subchapter C—Treatment of Partnerships**
 | *Part* |                                  |
 | ------ | -------------------------------- |
 | *I.*   | *In General.*                    |
