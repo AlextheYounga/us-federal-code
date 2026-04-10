@@ -38,37 +38,7 @@ From the amount reserved pursuant to section 629f(b)(4)(A) of this title for any
 
 From the amount reserved pursuant to section 629f(b)(4)(A) of this title for any fiscal year that remains after applying paragraph (1) of this subsection for the fiscal year, the Secretary shall allot to each State (other than an Indian tribe) not specified in subsection (b) of this section, that has provided to the Secretary such documentation as may be necessary to verify that the State has complied with section 629f(b)(4)(B)(ii) of this title during the fiscal year, an amount equal to such remaining amount multiplied by the supplemental nutrition assistance program benefits percentage of the State (as defined in subsection (c)(2) of this section) for the fiscal year, except that in applying subsection (c)(2)(A) of this section, "subsection (e)(2)" shall be substituted for "such paragraph (1)".
 
-(Aug. 14, 1935, ch. 531, title IV, §433, as added Pub. L. 103–66, title XIII, §13711(a)(2), Aug. 10, 1993, 107 Stat. 653; amended Pub. L. 107–133, title I, §§103, 106(a)(2), Jan. 17, 2002, 115 Stat. 2415, 2417; Pub. L. 109–288, §§4(a)(2), 5(b)(1)(A), 6(f)(4), Sept. 28, 2006, 120 Stat. 1237, 1242, 1247; Pub. L. 110–234, title IV, §4002(b)(1)(B), (D), (2)(V), May 22, 2008, 122 Stat. 1096, 1097; Pub. L. 110–246, §4(a), title IV, §4002(b)(1)(B), (D), (2)(V), June 18, 2008, 122 Stat. 1664, 1857, 1858; Pub. L. 112–34, title I, §102(g)(2), Sept. 30, 2011, 125 Stat. 372; Pub. L. 118–258, title I, §§112(b), 115(b)(2)(A), (B), Jan. 4, 2025, 138 Stat. 2962, 2968, 2969.)
-
-#### Amendment of Section
-
-Pub. L. 118–258, title I, §§112(b), 115(b)(2)(A), (B), 117, Jan. 4, 2025, 138 Stat. 2962, 2968, 2969, provided that, effective Oct. 1, 2025, and applicable to payments under this part for calendar quarters beginning on or after such date, with delay permitted if either State legislation or tribal action is required to meet additional requirements, this section is amended as follows:
-
-(1) in subsection (a), by striking "629f(b)(3) of this title" and inserting "629f(b)(2) of this title"; and
-
-(2) in subsection (e)—
-
-(A) by striking paragraphs (1) and (2) and inserting the following:
-
-#### *"(1) Base allotment*
-
-*"From the amount reserved pursuant to section 629f(b)(4)(A) of this title for any fiscal year, the Secretary shall first allot to each State (other than an Indian tribe) that has provided to the Secretary such documentation as may be necessary to verify that the jurisdiction has complied with section 629f(b)(4)(B)(ii) of this title during the fiscal year, a base allotment of $100,000, and shall then allot to each of those States an amount determined in paragraph (2) or (3) of this subsection, as applicable.*
-
-#### *"(2) Territories*
-
-*"From the amount reserved pursuant to section 629f(b)(4)(A) of this title for any fiscal year that remains after applying paragraph (1) of this subsection for the fiscal year, the Secretary shall allot to each jurisdiction specified in subsection (b) of this section to which a base allotment is made under such paragraph (1) an amount determined in the same manner as the allotment to each of such jurisdictions is determined under section 623 of this title (without regard to the initial allotment of $70,000 to each State).*
-
-#### *"(3) Other States*
-
-*"From the amount reserved pursuant to section 629f(b)(4)(A) of this title for any fiscal year that remains after applying paragraphs (1) and (2) of this subsection for the fiscal year, the Secretary shall allot to each State (other than an Indian tribe) not specified in subsection (b) of this section to which a base allotment was made under paragraph (1) of this subsection an amount equal to such remaining amount multiplied by the supplemental nutrition assistance program benefits percentage of the State (as defined in subsection (c)(2) of this section) for the fiscal year, except that in applying subsection (c)(2)(A) of this section, 'subsection (e)(3)' shall be substituted for 'such paragraph (1)'."; and*
-
-  
-
-(B) by striking "629f(b)(4)(A) of this title" and inserting "629f(b)(3)(A) of this title" each place it appears.
-
-  
-
-See 2025 Amendment notes below.
+(Aug. 14, 1935, ch. 531, title IV, §433, as added Pub. L. 103–66, title XIII, §13711(a)(2), Aug. 10, 1993, 107 Stat. 653; amended Pub. L. 107–133, title I, §§103, 106(a)(2), Jan. 17, 2002, 115 Stat. 2415, 2417; Pub. L. 109–288, §§4(a)(2), 5(b)(1)(A), 6(f)(4), Sept. 28, 2006, 120 Stat. 1237, 1242, 1247; Pub. L. 110–234, title IV, §4002(b)(1)(B), (D), (2)(V), May 22, 2008, 122 Stat. 1096, 1097; Pub. L. 110–246, §4(a), title IV, §4002(b)(1)(B), (D), (2)(V), June 18, 2008, 122 Stat. 1664, 1857, 1858; Pub. L. 112–34, title I, §102(g)(2), Sept. 30, 2011, 125 Stat. 372.)
 
   
 
@@ -83,12 +53,6 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 A prior section 433 of act Aug. 14, 1935, was classified to section 633 of this title prior to repeal by Pub. L. 100–485.
 
 #### Amendments
-
-**2025**—Subsec. (a). Pub. L. 118–258, §115(b)(2)(A), substituted "629f(b)(2) of this title" for "629f(b)(3) of this title".
-
-Subsec. (e). Pub. L. 118–258, §115(b)(2)(B), substituted "629f(b)(3)(A) of this title" for "629f(b)(4)(A) of this title" wherever appearing.
-
-Pub. L. 118–258, §112(b), added pars. (1) to (3) and struck out former pars. (1) and (2) which related to the allotment of funds reserved to support monthly caseworker visits for territories and other States, respectively.
 
 **2011**—Subsec. (c)(2). Pub. L. 112–34, §102(g)(2)(A), substituted "Supplemental nutrition assistance program benefits" for "Food stamp" in heading.
 
@@ -121,10 +85,6 @@ Subsec. (d). Pub. L. 107–133, §103, added subsec. (d).
   
 
 #### **Statutory Notes and Related Subsidiaries**
-
-#### Effective Date of 2025 Amendment
-
-Amendment by Pub. L. 118–258 effective Oct. 1, 2025, and applicable to payments under this part for calendar quarters beginning on or after such date, with delay permitted if either State legislation or tribal action is required to meet additional requirements, see section 117 of Pub. L. 118–258, set out as a note under section 622 of this title.
 
 #### Effective Date of 2011 Amendment
 

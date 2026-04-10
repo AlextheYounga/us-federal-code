@@ -104,161 +104,7 @@ The term "non-Federal funds" means State funds, or at the option of a State, Sta
 
 For other definitions of other terms used in this subpart, see section 675 of this title.
 
-(Aug. 14, 1935, ch. 531, title IV, §431, as added Pub. L. 103–66, title XIII, §13711(a)(2), Aug. 10, 1993, 107 Stat. 650; amended Pub. L. 105–89, title III, §305(b)(2), (c)(2), (d)(1), Nov. 19, 1997, 111 Stat. 2131, 2132; Pub. L. 106–169, title IV, §401(e), Dec. 14, 1999, 113 Stat. 1858; Pub. L. 107–133, title I, §102, Jan. 17, 2002, 115 Stat. 2415; Pub. L. 109–288, §11(c), Sept. 28, 2006, 120 Stat. 1255; Pub. L. 112–34, title I, §102(c), (d), Sept. 30, 2011, 125 Stat. 371, 372; Pub. L. 115–123, div. E, title VII, §§50721(a), 50751(a), Feb. 9, 2018, 132 Stat. 245, 262; Pub. L. 118–258, title I, §§106(a), (b), 107(a)(3)(B), 110(a), 111(a), 113(b), Jan. 4, 2025, 138 Stat. 2951, 2955, 2959, 2961, 2967.)
-
-#### Amendment of Section
-
-Pub. L. 118–258, title I, §§106(a), (b), 107(a)(3)(B), 110(a), 111(a), 113(b), 117, 138 Stat. 2951, 2955, 2959, 2961, 2967, 2969, made numerous amendments to this section, effective Oct. 1, 2025, and applicable to payments under this part for calendar quarters beginning on or after such date, with delay permitted if either State legislation or tribal action is required to meet additional requirements. After such effective date, this section will read as follows:
-
-#### *(a) In general*
-
-*As used in this subpart:*
-
-#### *(1) Family preservation services*
-
-*The term "family preservation services" means services for children, youth, and families designed to help families (including kinship and adoptive families) at risk or in crisis, including—*
-
-*(A) service programs designed to help children—*
-
-*(i) where safe and appropriate, return to families from which they have been removed; or*
-
-*(ii) be placed for adoption, with a legal guardian, or, if adoption or legal guardianship is determined not to be safe and appropriate for a child, in some other planned, permanent living arrangement;*
-
-  
-
-*(B) preplacement preventive services programs, such as intensive family preservation programs, designed to help children at risk of foster care placement remain safely with their families;*
-
-*(C) service programs designed to provide followup care to families to whom a child has been returned after a foster care placement;*
-
-*(D) respite care of children to provide temporary relief for parents, kinship caregivers, and foster parents;*
-
-*(E) services designed to improve parenting skills (by reinforcing parents' confidence in their strengths, and helping them to identify where improvement is needed and to obtain assistance in improving those skills) with respect to matters such as child development, family budgeting, coping with stress, health, and nutrition;*
-
-*(F) infant safe haven programs to provide a way for a parent to safely relinquish a newborn infant at a safe haven designated pursuant to a State law;*
-
-*(G)(i) peer-to-peer mentoring and support programs with demonstrated experience fostering constructive relationships between children and families and mentors with relevant lived experience or interactions with the child welfare system; and*
-
-*(ii) for purposes of this subpart, an expenditure for a service described in clause (i) may be treated as an expenditure for any 1 or more of family support services, family preservation services, family reunification services, or adoption promotion and support services, as long as the expenditure is related to serving the children and families in the specified category and consistent with the overall purpose of the category; and*
-
-*(H)(i) services providing nonrecurring short term benefits (including supports related to housing instability, utilities, transportation, and food assistance, among other basic needs) that address immediate needs related to a specific crisis, situation, or event affecting the ability of a child to remain in a home established for the child that is not intended to meet an ongoing need; and*
-
-*(ii) for purposes of this subpart, an expenditure for a service described in clause (i) may be treated as an expenditure for any 1 or more of family support services, family preservation services, family reunification services, or adoption promotion and support services as long as the expenditure is related to serving the children and families in the specified category and consistent with the overall purpose of the category.*
-
-#### *(2) Family support services*
-
-#### *(A) In general*
-
-*The term "family support services" means community-based services, including services provided by family resource centers, designed to carry out the purposes described in subparagraph (B).*
-
-#### *(B) Purposes described*
-
-*The purposes described in this subparagraph are the following:*
-
-*(i) To promote the safety and well-being of children, youth, and families.*
-
-*(ii) To increase the strength and stability of families (including adoptive, foster, and kinship families).*
-
-*(iii) To support and retain foster families so they can provide quality family-based settings for children in foster care.*
-
-*(iv) To increase parents' confidence and competence in their parenting abilities.*
-
-*(v) To afford children a safe, stable, and supportive family environment.*
-
-*(vi) To strengthen parental relationships and promote healthy marriages.*
-
-*(vii) To enhance child development, including through mentoring.*
-
-#### *(3) State agency*
-
-*The term "State agency" means the State agency responsible for administering the program under subpart 1.*
-
-#### *(4) State*
-
-*The term "State" includes an Indian tribe or tribal organization, in addition to the meaning given such term for purposes of subpart 1.*
-
-#### *(5) Indian tribe*
-
-*The term "Indian tribe" has the meaning given the term in section 628(d) of this title.*
-
-#### *(6) Tribal organization*
-
-*The term "tribal organization" has the meaning given the term in section 628(d) of this title.*
-
-#### *(7) Family reunification services*
-
-#### *(A) In general*
-
-*The term "family reunification services" means the services and activities described in subparagraph (B) that are provided to a child that is removed from the child's home and placed with kinship caregivers or in a foster family home or a child care institution or a child who has been returned home and to the parents or primary caregiver of such a child, in order to facilitate the reunification of the child safely and appropriately within a timely fashion and to ensure the strength and stability of the reunification. In the case of a child who has been returned home, the services and activities shall only be provided during the 15-month period that begins on the date that the child returns home.*
-
-#### *(B) Services and activities described*
-
-*The services and activities described in this subparagraph are the following:*
-
-*(i) Individual, group, and family counseling.*
-
-*(ii) Inpatient, residential, or outpatient substance abuse treatment services.*
-
-*(iii) Mental health services.*
-
-*(iv) Assistance to address domestic violence.*
-
-*(v) Services designed to provide temporary child care and therapeutic services for families, including crisis nurseries.*
-
-*(vi) Peer-to-peer mentoring and support groups for parents and primary caregivers.*
-
-*(vii) Services and activities designed to facilitate access to and visitation of children by parents and siblings.*
-
-*(viii) Transportation to or from any of the services and activities described in this subparagraph.*
-
-#### *(8) Adoption promotion and support services*
-
-*The term "adoption promotion and support services" means services and activities designed to encourage more adoptions out of the foster care system, when adoptions promote the best interests of children, including such activities as pre- and post-adoptive services and activities designed to expedite the adoption process and support adoptive families.*
-
-#### *(9) Non-Federal funds*
-
-*The term "non-Federal funds" means State funds, or at the option of a State, State and local funds.*
-
-#### *(10) Family resource center*
-
-#### *(A) In general*
-
-*The term "family resource center" means a community or school-based hub of support services for families that—*
-
-*(i) utilizes an approach that is multi-generational, strengths-based, and family-centered;*
-
-*(ii) reflects, and is responsive to, community needs and interests;*
-
-*(iii) provides support at no or low cost for participants; and*
-
-*(iv) builds communities of peer support for families, including kinship families, to develop social connections that reduce isolation and stress.*
-
-#### *(B) Special rule*
-
-*For purposes of this subpart, an expenditure for a service provided by a family resource center may be treated as an expenditure for any 1 or more of family support services, family preservation services, family reunification services, or adoption promotion and support services as long as the expenditure is related to serving the children and families in the specified category and consistent with the overall purpose of the category.*
-
-#### *(11) Youth*
-
-*The term "youth" means an individual who has not attained 26 years of age.*
-
-#### *(12) Mentoring*
-
-*The term "mentoring" means a structured, managed program in which children are appropriately matched with screened and trained adult volunteers for one on-one relationships, involving meetings and activities on a regular basis, intended to meet, in part, the child's need for involvement with a caring and supportive adult who provides a positive role model.*
-
-#### *(b) Other terms*
-
-*For other definitions of other terms used in this subpart, see section 675 of this title.*
-
-#### *(c) Use of technology*
-
-#### *(1) Use of portal*
-
-*The services referred to in subsection (a) may include the means of access to and use of an electronic or digital portal to facilitate the provision of community support to care for and meet specific needs of families and children.*
-
-#### *(2) Limitation*
-
-*Such a portal shall not retain or share personally identifiable information about a beneficiary without consent or for any purpose other than referral.*
-
-See 2025 Amendment notes below.
+(Aug. 14, 1935, ch. 531, title IV, §431, as added Pub. L. 103–66, title XIII, §13711(a)(2), Aug. 10, 1993, 107 Stat. 650; amended Pub. L. 105–89, title III, §305(b)(2), (c)(2), (d)(1), Nov. 19, 1997, 111 Stat. 2131, 2132; Pub. L. 106–169, title IV, §401(e), Dec. 14, 1999, 113 Stat. 1858; Pub. L. 107–133, title I, §102, Jan. 17, 2002, 115 Stat. 2415; Pub. L. 109–288, §11(c), Sept. 28, 2006, 120 Stat. 1255; Pub. L. 112–34, title I, §102(c), (d), Sept. 30, 2011, 125 Stat. 371, 372; Pub. L. 115–123, div. E, title VII, §§50721(a), 50751(a), Feb. 9, 2018, 132 Stat. 245, 262.)
 
   
 
@@ -269,34 +115,6 @@ See 2025 Amendment notes below.
 A prior section 431 of act Aug. 14, 1935, was classified to section 631 of this title prior to repeal by Pub. L. 100–485.
 
 #### Amendments
-
-**2025**—Subsec. (a)(1). Pub. L. 118–258, §110(a)(1)(A), substituted "children, youth," for "children" and "kinship and adoptive" for "adoptive and extended" in introductory provisions.
-
-Subsec. (a)(1)(D). Pub. L. 118–258, §110(a)(1)(B), substituted "parents, kinship caregivers, and foster parents" for "parents and other caregivers (including foster parents)".
-
-Subsec. (a)(1)(G). Pub. L. 118–258, §110(a)(1)(C)–(E), added subpar. (G).
-
-Subsec. (a)(1)(H). Pub. L. 118–258, §111(a), added subpar. (H).
-
-Subsec. (a)(2)(A). Pub. L. 118–258, §106(b)(1), inserted ", including services provided by family resource centers," before "designed".
-
-Subsec. (a)(2)(B)(i). Pub. L. 118–258, §110(a)(2)(A), substituted "children, youth," for "children".
-
-Subsec. (a)(2)(B)(ii). Pub. L. 118–258, §110(a)(2)(B), substituted "kinship" for "extended".
-
-Subsec. (a)(2)(B)(vii). Pub. L. 118–258, §113(b)(1), struck out "(as defined in section 629i(b)(2) of this title)" after "through mentoring".
-
-Subsec. (a)(5), (6). Pub. L. 118–258, §107(a)(3)(B), substituted "628(d) of this title" for "628(c) of this title".
-
-Subsec. (a)(7)(A). Pub. L. 118–258, §110(a)(3), inserted "with kinship caregivers or" before "in a foster family home".
-
-Subsec. (a)(10). Pub. L. 118–258, §106(b)(2), added par. (10).
-
-Subsec. (a)(11). Pub. L. 118–258, §110(a)(4), added par. (11).
-
-Subsec. (a)(12). Pub. L. 118–258, §113(b)(2), added par. (12).
-
-Subsec. (c). Pub. L. 118–258, §106(a), added subsec. (c).
 
 **2018**—Subsec. (a)(2)(B)(iii) to (vii). Pub. L. 115–123, §50751(a), added cl. (iii) and redesignated former cls. (iii) to (vi) as (iv) to (vii), respectively.
 
@@ -335,10 +153,6 @@ Subsec. (a)(9). Pub. L. 105–89, §305(d)(1), added par. (9).
   
 
 #### **Statutory Notes and Related Subsidiaries**
-
-#### Effective Date of 2025 Amendment
-
-Amendment by Pub. L. 118–258 effective Oct. 1, 2025, and applicable to payments under this part for calendar quarters beginning on or after such date, with delay permitted if either State legislation or tribal action is required to meet additional requirements, see section 117 of Pub. L. 118–258, set out as a note under section 622 of this title.
 
 #### Effective Date of 2018 Amendment
 
