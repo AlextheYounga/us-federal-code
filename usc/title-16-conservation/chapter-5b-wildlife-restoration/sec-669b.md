@@ -28,7 +28,7 @@
 
 (1) Amounts transferred to the Wildlife Conservation and Restoration Account shall supplement, but not replace, existing funds available to the States from the sport fish restoration account and wildlife restoration account and shall be used for the development, revision, and implementation of wildlife conservation and restoration programs and should be used to address the unmet needs for a diverse array of wildlife and associated habitats, including species that are not hunted or fished, for wildlife conservation, wildlife conservation education, and wildlife-associated recreation projects. Such funds may be used for new programs and projects as well as to enhance existing programs and projects.
 
-(2) Funds may be used by a State or an Indian tribe for the planning and implementation of its wildlife conservation and restoration program and wildlife conservation strategy, as provided in sections 669c(d) and (e) [2](#669b_2_target) of this title, including wildlife conservation, wildlife conservation education, and wildlife-associated recreation projects. Such funds may be used for new programs and projects as well as to enhance existing programs and projects.
+(2) Funds may be used by a State or an Indian tribe for the planning and implementation of its wildlife conservation and restoration program and wildlife conservation strategy, as provided in sections 669c(d) and (e) of this title, including wildlife conservation, wildlife conservation education, and wildlife-associated recreation projects. Such funds may be used for new programs and projects as well as to enhance existing programs and projects.
 
 (3) Priority for funding from the Wildlife Conservation and Restoration Account shall be for those species with the greatest conservation need as defined by the State wildlife conservation and restoration program.
 
@@ -73,5 +73,3 @@ Pub. L. 92–558, title I, §101(c), Oct. 25, 1972, 86 Stat. 1172, as amended by
 Reorg. Plan No. II of 1939, set out in the Appendix to Title 5, Government Organization and Employees, transferred functions of Secretary of Agriculture relating to conservation of wildlife, game, and migratory birds to Secretary of the Interior.
 
 [1 So in original. Probably should be "paragraph (1) of subsection (b)".](#669b_1)
-
-[2 So in original. Section 669c of this title does not contain a subsec. (e).](#669b_2)

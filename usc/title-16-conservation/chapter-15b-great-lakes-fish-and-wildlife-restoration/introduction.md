@@ -18,4 +18,6 @@ Sec.
 
 941g. Authorization of appropriations.
 
+941h. Great Lakes monitoring, assessment, science, and research.
+
         

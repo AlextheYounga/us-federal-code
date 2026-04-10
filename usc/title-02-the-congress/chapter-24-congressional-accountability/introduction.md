@@ -28,6 +28,8 @@ Sec.
 
 1316a. Legislative branch appointments.
 
+1316b. Rights and protections relating to criminal history inquiries.
+
 1317\. Prohibition of intimidation or reprisal.
 
         

@@ -26,6 +26,8 @@ Sec.
 
 2619\. Notice.
 
+2620\. Public health emergency leave.
+
         
 
 #### SUBCHAPTER II—COMMISSION ON LEAVE

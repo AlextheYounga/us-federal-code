@@ -14,6 +14,8 @@ Sec.
 
 5105\. Transfer of appropriations by House Leadership Offices.
 
+5106\. Allowance for compensation of interns in House leadership offices.
+
         
 
 #### SUBCHAPTER II—THE SPEAKER
