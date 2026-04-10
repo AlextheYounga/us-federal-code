@@ -2114,9 +2114,9 @@ Sec.
 
 #### Part D—Strengthening Capacity for Basic Nurse Education and Practice
 
-296p. Nurse education, practice, and quality grants.
+296p. Nurse education, practice, quality, and retention grants.
 
-296p–1. Nurse retention grants.
+296p–1. Repealed.
 
         
 
@@ -2156,9 +2156,7 @@ Sec.
 
 #### Part G—Public Service Announcements
 
-297w. Public service announcements.
-
-297x. State and local public service announcements.
+297w, 297x. Repealed.
 
         
 

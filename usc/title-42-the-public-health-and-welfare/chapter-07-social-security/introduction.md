@@ -376,9 +376,9 @@ Sec.
 
         
 
-#### SUBCHAPTER VI—TEMPORARY STATE FISCAL RELIEF
+#### SUBCHAPTER VI—CORONAVIRUS RELIEF FUND
 
-801\. Repealed.
+801\. Coronavirus relief fund.
 
         
 
