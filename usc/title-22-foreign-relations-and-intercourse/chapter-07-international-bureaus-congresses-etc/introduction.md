@@ -1291,3 +1291,9 @@ Sec.
 290p. Acceptance of statute and membership.
 
         
+
+#### SUBCHAPTER XXXII—ORGANIZATION OF AMERICAN STATES
+
+290q. Organization of American States revitalization and reform strategy.
+
+        
