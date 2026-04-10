@@ -6,7 +6,7 @@
 
 (2) the annual civilian personnel requirements level for each component of the Department of Defense for the next fiscal year and the civilian end-strength level for the prior fiscal year; and
 
-(3) the projected number of contractor personnel full-time equivalents required to provide contract services (as that term is defined in section 235 of this title) for each component of the Department of Defense for the next fiscal year and the contractor personnel full-time equivalents that provided contract services for each component of the Department of Defense for the prior fiscal year as reported in the inventory of contracts for services required by section 2330a(c) of this title.
+(3) the projected number of contractor personnel full-time equivalents required to provide contract services (as that term is defined in section 235 of this title) for each component of the Department of Defense for the next fiscal year and the contractor personnel full-time equivalents that provided contract services for each component of the Department of Defense for the prior fiscal year as reported in the inventory of contracts for services required by section 2330a(c) [1](#115a_1_target) of this title.
 
   
 
@@ -110,6 +110,8 @@
 
 #### References in Text
 
+Section 2330a(c) of this title, referred to in subsec. (a)(3), was amended by Pub. L. 114–328 with respect to the requirement that the Secretary of Defense submit to Congress an annual inventory of the activities performed pursuant to contracts for services.
+
 Section 1111(b)(2) of the Duncan Hunter National Defense Authorization Act for Fiscal Year 2009, referred to in subsec. (f)(4), is section 1111(b)(2) of Pub. L. 110–417, which is set out as a note under section 143 of this title.
 
 #### Prior Provisions
@@ -205,3 +207,5 @@ Pub. L. 113–291, div. A, title V, §513, Dec. 19, 2014, 128 Stat. 3359, provid
 #### Assessment of Structure and Mix of Active and Reserve Forces
 
 Pub. L. 102–190, div. A, title IV, §402, Dec. 5, 1991, 105 Stat. 1349, as amended by Pub. L. 102–484, div. A, title V, §513(b), Oct. 23, 1992, 106 Stat. 2406, required Secretary of Defense to submit to Congress a report containing an assessment of alternatives relating to structure and mix of active and reserve forces appropriate for carrying out assigned missions in mid- to late-1990s and an evaluation and recommendations of Secretary and Chairman of Joint Chiefs of Staff as to mix or mixes of reserve and active forces considered acceptable to carry out expected future missions, and further provided for matters to be included in report and evaluation, commencement of assessment, submission of interim and final reports, and funding for assessment.
+
+[1 See References in Text note below.](#115a_1)

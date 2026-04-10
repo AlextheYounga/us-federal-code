@@ -58,4 +58,6 @@ Sec.
 
 3523\. Intelligence operations and cover enhancement authority.
 
+3524\. Support for the Associate Director of the Central Intelligence Agency for Military Affairs.
+
         
