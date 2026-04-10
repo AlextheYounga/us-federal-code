@@ -18,7 +18,9 @@ Sec.
 
 70908\. Restrictions.
 
-70909\. Availability of personnel, services, and facilities of Department of Education.
+70909\. Availability of personnel, services, and facilities of Department of Education. 1
+
+        
 
 70910\. Headquarters and principal office.
 
@@ -31,3 +33,5 @@ Sec.
 70914\. Distribution of assets on dissolution or final liquidation.
 
         
+
+[1 So in original. Section catchline amended by Pub. L. 116–7 without corresponding amendment of chapter analysis.](#CHAPTER709_1)

@@ -94,6 +94,8 @@ Sec.
 
 1748c. Bureau of Land Management Foundation.
 
+1748d. Report on wildfire, insect infestation, and disease prevention on Federal land.
+
         
 
 #### SUBCHAPTER IV—RANGE MANAGEMENT
@@ -109,6 +111,8 @@ Sec.
 #### SUBCHAPTER V—RIGHTS-OF-WAY
 
 1761\. Grant, issue, or renewal of rights-of-way.
+
+1761a. Streamlining the Forest Service process for consideration of communications facility location applications.
 
 1762\. Roads.
 

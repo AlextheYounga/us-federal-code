@@ -114,11 +114,11 @@ Sec.
 
         
 
-#### Part B—United and National Banks for Cooperatives
+#### Part B—National Banks for Cooperatives
 
 2141\. Charter, powers, and operation.
 
-2142\. Board of directors provisions.
+2142\. Repealed.
 
 2143\. Credit delivery office.
 
@@ -134,7 +134,7 @@ Sec.
 
 2149\. Lending limits.
 
-2149a. Reports by merged banks for cooperatives.
+2149a. Repealed.
 
         
 
@@ -142,7 +142,7 @@ Sec.
 
 #### Part A—Funding
 
-2151\. Revolving fund.
+2151\. Repealed.
 
 2152\. Repealed.
 
@@ -160,7 +160,7 @@ Sec.
 
 2158\. Purchase and sale by Federal Reserve System.
 
-2159\. Purchase and sale of obligations; additional powers.
+2159\. Purchase and sale of obligations.
 
 2160\. Federal Farm Credit Banks Funding Corporation.
 
@@ -194,7 +194,7 @@ Sec.
 
 2202b. Effect of restructuring on borrower stock.
 
-2202c. Review of restructuring denials.
+2202c. Repealed.
 
 2202d. Protection of borrowers who meet all loan obligations.
 
@@ -218,7 +218,7 @@ Sec.
 
 2208\. Prohibition against use of signed ballots.
 
-2209\. Compensation of bank directors.
+2209\. Repealed.
 
         
 
@@ -298,7 +298,7 @@ Sec.
 
 2252\. Powers and duties.
 
-2253\. Prior delegations.
+2253\. Repealed.
 
 2254\. Examinations.
 
@@ -330,9 +330,13 @@ Sec.
 
 2265\. Suspension or removal of director or officer charged with felony.
 
+2265a. Removal and prohibition authority; industry-wide prohibition.
+
 2266\. Hearings and judicial review.
 
 2267\. Jurisdiction and enforcement.
+
+2267a. Jurisdiction over institution-affiliated parties.
 
 2268\. Penalty.
 
@@ -352,7 +356,7 @@ Sec.
 
 #### Part D—Miscellaneous
 
-2275\. Government Accountability Office audit; report to Congress.
+2275\. Repealed.
 
 2275a. Transition rules relating to amendment of certain FCA approval authorities.
 
@@ -388,6 +392,8 @@ Sec.
 
 2277a–10b. Authority to regulate golden parachute and indemnification payments.
 
+2277a–10c. Corporation as conservator or receiver; certain other powers.
+
 2277a–11. Investment of funds.
 
 2277a–12. Exemption from taxation.
@@ -400,63 +406,7 @@ Sec.
 
 #### SUBCHAPTER VI—ASSISTANCE TO FARM CREDIT SYSTEM
 
-#### Part A—Assistance Board
-
-2278a. Establishment of Board.
-
-2278a–1. Purposes.
-
-2278a–2. Board of Directors.
-
-2278a–3. Corporate powers.
-
-2278a–4. Certification of eligibility to issue preferred stock.
-
-2278a–5. Assistance.
-
-2278a–6. Special powers.
-
-2278a–7. Administration.
-
-2278a–8. Limitation of powers.
-
-2278a–9. Succession.
-
-2278a–10. Effect of regulations; audits.
-
-2278a–11. Exemption from taxation.
-
-2278a–12. Termination.
-
-2278a–13. Transitional provisions.
-
-        
-
-#### Part B—Financial Assistance Corporation
-
-2278b. Establishment of Corporation.
-
-2278b–1. Purpose.
-
-2278b–2. Board of Directors.
-
-2278b–3. Stock.
-
-2278b–4. Corporate powers.
-
-2278b–5. Accounts.
-
-2278b–6. Debt obligations.
-
-2278b–7. Preferred stock.
-
-2278b–8. Payments.
-
-2278b–9. One-time stock purchase.
-
-2278b–10. Exemption from taxation.
-
-2278b–11. Termination.
+2278a to 2278b–11. Repealed.
 
         
 
@@ -578,7 +528,7 @@ Sec.
 
 2279bb–6. Supervisory actions applicable to level III.
 
-2297bb–7. Recapitalization of Corporation.
+2279bb–7. Repealed.
 
         
 

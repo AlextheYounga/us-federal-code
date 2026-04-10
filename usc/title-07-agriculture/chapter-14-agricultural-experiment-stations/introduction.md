@@ -58,7 +58,7 @@ Sec.
 
 390a. Review process.
 
-390b. Repealed.
+390b. Competitive grant program.
 
 390c. Applicability of Federal Advisory Committee Act.
 
