@@ -1,6 +1,6 @@
 ### §734. Repealed. Aug. 4, 1949, ch. 393, §20, 63 Stat. 561
 
-Section, R.S. §4678, related to coloring and numbering buoys. See section 87 of Title 14, Coast Guard.
+Section, R.S. §4678, related to coloring and numbering buoys.
 
 #### Effective Date of Repeal
 

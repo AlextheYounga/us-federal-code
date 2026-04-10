@@ -52,7 +52,7 @@ The term "Chairman" means the Chairman of the National Advisory Council on Inter
 
 #### (2) International financial institutions
 
-The term "international financial institutions" means the International Monetary Fund, International Bank for Reconstruction and Development, European Bank for Reconstruction and Development, International Development Association, International Finance Corporation, Multilateral Investment Guarantee Agency, African Development Bank, African Development Fund, Asian Development Bank, Inter-American Development Bank [1](#262r_1_target) Bank for Economic Cooperation and Development in the Middle East and North Africa,,[2](#262r_2_target) and Inter-American Investment Corporation.
+The term "international financial institutions" means the International Monetary Fund, International Bank for Reconstruction and Development, European Bank for Reconstruction and Development, International Development Association, International Finance Corporation, Multilateral Investment Guarantee Agency, African Development Bank, African Development Fund, Asian Development Bank, Inter-American Development Bank [2](#262r_2_target) Bank for Economic Cooperation and Development in the Middle East and North Africa,,[3](#262r_3_target) and Inter-American Investment Corporation.
 
 #### (3) Multilateral development institutions
 
@@ -214,6 +214,6 @@ Pub. L. 105–277, div. A, §101(d) \[title VI, §607\], Oct. 21, 1998, 112 Stat
 
 [1 See References in Text note below.](#262r_1)
 
-[1 So in original. Probably should be followed by a comma.](#262r_1)
+[2 So in original. Probably should be followed by a comma.](#262r_2)
 
-[2 So in original.](#262r_2)
+[3 So in original.](#262r_3)
