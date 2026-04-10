@@ -1124,6 +1124,8 @@ where "P" is the hospital's disproportionate patient percentage (as defined in c
 
 (bb) a State with no rural area (as defined in paragraph (2)(D)) and satisfies any of the criteria in subclause (I), (II), or (III) of paragraph (8)(E)(ii),
 
+  
+
 (II) that has not more than 100 beds,
 
 (III) that is not classified as a sole community hospital under subparagraph (D), and
@@ -1505,6 +1507,8 @@ As used in this section, the term "subsection (d) Puerto Rico hospital" means a 
 (III) with respect to each of fiscal years 2019 through 2022, less than 3,800 discharges during the fiscal year; and
 
 (IV) with respect to fiscal year 2023 and each subsequent fiscal year, less than 800 discharges during the fiscal year.
+
+  
 
 (ii) Discharge.—For purposes of subparagraphs (B) and (D) and clause (i), the term "discharge" means an inpatient acute care discharge of an individual regardless (except as provided in clause (i)(II) and subparagraph (D)(i)) of whether the individual is entitled to benefits under part A.
 
@@ -3944,7 +3948,7 @@ Section 124 of the Medicare, Medicaid, and SCHIP Balanced Budget Refinement Act 
 
 **2018**—Subsec. (b)(3)(B)(viii)(XII). Pub. L. 115–271, §6104(a), added subcl. (XII).
 
-Subsec. (b)(3)(D). Pub. L. 115–123, §50205(b)(1)(A), substituted "October 1, 2022" for "October 1, 2017".
+Subsec. (b)(3)(D). Pub. L. 115–123, §50205(b)(1)(A), substituted "October 1, 2022" for "October 1, 2017" in introductory provisions.
 
 Subsec. (b)(3)(D)(iv). Pub. L. 115–123, §50205(b)(1)(B), substituted "through fiscal year 2022" for "through fiscal year 2017".
 
@@ -3974,7 +3978,7 @@ Subsec. (d)(12)(D). Pub. L. 115–123, §50204(a)(3), substituted "through 2022"
 
 "(i) with respect to each of fiscal years 2011 through 2018, with 200 or fewer"
 
-for "hospitals with 200 or fewer", and "fiscal year or portion of fiscal year; and" for "fiscal year.", and added subcl. (ii).
+for "hospitals with 200 or fewer", and "fiscal year or portion of fiscal year; and" for "fiscal year.", and added cl. (ii).
 
 Subsec. (m)(6)(B)(i)(I). Pub. L. 115–123, §51005(a)(1), substituted "fiscal years 2016 through 2019" for "fiscal year 2016 or fiscal year 2017".
 
@@ -3982,7 +3986,7 @@ Subsec. (m)(6)(B)(i)(II). Pub. L. 115–123, §51005(a)(2), substituted "2020" f
 
 Subsec. (m)(6)(B)(ii). Pub. L. 115–123, §51005(b)(1), substituted "Subject to clause (iv), in this paragraph" for "In this paragraph" in introductory provisions.
 
-Subsec. (m)(6)(B)(iv). Pub. L. 115–123, §51005(b)(2), added subcl. (iv).
+Subsec. (m)(6)(B)(iv). Pub. L. 115–123, §51005(b)(2), added cl. (iv).
 
 Subsec. (n)(3)(A). Pub. L. 115–123, §50413, struck out "by requiring more stringent measures of meaningful use selected under this paragraph" after "quality over time" in concluding provisions.
 
