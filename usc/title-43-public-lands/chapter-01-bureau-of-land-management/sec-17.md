@@ -4,9 +4,17 @@ The Secretary of the Interior or such officer as he may designate shall, when re
 
 (R.S. §455; 1946 Reorg. Plan No. 3, §403, eff. July 16, 1946, 11 F.R. 7876, 60 Stat. 1100.)
 
+  
+
+#### **Editorial Notes**
+
 #### Codification
 
 R.S. §455 derived from act Apr. 25, 1812, ch. 68, §6, 2 Stat. 717.
+
+  
+
+#### **Executive Documents**
 
 #### Transfer of Functions
 

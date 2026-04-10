@@ -16,6 +16,10 @@ If during the period of amortization the Secretary of the Interior shall receive
 
 (Dec. 21, 1928, ch. 42, §4, 45 Stat. 1058.)
 
+  
+
+#### **Editorial Notes**
+
 #### References in Text
 
 The reclamation law, referred to in text, is defined in section 617k of this title.
