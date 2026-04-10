@@ -10,6 +10,8 @@ C. Definitions and special rules.
 
         
 
+#### **Editorial Notes**
+
 #### Amendments
 
 **1986**—Pub. L. 99–514, title XIII, §1301(b), Oct. 22, 1986, 100 Stat. 2603, in amending part IV generally, substituted "TAX EXEMPTION REQUIREMENTS FOR STATE AND LOCAL BONDS" for "DETERMINATION OF MARITAL STATUS" as heading for part IV and added part analysis.

@@ -48,6 +48,8 @@ Sec.
 
         
 
+#### **Editorial Notes**
+
 #### Amendments
 
 **2017**—Pub. L. 115–97, title I, §§11051(b)(1)(B), 14102(d)(2), Dec. 22, 2017, 131 Stat. 2089, 2194, struck out item 71 "Alimony and separate maintenance payments" and added item 91.
