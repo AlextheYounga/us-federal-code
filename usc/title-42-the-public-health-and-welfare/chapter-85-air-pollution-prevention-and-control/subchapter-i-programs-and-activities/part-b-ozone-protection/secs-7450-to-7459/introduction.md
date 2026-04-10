@@ -22,7 +22,7 @@ Section 7459, act July 14, 1955, ch. 360, title I, §159, as added Aug. 7, 1977,
 
   
 
-#### **Editorial Notes**
+#### **Statutory Notes and Related Subsidiaries**
 
 #### Similar Provisions
 
