@@ -72,7 +72,7 @@ Section 567, act Apr. 30, 1900, ch. 339, §31, 31 Stat. 146, called for filling 
 
 Section 568, acts Apr. 30, 1900, ch. 339, §32, 31 Stat. 147; Aug. 1, 1956, ch. 851, §2, 70 Stat. 903, divided Territory into senatorial districts.
 
-Section 569, acts Apr. 30, 1900, ch. 339, §32, 31 Stat. 147; Aug. 1, 1956, ch. 851, §3, 70 Stat. 903, apportioned senators between various senatorial districts.
+Section 569, acts Apr. 30, 1900, ch. 339, §33, 31 Stat. 147; Aug. 1, 1956, ch. 851, §3, 70 Stat. 903, apportioned senators between various senatorial districts.
 
 Section 570, acts Apr. 30, 1900, ch. 339, §35, 31 Stat. 147; Aug. 1, 1956, ch. 851, §4, 70 Stat. 903, set out number of representatives and called for their election by qualified voters of respective representative districts.
 
@@ -84,7 +84,7 @@ Section 573, act Apr. 30, 1900, ch. 339, §37, 31 Stat. 147, directed that vacan
 
 Section 574, acts Apr. 30, 1900, ch. 339, §38, 31 Stat. 147; Aug. 1, 1956, ch. 851, §5, 70 Stat. 906, divided Territory into representative districts.
 
-Section 575, acts Apr. 30, 1900, ch. 339, §38, 31 Stat. 147; Aug. 1, 1956, ch. 851, §6, 70 Stat. 906, apportioned representatives between the representative districts.
+Section 575, acts Apr. 30, 1900, ch. 339, §39, 31 Stat. 147; Aug. 1, 1956, ch. 851, §6, 70 Stat. 906, apportioned representatives between the representative districts.
 
 Section 576, acts Apr. 30, 1900, ch. 339, §§41–43, 31 Stat. 148; Aug. 20, 1958, Pub. L. 85–690, §§1, 2, 72 Stat. 684, set date for regular and budget sessions, commencement, duration, and adjournment, and budget session agenda.
 

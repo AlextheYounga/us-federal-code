@@ -212,11 +212,7 @@ Sec.
 
 390h–34. North Bay Water Reuse Program.
 
-390h–35. Prado Basin natural treatment system project.
-
-390h–36. Lower Chino Dairy Area desalination demonstration and reclamation project.
-
-390h–37. Oxnard, California, water reclamation, reuse, and treatment project.
+390h–35 to 390h–37. Omitted.
 
 390h–38. Yucaipa Valley regional water supply renewal project.
 

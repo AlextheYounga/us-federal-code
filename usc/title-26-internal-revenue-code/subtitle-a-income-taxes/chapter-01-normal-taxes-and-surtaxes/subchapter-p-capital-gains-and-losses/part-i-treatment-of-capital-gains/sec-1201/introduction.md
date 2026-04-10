@@ -24,6 +24,8 @@ Prior to repeal by section 13001(b)(2)(A) of Pub. L. 115–97, subsection (b) of
 
 *(III) taxable income, plus*
 
+  
+
 *(ii) 35 percent of the excess (if any) of taxable income over the sum of the amounts for which a tax was determined under subsection (a)(1) and clause (i).*
 
 #### *(2) Qualified timber gain*
@@ -33,6 +35,8 @@ Prior to repeal by section 13001(b)(2)(A) of Pub. L. 115–97, subsection (b) of
 *(A) the sum of the taxpayer's gains described in subsections (a) and (b) of section 631 for such year, over*
 
 *(B) the sum of the taxpayer's losses described in such subsections for such year.*
+
+  
 
 *For purposes of subparagraphs (A) and (B), only timber held more than 15 years shall be taken into account.*
 

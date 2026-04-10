@@ -112,6 +112,8 @@ Sec.
 
 6720B. Fraudulent identification of exempt use property.
 
+\[6720C. Repealed.\]
+
         
 
 #### Amendments
