@@ -474,6 +474,8 @@ Sec.
 
 1431\. Assistance by corporation.
 
+1432\. Special financial assistance by the corporation.
+
         
 
 #### part 5—benefits after termination
