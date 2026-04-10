@@ -10,21 +10,21 @@ If any facility with respect to which funds have been paid under this subchapter
 
   
 
-the United States shall be entitled to recover, whether from the transferor or the transferee (or, in the case of a facility which has ceased to be public or nonprofit, from the owners thereof) an amount determined under subsection (c) of this section.
+the United States shall be entitled to recover, whether from the transferor or the transferee (or, in the case of a facility which has ceased to be public or nonprofit, from the owners thereof) an amount determined under subsection (c).
 
 #### (b) Notice to Secretary
 
-The transferor of a facility which is sold or transferred as described in subsection (a)(1) of this section, or the owner of a facility the use of which is changed as described in subsection (a)(2) of this section, shall provide the Secretary written notice of such sale, transfer, or change not later than the expiration of 10 days from the date on which such sale, transfer, or change occurs.
+The transferor of a facility which is sold or transferred as described in subsection (a)(1), or the owner of a facility the use of which is changed as described in subsection (a)(2), shall provide the Secretary written notice of such sale, transfer, or change not later than the expiration of 10 days from the date on which such sale, transfer, or change occurs.
 
 #### (c) Amount of recovery; interest; interest period
 
-(1) Except as provided in paragraph (2), the amount the United States shall be entitled to recover under subsection (a) of this section is an amount bearing the same ratio to the then value (as determined by the agreement of the parties or in an action brought in the district court of the United States for the district for which the facility involved is situated) of so much of the facility as constituted an approved project or projects as the amount of the Federal participation bore to the cost of the construction or modernization of such project or projects.
+(1) Except as provided in paragraph (2), the amount the United States shall be entitled to recover under subsection (a) is an amount bearing the same ratio to the then value (as determined by the agreement of the parties or in an action brought in the district court of the United States for the district for which the facility involved is situated) of so much of the facility as constituted an approved project or projects as the amount of the Federal participation bore to the cost of the construction or modernization of such project or projects.
 
 (2)(A) After the expiration of—
 
-(i) 180 days after the date of the sale, transfer, or change of use for which a notice is required by subsection (b) of this section in the case of a facility which is sold or transferred or the use of which changes after July 18, 1984, or
+(i) 180 days after the date of the sale, transfer, or change of use for which a notice is required by subsection (b) in the case of a facility which is sold or transferred or the use of which changes after July 18, 1984, or
 
-(ii) thirty days after July 18, 1984, or if later 180 days after the date of the sale, transfer, or change of use for which a notice is required by subsection (b) of this section, in the case of a facility which was sold or transferred or the use of which changed before July 18, 1984,
+(ii) thirty days after July 18, 1984, or if later 180 days after the date of the sale, transfer, or change of use for which a notice is required by subsection (b), in the case of a facility which was sold or transferred or the use of which changed before July 18, 1984,
 
   
 
@@ -32,11 +32,11 @@ the amount which the United States is entitled to recover under paragraph (1) wi
 
 (B) The period referred to in subparagraph (A) is the period beginning—
 
-(i) in the case of a facility which was sold or transferred or the use of which changed before July 18, 1984, thirty days after such date or if later 180 days after the date of the sale, transfer, or change of use for which a notice is required by subsection (b) of this section.[1](#300s-1a_1_target)
+(i) in the case of a facility which was sold or transferred or the use of which changed before July 18, 1984, thirty days after such date or if later 180 days after the date of the sale, transfer, or change of use for which a notice is required by subsection (b).[1](#300s-1a_1_target)
 
-(ii) in the case of a facility with respect to which notice is provided in accordance with subsection (b) of this section, upon the expiration of 180 days after the receipt of such notice, or
+(ii) in the case of a facility with respect to which notice is provided in accordance with subsection (b), upon the expiration of 180 days after the receipt of such notice, or
 
-(iii) in the case of a facility with respect to which such notice is not provided as prescribed by subsection (b) of this section, on the date of the sale, transfer, or changes of use for which such notice was to be provided,
+(iii) in the case of a facility with respect to which such notice is not provided as prescribed by subsection (b), on the date of the sale, transfer, or changes of use for which such notice was to be provided,
 
   
 
@@ -44,11 +44,11 @@ and ending on the date the amount the United States is entitled to under paragra
 
 #### (d) Waiver
 
-(1) The Secretary may waive the recovery rights of the United States under subsection (a)(1) of this section with respect to a facility in any State if the Secretary determines, in accordance with regulations, that the entity to which the facility was sold or transferred—
+(1) The Secretary may waive the recovery rights of the United States under subsection (a)(1) with respect to a facility in any State if the Secretary determines, in accordance with regulations, that the entity to which the facility was sold or transferred—
 
 (A) has established an irrevocable trust—
 
-(i) in an amount equal to the greater of twice the cost of the remaining obligation of the facility under clause (ii) of section 300s–1(b)(1)(K) of this title or the amount, determined under subsection (c) of this section, that the United States is entitled to recover, and
+(i) in an amount equal to the greater of twice the cost of the remaining obligation of the facility under clause (ii) of section 300s–1(b)(1)(K) of this title or the amount, determined under subsection (c), that the United States is entitled to recover, and
 
 (ii) which will only be used by the entity to provide the care required by clause (ii) of section 300s–1(b)(1)(K) of this title; and
 
@@ -58,11 +58,11 @@ and ending on the date the amount the United States is entitled to under paragra
 
   
 
-(2) The Secretary may waive the recovery rights of the United States under subsection (a)(2) of this section with respect to a facility in any State if the Secretary determines, in accordance with regulations, that there is good cause for waiving such rights with respect to such facility.
+(2) The Secretary may waive the recovery rights of the United States under subsection (a)(2) with respect to a facility in any State if the Secretary determines, in accordance with regulations, that there is good cause for waiving such rights with respect to such facility.
 
 #### (e) Lien
 
-The right of recovery of the United States under subsection (a) of this section shall not constitute a lien on any facility with respect to which funds have been paid under this subchapter.
+The right of recovery of the United States under subsection (a) shall not constitute a lien on any facility with respect to which funds have been paid under this subchapter.
 
 (July 1, 1944, ch. 373, title XVI, §1622, formerly §1631, as added Pub. L. 93–641, §4, Jan. 4, 1975, 88 Stat. 2269; amended Pub. L. 94–278, title XI, §1106(c), Apr. 22, 1976, 90 Stat. 416; renumbered §1622 and amended Pub. L. 96–79, title II, §§202(b), 203(c), Oct. 4, 1979, 93 Stat. 632, 635; Pub. L. 98–369, div. B. title III, §2381(b), July 18, 1984, 98 Stat. 1114.)
 

@@ -10,7 +10,7 @@ The Secretary may participate with other countries in cooperative endeavors in�
 
 #### (b) Authority of Secretary; building construction prohibition
 
-In connection with the cooperative endeavors authorized by subsection (a) of this section, the Secretary may—
+In connection with the cooperative endeavors authorized by subsection (a), the Secretary may—
 
 (1) make such use of resources offered by participating foreign countries as he may find necessary and appropriate;
 

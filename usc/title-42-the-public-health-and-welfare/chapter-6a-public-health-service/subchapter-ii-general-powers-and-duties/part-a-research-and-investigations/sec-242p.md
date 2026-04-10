@@ -12,7 +12,7 @@
 
   
 
-(b) In preparing the profile required by subsection (a) of this section, the Secretary, acting through the National Center for Health Statistics, shall comply with all relevant provisions of sections 242k and 242m of this title.
+(b) In preparing the profile required by subsection (a), the Secretary, acting through the National Center for Health Statistics, shall comply with all relevant provisions of sections 242k and 242m of this title.
 
 (Pub. L. 95–626, title IV, §404, Nov. 10, 1978, 92 Stat. 3591; Pub. L. 100–177, title I, §106(b), Dec. 1, 1987, 101 Stat. 989.)
 

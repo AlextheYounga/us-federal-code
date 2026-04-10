@@ -144,7 +144,7 @@ Sec.
 
 #### Part E—Other Assistance
 
-12821\. Downpayment assistance initiative.
+12821\. Omitted.
 
         
 
