@@ -1,5 +1,5 @@
-### §677aa. Procedure by Secretary upon non-agreement between mixed-blood and full-blood groups
+### §677aa. Omitted
 
-Whenever any action pursuant to the provisions of this subchapter requires the agreement of the mixed-blood and full-blood groups and such agreement cannot be reached, the Secretary is authorized to proceed in any manner deemed by him to be in the best interests of both groups.
+#### Codification
 
-(Aug. 27, 1954, ch. 1009, §28, 68 Stat. 878.)
+Section, act Aug. 27, 1954, ch. 1009, §28, 68 Stat. 878, which authorized the Secretary of the Interior to proceed in any manner in any action upon non-agreement between mixed-blood and full-blood groups, was omitted from the Code as being of special and not general application.

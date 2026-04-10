@@ -108,4 +108,8 @@ Sec.
 
 1544\. Additional compensation to contractors of Federal agency.
 
+1545\. Livestock loans; cash settlements.
+
+1546\. Disposition of cash settlements.
+
         

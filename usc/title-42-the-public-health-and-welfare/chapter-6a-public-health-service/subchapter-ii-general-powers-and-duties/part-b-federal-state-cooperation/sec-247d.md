@@ -136,7 +136,7 @@ Not later than 4 years after March 13, 2013, the Comptroller General of the Unit
 
 In this subsection—
 
-(A) the terms "Indian tribe" and "tribal organization" have the meanings given such terms in section 450b of title 25; and
+(A) the terms "Indian tribe" and "tribal organization" have the meanings given such terms in section 5304 of title 25; and
 
 (B) the term "State" includes, in addition to the entities listed in the definition of such term in section 201 of this title, the Freely Associated States.
 

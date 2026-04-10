@@ -32,7 +32,7 @@ A prior section 13 of Pub. L. 85–874 was renumbered section 14 and is classifi
 
 "(a) Maintenance, Repair, and Security.—There is authorized to be appropriated to the Board to carry out section 76j(a)(1)(H) of this title $22,379,000 for each of fiscal years 2013 and 2014.
 
-"(b) Capital projects.—There is authorized to be appropriated to the Board to carry out subparagraphs (F) and (G) of section 76j(a)(1) of this title $13,588,000 for each of fiscal years 2013 and 2014."
+"(b) Capital Projects.—There is authorized to be appropriated to the Board to carry out subparagraphs (F) and (G) of section 76j(a)(1) of this title $13,588,000 for each of fiscal years 2013 and 2014."
 
 **2012**—Subsecs. (a), (b). Pub. L. 112–131 added subsecs. (a) and (b) and struck out former subsecs. (a) and (b) which read as follows:
 
