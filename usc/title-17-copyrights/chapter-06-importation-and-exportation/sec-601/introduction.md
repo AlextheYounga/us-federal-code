@@ -1,0 +1,3 @@
+### \[§601. Repealed. Pub. L. 111–295, §4(a), Dec. 9, 2010, 124 Stat. 3180\]
+
+Section, Pub. L. 94–553, title I, §101, Oct. 19, 1976, 90 Stat. 2588; Pub. L. 97–215, July 13, 1982, 96 Stat. 178; Pub. L. 105–80, §12(a)(15), (16), Nov. 13, 1997, 111 Stat. 1535; Pub. L. 110–403, title I, §105(c)(2), Oct. 13, 2008, 122 Stat. 4260, related to manufacture, importation, and public distribution of certain copies of nondramatic English-language literary material protected under this title.

@@ -1,0 +1,3 @@
+### \[§3692. Repealed. Pub. L. 92–168, §1(1), Nov. 24, 1971, 85 Stat. 489\]
+
+Section, act Aug. 10, 1956, ch. 1041, 70A Stat. 213, provided qualifications to receive a rating as a pilot in time of peace. See section 2003 of this title.

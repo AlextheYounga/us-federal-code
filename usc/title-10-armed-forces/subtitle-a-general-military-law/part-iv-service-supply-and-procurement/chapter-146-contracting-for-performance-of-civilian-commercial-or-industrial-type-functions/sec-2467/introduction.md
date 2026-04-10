@@ -1,0 +1,3 @@
+### \[§2467. Repealed. Pub. L. 110–181, div. A, title III, §322(b)(1), Jan. 28, 2008, 122 Stat. 59\]
+
+Section, added Pub. L. 100–456, div. A, title III, §331(a), Sept. 29, 1988, 102 Stat. 1957; amended Pub. L. 106–65, div. A, title III, §342(a), (b)(1), Oct. 5, 1999, 113 Stat. 569; Pub. L. 107–107, div. A, title X, §1048(a)(22), Dec. 28, 2001, 115 Stat. 1224, related to cost comparisons: inclusion of retirement costs; consultation with employees; waiver of comparison.

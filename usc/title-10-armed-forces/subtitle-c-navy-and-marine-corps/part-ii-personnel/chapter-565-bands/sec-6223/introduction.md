@@ -1,0 +1,3 @@
+### \[§6223. Repealed. Pub. L. 110–181, div. A, title V, §590(b)(1), Jan. 28, 2008, 122 Stat. 138\]
+
+Section, act Aug. 10, 1956, ch. 1041, 70A Stat. 388; Pub. L. 101–510, div. A, title III, §327(b), Nov. 5, 1990, 104 Stat. 1532; Pub. L. 102–25, title VII, §701(j)(7), Apr. 6, 1991, 105 Stat. 116, generally prohibited any Navy band or Marine Corps band from competing with civilian musicians. See section 974 of this title.

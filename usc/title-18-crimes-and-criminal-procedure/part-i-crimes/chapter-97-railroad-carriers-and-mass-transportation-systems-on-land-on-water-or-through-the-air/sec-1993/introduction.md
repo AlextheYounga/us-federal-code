@@ -1,0 +1,3 @@
+### \[§1993. Repealed. Pub. L. 109–177, title I, §110(a), Mar. 9, 2006, 120 Stat. 205\]
+
+Section, added Pub. L. 107–56, title VIII, §801, Oct. 26, 2001, 115 Stat. 374; amended Pub. L. 108–21, title VI, §609, Apr. 30, 2003, 117 Stat. 692; Pub. L. 109–59, title III, §3042(a), Aug. 10, 2005, 119 Stat. 1639, related to terrorist attacks and other acts of violence against public transportation systems. See section 1992 of this title.

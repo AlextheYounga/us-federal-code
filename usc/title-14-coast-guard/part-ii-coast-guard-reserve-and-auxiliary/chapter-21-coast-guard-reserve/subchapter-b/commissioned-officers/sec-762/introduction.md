@@ -1,0 +1,3 @@
+### \[§762. Repealed. Pub. L. 93–174, §2(2), Dec. 5, 1973, 87 Stat. 692\]
+
+Section, acts Aug. 4, 1949, ch. 393, §1, 63 Stat. 554; Aug. 10, 1956, ch. 1041, §17, 70A Stat. 626; Sept. 18, 1970, Pub. L. 91–402, §1(1), 84 Stat. 838, related to Women's Reserve.

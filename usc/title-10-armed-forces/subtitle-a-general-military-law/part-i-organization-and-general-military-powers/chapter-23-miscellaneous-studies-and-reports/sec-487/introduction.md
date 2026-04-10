@@ -1,0 +1,3 @@
+### \[§487. Repealed. Pub. L. 112–81, div. A, title X, §1061(9)(A), Dec. 31, 2011, 125 Stat. 1583\]
+
+Section, added Pub. L. 106–65, div. A, title IX, §923(b)(1), Oct. 5, 1999, 113 Stat. 724; amended Pub. L. 108–136, div. A, title V, §541(c), Nov. 24, 2003, 117 Stat. 1477; Pub. L. 108–375, div. A, title X, §1084(d)(4), Oct. 28, 2004, 118 Stat. 2061, related to annual report on unit operations tempo and personnel tempo.

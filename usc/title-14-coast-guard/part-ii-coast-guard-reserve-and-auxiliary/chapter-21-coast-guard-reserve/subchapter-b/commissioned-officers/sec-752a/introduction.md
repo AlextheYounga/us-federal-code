@@ -1,0 +1,5 @@
+### \[§752a. Omitted\]
+
+#### Codification
+
+Section, added act Aug. 10, 1956, ch. 1041, §15(a), 70A Stat. 625, related to the authorized strength of the Coast Guard Reserve and was omitted in the general revision of this chapter by Pub. L. 96–322, §1, Aug. 4, 1980, 94 Stat. 1002. See Section 702 of this title.

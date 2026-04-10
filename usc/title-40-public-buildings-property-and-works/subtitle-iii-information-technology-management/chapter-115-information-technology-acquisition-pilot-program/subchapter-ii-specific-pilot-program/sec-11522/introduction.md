@@ -1,0 +1,3 @@
+### \[§11522. Repealed. Pub. L. 107–314, div. A, title VIII, §825(b)(1), Dec. 2, 2002, 116 Stat. 2615\]
+
+Section, Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1247, related to a pilot program to test the feasibility of using solutions-based contracting for the acquisition of information technology. Subsequent to repeal, Pub. L. 107–347, title II, §210(h)(3)(A), Dec. 17, 2002, 116 Stat. 2938, directed that this section be renumbered section 11521 of this title.

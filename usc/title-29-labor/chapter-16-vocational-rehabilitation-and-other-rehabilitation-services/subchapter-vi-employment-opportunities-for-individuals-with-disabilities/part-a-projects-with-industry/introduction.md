@@ -1,0 +1,1 @@
+### Part A—Projects With Industry

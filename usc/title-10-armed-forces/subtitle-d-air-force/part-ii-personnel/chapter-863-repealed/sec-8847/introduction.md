@@ -1,0 +1,3 @@
+### \[§8847. Repealed. Pub. L. 90–130, §1(31)(A), Nov. 8, 1967, 81 Stat. 382\]
+
+Section, added Pub. L. 85–861, §1(192), Sept. 2, 1958, 72 Stat. 1536; amended Pub. L. 86–559, §1(70), June 30, 1960, 74 Stat. 279, provided for mandatory retirement of female commissioned officers, Air Force nurses, and medical specialists on active duty in a Reserve grade below lieutenant colonel after completion of 25 years of service computed under section 8853.
