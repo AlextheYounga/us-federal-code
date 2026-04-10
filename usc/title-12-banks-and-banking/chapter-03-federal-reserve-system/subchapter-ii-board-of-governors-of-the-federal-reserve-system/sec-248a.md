@@ -44,7 +44,7 @@ The Board shall require reductions in the operating budgets of the Federal Reser
 
 All depository institutions, as defined in section 461(b)(1) of this title, may receive for deposit and as deposits any evidences of transaction accounts, as defined by section 461(b)(1) of this title from other depository institutions, as defined in section 461(b)(1) of this title or from any office of any Federal Reserve bank without regard to any Federal or State law restricting the number or the physical location or locations of such depository institutions.
 
-(Dec. 23, 1913, ch. 6, §11A, as added Pub. L. 96–221, title I, §107, Mar. 31, 1980, 94 Stat. 140; amended Pub. L. 100–86, title VI, §612(a), Aug. 10, 1987, 101 Stat. 652.)
+(Dec. 23, 1913, ch. 6, §11A, as added [Pub. L. 96–221, title I, §107, Mar. 31, 1980, 94 Stat. 140](/statviewer.htm?volume=94&page=140); amended [Pub. L. 100–86, title VI, §612(a), Aug. 10, 1987, 101 Stat. 652](/statviewer.htm?volume=101&page=652).)
 
 #### Amendments
 
@@ -52,7 +52,7 @@ All depository institutions, as defined in section 461(b)(1) of this title, may 
 
 #### Effective Date of 1987 Amendment
 
-Pub. L. 100–86, title VI, §612(b), Aug. 10, 1987, 101 Stat. 652, provided that: "The amendment made by subsection (a) \[amending this section\] shall take effect on the date of enactment of this title \[Aug. 10, 1987\]."
+[Pub. L. 100–86, title VI, §612(b), Aug. 10, 1987, 101 Stat. 652](/statviewer.htm?volume=101&page=652), provided that: "The amendment made by subsection (a) \[amending this section\] shall take effect on the date of enactment of this title \[Aug. 10, 1987\]."
 
 #### Effective Date
 

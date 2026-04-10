@@ -14,4 +14,4 @@ The President shall vigorously pursue negotiations to limit and set rules for th
 
 (6) to prohibit the use of tied aid credit for production facilities for goods which are in structural oversupply in the world.
 
-(Pub. L. 98–181, title I \[title VI, §643\], Nov. 30, 1983, 97 Stat. 1263.)
+([Pub. L. 98–181, title I \[title VI, §643\], Nov. 30, 1983, 97 Stat. 1263](/statviewer.htm?volume=97&page=1263).)

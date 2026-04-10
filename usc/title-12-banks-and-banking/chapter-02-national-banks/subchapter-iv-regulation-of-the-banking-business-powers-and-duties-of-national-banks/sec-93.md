@@ -136,7 +136,7 @@ The term "senior executive officer" has the same meaning as in regulations presc
 
 The Comptroller of the Currency may act in the Comptroller's own name and through the Comptroller's own attorneys in enforcing any provision of title 62 of the Revised Statutes, regulations thereunder, or any other law or regulation, or in any action, suit, or proceeding to which the Comptroller of the Currency is a party.
 
-(R.S. §5239; Mar. 3, 1911, ch. 231, §291, 36 Stat. 1167; Pub. L. 95–630, title I, §103, Nov. 10, 1978, 92 Stat. 3643; Pub. L. 97–320, title IV, §424(d)(3), (f), (g), Oct. 15, 1982, 96 Stat. 1523; Pub. L. 97–457, §24, Jan. 12, 1983, 96 Stat. 2510; Pub. L. 101–73, title IX, §§905(e), 907(e), Aug. 9, 1989, 103 Stat. 460, 469; Pub. L. 102–550, title XV, §1502(a), Oct. 28, 1992, 106 Stat. 4045; Pub. L. 103–322, title XXXIII, §330017(b)(2), Sept. 13, 1994, 108 Stat. 2149; Pub. L. 103–325, title III, §331(b)(3), title IV, §§411(c)(2)(C), 413(b)(2), Sept. 23, 1994, 108 Stat. 2232, 2253, 2254.)
+([R.S. §5239](/statviewer.htm?volume=rs&page=1012); [Mar. 3, 1911, ch. 231, §291, 36 Stat. 1167](/statviewer.htm?volume=36&page=1167); [Pub. L. 95–630, title I, §103, Nov. 10, 1978, 92 Stat. 3643](/statviewer.htm?volume=92&page=3643); [Pub. L. 97–320, title IV, §424(d)(3), (f), (g), Oct. 15, 1982, 96 Stat. 1523](/statviewer.htm?volume=96&page=1523); [Pub. L. 97–457, §24, Jan. 12, 1983, 96 Stat. 2510](/statviewer.htm?volume=96&page=2510); [Pub. L. 101–73, title IX, §§905(e), 907(e), Aug. 9, 1989, 103 Stat. 460](/statviewer.htm?volume=103&page=460), [469](/statviewer.htm?volume=103&page=469); [Pub. L. 102–550, title XV, §1502(a), Oct. 28, 1992, 106 Stat. 4045](/statviewer.htm?volume=106&page=4045); [Pub. L. 103–322, title XXXIII, §330017(b)(2), Sept. 13, 1994, 108 Stat. 2149](/statviewer.htm?volume=108&page=2149); [Pub. L. 103–325, title III, §331(b)(3), title IV, §§411(c)(2)(C), 413(b)(2), Sept. 23, 1994, 108 Stat. 2232](/statviewer.htm?volume=108&page=2232), [2253](/statviewer.htm?volume=108&page=2253), [2254](/statviewer.htm?volume=108&page=2254).)
 
 #### References in Text
 
@@ -144,7 +144,7 @@ Title 62 of the Revised Statutes, referred to in subsecs. (a), (b)(1), and (d), 
 
 #### Codification
 
-R.S. §5239 derived from act June 3, 1864, ch. 106, §53, 13 Stat. 116, which was the National Bank Act. See section 38 of this title.
+[R.S. §5239](/statviewer.htm?volume=rs&page=1012) derived from act [June 3, 1864, ch. 106, §53, 13 Stat. 116](/statviewer.htm?volume=13&page=116), which was the National Bank Act. See section 38 of this title.
 
 Act Mar. 3, 1911, conferred the powers and duties of the former circuit courts upon the district courts.
 
@@ -170,7 +170,7 @@ Subsec. (c). Pub. L. 101–73, §905(e), added subsec. (c) relating to notice af
 
 #### Effective Date of 1989 Amendment
 
-Pub. L. 101–73, title IX, §907(l), Aug. 9, 1989, 103 Stat. 476, provided that: "The amendments made by this section \[amending this section and sections 481, 504, 505, 1467a, 1786, 1817, 1818, 1828, 1847, and 1972 of this title\] shall apply with respect to conduct engaged in by any person after the date of the enactment of this Act \[Aug. 9, 1989\], except that the increased maximum civil penalties of $5,000 and $25,000 per violation or per day may apply to such conduct engaged in before such date if such conduct—
+[Pub. L. 101–73, title IX, §907(l), Aug. 9, 1989, 103 Stat. 476](/statviewer.htm?volume=103&page=476), provided that: "The amendments made by this section \[amending this section and sections 481, 504, 505, 1467a, 1786, 1817, 1818, 1828, 1847, and 1972 of this title\] shall apply with respect to conduct engaged in by any person after the date of the enactment of this Act \[Aug. 9, 1989\], except that the increased maximum civil penalties of $5,000 and $25,000 per violation or per day may apply to such conduct engaged in before such date if such conduct—
 
 "(1) is not already subject to a notice (initiating an administrative proceeding) issued by the appropriate Federal banking agency (as defined in section 3(q) of the Federal Deposit Insurance Act \[12 U.S.C. 1813(q)\]) or the National Credit Union Administration Board; and
 
@@ -178,7 +178,7 @@ Pub. L. 101–73, title IX, §907(l), Aug. 9, 1989, 103 Stat. 476, provided that
 
 #### Effective Date of 1978 Amendment
 
-Pub. L. 95–630, title I, §109, Nov. 10, 1978, 92 Stat. 3665, provided that: "Any amendment made by this title which provides for the imposition of civil penalties \[enacting sections 504 and 505 of this title and amending this section and sections 1464, 1730, 1730a, 1786, 1818, 1828, and 1847 of this title\] shall apply only to violations occurring or continuing after the date of its enactment \[Nov. 10, 1978\]."
+[Pub. L. 95–630, title I, §109, Nov. 10, 1978, 92 Stat. 3665](/statviewer.htm?volume=92&page=3665), provided that: "Any amendment made by this title which provides for the imposition of civil penalties \[enacting sections 504 and 505 of this title and amending this section and sections 1464, 1730, 1730a, 1786, 1818, 1828, and 1847 of this title\] shall apply only to violations occurring or continuing after the date of its enactment \[Nov. 10, 1978\]."
 
 #### Exception as to Transfer of Functions
 

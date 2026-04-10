@@ -236,15 +236,15 @@ The term "well managed" means—
 
 (B) in the case of any depository institution that has not been examined, the existence and use of managerial resources that the appropriate Federal banking agency determines are satisfactory.
 
-(R.S. §5136A, as added Pub. L. 106–102, title I, §121(a)(2), Nov. 12, 1999, 113 Stat. 1373; amended Pub. L. 111–203, title IX, §939(d), July 21, 2010, 124 Stat. 1886.)
+([R.S. §5136](/statviewer.htm?volume=rs&page=993)A, as added [Pub. L. 106–102, title I, §121(a)(2), Nov. 12, 1999, 113 Stat. 1373](/statviewer.htm?volume=113&page=1373); amended [Pub. L. 111–203, title IX, §939(d), July 21, 2010, 124 Stat. 1886](/statviewer.htm?volume=124&page=1886).)
 
 #### References in Text
 
-The Gramm-Leach-Bliley Act, referred to in subsecs. (a)(2)(B)(iii), (b)(2)(A), (3), is Pub. L. 106–102, Nov. 12, 1999, 113 Stat. 1338. Section 122 of the Act is set out as a note under section 1843 of this title. For complete classification of this Act to the Code, see Short Title of 1999 Amendment note set out under section 1811 of this title and Tables.
+The Gramm-Leach-Bliley Act, referred to in subsecs. (a)(2)(B)(iii), (b)(2)(A), (3), is [Pub. L. 106–102, Nov. 12, 1999, 113 Stat. 1338](/statviewer.htm?volume=113&page=1338). Section 122 of the Act is set out as a note under section 1843 of this title. For complete classification of this Act to the Code, see Short Title of 1999 Amendment note set out under section 1811 of this title and Tables.
 
 Section 25 of the Federal Reserve Act, referred to in subsec. (g)(3)(B), is classified to subchapter I (§601 et seq.) of chapter 6 of this title. Section 25A of the Federal Reserve Act is classified to subchapter II (§611 et seq.) of chapter 6 of this title.
 
-The Bank Service Company Act, referred to in subsec. (g)(3)(B), is Pub. L. 87–856, Oct. 23, 1962, 76 Stat. 1132, as amended, which is classified generally to chapter 18 (§1861 et seq.) of this title. For complete classification of this Act to the Code, see section 1861 of this title and Tables.
+The Bank Service Company Act, referred to in subsec. (g)(3)(B), is [Pub. L. 87–856, Oct. 23, 1962, 76 Stat. 1132](/statviewer.htm?volume=76&page=1132), as amended, which is classified generally to chapter 18 (§1861 et seq.) of this title. For complete classification of this Act to the Code, see section 1861 of this title and Tables.
 
 #### Prior Provisions
 
@@ -268,7 +268,7 @@ Subsec. (f)(1). Pub. L. 111–203, §939(d)(5), substituted "standards of credit
 
 #### Effective Date of 2010 Amendment
 
-Pub. L. 111–203, title IX, §939(g), July 21, 2010, 124 Stat. 1887, provided that: "The amendments made by this section \[amending this section, sections 1817, 1831e, and 4519 of this title, sections 78c and 80a–6 of Title 15, Commerce and Trade, and section 286hh of Title 22, Foreign Relations and Intercourse\] shall take effect 2 years after the date of enactment of this Act \[July 21, 2010\]."
+[Pub. L. 111–203, title IX, §939(g), July 21, 2010, 124 Stat. 1887](/statviewer.htm?volume=124&page=1887), provided that: "The amendments made by this section \[amending this section, sections 1817, 1831e, and 4519 of this title, sections 78c and 80a–6 of Title 15, Commerce and Trade, and section 286hh of Title 22, Foreign Relations and Intercourse\] shall take effect 2 years after the date of enactment of this Act \[July 21, 2010\]."
 
 #### Effective Date
 

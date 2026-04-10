@@ -146,7 +146,7 @@ The Bank shall include in its annual report to the Congress under subsection (a)
 
 The Bank shall include in its annual report to Congress under subsection (a) a report on the programs of the Bank for United States businesses with less than $250,000,000 in annual sales.
 
-(July 31, 1945, ch. 341, §8, formerly §9, 59 Stat. 529; Pub. L. 90–267, §1(a), Mar. 13, 1968, 82 Stat. 47; Pub. L. 93–646, §10, Jan. 4, 1975, 88 Stat. 2336; Pub. L. 95–630, title XIX, §1907(b), Nov. 10, 1978, 92 Stat. 3725; Pub. L. 98–181, title I \[title VI, §§618(b), 623\], Nov. 30, 1983, 97 Stat. 1259, 1262; Pub. L. 99–472, §20(b), (c), Oct. 15, 1986, 100 Stat. 1209, 1210; renumbered §8, Pub. L. 102–429, title I, §121(c)(2), Oct. 21, 1992, 106 Stat. 2199; Pub. L. 106–569, title XI, §1104(a)(4), Dec. 27, 2000, 114 Stat. 3032; Pub. L. 107–189, §12, June 14, 2002, 116 Stat. 704; Pub. L. 109–438, §20, Dec. 20, 2006, 120 Stat. 3282; Pub. L. 112–122, §§6, 10, 20(b)(2), 21(c), May 30, 2012, 126 Stat. 353, 356, 362, 363; Pub. L. 114–94, div. E, title LII, §52002(a), Dec. 4, 2015, 129 Stat. 1767.)
+([July 31, 1945, ch. 341, §8, formerly §9, 59 Stat. 529](/statviewer.htm?volume=59&page=529); [Pub. L. 90–267, §1(a), Mar. 13, 1968, 82 Stat. 47](/statviewer.htm?volume=82&page=47); [Pub. L. 93–646, §10, Jan. 4, 1975, 88 Stat. 2336](/statviewer.htm?volume=88&page=2336); [Pub. L. 95–630, title XIX, §1907(b), Nov. 10, 1978, 92 Stat. 3725](/statviewer.htm?volume=92&page=3725); [Pub. L. 98–181, title I \[title VI, §§618(b), 623\], Nov. 30, 1983, 97 Stat. 1259](/statviewer.htm?volume=97&page=1259), [1262](/statviewer.htm?volume=97&page=1262); [Pub. L. 99–472, §20(b), (c), Oct. 15, 1986, 100 Stat. 1209](/statviewer.htm?volume=100&page=1209), [1210](/statviewer.htm?volume=100&page=1210); renumbered §8, [Pub. L. 102–429, title I, §121(c)(2), Oct. 21, 1992, 106 Stat. 2199](/statviewer.htm?volume=106&page=2199); [Pub. L. 106–569, title XI, §1104(a)(4), Dec. 27, 2000, 114 Stat. 3032](/statviewer.htm?volume=114&page=3032); [Pub. L. 107–189, §12, June 14, 2002, 116 Stat. 704](/statviewer.htm?volume=116&page=704); [Pub. L. 109–438, §20, Dec. 20, 2006, 120 Stat. 3282](/statviewer.htm?volume=120&page=3282); [Pub. L. 112–122, §§6, 10, 20(b)(2), 21(c), May 30, 2012, 126 Stat. 353](/statviewer.htm?volume=126&page=353), [356](/statviewer.htm?volume=126&page=356), [362](/statviewer.htm?volume=126&page=362), [363](/statviewer.htm?volume=126&page=363); [Pub. L. 114–94, div. E, title LII, §52002(a), Dec. 4, 2015, 129 Stat. 1767](/statviewer.htm?volume=129&page=1767).)
 
 #### Prior Provisions
 
@@ -196,11 +196,11 @@ Committee on Small Business of Senate changed to Committee on Small Business and
 
 #### Effective Date of 2015 Amendment
 
-Pub. L. 114–94, div. E, title LII, §52002(b), Dec. 4, 2015, 129 Stat. 1767, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply with respect to the report of the Export-Import Bank of the United States submitted to Congress under section 8 of the Export-Import Bank Act of 1945 (12 U.S.C. 635g) for the first year that begins after the date of the enactment of this Act \[Dec. 4, 2015\]."
+[Pub. L. 114–94, div. E, title LII, §52002(b), Dec. 4, 2015, 129 Stat. 1767](/statviewer.htm?volume=129&page=1767), provided that: "The amendment made by subsection (a) \[amending this section\] shall apply with respect to the report of the Export-Import Bank of the United States submitted to Congress under section 8 of the Export-Import Bank Act of 1945 (12 U.S.C. 635g) for the first year that begins after the date of the enactment of this Act \[Dec. 4, 2015\]."
 
 #### Termination Date of 1986 Amendment
 
-Pub. L. 99–472, §20(c), Oct. 15, 1986, 100 Stat. 1210, provided that: "Effective March 2, 1988, the amendment made by subsection (b) \[amending this section\] is repealed."
+[Pub. L. 99–472, §20(c), Oct. 15, 1986, 100 Stat. 1210](/statviewer.htm?volume=100&page=1210), provided that: "Effective March 2, 1988, the amendment made by subsection (b) \[amending this section\] is repealed."
 
 #### Effective Date of 1978 Amendment
 
@@ -208,11 +208,11 @@ Amendment by Pub. L. 95–630 effective Nov. 10, 1978, see section 1917 of Pub. 
 
 #### Reports
 
-Pub. L. 107–189, §8(c), June 14, 2002, 116 Stat. 701, provided that: "The Export-Import Bank of the United States shall include in the annual report required by section 8(a) of the Export-Import Bank Act of 1945 \[12 U.S.C. 635g(a)\] for each of fiscal years 2002 through 2006 a report on the efforts made by the Bank to carry out subparagraphs (E)(x) and (J) of section 2(b)(1) of such Act \[12 U.S.C. 635(b)(1)\], and on how the efforts are assisting small businesses."
+[Pub. L. 107–189, §8(c), June 14, 2002, 116 Stat. 701](/statviewer.htm?volume=116&page=701), provided that: "The Export-Import Bank of the United States shall include in the annual report required by section 8(a) of the Export-Import Bank Act of 1945 \[12 U.S.C. 635g(a)\] for each of fiscal years 2002 through 2006 a report on the efforts made by the Bank to carry out subparagraphs (E)(x) and (J) of section 2(b)(1) of such Act \[12 U.S.C. 635(b)(1)\], and on how the efforts are assisting small businesses."
 
 #### Financing for Renewable Energy Projects
 
-Pub. L. 101–167, title V, §534(d), Nov. 21, 1989, 103 Stat. 1231, provided that:
+[Pub. L. 101–167, title V, §534(d), Nov. 21, 1989, 103 Stat. 1231](/statviewer.htm?volume=103&page=1231), provided that:
 
 "(1) Of the financing provided by the Export-Import Bank that is utilized for the support of exports for the energy sector, the Bank shall seek to provide not less than 5 per centum of such financing for renewable energy projects.
 
@@ -222,4 +222,4 @@ Pub. L. 101–167, title V, §534(d), Nov. 21, 1989, 103 Stat. 1231, provided th
 
 #### Submission of Annual Report
 
-Pub. L. 89–348, §2(9), Nov. 8, 1965, 79 Stat. 1312, modified requirement relating to submission of reports to Congress by providing for annual reports instead of semiannual reports.
+[Pub. L. 89–348, §2(9), Nov. 8, 1965, 79 Stat. 1312](/statviewer.htm?volume=79&page=1312), modified requirement relating to submission of reports to Congress by providing for annual reports instead of semiannual reports.

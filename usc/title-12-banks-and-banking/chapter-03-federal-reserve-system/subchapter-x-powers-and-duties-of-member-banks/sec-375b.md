@@ -156,11 +156,11 @@ The term "subsidiary" has the same meaning as in section 1841 of this title.
 
 The Board of Governors of the Federal Reserve System may prescribe such regulations, including definitions of terms, as it determines to be necessary to effectuate the purposes and prevent evasions of this section.
 
-(Dec. 23, 1913, ch. 6, §22(h), as added Pub. L. 95–630, title I, §104, Nov. 10, 1978, 92 Stat. 3644; amended Pub. L. 97–320, title IV, §§410(e), 422, Oct. 15, 1982, 96 Stat. 1520, 1522; Pub. L. 102–242, title III, §306(a)–(h), Dec. 19, 1991, 105 Stat. 2355, 2357–2359; Pub. L. 102–550, title IX, §955, title XVI, §1605(a)(10), Oct. 28, 1992, 106 Stat. 3895, 4086; Pub. L. 103–325, title III, §334(b), Sept. 23, 1994, 108 Stat. 2233; Pub. L. 104–208, div. A, title II, §2211, Sept. 30, 1996, 110 Stat. 3009–410; Pub. L. 111–203, title VI, §614(a), July 21, 2010, 124 Stat. 1614.)
+(Dec. 23, 1913, ch. 6, §22(h), as added [Pub. L. 95–630, title I, §104, Nov. 10, 1978, 92 Stat. 3644](/statviewer.htm?volume=92&page=3644); amended [Pub. L. 97–320, title IV, §§410(e), 422, Oct. 15, 1982, 96 Stat. 1520](/statviewer.htm?volume=96&page=1520), [1522](/statviewer.htm?volume=96&page=1522); [Pub. L. 102–242, title III, §306(a)–(h), Dec. 19, 1991, 105 Stat. 2355](/statviewer.htm?volume=105&page=2355), [2357-2359](/statviewer.htm?volume=105&page=2357); [Pub. L. 102–550, title IX, §955, title XVI, §1605(a)(10), Oct. 28, 1992, 106 Stat. 3895](/statviewer.htm?volume=106&page=3895), [4086](/statviewer.htm?volume=106&page=4086); [Pub. L. 103–325, title III, §334(b), Sept. 23, 1994, 108 Stat. 2233](/statviewer.htm?volume=108&page=2233); [Pub. L. 104–208, div. A, title II, §2211, Sept. 30, 1996, 110 Stat. 3009–410](/statviewer.htm?volume=110&page=3009-410); [Pub. L. 111–203, title VI, §614(a), July 21, 2010, 124 Stat. 1614](/statviewer.htm?volume=124&page=1614).)
 
 #### Prior Provisions
 
-A prior section 22(h) of act Dec. 23, 1913, ch. 6, as added June 19, 1934, ch. 653, §3, 48 Stat. 1107, was classified to section 596 of this title, prior to repeal by act June 25, 1948, ch. 645, §21, 62 Stat. 862, eff. Sept. 1, 1948.
+A prior section 22(h) of act Dec. 23, 1913, ch. 6, as added [June 19, 1934, ch. 653, §3, 48 Stat. 1107](/statviewer.htm?volume=48&page=1107), was classified to section 596 of this title, prior to repeal by act [June 25, 1948, ch. 645, §21, 62 Stat. 862](/statviewer.htm?volume=62&page=862), eff. Sept. 1, 1948.
 
 #### Amendments
 
@@ -206,7 +206,7 @@ Par. (6)(C) to (F). Pub. L. 97–320, §410(e), redesignated subpars. (D) to (G)
 
 #### Effective Date of 2010 Amendment
 
-Pub. L. 111–203, title VI, §614(b), July 21, 2010, 124 Stat. 1614, provided that: "The amendments made by this section \[amending this section\] shall take effect 1 year after the transfer date."
+[Pub. L. 111–203, title VI, §614(b), July 21, 2010, 124 Stat. 1614](/statviewer.htm?volume=124&page=1614), provided that: "The amendments made by this section \[amending this section\] shall take effect 1 year after the transfer date."
 
 \[For definition of "transfer date" as used in section 614(b) of Pub. L. 111–203, set out above, see section 5301 of this title.\]
 
@@ -216,7 +216,7 @@ Amendment by section 1605(a)(10) of Pub. L. 102–550 effective as if included i
 
 #### Effective Date of 1991 Amendment
 
-Pub. L. 102–242, title III, §306(l), Dec. 19, 1991, 105 Stat. 2360, provided that: "The amendments made by this section \[amending this section and sections 1468, 1828, and 1972 of this title\] shall become effective upon the earlier of—
+[Pub. L. 102–242, title III, §306(l), Dec. 19, 1991, 105 Stat. 2360](/statviewer.htm?volume=105&page=2360), provided that: "The amendments made by this section \[amending this section and sections 1468, 1828, and 1972 of this title\] shall become effective upon the earlier of—
 
 "(1) the date on which final regulations under subsection (m)(1) \[set out below\] become effective \[May 18, 1992, see 57 F.R. 22417\]; or
 
@@ -224,11 +224,11 @@ Pub. L. 102–242, title III, §306(l), Dec. 19, 1991, 105 Stat. 2360, provided 
 
 #### Effective Date
 
-Pub. L. 95–630, title XXI, §2101, Nov. 10, 1978, 92 Stat. 3741, provided that: "Except as otherwise provided herein, this Act \[see Short Title of 1978 Amendment note set out under section 226 of this title\] shall take effect upon the expiration of one hundred and twenty days after the date of its enactment \[Nov. 10, 1978\]."
+[Pub. L. 95–630, title XXI, §2101, Nov. 10, 1978, 92 Stat. 3741](/statviewer.htm?volume=92&page=3741), provided that: "Except as otherwise provided herein, this Act \[see Short Title of 1978 Amendment note set out under section 226 of this title\] shall take effect upon the expiration of one hundred and twenty days after the date of its enactment \[Nov. 10, 1978\]."
 
 #### Regulations
 
-Pub. L. 102–242, title III, §306(m), Dec. 19, 1991, 105 Stat. 2360, provided that:
+[Pub. L. 102–242, title III, §306(m), Dec. 19, 1991, 105 Stat. 2360](/statviewer.htm?volume=105&page=2360), provided that:
 
 "(1) In general.—The Board of Governors of the Federal Reserve System shall, not later than 120 days after the date of enactment of this Act \[Dec. 19, 1991\], promulgate final regulations to implement the amendments made by this section \[amending this section and sections 1468, 1828, and 1972 of this title\], other than the amendments made by subsections (i) and (k) \[amending sections 1468 and 1828 of this title\].
 
@@ -236,8 +236,8 @@ Pub. L. 102–242, title III, §306(m), Dec. 19, 1991, 105 Stat. 2360, provided 
 
 #### Existing Transactions Not Affected by 1991 Amendments
 
-Pub. L. 102–242, title III, §306(n), Dec. 19, 1991, 105 Stat. 2360, provided that: "The amendments made by this section \[amending this section and sections 1468, 1828, and 1972 of this title\] do not affect the validity of any extension of credit or other transaction lawfully entered into on or before the effective date of those amendments \[see Effective Date of 1991 Amendment note above\]."
+[Pub. L. 102–242, title III, §306(n), Dec. 19, 1991, 105 Stat. 2360](/statviewer.htm?volume=105&page=2360), provided that: "The amendments made by this section \[amending this section and sections 1468, 1828, and 1972 of this title\] do not affect the validity of any extension of credit or other transaction lawfully entered into on or before the effective date of those amendments \[see Effective Date of 1991 Amendment note above\]."
 
 #### Reporting of Credit by Executive Officers and Directors
 
-Pub. L. 102–242, title III, §306(o), Dec. 19, 1991, 105 Stat. 2360, provided that: "An executive officer or director of an insured depository institution, a bank holding company, or a savings and loan holding company, the shares of which are not publicly traded, shall report annually to the board of directors of the institution or holding company the outstanding amount of any credit that was extended to such executive officer or director and that is secured by shares of the institution or holding company."
+[Pub. L. 102–242, title III, §306(o), Dec. 19, 1991, 105 Stat. 2360](/statviewer.htm?volume=105&page=2360), provided that: "An executive officer or director of an insured depository institution, a bank holding company, or a savings and loan holding company, the shares of which are not publicly traded, shall report annually to the board of directors of the institution or holding company the outstanding amount of any credit that was extended to such executive officer or director and that is secured by shares of the institution or holding company."

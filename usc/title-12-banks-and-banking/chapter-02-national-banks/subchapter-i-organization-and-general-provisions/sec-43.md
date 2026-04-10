@@ -44,8 +44,8 @@ The appropriate Federal banking agency may make exceptions to subsection (a) if�
 
 (ii) an acquisition with respect to which the Federal Deposit Insurance Corporation provides assistance under section 1823(c) of this title.
 
-(R.S. §5244, as added Pub. L. 103–328, title I, §114, Sept. 29, 1994, 108 Stat. 2366.)
+([R.S. §5244](/statviewer.htm?volume=rs&page=1015), as added [Pub. L. 103–328, title I, §114, Sept. 29, 1994, 108 Stat. 2366](/statviewer.htm?volume=108&page=2366).)
 
 #### Codification
 
-Another R.S. §5244 is classified to section 8 of Title 33, Navigation and Navigable Waters.
+Another [R.S. §5244](/statviewer.htm?volume=rs&page=1015) is classified to section 8 of Title 33, Navigation and Navigable Waters.

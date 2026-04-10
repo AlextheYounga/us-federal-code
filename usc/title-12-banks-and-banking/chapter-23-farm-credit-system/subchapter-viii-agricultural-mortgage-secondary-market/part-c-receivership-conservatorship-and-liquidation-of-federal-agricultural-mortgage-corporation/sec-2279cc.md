@@ -124,4 +124,4 @@ The charter of the Corporation shall be canceled, and the authority provided to 
 
 The Office of Secondary Market Oversight established under section 2279aa–11 of this title shall be abolished, and section 2279aa–11(a) of this title and part B shall have no force or effect, on such date as the Farm Credit Administration Board determines is appropriate following the placement of the Corporation in receivership, but not later than the conclusion of the receivership and discharge of the receiver.
 
-(Pub. L. 92–181, title VIII, §8.41, as added Pub. L. 104–105, title I, §118, Feb. 10, 1996, 110 Stat. 168.)
+(Pub. L. 92–181, title VIII, §8.41, as added [Pub. L. 104–105, title I, §118, Feb. 10, 1996, 110 Stat. 168](/statviewer.htm?volume=110&page=168).)

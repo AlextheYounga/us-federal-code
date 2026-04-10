@@ -36,7 +36,7 @@ The Board shall place on its home Internet website, a link entitled "Audit", whi
 
 (4) such other information as the Board reasonably believes is necessary or helpful to the public in understanding the accounting, financial reporting, and internal controls of the Board and the Federal reserve banks.
 
-(Dec. 23, 1913, ch. 6, §2B, as added Pub. L. 106–569, title X, §1003(b)(1), Dec. 27, 2000, 114 Stat. 3028; amended Pub. L. 111–203, title XI, §1103(a), July 21, 2010, 124 Stat. 2118.)
+(Dec. 23, 1913, ch. 6, §2B, as added [Pub. L. 106–569, title X, §1003(b)(1), Dec. 27, 2000, 114 Stat. 3028](/statviewer.htm?volume=114&page=3028); amended [Pub. L. 111–203, title XI, §1103(a), July 21, 2010, 124 Stat. 2118](/statviewer.htm?volume=124&page=2118).)
 
 #### Amendments
 

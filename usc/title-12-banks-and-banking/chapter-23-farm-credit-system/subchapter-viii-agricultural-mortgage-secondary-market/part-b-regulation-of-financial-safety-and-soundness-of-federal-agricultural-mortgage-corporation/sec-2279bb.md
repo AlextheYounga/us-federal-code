@@ -34,7 +34,7 @@ The term "regulatory capital" means, with respect to the Corporation, the core c
 
 The term "State" means the States of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the Commonwealth of the Northern Mariana Islands, Guam, the Virgin Islands, American Samoa, the Trust Territory of the Pacific Islands, and any other territory or possession of the United States.
 
-(Pub. L. 92–181, title VIII, §8.31, as added Pub. L. 102–237, title V, §503(b)(2), Dec. 13, 1991, 105 Stat. 1871.)
+(Pub. L. 92–181, title VIII, §8.31, as added [Pub. L. 102–237, title V, §503(b)(2), Dec. 13, 1991, 105 Stat. 1871](/statviewer.htm?volume=105&page=1871).)
 
 #### Termination of Trust Territory of the Pacific Islands
 
