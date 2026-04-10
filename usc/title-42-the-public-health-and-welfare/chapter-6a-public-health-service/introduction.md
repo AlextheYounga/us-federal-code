@@ -486,7 +486,7 @@ Sec.
 
 254q–1. Grants to States for loan repayment programs.
 
-254r. Grants to States for operation of offices of rural health.
+254r. Grants to State Offices of Rural Health.
 
 254s. Native Hawaiian Health Scholarships.
 
@@ -714,7 +714,7 @@ Sec.
 
         
 
-#### Part K—Health Care Services in the Home
+#### Part K—Health Care Services in the Home and Public Health Programs for Dementia
 
 #### subpart i—grants for demonstration projects
 
@@ -726,11 +726,11 @@ Sec.
 
         
 
-#### subpart ii—grants for demonstration projects with respect to alzheimer's disease
+#### subpart ii—programs with respect to alzheimer's disease and related dementias
 
-280c–3. Establishment of program.
+280c–3. Cooperative agreements to States and public health departments for Alzheimer's disease and related dementias.
 
-280c–4. Requirement of matching funds.
+280c–4. Promotion of public health knowledge and awareness of Alzheimer's disease and related dementias.
 
 280c–5. General provisions.
 
@@ -2441,6 +2441,8 @@ Sec.
 300d–52. State grants for projects regarding traumatic brain injury.
 
 300d–53. State grants for protection and advocacy services.
+
+300d–54. Stop, Observe, Ask, and Respond to Health and Wellness Training Program.
 
         
 

@@ -224,7 +224,7 @@ Sec.
 
 #### SUBCHAPTER XV–B—GRANTS FOR FAMILY-BASED SUBSTANCE ABUSE TREATMENT
 
-3797s to 3797s–6. Transferred or Omitted.
+3797s to 3797s–6. Transferred.
 
         
 
@@ -266,7 +266,7 @@ Sec.
 
 #### SUBCHAPTER XX–B—GRANT PROGRAM TO EVALUATE AND IMPROVE EDUCATIONAL METHODS AT PRISONS, JAILS, AND JUVENILE FACILITIES
 
-3797dd, 3797dd–1. Transferred or Omitted.
+3797dd, 3797dd–1. Repealed or Transferred.
 
         
 

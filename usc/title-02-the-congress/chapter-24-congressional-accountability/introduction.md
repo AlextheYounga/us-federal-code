@@ -54,6 +54,8 @@ Sec.
 
 1361\. Generally applicable remedies and limitations.
 
+1362\. Notices.
+
         
 
 #### Part F—Study
@@ -62,9 +64,9 @@ Sec.
 
         
 
-#### SUBCHAPTER III—OFFICE OF COMPLIANCE
+#### SUBCHAPTER III—OFFICE OF CONGRESSIONAL WORKPLACE RIGHTS
 
-1381\. Establishment of Office of Compliance.
+1381\. Establishment of Office of Congressional Workplace Rights.
 
 1382\. Officers, staff, and other personnel.
 
@@ -78,6 +80,8 @@ Sec.
 
 1387\. Semiannual report of disbursements.
 
+1388\. Workplace climate surveys of employing offices.
+
         
 
 #### SUBCHAPTER IV—ADMINISTRATIVE AND JUDICIAL DISPUTE-RESOLUTION PROCEDURES
@@ -85,6 +89,8 @@ Sec.
 1401\. Procedure for consideration of alleged violations.
 
 1402\. Counseling.
+
+1402a. Preliminary review of claims.
 
 1403\. Mediation.
 
@@ -114,6 +120,8 @@ Sec.
 
 1416\. Confidentiality.
 
+1417\. Option to request remote work assignment or paid leave of absence during pendency of procedures.
+
         
 
 #### SUBCHAPTER V—MISCELLANEOUS PROVISIONS
@@ -131,6 +139,10 @@ Sec.
 1436\. Repealed.
 
 1437\. Sense of Senate regarding adoption of simplified and streamlined acquisition procedures for Senate acquisitions.
+
+1437a. Training and education programs of employing offices.
+
+1437b. Support for out-of-area covered employees.
 
 1438\. Severability.
 
