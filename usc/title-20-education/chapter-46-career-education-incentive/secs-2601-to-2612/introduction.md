@@ -24,6 +24,10 @@ Section 2611, Pub. L. 95–207, §12, Dec. 13, 1977, 91 Stat. 1471; Pub. L. 96�
 
 Section 2612, Pub. L. 95–207, §13(a)–(d), Dec. 13, 1977, 91 Stat. 1471; Pub. L. 96–88, title III, §301(a)(1), title V, §507, Oct. 17, 1979, 93 Stat. 677, 692, related to administrative functions of Office of Career Education and National Advisory Council on Career Education.
 
+  
+
+#### **Statutory Notes and Related Subsidiaries**
+
 #### Short Title
 
 Pub. L. 95–207, §1, Dec. 13, 1977, 91 Stat. 1464, which provided for short title of this chapter as the Career Education Incentive Act, was repealed by Pub. L. 97–35, title V, §587(a)(4), Aug. 13, 1981, 95 Stat. 480.

@@ -4,6 +4,10 @@ The Secretary and his assistants shall, respectively, receive for their services
 
 (R.S. §5584.)
 
+  
+
+#### **Editorial Notes**
+
 #### Codification
 
 R.S. §5584 derived from act Aug. 10, 1846, ch. 178, §7, 9 Stat. 105.

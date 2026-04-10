@@ -4,6 +4,10 @@ Congress may alter, amend, add to, or repeal any of the provisions of sections 4
 
 (R.S. §5594.)
 
+  
+
+#### **Editorial Notes**
+
 #### Codification
 
 R.S. §5594 derived from act Aug. 10, 1846, ch. 178, §11, 9 Stat. 106.

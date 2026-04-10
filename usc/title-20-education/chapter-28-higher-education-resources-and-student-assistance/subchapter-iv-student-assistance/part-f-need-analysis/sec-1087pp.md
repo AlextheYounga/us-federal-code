@@ -339,6 +339,10 @@ Asset Protection Allowances for Families and Students
 
 See 2020 Amendment note below.
 
+  
+
+#### **Editorial Notes**
+
 #### Amendments
 
 **2020**—Pub. L. 116–260 amended section generally. Prior to amendment, section related to family contribution for independent students without dependents other than a spouse.
@@ -399,6 +403,10 @@ Subsec. (c)(2)(C). Pub. L. 100–50, §14(4), added table and struck out former 
 | $325,001 or more                           | $169,000 plus 100 percent of NW over $325,000". |
 
 Pub. L. 100–50, §14(1), substituted "section 1087rr of this title" for "section 1087ss of this title".
+
+  
+
+#### **Statutory Notes and Related Subsidiaries**
 
 #### Effective Date of 2020 Amendment
 

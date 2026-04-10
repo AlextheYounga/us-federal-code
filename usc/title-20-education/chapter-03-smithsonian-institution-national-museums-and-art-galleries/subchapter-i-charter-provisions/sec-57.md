@@ -4,9 +4,17 @@ Whenever money is required for the payment of the debts or performance of the co
 
 (R.S. §5593.)
 
+  
+
+#### **Editorial Notes**
+
 #### Codification
 
 R.S. §5593 derived from act Aug. 10, 1846, ch. 178, §3, 9 Stat. 103.
+
+  
+
+#### **Statutory Notes and Related Subsidiaries**
 
 #### Termination of Reporting Requirements
 
