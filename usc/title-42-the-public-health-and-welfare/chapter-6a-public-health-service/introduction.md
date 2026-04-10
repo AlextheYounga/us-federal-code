@@ -296,8 +296,6 @@ Sec.
 
 247b–22. Microbicide research.
 
-247b–23. National strategy and regional centers of excellence in vector-borne diseases.
-
 247c. Sexually transmitted diseases; prevention and control projects and programs.
 
 247c–1. Infertility and sexually transmitted diseases.
@@ -2462,9 +2460,9 @@ Sec.
 
 #### Part G—Poison Control
 
-300d–71. Maintenance of the national toll-free number and other communication capabilities.
+300d–71. Maintenance of the national toll-free number.
 
-300d–72. Promoting poison control center utilization.
+300d–72. Nationwide media campaign to promote poison control center utilization.
 
 300d–73. Maintenance of the poison control center grant program.
 
@@ -2876,9 +2874,9 @@ Sec.
 
 300x–25. Group homes for persons in recovery from substance use disorders.
 
-300x–26. Sale of tobacco products to individuals under age of 21.
+300x–26. State law regarding sale of tobacco products to individuals under age of 18.
 
-300x–26a. Repealed.
+300x–26a. Withholding of substance abuse funding under section 300x–26.
 
 300x–27. Treatment services for pregnant women.
 
@@ -3623,8 +3621,6 @@ Sec.
 #### Part C—Strengthening Public Health Surveillance Systems
 
 300hh–31. Epidemiology-laboratory capacity grants.
-
-300hh–32. Enhanced support to assist health departments in addressing vector-borne diseases.
 
         
 

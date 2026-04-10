@@ -230,12 +230,4 @@ Chap. Sec.
 
 102\. Countering Russian Influence in Europe and Eurasia 9501
 
-103\. Better Utilization of Investments Leading to Development 9601
-
-104\. Venezuela Assistance 9701
-
-105\. Global Fragility 9801
-
-106\. Championing American Business Through Diplomacy 9901
-
         

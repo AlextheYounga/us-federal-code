@@ -1,4 +1,10 @@
-### **\[Subchapter E—Repealed\]**
+### **Subchapter E—Medical Devices**
+
+Sec.
+
+4191\. Medical devices.
+
+        
 
 #### Prior Provisions
 

@@ -500,8 +500,6 @@ Sec.
 
 561\. Scrambling of sexually explicit adult video service programming.
 
-562\. Requirements relating to charges for covered services.
-
         
 
 #### Part V—Video Programming Services Provided by Telephone Companies
