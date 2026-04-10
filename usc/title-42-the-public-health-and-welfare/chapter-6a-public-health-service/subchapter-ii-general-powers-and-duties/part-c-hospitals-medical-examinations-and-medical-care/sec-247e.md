@@ -126,7 +126,7 @@ Pub. L. 105–78, title II, §211(a)–(g), Nov. 13, 1997, 111 Stat. 1489, as am
 
 “(C) In the determination pursuant to subparagraph (A) of whether the individual is eligible for Federal disability coverage (during the applicable period of time under such subparagraph), service as an employee of the State after the date of the transfer under subsection (b) shall be counted toward the service requirement specified in the first sentence of section 8337(a) or 8451(a)(1)(A) of such title 5 (whichever is applicable).
 
-“(3) In the case of each individual who as of the date of the enactment of this Act is a Federal employee with a position at the Center and is, for duty at the Center, receiving the pay differential under section 208(e) of the Public Health Service Act \[section 210(e) of this title\] or under section 5545(d) of title 5, United States Code:
+“(3) In the case of each individual who as of the date of the enactment of this Act is a Federal employee with a position at the Center and is, for duty at the Center, receiving the pay differential under section 208(e) of the Public Health Service Act \[42 U.S.C. 210(e)\] or under section 5545(d) of title 5, United States Code:
 
 “(A) If as of the date of the transfer under subsection (b) the individual is eligible for an annuity under section 8336 or 8412 of title 5, United States Code, then once the individual separates from the service and thereby becomes entitled to receive the annuity, the pay differential shall be included in the computation of the annuity if the individual separated from the service not later than the expiration of the 90-day period beginning on the date of the transfer.
 
@@ -134,7 +134,7 @@ Pub. L. 105–78, title II, §211(a)–(g), Nov. 13, 1997, 111 Stat. 1489, as am
 
 “(C) For purposes of this paragraph, the individual is eligible for the annuity if the individual meets all conditions under such section 8336 or 8412 to be entitled to the annuity, except the condition that the individual be separated from the service.
 
-“(4) With respect to individuals who as of the date of the enactment of this Act are Federal employees with positions at the Center and are not, for duty at the center, receiving the pay differential under section 208(e) of the Public Health Service Act \[section 210(e) of this title\] or under section 5545(d) of title 5, United States Code:
+“(4) With respect to individuals who as of the date of the enactment of this Act are Federal employees with positions at the Center and are not, for duty at the center, receiving the pay differential under section 208(e) of the Public Health Service Act \[42 U.S.C. 210(e)\] or under section 5545(d) of title 5, United States Code:
 
 “(A) During the calendar years 1997 and 1998, the Secretary may in accordance with this paragraph provide to any such individual a voluntary separation incentive payment. The purpose of such payments is to avoid or minimize the need for involuntary separations under a reduction in force with respect to the Center.
 
@@ -160,13 +160,13 @@ Pub. L. 105–78, title II, §211(a)–(g), Nov. 13, 1997, 111 Stat. 1489, as am
 
 “(B) The choice by an eligible patient of the option under clause (i) of subparagraph (A) may at any time be revoked by the patient, and the patient may instead choose the option under clause (ii) of such subparagraph. The choice by an eligible patient of the option under such clause (ii) is irrevocable.
 
-“(C) Payments under subparagraph (A)(ii) shall be made on a monthly basis, and shall be pro rated as applicable. In 1999 and each subsequent year, the monthly amount of such payments shall be increased by a percentage equal to any percentage increase taking effect under section 215(i) of the Social Security Act \[section 415(i) of this title\] (relating to a cost-of-living increase) for benefits under title II of such Act \[section 401 et seq. of this title\] (relating to Federal old-age, survivors, and disability insurance benefits). Any such percentage increase in monthly payments under subparagraph (A)(ii) shall take effect in the same month as the percentage increase under such section 215(i) takes effect.
+“(C) Payments under subparagraph (A)(ii) shall be made on a monthly basis, and shall be pro rated as applicable. In 1999 and each subsequent year, the monthly amount of such payments shall be increased by a percentage equal to any percentage increase taking effect under section 215(i) of the Social Security Act \[42 U.S.C. 415(i)\] (relating to a cost-of-living increase) for benefits under title II of such Act \[42 U.S.C. 401 et seq.\] (relating to Federal old-age, survivors, and disability insurance benefits). Any such percentage increase in monthly payments under subparagraph (A)(ii) shall take effect in the same month as the percentage increase under such section 215(i) takes effect.
 
 “(D) With respect to the provision of outpatient and inpatient medical care for Hansen's disease and related complications to an eligible patient:
 
 “(i) The choice the patient makes under subparagraph (A) does not affect the responsibility of the Secretary for providing to the patient such care at or through the Center.
 
-“(ii) If the patient chooses the option under subparagraph (A)(ii) and receives inpatient care at or through the Center, the Secretary may reduce the amount of payments under such subparagraph, except to the extent that reimbursement for the expenses of such care is available to the provider of the care through the program under title XVIII of the Social Security Act \[section 1395 et seq. of this title\] or the program under title XIX of such Act \[section 1396 et seq. of this title\]. Any such reduction shall be made on the basis of the number of days for which the patient received the inpatient care.
+“(ii) If the patient chooses the option under subparagraph (A)(ii) and receives inpatient care at or through the Center, the Secretary may reduce the amount of payments under such subparagraph, except to the extent that reimbursement for the expenses of such care is available to the provider of the care through the program under title XVIII of the Social Security Act \[42 U.S.C. 1395 et seq.\] or the program under title XIX of such Act \[42 U.S.C. 1396 et seq.\]. Any such reduction shall be made on the basis of the number of days for which the patient received the inpatient care.
 
 “(6) The Secretary shall provide to each eligible patient such information and time as may be necessary for the patient to make an informed decision regarding the options under paragraph (5)(A).
 

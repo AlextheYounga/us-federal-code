@@ -32,7 +32,7 @@ Sec.
 
 10415 to 10419. Repealed or Omitted.
 
-10420\. Safe havens for children.
+10420\. Grants to support families in the justice system.
 
 10421\. Omitted.
 

@@ -1,5 +1,7 @@
 ### §§3051 to 3058. Omitted
 
+#### Codification
+
 Sections, comprising subchapter III of this chapter, “Alternative Financing Mechanisms”, were omitted in the general amendment of this chapter by Pub. L. 108–364, §2, Oct. 25, 2004, 118 Stat. 1707.
 
 Section 3051, Pub. L. 105–394, title III, §301, Nov. 13, 1998, 112 Stat. 3657, related to the general authority of the Secretary.

@@ -16,7 +16,7 @@ Sec.
 
 2359\. Science and technology programs to be conducted so as to foster the transition of science and technology to higher levels of research, development, test, and evaluation.
 
-2359a. Technology Transition Initiative.
+\[2359a. Repealed.\]
 
 2359b. Defense Acquisition Challenge Program.
 
@@ -57,10 +57,6 @@ Sec.
 \[2374b. Repealed.\]
 
         
-
-#### Amendment of Analysis
-
-Pub. L. 112–81, div. A, title II, §251(a)(2), (b), Dec. 31, 2011, 125 Stat. 1347, provided that, effective Oct. 1, 2013, this analysis is amended by striking out item 2359a.
 
 #### Amendments
 

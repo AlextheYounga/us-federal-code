@@ -686,7 +686,7 @@ Amendment by Pub. L. 100–93 effective at end of fourteen-day period beginning 
 
 Pub. L. 99–509, title IX, §9335(a)(3), Oct. 21, 1986, 100 Stat. 2029, provided that: “The amendments made by paragraph (2) \[amending this section\] shall apply to applications filed on or after the date of the enactment of this Act \[Oct. 21, 1986\].”
 
-Pub. L. 99–509, title IX, §9335(j)(2), Oct. 21, 1986, 100 Stat. 2032, as amended by Pub. L. 100–203, title IV, §4085(i)(21)(C), Dec. 22, 1987, 101 Stat. 1330–133, provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply to treatment furnished on or after January 1, 1987\[,\] except that, until network administrative organizations are established under section 1881(c)(1)(A) of the Social Security Act \[subsec. (c)(1)(A) of this section\] (as amended by subsection (d)(1) of this section), the distribution of payments described in the last sentence of section 1881(b)(7) of such Act shall be made based on the distribution of payments under section 1881 of such Act to network administrative organizations for fiscal year 1986.”
+Pub. L. 99–509, title IX, §9335(j)(2), Oct. 21, 1986, 100 Stat. 2032, as amended by Pub. L. 100–203, title IV, §4085(i)(21)(C), Dec. 22, 1987, 101 Stat. 1330–133, provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply to treatment furnished on or after January 1, 1987\[,\] except that, until network administrative organizations are established under section 1881(c)(1)(A) of the Social Security Act \[42 U.S.C. 1395rr(c)(1)(A)\] (as amended by subsection (d)(1) of this section), the distribution of payments described in the last sentence of section 1881(b)(7) of such Act shall be made based on the distribution of payments under section 1881 of such Act to network administrative organizations for fiscal year 1986.”
 
 \[Pub. L. 100–203, title IV, §4085(i)(21), Dec. 22, 1987, 101 Stat. 1330–133, provided that the amendment of section 9335(j)(2) of Pub. L. 99–509, set out above, by section 4085(i)(21)(C) of Pub. L. 100–203 is effective as if included in the enactment of Pub. L. 99–509.\]
 
@@ -708,7 +708,7 @@ Amendment by Pub. L. 98–21 applicable to items and services furnished by or un
 
 #### Effective Date of 1981 Amendment
 
-Pub. L. 97–35, title XXI, §2145(b), Aug. 13, 1981, 95 Stat. 800, provided that: “The amendments made by subsection (a) \[amending this section\] apply to services furnished on or after October 1, 1981, and the Secretary of Health and Human Services shall first promulgate regulations to carry out section 1881(b)(7) of the Social Security Act \[subsec. (b)(7) of this section\] not later than October 1, 1981.”
+Pub. L. 97–35, title XXI, §2145(b), Aug. 13, 1981, 95 Stat. 800, provided that: “The amendments made by subsection (a) \[amending this section\] apply to services furnished on or after October 1, 1981, and the Secretary of Health and Human Services shall first promulgate regulations to carry out section 1881(b)(7) of the Social Security Act \[42 U.S.C. 1395rr(b)(7)\] not later than October 1, 1981.”
 
 #### Effective Date
 
@@ -748,7 +748,7 @@ Pub. L. 108–173, title VI, §623(c), Dec. 8, 2003, 117 Stat. 2312, provided th
 
 “(3) Matters studied.—Under each study conducted under paragraph (1), the Inspector General shall—
 
-“(A) determine the difference between the amount of payment made to end stage renal disease facilities under title XVIII of the Social Security Act \[this subchapter\] for such drugs and biologicals and the acquisition costs of such facilities for such drugs and biologicals and which are separately billed by end stage renal disease facilities, and
+“(A) determine the difference between the amount of payment made to end stage renal disease facilities under title XVIII of the Social Security Act \[42 U.S.C. 1395 et seq.\] for such drugs and biologicals and the acquisition costs of such facilities for such drugs and biologicals and which are separately billed by end stage renal disease facilities, and
 
 “(B) estimate the rates of growth of expenditures for such drugs and biologicals billed by such facilities.
 
@@ -812,7 +812,7 @@ Pub. L. 106–554, §1(a)(6) \[title IV, §422(b)\], Dec. 21, 2000, 114 Stat. 27
 
 “(C) the amounts by which the payments under such section for all services billed by a facility for a year exceed the aggregate allowable audited costs of such services for such facility for such year.
 
-“(2) Report.—The Secretary of Health and Human Services shall submit to Congress a report on the index developed under paragraph (1) no later than July 1, 2002, and shall include in the report recommendations on the appropriateness of an annual or periodic update mechanism for renal dialysis services under the medicare program under title XVIII of the Social Security Act \[this subchapter\] based on such index.”
+“(2) Report.—The Secretary of Health and Human Services shall submit to Congress a report on the index developed under paragraph (1) no later than July 1, 2002, and shall include in the report recommendations on the appropriateness of an annual or periodic update mechanism for renal dialysis services under the medicare program under title XVIII of the Social Security Act \[42 U.S.C. 1395 et seq.\] based on such index.”
 
 #### Inclusion of Additional Services in Composite Rate
 
@@ -856,7 +856,7 @@ Pub. L. 101–508, title IV, §4201(b), Nov. 5, 1990, 104 Stat. 1388–102, prov
 
 “(1) In general.—
 
-“(A) Study.—The Prospective Payment Assessment Commission (in this subsection referred to as the ‘Commission’) shall conduct a study to determine the costs and services and profits associated with various modalities of dialysis treatments provided to end stage renal disease patients provided under title XVIII of the Social Security Act \[this subchapter\].
+“(A) Study.—The Prospective Payment Assessment Commission (in this subsection referred to as the ‘Commission’) shall conduct a study to determine the costs and services and profits associated with various modalities of dialysis treatments provided to end stage renal disease patients provided under title XVIII of the Social Security Act \[42 U.S.C. 1395 et seq.\].
 
 “(B) Recommendations.—Based on information collected for the study described in subparagraph (A), the Commission shall make recommendations to Congress regarding the method or methods and the levels at which the payments made for the facility component of dialysis services by providers of service and renal dialysis facilities under title XVIII of the Social Security Act should be established for dialysis services furnished during fiscal year 1993 and the methodology to be used to update such payments for subsequent fiscal years. In making recommendations concerning the appropriate methodology the Commission shall consider—
 
@@ -894,7 +894,7 @@ Pub. L. 101–508, title IV, §4202, Nov. 5, 1990, 104 Stat. 1388–104, as amen
 
 “(1) Services for which payment may be made.—
 
-“(A) In general.—Under the demonstration project established under subsection (a), the Secretary shall make payments for 3 years under title XVIII of the Social Security Act \[this subchapter\] to providers of services (other than a skilled nursing facility) or renal dialysis facilities for services of a qualified home hemodialysis staff assistant (as described in subsection (d)) provided to an individual described in subsection (c) during hemodialysis treatment at the individual's home in an amount determined under paragraph (2).
+“(A) In general.—Under the demonstration project established under subsection (a), the Secretary shall make payments for 3 years under title XVIII of the Social Security Act \[42 U.S.C. 1395 et seq.\] to providers of services (other than a skilled nursing facility) or renal dialysis facilities for services of a qualified home hemodialysis staff assistant (as described in subsection (d)) provided to an individual described in subsection (c) during hemodialysis treatment at the individual's home in an amount determined under paragraph (2).
 
 “(B) Services described.—For purposes of subparagraph (A), the term ‘services of a home hemodialysis staff assistant’ means—
 
@@ -910,7 +910,7 @@ Pub. L. 101–508, title IV, §4202, Nov. 5, 1990, 104 Stat. 1388–104, as amen
 
 “(I) the rate determined under clause (ii) with respect to a provider of services or a renal dialysis facility; and
 
-“(II) the factor by which the labor portion of the composite rate determined under section 1881(b)(7) of the Social Security Act \[subsec. (b)(7) of this section\] is adjusted for differences in area wage levels.
+“(II) the factor by which the labor portion of the composite rate determined under section 1881(b)(7) of the Social Security Act \[42 U.S.C. 1395rr(b)(7)\] is adjusted for differences in area wage levels.
 
 “(ii) The rate determined under this clause, with respect to a provider of services or renal dialysis facility, shall be equal to the difference between—
 
@@ -932,7 +932,7 @@ Pub. L. 101–508, title IV, §4202, Nov. 5, 1990, 104 Stat. 1388–104, as amen
 
 “(A) the individual is not a resident of a nursing facility;
 
-“(B) the individual is an end stage renal disease patient entitled to benefits under title XVIII of the Social Security Act \[this subchapter\];
+“(B) the individual is an end stage renal disease patient entitled to benefits under title XVIII of the Social Security Act \[42 U.S.C. 1395 et seq.\];
 
 “(C) the individual's physician certifies that the individual is confined to a bed or wheelchair and cannot transfer themselves \[sic\] from a bed to a chair;
 
@@ -942,7 +942,7 @@ Pub. L. 101–508, title IV, §4202, Nov. 5, 1990, 104 Stat. 1388–104, as amen
 
 “(F) no family member or other individual is available to provide such assistance to the individual.
 
-“(2) Coverage of individuals currently receiving services.—Any individual who, on the date of the enactment of this Act \[Nov. 5, 1990\], is receiving staff assistance under the experimental authority provided under section 1881(f)(2) of the Social Security Act \[subsec. (f)(2) of this section\] shall be deemed to be an eligible individual for purposes of this subsection.
+“(2) Coverage of individuals currently receiving services.—Any individual who, on the date of the enactment of this Act \[Nov. 5, 1990\], is receiving staff assistance under the experimental authority provided under section 1881(f)(2) of the Social Security Act \[42 U.S.C. 1395rr(f)(2)\] shall be deemed to be an eligible individual for purposes of this subsection.
 
 “(3) Continuation of coverage upon termination of project.—Notwithstanding any provision of title XVIII of the Social Security Act, any individual receiving services under the demonstration project established under subsection (a) as of the date of the termination of the project shall continue to be eligible for home hemodialysis staff assistance after such date under such title on the same terms and conditions as applied under the demonstration project.
 
@@ -958,7 +958,7 @@ Pub. L. 101–508, title IV, §4202, Nov. 5, 1990, 104 Stat. 1388–104, as amen
 
 “(2) Final report.—Not later than December 31, 1995, the Secretary shall submit to Congress a final report evaluating the project, and shall include in such report recommendations regarding appropriate eligibility criteria and cost-control mechanisms for medicare coverage of the services of a home dialysis aide providing medical assistance to a patient during hemodialysis treatment at the patient's home.
 
-“(f) Authorization of Appropriations.—The Secretary shall provide for the transfer from the Federal Supplementary Medical Insurance Trust Fund (established under section 1841 of the Social Security Act \[section 1395t of this title\]) of not more than the following amounts to carry out the demonstration project established under subsection (a) (without regard to amounts appropriated in advance in appropriation Acts):
+“(f) Authorization of Appropriations.—The Secretary shall provide for the transfer from the Federal Supplementary Medical Insurance Trust Fund (established under section 1841 of the Social Security Act \[42 U.S.C. 1395t\]) of not more than the following amounts to carry out the demonstration project established under subsection (a) (without regard to amounts appropriated in advance in appropriation Acts):
 
 “(1) For fiscal year 1991, $4,000,000.
 
@@ -994,7 +994,7 @@ Pub. L. 100–203, title IV, §4036(d)(1)–(4), Dec. 22, 1987, 101 Stat. 1330�
 
 #### Rates for Dialysis Services
 
-Pub. L. 99–509, title IX, §9335(a)(1), Oct. 21, 1986, 100 Stat. 2029, as amended by Pub. L. 101–239, title VI, §6203(a)(1), Dec. 19, 1989, 103 Stat. 2235; Pub. L. 101–508, title IV, §4201(a), Nov. 5, 1990, 104 Stat. 1388–102; Pub. L. 106–113, div. B, §1000(a)(6) \[title II, §222(b)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–352, provided that: “Effective with respect to dialysis services provided on or after October 1, 1986, and before December 31, 1990, the Secretary of Health and Human Services shall establish the base rate for routine dialysis treatment in a free-standing facility and in a hospital-based facility under section 1881(b)(7) of the Social Security Act \[subsec. (b)(7) of this section\] at a level equal to the respective rate in effect as of May 13, 1986, reduced by $2.00. With respect to services furnished on or after January 1, 1991, and before January 1, 2000, such base rate shall be equal to the respective rate in effect as of September 30, 1990 (determined without regard to any reductions imposed pursuant to section 6201 of the Omnibus Budget Reconciliation Act of 1989 \[Pub. L. 101–239, set out as a note under section 904 of Title 2, The Congress\]), increased by $1.00. No change may be made in the base rate in effect as of September 30, 1990, unless the Secretary makes such change in accordance with notice and comment requirements set forth in section 1871(b)(1) of such Act \[subsec. (b)(1) of this section\].”
+Pub. L. 99–509, title IX, §9335(a)(1), Oct. 21, 1986, 100 Stat. 2029, as amended by Pub. L. 101–239, title VI, §6203(a)(1), Dec. 19, 1989, 103 Stat. 2235; Pub. L. 101–508, title IV, §4201(a), Nov. 5, 1990, 104 Stat. 1388–102; Pub. L. 106–113, div. B, §1000(a)(6) \[title II, §222(b)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–352, provided that: “Effective with respect to dialysis services provided on or after October 1, 1986, and before December 31, 1990, the Secretary of Health and Human Services shall establish the base rate for routine dialysis treatment in a free-standing facility and in a hospital-based facility under section 1881(b)(7) of the Social Security Act \[42 U.S.C. 1395rr(b)(7)\] at a level equal to the respective rate in effect as of May 13, 1986, reduced by $2.00. With respect to services furnished on or after January 1, 1991, and before January 1, 2000, such base rate shall be equal to the respective rate in effect as of September 30, 1990 (determined without regard to any reductions imposed pursuant to section 6201 of the Omnibus Budget Reconciliation Act of 1989 \[Pub. L. 101–239, set out as a note under section 904 of Title 2, The Congress\]), increased by $1.00. No change may be made in the base rate in effect as of September 30, 1990, unless the Secretary makes such change in accordance with notice and comment requirements set forth in section 1871(b)(1) of such Act \[42 U.S.C. 1395rr(b)(1)\].”
 
 \[Pub. L. 101–239, title VI, §6203(a)(2), Dec. 19, 1989, 103 Stat. 2235, provided that: “The amendment made by paragraph (1) \[amending section 9335(a)(1) of Pub. L. 99–509, set out above\] shall take effect as if included in the enactment of the Omnibus Budget Reconciliation Act of 1986 \[Pub. L. 99–509\].”\]
 
@@ -1016,13 +1016,13 @@ Pub. L. 99–509, title IX, §9335(i)(2), Oct. 21, 1986, 100 Stat. 2032, provide
 
 #### Deadline for Establishment of Protocols on Reuse of Dialyzer Filters
 
-Pub. L. 99–509, title IX, §9335(k)(2), Oct. 21, 1986, 100 Stat. 2033, as amended by Pub. L. 100–203, title IV, §4036(c)(1)(A), Dec. 22, 1987, 101 Stat. 1330–79, provided that: “The Secretary of Health and Human Services shall establish the protocols described in section 1881(f)(7)(A) of the Social Security Act \[subsec. (f)(7)(A) of this section\] by not later than October 1, 1987 (or July 1, 1988, with respect to protocols that relate to the reuse of bloodlines).”
+Pub. L. 99–509, title IX, §9335(k)(2), Oct. 21, 1986, 100 Stat. 2033, as amended by Pub. L. 100–203, title IV, §4036(c)(1)(A), Dec. 22, 1987, 101 Stat. 1330–79, provided that: “The Secretary of Health and Human Services shall establish the protocols described in section 1881(f)(7)(A) of the Social Security Act \[42 U.S.C. 1395rr(f)(7)(A)\] by not later than October 1, 1987 (or July 1, 1988, with respect to protocols that relate to the reuse of bloodlines).”
 
 \[Pub. L. 100–203, title IV, §4036(c)(1)(B), Dec. 22, 1987, 101 Stat. 1330–79, provided that: “The amendment made by subparagraph (A) \[amending section 9335(k)(2) of Pub. L. 99–509, set out above\] shall be effective as if included in the enactment of section 9335(k)(2) of the Omnibus Budget Reconciliation Act of 1986 \[Pub. L. 99–509\].”\]
 
 #### Limitation on Merger of End Stage Renal Disease Networks
 
-Pub. L. 99–272, title IX, §9214, Apr. 7, 1986, 100 Stat. 180, provided that: “The Secretary of Health and Human Services shall maintain renal disease network organizations as authorized under section 1881(c) of the Social Security Act \[subsec. (c) of this section\], and may not merge the network organizations into other organizations or entities. The Secretary may consolidate such network organizations, but only if such consolidation does not result in fewer than 14 such organizations being permitted to exist.”
+Pub. L. 99–272, title IX, §9214, Apr. 7, 1986, 100 Stat. 180, provided that: “The Secretary of Health and Human Services shall maintain renal disease network organizations as authorized under section 1881(c) of the Social Security Act \[42 U.S.C. 1395rr(c)\], and may not merge the network organizations into other organizations or entities. The Secretary may consolidate such network organizations, but only if such consolidation does not result in fewer than 14 such organizations being permitted to exist.”
 
 [1 See References in Text note below.](#1395rr_1)
 

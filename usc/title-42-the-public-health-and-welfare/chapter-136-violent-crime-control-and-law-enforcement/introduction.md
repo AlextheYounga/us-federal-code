@@ -342,13 +342,11 @@ Sec.
 
         
 
-#### Part G—Elder Abuse, Neglect, and Exploitation, Including Domestic Violence and Sexual Assault Against Older or Disabled Individuals
+#### Part G—Enhanced Training and Services To End Abuse Later in Life
 
-14041\. Definitions.
+14041\. Enhanced training and services to end abuse in later life.
 
-14041a. Enhanced training and services to end violence against and abuse of women later in life.
-
-14041b. Authorization of appropriations.
+14041a, 14041b. Omitted.
 
         
 
@@ -360,15 +358,7 @@ Sec.
 
 #### Part I—Violence Against Women Act Court Training and Improvements
 
-14043\. Purpose.
-
-14043a. Grant requirements.
-
-14043a–1. National education curricula.
-
-14043a–2. Tribal curricula.
-
-14043a–3. Authorization of appropriations.
+14043 to 14043a–3. Repealed.
 
         
 
@@ -388,13 +378,9 @@ Sec.
 
 #### Part K—Services, Education, Protection and Justice for Young Victims of Violence
 
-14043c. Services to advocate for and respond to youth.
+14043c. Creating hope through outreach, options, services, and education for children and youth (“CHOOSE Children & Youth”).
 
-14043c–1. Access to justice for youth.
-
-14043c–2. Grants for training and collaboration on the intersection between domestic violence and child maltreatment.
-
-14043c–3. Grants to combat domestic violence, dating violence, sexual assault, and stalking in middle and high schools.
+14043c–1 to 14043c–3. Repealed.
 
         
 
@@ -404,11 +390,9 @@ Sec.
 
 14043d–1. Purpose.
 
-14043d–2. Grants to assist children and youth exposed to violence.
+14043d–2. Saving money and reducing tragedies through prevention (SMART Prevention).
 
-14043d–3. Development of curricula and pilot programs for home visitation projects.
-
-14043d–4. Engaging men and youth in preventing domestic violence, dating violence, sexual assault, and stalking.
+14043d–3, 14043d–4. Repealed.
 
         
 
@@ -466,13 +450,13 @@ Sec.
 
 #### Part P—Miscellaneous Authorities
 
-14045\. Grants for outreach to underserved populations.
+14045\. Grants for outreach and services to underserved populations.
 
 14045a. Enhancing culturally and linguistically specific services for victims of domestic violence, dating violence, sexual assault, and stalking.
 
 14045b. Grants to combat violent crimes on campuses.
 
-14045c. Public awareness campaign.
+14045c. Repealed.
 
 14045d. Consultation.
 

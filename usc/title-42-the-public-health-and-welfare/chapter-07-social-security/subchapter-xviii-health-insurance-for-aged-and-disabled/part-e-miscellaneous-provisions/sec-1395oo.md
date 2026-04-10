@@ -124,7 +124,7 @@ Pub. L. 93–484, §3(b), Oct. 26, 1974, 88 Stat. 1459, provided that: “The am
 
 #### Effective Date
 
-Pub. L. 92–603, title II, §243(c), Oct. 30, 1972, 86 Stat. 1422, provided that: “The amendments made by this section \[enacting this section and amending section 1395h of this title\] shall apply with respect to cost reports of providers of services, as defined in title XVIII of the Social Security Act \[this subchapter\], for accounting periods ending on or after June 30, 1973.”
+Pub. L. 92–603, title II, §243(c), Oct. 30, 1972, 86 Stat. 1422, provided that: “The amendments made by this section \[enacting this section and amending section 1395h of this title\] shall apply with respect to cost reports of providers of services, as defined in title XVIII of the Social Security Act \[42 U.S.C. 1395 et seq.\], for accounting periods ending on or after June 30, 1973.”
 
 #### References in Other Laws to GS–16, 17, or 18 Pay Rates
 

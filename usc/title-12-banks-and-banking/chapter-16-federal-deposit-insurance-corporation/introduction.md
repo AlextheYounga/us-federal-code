@@ -34,7 +34,7 @@ Sec.
 
 1824\. Borrowing authority.
 
-1825\. Issuance of notes, debentures, bonds, and other obligations; exemption from taxation.
+1825\. Issuance of notes, debentures, bonds, and other obligations; exemptions.
 
 1826\. Forms of obligations; preparation by Secretary of the Treasury.
 

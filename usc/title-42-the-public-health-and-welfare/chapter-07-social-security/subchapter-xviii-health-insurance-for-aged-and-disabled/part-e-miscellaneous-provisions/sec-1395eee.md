@@ -614,13 +614,13 @@ Pub. L. 106–554, §1(a)(6) \[title IX, §903\], Dec. 21, 2000, 114 Stat. 2763,
 
 Pub. L. 105–33, title IV, §4803, Aug. 5, 1997, 111 Stat. 549, as amended by Pub. L. 106–554, §1(a)(6) \[title IX, §901\], Dec. 21, 2000, 114 Stat. 2763, 2763A–582, provided that:
 
-“(a) Timely Issuance of Regulations; Effective Date.—The Secretary of Health and Human Services shall promulgate regulations to carry out this subtitle \[subtitle I (§§4801–4804) of title IV of Pub. L. 105–33, enacting this section and section 1396u–4 of this title, amending sections 1396b, 1396d, 1396r–5, and 1396v of this title, and enacting provisions set out as notes under this section and section 1395b–6 of this title\] in a timely manner. Such regulations shall be designed so that entities may establish and operate PACE programs under sections 1894 and 1934 of the Social Security Act \[this section and section 1396u–4 of this title\] (as added by sections 4801 and 4802 of this subtitle) for periods beginning not later than 1 year after the date of the enactment of this Act \[Aug. 5, 1997\].
+“(a) Timely Issuance of Regulations; Effective Date.—The Secretary of Health and Human Services shall promulgate regulations to carry out this subtitle \[subtitle I (§§4801–4804) of title IV of Pub. L. 105–33, enacting this section and section 1396u–4 of this title, amending sections 1396b, 1396d, 1396r–5, and 1396v of this title, and enacting provisions set out as notes under this section and section 1395b–6 of this title\] in a timely manner. Such regulations shall be designed so that entities may establish and operate PACE programs under sections 1894 and 1934 of the Social Security Act \[42 U.S.C. 1395eee, 1396u–4\] (as added by sections 4801 and 4802 of this subtitle) for periods beginning not later than 1 year after the date of the enactment of this Act \[Aug. 5, 1997\].
 
 “(b) Expansion and Transition for PACE Demonstration Project Waivers.—
 
 “(1) Expansion in current number and extension of demonstration projects.—Section 9412(b) of the Omnibus Budget Reconciliation Act of 1986 \[see subsec. (d) below\], as amended by section 4118(g) of the Omnibus Budget Reconciliation Act of 1987, is amended—
 
-“(A) in paragraph (1), by inserting before the period at the end the following: ‘, except that the Secretary shall grant waivers of such requirements to up to the applicable numerical limitation specified in sections 1894(e)(1)(B) and 1934(e)(1)(B) of the Social Security Act’ \[subsec. (e)(1)(B) of this section and section 1396u–4(e)(1)(B) of this title\]; and
+“(A) in paragraph (1), by inserting before the period at the end the following: ‘, except that the Secretary shall grant waivers of such requirements to up to the applicable numerical limitation specified in sections 1894(e)(1)(B) and 1934(e)(1)(B) of the Social Security Act’ \[42 U.S.C. 1395eee(e)(1)(B), 1396u–4(e)(1)(B)\]; and
 
 “(B) in paragraph (2)—
 
@@ -634,9 +634,9 @@ Pub. L. 105–33, title IV, §4803, Aug. 5, 1997, 111 Stat. 549, as amended by P
 
 “(c) Priority and Special Consideration in Application.—During the 3-year period beginning on the date of the enactment of this Act \[Aug. 5, 1997\]:
 
-“(1) Provider status.—The Secretary of Health and Human Services shall give priority in processing applications of entities to qualify as PACE programs under section 1894 or 1934 of the Social Security Act \[this section and section 1396u–4 of this title\]—
+“(1) Provider status.—The Secretary of Health and Human Services shall give priority in processing applications of entities to qualify as PACE programs under section 1894 or 1934 of the Social Security Act \[42 U.S.C. 1395ddd, 1396u–4\]—
 
-“(A) first, to entities that are operating a PACE demonstration waiver program (as defined in sections 1894(a)(7) and 1934(a)(7) of such Act \[subsec. (a)(7) of this section and section 1396u–4(a)(7) of this title\]); and
+“(A) first, to entities that are operating a PACE demonstration waiver program (as defined in sections 1894(a)(7) and 1934(a)(7) of such Act \[42 U.S.C. 1395eee(a)(7), 1396u–4(a)(7)\]); and
 
 “(B) then to entities that have applied to operate such a program as of May 1, 1997.
 
@@ -670,9 +670,9 @@ Pub. L. 105–33, title IV, §4804(a), (b), Aug. 5, 1997, 111 Stat. 551, provide
 
 “(a) Study.—
 
-“(1) In general.—The Secretary of Health and Human Services (in close consultation with State administering agencies, as defined in sections 1894(a)(8) and 1934(a)(8) of the Social Security Act \[subsec. (a)(8) of this section and section 1396u–4(a)(8) of this title\]) shall conduct a study of the quality and cost of providing PACE program services under the medicare and medicaid programs under the amendments made by this subtitle \[subtitle I (§§4801–4804) of title IV of Pub. L. 105–33, enacting this section and section 1396u–4 of this title and amending sections 1396b, 1396d, 1396r–5, and 1396v of this title\].
+“(1) In general.—The Secretary of Health and Human Services (in close consultation with State administering agencies, as defined in sections 1894(a)(8) and 1934(a)(8) of the Social Security Act \[42 U.S.C. 1395eee(a)(8), 1396u–4(a)(8)\]) shall conduct a study of the quality and cost of providing PACE program services under the medicare and medicaid programs under the amendments made by this subtitle \[subtitle I (§§4801–4804) of title IV of Pub. L. 105–33, enacting this section and section 1396u–4 of this title and amending sections 1396b, 1396d, 1396r–5, and 1396v of this title\].
 
-“(2) Study of private, for-profit providers.—Such study shall specifically compare the costs, quality, and access to services by entities that are private, for-profit entities operating under demonstration projects waivers granted under sections 1894(h) and 1934(h) of the Social Security Act \[subsec. (h) of this section and section 1396u–4(h) of this title\] with the costs, quality, and access to services of other PACE providers.
+“(2) Study of private, for-profit providers.—Such study shall specifically compare the costs, quality, and access to services by entities that are private, for-profit entities operating under demonstration projects waivers granted under sections 1894(h) and 1934(h) of the Social Security Act \[42 U.S.C. 1395eee(h), 1396u–4(h)\] with the costs, quality, and access to services of other PACE providers.
 
 “(b) Report.—
 

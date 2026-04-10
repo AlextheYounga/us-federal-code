@@ -826,7 +826,7 @@ Pub. L. 108–173, title IX, §938(b), Dec. 8, 2003, 117 Stat. 2415, provided th
 
 “(2) Sunset.—Such prior determination process shall not apply to requests filed after the end of the 5-year period beginning on the first date on which requests for determinations under such process are accepted.
 
-“(3) Transition.—During the period in which the amendment made by subsection (a) \[amending this section\] has become effective but contracts are not provided under section 1874A of the Social Security Act \[section 1395kk–1 of this title\] with medicare administrative contractors, any reference in section 1869(g) \[probably should be 1869(h)\] of such Act \[subsec. (h) of this section\] (as added by such amendment) to such a contractor is deemed a reference to a fiscal intermediary or carrier with an agreement under section 1816, or contract under section 1842, respectively, of such Act \[sections 1395h and 1395u of this title\].
+“(3) Transition.—During the period in which the amendment made by subsection (a) \[amending this section\] has become effective but contracts are not provided under section 1874A of the Social Security Act \[42 U.S.C. 1395kk–1\] with medicare administrative contractors, any reference in section 1869(g) \[probably should be 1869(h)\] of such Act \[42 U.S.C. 1395ff(h)\] (as added by such amendment) to such a contractor is deemed a reference to a fiscal intermediary or carrier with an agreement under section 1816, or contract under section 1842, respectively, of such Act \[42 U.S.C. 1395h, 1395u\].
 
 “(4) Limitation on application to sgr.—For purposes of applying section 1848(f)(2)(D) of the Social Security Act (42 U.S.C. 1395w–4(f)(2)(D)), the amendment made by subsection (a) \[amending this section\] shall not be considered to be a change in law or regulation.”
 
@@ -870,13 +870,13 @@ Amendment by Pub. L. 98–369 effective July 18, 1984, but not to be construed a
 
 Pub. L. 92–603, title II, §299O(b), Oct. 30, 1972, 86 Stat. 1465, provided that:
 
-“(1) The provisions of subparagraphs (A) and (B) of section 1869(b)(1) of the Social Security Act \[subsec. (b)(1)(A), (B) of this section\], as amended by subsection (a) of this section, shall be effective on the date of enactment of this Act \[Oct. 30, 1972\].
+“(1) The provisions of subparagraphs (A) and (B) of section 1869(b)(1) of the Social Security Act \[42 U.S.C. 1395ff(b)(1)(A), (B)\], as amended by subsection (a) of this section, shall be effective on the date of enactment of this Act \[Oct. 30, 1972\].
 
-“(2) The provisions of paragraph (2) and subparagraph (C) of paragraph (1) of section 1869(b) of the Social Security Act \[subsec. (b)(1)(C) and (b)(2) of this section\], as amended by subsection (a) of this section, shall be effective with respect to any claims under part A of title XVIII of such Act \[part A of this subchapter\], filed—
+“(2) The provisions of paragraph (2) and subparagraph (C) of paragraph (1) of section 1869(b) of the Social Security Act \[42 U.S.C. 1395ff(b)(2), (b)(1)(C)\], as amended by subsection (a) of this section, shall be effective with respect to any claims under part A of title XVIII of such Act \[42 U.S.C. 1395c et seq.\], filed—
 
 “(A) in or after the month in which this Act is enacted \[Oct. 1972\], or
 
-“(B) before the month in which this Act is enacted \[Oct. 1972\], but only if a civil action with respect to a final decision of the Secretary of Health, Education, and Welfare on such claim has not been commenced under such section 1869(b) \[subsec. (b) of this section\] before such month.”
+“(B) before the month in which this Act is enacted \[Oct. 1972\], but only if a civil action with respect to a final decision of the Secretary of Health, Education, and Welfare \[now Health and Human Services\] on such claim has not been commenced under such section 1869(b) \[42 U.S.C. 1395ff(b)\] before such month.”
 
 #### Transfer of Responsibility for Medicare Appeals
 
@@ -884,7 +884,7 @@ Pub. L. 108–173, title IX, §931(a)–(c), Dec. 8, 2003, 117 Stat. 2396–2398
 
 “(a) Transition Plan.—
 
-“(1) In general.—Not later than April 1, 2004, the Commissioner of Social Security and the Secretary \[of Health and Human Services\] shall develop and transmit to Congress and the Comptroller General of the United States a plan under which the functions of administrative law judges responsible for hearing cases under title XVIII of the Social Security Act \[this subchapter\] (and related provisions in title XI of such Act \[subchapter XI of this chapter\]) are transferred from the responsibility of the Commissioner and the Social Security Administration to the Secretary and the Department of Health and Human Services.
+“(1) In general.—Not later than April 1, 2004, the Commissioner of Social Security and the Secretary \[of Health and Human Services\] shall develop and transmit to Congress and the Comptroller General of the United States a plan under which the functions of administrative law judges responsible for hearing cases under title XVIII of the Social Security Act \[42 U.S.C. 1395 et seq.\] (and related provisions in title XI of such Act \[42 U.S.C. 1301 et seq.\]) are transferred from the responsibility of the Commissioner and the Social Security Administration to the Secretary and the Department of Health and Human Services.
 
 “(2) Contents.—The plan shall include information on the following:
 
@@ -912,11 +912,11 @@ Pub. L. 108–173, title IX, §931(a)–(c), Dec. 8, 2003, 117 Stat. 2396–2398
 
 “(J) Hiring.—The steps that should be taken to hire administrative law judges (and support staff) to carry out subsection (b)(4).
 
-“(K) Performance standards.—The appropriateness of establishing performance standards for administrative law judges with respect to timelines for decisions in cases under title XVIII of the Social Security Act \[this subchapter\] taking into account requirements under subsection (b)(2) for the independence of such judges and consistent with the applicable provisions of title 5, United States Code\[,\] relating to impartiality.
+“(K) Performance standards.—The appropriateness of establishing performance standards for administrative law judges with respect to timelines for decisions in cases under title XVIII of the Social Security Act \[42 U.S.C. 1395 et seq.\] taking into account requirements under subsection (b)(2) for the independence of such judges and consistent with the applicable provisions of title 5, United States Code\[,\] relating to impartiality.
 
 “(L) Shared resources.—The steps that should be taken to carry out subsection (b)(6) (relating to the arrangements with the Commissioner of Social Security to share office space, support staff, and other resources, with appropriate reimbursement).
 
-“(M) Training.—The training that should be provided to administrative law judges with respect to laws and regulations under title XVIII of the Social Security Act \[this subchapter\].
+“(M) Training.—The training that should be provided to administrative law judges with respect to laws and regulations under title XVIII of the Social Security Act \[42 U.S.C. 1395 et seq.\].
 
 “(3) Additional information.—The plan may also include recommendations for further congressional action, including modifications to the requirements and deadlines established under section 1869 of the Social Security Act (42 U.S.C. 1395ff) (as amended by this Act).
 
@@ -946,13 +946,13 @@ Pub. L. 108–173, title IX, §931(a)–(c), Dec. 8, 2003, 117 Stat. 2396–2398
 
 #### Transition
 
-Pub. L. 108–173, title IX, §933(d)(5), Dec. 8, 2003, 117 Stat. 2406, provided that: “In applying section 1869(g) of the Social Security Act \[subsec. (g) of this section\] (as added by paragraph (2)), any reference to a medicare administrative contractor shall be deemed to include a reference to a fiscal intermediary under section 1816 of the Social Security Act (42 U.S.C. 1395h) and a carrier under section 1842 of such Act (42 U.S.C. 1395u).”
+Pub. L. 108–173, title IX, §933(d)(5), Dec. 8, 2003, 117 Stat. 2406, provided that: “In applying section 1869(g) of the Social Security Act \[42 U.S.C. 1395ff(g)\] (as added by paragraph (2)), any reference to a medicare administrative contractor shall be deemed to include a reference to a fiscal intermediary under section 1816 of the Social Security Act (42 U.S.C. 1395h) and a carrier under section 1842 of such Act (42 U.S.C. 1395u).”
 
 #### Process for Correction of Minor Errors and Omissions Without Pursuing Appeals Process
 
 Pub. L. 108–173, title IX, §937, Dec. 8, 2003, 117 Stat. 2412, provided that:
 
-“(a) Claims.—The Secretary \[of Health and Human Services\] shall develop, in consultation with appropriate medicare contractors (as defined in section 1889(g) of the Social Security Act \[section 1395zz(g) of this title\], as inserted by section 301(a)(1) \[probably should be 921(f)(1)\]) and representatives of providers of services and suppliers, a process whereby, in the case of minor errors or omissions (as defined by the Secretary) that are detected in the submission of claims under the programs under title XVIII of such Act \[this subchapter\], a provider of services or supplier is given an opportunity to correct such an error or omission without the need to initiate an appeal. Such process shall include the ability to resubmit corrected claims.
+“(a) Claims.—The Secretary \[of Health and Human Services\] shall develop, in consultation with appropriate medicare contractors (as defined in section 1889(g) of the Social Security Act \[42 U.S.C. 1395zz(g)\], as inserted by section 301(a)(1) \[probably should be 921(f)(1)\]) and representatives of providers of services and suppliers, a process whereby, in the case of minor errors or omissions (as defined by the Secretary) that are detected in the submission of claims under the programs under title XVIII of such Act \[42 U.S.C. 1395 et seq.\], a provider of services or supplier is given an opportunity to correct such an error or omission without the need to initiate an appeal. Such process shall include the ability to resubmit corrected claims.
 
 “(b) Deadline.—Not later than 1 year after the date of the enactment of this Act \[Dec. 8, 2003\], the Secretary shall first develop the process under subsection (a).”
 
@@ -964,11 +964,11 @@ Pub. L. 101–508, title IV, §4113, Nov. 5, 1990, 104 Stat. 1388–64, directed
 
 Pub. L. 100–203, title IV, §4037, Dec. 22, 1987, 101 Stat. 1330–80, provided that:
 
-“(a) Maintaining Current System for Hearings and Appeals.—Any hearing conducted under section 1869(b)(1) of the Social Security Act \[subsec. (b)(1) of this section\] prior to the earliest of the date on which the Secretary of Health and Human Services submits the report required to be submitted by the Secretary under subsection (b)(1) or September 1 shall be conducted by Administrative Law Judges of the Office of Hearings and Appeals of the Social Security Administration in the same manner as are hearings conducted under section 205(b)(1) of such Act \[section 405(b)(1) of this title\].
+“(a) Maintaining Current System for Hearings and Appeals.—Any hearing conducted under section 1869(b)(1) of the Social Security Act \[42 U.S.C. 1395ff(b)(1)\] prior to the earliest of the date on which the Secretary of Health and Human Services submits the report required to be submitted by the Secretary under subsection (b)(1) or September 1 shall be conducted by Administrative Law Judges of the Office of Hearings and Appeals of the Social Security Administration in the same manner as are hearings conducted under section 205(b)(1) of such Act \[42 U.S.C. 405(b)(1)\].
 
 “(b) Study and Report on Use of Telephone Hearings.—
 
-“(1) The Secretary of Health and Human Services and the Comptroller General of the United States shall each conduct a study on holding hearings under section 1869(b)(1) of the Social Security Act \[subsec. (b)(1) of this section\] by telephone and shall each report the results of the study not later than 6 months after the date of enactment of this Act \[Dec. 22, 1987\].
+“(1) The Secretary of Health and Human Services and the Comptroller General of the United States shall each conduct a study on holding hearings under section 1869(b)(1) of the Social Security Act \[42 U.S.C. 1395ff(b)(1)\] by telephone and shall each report the results of the study not later than 6 months after the date of enactment of this Act \[Dec. 22, 1987\].
 
 “(2) The studies under paragraph (1) shall focus on whether telephone hearings allow for a full and fair evidentiary hearing, in general, or with respect to any particular category of claims and shall examine the possible improvements to the hearing process (such as cost-effectiveness, convenience to the claimant, and reduction in time under the process) resulting from the use of such hearings as compared to the adoption of other changes to the process (such as expansions in staff and resources).”
 

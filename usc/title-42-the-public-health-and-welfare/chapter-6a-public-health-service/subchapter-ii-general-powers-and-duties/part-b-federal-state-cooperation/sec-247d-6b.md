@@ -368,7 +368,7 @@ Not later than 30 days after any date on which the Secretary determines that the
 
 (A) in meeting the security countermeasure needs identified under this section; and
 
-(B) on the annual Public Health Emergency Medical Countermeasures Enterprise and Strategy [2](#247d-6b_2_target) Implementation Plan (pursuant to section 300hh–10(d) of this title).
+(B) on the annual Public Health Emergency Medical Countermeasures Enterprise and Strategy [1](#247d-6b_1_target) Implementation Plan (pursuant to section 300hh–10(d) of this title).
 
 #### (h) Definitions
 
@@ -498,7 +498,7 @@ Pub. L. 108–276, §3(c)(1),(2), July 21, 2004, 118 Stat. 853, provided that:
 
 Pub. L. 107–188, title I, §127, June 12, 2002, 116 Stat. 615, provided that:
 
-“(a) In General.—Through the national stockpile under section 121 \[now section 319F–2 of act July 1, 1944, this section\], the President, subject to subsections (b) and (c), shall make available to State and local governments potassium iodide tablets for stockpiling and for distribution as appropriate to public facilities, such as schools and hospitals, in quantities sufficient to provide adequate protection for the population within 20 miles of a nuclear power plant.
+“(a) In General.—Through the national stockpile under section 121 \[now section 319F–2 of act July 1, 1944, 42 U.S.C. 247d–6b\], the President, subject to subsections (b) and (c), shall make available to State and local governments potassium iodide tablets for stockpiling and for distribution as appropriate to public facilities, such as schools and hospitals, in quantities sufficient to provide adequate protection for the population within 20 miles of a nuclear power plant.
 
 “(b) State and Local Plans.—
 
@@ -568,4 +568,4 @@ You are authorized and directed to publish this memorandum in the Federal Regist
 
 George W. Bush.      
 
-[2 So in original. Probably should be “Enterprise Strategy and”.](#247d-6b_2)
+[1 So in original. Probably should be “Enterprise Strategy and”.](#247d-6b_1)

@@ -128,7 +128,7 @@ Subsec. (b)(5)(B). Pub. L. 96–76, §202(b)(3), substituted “referred to in s
 
 #### Effective Date of 1981 Amendment
 
-Pub. L. 97–35, title XXVII, §2709(h), Aug. 13, 1981, 95 Stat. 912, provided that: “The amendments made by paragraphs (2), (3), and (5)(B) of subsection (c) \[amending this section\] shall apply with respect to contracts entered into under the National Health Service Corps scholarship program under subpart III of part C of title VII of the Public Health Service Act \[section 294r et seq. of this title\] after the date of the enactment of this Act \[Aug. 13, 1981\]. An individual who before such date has entered into such a contract and who has not begun the period of obligated service required under such contract shall be given the opportunity to revise such contract to permit the individual to serve such period as a member of the National Health Service Corps who is not an employee of the United States.”
+Pub. L. 97–35, title XXVII, §2709(h), Aug. 13, 1981, 95 Stat. 912, provided that: “The amendments made by paragraphs (2), (3), and (5)(B) of subsection (c) \[amending this section\] shall apply with respect to contracts entered into under the National Health Service Corps scholarship program under subpart III of part C of title VII of the Public Health Service Act \[42 U.S.C. 294r et seq.\] after the date of the enactment of this Act \[Aug. 13, 1981\]. An individual who before such date has entered into such a contract and who has not begun the period of obligated service required under such contract shall be given the opportunity to revise such contract to permit the individual to serve such period as a member of the National Health Service Corps who is not an employee of the United States.”
 
 #### Effective Date
 
@@ -140,7 +140,7 @@ See section 408(b)(2) of Pub. L. 94–484, set out as a note under section 254l 
 
 #### Special Retention Pay for Regular or Reserve Officers for Period Officer Is Obligated Under This Section
 
-Pub. L. 100–446, title II, Sept. 27, 1988, 102 Stat. 1816, provided that: “the Secretary of Health and Human Services may authorize special retention pay under paragraph (4) of 37 U.S.C. 302(a) to any regular or reserve officer for the period during which the officer is obligated under section 338B \[now 338C\] of the Public Health Service Act \[this section\] and assigned and providing direct health services or serving the officer's obligation as a specialist”.
+Pub. L. 100–446, title II, Sept. 27, 1988, 102 Stat. 1816, provided that: “the Secretary of Health and Human Services may authorize special retention pay under paragraph (4) of 37 U.S.C. 302(a) to any regular or reserve officer for the period during which the officer is obligated under section 338B \[now 338C\] of the Public Health Service Act \[42 U.S.C. 254m\] and assigned and providing direct health services or serving the officer's obligation as a specialist”.
 
 Similar provisions were contained in the following prior appropriation acts:
 

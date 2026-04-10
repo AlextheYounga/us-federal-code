@@ -58,7 +58,7 @@ Subsec. (b)(1). Pub. L. 89–751, §6(c)(2), substituted “schools of nursing i
 
 #### Effective Date of 1988 Amendment
 
-Pub. L. 100–607, title VII, §713(h)(2), Nov. 4, 1988, 102 Stat. 3161, provided that: “Except as provided in Public Law 100–436 \[Sept. 20, 1988, 102 Stat. 1680, see Tables for classification\], the amendment made by paragraph (1) \[amending this section\] shall take effect as if such amendment had been effective on September 30, 1988, and as if section 843 of the Public Health Service Act, as added by section 715 of this title \[section 297j of this title\], had been effective on such date.”
+Pub. L. 100–607, title VII, §713(h)(2), Nov. 4, 1988, 102 Stat. 3161, provided that: “Except as provided in Public Law 100–436 \[Sept. 20, 1988, 102 Stat. 1680, see Tables for classification\], the amendment made by paragraph (1) \[amending this section\] shall take effect as if such amendment had been effective on September 30, 1988, and as if section 843 of the Public Health Service Act \[42 U.S.C. 297j\], as added by section 715 of this title, had been effective on such date.”
 
 #### Effective Date of 1985 Amendment
 
@@ -70,10 +70,10 @@ Amendment by Pub. L. 94–63 effective July 1, 1975, see section 942 of Pub. L. 
 
 #### Effective Date of 1966 Amendment
 
-Pub. L. 89–751, §6(e)(1), Nov. 3, 1966, 80 Stat. 1236, provided that: “The amendments made by this section \[amending this section and sections 297c, 297e, and 297f of this title\] shall be effective in the case of payments to student loan funds made after the enactment of this Act \[Nov. 3, 1966\], except in the case of payments pursuant to commitments (made prior to enactment of this Act) to make loans under section 827 of the Public Health Service Act \[section 297f of this title\] as in effect prior to the enactment of this Act.”
+Pub. L. 89–751, §6(e)(1), Nov. 3, 1966, 80 Stat. 1236, provided that: “The amendments made by this section \[amending this section and sections 297c, 297e, and 297f of this title\] shall be effective in the case of payments to student loan funds made after the enactment of this Act \[Nov. 3, 1966\], except in the case of payments pursuant to commitments (made prior to enactment of this Act) to make loans under section 827 of the Public Health Service Act \[42 U.S.C. 297f\] as in effect prior to the enactment of this Act.”
 
 #### Applicability of Reorg. Plan No. 3 of 1966
 
-Pub. L. 89–751, §9, Nov. 3, 1966, 80 Stat. 1240, provided that: “The amendments made by this Act \[enacting former sections 295h to 295h–5 and 298c to 298c–8 of this title and amending this section, former sections 292b, 294d, 294n to 294p, 296, and 297c, section 297e, former section 297f, and section 298 of this title, and section 1717 of Title 12, Banks and Banking\] shall be subject to the provisions of Reorganization Plan Numbered 3 of 1966 \[set out as a note under section 202 of this title\].”
+Pub. L. 89–751, §9, Nov. 3, 1966, 80 Stat. 1240, provided that: “The amendments made by this Act \[enacting former sections 295h to 295h–5 and 298c to 298c–8 of this title and amending this section, former sections 292b, 294d, 294n to 294p, 296, and 297c, section 297e, former section 297f, and section 298 of this title, and section 1717 of Title 12, Banks and Banking\] shall be subject to the provisions of Reorganization Plan Numbered 3 of 1966 \[42 U.S.C. 202 note\].”
 
 [1 See References in Text note below.](#297d_1)

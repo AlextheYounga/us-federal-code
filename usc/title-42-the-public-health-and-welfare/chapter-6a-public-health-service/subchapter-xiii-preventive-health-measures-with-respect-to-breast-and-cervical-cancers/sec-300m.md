@@ -166,6 +166,6 @@ Section 300m–6, act July 1, 1944, ch. 373, title XV, §1527, as added Oct. 4, 
 
 #### Transition Rule Regarding Mammographies
 
-Pub. L. 103–183, title I, §101(c)(2), Dec. 14, 1993, 107 Stat. 2228, provided that: “With respect to the screening procedure for breast cancer known as a mammography, the requirements in effect on the day before the date of the enactment of this Act \[Dec. 14, 1993\] under section 1503(c) of the Public Health Service Act \[subsec. (c) of this section\] remain in effect (for an individual or facility conducting such procedures pursuant to a grant to a State under section 1501 of such Act \[section 300k of this title\]) until there is in effect for the facility a certificate (or provisional certificate) issued under section 354 of such Act \[section 263b of this title\].”
+Pub. L. 103–183, title I, §101(c)(2), Dec. 14, 1993, 107 Stat. 2228, provided that: “With respect to the screening procedure for breast cancer known as a mammography, the requirements in effect on the day before the date of the enactment of this Act \[Dec. 14, 1993\] under section 1503(c) of the Public Health Service Act \[42 U.S.C. 300m(c)\] remain in effect (for an individual or facility conducting such procedures pursuant to a grant to a State under section 1501 of such Act \[42 U.S.C. 300k\]) until there is in effect for the facility a certificate (or provisional certificate) issued under section 354 of such Act \[42 U.S.C. 263b\].”
 
 [1 So in original. Probably should be “non-Federal”.](#300m_1)

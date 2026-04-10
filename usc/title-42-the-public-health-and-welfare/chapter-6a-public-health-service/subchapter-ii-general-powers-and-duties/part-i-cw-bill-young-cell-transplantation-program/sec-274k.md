@@ -394,7 +394,7 @@ Pub. L. 105–196, §7, July 16, 1998, 112 Stat. 637, provided that: “This Act
 
 Pub. L. 101–616, title I, §102, Nov. 16, 1990, 104 Stat. 3282, provided that:
 
-“(a) In General.—This title \[enacting this section and section 274l of this title and amending section 274a of this title\], and the amendments made by this title, shall not affect any legal document, including any order, regulation, grant, or contract, in effect on the date of enactment of this Act \[Nov. 16, 1990\], or any administrative proceeding or lawsuit pending on the date, that relates to the bone marrow registry established under section 373(b) of the Public Health Service Act \[section 274a(b) of this title\] (as it existed before the amendment made by section 101(b) of this Act).
+“(a) In General.—This title \[enacting this section and section 274l of this title and amending section 274a of this title\], and the amendments made by this title, shall not affect any legal document, including any order, regulation, grant, or contract, in effect on the date of enactment of this Act \[Nov. 16, 1990\], or any administrative proceeding or lawsuit pending on the date, that relates to the bone marrow registry established under section 373(b) of the Public Health Service Act \[42 U.S.C. 274a(b)\] (as it existed before the amendment made by section 101(b) of this Act).
 
 “(b) Continued Effect.—A legal document described in subsection (a) or an order issued in a lawsuit described in subsection (a) shall continue in effect until modified, terminated, or revoked.
 
@@ -408,7 +408,7 @@ Pub. L. 109–129, §2, Dec. 20, 2005, 119 Stat. 2550, as amended by Pub. L. 111
 
 “(b) Requirements.—The Secretary shall require each recipient of a contract under this section—
 
-“(1) to acquire, tissue-type, test, cryopreserve, and store donated units of cord blood acquired with the informed consent of the donor, as determined by the Secretary pursuant to section 379(c) of the Public Health Service Act \[subsec. (c) of this section\], in a manner that complies with applicable Federal and State regulations;
+“(1) to acquire, tissue-type, test, cryopreserve, and store donated units of cord blood acquired with the informed consent of the donor, as determined by the Secretary pursuant to section 379(c) of the Public Health Service Act \[42 U.S.C. 274k(c)\], in a manner that complies with applicable Federal and State regulations;
 
 “(2) to encourage donation from a genetically diverse population;
 
@@ -418,7 +418,7 @@ Pub. L. 109–129, §2, Dec. 20, 2005, 119 Stat. 2550, as amended by Pub. L. 111
 
 “(5) to make data available, as required by the Secretary and consistent with section 379(d)(3) of the Public Health Service Act (42 U.S.C. 274k(d)(3)), as amended by this Act, in a standardized electronic format, as determined by the Secretary, for the C.W. Bill Young Cell Transplantation Program; and
 
-“(6) to submit data in a standardized electronic format for inclusion in the stem cell therapeutic outcomes database maintained under section 379A of the Public Health Service Act \[section 274l of this title\], as amended by this Act.
+“(6) to submit data in a standardized electronic format for inclusion in the stem cell therapeutic outcomes database maintained under section 379A of the Public Health Service Act \[42 U.S.C. 274l\], as amended by this Act.
 
 “(c) Related Cord Blood Donors.—
 
@@ -440,7 +440,7 @@ Pub. L. 109–129, §2, Dec. 20, 2005, 119 Stat. 2550, as amended by Pub. L. 111
 
 “(4) will annually provide to the Secretary a plan for, and demonstrate, ongoing measurable progress toward achieving self-sufficiency of cord blood unit collection and banking operations; and
 
-“(5) if the Secretary determines through an assessment, or through petition by the applicant, that a cord blood bank is no longer operational or does not meet the requirements of section 379(d)(4) of the Public Health Service Act \[subsec. (d)(4) of this section\] (as added by this Act) and as a result may not distribute the units, transfer the units collected pursuant to this section to another qualified cord blood bank approved by the Secretary to ensure continued availability of cord blood units.
+“(5) if the Secretary determines through an assessment, or through petition by the applicant, that a cord blood bank is no longer operational or does not meet the requirements of section 379(d)(4) of the Public Health Service Act \[42 U.S.C. 274k(d)(4)\] (as added by this Act) and as a result may not distribute the units, transfer the units collected pursuant to this section to another qualified cord blood bank approved by the Secretary to ensure continued availability of cord blood units.
 
 “(e) Duration of Contracts.—
 
@@ -466,7 +466,7 @@ Pub. L. 109–129, §2, Dec. 20, 2005, 119 Stat. 2550, as amended by Pub. L. 111
 
 “(g) Definitions.—In this section:
 
-“(1) The term ‘C.W. Bill Young Cell Transplantation Program’ means the C.W. Bill Young Cell Transplantation Program under section 379 of the Public Health Service Act \[this section\], as amended by this Act.
+“(1) The term ‘C.W. Bill Young Cell Transplantation Program’ means the C.W. Bill Young Cell Transplantation Program under section 379 of the Public Health Service Act \[42 U.S.C. 274k\], as amended by this Act.
 
 “(2) The term ‘cord blood donor’ means a mother who has delivered a baby and consents to donate the neonatal blood remaining in the placenta and umbilical cord after separation from the newborn baby.
 
@@ -474,7 +474,7 @@ Pub. L. 109–129, §2, Dec. 20, 2005, 119 Stat. 2550, as amended by Pub. L. 111
 
 “(4) The term ‘first-degree relative’ means a sibling who is one meiosis away from a particular individual in a family.
 
-“(5) The term ‘qualified cord blood bank’ has the meaning given to that term in section 379(d)(4) of the Public Health Service Act \[subsec. (d)(4) of this section\], as amended by this Act.
+“(5) The term ‘qualified cord blood bank’ has the meaning given to that term in section 379(d)(4) of the Public Health Service Act \[42 U.S.C. 274k(d)(4)\], as amended by this Act.
 
 “(6) The term ‘Secretary’ means the Secretary of Health and Human Services.
 

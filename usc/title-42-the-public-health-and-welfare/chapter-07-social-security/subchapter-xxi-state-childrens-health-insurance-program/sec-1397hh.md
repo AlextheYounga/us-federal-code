@@ -166,9 +166,9 @@ Amendment by section 501(e)(2) of Pub. L. 111–3 effective for annual reports s
 
 Pub. L. 111–3, title IV, §402(b), Feb. 4, 2009, 123 Stat. 83, provided that:
 
-“(1) In general.—Not later than 1 year after the date of enactment of this Act \[Feb. 4, 2009\], the Secretary \[of Health and Human Services\] shall specify a standardized format for States to use for reporting the information required under section 2108(e) of the Social Security Act \[subsec. (e) of this section\], as added by subsection (a)(2).
+“(1) In general.—Not later than 1 year after the date of enactment of this Act \[Feb. 4, 2009\], the Secretary \[of Health and Human Services\] shall specify a standardized format for States to use for reporting the information required under section 2108(e) of the Social Security Act \[42 U.S.C. 1397hh(e)\], as added by subsection (a)(2).
 
-“(2) Transition period for states.—Each State that is required to submit a report under subsection (a) of section 2108 of the Social Security Act \[subsec. (a) of this section\] that includes the information required under subsection (e) of such section may use up to 3 reporting periods to transition to the reporting of such information in accordance with the standardized format specified by the Secretary under paragraph (1).”
+“(2) Transition period for states.—Each State that is required to submit a report under subsection (a) of section 2108 of the Social Security Act \[42 U.S.C. 1397hh(a)\] that includes the information required under subsection (e) of such section may use up to 3 reporting periods to transition to the reporting of such information in accordance with the standardized format specified by the Secretary under paragraph (1).”
 
 [1 So in original. Two subsecs. (e) have been enacted.](#1397hh_1)
 

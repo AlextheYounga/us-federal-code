@@ -128,7 +128,7 @@ Centers for Disease Control changed to Centers for Disease Control and Preventio
 
 #### Effective Date of 2002 Amendment
 
-Pub. L. 107–260, §2(b), Oct. 29, 2002, 116 Stat. 1744, provided that: “The amendments made by subsection (a) \[amending this section\] apply to grants under section 399B of the Public Health Service Act \[this section\] for fiscal year 2002 and subsequent fiscal years, except that, in the case of a State that received such a grant for fiscal year 2000, the Secretary of Health and Human Services may delay the applicability of such amendments to the State for not more than 12 months if the Secretary determines that compliance with such amendments requires the enactment of a statute by the State or the issuance of State regulations.”
+Pub. L. 107–260, §2(b), Oct. 29, 2002, 116 Stat. 1744, provided that: “The amendments made by subsection (a) \[amending this section\] apply to grants under section 399B of the Public Health Service Act \[42 U.S.C. 280e\] for fiscal year 2002 and subsequent fiscal years, except that, in the case of a State that received such a grant for fiscal year 2000, the Secretary of Health and Human Services may delay the applicability of such amendments to the State for not more than 12 months if the Secretary determines that compliance with such amendments requires the enactment of a statute by the State or the issuance of State regulations.”
 
 #### Congressional Findings and Purpose
 

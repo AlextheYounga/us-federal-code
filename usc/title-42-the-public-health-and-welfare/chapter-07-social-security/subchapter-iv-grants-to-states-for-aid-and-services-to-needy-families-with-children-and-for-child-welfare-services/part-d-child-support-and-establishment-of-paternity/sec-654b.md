@@ -68,6 +68,6 @@ Pub. L. 104–193, title III, §312(d), Aug. 22, 1996, 110 Stat. 2209, provided 
 
 “(1) In general.—Except as provided in paragraph (2), the amendments made by this section \[enacting this section and amending sections 654 and 654a of this title\] shall become effective on October 1, 1998.
 
-“(2) Limited exception to unit handling payments.—Notwithstanding section 454B(b)(1) of the Social Security Act \[subsec. (b)(1) of this section\], as added by this section, any State which, as of the date of the enactment of this Act \[Aug. 22, 1996\], processes the receipt of child support payments through local courts may, at the option of the State, continue to process through September 30, 1999, such payments through such courts as processed such payments on or before such date of enactment.”
+“(2) Limited exception to unit handling payments.—Notwithstanding section 454B(b)(1) of the Social Security Act \[42 U.S.C. 654b(b)(1)\], as added by this section, any State which, as of the date of the enactment of this Act \[Aug. 22, 1996\], processes the receipt of child support payments through local courts may, at the option of the State, continue to process through September 30, 1999, such payments through such courts as processed such payments on or before such date of enactment.”
 
 For provisions relating to effective date of title III of Pub. L. 104–193, see section 395(a)–(c) of Pub. L. 104–193, set out as an Effective Date of 1996 Amendment note under section 654 of this title.

@@ -256,7 +256,7 @@ Pub. L. 101–508, title IV, §4207(i)(1), formerly §4027(i)(1), Nov. 5, 1990, 
 
 Pub. L. 101–508, title IV, §4207(i)(2), formerly §4027(i)(2), Nov. 5, 1990, 104 Stat. 1388–124, as renumbered and amended by Pub. L. 103–432, title I, §160(d)(4), (11), Oct. 31, 1994, 108 Stat. 4444, provided that: “The amendments made by paragraph (1) \[amending this section\] shall take effect as if included in the enactment of the Omnibus Budget Reconciliation Act of 1987 \[Pub. L. 100–203\], except that the Secretary may not permit approval of a training and competency evaluation program or a competency evaluation program offered by or in a home health agency which, pursuant to any Federal or State law within the 2-year period beginning on October 1, 1988—
 
-“(i) had its participation terminated under title XVIII of the Social Security Act \[this subchapter\];
+“(i) had its participation terminated under title XVIII of the Social Security Act \[42 U.S.C. 1395 et seq.\];
 
 “(ii) was assessed a civil money penalty not less than $5,000 for deficiencies in applicable quality standards for home health agencies;
 
@@ -274,9 +274,9 @@ Except as specifically provided in section 411 of Pub. L. 100–360, amendment b
 
 #### Effective Date of 1987 Amendment
 
-Pub. L. 100–203, title IV, §4022(b), Dec. 22, 1987, 101 Stat. 1330–71, provided that: “Except as otherwise specifically provided in section 1891(d) of the Social Security Act \[subsec. (d) of this section\] (as added by subsection (a)), the amendment made by subsection (a) \[amending this section\] shall become effective on the first day of the 18th calendar month to begin after the date of the enactment of this Act \[Dec. 22, 1987\].”
+Pub. L. 100–203, title IV, §4022(b), Dec. 22, 1987, 101 Stat. 1330–71, provided that: “Except as otherwise specifically provided in section 1891(d) of the Social Security Act \[42 U.S.C. 1395bbb(d)\] (as added by subsection (a)), the amendment made by subsection (a) \[amending this section\] shall become effective on the first day of the 18th calendar month to begin after the date of the enactment of this Act \[Dec. 22, 1987\].”
 
-Pub. L. 100–203, title IV, §4023(b), Dec. 22, 1987, 101 Stat. 1330–73, as amended by Pub. L. 100–360, title IV, §411(d)(3)(C), July 1, 1988, 102 Stat. 774, provided that: “Except as otherwise specifically provided in subsections (e) and (f) of section 1891 of the Social Security Act \[subsecs. (e) and (f) of this section\] (as added by subsection (a)), the amendment made by subsection (a) \[amending this section\] shall become effective on the first day of the 18th calendar month to begin after the date of the enactment of this Act \[Dec. 22, 1987\], and no intermediate sanction described in section 1891(f)(2)(A) of such Act \[subsec. (f)(2)(A) of this section\] shall be imposed for violations occurring before such effective date.”
+Pub. L. 100–203, title IV, §4023(b), Dec. 22, 1987, 101 Stat. 1330–73, as amended by Pub. L. 100–360, title IV, §411(d)(3)(C), July 1, 1988, 102 Stat. 774, provided that: “Except as otherwise specifically provided in subsections (e) and (f) of section 1891 of the Social Security Act \[42 U.S.C. 1395bbb(e), (f)\] (as added by subsection (a)), the amendment made by subsection (a) \[amending this section\] shall become effective on the first day of the 18th calendar month to begin after the date of the enactment of this Act \[Dec. 22, 1987\], and no intermediate sanction described in section 1891(f)(2)(A) of such Act \[42 U.S.C. 1395bbb(f)(2)(A)\] shall be imposed for violations occurring before such effective date.”
 
 #### Effective Date
 
@@ -288,12 +288,12 @@ Pub. L. 106–554, §1(a)(6) \[title V, §506\], Dec. 21, 2000, 114 Stat. 2763, 
 
 “(a) Treatment of Branch Offices.—
 
-“(1) In general.—Notwithstanding any other provision of law, in determining for purposes of title XVIII of the Social Security Act \[this subchapter\] whether an office of a home health agency constitutes a branch office or a separate home health agency, neither the time nor distance between a parent office of the home health agency and a branch office shall be the sole determinant of a home health agency's branch office status.
+“(1) In general.—Notwithstanding any other provision of law, in determining for purposes of title XVIII of the Social Security Act \[42 U.S.C. 1395 et seq.\] whether an office of a home health agency constitutes a branch office or a separate home health agency, neither the time nor distance between a parent office of the home health agency and a branch office shall be the sole determinant of a home health agency's branch office status.
 
 “(2) Consideration of forms of technology in definition of supervision.—The Secretary of Health and Human Services may include forms of technology in determining what constitutes ‘supervision’ for purposes of determining a home heath \[sic\] agency's branch office status under paragraph (1).
 
 “(b) GAO Study.—
 
-“(1) Study.—The Comptroller General of the United States shall conduct a study of the provision of adequate supervision to maintain quality of home health services delivered under the medicare program under title XVIII of the Social Security Act \[this subchapter\] in isolated rural areas. The study shall evaluate the methods that home health agency branches and subunits use to maintain adequate supervision in the delivery of services to clients residing in those areas, how these methods of supervision compare to requirements that subunits independently meet medicare conditions of participation, and the resources utilized by subunits to meet such conditions.
+“(1) Study.—The Comptroller General of the United States shall conduct a study of the provision of adequate supervision to maintain quality of home health services delivered under the medicare program under title XVIII of the Social Security Act \[42 U.S.C. 1395 et seq.\] in isolated rural areas. The study shall evaluate the methods that home health agency branches and subunits use to maintain adequate supervision in the delivery of services to clients residing in those areas, how these methods of supervision compare to requirements that subunits independently meet medicare conditions of participation, and the resources utilized by subunits to meet such conditions.
 
 “(2) Report.—Not later than January 1, 2002, the Comptroller General shall submit to Congress a report on the study conducted under paragraph (1). The report shall include recommendations on whether exceptions are needed for subunits and branches of home health agencies under the medicare program to maintain access to the home health benefit or whether alternative policies should be developed to assure adequate supervision and access and recommendations on whether a national standard for supervision is appropriate.”

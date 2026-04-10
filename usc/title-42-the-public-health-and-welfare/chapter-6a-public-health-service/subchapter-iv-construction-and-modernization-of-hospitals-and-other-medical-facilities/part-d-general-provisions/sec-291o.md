@@ -90,7 +90,7 @@ Pub. L. 91–296, title I, §113, June 30, 1970, 84 Stat. 340, provided that the
 
 Pub. L. 91–296, title I, §114(a), June 30, 1970, 84 Stat. 341, provided that the amendment made by that section is effective with respect to applications approved under this subchapter after June 30, 1970.
 
-Pub. L. 91–296, title I, §116(g), June 30, 1970, 84 Stat. 342, provided that: “The amendments made by subsection (e) \[amending this section\] and paragraphs (2) and (3) of subsection (f) of this section \[amending section 291e of this title\] shall apply with respect to applications approved under title VI of such Act \[this subchapter\] after June 30, 1970.”
+Pub. L. 91–296, title I, §116(g), June 30, 1970, 84 Stat. 342, provided that: “The amendments made by subsection (e) \[amending this section\] and paragraphs (2) and (3) of subsection (f) of this section \[amending section 291e of this title\] shall apply with respect to applications approved under title VI of such Act \[42 U.S.C. 291 et seq.\] after June 30, 1970.”
 
 Pub. L. 91–296, title I, §117, June 30, 1970, 84 Stat. 342, provided that the amendment made by that section is effective with respect to applications approved under this subchapter after June 30, 1970.
 
@@ -104,7 +104,7 @@ Amendment by Pub. L. 88–581 effective with respect to applications for grants 
 
 #### Transfer of Functions
 
-Office of Surgeon General abolished by section 3 of Reorg. Plan No. 3 of 1966, eff. June 25, 1966, 31 F.R. 8855, 80 Stat. 1610, and functions thereof transferred to Secretary of Health, Education, and Welfare by section 1 of Reorg. Plan No. 3 of 1966, set out as a note under section 202 of this title. Secretary of Health, Education, and Welfare redesignated Secretary of Health and Human Services by section 509(b) of Pub. L. 96–88 which is classified to section 3508(b) of Title 20, Education.
+Office of Surgeon General abolished by section 3 of Reorg. Plan No. 3 of 1966, eff. June 25, 1966, 31 F.R. 8855, 80 Stat. 1610, and functions thereof transferred to Secretary of Health, Education, and Welfare by section 1 of Reorg. Plan No. 3 of 1966, set out as a note under section 202 of this title. Secretary of Health, Education, and Welfare redesignated Secretary of Health and Human Services by section 509(b) of Pub. L. 96–88 which is classified to section 3508(b) of Title 20, Education. Office of Surgeon General reestablished within the Office of the Assistant Secretary for Health, see Notice of Department of Health and Human Services, Office of the Assistant Secretary for Health, Mar. 30, 1987, 52 F.R. 11754.
 
 #### Termination of Trust Territory of the Pacific Islands
 

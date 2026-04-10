@@ -78,7 +78,7 @@ Amendment by Pub. L. 109–482 applicable only with respect to amounts appropria
 
 #### Additional Grants
 
-Pub. L. 108–199, div. E, title II, §217, Jan. 23, 2004, 118 Stat. 255, provided that: “Notwithstanding section 409B(c) of the Public Health Service Act \[subsec. (c) of this section\] regarding a limitation on the number of such grants, funds appropriated in this Act \[div. E of Pub. L. 108–199, see Tables for classification\] and Acts in fiscal years thereafter may be expended by the Director of the National Institutes of Health to award Core Center Grants to encourage the development of innovative multidisciplinary research and provide training concerning Parkinson's disease. Each center funded under such grants shall be designated as a Morris K. Udall Center for Research on Parkinson's Disease.”
+Pub. L. 108–199, div. E, title II, §217, Jan. 23, 2004, 118 Stat. 255, provided that: “Notwithstanding section 409B(c) of the Public Health Service Act \[42 U.S.C. 284f(c)\] regarding a limitation on the number of such grants, funds appropriated in this Act \[div. E of Pub. L. 108–199, see Tables for classification\] and Acts in fiscal years thereafter may be expended by the Director of the National Institutes of Health to award Core Center Grants to encourage the development of innovative multidisciplinary research and provide training concerning Parkinson's disease. Each center funded under such grants shall be designated as a Morris K. Udall Center for Research on Parkinson's Disease.”
 
 Similar provisions were contained in Pub. L. 108–7, div. G, title II, §218, Feb. 20, 2003, 117 Stat. 326.
 
