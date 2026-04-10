@@ -56,7 +56,7 @@ Provisions similar to those comprising this section were contained in former sec
 
 Section 820, Pub. L. 93–203, title I, §110, as added Pub. L. 95–524, §2, Oct. 27, 1978, 92 Stat. 1930, related to State employment and training councils.
 
-A prior section 820, Pub. L. 93–203, title I, Dec. 28, 1973, 87 Stat. 848, related to authority of the Secretary to provide services, prior to the general revision of Pub. L. 93–203 by Pub. L. 95–524.
+A prior section 820, Pub. L. 93–203, title I, §110, Dec. 28, 1973, 87 Stat. 848, related to authority of the Secretary to provide services, prior to the general revision of Pub. L. 93–203 by Pub. L. 95–524.
 
 Provisions similar to those comprising this section were contained in former section 817 of this title prior to the general revision of Pub. L. 93–203 by Pub. L. 95–524.
 

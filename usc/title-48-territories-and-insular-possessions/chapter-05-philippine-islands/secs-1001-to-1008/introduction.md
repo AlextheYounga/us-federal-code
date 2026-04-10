@@ -4,7 +4,7 @@
 
 Sections 1001 to 1008 were omitted in view of recognition of Philippine independence.
 
-Section 1001, act Aug. 29, 1916, §1, 39 Stat. 545, defined Philippine Islands.
+Section 1001, act Aug. 29, 1916, ch. 416, §1, 39 Stat. 545, defined Philippine Islands.
 
 Section 1002, act Aug. 29, 1916, ch. 416, §2, 39 Stat. 546, related to Philippine citizenship.
 

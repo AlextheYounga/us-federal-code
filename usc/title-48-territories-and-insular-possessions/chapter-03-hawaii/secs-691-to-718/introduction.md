@@ -6,7 +6,7 @@ Sections 691 to 718, relating to Territory of Hawaii, were omitted in view of ad
 
 Section 691, act July 9, 1921, ch. 42, title I, §1, 42 Stat. 108, cited sections 691–704 and 705–716 of this title, as the "Hawaiian Homes Commission Act, 1920".
 
-Section 692, acts July 9, 1921, ch. 42, title II, §201, 42 Stat. 108; June 18, 1954, ch. 321, §2, 68 Stat. 263, defined "Commission", "public lands", "fund", "Territory", "Hawaiian home lands", "tract", "native Hawaiian" and "irrigated pastoral land" as used in "Hawaiian Homes Commission Act, 1920".
+Section 692, acts July 9, 1921, ch. 42, title II, §201, 42 Stat. 108; June 18, 1954, ch. 321, §2, 68 Stat. 264, defined "Commission", "public lands", "fund", "Territory", "Hawaiian home lands", "tract", "native Hawaiian" and "irrigated pastoral land" as used in "Hawaiian Homes Commission Act, 1920".
 
 Section 693, acts July 9, 1921, ch. 42, title II, §202, 42 Stat. 109; July 26, 1935, ch. 420, §1, 49 Stat. 504; May 31, 1944, ch. 216, §1, 58 Stat. 260; July 9, 1952, ch. 618, §§1, 3, 66 Stat. 515, 516, established Hawaiian Homes Commission.
 
@@ -16,15 +16,15 @@ Section 695, act July 9, 1921, ch. 42, title II, §222, 42 Stat. 115, required c
 
 Section 696, act July 9, 1921, ch. 42, title II, §222, 42 Stat. 115, directed that executive officer and secretary give bond for faithful performance of his duties.
 
-Section 697, acts July 9, 1921, ch. 42, title II, §203, 42 Stat. 109; May 16, 1934, ch. 290, §1, 48 Stat. 777; Aug. 29, 1935, ch. 810, §1, 49 Stat. 966; July 10, 1937, ch. 482, 50 Stat. 497; Nov. 26, 1941, ch. 544, §1, 55 Stat. 782; May 31, 1944, ch. 216, §2, 58 Stat. 260; June 3, 1948, ch. 384, 62 Stat. 295; June 3, 1948, ch. 397, 62 Stat. 303; July 9, 1952 ch. 614, §§1, 2, 66 Stat. 511, designated certain lands in Territory as "available land".
+Section 697, acts July 9, 1921, ch. 42, title II, §203, 42 Stat. 109; May 16, 1934, ch. 290, §1, 48 Stat. 777; Aug. 29, 1935, ch. 810, §1, 49 Stat. 966; July 10, 1937, ch. 482, 50 Stat. 497; Nov. 26, 1941, ch. 544, §1, 55 Stat. 782; May 31, 1944, ch. 216, §2, 58 Stat. 260; June 3, 1948, ch. 384, 62 Stat. 295; June 3, 1948, ch. 397, 62 Stat. 303; July 9, 1952, ch. 614, §§1, 2, 66 Stat. 511, designated certain lands in Territory as "available land".
 
-Section 698, acts July 9, 1921, ch. 42, title II, §204, 42 Stat. 110; Mar. 7, 1928, ch. 142, §1, 45 Stat. 246; July 10, 1937, ch. 482, 50 Stat. 503; Feb. 20, 1954, ch. 10, §1, 68 Stat. 116; June 18, 1954, ch. 319, §1, 68 Stat. 262, provided that after July 9, 1921, all available lands would assume status of Hawaiian home lands and be under control of Commission.
+Section 698, acts July 9, 1921, ch. 42, title II, §204, 42 Stat. 110; Mar. 7, 1928, ch. 142, §1, 45 Stat. 246; July 10, 1937, ch. 482, 50 Stat. 503; Feb. 20, 1954, ch. 10, §1, 68 Stat. 16; June 18, 1954, ch. 319, §1, 68 Stat. 262, provided that after July 9, 1921, all available lands would assume status of Hawaiian home lands and be under control of Commission.
 
 Section 699, act July 9, 1921, ch. 42, title II, §205, 42 Stat. 110, provided for sale or lease of available lands.
 
 Section 700, act July 9, 1921, ch. 42, title II, §206, 42 Stat. 110, declared that available lands were not subject to disposition by Governor, Commissioner of Public Lands, or Board of Public Lands.
 
-Section 701, acts July 9, 1921, ch. 42, title II, §207, 42 Stat. 110; Feb. 3, 1923, ch. 56, §1, 42 Stat. 1122; May 16, 1934, ch. 290, §2, 48 Stat. 779; July 10, 1937, ch. 482, 50 Stat. 504; May 31, 1944, ch. 216, §§3, 4, 58 Stat. 264; June 14, 1948, ch. 464, §§1, 2, 62 Stat. 390; June 18, 1954, ch. 321, §1, 68 Stat. 263; Aug. 23, 1958, Pub. L. 85–733, 72 Stat. 822, authorized Commission to lease lands to native Hawaiians.
+Section 701, acts July 9, 1921, ch. 42, title II, §207, 42 Stat. 110; Feb. 3, 1923, ch. 56, §1, 42 Stat. 1222; May 16, 1934, ch. 290, §2, 48 Stat. 779; July 10, 1937, ch. 482, 50 Stat. 504; May 31, 1944, ch. 216, §§3, 4, 58 Stat. 264; June 14, 1948, ch. 464, §§1, 2, 62 Stat. 390; June 18, 1954, ch. 321, §1, 68 Stat. 263; Aug. 23, 1958, Pub. L. 85–733, 72 Stat. 822, authorized Commission to lease lands to native Hawaiians.
 
 Section 702, acts July 9, 1921, ch. 42, title II, §208, 42 Stat. 111; July 10, 1937, ch. 482, 50 Stat. 504; Nov. 26, 1941, ch. 544, §2, 55 Stat. 783; Aug. 21, 1958, Pub. L. 85–710, §1, 72 Stat. 706, set up certain conditions to be included in leases of lands by Commission.
 
@@ -44,7 +44,7 @@ Section 707a, act July 9, 1921, ch. 42, title II, §225, as added Nov. 26, 1941,
 
 Section 708, act July 9, 1921, ch. 42, title II, §214, 42 Stat. 112, authorized Commission to make loans from fund to lessee of any tract or successor to his interest therein.
 
-Section 709, acts July 9, 1921, ch. 42, title II, §215, 42 Stat. 112; Feb. 3, 1923, ch. 56, §3, 42 Stat. 1222; July 10, 1937, ch. 482, 50 Stat. 505; Nov. 26, 1941, ch. 544, §5, 55 Stat. 785; June 14, 1948, ch. 464, §§4, 5, 62 Stat. 392; July 9, 1952, ch. 616, §§3, 4, 66 Stat. 514, set up conditions to be followed in contracts of loan.
+Section 709, acts July 9, 1921, ch. 42, title II, §215, 42 Stat. 112; Feb. 3, 1923, ch. 56, §3, 42 Stat. 1222; July 10, 1937, ch. 482, 50 Stat. 505; Nov. 26, 1941, ch. 544, §5, 55 Stat. 785; June 14, 1948, ch. 464, §§4, 5, 62 Stat. 392; July 9, 1952, ch. 615, §§3, 4, 66 Stat. 514, set up conditions to be followed in contracts of loan.
 
 Section 710, acts July 9, 1921, ch. 42, title II, §216, 42 Stat. 113; July 10, 1937, ch. 482, 50 Stat. 506; June 14, 1948, ch. 464, §6, 62 Stat. 393, gave Commission power to require borrower to insure all livestock and dwellings and other permanent improvements upon his tract purchased or constructed out of any moneys loaned from fund.
 
@@ -60,7 +60,7 @@ Section 715, acts July 9, 1921, ch. 42, title II, §221, 42 Stat. 114; Aug. 1, 1
 
 Section 715a, act July 9, 1921, ch. 42 title II, §224, as added July 26, 1935, ch. 420, §2, 49 Stat. 505, authorized Secretary of the Interior to designate a sanitation and reclamation expert.
 
-Section 716, act July 9, 1921, ch. 42 title II, §223, 42 Stat. 115, reserved right in Congress, to alter, amend, or repeal provisions of sections 691 to 704 and 705 to 716 of this title.
+Section 716, act July 9, 1921, ch. 42, title II, §223, 42 Stat. 115, reserved right in Congress, to alter, amend, or repeal provisions of sections 691 to 704 and 705 to 716 of this title.
 
 Section 717, act July 9, 1921, ch. 42, §401, 42 Stat. 121, related to acts repealed.
 
