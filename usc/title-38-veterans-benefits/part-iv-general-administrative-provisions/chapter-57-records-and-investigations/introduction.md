@@ -14,6 +14,8 @@ Sec.
 
 5705\. Confidentiality of medical quality-assurance records.
 
+5706\. Veterans identification card.
+
         
 
 #### SUBCHAPTER II—INVESTIGATIONS
@@ -47,6 +49,8 @@ Sec.
         
 
 #### Amendments
+
+**2015**—Pub. L. 114–31, §2(c), July 20, 2015, 129 Stat. 430, added item 5706.
 
 **2006**—Pub. L. 109–461, title IX, §902(b), Dec. 22, 2006, 120 Stat. 3460, added item for subchapter III and items 5721 to 5728.
 
