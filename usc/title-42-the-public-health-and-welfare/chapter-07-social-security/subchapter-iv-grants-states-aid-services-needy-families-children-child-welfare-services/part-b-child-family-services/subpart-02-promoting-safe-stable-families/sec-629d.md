@@ -40,7 +40,7 @@ The Secretary shall not make a payment to a State under this section with respec
 
 #### Amendment of Subsection (a)(2)(A)
 
-Pub. L. 118–258, title I, §§115, 117, Jan. 4, 2025, 138 Stat. 2969, provided that, effective Oct. 1, 2025, and applicable to payments under this part for calendar quarters beginning on or after such date, with delay permitted if either State legislation or tribal action is required to meet additional requirements, subsection (a)(2)(A) of this section is amended by striking "629f(b)(4)(B)" and inserting "629f(b)(3)(B)". See 2025 Amendment note below.
+Pub. L. 118–258, title I, §§115(b)(2)(C), 117, Jan. 4, 2025, 138 Stat. 2969, provided that, effective Oct. 1, 2025, and applicable to payments under this part for calendar quarters beginning on or after such date, with delay permitted if either State legislation or tribal action is required to meet additional requirements, subsection (a)(2)(A) of this section is amended by striking "629f(b)(4)(B)" and inserting "629f(b)(3)(B)". See 2025 Amendment note below.
 
   
 

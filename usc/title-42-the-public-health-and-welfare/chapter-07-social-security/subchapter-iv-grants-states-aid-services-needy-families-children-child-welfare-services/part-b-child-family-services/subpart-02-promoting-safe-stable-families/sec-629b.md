@@ -108,11 +108,11 @@ Pub. L. 118–258, title I, §§107(b)(1), 109(b), 111(b), 117, Jan. 4, 2025, 13
 
 (1) in subsection (a), by striking "and" after the semicolon in paragraph (9), by striking the period and inserting "; and" in paragraph (10), and by adding at the end the following:
 
-*"(11) provides a description of policies in place, including training for employees, to address child welfare reports and investigations of neglect concerning the living arrangements or subsistence needs of a child with the goal to prevent the separation of a child from a parent of the child solely due to poverty, to ensure access to services described in section 629a(a)(1)(H) of this title.";*
+*"(11) provides a description of policies in place, including training for employees, to address child welfare reports and investigations of neglect concerning the living arrangements or subsistence needs of a child with the goal to prevent the separation of a child from a parent of the child solely due to poverty, to ensure access to services described in section 629a(a)(1)(H) of this title."; and*
 
 (2) in subsection (b)—
 
-(A) by amending par. (1) to read as follows:
+(A) by amending paragraph (1) to read as follows:
 
 #### *"(1) In general*
 
