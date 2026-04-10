@@ -8,7 +8,7 @@
 
 #### Amendment of Subsection (a)
 
-Pub. L. 118–31, div. A, title V, §533(a)(2)(A), (b), Dec. 22, 2023, 137 Stat. 261, provided that, effective on the date that is one year after Dec. 22, 2023, and applicable with respect to any action of the United States Court of Appeals for the Armed Forces in granting or refusing to grant a petition for review submitted to such Court for the first time on or after Dec. 22, 2023, with certain provisos, subsection (a) of this section is amended to striking out at end "The Supreme Court may not review by a writ of certiorari under this section any action of the United States Court of Appeals for the Armed Forces in refusing to grant a petition for review." See 2023 Amendment note below.
+Pub. L. 118–31, div. A, title V, §533(a)(2)(A), (b), Dec. 22, 2023, 137 Stat. 261, provided that, effective on the date that is one year after Dec. 22, 2023, and applicable with respect to any action of the United States Court of Appeals for the Armed Forces in granting or refusing to grant a petition for review submitted to such Court for the first time on or after Dec. 22, 2023, with certain provisos, subsection (a) of this section is amended to striking out at end "The Supreme Court may not review by a writ of certiorari under this section any action of the United States Court of Appeals for the Armed Forces in refusing to grant a petition for review."
 
   
 
@@ -16,7 +16,7 @@ Pub. L. 118–31, div. A, title V, §533(a)(2)(A), (b), Dec. 22, 2023, 137 Stat.
 
 #### Amendments
 
-**2023**—Subsec. (a). Pub. L. 118–31 struck out at end "The Supreme Court may not review by a writ of certiorari under this section any action of the United States Court of Appeals for the Armed Forces in refusing to grant a petition for review."
+**2023**—Subsec. (a). Pub. L. 118–31 struck out at end: "The Supreme Court may not review by a writ of certiorari under this section any action of the United States Court of Appeals for the Armed Forces in refusing to grant a petition for review."
 
 **2016**—Subsec. (a). Pub. L. 114–328 inserted "United States" before "Court of Appeals" in second sentence.
 

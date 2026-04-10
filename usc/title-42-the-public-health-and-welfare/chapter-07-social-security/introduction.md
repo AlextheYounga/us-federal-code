@@ -1320,8 +1320,6 @@ Sec.
 
 1396w–7. Supporting access to a continuum of crisis response services under Medicaid and CHIP.
 
-1396w–8. Collection and reporting of comprehensive data for specified populations.
-
         
 
 #### SUBCHAPTER XX—BLOCK GRANTS AND PROGRAMS FOR SOCIAL SERVICES AND ELDER JUSTICE

@@ -14,8 +14,6 @@
 
 (B) to ensure that risk, cost, and mission validation and prioritization considerations are consistent with the national defense strategy.
 
-  
-
 (3) The Under Secretary of Defense for Acquisition and Sustainment shall be responsible for ensuring that the defense acquisition system, as defined in section 3001 of this title, is consistent with such policies and procedures and with implementation pursuant to paragraph (1).
 
 (4) The Under Secretary of Defense (Comptroller) shall be responsible for ensuring that the budget for the Department of Defense is consistent with such policies and procedures. The Under Secretary shall notify the congressional defense committees of any deviations from such policies and procedures that are recommended in the budget.

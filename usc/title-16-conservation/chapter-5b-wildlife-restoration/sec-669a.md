@@ -44,13 +44,13 @@ As used in this chapter—
 
 (5) the term "Secretary" means the Secretary of the Interior;
 
-(6) the term "State fish and game department" or "State fish and wildlife department" means any department or division of department of another name, or commission, or official or officials, of a State empowered under its laws to exercise the functions ordinarily exercised by a State fish and game department or State fish and wildlife department.[1](#669a_1_target)
+(6) the term "State fish and game department" or "State fish and wildlife department" means any department or division of department of another name, or commission, or official or officials, of a State empowered under its laws to exercise the functions ordinarily exercised by a State fish and game department or State fish and wildlife department.
 
 (7) the term "wildlife" means any species of wild, free-ranging fauna including fish, and also fauna in captive breeding programs the object of which is to reintroduce individuals of a depleted indigenous species into previously occupied range;
 
 (8) the term "wildlife-associated recreation" means projects intended to meet the demand for outdoor activities associated with wildlife including, but not limited to, hunting and fishing, wildlife observation and photography, such projects as construction or restoration of wildlife viewing areas, observation towers, blinds, platforms, land and water trails, water access, field trialing, trail heads, and access for such projects;
 
-(9) the term "wildlife conservation and restoration program" means a program developed by a State fish and wildlife department and approved by the Secretary under section 669c(d) [2](#669a_2_target) of this title, the projects that constitute such a program, which may be implemented in whole or part through grants and contracts by a State to other State, Federal, or local agencies (including those that gather, evaluate, and disseminate information on wildlife and their habitats), wildlife conservation organizations, and outdoor recreation and conservation education entities from funds apportioned under this chapter,[2](#669a_2_target) and maintenance of such projects;
+(9) the term "wildlife conservation and restoration program" means a program developed by a State fish and wildlife department and approved by the Secretary under section 669c(d) [1](#669a_1_target) of this title, the projects that constitute such a program, which may be implemented in whole or part through grants and contracts by a State to other State, Federal, or local agencies (including those that gather, evaluate, and disseminate information on wildlife and their habitats), wildlife conservation organizations, and outdoor recreation and conservation education entities from funds apportioned under this chapter,[1](#669a_1_target) and maintenance of such projects;
 
 (10) the term "wildlife conservation education" means projects, including public outreach, intended to foster responsible natural resource stewardship; and
 
@@ -126,6 +126,4 @@ Pub. L. 116–17, §§2, 3, May 10, 2019, 133 Stat. 866, 867, provided that:
 
 "(4) may accommodate archery or rifle, pistol, or shotgun shooting."
 
-[1 So in original. The period probably should be a semicolon.](#669a_1)
-
-[2 See References in Text note below.](#669a_2)
+[1 See References in Text note below.](#669a_1)

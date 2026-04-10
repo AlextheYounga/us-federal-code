@@ -1,27 +1,41 @@
 ### **CHAPTER 25—ELECTROMAGNETIC WARFARE**
 
-Sec. 1
-
-        
+Sec.
 
 500\. Electromagnetic Spectrum Operations Executive Committee.
 
-500a. 2 Guidance on electromagnetic spectrum operations mission area and joint electromagnetic spectrum operations.
+500a. 1 Guidance on electromagnetic spectrum operations mission area and joint electromagnetic spectrum operations.
 
         
 
 500b. 2 Annual report on electromagnetic spectrum operations strategy of the Department of Defense.
 
-500c. 2 Annual assessment of budget with respect to electromagnetic spectrum operations capabilities.
+        
 
-500d. 2 Electromagnetic spectrum superiority implementation plan.
-
-500e. 2 Electromagnetic Spectrum Enterprise Operational Lead for Joint Electromagnetic Spectrum Operations.
-
-500f. 2 Evaluations of abilities of armed forces and combatant commands to perform electromagnetic spectrum operations missions.
+500c. 3 Annual assessment of budget with respect to electromagnetic spectrum operations capabilities.
 
         
 
-[1 Editorially supplied.](#CHAPTER25_1)
+500d. 4 Electromagnetic spectrum superiority implementation plan.
 
-[2 So in original. Item numbers 500a to 500f do not conform to section numbers 501 to 506, respectively, used in this chapter.](#CHAPTER25_2)
+        
+
+500e. 5 Electromagnetic Spectrum Enterprise Operational Lead for Joint Electromagnetic Spectrum Operations.
+
+        
+
+500f. 6 Evaluations of abilities of armed forces and combatant commands to perform electromagnetic spectrum operations missions.
+
+        
+
+[1 So in original. Probably should be "501".](#CHAPTER25_1)
+
+[2 So in original. Probably should be "502".](#CHAPTER25_2)
+
+[3 So in original. Probably should be "503".](#CHAPTER25_3)
+
+[4 So in original. Probably should be "504".](#CHAPTER25_4)
+
+[5 So in original. Probably should be "505".](#CHAPTER25_5)
+
+[6 So in original. Probably should be "506".](#CHAPTER25_6)
