@@ -540,4 +540,6 @@ Sec.
 
 621\. Rulemaking on loud commercials required.
 
+622\. Optional electronic labeling of communications equipment.
+
         

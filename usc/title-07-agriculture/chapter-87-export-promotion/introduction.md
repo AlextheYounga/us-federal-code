@@ -112,7 +112,7 @@ Sec.
 
 5712\. Export reporting and contract sanctity.
 
-5713\. Other reports to Congress.
+5713\. Repealed.
 
         
 
