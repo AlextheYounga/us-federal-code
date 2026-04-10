@@ -4,7 +4,7 @@ Sec.
 
 901\. Taxes of foreign countries and of possessions of United States.
 
-\[902. Repealed.\]
+902\. Deemed paid credit where domestic corporation owns 10 percent or more of voting stock of foreign corporation.
 
 903\. Credit for taxes in lieu of income, etc., taxes.
 
@@ -23,8 +23,6 @@ Sec.
         
 
 #### Amendments
-
-**2017**—Pub. L. 115–97, title I, §14301(c)(38), Dec. 22, 2017, 131 Stat. 2225, struck out item 902 "Deemed paid credit where domestic corporation owns 10 percent or more of voting stock of foreign corporation".
 
 **2010**—Pub. L. 111–226, title II, §211(b), Aug. 10, 2010, 124 Stat. 2395, added item 909.
 
