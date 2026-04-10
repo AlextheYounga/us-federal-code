@@ -546,4 +546,6 @@ Sec.
 
 622\. Optional electronic labeling of communications equipment.
 
+623\. Configuration of multi-line telephone systems for direct dialing of 9–1–1.
+
         
