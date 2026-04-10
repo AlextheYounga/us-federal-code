@@ -4,10 +4,6 @@ If the master of any vessel shall obstruct or hinder, or shall intentionally cau
 
 (R.S. §3068; Aug. 5, 1935, ch. 438, title III, §307, 49 Stat. 528.)
 
-  
-
-#### **Editorial Notes**
-
 #### Codification
 
 R.S. §3068 derived from act Mar. 2, 1799, ch. 22, §71, 1 Stat. 678.

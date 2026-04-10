@@ -110,10 +110,6 @@ The funds of SIPC may be made available to guarantee or secure any indemnificati
 
 (Pub. L. 91–598, §8, as added Pub. L. 95–283, §9, May 21, 1978, 92 Stat. 261; amended Pub. L. 95–598, title III, §308(l), (m), Nov. 6, 1978, 92 Stat. 2675.)
 
-  
-
-#### **Editorial Notes**
-
 #### Prior Provisions
 
 A prior section 8 of Pub. L. 91–598 was renumbered section 12 and is classified to section 78hhh of this title.
@@ -121,10 +117,6 @@ A prior section 8 of Pub. L. 91–598 was renumbered section 12 and is classifie
 #### Amendments
 
 **1978**—Subsecs. (a)(1), (c)(3). Pub. L. 95–598 substituted "title 11" for "the Bankruptcy Act".
-
-  
-
-#### **Statutory Notes and Related Subsidiaries**
 
 #### Effective Date of 1978 Amendment
 

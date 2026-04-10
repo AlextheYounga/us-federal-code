@@ -4,10 +4,6 @@ In construing and enforcing the provisions of this chapter, the act, omission, o
 
 (June 10, 1930, ch. 436, §16, 46 Stat. 538.)
 
-  
-
-#### **Editorial Notes**
-
 #### Codification
 
 Section was formerly classified to section 566 of this title.

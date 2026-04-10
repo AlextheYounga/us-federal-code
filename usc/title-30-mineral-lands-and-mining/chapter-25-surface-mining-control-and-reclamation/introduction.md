@@ -46,8 +46,6 @@ Sec.
 
 1231\. Abandoned Mine Reclamation Fund.
 
-1231a. Abandoned mine reclamation fund authorization of appropriations.
-
 1232\. Reclamation fee.
 
 1233\. Objectives of fund.
@@ -75,8 +73,6 @@ Sec.
 1243\. Interagency cooperation.
 
 1244\. Remining incentives.
-
-1245\. Abandoned hardrock mine reclamation.
 
         
 

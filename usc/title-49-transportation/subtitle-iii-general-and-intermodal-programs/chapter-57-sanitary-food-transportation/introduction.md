@@ -6,8 +6,6 @@ Sec.
 
         
 
-#### **Editorial Notes**
-
 #### Amendments
 
 **2008**—Pub. L. 110–244, title III, §302(g), June 6, 2008, 122 Stat. 1618, substituted "transportation" for "Transportation" in item 5701.

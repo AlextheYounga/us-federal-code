@@ -4,10 +4,6 @@ The Secretary of the Interior shall make and publish such general rules and regu
 
 (Oct. 1, 1890, ch. 1263, §2, 26 Stat. 651; June 2, 1920, ch. 218, §5, 41 Stat. 732.)
 
-  
-
-#### **Editorial Notes**
-
 #### Codification
 
 The first sentence of this section was from section 5 of the act of June 2, 1920.

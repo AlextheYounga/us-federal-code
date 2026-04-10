@@ -1,9 +1,5 @@
 ### §§1380a to 1380p. Omitted
 
-  
-
-#### **Editorial Notes**
-
 #### Codification
 
 Sections 1380a to 1380p of this title were effective only with respect to 1957 and 1958 rice crops.

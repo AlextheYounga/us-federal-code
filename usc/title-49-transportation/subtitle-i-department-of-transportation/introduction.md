@@ -12,14 +12,6 @@ Chapter Sec.
 
         
 
-  
-
-#### **Editorial Notes**
-
-#### Amendments
-
-**1995**—Pub. L. 104–88, title II, §201(b), Dec. 29, 1995, 109 Stat. 940, added item for chapter 7.
-
 #### Amendments
 
 **1995**—Pub. L. 104–88, title II, §201(b), Dec. 29, 1995, 109 Stat. 940, added item for chapter 7.

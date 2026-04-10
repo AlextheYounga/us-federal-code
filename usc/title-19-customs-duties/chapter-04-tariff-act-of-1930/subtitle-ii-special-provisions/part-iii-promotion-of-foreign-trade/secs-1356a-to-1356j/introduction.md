@@ -1,9 +1,5 @@
 ### §§1356a to 1356j. Omitted
 
-  
-
-#### **Editorial Notes**
-
 #### Codification
 
 Sections were omitted. See sections 1356k and 1356l of this title.

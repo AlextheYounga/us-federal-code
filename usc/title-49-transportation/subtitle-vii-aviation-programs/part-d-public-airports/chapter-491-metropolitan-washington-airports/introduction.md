@@ -28,8 +28,6 @@ Sec.
 
         
 
-#### **Editorial Notes**
-
 #### Amendments
 
 **2012**—Pub. L. 112–95, title I, §150, Feb. 14, 2012, 126 Stat. 32, struck out item 49108 "Limitations".

@@ -1,9 +1,5 @@
 ### §450b. Transferred
 
-  
-
-#### **Editorial Notes**
-
 #### Codification
 
 Section 450b was editorially reclassified as section 2279i of this title.

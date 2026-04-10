@@ -24,10 +24,6 @@ After one year from June 16, 1933, notwithstanding any other provision of law, t
 
 Act Aug. 23, 1935, ch. 614, title II, §203(a), 49 Stat. 704, changed name of Federal Reserve Board to Board of Governors of the Federal Reserve System.
 
-  
-
-#### **Executive Documents**
-
 #### Exception as to Transfer of Functions
 
 Functions vested by any provision of law in Comptroller of the Currency, referred to in this section, not included in transfer of functions to Secretary of the Treasury, see note set out under section 1 of this title.

@@ -1,9 +1,5 @@
 ### §§80 to 83. Omitted
 
-  
-
-#### **Editorial Notes**
-
 #### Codification
 
 Sections were omitted in the general reorganization of this chapter by Pub. L. 90–487, §1, Aug. 15, 1968, 82 Stat. 761.
