@@ -34,8 +34,6 @@ Sec.
 
 5514\. Installment deduction for indebtedness because of erroneous payment. 1
 
-        
-
 5515\. Crediting amounts received for jury or witness service.
 
 5516\. Withholding District of Columbia income taxes.

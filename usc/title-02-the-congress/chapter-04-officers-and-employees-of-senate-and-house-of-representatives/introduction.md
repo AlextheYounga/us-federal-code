@@ -86,7 +86,11 @@ Sec.
 
 61g–4 to 61g–8. Transferred.
 
-61h to 61h–3. Omitted.
+61h, 61h–1. Omitted.
+
+61h–2 Repealed.
+
+61h–3 Omitted.
 
 61h–4 to 61h–7. Transferred.
 

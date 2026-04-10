@@ -96,6 +96,12 @@ Sec.
 
 227a. Consumer education materials on how to avoid scams that rely upon misleading or inaccurate caller identification information.
 
+227b. Call authentication.
+
+227b–1. Access to number resources.
+
+227b–2. Provision of evidence of certain robocall violations to Attorney General.
+
 228\. Regulation of carrier offering of pay-per-call services.
 
 229\. Communications Assistance for Law Enforcement Act compliance.
@@ -493,6 +499,8 @@ Sec.
 560\. Scrambling of cable channels for nonsubscribers.
 
 561\. Scrambling of sexually explicit adult video service programming.
+
+562\. Requirements relating to charges for covered services.
 
         
 
