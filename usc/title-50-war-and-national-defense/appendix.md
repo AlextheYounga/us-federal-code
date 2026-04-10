@@ -3896,7 +3896,7 @@ The President is authorized to undertake the following:
 
 (5) To utilize the services of any or all departments and any and all officers or agents of the United States, and to accept the services of all officers and agents of the several States, Territories, and possessions, and subdivisions thereof, and the District of Columbia, and of private welfare organizations, in the execution of this title \[sections 451 to 471a of this Appendix\].
 
-(6) To purchase such printing, binding, and blank-book work from public, commercial, or private printing establishments or binderies upon orders placed by the Public Printer or upon waivers issued in accordance with section 12 of the Printing Act approved January 12, 1895, as amended \[44 U.S.C. 504\], and to obtain by purchase, loan, or gift such equipment and supplies for the Selective Service System, as he may deem necessary to carry out the provisions of this title \[sections 451 to 471a of this Appendix\], with or without advertising or formal contract.
+(6) To purchase such printing, binding, and blank-book work from public, commercial, or private printing establishments or binderies upon orders placed by the Director of the Government Publishing Office or upon waivers issued in accordance with section 12 of the Printing Act approved January 12, 1895, as amended \[44 U.S.C. 504\], and to obtain by purchase, loan, or gift such equipment and supplies for the Selective Service System, as he may deem necessary to carry out the provisions of this title \[sections 451 to 471a of this Appendix\], with or without advertising or formal contract.
 
 (7) To prescribe eligibility, rules, and regulations governing the release for service in the armed forces, or for any other special service established pursuant to this title \[sections 451 to 471a of this Appendix\], of any person convicted of a violation of any of the provisions of this title \[said sections\].
 
@@ -3930,7 +3930,7 @@ The Director of Selective Service shall submit to the Congress annually a writte
 
 The Selective Service system [1](#460_1_target) shall be maintained as an active standby organization, with (1) a complete registration and classification structure capable of immediate operation in the event of a national emergency (including a structure for registration and classification of persons qualified for practice or employment in a health care occupation essential to the maintenance of the Armed Forces), and (2) personnel adequate to reinstitute immediately the full operation of the System, including military reservists who are trained to operate such System and who can be ordered to active duty for such purpose in the event of a national emergency.
 
-(June 24, 1948, ch. 625, title I, §10, 62 Stat. 618; Oct. 28, 1949, ch. 782, title XI, §1106(a), 63 Stat. 972; June 30, 1950, ch. 445, §3, 64 Stat. 319; Sept. 27, 1950, ch. 1059, §3(b), 64 Stat. 1074; June 19, 1951, ch. 144, title I, §1(u), 65 Stat. 87; Pub. L. 90–40, §1(8)–(10), June 30, 1967, 81 Stat. 104, 105; Pub. L. 92–129, title I, §101(a)(24)–(29), Sept. 28, 1971, 85 Stat. 351, 352; Pub. L. 93–176, §3, Dec. 5, 1973, 87 Stat. 693; Pub. L. 96–513, title V, §507(d), Dec. 12, 1980, 94 Stat. 2919; Pub. L. 97–60, title II, §208, Oct. 14, 1981, 95 Stat. 1008; Pub. L. 98–473, title II, §234, Oct. 12, 1984, 98 Stat. 2031; Pub. L. 100–180, div. A, title VII, §715, Dec. 4, 1987, 101 Stat. 1113; Pub. L. 102–190, div. A, title X, §1091, Dec. 5, 1991, 105 Stat. 1486; Pub. L. 104–201, div. A, title IV, §414, Sept. 23, 1996, 110 Stat. 2508; Pub. L. 107–314, div. A, title X, §1062(o)(2), Dec. 2, 2002, 116 Stat. 2652; Pub. L. 112–166, §2(c)(3), Aug. 10, 2012, 126 Stat. 1284; Pub. L. 112–239, div. A, title X, §1076(l), Jan. 2, 2013, 126 Stat. 1956.)
+(June 24, 1948, ch. 625, title I, §10, 62 Stat. 618; Oct. 28, 1949, ch. 782, title XI, §1106(a), 63 Stat. 972; June 30, 1950, ch. 445, §3, 64 Stat. 319; Sept. 27, 1950, ch. 1059, §3(b), 64 Stat. 1074; June 19, 1951, ch. 144, title I, §1(u), 65 Stat. 87; Pub. L. 90–40, §1(8)–(10), June 30, 1967, 81 Stat. 104, 105; Pub. L. 92–129, title I, §101(a)(24)–(29), Sept. 28, 1971, 85 Stat. 351, 352; Pub. L. 93–176, §3, Dec. 5, 1973, 87 Stat. 693; Pub. L. 96–513, title V, §507(d), Dec. 12, 1980, 94 Stat. 2919; Pub. L. 97–60, title II, §208, Oct. 14, 1981, 95 Stat. 1008; Pub. L. 98–473, title II, §234, Oct. 12, 1984, 98 Stat. 2031; Pub. L. 100–180, div. A, title VII, §715, Dec. 4, 1987, 101 Stat. 1113; Pub. L. 102–190, div. A, title X, §1091, Dec. 5, 1991, 105 Stat. 1486; Pub. L. 104–201, div. A, title IV, §414, Sept. 23, 1996, 110 Stat. 2508; Pub. L. 107–314, div. A, title X, §1062(o)(2), Dec. 2, 2002, 116 Stat. 2652; Pub. L. 112–166, §2(c)(3), Aug. 10, 2012, 126 Stat. 1284; Pub. L. 112–239, div. A, title X, §1076(l), Jan. 2, 2013, 126 Stat. 1956; Pub. L. 113–235, div. H, title I, §1301(d), Dec. 16, 2014, 128 Stat. 2537.)
 
 #### References in Text
 
@@ -4005,6 +4005,10 @@ Subsec. (g). Act June 19, 1951, §1(u)(2), added subsec. (g).
 Subsec. (b)(4). Act June 30, 1950, struck out comma between "the compensation of" and "such officers".
 
 **1949**—Subsec. (b)(4). Act Oct. 28, 1949, substituted "Classification Act of 1949" for "Classification Act of 1923".
+
+#### Change of Name
+
+"Director of the Government Publishing Office" substituted for "Public Printer" in subsec. (b)(6) on authority of section 1301(d) of Pub. L. 113–235, set out as a note under section 301 of Title 44, Public Printing and Documents.
 
 #### Effective Date of 2013 Amendment
 
@@ -4677,6 +4681,8 @@ Sec.
 526\. Statute of limitations.
 
 527\. Maximum rate of interest on debts incurred before military service.
+
+528\. Child custody protection.
 
         
 
@@ -5445,6 +5451,36 @@ A prior section 527, act Oct. 17, 1940, ch. 888, art. II, §207, as added Oct. 2
 Subsec. (d). Pub. L. 110–289, §2203(b)(2), added subsec. (d) and struck out former subsec. (d). Prior to amendment, text read as follows: "As used in this section, the term 'interest' includes service charges, renewal charges, fees, or any other charges (except bona fide insurance) with respect to an obligation or liability."
 
 Subsecs. (e), (f). Pub. L. 110–389 added subsecs. (e) and (f).
+
+### §528. Child custody protection
+
+#### (a) Duration of temporary custody order based on certain deployments
+
+If a court renders a temporary order for custodial responsibility for a child based solely on a deployment or anticipated deployment of a parent who is a servicemember, the court shall require that the temporary order shall expire not later than the period justified by the deployment of the servicemember.
+
+#### (b) Limitation on consideration of member's deployment in determination of child's best interest
+
+If a motion or a petition is filed seeking a permanent order to modify the custody of the child of a servicemember, no court may consider the absence of the servicemember by reason of deployment, or the possibility of deployment, as the sole factor in determining the best interest of the child.
+
+#### (c) No Federal jurisdiction or right of action or removal
+
+Nothing in this section shall create a Federal right of action or otherwise give rise to Federal jurisdiction or create a right of removal.
+
+#### (d) Preemption
+
+In any case where State law applicable to a child custody proceeding involving a temporary order as contemplated in this section provides a higher standard of protection to the rights of the parent who is a deploying servicemember than the rights provided under this section with respect to such temporary order, the appropriate court shall apply the higher State standard.
+
+#### (e) Deployment defined
+
+In this section, the term "deployment" means the movement or mobilization of a servicemember to a location for a period of longer than 60 days and not longer than 540 days pursuant to temporary or permanent official orders—
+
+(1) that are designated as unaccompanied;
+
+(2) for which dependent travel is not authorized; or
+
+(3) that otherwise do not permit the movement of family members to that location.
+
+(Oct. 17, 1940, ch. 888, title II, §208, as added Pub. L. 113–291, div. A, title V, §566(a), Dec. 19, 2014, 128 Stat. 3384.)
 
 ### TITLE III—RENT, INSTALLMENT CONTRACTS, MORTGAGES, LIENS, ASSIGNMENT, LEASES, TELEPHONE SERVICE CONTRACTS
 

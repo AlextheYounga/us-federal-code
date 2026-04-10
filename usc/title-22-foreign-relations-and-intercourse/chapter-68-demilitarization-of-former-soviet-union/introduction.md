@@ -6,7 +6,7 @@ Sec.
 
 5901\. Demilitarization of independent states of former Soviet Union.
 
-5902\. Authority for programs to facilitate demilitarization.
+5902\. Repealed.
 
         
 
@@ -18,7 +18,7 @@ Sec.
 
 #### SUBCHAPTER III—REPORTING REQUIREMENTS
 
-5921\. Prior notice to Congress of obligation of funds.
+5921\. Repealed.
 
 5922\. Quarterly reports on programs.
 

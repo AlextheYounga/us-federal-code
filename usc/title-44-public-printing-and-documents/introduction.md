@@ -6,7 +6,7 @@ Chap. Sec.
 
 1\. Joint Committee on Printing 101
 
-3\. Government Printing Office 301
+3\. Government Publishing Office 301
 
 5\. Production and Procurement of Printing and Binding 501
 
@@ -46,7 +46,7 @@ Chap. Sec.
 
 37\. Advertisements by Government Agencies 3701
 
-39\. Government Printing Office: Office of Inspector General 3901
+39\. Government Publishing Office: Office of Inspector General 3901
 
 41\. Access to Federal Electronic Information 4101
 
@@ -415,6 +415,10 @@ Table Showing Disposition of All Sections of Former Title 44
 | 425                              | 3510                         |
 | 426                              | 3502                         |
 | 427                              | 3511                         |
+
+#### Change of Name
+
+"Government Publishing Office" substituted for "Government Printing Office" in items 3 and 39 on authority of section 1301(b) of Pub. L. 113–235, div. H, title I, Dec. 16, 2014, 128 Stat. 2537, set out as a note preceding section 301 of this title.
 
 #### Enacting Clause
 

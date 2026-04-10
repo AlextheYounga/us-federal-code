@@ -120,6 +120,8 @@ Sec.
 
 #### Part A—Block Grants to States for Temporary Assistance for Needy Families
 
+Sec.
+
 601\. Purpose.
 
 602\. Eligible States; State plan.
@@ -154,7 +156,7 @@ Sec.
 
 613\. Research, evaluations, and national studies.
 
-614\. Study by Census Bureau.
+614\. Repealed.
 
 615\. Waivers.
 

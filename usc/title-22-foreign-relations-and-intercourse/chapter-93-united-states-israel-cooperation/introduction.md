@@ -12,4 +12,6 @@ Sec.
 
 8605\. Definitions.
 
+8606\. United States-Israel cooperation on energy, water, homeland security, agriculture, and alternative fuel technologies.
+
         
