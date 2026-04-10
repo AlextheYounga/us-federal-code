@@ -4,14 +4,6 @@ Section, added Pub. L. 97–252, title XI, §1107(a)(1), Sept. 8, 1982, 96 Stat.
 
   
 
-#### **Editorial Notes**
-
-#### Codification
-
-Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
-
-  
-
 #### **Statutory Notes and Related Subsidiaries**
 
 #### Effective Date of Repeal
