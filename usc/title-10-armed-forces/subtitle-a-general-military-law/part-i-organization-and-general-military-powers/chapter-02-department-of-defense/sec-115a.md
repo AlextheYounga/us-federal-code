@@ -8,7 +8,7 @@
 
   
 
-(b)The Secretary shall include in each report under subsection (a) justification for the strength levels recommended and an explanation of the relationship between the personnel strength levels recommended for that fiscal year and the national security policies of the United States in effect at the time.
+(b) The Secretary shall include in each report under subsection (a) justification for the strength levels recommended and an explanation of the relationship between the personnel strength levels recommended for that fiscal year and the national security policies of the United States in effect at the time.
 
 (c) The Secretary shall include in each report under subsection (a) a detailed discussion of the manpower required for support and overhead functions within the armed forces and the Department of Defense.
 
