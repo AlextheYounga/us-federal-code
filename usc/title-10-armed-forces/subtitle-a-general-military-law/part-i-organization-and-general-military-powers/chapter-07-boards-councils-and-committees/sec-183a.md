@@ -116,7 +116,7 @@
 
   
 
-(3) The term "intercontinental ballistic missile launch facility or control center" means such facilities or control centers located at the Francis E. Warren Air Force Base; the Malmstrom Air Force Base, and the Minot Air Force Base, and their respective missile fields.
+(3) The term "intercontinental ballistic missile launch facility or control center" means such facilities or control centers located at the Francis E. Warren Air Force Base; [1](#183a_1_target) the Malmstrom Air Force Base, and the Minot Air Force Base, and their respective missile fields.
 
 (4) The term "energy project" means a project that provides for the generation or transmission of electrical energy.
 
@@ -201,3 +201,5 @@ Pub. L. 115–91, div. A, title III, §311(c), Dec. 12, 2017, 131 Stat. 1348, pr
 #### Deadline for Initial Identification of Geographic Areas
 
 Pub. L. 115–91, div. A, title III, §311(d), Dec. 12, 2017, 131 Stat. 1348, provided that: "The initial identification of geographic areas under section 183a(d)(2)(B) of title 10, United States Code, as added by subsection (a), shall be completed not later than 180 days after the date of the enactment of this Act \[Dec. 12, 2017\]."
+
+[1 So in original. The semicolon probably should be a comma.](#183a_1)
