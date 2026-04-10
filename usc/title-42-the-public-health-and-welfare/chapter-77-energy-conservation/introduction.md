@@ -150,7 +150,7 @@ Sec.
 
 6294a. Energy Star program.
 
-6294b. Watersense program.
+6294b. WaterSense program.
 
 6295\. Energy conservation standards.
 
