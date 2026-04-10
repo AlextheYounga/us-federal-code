@@ -1,8 +1,8 @@
-### **CHAPTER 71—BOARD OF VETERANS’ APPEALS**
+### **CHAPTER 71—BOARD OF VETERANS' APPEALS**
 
 Sec.
 
-7101\. Composition of Board of Veterans’ Appeals.
+7101\. Composition of Board of Veterans' Appeals.
 
 7101A. Members of Board: appointment; pay; performance review.
 
@@ -40,7 +40,7 @@ Sec.
 
 **1994**—Pub. L. 103–446, title II, §201(a)(2), Nov. 2, 1994, 108 Stat. 4656, added item 7101A.
 
-Pub. L. 103–271, §§6(b), 7(a)(2), (b)(3), July 1, 1994, 108 Stat. 742, 743, substituted “Reconsideration; correction of obvious errors” for “Determinations by the Board” in item 7103, substituted “Appeals: dockets; hearings” for “Docketing of appeals” in item 7107, and struck out item 7110 “Traveling sections”.
+Pub. L. 103–271, §§6(b), 7(a)(2), (b)(3), July 1, 1994, 108 Stat. 742, 743, substituted "Reconsideration; correction of obvious errors" for "Determinations by the Board" in item 7103, substituted "Appeals: dockets; hearings" for "Docketing of appeals" in item 7107, and struck out item 7110 "Traveling sections".
 
 **1991**—Pub. L. 102–40, title IV, §402(c)(1), May 7, 1991, 105 Stat. 239, renumbered items 4001 to 4010 as 7101 to 7110, respectively.
 
@@ -48,4 +48,4 @@ Pub. L. 103–271, §§6(b), 7(a)(2), (b)(3), July 1, 1994, 108 Stat. 742, 743, 
 
 **1962**—Pub. L. 87–671, §3, Sept. 19, 1962, 76 Stat. 557, added item 4009.
 
-Pub. L. 87–666, §2, Sept. 19, 1962, 76 Stat. 554, added item 4005A, and substituted “Filing of notice of disagreement and appeal” for “Applications for review on appeal” in item 4005, “Administrative appeals” for “Docketing of appeals” in item 4006, and “Docketing of appeals” for “Simultaneously contested claims” in item 4007.
+Pub. L. 87–666, §2, Sept. 19, 1962, 76 Stat. 554, added item 4005A, and substituted "Filing of notice of disagreement and appeal" for "Applications for review on appeal" in item 4005, "Administrative appeals" for "Docketing of appeals" in item 4006, and "Docketing of appeals" for "Simultaneously contested claims" in item 4007.

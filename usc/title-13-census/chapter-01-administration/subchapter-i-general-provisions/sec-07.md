@@ -10,7 +10,7 @@ Based on title 13, U.S.C., 1952 ed., §213, and section 1442 of title 42, U.S.C.
 
 Section consolidates section 213 of title 13, U.S.C., 1952 ed., with that part of subsection (b) of section 1442 of title 42, U.S.C., 1952 ed., which made such section 213 applicable to the censuses of housing.
 
-The enumeration in section 213 of title 13, U.S.C. 1952 ed., of the types of printing (“Blanks, schedules, circulars, pamphlets, envelopes, work sheets”) was omitted as unnecessary and covered by the words “miscellaneous printing”.
+The enumeration in section 213 of title 13, U.S.C. 1952 ed., of the types of printing ("Blanks, schedules, circulars, pamphlets, envelopes, work sheets") was omitted as unnecessary and covered by the words "miscellaneous printing".
 
 The provisions have been reworded to make it clear that they relate to all statistical and census operations under this title, and changes were made in phraseology.
 

@@ -6,7 +6,7 @@ Section 1424, act Sept. 1, 1937, ch. 896, §25, formerly §24, 50 Stat. 899, ren
 
 Section 1425, act Sept. 1, 1937, ch. 896, §26, formerly §25, 50 Stat. 899, renumbered July 15, 1949, ch. 338, title III, §307(h), 63 Stat. 431, related to penalties for concealment of interest in property.
 
-Section 1426, act Sept. 1, 1937, ch. 896, §27, formerly §26, 50 Stat. 899, renumbered July 15, 1949, ch. 388, title III, §307(h), 63 Stat. 431, related to penalties for unlawful use of the name “United States Housing Authority”.
+Section 1426, act Sept. 1, 1937, ch. 896, §27, formerly §26, 50 Stat. 899, renumbered July 15, 1949, ch. 388, title III, §307(h), 63 Stat. 431, related to penalties for unlawful use of the name "United States Housing Authority".
 
 Sections 1423 to 1426 of this title are covered by section 1012 of Title 18, Crimes and Criminal Procedure.
 

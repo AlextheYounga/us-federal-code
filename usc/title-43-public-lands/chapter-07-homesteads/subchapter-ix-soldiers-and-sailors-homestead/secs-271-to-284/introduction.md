@@ -28,7 +28,7 @@ Section 282, acts Sept. 27, 1944, ch. 421, §4, 58 Stat. 748; May 31, 1947, ch. 
 
 Section 283, acts Sept. 27, 1944, ch. 421, §6, formerly §5, 58 Stat. 748, renumbered §6, June 3, 1948, ch. 399, 62 Stat. 305, related to promulgation of rules and regulations respecting preference right of entry of World War II or Korean conflict veteran.
 
-Section 284, act Sept. 27, 1944, ch. 421, §5, as added June 3, 1948, ch. 399, 62 Stat. 305, defined “homestead” for purposes of preference right of entry of World War II or Korean conflict veteran.
+Section 284, act Sept. 27, 1944, ch. 421, §5, as added June 3, 1948, ch. 399, 62 Stat. 305, defined "homestead" for purposes of preference right of entry of World War II or Korean conflict veteran.
 
 #### Effective Date of Repeal
 

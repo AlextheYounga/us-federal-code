@@ -2,13 +2,15 @@
 
 Sec.
 
-2201\. “Secretary” defined.
+2201\. "Secretary" defined.
 
         
 
 #### SUBCHAPTER I—COST SHARING
 
 2211\. Harbors.
+
+2211a. Preserving United States harbors.
 
 2212\. Inland waterway transportation.
 
@@ -32,13 +34,23 @@ Sec.
 
 2222\. Use of other Federal funds.
 
+2223\. Transfer of excess credit.
+
+2224\. Crediting authority for federally authorized navigation projects.
+
+2225\. Credit in lieu of reimbursement.
+
+2226\. Water resources projects on Federal land.
+
+2227\. Clarification of impacts to other Federal facilities.
+
         
 
 #### SUBCHAPTER II—HARBOR DEVELOPMENT
 
-2231\. Studies of projects by non-Federal interests.
+2231\. Study of water resources development projects by non-Federal interests.
 
-2232\. Construction of projects by non-Federal interests.
+2232\. Construction of water resources development projects by non-Federal interests.
 
 2233\. Coordination and scheduling of Federal, State, and local actions.
 
@@ -54,6 +66,10 @@ Sec.
 
 2238a. Estimate of harbor maintenance needs.
 
+2238b. Funding for harbor maintenance programs.
+
+2238c. Additional measures at donor ports and energy transfer ports.
+
 2239\. Repealed.
 
 2240\. Emergency response services.
@@ -62,11 +78,21 @@ Sec.
 
 2242\. Remote and subsistence harbors.
 
+2243\. Arctic deep draft port development partnerships.
+
         
 
 #### SUBCHAPTER III—INLAND WATERWAY TRANSPORTATION SYSTEM
 
 2251\. Inland Waterways Users Board.
+
+2252\. Project delivery process reforms.
+
+2253\. Annual financial review.
+
+2254\. Assessment of operation and maintenance needs of the Atlantic Intracoastal Waterway and the Gulf Intracoastal Waterway.
+
+2255\. Inland waterways riverbank stabilization.
 
         
 
@@ -88,6 +114,8 @@ Sec.
 
 2267a. Watershed and river basin assessments.
 
+2267b. Post-disaster watershed assessments.
+
 2268\. Marine technology review.
 
 2269\. Tribal partnership program.
@@ -106,9 +134,17 @@ Sec.
 
 2282b. Submission of reports to Congress.
 
+2282c. Vertical integration and acceleration of studies.
+
+2282d. Annual report to Congress.
+
 2283\. Fish and wildlife mitigation.
 
 2283a. Status report.
+
+2283b. Clarification of mitigation authority.
+
+2283c. Technical assistance.
 
 2284\. Benefits and costs attributable to environmental measures.
 
@@ -122,7 +158,7 @@ Sec.
 
 2287\. Continued planning and investigations.
 
-2288\. Review of cost effectiveness of design.
+2288\. Repealed.
 
 2289\. Urban and rural flood control frequency.
 
@@ -184,7 +220,11 @@ Sec.
 
 2314a. Technical assistance program.
 
+2314b. Advanced modeling technologies.
+
 2315\. Periodic statements.
+
+2315a. Transparency in accounting and administrative expenses.
 
 2316\. Environmental protection mission.
 
@@ -204,6 +244,8 @@ Sec.
 
 2321a. Hydroelectric power project uprating.
 
+2321b. Expediting hydropower at Corps of Engineers facilities.
+
 2322\. Single entities.
 
 2323\. Technical assistance to private entities.
@@ -213,6 +255,8 @@ Sec.
 2324\. Reduced pricing for certain water supply storage.
 
 2325\. Voluntary contributions for environmental and recreation projects.
+
+2325a. Authority to accept and use materials and services.
 
 2326\. Regional sediment management.
 
@@ -225,6 +269,8 @@ Sec.
 2327\. Definition of rehabilitation for inland waterway projects.
 
 2328\. Challenge cost-sharing program for management of recreation facilities.
+
+2328a. Special use permits.
 
 2329\. International outreach program.
 
@@ -250,9 +296,13 @@ Sec.
 
 2339\. Assistance programs.
 
+2339a. Cooperative agreements with Indian tribes.
+
 2340\. Revision of project partnership agreement; cost sharing.
 
 2341\. Expedited actions for emergency flood damage reduction.
+
+2341a. Prioritization.
 
 2342\. Access to water resource data.
 
@@ -266,6 +316,16 @@ Sec.
 
 2347\. Coordination and scheduling of Federal, State, and local actions.
 
-2348\. Project streamlining.
+2347a. Determination of project completion.
+
+2348\. Project acceleration.
+
+2349\. Categorical exclusions in emergencies.
+
+2350\. Corrosion prevention.
+
+2351\. Durability, sustainability, and resilience.
+
+2352\. Funding to process permits.
 
         

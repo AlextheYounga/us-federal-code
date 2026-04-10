@@ -68,4 +68,4 @@ Section 117, act Feb. 23, 1927, ch. 169, §38, 44 Stat. 1174, related to invalid
 
 Section 118, act Feb. 23, 1927, ch. 169, §39, 44 Stat. 1174, related to repeal of sections 51–63 and effect of repeal on existing rights.
 
-Section 119, act Feb. 23, 1927, ch. 169, §41, 44 Stat. 1174, related to citation of section 81 et seq. of this title as “Radio Act of 1927.”
+Section 119, act Feb. 23, 1927, ch. 169, §41, 44 Stat. 1174, related to citation of section 81 et seq. of this title as "Radio Act of 1927."

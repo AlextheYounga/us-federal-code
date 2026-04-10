@@ -34,4 +34,4 @@ The use is authorized of such public and reserved lands of the United States as 
 
 The reclamation law, referred to in text preceding subsec. (a), is defined in section 617k of this title.
 
-The Federal Power Act, referred to subsec. (c), which was in the original the “Federal Water Power Act”, is defined in section 617k of this title. For further details, see note set out under section 617k of this title.
+The Federal Power Act, referred to subsec. (c), which was in the original the "Federal Water Power Act", is defined in section 617k of this title. For further details, see note set out under section 617k of this title.

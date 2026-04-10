@@ -1,4 +1,4 @@
-### **CHAPTER 85—DISPOSITION OF DECEASED VETERANS’ PERSONAL PROPERTY**
+### **CHAPTER 85—DISPOSITION OF DECEASED VETERANS' PERSONAL PROPERTY**
 
 #### SUBCHAPTER I—PROPERTY LEFT ON DEPARTMENT FACILITY
 
@@ -50,6 +50,6 @@ Sec.
 
 #### Amendments
 
-**1991**—Pub. L. 102–83, §4(a)(3), (4), Aug. 6, 1991, 105 Stat. 404, substituted “DEPARTMENT” for “VETERANS’ ADMINISTRATION” in headings for subchapters I and II.
+**1991**—Pub. L. 102–83, §4(a)(3), (4), Aug. 6, 1991, 105 Stat. 404, substituted "DEPARTMENT" for "VETERANS' ADMINISTRATION" in headings for subchapters I and II.
 
-Pub. L. 102–40, title III, §305(b)(2), title IV, §402(c)(1), May 7, 1991, 105 Stat. 210, 239, renumbered items 5201 to 5228 as 8501 to 8528, respectively, and substituted “PATIENT” for “INMATE” in heading for subchapter II.
+Pub. L. 102–40, title III, §305(b)(2), title IV, §402(c)(1), May 7, 1991, 105 Stat. 210, 239, renumbered items 5201 to 5228 as 8501 to 8528, respectively, and substituted "PATIENT" for "INMATE" in heading for subchapter II.

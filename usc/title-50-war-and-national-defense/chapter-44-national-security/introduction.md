@@ -108,7 +108,7 @@ Sec.
 
 3074\. Authorization of appropriations.
 
-3075\. “Function” and “Department of Defense” defined.
+3075\. "Function" and "Department of Defense" defined.
 
 3076\. Separability.
 

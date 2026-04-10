@@ -12,4 +12,4 @@ The Fish and Wildlife Coordination Act (48 U.S.C. 401), as amended, referred to 
 
 **1986**—Pub. L. 99–546 inserted provisions which related to transfer of funds for conduct of investigations to Fish and Wildlife Service or to National Marine Fisheries Service.
 
-**1966**—Pub. L. 89–553 substituted “the Fish and Wildlife Coordination Act, as amended” for “the Act of Aug. 14, 1946 (60 Stat. 1080)”.
+**1966**—Pub. L. 89–553 substituted "the Fish and Wildlife Coordination Act, as amended" for "the Act of Aug. 14, 1946 (60 Stat. 1080)".

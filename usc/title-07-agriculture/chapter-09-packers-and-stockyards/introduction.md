@@ -8,7 +8,7 @@ Sec.
 
 182\. Definitions.
 
-183\. When transaction deemed in commerce; “State” defined.
+183\. When transaction deemed in commerce; "State" defined.
 
         
 
@@ -16,7 +16,7 @@ Sec.
 
 #### Part A—General Provisions
 
-191\. “Packer” defined.
+191\. "Packer" defined.
 
 192\. Unlawful practices enumerated.
 
@@ -50,9 +50,9 @@ Sec.
 
 #### SUBCHAPTER III—STOCKYARDS AND STOCKYARD DEALERS
 
-201\. “Stockyard owner”; “stockyard services”; “market agency”; “dealer”; defined.
+201\. "Stockyard owner"; "stockyard services"; "market agency"; "dealer"; defined.
 
-202\. “Stockyard” defined; determination by Secretary as to particular yard.
+202\. "Stockyard" defined; determination by Secretary as to particular yard.
 
 203\. Activity as stockyard dealer or market agency; benefits to business and welfare of stockyard; registration; penalty for failure to register.
 

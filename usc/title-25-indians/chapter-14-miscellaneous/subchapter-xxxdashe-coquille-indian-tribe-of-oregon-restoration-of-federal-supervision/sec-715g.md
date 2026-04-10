@@ -10,4 +10,4 @@ Not later than one hundred and twenty days after the Tribe adopts a constitution
 
 (Pub. L. 101–42, §9, June 28, 1989, 103 Stat. 93.)
 
-[1 So in original. Probably should be “subsection”.](#715g_1)
+[1 So in original. Probably should be "subsection".](#715g_1)

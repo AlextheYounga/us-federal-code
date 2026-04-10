@@ -8,7 +8,7 @@ Section 491, act Apr. 30, 1900, ch. 339, §2, 31 Stat. 141, gave name Territory 
 
 Section 492, act Apr. 30, 1900, ch. 339, §3, 31 Stat. 141, established a Territorial government with its capital at Honolulu.
 
-Section 493, act Apr. 30, 1900, ch. 339, §1, 31 Stat. 141, defined “the laws of Hawaii” as used in this chapter.
+Section 493, act Apr. 30, 1900, ch. 339, §1, 31 Stat. 141, defined "the laws of Hawaii" as used in this chapter.
 
 Section 494, act Apr. 30, 1900, ch. 339, §4, 31 Stat. 141, granted United States citizenship to citizens of former Republic of Hawaii and Territorial citizenship to United States citizens resident in Territory under certain conditions.
 
@@ -22,7 +22,7 @@ Section 498, act Apr. 30, 1900, ch. 339, §102, 31 Stat. 161, related to abolish
 
 Section 499, Joint Res. July 7, 1898, No. 55, §1, 30 Stat. 751, provided for assumption of public debt of Hawaii existing on July 7, 1898, not to exceed $4,000,000.
 
-Section 500, act Apr. 30, 1900, ch. 339, §9, 31 Stat. 143, amended the laws of Hawaii to read “Governor of the Territory” or “Territory” as the context required whenever reference was made to “President of the Republic” or “Republic” in the laws.
+Section 500, act Apr. 30, 1900, ch. 339, §9, 31 Stat. 143, amended the laws of Hawaii to read "Governor of the Territory" or "Territory" as the context required whenever reference was made to "President of the Republic" or "Republic" in the laws.
 
 Section 501, act Apr. 30, 1900, ch. 339, §10, 31 Stat. 143, continued in effect and transferred to Territory of Hawaii prior rights in favor and against the former Republic of Hawaii and preserved all criminal proceedings.
 

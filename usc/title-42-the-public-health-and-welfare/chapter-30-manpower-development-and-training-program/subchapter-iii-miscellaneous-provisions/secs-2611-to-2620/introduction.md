@@ -14,7 +14,7 @@ Section 2616, Pub. L. 87–415, title III, §306, Mar. 15, 1962, 76 Stat. 32; Pu
 
 Section 2617, Pub. L. 87–415, title III, §307, Mar. 15, 1962, 76 Stat. 32, provided that selection of persons for training shall not be contingent upon their membership or non-membership in a labor organization.
 
-Section 2618, Pub. L. 87–415, title III, §308, Mar. 15, 1962, 76 Stat. 32; Pub. L. 90–636, §5(c), Oct. 24, 1968, 82 Stat. 1353, defined “State”.
+Section 2618, Pub. L. 87–415, title III, §308, Mar. 15, 1962, 76 Stat. 32; Pub. L. 90–636, §5(c), Oct. 24, 1968, 82 Stat. 1353, defined "State".
 
 Section 2619, Pub. L. 87–415, title III, §309, as added Pub. L. 90–636, §11, Oct. 24, 1968, 82 Stat. 1354, provided for training and technical assistance.
 

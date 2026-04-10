@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-A nonprofit corporation to be known as the Reagan-Udall Foundation for the Food and Drug Administration (referred to in this part as the “Foundation”) shall be established in accordance with this section. The Foundation shall be headed by an Executive Director, appointed by the members of the Board of Directors under subsection (e).[1](#379dd_1_target) The Foundation shall not be an agency or instrumentality of the United States Government.
+A nonprofit corporation to be known as the Reagan-Udall Foundation for the Food and Drug Administration (referred to in this part as the "Foundation") shall be established in accordance with this section. The Foundation shall be headed by an Executive Director, appointed by the members of the Board of Directors under subsection (e).[1](#379dd_1_target) The Foundation shall not be an agency or instrumentality of the United States Government.
 
 #### (b) Purpose of Foundation
 
@@ -46,7 +46,7 @@ The Foundation shall—
 
 #### (A) In general
 
-The Foundation shall have a Board of Directors (referred to in this part as the “Board”), which shall be composed of ex officio and appointed members in accordance with this subsection. All appointed members of the Board shall be voting members.
+The Foundation shall have a Board of Directors (referred to in this part as the "Board"), which shall be composed of ex officio and appointed members in accordance with this subsection. All appointed members of the Board shall be voting members.
 
 #### (B) Ex officio members
 
@@ -278,4 +278,4 @@ From amounts appropriated to the Food and Drug Administration for each fiscal ye
 
 (June 25, 1938, ch. 675, §770, as added Pub. L. 110–85, title VI, §601(a), Sept. 27, 2007, 121 Stat. 890.)
 
-[1 So in original. Probably should be “subsection (g).”](#379dd_1)
+[1 So in original. Probably should be "subsection (g)."](#379dd_1)

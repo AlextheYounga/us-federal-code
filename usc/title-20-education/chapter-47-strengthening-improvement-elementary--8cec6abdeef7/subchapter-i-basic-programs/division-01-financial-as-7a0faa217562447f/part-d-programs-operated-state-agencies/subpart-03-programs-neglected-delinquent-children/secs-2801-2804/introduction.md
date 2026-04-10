@@ -14,4 +14,4 @@ A prior section 2802, Pub. L. 89–10, title I, §162, as added Pub. L. 95–561
 
 Section 2803, Pub. L. 89–10, title I, §1243, as added Pub. L. 100–297, title I, §1001, Apr. 28, 1988, 102 Stat. 185, related to transition services.
 
-Section 2804, Pub. L. 89–10, title I, §1244, as added Pub. L. 100–297, title I, §1001, Apr. 28, 1988, 102 Stat. 185, defined “institution for delinquent children” and “institution for neglected children”.
+Section 2804, Pub. L. 89–10, title I, §1244, as added Pub. L. 100–297, title I, §1001, Apr. 28, 1988, 102 Stat. 185, defined "institution for delinquent children" and "institution for neglected children".

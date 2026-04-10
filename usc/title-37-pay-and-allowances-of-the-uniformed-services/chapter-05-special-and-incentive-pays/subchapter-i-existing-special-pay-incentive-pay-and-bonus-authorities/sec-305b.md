@@ -10,6 +10,6 @@
 
 (d) Regulations.—Special pay under this section shall be provided in accordance with regulations prescribed by the Secretary of Defense.
 
-(e) Definition.—In this section, the term “Weapons of Mass Destruction Civil Support Team” means a team of members of the reserve components of the armed forces that is established under section 12310(c) of title 10 in support of emergency preparedness programs to prepare for or to respond to any emergency involving the use of a weapon of mass destruction.
+(e) Definition.—In this section, the term "Weapons of Mass Destruction Civil Support Team" means a team of members of the reserve components of the armed forces that is established under section 12310(c) of title 10 in support of emergency preparedness programs to prepare for or to respond to any emergency involving the use of a weapon of mass destruction.
 
 (Added Pub. L. 108–136, div. A, title VI, §624(a), Nov. 24, 2003, 117 Stat. 1505.)

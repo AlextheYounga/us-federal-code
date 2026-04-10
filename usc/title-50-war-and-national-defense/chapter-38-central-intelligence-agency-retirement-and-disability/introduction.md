@@ -126,9 +126,9 @@ Sec.
 
         
 
-#### SUBCHAPTER III—PARTICIPATION IN FEDERAL EMPLOYEES’ RETIREMENT SYSTEM
+#### SUBCHAPTER III—PARTICIPATION IN FEDERAL EMPLOYEES' RETIREMENT SYSTEM
 
-2151\. Application of Federal Employees’ Retirement System to Agency employees.
+2151\. Application of Federal Employees' Retirement System to Agency employees.
 
 2152\. Special rules relating to section 2013 criteria employees.
 

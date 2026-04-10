@@ -22,7 +22,7 @@ Each State office established pursuant to subsection (a) of this section shall�
 
 #### References in Text
 
-Section 12653a of this title, referred to in subsec. (b)(2), was in the original “section 198A”, meaning section 198A of Pub. L. 101–610, as added by section 104(c) of Pub. L. 103–82, which was repealed, and section 198B was redesignated section 198A, by Pub. L. 111–13, title I, §1803(a)(1), (b), Apr. 21, 2009, 123 Stat. 1554. Provisions similar to section 12653a are now contained in section 12653o of this title.
+Section 12653a of this title, referred to in subsec. (b)(2), was in the original "section 198A", meaning section 198A of Pub. L. 101–610, as added by section 104(c) of Pub. L. 103–82, which was repealed, and section 198B was redesignated section 198A, by Pub. L. 111–13, title I, §1803(a)(1), (b), Apr. 21, 2009, 123 Stat. 1554. Provisions similar to section 12653a are now contained in section 12653o of this title.
 
 #### Effective Date
 

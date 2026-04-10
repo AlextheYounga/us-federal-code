@@ -30,7 +30,7 @@ In the case of a taxpayer other than a corporation, the tentative minimum tax fo
 
 #### (ii) Taxable excess
 
-For purposes of this subsection, the term “taxable excess” means so much of the alternative minimum taxable income for the taxable year as exceeds the exemption amount.
+For purposes of this subsection, the term "taxable excess" means so much of the alternative minimum taxable income for the taxable year as exceeds the exemption amount.
 
 #### (iii) Married individual filing separate return
 
@@ -46,7 +46,7 @@ In the case of a corporation, the tentative minimum tax for the taxable year is�
 
 #### (2) Alternative minimum taxable income
 
-The term “alternative minimum taxable income” means the taxable income of the taxpayer for the taxable year—
+The term "alternative minimum taxable income" means the taxable income of the taxpayer for the taxable year—
 
 (A) determined with the adjustments provided in section 56 and section 58, and
 
@@ -106,7 +106,7 @@ Any term used in this paragraph which is also used in section 1201 shall have th
 
 #### (1) In general
 
-For purposes of this section, the term “regular tax” means the regular tax liability for the taxable year (as defined in section 26(b)) reduced by the foreign tax credit allowable under section 27(a), the section 936 credit allowable under section 27(b), and the Puerto Rico economic activity credit under section 30A. Such term shall not include any increase in tax under section 45(e)(11)(C), 49(b) or 50(a) or subsection (j) or (k) of section 42.
+For purposes of this section, the term "regular tax" means the regular tax liability for the taxable year (as defined in section 26(b)) reduced by the foreign tax credit allowable under section 27(a), the section 936 credit allowable under section 27(b), and the Puerto Rico economic activity credit under section 30A. Such term shall not include any increase in tax under section 45(e)(11)(C), 49(b) or 50(a) or subsection (j) or (k) of section 42.
 
 #### (2) Coordination with income averaging for farmers and fishermen
 
@@ -122,7 +122,7 @@ For purposes of this section—
 
 #### (1) Exemption amount for taxpayers other than corporations
 
-In the case of a taxpayer other than a corporation, the term “exemption amount” means—
+In the case of a taxpayer other than a corporation, the term "exemption amount" means—
 
 (A) $78,750 in the case of—
 
@@ -146,11 +146,11 @@ In the case of a taxpayer other than a corporation, the term “exemption amount
 
   
 
-For purposes of this paragraph, the term “surviving spouse” has the meaning given to such term by section 2(a), and marital status shall be determined under section 7703.
+For purposes of this paragraph, the term "surviving spouse" has the meaning given to such term by section 2(a), and marital status shall be determined under section 7703.
 
 #### (2) Corporations
 
-In the case of a corporation, the term “exemption amount” means $40,000.
+In the case of a corporation, the term "exemption amount" means $40,000.
 
 #### (3) Phase-out of exemption amount
 
@@ -176,7 +176,7 @@ In the case of any taxable year beginning in a calendar year after 2012, the amo
 
 (i) such dollar amount, multiplied by
 
-(ii) the cost-of-living adjustment determined under section 1(f)(3) for the calendar year in which the taxable year begins, determined by substituting “calendar year 2011” for “calendar year 1992” in subparagraph (B) thereof.
+(ii) the cost-of-living adjustment determined under section 1(f)(3) for the calendar year in which the taxable year begins, determined by substituting "calendar year 2011" for "calendar year 1992" in subparagraph (B) thereof.
 
 #### (B) Amounts described
 
@@ -202,7 +202,7 @@ The tentative minimum tax of a corporation shall be zero for any taxable year if
 
 #### (B) $5,000,000 gross receipts test for first 3-year period
 
-Subparagraph (A) shall be applied by substituting “$5,000,000” for “$7,500,000” for the first 3-taxable-year period (or portion thereof) of the corporation which is taken into account under subparagraph (A).
+Subparagraph (A) shall be applied by substituting "$5,000,000" for "$7,500,000" for the first 3-taxable-year period (or portion thereof) of the corporation which is taken into account under subparagraph (A).
 
 #### (C) First taxable year corporation in existence
 
@@ -222,13 +222,13 @@ In the case of a corporation whose tentative minimum tax is zero for any prior t
 
 (C) Section 56(a)(3) (relating to treatment of long-term contracts) shall apply only to contracts entered into on or after the change date.
 
-(D) Section 56(a)(4) (relating to alternative net operating loss deduction) shall apply in the same manner as if, in section 56(d)(2), the change date were substituted for “January 1, 1987” and the day before the change date were substituted for “December 31, 1986” each place it appears.
+(D) Section 56(a)(4) (relating to alternative net operating loss deduction) shall apply in the same manner as if, in section 56(d)(2), the change date were substituted for "January 1, 1987" and the day before the change date were substituted for "December 31, 1986" each place it appears.
 
 (E) Section 56(g)(2)(B) (relating to limitation on allowance of negative adjustments based on adjusted current earnings) shall apply only to prior taxable years beginning on or after the change date.
 
 (F) Section 56(g)(4)(A) (relating to adjustment for depreciation to adjusted current earnings) shall not apply.
 
-(G) Subparagraphs (D) and (F) of section 56(g)(4) (relating to other earnings and profits adjustments and depletion) shall apply in the same manner as if the day before the change date were substituted for “December 31, 1989” each place it appears therein.
+(G) Subparagraphs (D) and (F) of section 56(g)(4) (relating to other earnings and profits adjustments and depletion) shall apply in the same manner as if the day before the change date were substituted for "December 31, 1989" each place it appears therein.
 
 #### (3) Exception
 
@@ -266,173 +266,173 @@ A prior section 55, Pub. L. 95–600, title IV, §421(a), Nov. 6, 1978, 92 Stat.
 
 #### Amendments
 
-**2013**—Subsec. (b)(1)(A)(iii). Pub. L. 112–240, §104(b)(2)(A), substituted “by substituting 50 percent of the dollar amount otherwise applicable under subclause (I) and subclause (II) thereof.” for “by substituting ‘$87,500’ for ‘$175,000’ each place it appears.”
+**2013**—Subsec. (b)(1)(A)(iii). Pub. L. 112–240, §104(b)(2)(A), substituted "by substituting 50 percent of the dollar amount otherwise applicable under subclause (I) and subclause (II) thereof." for "by substituting '$87,500' for '$175,000' each place it appears."
 
-Subsec. (b)(3)(B). Pub. L. 112–240, §102(c)(2), substituted “0 percent” for “5 percent (0 percent in the case of taxable years beginning after 2007)”.
+Subsec. (b)(3)(B). Pub. L. 112–240, §102(c)(2), substituted "0 percent" for "5 percent (0 percent in the case of taxable years beginning after 2007)".
 
-Subsec. (b)(3)(C) to (E). Pub. L. 112–240, §102(b)(2), added subpars. (C) and (D), redesignated former subpar. (D) as (E), and struck out former subpar. (C) which read as follows: “15 percent of the adjusted net capital gain (or, if less, taxable excess) in excess of the amount on which tax is determined under subparagraph (B), plus”.
+Subsec. (b)(3)(C) to (E). Pub. L. 112–240, §102(b)(2), added subpars. (C) and (D), redesignated former subpar. (D) as (E), and struck out former subpar. (C) which read as follows: "15 percent of the adjusted net capital gain (or, if less, taxable excess) in excess of the amount on which tax is determined under subparagraph (B), plus".
 
-Subsec. (c)(3). Pub. L. 112–240, §104(c)(2)(J), substituted “30C(d)(2)” for “26(a), 30C(d)(2),”.
+Subsec. (c)(3). Pub. L. 112–240, §104(c)(2)(J), substituted "30C(d)(2)" for "26(a), 30C(d)(2),".
 
-Subsec. (d)(1)(A). Pub. L. 112–240, §104(a)(1)(A), in introductory provisions, substituted “$78,750” for “$45,000 ($72,450 in the case of taxable years beginning in 2010 and $74,450 in the case of taxable years beginning in 2011)”.
+Subsec. (d)(1)(A). Pub. L. 112–240, §104(a)(1)(A), in introductory provisions, substituted "$78,750" for "$45,000 ($72,450 in the case of taxable years beginning in 2010 and $74,450 in the case of taxable years beginning in 2011)".
 
-Subsec. (d)(1)(B). Pub. L. 112–240, §104(a)(1)(B), in introductory provisions, substituted “$50,600” for “$33,750 ($47,450 in the case of taxable years beginning in 2010 and $48,450 in the case of taxable years beginning in 2011)”.
+Subsec. (d)(1)(B). Pub. L. 112–240, §104(a)(1)(B), in introductory provisions, substituted "$50,600" for "$33,750 ($47,450 in the case of taxable years beginning in 2010 and $48,450 in the case of taxable years beginning in 2011)".
 
-Subsec. (d)(1)(C). Pub. L. 112–240, §104(a)(1)(C), substituted “subparagraph (A)” for “paragraph (1)(A)”.
+Subsec. (d)(1)(C). Pub. L. 112–240, §104(a)(1)(C), substituted "subparagraph (A)" for "paragraph (1)(A)".
 
-Subsec. (d)(3)(A). Pub. L. 112–240, §104(b)(2)(B)(i), struck out “or (2)” after “paragraph (1)(A)”.
+Subsec. (d)(3)(A). Pub. L. 112–240, §104(b)(2)(B)(i), struck out "or (2)" after "paragraph (1)(A)".
 
-Subsec. (d)(3)(C), (D). Pub. L. 112–240, §104(b)(2)(B)(ii), (iii), added subpars. (C) and (D) and struck out former subpar. (C) which read as follows: “$75,000 in the case of a taxpayer described in subparagraph (C) or (D) of paragraph (1).”
+Subsec. (d)(3)(C), (D). Pub. L. 112–240, §104(b)(2)(B)(ii), (iii), added subpars. (C) and (D) and struck out former subpar. (C) which read as follows: "$75,000 in the case of a taxpayer described in subparagraph (C) or (D) of paragraph (1)."
 
 Subsec. (d)(4). Pub. L. 112–240, §104(b)(1), added par. (4).
 
-**2010**—Subsec. (d)(1)(A). Pub. L. 111–312, §201(a)(1), substituted “$72,450 in the case of taxable years beginning in 2010 and $74,450 in the case of taxable years beginning in 2011” for “$70,950 in the case of taxable years beginning in 2009”.
+**2010**—Subsec. (d)(1)(A). Pub. L. 111–312, §201(a)(1), substituted "$72,450 in the case of taxable years beginning in 2010 and $74,450 in the case of taxable years beginning in 2011" for "$70,950 in the case of taxable years beginning in 2009".
 
-Subsec. (d)(1)(B). Pub. L. 111–312, §201(a)(2), substituted “$47,450 in the case of taxable years beginning in 2010 and $48,450 in the case of taxable years beginning in 2011” for “$46,700 in the case of taxable years beginning in 2009”.
+Subsec. (d)(1)(B). Pub. L. 111–312, §201(a)(2), substituted "$47,450 in the case of taxable years beginning in 2010 and $48,450 in the case of taxable years beginning in 2011" for "$46,700 in the case of taxable years beginning in 2009".
 
-Subsec. (e)(5). Pub. L. 111–240 substituted “38(c)(6)(B)” for “38(c)(3)(B)”.
+Subsec. (e)(5). Pub. L. 111–240 substituted "38(c)(6)(B)" for "38(c)(3)(B)".
 
-**2009**—Subsec. (c)(3). Pub. L. 111–5, §1144(b)(3), struck out “30B(g)(2),” after “sections 26(a),”.
+**2009**—Subsec. (c)(3). Pub. L. 111–5, §1144(b)(3), struck out "30B(g)(2)," after "sections 26(a),".
 
-Pub. L. 111–5, §1142(b)(5), struck out “30(b)(3),” after “sections 26(a),”.
+Pub. L. 111–5, §1142(b)(5), struck out "30(b)(3)," after "sections 26(a),".
 
-Subsec. (d)(1)(A). Pub. L. 111–5, §1012(a)(1), substituted “($70,950 in the case of taxable years beginning in 2009)” for “($69,950 in the case of taxable years beginning in 2008)”.
+Subsec. (d)(1)(A). Pub. L. 111–5, §1012(a)(1), substituted "($70,950 in the case of taxable years beginning in 2009)" for "($69,950 in the case of taxable years beginning in 2008)".
 
-Subsec. (d)(1)(B). Pub. L. 111–5, §1012(a)(2), substituted “($46,700 in the case of taxable years beginning in 2009)” for “($46,200 in the case of taxable years beginning in 2008)”.
+Subsec. (d)(1)(B). Pub. L. 111–5, §1012(a)(2), substituted "($46,700 in the case of taxable years beginning in 2009)" for "($46,200 in the case of taxable years beginning in 2008)".
 
 **2008**—Subsec. (b)(4). Pub. L. 110–246, §15311(b), added par. (4).
 
-Subsec. (d)(1)(A). Pub. L. 110–343, §102(a)(1), substituted “($69,950 in the case of taxable years beginning in 2008)” for “($66,250 in the case of taxable years beginning in 2007)”.
+Subsec. (d)(1)(A). Pub. L. 110–343, §102(a)(1), substituted "($69,950 in the case of taxable years beginning in 2008)" for "($66,250 in the case of taxable years beginning in 2007)".
 
-Subsec. (d)(1)(B). Pub. L. 110–343, §102(a)(2), substituted “($46,200 in the case of taxable years beginning in 2008)” for “($44,350 in the case of taxable years beginning in 2007)”.
+Subsec. (d)(1)(B). Pub. L. 110–343, §102(a)(2), substituted "($46,200 in the case of taxable years beginning in 2008)" for "($44,350 in the case of taxable years beginning in 2007)".
 
-**2007**—Subsec. (d)(1)(A). Pub. L. 110–166, §2(a)(1), substituted “($66,250 in the case of taxable years beginning in 2007)” for “($62,550 in the case of taxable years beginning in 2006)”.
+**2007**—Subsec. (d)(1)(A). Pub. L. 110–166, §2(a)(1), substituted "($66,250 in the case of taxable years beginning in 2007)" for "($62,550 in the case of taxable years beginning in 2006)".
 
-Subsec. (d)(1)(B). Pub. L. 110–166, §2(a)(2), substituted “($44,350 in the case of taxable years beginning in 2007)” for “($42,500 in the case of taxable years beginning in 2006)”.
+Subsec. (d)(1)(B). Pub. L. 110–166, §2(a)(2), substituted "($44,350 in the case of taxable years beginning in 2007)" for "($42,500 in the case of taxable years beginning in 2006)".
 
-**2006**—Subsec. (d)(1)(A). Pub. L. 109–222, §301(a)(1), substituted “$62,550 in the case of taxable years beginning in 2006” for “$58,000 in the case of taxable years beginning in 2003, 2004, and 2005”.
+**2006**—Subsec. (d)(1)(A). Pub. L. 109–222, §301(a)(1), substituted "$62,550 in the case of taxable years beginning in 2006" for "$58,000 in the case of taxable years beginning in 2003, 2004, and 2005".
 
-Subsec. (d)(1)(B). Pub. L. 109–222, §301(a)(2), substituted “$42,500 in the case of taxable years beginning in 2006” for “$40,250 in the case of taxable years beginning in 2003, 2004, and 2005”.
+Subsec. (d)(1)(B). Pub. L. 109–222, §301(a)(2), substituted "$42,500 in the case of taxable years beginning in 2006" for "$40,250 in the case of taxable years beginning in 2003, 2004, and 2005".
 
-**2005**—Subsec. (c)(1). Pub. L. 109–58, §1302(b), which directed amendment of par. (1) by inserting “45(e)(11)(C),” after “section” in last sentence, was executed by making the insertion after “section” the first place it appeared in last sentence, to reflect the probable intent of Congress.
+**2005**—Subsec. (c)(1). Pub. L. 109–58, §1302(b), which directed amendment of par. (1) by inserting "45(e)(11)(C)," after "section" in last sentence, was executed by making the insertion after "section" the first place it appeared in last sentence, to reflect the probable intent of Congress.
 
-Subsec. (c)(2). Pub. L. 109–135, §403(h), substituted “regular tax liability” for “regular tax”.
+Subsec. (c)(2). Pub. L. 109–135, §403(h), substituted "regular tax liability" for "regular tax".
 
-Pub. L. 109–58, §1342(b)(3), which directed amendment of par. (2) by inserting “30C(d)(2),” after “30B(g)(2),”, was repealed by Pub. L. 109–135, §412(p)(3).
+Pub. L. 109–58, §1342(b)(3), which directed amendment of par. (2) by inserting "30C(d)(2)," after "30B(g)(2),", was repealed by Pub. L. 109–135, §412(p)(3).
 
-Pub. L. 109–58, §1341(b)(3), which directed amendment of par. (2) by inserting “30B(g)(2),” after “30(b)(2),”, was repealed by Pub. L. 109–135, §412(p)(2).
+Pub. L. 109–58, §1341(b)(3), which directed amendment of par. (2) by inserting "30B(g)(2)," after "30(b)(2),", was repealed by Pub. L. 109–135, §412(p)(2).
 
-Subsec. (c)(3). Pub. L. 109–135, §412(p)(1), inserted “30B(g)(2), 30C(d)(2),” after “30(b)(3),”.
+Subsec. (c)(3). Pub. L. 109–135, §412(p)(1), inserted "30B(g)(2), 30C(d)(2)," after "30(b)(3),".
 
-Pub. L. 109–58, §1322(a)(3)(H), struck out “29(b)(6),” after “26(a),”.
+Pub. L. 109–58, §1322(a)(3)(H), struck out "29(b)(6)," after "26(a),".
 
-**2004**—Subsec. (b)(3)(B). Pub. L. 108–311, §406(d), substituted “an amount equal to the excess described in” for “the amount on which a tax is determined under”.
+**2004**—Subsec. (b)(3)(B). Pub. L. 108–311, §406(d), substituted "an amount equal to the excess described in" for "the amount on which a tax is determined under".
 
 Subsec. (c)(2), (3). Pub. L. 108–357 added par. (2) and redesignated former par. (2) as (3).
 
-Subsec. (d)(1)(A), (B). Pub. L. 108–311, §103(a), substituted “2003, 2004, and 2005” for “2003 and 2004”.
+Subsec. (d)(1)(A), (B). Pub. L. 108–311, §103(a), substituted "2003, 2004, and 2005" for "2003 and 2004".
 
-**2003**—Subsec. (b)(3). Pub. L. 108–27, §301(b)(2), struck out first sentence of concluding provisions which read as follows: “In the case of taxable years beginning after December 31, 2000, rules similar to the rules of section 1(h)(2) shall apply for purposes of subparagraphs (B) and (C).”
+**2003**—Subsec. (b)(3). Pub. L. 108–27, §301(b)(2), struck out first sentence of concluding provisions which read as follows: "In the case of taxable years beginning after December 31, 2000, rules similar to the rules of section 1(h)(2) shall apply for purposes of subparagraphs (B) and (C)."
 
-Subsec. (b)(3)(B). Pub. L. 108–27, §301(a)(1), substituted “5 percent (0 percent in the case of taxable years beginning after 2007)” for “10 percent”.
+Subsec. (b)(3)(B). Pub. L. 108–27, §301(a)(1), substituted "5 percent (0 percent in the case of taxable years beginning after 2007)" for "10 percent".
 
-Subsec. (b)(3)(C). Pub. L. 108–27, §301(a)(2)(B), substituted “15 percent” for “20 percent”.
+Subsec. (b)(3)(C). Pub. L. 108–27, §301(a)(2)(B), substituted "15 percent" for "20 percent".
 
-Subsec. (d)(1)(A). Pub. L. 108–27, §106(a)(1), substituted “$58,000 in the case of taxable years beginning in 2003 and 2004” for “$49,000 in the case of taxable years beginning in 2001, 2002, 2003, and 2004”.
+Subsec. (d)(1)(A). Pub. L. 108–27, §106(a)(1), substituted "$58,000 in the case of taxable years beginning in 2003 and 2004" for "$49,000 in the case of taxable years beginning in 2001, 2002, 2003, and 2004".
 
-Subsec. (d)(1)(B). Pub. L. 108–27, §106(a)(2), substituted “$40,250 in the case of taxable years beginning in 2003 and 2004” for “$35,750 in the case of taxable years beginning in 2001, 2002, 2003, and 2004”.
+Subsec. (d)(1)(B). Pub. L. 108–27, §106(a)(2), substituted "$40,250 in the case of taxable years beginning in 2003 and 2004" for "$35,750 in the case of taxable years beginning in 2001, 2002, 2003, and 2004".
 
-**2001**—Subsec. (d)(1)(A). Pub. L. 107–16, §701(a)(1), substituted “$45,000 ($49,000 in the case of taxable years beginning in 2001, 2002, 2003, and 2004)” for “$45,000”.
+**2001**—Subsec. (d)(1)(A). Pub. L. 107–16, §701(a)(1), substituted "$45,000 ($49,000 in the case of taxable years beginning in 2001, 2002, 2003, and 2004)" for "$45,000".
 
-Subsec. (d)(1)(B). Pub. L. 107–16, §701(b)(1), struck out “and” at end.
+Subsec. (d)(1)(B). Pub. L. 107–16, §701(b)(1), struck out "and" at end.
 
-Pub. L. 107–16, §701(a)(2), substituted “$33,750 ($35,750 in the case of taxable years beginning in 2001, 2002, 2003, and 2004)” for “$33,750”.
+Pub. L. 107–16, §701(a)(2), substituted "$33,750 ($35,750 in the case of taxable years beginning in 2001, 2002, 2003, and 2004)" for "$33,750".
 
-Subsec. (d)(1)(C), (D). Pub. L. 107–16, §701(b)(1), added subpars. (C) and (D) and struck out former subpar. (C) which read as follows: “$22,500 in the case of—
+Subsec. (d)(1)(C), (D). Pub. L. 107–16, §701(b)(1), added subpars. (C) and (D) and struck out former subpar. (C) which read as follows: "$22,500 in the case of—
 
-“(i) a married individual who files a separate return, or
+"(i) a married individual who files a separate return, or
 
-“(ii) an estate or trust.”
+"(ii) an estate or trust."
 
-Subsec. (d)(3). Pub. L. 107–16, §701(b)(3), in concluding provisions, substituted “paragraph (1)(C)” for “paragraph (1)(C)(i)” and “the minimum amount of such income (as so determined) for which the exemption amount under paragraph (1)(C) is zero, or (ii) such exemption amount (determined without regard to this paragraph)” for “$165,000 or (ii) $22,500”.
+Subsec. (d)(3). Pub. L. 107–16, §701(b)(3), in concluding provisions, substituted "paragraph (1)(C)" for "paragraph (1)(C)(i)" and "the minimum amount of such income (as so determined) for which the exemption amount under paragraph (1)(C) is zero, or (ii) such exemption amount (determined without regard to this paragraph)" for "$165,000 or (ii) $22,500".
 
-Subsec. (d)(3)(C). Pub. L. 107–16, §701(b)(2), substituted “subparagraph (C) or (D) of paragraph (1)” for “paragraph (1)(C)”.
+Subsec. (d)(3)(C). Pub. L. 107–16, §701(b)(2), substituted "subparagraph (C) or (D) of paragraph (1)" for "paragraph (1)(C)".
 
-**1998**—Subsec. (b)(3). Pub. L. 105–206, §6005(d)(2), reenacted par. heading without change and amended text of par. (3) generally. Prior to amendment, text read as follows: “The amount determined under the first sentence of paragraph (1)(A)(i) shall not exceed the sum of—
+**1998**—Subsec. (b)(3). Pub. L. 105–206, §6005(d)(2), reenacted par. heading without change and amended text of par. (3) generally. Prior to amendment, text read as follows: "The amount determined under the first sentence of paragraph (1)(A)(i) shall not exceed the sum of—
 
-“(A) the amount determined under such first sentence computed at the rates and in the same manner as if this paragraph had not been enacted on the taxable excess reduced by the lesser of—
+"(A) the amount determined under such first sentence computed at the rates and in the same manner as if this paragraph had not been enacted on the taxable excess reduced by the lesser of—
 
-“(i) the net capital gain, or
+"(i) the net capital gain, or
 
-“(ii) the sum of—
+"(ii) the sum of—
 
-“(I) the adjusted net capital gain, plus
+"(I) the adjusted net capital gain, plus
 
-“(II) the unrecaptured section 1250 gain, plus
+"(II) the unrecaptured section 1250 gain, plus
 
-“(B) 25 percent of the lesser of—
+"(B) 25 percent of the lesser of—
 
-“(i) the unrecaptured section 1250 gain, or
+"(i) the unrecaptured section 1250 gain, or
 
-“(ii) the amount of taxable excess in excess of the sum of—
+"(ii) the amount of taxable excess in excess of the sum of—
 
-“(I) the adjusted net capital gain, plus
+"(I) the adjusted net capital gain, plus
 
-“(II) the amount on which a tax is determined under subparagraph (A), plus
+"(II) the amount on which a tax is determined under subparagraph (A), plus
 
-“(C) 10 percent of so much of the taxpayer's adjusted net capital gain (or, if less, taxable excess) as does not exceed the amount on which a tax is determined under section 1(h)(1)(D), plus
+"(C) 10 percent of so much of the taxpayer's adjusted net capital gain (or, if less, taxable excess) as does not exceed the amount on which a tax is determined under section 1(h)(1)(D), plus
 
-“(D) 20 percent of the taxpayer's adjusted net capital gain (or, if less, taxable excess) in excess of the amount on which tax is determined under subparagraph (C).
+"(D) 20 percent of the taxpayer's adjusted net capital gain (or, if less, taxable excess) in excess of the amount on which tax is determined under subparagraph (C).
 
-In the case of taxable years beginning after December 31, 2000, rules similar to the rules of section 1(h)(2) shall apply for purposes of subparagraphs (C) and (D). Terms used in this paragraph which are also used in section 1(h) shall have the respective meanings given such terms by section 1(h).”
+In the case of taxable years beginning after December 31, 2000, rules similar to the rules of section 1(h)(2) shall apply for purposes of subparagraphs (C) and (D). Terms used in this paragraph which are also used in section 1(h) shall have the respective meanings given such terms by section 1(h)."
 
-Subsec. (e)(1). Pub. L. 105–206, §6006(a), reenacted par. heading without change and amended text of par. (1) generally. Prior to amendment, text read as follows: “The tentative minimum tax of a corporation shall be zero for any taxable year if—
+Subsec. (e)(1). Pub. L. 105–206, §6006(a), reenacted par. heading without change and amended text of par. (1) generally. Prior to amendment, text read as follows: "The tentative minimum tax of a corporation shall be zero for any taxable year if—
 
-“(A) such corporation met the $5,000,000 gross receipts test of section 448(c) for its first taxable year beginning after December 31, 1996, and
+"(A) such corporation met the $5,000,000 gross receipts test of section 448(c) for its first taxable year beginning after December 31, 1996, and
 
-“(B) such corporation would meet such test for the taxable year and all prior taxable years beginning after such first taxable year if such test were applied by substituting ‘$7,500,000’ for ‘$5,000,000’.”
+"(B) such corporation would meet such test for the taxable year and all prior taxable years beginning after such first taxable year if such test were applied by substituting '$7,500,000' for '$5,000,000'."
 
-**1997**—Subsec. (b)(1)(A)(ii). Pub. L. 105–34, §311(b)(2)(A), substituted “this subsection” for “clause (i)”.
+**1997**—Subsec. (b)(1)(A)(ii). Pub. L. 105–34, §311(b)(2)(A), substituted "this subsection" for "clause (i)".
 
 Subsec. (b)(3). Pub. L. 105–34, §311(b)(1), added par. (3).
 
-Subsec. (c)(1). Pub. L. 105–34, §1601(f)(1)(C), substituted “Puerto Rico” for “Puerto Rican”.
+Subsec. (c)(1). Pub. L. 105–34, §1601(f)(1)(C), substituted "Puerto Rico" for "Puerto Rican".
 
 Subsec. (e). Pub. L. 105–34, §401(a), added subsec. (e).
 
-**1996**—Subsec. (c)(1). Pub. L. 104–188, §1601(b)(2)(A), substituted “, the section 936 credit allowable under section 27(b), and the Puerto Rican economic activity credit under section 30A” for “and the section 936 credit allowable under section 27(b)”.
+**1996**—Subsec. (c)(1). Pub. L. 104–188, §1601(b)(2)(A), substituted ", the section 936 credit allowable under section 27(b), and the Puerto Rican economic activity credit under section 30A" for "and the section 936 credit allowable under section 27(b)".
 
-Pub. L. 104–188, §1401(b)(3), struck out “shall not include any tax imposed by section 402(d) and” before “shall not include any increase in tax under section 49(b)”.
+Pub. L. 104–188, §1401(b)(3), struck out "shall not include any tax imposed by section 402(d) and" before "shall not include any increase in tax under section 49(b)".
 
-Subsec. (c)(2). Pub. L. 104–188, §1205(d)(6), struck out “28(d)(2),” after “26(a),”.
+Subsec. (c)(2). Pub. L. 104–188, §1205(d)(6), struck out "28(d)(2)," after "26(a),".
 
-**1993**—Subsec. (b)(1). Pub. L. 103–66, §13203(a), amended heading and text of par. (1) generally. Prior to amendment, text read as follows: “The tentative minimum tax for the taxable year is—
+**1993**—Subsec. (b)(1). Pub. L. 103–66, §13203(a), amended heading and text of par. (1) generally. Prior to amendment, text read as follows: "The tentative minimum tax for the taxable year is—
 
-“(A) 20 percent (24 percent in the case of a taxpayer other than a corporation) of so much of the alternative minimum taxable income for the taxable year as exceeds the exemption amount, reduced by
+"(A) 20 percent (24 percent in the case of a taxpayer other than a corporation) of so much of the alternative minimum taxable income for the taxable year as exceeds the exemption amount, reduced by
 
-“(B) the alternative minimum tax foreign tax credit for the taxable year.”
+"(B) the alternative minimum tax foreign tax credit for the taxable year."
 
-Subsec. (d)(1). Pub. L. 103–66, §13203(b), substituted “$45,000” for “$40,000” in subpar. (A), “$33,750” for “$30,000” in subpar. (B), and “$22,500” for “$20,000” in subpar. (C).
+Subsec. (d)(1). Pub. L. 103–66, §13203(b), substituted "$45,000" for "$40,000" in subpar. (A), "$33,750" for "$30,000" in subpar. (B), and "$22,500" for "$20,000" in subpar. (C).
 
-Subsec. (d)(3). Pub. L. 103–66, §13203(c)(1), substituted “$165,000 or (ii) $22,500” for “$155,000 or (ii) $20,000” in last sentence.
+Subsec. (d)(3). Pub. L. 103–66, §13203(c)(1), substituted "$165,000 or (ii) $22,500" for "$155,000 or (ii) $20,000" in last sentence.
 
-**1992**—Subsec. (c)(1). Pub. L. 102–318 substituted “402(d)” for “402(e)”.
+**1992**—Subsec. (c)(1). Pub. L. 102–318 substituted "402(d)" for "402(e)".
 
-Subsec. (c)(2). Pub. L. 102–486 substituted “29(b)(6), 30(b)(3),” for “29(b)(5),”.
+Subsec. (c)(2). Pub. L. 102–486 substituted "29(b)(6), 30(b)(3)," for "29(b)(5),".
 
-**1990**—Subsec. (b)(1)(A). Pub. L. 101–508, §11102(a), substituted “24 percent” for “21 percent”.
+**1990**—Subsec. (b)(1)(A). Pub. L. 101–508, §11102(a), substituted "24 percent" for "21 percent".
 
-Subsec. (c)(1). Pub. L. 101–508, §11813(b)(5), substituted “section 49(b) or 50(a)” for “section 47”.
+Subsec. (c)(1). Pub. L. 101–508, §11813(b)(5), substituted "section 49(b) or 50(a)" for "section 47".
 
-**1988**—Subsec. (b)(2). Pub. L. 100–647, §1007(a)(2), inserted at end “If a taxpayer is subject to the regular tax, such taxpayer shall be subject to the tax imposed by this section (and, if the regular tax is determined by reference to an amount other than taxable income, such amount shall be treated as the taxable income of such taxpayer for purposes of the preceding sentence).”
+**1988**—Subsec. (b)(2). Pub. L. 100–647, §1007(a)(2), inserted at end "If a taxpayer is subject to the regular tax, such taxpayer shall be subject to the tax imposed by this section (and, if the regular tax is determined by reference to an amount other than taxable income, such amount shall be treated as the taxable income of such taxpayer for purposes of the preceding sentence)."
 
-Subsec. (c)(1). Pub. L. 100–647, §1007(a)(1), inserted “and the section 936 credit allowable under section 27(b)” before period at end of first sentence.
+Subsec. (c)(1). Pub. L. 100–647, §1007(a)(1), inserted "and the section 936 credit allowable under section 27(b)" before period at end of first sentence.
 
-Pub. L. 100–647, §1002(l)(27), substituted “subsection (j) or (k) of section 42” for “section 42(j)”.
+Pub. L. 100–647, §1002(l)(27), substituted "subsection (j) or (k) of section 42" for "section 42(j)".
 
-Subsec. (d)(3). Pub. L. 100–647, §1007(a)(3), inserted at end “In the case of a taxpayer described in paragraph (1)(C)(i), alternative minimum taxable income shall be increased by the lesser of (i) 25 percent of the excess of alternative minimum taxable income (determined without regard to this sentence) over $155,000, or (ii) $20,000.”
+Subsec. (d)(3). Pub. L. 100–647, §1007(a)(3), inserted at end "In the case of a taxpayer described in paragraph (1)(C)(i), alternative minimum taxable income shall be increased by the lesser of (i) 25 percent of the excess of alternative minimum taxable income (determined without regard to this sentence) over $155,000, or (ii) $20,000."
 
-**1986**—Subsec. (c)(1). Pub. L. 99–514, §252(c), inserted “or section 42(j)”.
+**1986**—Subsec. (c)(1). Pub. L. 99–514, §252(c), inserted "or section 42(j)".
 
 #### Effective Date of 2013 Amendment
 
@@ -442,11 +442,11 @@ Amendment by section 104(a), (b), (c)(2)(J) of Pub. L. 112–240 applicable to t
 
 #### Effective Date of 2010 Amendment
 
-Pub. L. 111–312, title II, §201(b), Dec. 17, 2010, 124 Stat. 3299, provided that: “The amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 2009.”
+Pub. L. 111–312, title II, §201(b), Dec. 17, 2010, 124 Stat. 3299, provided that: "The amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 2009."
 
 #### Effective Date of 2009 Amendment
 
-Pub. L. 111–5, div. B, title I, §1012(b), Feb. 17, 2009, 123 Stat. 319, provided that: “The amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 2008.”
+Pub. L. 111–5, div. B, title I, §1012(b), Feb. 17, 2009, 123 Stat. 319, provided that: "The amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 2008."
 
 Amendment by section 1142(b)(5) of Pub. L. 111–5 applicable to vehicles acquired after Feb. 17, 2009, see section 1142(c) of Pub. L. 111–5, set out as an Effective and Termination Dates of 2009 Amendment note under section 24 of this title.
 
@@ -454,21 +454,21 @@ Amendment by section 1144(b)(3) of Pub. L. 111–5 applicable to taxable years b
 
 #### Effective Date of 2008 Amendment
 
-Pub. L. 110–343, div. C, title I, §102(b), Oct. 3, 2008, 122 Stat. 3863, provided that: “The amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 2007.”
+Pub. L. 110–343, div. C, title I, §102(b), Oct. 3, 2008, 122 Stat. 3863, provided that: "The amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 2007."
 
 Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of Title 7, Agriculture.
 
-Pub. L. 110–234, title XV, §15311(d), May 22, 2008, 122 Stat. 1503, and Pub. L. 110–246, §4(a), title XV, §15311(d), June 18, 2008, 122 Stat. 1664, 2265, provided that: “The amendments made by this section \[amending this section and sections 857 and 1201 of this title\] shall apply to taxable years ending after the date of enactment \[June 18, 2008\].”
+Pub. L. 110–234, title XV, §15311(d), May 22, 2008, 122 Stat. 1503, and Pub. L. 110–246, §4(a), title XV, §15311(d), June 18, 2008, 122 Stat. 1664, 2265, provided that: "The amendments made by this section \[amending this section and sections 857 and 1201 of this title\] shall apply to taxable years ending after the date of enactment \[June 18, 2008\]."
 
 \[Pub. L. 110–234 and Pub. L. 110–246 enacted identical provisions. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246, set out as a note under section 8701 of Title 7, Agriculture.\]
 
 #### Effective Date of 2007 Amendment
 
-Pub. L. 110–166, §2(b), Dec. 26, 2007, 121 Stat. 2461, provided that: “The amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 2006.”
+Pub. L. 110–166, §2(b), Dec. 26, 2007, 121 Stat. 2461, provided that: "The amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 2006."
 
 #### Effective Date of 2006 Amendment
 
-Pub. L. 109–222, title III, §301(b), May 17, 2006, 120 Stat. 353, provided that: “The amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 2005.”
+Pub. L. 109–222, title III, §301(b), May 17, 2006, 120 Stat. 353, provided that: "The amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 2005."
 
 #### Effective Date of 2005 Amendments
 
@@ -484,17 +484,17 @@ Amendment by section 1341(b)(3) of Pub. L. 109–58 applicable to property place
 
 #### Effective and Termination Dates of 2004 Amendments
 
-Pub. L. 108–357, title III, §314(c), Oct. 22, 2004, 118 Stat. 1469, provided that: “The amendments made by this section \[amending this section and section 1301 of this title\] shall apply to taxable years beginning after December 31, 2003.”
+Pub. L. 108–357, title III, §314(c), Oct. 22, 2004, 118 Stat. 1469, provided that: "The amendments made by this section \[amending this section and section 1301 of this title\] shall apply to taxable years beginning after December 31, 2003."
 
-Pub. L. 108–311, title I, §103(b), Oct. 4, 2004, 118 Stat. 1168, provided that: “The amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 2004.”
+Pub. L. 108–311, title I, §103(b), Oct. 4, 2004, 118 Stat. 1168, provided that: "The amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 2004."
 
 Amendment by section 103(a) of Pub. L. 108–311 subject to title IX of the Economic Growth and Tax Relief Reconciliation Act of 2001, Pub. L. 107–16, §901, to the same extent and in the same manner as the provision of such Act to which such amendment relates, see section 105 of Pub. L. 108–311, set out as a note under section 1 of this title. Title IX of Pub. L. 107–16 was repealed by Pub. L. 112–240, title I, §101(a)(1), Jan. 2, 2013, 126 Stat. 2315.
 
-Pub. L. 108–311, title IV, §406(h), Oct. 4, 2004, 118 Stat. 1190, provided that: “The amendments made by this section \[amending this section and sections 246, 529, 530, 901, 1259, and 1397E of this title\] shall take effect as if included in the provisions of the Taxpayer Relief Act of 1997 \[Pub. L. 105–34\] to which they relate.”
+Pub. L. 108–311, title IV, §406(h), Oct. 4, 2004, 118 Stat. 1190, provided that: "The amendments made by this section \[amending this section and sections 246, 529, 530, 901, 1259, and 1397E of this title\] shall take effect as if included in the provisions of the Taxpayer Relief Act of 1997 \[Pub. L. 105–34\] to which they relate."
 
 #### Effective and Termination Dates of 2003 Amendment
 
-Pub. L. 108–27, title I, §106(b), May 28, 2003, 117 Stat. 755, provided that: “The amendments made by subsection (a) \[amending this section\] shall apply to taxable years beginning after December 31, 2002.”
+Pub. L. 108–27, title I, §106(b), May 28, 2003, 117 Stat. 755, provided that: "The amendments made by subsection (a) \[amending this section\] shall apply to taxable years beginning after December 31, 2002."
 
 Amendment by section 106(a) of Pub. L. 108–27 subject to title IX of the Economic Growth and Tax Relief Reconciliation Act of 2001, Pub. L. 107–16, §901, to the same extent and in the same manner as the provision of such Act to which such amendment relates, see section 107 of Pub. L. 108–27, set out as a note under section 1 of this title. Title IX of Pub. L. 107–16 was repealed by Pub. L. 112–240, title I, §101(a)(1), Jan. 2, 2013, 126 Stat. 2315.
 
@@ -502,7 +502,7 @@ Amendment by section 301(a)(1), (2)(B), (b)(2) of Pub. L. 108–27 applicable to
 
 #### Effective Date of 2001 Amendment
 
-Pub. L. 107–16, title VII, §701(c), June 7, 2001, 115 Stat. 148, provided that: “The amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 2000.”
+Pub. L. 107–16, title VII, §701(c), June 7, 2001, 115 Stat. 148, provided that: "The amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 2000."
 
 #### Effective Date of 1998 Amendment
 
@@ -512,7 +512,7 @@ Amendment by Pub. L. 105–206 effective, except as otherwise provided, as if in
 
 Amendment by section 311(b)(1), (2)(A) of Pub. L. 105–34 applicable to taxable years ending after May 6, 1997, see section 311(d) of Pub. L. 105–34, set out as a note under section 1 of this title.
 
-Pub. L. 105–34, title IV, §401(b), Aug. 5, 1997, 111 Stat. 844, provided that: “The amendment made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 1997.”
+Pub. L. 105–34, title IV, §401(b), Aug. 5, 1997, 111 Stat. 844, provided that: "The amendment made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 1997."
 
 Amendment by section 1601(f)(1)(C) of Pub. L. 105–34 effective as if included in the provisions of the Small Business Job Protection Act of 1996, Pub. L. 104–188, to which it relates, see section 1601(j) of Pub. L. 105–34, set out as a note under section 23 of this title.
 
@@ -526,7 +526,7 @@ Amendment by section 1601(b)(2)(A) of Pub. L. 104–188 applicable to taxable ye
 
 #### Effective Date of 1993 Amendment
 
-Pub. L. 103–66, title XIII, §13203(d), Aug. 10, 1993, 107 Stat. 462, provided that: “The amendments made by this section \[amending this section and section 897 of this title\] shall apply to taxable years beginning after December 31, 1992.”
+Pub. L. 103–66, title XIII, §13203(d), Aug. 10, 1993, 107 Stat. 462, provided that: "The amendments made by this section \[amending this section and section 897 of this title\] shall apply to taxable years beginning after December 31, 1992."
 
 #### Effective Date of 1992 Amendment
 
@@ -536,7 +536,7 @@ Amendment by Pub. L. 102–318 applicable to distributions after Dec. 31, 1992, 
 
 #### Effective Date of 1990 Amendment
 
-Pub. L. 101–508, title XI, §11102(b), Nov. 5, 1990, 104 Stat. 1388–406, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to taxable years beginning after December 31, 1990.”
+Pub. L. 101–508, title XI, §11102(b), Nov. 5, 1990, 104 Stat. 1388–406, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply to taxable years beginning after December 31, 1990."
 
 Amendment by section 11813(b)(5) of Pub. L. 101–508 applicable to property placed in service after Dec. 31, 1990, but not applicable to any transition property (as defined in section 49(e) of this title), any property with respect to which qualified progress expenditures were previously taken into account under section 46(d) of this title, and any property described in section 46(b)(2)(C) of this title, as such sections were in effect on Nov. 4, 1990, see section 11813(c) of Pub. L. 101–508, set out as a note under section 45K of this title.
 
@@ -554,45 +554,45 @@ Amendment by Pub. L. 99–514 applicable to buildings placed in service after De
 
 Pub. L. 99–514, title VII, §701(f), Oct. 22, 1986, 100 Stat. 2343, as amended by Pub. L. 100–647, title I, §1007(f)(2), (3), Nov. 10, 1988, 102 Stat. 3433, provided that:
 
-“(1) In general.—Except as otherwise provided in this subsection, the amendments made by this section \[enacting this section and sections 53 and 56 to 59 of this title and amending sections 5, 12, 26, 28, 29, 38, 48, 173, 174, 263, 381, 443, 703, 882, 897, 904, 936, 1016, 1363, 1366, 1561, 6154, 6425, and 6655 of this title\] shall apply to taxable years beginning after December 31, 1986.
+"(1) In general.—Except as otherwise provided in this subsection, the amendments made by this section \[enacting this section and sections 53 and 56 to 59 of this title and amending sections 5, 12, 26, 28, 29, 38, 48, 173, 174, 263, 381, 443, 703, 882, 897, 904, 936, 1016, 1363, 1366, 1561, 6154, 6425, and 6655 of this title\] shall apply to taxable years beginning after December 31, 1986.
 
-“(2) Adjustment of net operating loss.—
+"(2) Adjustment of net operating loss.—
 
-“(A) Individuals.—In the case of a net operating loss of an individual for a taxable year beginning after December 31, 1982, and before January 1, 1987, for purposes of determining the amount of such loss which may be carried to a taxable year beginning after December 31, 1986, for purposes of the minimum tax, such loss shall be adjusted in the manner provided in section 55(d)(2) of the Internal Revenue Code of 1954 \[now 1986\] as in effect on the day before the date of the enactment of this Act \[Oct. 22, 1986\].
+"(A) Individuals.—In the case of a net operating loss of an individual for a taxable year beginning after December 31, 1982, and before January 1, 1987, for purposes of determining the amount of such loss which may be carried to a taxable year beginning after December 31, 1986, for purposes of the minimum tax, such loss shall be adjusted in the manner provided in section 55(d)(2) of the Internal Revenue Code of 1954 \[now 1986\] as in effect on the day before the date of the enactment of this Act \[Oct. 22, 1986\].
 
-“(B) Corporations.—If the minimum tax of a corporation was deferred under section 56(b) of the Internal Revenue Code of 1954 \[now 1986\] (as in effect on the day before the date of the enactment of this Act \[Oct. 22, 1986\]) for any taxable year beginning before January 1, 1987, and the amount of such tax has not been paid for any taxable year beginning before January 1, 1987, the amount of the net operating loss carryovers of such corporation which may be carried to taxable years beginning after December 31, 1986, for purposes of the minimum tax shall be reduced by the amount of tax preferences a tax on which was so deferred.
+"(B) Corporations.—If the minimum tax of a corporation was deferred under section 56(b) of the Internal Revenue Code of 1954 \[now 1986\] (as in effect on the day before the date of the enactment of this Act \[Oct. 22, 1986\]) for any taxable year beginning before January 1, 1987, and the amount of such tax has not been paid for any taxable year beginning before January 1, 1987, the amount of the net operating loss carryovers of such corporation which may be carried to taxable years beginning after December 31, 1986, for purposes of the minimum tax shall be reduced by the amount of tax preferences a tax on which was so deferred.
 
-“(3) Installment sales.—Section 56(a)(6) of the Internal Revenue Code of 1986 (as amended by this section) shall not apply to any disposition to which the amendments made by section 811 of this Act \[enacting section 453C of this title\] (relating to allocation of dealer's indebtedness to installment obligations) do not apply by reason of section 811(c)(2) of this Act \[enacting provisions set out as a note under section 453C of this title\].
+"(3) Installment sales.—Section 56(a)(6) of the Internal Revenue Code of 1986 (as amended by this section) shall not apply to any disposition to which the amendments made by section 811 of this Act \[enacting section 453C of this title\] (relating to allocation of dealer's indebtedness to installment obligations) do not apply by reason of section 811(c)(2) of this Act \[enacting provisions set out as a note under section 453C of this title\].
 
-“(4) Exception for charitable contributions before august 16, 1986.—Section 57(a)(6) of the Internal Revenue Code of 1986 (as amended by this section) shall not apply to any deduction attributable to contributions made before August 16, 1986.
+"(4) Exception for charitable contributions before august 16, 1986.—Section 57(a)(6) of the Internal Revenue Code of 1986 (as amended by this section) shall not apply to any deduction attributable to contributions made before August 16, 1986.
 
-“(5) Book income.—
+"(5) Book income.—
 
-“(A) In general.—In the case of a corporation to which this paragraph applies, the amount of any increase for any taxable year under section 56(c)(1)(A) of the Internal Revenue Code of 1986 (as added by this section) shall be reduced (but not below zero) by the excess (if any) of—
+"(A) In general.—In the case of a corporation to which this paragraph applies, the amount of any increase for any taxable year under section 56(c)(1)(A) of the Internal Revenue Code of 1986 (as added by this section) shall be reduced (but not below zero) by the excess (if any) of—
 
-“(i) 50 percent of the excess of taxable income for the 5-taxable year period ending with the taxable year preceding the 1st taxable year to which such section applies over the adjusted net book income for such period, over
+"(i) 50 percent of the excess of taxable income for the 5-taxable year period ending with the taxable year preceding the 1st taxable year to which such section applies over the adjusted net book income for such period, over
 
-“(ii) the aggregate amounts taken into account under this paragraph for preceding taxable years.
+"(ii) the aggregate amounts taken into account under this paragraph for preceding taxable years.
 
-“(B) Taxpayer to whom paragraph applies.—This paragraph applies to a taxpayer which was incorporated in Delaware on May 31, 1912.
+"(B) Taxpayer to whom paragraph applies.—This paragraph applies to a taxpayer which was incorporated in Delaware on May 31, 1912.
 
-“(C) Terms.—Any term used in this paragraph which is used in section 56 of such Code (as so added) shall have the same meaning as when used in such section.
+"(C) Terms.—Any term used in this paragraph which is used in section 56 of such Code (as so added) shall have the same meaning as when used in such section.
 
-“(6) Certain public utility.—
+"(6) Certain public utility.—
 
-“(A) In the case of investment tax credits described in subparagraph (B) or (C), subsection 38(c)(3)(A)(ii) of the Internal Revenue Code of 1986 shall be applied by substituting ‘25 percent’ for ‘75 percent’, and section 38(c)(3)(B) of the Internal Revenue Code of 1986 shall be applied by substituting ‘75 percent’ for ‘25 percent’.
+"(A) In the case of investment tax credits described in subparagraph (B) or (C), subsection 38(c)(3)(A)(ii) of the Internal Revenue Code of 1986 shall be applied by substituting '25 percent' for '75 percent', and section 38(c)(3)(B) of the Internal Revenue Code of 1986 shall be applied by substituting '75 percent' for '25 percent'.
 
-“(B) If, on September 25, 1985, a regulated electric utility owned an undivided interest, within the range of 1,111 and 1,149, in the ‘maximum dependable capacity, net, megawatts electric’ of an electric generating unit located in Illinois or Mississippi for which a binding written contract was in effect on December 31, 1980, then any investment tax credit with respect to such unit shall be described in this subparagraph. The aggregate amount of investment tax credits with respect to the unit in Mississippi allowed solely by reason of being described in this subparagraph shall not exceed $141,000,000.
+"(B) If, on September 25, 1985, a regulated electric utility owned an undivided interest, within the range of 1,111 and 1,149, in the 'maximum dependable capacity, net, megawatts electric' of an electric generating unit located in Illinois or Mississippi for which a binding written contract was in effect on December 31, 1980, then any investment tax credit with respect to such unit shall be described in this subparagraph. The aggregate amount of investment tax credits with respect to the unit in Mississippi allowed solely by reason of being described in this subparagraph shall not exceed $141,000,000.
 
-“(C) If, on September 25, 1985, a regulated electric utility owned an undivided interest, within the range of 1,104 and 1,111, in the ‘maximum dependable capacity, net, megawatts electric’ of an electric generating unit located in Louisiana for which a binding written contract was in effect on December 31, 1980, then any investment tax credit of such electric utility shall be described in this subparagraph. The aggregate amount of investment tax credits allowed solely by reason of being described by this subparagraph shall not exceed $20,000,000.
+"(C) If, on September 25, 1985, a regulated electric utility owned an undivided interest, within the range of 1,104 and 1,111, in the 'maximum dependable capacity, net, megawatts electric' of an electric generating unit located in Louisiana for which a binding written contract was in effect on December 31, 1980, then any investment tax credit of such electric utility shall be described in this subparagraph. The aggregate amount of investment tax credits allowed solely by reason of being described by this subparagraph shall not exceed $20,000,000.
 
-“(7) Agreement vessel depreciation adjustment.—
+"(7) Agreement vessel depreciation adjustment.—
 
-“(A) For purposes of part VI of subchapter A of chapter 1 of the Internal Revenue Code of 1986, in the case of a qualified taxpayer, alternative minimum taxable income for the taxable year shall be reduced by an amount equal to the agreement vessel depreciation adjustment.
+"(A) For purposes of part VI of subchapter A of chapter 1 of the Internal Revenue Code of 1986, in the case of a qualified taxpayer, alternative minimum taxable income for the taxable year shall be reduced by an amount equal to the agreement vessel depreciation adjustment.
 
-“(B) For purposes of this paragraph, the agreement vessel depreciation adjustment shall be an amount equal to the depreciation deduction that would have been allowable for such year under section 167 of such Code with respect to agreement vessels placed in service before January 1, 1987, if the basis of such vessels had not been reduced under section 607 of the Merchant Marine Act of 1936 \[see 46 U.S.C. 53510\], as amended, and if depreciation with respect to such vessel had been computed using the 25-year straight-line method. The aggregate amount by which basis of a qualified taxpayer is treated as not reduced by reason of this subparagraph shall not exceed $100,000,000.
+"(B) For purposes of this paragraph, the agreement vessel depreciation adjustment shall be an amount equal to the depreciation deduction that would have been allowable for such year under section 167 of such Code with respect to agreement vessels placed in service before January 1, 1987, if the basis of such vessels had not been reduced under section 607 of the Merchant Marine Act of 1936 \[see 46 U.S.C. 53510\], as amended, and if depreciation with respect to such vessel had been computed using the 25-year straight-line method. The aggregate amount by which basis of a qualified taxpayer is treated as not reduced by reason of this subparagraph shall not exceed $100,000,000.
 
-“(C) For purposes of this paragraph, the term ‘qualified taxpayer’ means a parent corporation incorporated in the State of Delaware on December 1, 1972, and engaged in water transportation, and includes any other corporation which is a member of the affiliated group of which the parent corporation is the common parent. No taxpayer shall be treated as a qualified corporation for any taxable year beginning after December 31, 1991.”
+"(C) For purposes of this paragraph, the term 'qualified taxpayer' means a parent corporation incorporated in the State of Delaware on December 1, 1972, and engaged in water transportation, and includes any other corporation which is a member of the affiliated group of which the parent corporation is the common parent. No taxpayer shall be treated as a qualified corporation for any taxable year beginning after December 31, 1991."
 
 #### Savings Provision
 
@@ -600,7 +600,7 @@ For provisions that nothing in amendment by section 11813(b)(5) of Pub. L. 101�
 
 #### Transitional Provisions
 
-Pub. L. 100–647, title I, §1007(f)(1), Nov. 10, 1988, 102 Stat. 3433, provided that: “In the case of the taxable year of an estate or trust which begins before January 1, 1987, and ends on or after such date, the items of tax preference apportioned to any beneficiary of such estate or trust under section 58(c) of the Internal Revenue Code of 1954 (as in effect on the day before the date of the enactment of the Tax Reform Act of 1986 \[Oct. 22, 1986\]) shall be taken into account for purposes of determining the amount of the tax imposed by section 55 of the Internal Revenue Code of 1986 (as amended by the Tax Reform Act of 1986 \[Pub. L. 99–514\]) on such beneficiary for such beneficiary's taxable year in which such taxable year of the estate or trust ends.”
+Pub. L. 100–647, title I, §1007(f)(1), Nov. 10, 1988, 102 Stat. 3433, provided that: "In the case of the taxable year of an estate or trust which begins before January 1, 1987, and ends on or after such date, the items of tax preference apportioned to any beneficiary of such estate or trust under section 58(c) of the Internal Revenue Code of 1954 (as in effect on the day before the date of the enactment of the Tax Reform Act of 1986 \[Oct. 22, 1986\]) shall be taken into account for purposes of determining the amount of the tax imposed by section 55 of the Internal Revenue Code of 1986 (as amended by the Tax Reform Act of 1986 \[Pub. L. 99–514\]) on such beneficiary for such beneficiary's taxable year in which such taxable year of the estate or trust ends."
 
 #### Plan Amendments Not Required Until January 1, 1998
 
@@ -616,8 +616,8 @@ For applicability of amendment by section 701(a) of Pub. L. 99–514 \[enacting 
 
 #### High Income Taxpayer Report
 
-Pub. L. 94–455, title XXI, §2123, Oct. 4, 1976, 90 Stat. 1915, as amended by Pub. L. 98–369, div. A, title IV, §441(b)(1), July 18, 1984, 98 Stat. 815, provided that: “The Secretary of the Treasury shall publish annually information on the amount of tax paid by individual taxpayers with high total incomes. Total income for this purpose is to be calculated and set forth by adding to adjusted gross income any items of tax preference excluded from, or deducted in arriving at, adjusted gross income, and by subtracting any investment expenses incurred in the production of such income to the extent of the investment income. These data are to include the number of such individuals with total income over $200,000 who owe no Federal income tax (after credits) and the deductions, exclusions, or credits used by them to avoid tax.”
+Pub. L. 94–455, title XXI, §2123, Oct. 4, 1976, 90 Stat. 1915, as amended by Pub. L. 98–369, div. A, title IV, §441(b)(1), July 18, 1984, 98 Stat. 815, provided that: "The Secretary of the Treasury shall publish annually information on the amount of tax paid by individual taxpayers with high total incomes. Total income for this purpose is to be calculated and set forth by adding to adjusted gross income any items of tax preference excluded from, or deducted in arriving at, adjusted gross income, and by subtracting any investment expenses incurred in the production of such income to the extent of the investment income. These data are to include the number of such individuals with total income over $200,000 who owe no Federal income tax (after credits) and the deductions, exclusions, or credits used by them to avoid tax."
 
-\[Pub. L. 98–369, div. A, title IV, §441(b)(2), July 18, 1984, 98 Stat. 815, provided that: “The amendment made by paragraph (1) \[amending section 2123 of Pub. L. 94–455, set out above\] shall apply to information published after the date of the enactment of this Act \[July 18, 1984\].”\]
+\[Pub. L. 98–369, div. A, title IV, §441(b)(2), July 18, 1984, 98 Stat. 815, provided that: "The amendment made by paragraph (1) \[amending section 2123 of Pub. L. 94–455, set out above\] shall apply to information published after the date of the enactment of this Act \[July 18, 1984\]."\]
 
 [1 So in original. Subpar. (B) has no cl. (i).](#55_1)

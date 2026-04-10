@@ -10,13 +10,13 @@ Based on title 13, U.S.C., 1952 ed., §§5, 6 (Mar. 6, 1902, ch. 139, §§5, 10,
 
 Section consolidates section 5 of title 13, U.S.C., 1952 ed., with section 6 of such title.
 
-A reference to “officers” was inserted for completeness, and the word “permanent” was inserted before “officers and employees” for the purpose of clarity.
+A reference to "officers" was inserted for completeness, and the word "permanent" was inserted before "officers and employees" for the purpose of clarity.
 
 The provision in section 5 of title 13, U.S.C., 1952 ed., excepting unskilled laborers from the requirements for citizenship, was omitted as superseded and covered by the Classification Act of 1949 (5 U.S.C., 1952 ed., ch. 21).
 
 The provision that appointments and compensation shall be subject to the Classification Act of 1949 is new but is in accordance with existing law. See chapter 21 of title 5, U.S.C., 1952 ed., Executive Departments and Government Officers and Employees.
 
-The provision in section 5 of title 13, U.S.C., 1952 ed., giving preference in appointments to war veterans and their widows, was omitted as superseded and covered by the Veterans’ Preference Act of 1944 (chapter 17 of Title 5, U.S.C., 1952 ed., Executive Departments and Government Officers and Employees).
+The provision in section 5 of title 13, U.S.C., 1952 ed., giving preference in appointments to war veterans and their widows, was omitted as superseded and covered by the Veterans' Preference Act of 1944 (chapter 17 of Title 5, U.S.C., 1952 ed., Executive Departments and Government Officers and Employees).
 
 Changes were made in phraseology.
 

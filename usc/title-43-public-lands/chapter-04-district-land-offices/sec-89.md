@@ -14,4 +14,4 @@ R.S. §2245 derived from act July 4, 1836, ch. 352, §9, 5 Stat. 111.
 
 For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out under section 1451 of this title.
 
-“Secretary of the Interior or such officer as he may designate” substituted for “registers”, “district land offices” substituted for “their several offices”, and former last sentence relating to returns to Commissioner of the General Land Office omitted on authority of section 403 of Reorg. Plan No. 3 of 1946. See note set out under section 1 of this title.
+"Secretary of the Interior or such officer as he may designate" substituted for "registers", "district land offices" substituted for "their several offices", and former last sentence relating to returns to Commissioner of the General Land Office omitted on authority of section 403 of Reorg. Plan No. 3 of 1946. See note set out under section 1 of this title.

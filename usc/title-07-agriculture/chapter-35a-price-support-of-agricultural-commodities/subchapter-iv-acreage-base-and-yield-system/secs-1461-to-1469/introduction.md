@@ -20,7 +20,7 @@ A prior section 1463a, act Oct. 31, 1949, ch. 792, title V, §504, as added Oct.
 
 Section 1464, act Oct. 31, 1949, ch. 792, title V, §504, as added Pub. L. 99–198, title X, §1031, Dec. 23, 1985, 99 Stat. 1461; amended Pub. L. 99–253, §4, Feb. 28, 1986, 100 Stat. 37; Pub. L. 99–260, §8, Mar. 20, 1986, 100 Stat. 51; Pub. L. 100–387, title III, §301(a)(1), Aug. 11, 1988, 102 Stat. 945; Pub. L. 101–81, §1, Aug. 14, 1989, 103 Stat. 563; Pub. L. 101–82, title VI, §603(a), Aug. 14, 1989, 103 Stat. 587; Pub. L. 101–239, title I, §1002(a), Dec. 19, 1989, 103 Stat. 2106; Pub. L. 101–624, title XI, §1101, Nov. 28, 1990, 104 Stat. 3494; Pub. L. 102–237, title I, §112(c), Dec. 13, 1991, 105 Stat. 1837, provided for planting flexibility.
 
-A prior section 1464, act Oct. 31, 1949, ch. 792, title V, §505, formerly §504, as added July 12, 1951, ch. 223, 65 Stat. 120, and renumbered Oct. 3, 1961, Pub. L. 87–345, §3, 75 Stat. 761, related to workers subject to immigration laws, dispensed with need of penalty bond, and provided for effect of use of “wetback” labor as part of a program for recruiting agricultural workers from Mexico for employment up to December 31, 1964.
+A prior section 1464, act Oct. 31, 1949, ch. 792, title V, §505, formerly §504, as added July 12, 1951, ch. 223, 65 Stat. 120, and renumbered Oct. 3, 1961, Pub. L. 87–345, §3, 75 Stat. 761, related to workers subject to immigration laws, dispensed with need of penalty bond, and provided for effect of use of "wetback" labor as part of a program for recruiting agricultural workers from Mexico for employment up to December 31, 1964.
 
 Section 1465, act Oct. 31, 1949, ch. 792, title V, §505, as added Pub. L. 99–198, title X, §1031, Dec. 23, 1985, 99 Stat. 1462; amended Pub. L. 101–624, title XI, §1101, Nov. 28, 1990, 104 Stat. 3495; Pub. L. 103–66, title I, §1101(b)(2)(B), Aug. 10, 1993, 107 Stat. 314, provided for farm program payment yields.
 
@@ -34,7 +34,7 @@ A prior section 1466, act Oct. 31, 1949, ch. 792, title V, §507, formerly §506
 
 Section 1467, act Oct. 31, 1949, ch. 792, title V, §507, as added Pub. L. 99–198, title X, §1031, Dec. 23, 1985, 99 Stat. 1463; amended Pub. L. 101–624, title XI, §1101, Nov. 28, 1990, 104 Stat. 3497, provided for establishment of bases and yields by county committees.
 
-A prior section 1467, act Oct. 31, 1949, ch. 792, title V, §508, formerly §507, as added July 12, 1951, ch. 223, 65 Stat. 121; renumbered §508 and amended Oct. 3, 1961, Pub. L. 87–345, §§3, 5, 75 Stat. 761, defined “agricultural employment” and “employer” for purposes of the program for recruiting agricultural workers from Mexico for employment up to December 31, 1964.
+A prior section 1467, act Oct. 31, 1949, ch. 792, title V, §508, formerly §507, as added July 12, 1951, ch. 223, 65 Stat. 121; renumbered §508 and amended Oct. 3, 1961, Pub. L. 87–345, §§3, 5, 75 Stat. 761, defined "agricultural employment" and "employer" for purposes of the program for recruiting agricultural workers from Mexico for employment up to December 31, 1964.
 
 Section 1468, act Oct. 31, 1949, ch. 792, title V, §508, as added Pub. L. 99–198, title X, §1031, Dec. 23, 1985, 99 Stat. 1464; amended Pub. L. 101–624, title XI, §1101, Nov. 28, 1990, 104 Stat. 3497, provided for administrative appeals procedure.
 

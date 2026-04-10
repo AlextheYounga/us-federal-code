@@ -8,7 +8,7 @@ Schedules of rates and charges for electric energy produced at the Fort Peck pro
 
 Power marketing functions of Bureau of Reclamation, including construction, operation, and maintenance of transmission lines and attendant facilities, transferred to Secretary of Energy by section 7152(a)(1)(E), (3) of Title 42, The Public Health and Welfare, and are to be exercised by Secretary through a separate Administration within Department of Energy.
 
-“Secretary of Energy” substituted in text for “Federal Power Commission” pursuant to Pub. L. 95–91, §301(b), which is classified to section 7151(b) of Title 42.
+"Secretary of Energy" substituted in text for "Federal Power Commission" pursuant to Pub. L. 95–91, §301(b), which is classified to section 7151(b) of Title 42.
 
 Federal Power Commission terminated and its functions, personnel, property, funds, etc., transferred to Secretary of Energy (except for certain functions transferred to Federal Energy Regulatory Commission) by sections 7151(b), 7171(a), 7172(a), 7291, and 7293 of Title 42.
 

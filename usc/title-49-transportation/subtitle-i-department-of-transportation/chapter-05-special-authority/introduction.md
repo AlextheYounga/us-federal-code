@@ -44,6 +44,6 @@ Sec.
 
 **1998**—Pub. L. 105–178, title IV, §4014(a)(2), June 9, 1998, 112 Stat. 411, added item 508.
 
-**1997**—Pub. L. 105–102, §2(1), Nov. 20, 1997, 111 Stat. 2204, struck out “DUTIES AND” before “POWERS” in item for heading of subchapter I.
+**1997**—Pub. L. 105–102, §2(1), Nov. 20, 1997, 111 Stat. 2204, struck out "DUTIES AND" before "POWERS" in item for heading of subchapter I.
 
 [1 Section catchline amended by Pub. L. 112–141 without corresponding amendment of chapter analysis.](#CHAPTER5_1)

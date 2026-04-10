@@ -4,7 +4,7 @@
 
 Sec.
 
-5100\. Definition of “claimant”.
+5100\. Definition of "claimant".
 
 5101\. Claims and forms.
 
@@ -68,13 +68,13 @@ Sec.
 
 **2008**—Pub. L. 110–389, title II, §212(b), Oct. 10, 2008, 122 Stat. 4151, added item 5121A.
 
-Pub. L. 110–387, title IX, §901(a)(5), Oct. 10, 2008, 122 Stat. 4142, substituted “death of a beneficiary” for “death of beneficiary” in item 5121.
+Pub. L. 110–387, title IX, §901(a)(5), Oct. 10, 2008, 122 Stat. 4142, substituted "death of a beneficiary" for "death of beneficiary" in item 5121.
 
 **2003**—Pub. L. 108–183, title VII, §707(a)(2), Dec. 16, 2003, 117 Stat. 2673, added item 5109B.
 
-**2000**—Pub. L. 106–475, §6, Nov. 9, 2000, 114 Stat. 2099, added items 5100, 5102 to 5103A, 5107, and 5126, and struck out former items 5102 “Application forms furnished upon request”, 5103 “Incomplete applications”, and 5107 “Burden of proof; benefit of the doubt”.
+**2000**—Pub. L. 106–475, §6, Nov. 9, 2000, 114 Stat. 2099, added items 5100, 5102 to 5103A, 5107, and 5126, and struck out former items 5102 "Application forms furnished upon request", 5103 "Incomplete applications", and 5107 "Burden of proof; benefit of the doubt".
 
-Pub. L. 106–398, §1 \[\[div. A\], title XVI, §1611(b)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–360, directed amendment of table of sections by striking the item relating to section 5017 and inserting item 5107 “Assistance to claimants; benefit of the doubt; burden of proof”. Pub. L. 106–419, title I, §104(c)(2), Nov. 1, 2000, 114 Stat. 1828, provided that, as of the enactment of Pub. L. 106–419, the amendments made by Pub. L. 106–398, §1 \[\[div. A\], title XVI, §1611(b)\], were deemed for all purposes not to have taken effect and that Pub. L. 106–398, §1 \[\[div. A\], title XVI, §1611(b)\], ceased to be in effect.
+Pub. L. 106–398, §1 \[\[div. A\], title XVI, §1611(b)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–360, directed amendment of table of sections by striking the item relating to section 5017 and inserting item 5107 "Assistance to claimants; benefit of the doubt; burden of proof". Pub. L. 106–419, title I, §104(c)(2), Nov. 1, 2000, 114 Stat. 1828, provided that, as of the enactment of Pub. L. 106–419, the amendments made by Pub. L. 106–398, §1 \[\[div. A\], title XVI, §1611(b)\], were deemed for all purposes not to have taken effect and that Pub. L. 106–398, §1 \[\[div. A\], title XVI, §1611(b)\], ceased to be in effect.
 
 **1997**—Pub. L. 105–111, §1(a)(2), Nov. 21, 1997, 111 Stat. 2271, added item 5109A.
 
@@ -84,11 +84,11 @@ Pub. L. 106–398, §1 \[\[div. A\], title XVI, §1611(b)\], Oct. 30, 2000, 114 
 
 **1989**—Pub. L. 101–237, title I, §115(a)(2), Dec. 18, 1989, 103 Stat. 2066, added item 3004.
 
-**1988**—Pub. L. 100–687, div. A, title I, §103(a)(2), (c)(2), (3), Nov. 18, 1988, 102 Stat. 4107, 4108, substituted “CLAIMS” for “APPLICATIONS” in heading for chapter and in item for subchapter I and added items 3007, 3008, and 3009.
+**1988**—Pub. L. 100–687, div. A, title I, §103(a)(2), (c)(2), (3), Nov. 18, 1988, 102 Stat. 4107, 4108, substituted "CLAIMS" for "APPLICATIONS" in heading for chapter and in item for subchapter I and added items 3007, 3008, and 3009.
 
 **1982**—Pub. L. 97–253, title IV, §§401(a)(2), 403(a)(2), Sept. 8, 1982, 96 Stat. 802, added items 3011 and 3023, respectively.
 
-**1977**—Pub. L. 95–117, title IV, §402(b)(2), Oct. 3, 1977, 91 Stat. 1066, struck out “by check” after “benefit” in item 3020.
+**1977**—Pub. L. 95–117, title IV, §402(b)(2), Oct. 3, 1977, 91 Stat. 1066, struck out "by check" after "benefit" in item 3020.
 
 **1976**—Pub. L. 94–432, title IV, §403(1), Sept. 30, 1976, 90 Stat. 1372, added item 3006.
 

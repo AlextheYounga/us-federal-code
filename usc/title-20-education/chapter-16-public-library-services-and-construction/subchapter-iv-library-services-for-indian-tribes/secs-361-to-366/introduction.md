@@ -6,7 +6,7 @@ A prior section 361, act June 19, 1956, ch. 407, title IV, §401, as added May 3
 
 Section 362, act June 19, 1956, ch. 407, title IV, §402, as added Oct. 17, 1984, Pub. L. 98–480, title I, §114, 98 Stat. 2243, specified permitted uses of funds, required maintenance of funding level for public library services, and provided that nothing in this chapter be construed to prohibit restricted collections of tribal cultural materials with funds made available under this chapter.
 
-A prior section 362, act June 19, 1956, ch. 407, title IV, §402, as added May 3, 1973, Pub. L. 93–29, title VIII, §801(a), 87 Stat. 57, related to use of Federal funds and the amount of the Federal share for the cost of carrying out State plans for the provision of older readers’ services, prior to the general amendment of this subchapter by section 114 of Pub. L. 98–480.
+A prior section 362, act June 19, 1956, ch. 407, title IV, §402, as added May 3, 1973, Pub. L. 93–29, title VIII, §801(a), 87 Stat. 57, related to use of Federal funds and the amount of the Federal share for the cost of carrying out State plans for the provision of older readers' services, prior to the general amendment of this subchapter by section 114 of Pub. L. 98–480.
 
 Section 363, act June 19, 1956, ch. 407, title IV, §403, as added Oct. 17, 1984, Pub. L. 98–480, title I, §114, 98 Stat. 2244, related to applications for library services to Indians.
 

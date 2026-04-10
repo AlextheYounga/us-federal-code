@@ -240,7 +240,7 @@ Sec.
 
         
 
-#### SUBCHAPTER XII—PUBLIC SAFETY OFFICERS’ DEATH BENEFITS
+#### SUBCHAPTER XII—PUBLIC SAFETY OFFICERS' DEATH BENEFITS
 
 #### Part A—Death Benefits
 
@@ -330,11 +330,11 @@ Sec.
 
 3796cc–5. Evaluation.
 
-3796cc–6. “Local entity” defined.
+3796cc–6. "Local entity" defined.
 
         
 
-#### SUBCHAPTER XII–E—PUBLIC SAFETY AND COMMUNITY POLICING; “COPS ON THE BEAT”
+#### SUBCHAPTER XII–E—PUBLIC SAFETY AND COMMUNITY POLICING; "COPS ON THE BEAT"
 
 3796dd. Authority to make public safety and community policing grants.
 

@@ -70,13 +70,13 @@ Sec.
 
 #### Amendments
 
-**2012**—Pub. L. 112–154, title IV, §402(b)(2), Aug. 6, 2012, 126 Stat. 1190, struck out item 3036 “Reporting requirement”.
+**2012**—Pub. L. 112–154, title IV, §402(b)(2), Aug. 6, 2012, 126 Stat. 1190, struck out item 3036 "Reporting requirement".
 
-**2010**—Pub. L. 111–275, title X, §1001(f), Oct. 13, 2010, 124 Stat. 2896, added item 3020 and struck out former item 3020 “Authority to transfer unused education benefits to family members of career service members”.
+**2010**—Pub. L. 111–275, title X, §1001(f), Oct. 13, 2010, 124 Stat. 2896, added item 3020 and struck out former item 3020 "Authority to transfer unused education benefits to family members of career service members".
 
-**2008**—Pub. L. 110–252, title V, §5006(e)(1), June 30, 2008, 122 Stat. 2386, added item 3020 and struck out former item 3020 “Transfer of entitlement to basic educational assistance: members of the Armed Forces with critical military skills”.
+**2008**—Pub. L. 110–252, title V, §5006(e)(1), June 30, 2008, 122 Stat. 2386, added item 3020 and struck out former item 3020 "Transfer of entitlement to basic educational assistance: members of the Armed Forces with critical military skills".
 
-**2002**—Pub. L. 107–330, title III, §308(b)(2)(B), Dec. 6, 2002, 116 Stat. 2827, amended item 3014A generally, substituting “in high technology occupation in high technology industry” for “in high technology industry”.
+**2002**—Pub. L. 107–330, title III, §308(b)(2)(B), Dec. 6, 2002, 116 Stat. 2827, amended item 3014A generally, substituting "in high technology occupation in high technology industry" for "in high technology industry".
 
 **2001**—Pub. L. 107–107, div. A, title VI, §654(a)(2), Dec. 28, 2001, 115 Stat. 1156, added item 3020.
 
@@ -88,10 +88,10 @@ Pub. L. 107–103, title I, §104(a)(2), Dec. 27, 2001, 115 Stat. 981, added ite
 
 **1991**—Pub. L. 102–83, §5(b)(1), Aug. 6, 1991, 105 Stat. 406, renumbered items 1401 to 1436 as 3001 to 3036, respectively.
 
-Pub. L. 102–54, §14(c)(2), June 13, 1991, 105 Stat. 285, substituted “subchapter” for “chapter” in item 1423.
+Pub. L. 102–54, §14(c)(2), June 13, 1991, 105 Stat. 285, substituted "subchapter" for "chapter" in item 1423.
 
 **1990**—Pub. L. 101–510, div. A, title V, §561(a)(2), Nov. 5, 1990, 104 Stat. 1573, added item 1418A.
 
 **1988**—Pub. L. 100–689, title I, §§101(b), 103(c), 107(a)(3), Nov. 18, 1988, 102 Stat. 4162, 4166, 4168, added items 1417 to 1419.
 
-**1986**—Pub. L. 99–576, title III, §301(d)(2), Oct. 28, 1986, 100 Stat. 3268, amended item 1432 generally, substituting “Limitations” for “Limitation”.
+**1986**—Pub. L. 99–576, title III, §301(d)(2), Oct. 28, 1986, 100 Stat. 3268, amended item 1432 generally, substituting "Limitations" for "Limitation".

@@ -14,7 +14,7 @@ Section 615eee, Pub. L. 92–514, title I, §105, Oct. 20, 1972, 86 Stat. 965; P
 
 Section 615fff, Pub. L. 92–514, title I, §106, Oct. 20, 1972, 86 Stat. 966, related to conservation and development of fish and wildlife resources and the enhancement of recreational opportunities in connection with this project.
 
-Section 615ggg, Pub. L. 92–514, title I, §107, Oct. 20, 1972, 86 Stat. 966, provided for transfer of responsibility for care, operation and maintenance of project works to State of Colorado, or political subdivision thereof, or to a water users’ organization.
+Section 615ggg, Pub. L. 92–514, title I, §107, Oct. 20, 1972, 86 Stat. 966, provided for transfer of responsibility for care, operation and maintenance of project works to State of Colorado, or political subdivision thereof, or to a water users' organization.
 
 Section 615hhh, Pub. L. 92–514, title I, §108, Oct. 20, 1972, 86 Stat. 966, provided that nothing in Pub. L. 92–514, enacted sections 615aaa to 615jjjj of this title, be deemed to amend, modify, or conflict with any existing provisions.
 

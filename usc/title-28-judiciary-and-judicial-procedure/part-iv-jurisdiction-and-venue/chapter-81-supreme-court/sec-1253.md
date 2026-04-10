@@ -14,7 +14,7 @@ For distribution of other provisions of the sections on which this revised secti
 
 The language in section 380 of title 28, U.S.C., 1940 ed., referring to restraining the enforcement or execution of an order made by an administrative board or a State officer was omitted as covered by this revised section and section 2281 of this title.
 
-Words in section 380a of title 28, U.S.C., 1940 ed., “This section shall not be construed to be in derogation of any right of direct appeal to the Supreme Court of the United States under existing provisions of law,” were omitted as unnecessary.
+Words in section 380a of title 28, U.S.C., 1940 ed., "This section shall not be construed to be in derogation of any right of direct appeal to the Supreme Court of the United States under existing provisions of law," were omitted as unnecessary.
 
 Section 217 of title 7, U.S.C., 1940 ed., Agriculture, provides for a three-judge court in proceedings to suspend or restrain the enforcement of orders of the Secretary of Agriculture under the Packers and Stockyards Act of 1921.
 

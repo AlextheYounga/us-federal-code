@@ -4,7 +4,7 @@
 
 A prior subchapter II of this chapter, consisting of sections 7721 to 7727, related to the veterans outreach services program, prior to repeal by Pub. L. 109–233, title IV, §402(c), June 15, 2006, 120 Stat. 411. See chapter 63 of this title.
 
-Section 7721, added Pub. L. 102–83, §2(b), Aug. 6, 1991, 105 Stat. 400; amended Pub. L. 107–14, §6(a), June 5, 2001, 115 Stat. 30, stated purpose of program and defined “other governmental programs” and “eligible dependent” for purposes of the subchapter. See section 6301 of this title.
+Section 7721, added Pub. L. 102–83, §2(b), Aug. 6, 1991, 105 Stat. 400; amended Pub. L. 107–14, §6(a), June 5, 2001, 115 Stat. 30, stated purpose of program and defined "other governmental programs" and "eligible dependent" for purposes of the subchapter. See section 6301 of this title.
 
 Section 7722, added Pub. L. 102–83, §2(b), Aug. 6, 1991, 105 Stat. 400; amended Pub. L. 102–590, §5, Nov. 10, 1992, 106 Stat. 5139; Pub. L. 107–103, title III, §304, Dec. 27, 2001, 115 Stat. 992, directed Secretary to provide outreach services. See section 6303 of this title.
 

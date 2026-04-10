@@ -20,4 +20,4 @@ Sec.
 
         
 
-[1 So in original. Probably should be “153”.](#CHAPTER2_1)
+[1 So in original. Probably should be "153".](#CHAPTER2_1)

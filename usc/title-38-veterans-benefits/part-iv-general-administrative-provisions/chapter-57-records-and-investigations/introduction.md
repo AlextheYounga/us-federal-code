@@ -50,7 +50,7 @@ Sec.
 
 **2006**—Pub. L. 109–461, title IX, §902(b), Dec. 22, 2006, 120 Stat. 3460, added item for subchapter III and items 5721 to 5728.
 
-**1991**—Pub. L. 102–54, §14(d)(5)(B), (6)(C), June 13, 1991, 105 Stat. 286, amended table of sections at beginning of chapter as in effect immediately before the enactment of Pub. L. 102–40 by substituting “subpoenas” for “subpenas” in item 3311 and “subpoena” for “subpena” in item 3313.
+**1991**—Pub. L. 102–54, §14(d)(5)(B), (6)(C), June 13, 1991, 105 Stat. 286, amended table of sections at beginning of chapter as in effect immediately before the enactment of Pub. L. 102–40 by substituting "subpoenas" for "subpenas" in item 3311 and "subpoena" for "subpena" in item 3313.
 
 Pub. L. 102–40, title IV, §402(c)(1), May 7, 1991, 105 Stat. 239, renumbered items 3301 to 3313 as 5701 to 5713, respectively.
 

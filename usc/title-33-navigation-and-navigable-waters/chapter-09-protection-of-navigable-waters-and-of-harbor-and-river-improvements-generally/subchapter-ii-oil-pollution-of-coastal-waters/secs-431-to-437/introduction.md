@@ -2,7 +2,7 @@
 
 Section 431, acts June 7, 1924, ch. 316, §1, 43 Stat. 604; Nov. 3, 1966, Pub. L. 89–753, title II, §211(a), 80 Stat. 1252, related to the short title for this subchapter.
 
-Section 432, acts June 7, 1924, ch. 316, §2, 43 Stat. 604; Nov. 3, 1966, Pub. L. 89–753, title II, §211(a), 80 Stat. 1252, defined “oil,” “person”, “coastal navigable waters of the United States”, and “Secretary”.
+Section 432, acts June 7, 1924, ch. 316, §2, 43 Stat. 604; Nov. 3, 1966, Pub. L. 89–753, title II, §211(a), 80 Stat. 1252, defined "oil," "person", "coastal navigable waters of the United States", and "Secretary".
 
 Section 433, acts June 7, 1924, ch. 316, §3, 43 Stat. 605; Nov. 3, 1966, Pub. L. 89–753, title II, §211(a), 80 Stat. 1253, related to prohibition against discharge of oil generally.
 

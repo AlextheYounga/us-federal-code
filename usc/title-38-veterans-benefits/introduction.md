@@ -1,4 +1,4 @@
-# TITLE 38—VETERANS’ BENEFITS
+# TITLE 38—VETERANS' BENEFITS
 
 This title was enacted by Pub. L. 85–857, §1, Sept. 2, 1958, 72 Stat. 1105
 
@@ -20,13 +20,13 @@ VI. Acquisition and Disposition of Property 8101
 
 #### Amendments
 
-**2002**—Pub. L. 107–330, title III, §308(g)(1)(B), Dec. 6, 2002, 116 Stat. 2828, substituted “5100” for “5101” in item for part IV.
+**2002**—Pub. L. 107–330, title III, §308(g)(1)(B), Dec. 6, 2002, 116 Stat. 2828, substituted "5100" for "5101" in item for part IV.
 
-**1991**—Pub. L. 102–83, §5(b)(2), Aug. 6, 1991, 105 Stat. 406, substituted “1101” for “301” in item for part II and “3001” for “1401” in item for part III.
+**1991**—Pub. L. 102–83, §5(b)(2), Aug. 6, 1991, 105 Stat. 406, substituted "1101" for "301" in item for part II and "3001" for "1401" in item for part III.
 
-Pub. L. 102–40, title IV, §§402(c)(2), 403(e)(2), May 7, 1991, 105 Stat. 239, 240, substituted “5101” for “3001” in item for part IV, “Boards, Administrations, and Services . . . 7101” for “Boards and Departments . . . 4001” in item for part V, and “8101” for “5001” in item for part VI.
+Pub. L. 102–40, title IV, §§402(c)(2), 403(e)(2), May 7, 1991, 105 Stat. 239, 240, substituted "5101" for "3001" in item for part IV, "Boards, Administrations, and Services . . . 7101" for "Boards and Departments . . . 4001" in item for part V, and "8101" for "5001" in item for part VI.
 
-**1986**—Pub. L. 99–576, title VII, §702(18), Oct. 28, 1986, 100 Stat. 3302, substituted “1401” for “1501” in item for part III.
+**1986**—Pub. L. 99–576, title VII, §702(18), Oct. 28, 1986, 100 Stat. 3302, substituted "1401" for "1501" in item for part III.
 
 Table I  
 (Showing Disposition of All Sections of Former Title 38 by 1958 Revision)
@@ -1410,89 +1410,89 @@ Table II
 
 #### Enacting Clause
 
-Pub. L. 85–857, §1, Sept. 2, 1958, 72 Stat. 1105, provided in part: “That the laws relating to veterans’ benefits are revised, codified, and enacted as title 38, United States Code, ‘Veterans’ Benefits’ ”.
+Pub. L. 85–857, §1, Sept. 2, 1958, 72 Stat. 1105, provided in part: "That the laws relating to veterans' benefits are revised, codified, and enacted as title 38, United States Code, 'Veterans' Benefits' ".
 
 #### Effective Date
 
-Pub. L. 85–857, §2, Sept. 2, 1958, 72 Stat. 1262, provided that: “Except as otherwise provided in this Act, this Act shall take effect on January 1, 1959.”
+Pub. L. 85–857, §2, Sept. 2, 1958, 72 Stat. 1262, provided that: "Except as otherwise provided in this Act, this Act shall take effect on January 1, 1959."
 
 #### Offenses Committed Under Repealed Laws
 
 Pub. L. 85–857, §3, Sept. 2, 1958, 72 Stat. 1262, provided that:
 
-“(a) All offenses committed and all penalties and forfeitures incurred under any of the provisions of law amended or repealed by this Act or the Veterans’ Benefits Act of 1957 may be prosecuted and punished in the same manner and with the same effect as if such Acts had not been enacted.
+"(a) All offenses committed and all penalties and forfeitures incurred under any of the provisions of law amended or repealed by this Act or the Veterans' Benefits Act of 1957 may be prosecuted and punished in the same manner and with the same effect as if such Acts had not been enacted.
 
-“(b) Forfeitures of benefits under laws administered by the Veterans’ Administration occurring before January 1959 shall continue to be effective.”
+"(b) Forfeitures of benefits under laws administered by the Veterans' Administration occurring before January 1959 shall continue to be effective."
 
 #### Continuation of Authority Under Act of July 3, 1930
 
-Pub. L. 85–857, §4, Sept. 2, 1958, 72 Stat. 1262, provided that: “All functions, powers, and duties conferred upon and vested in the President and the Administrator by the Act of July 3, 1930 (46 Stat. 1016) and which were in effect on December 31, 1957, are continued in effect.”
+Pub. L. 85–857, §4, Sept. 2, 1958, 72 Stat. 1262, provided that: "All functions, powers, and duties conferred upon and vested in the President and the Administrator by the Act of July 3, 1930 (46 Stat. 1016) and which were in effect on December 31, 1957, are continued in effect."
 
 #### Cross References
 
 Pub. L. 85–857, §5, Sept. 2, 1958, 72 Stat. 1262, provided that:
 
-“(a) References in other laws to any provision of law replaced by title 38, United States Code, shall, where applicable, be deemed to refer also to the corresponding provision of title 38, United States Code.
+"(a) References in other laws to any provision of law replaced by title 38, United States Code, shall, where applicable, be deemed to refer also to the corresponding provision of title 38, United States Code.
 
-“(b) References in title 38, United States Code, to any provision of title 38, United States Code, shall, where applicable, be deemed to refer also to the prior corresponding provisions of law.
+"(b) References in title 38, United States Code, to any provision of title 38, United States Code, shall, where applicable, be deemed to refer also to the prior corresponding provisions of law.
 
-“(c) Amendments effective after August 18, 1958, made to any provision of law replaced by title 38, United States Code, shall, notwithstanding the repeal of such provision by section 14 of this Act, supersede the corresponding provisions of title 38, United States Code, to the extent that such amendments are inconsistent therewith.”
+"(c) Amendments effective after August 18, 1958, made to any provision of law replaced by title 38, United States Code, shall, notwithstanding the repeal of such provision by section 14 of this Act, supersede the corresponding provisions of title 38, United States Code, to the extent that such amendments are inconsistent therewith."
 
 #### Continuing Availability of Appropriations
 
 Pub. L. 85–857, §6, Sept. 2, 1958, 72 Stat. 1263, provided that:
 
-“(a) Amounts heretofore appropriated to carry out the purposes of any provision of law repealed by this Act, and available on December 31, 1958, shall be available to carry out the purposes of the corresponding provisions of title 38, United States Code.
+"(a) Amounts heretofore appropriated to carry out the purposes of any provision of law repealed by this Act, and available on December 31, 1958, shall be available to carry out the purposes of the corresponding provisions of title 38, United States Code.
 
-“(b) The availability and use of appropriations made for the purposes of the Act of July 1, 1948 (62 Stat. 1210; 50 App. U.S.C. 1991–1996) shall not be affected by the repeal of such Act.”
+"(b) The availability and use of appropriations made for the purposes of the Act of July 1, 1948 (62 Stat. 1210; 50 App. U.S.C. 1991–1996) shall not be affected by the repeal of such Act."
 
 #### Outstanding Rules, Regulations, and Orders
 
-Pub. L. 85–857, §7, Sept. 2, 1958, 72 Stat. 1263, provided that: “All rules, regulations, orders, permits, and other privileges issued or granted by the Administrator of Veterans’ Affairs before December 31, 1958, and in effect on such date (or scheduled to take effect after such date) shall remain in full force and effect until modified, suspended, overruled, or otherwise changed by the Administrator.”
+Pub. L. 85–857, §7, Sept. 2, 1958, 72 Stat. 1263, provided that: "All rules, regulations, orders, permits, and other privileges issued or granted by the Administrator of Veterans' Affairs before December 31, 1958, and in effect on such date (or scheduled to take effect after such date) shall remain in full force and effect until modified, suspended, overruled, or otherwise changed by the Administrator."
 
 #### Publication
 
-Pub. L. 85–857, §8, Sept. 2, 1958, 72 Stat. 1263, provided that: “This Act shall be printed in slip-law form with a table of contents and a comprehensive index and tables furnished by the Committee on Veterans’ Affairs of the House of Representatives; however, such table of contents, comprehensive index and tables shall not be printed in the United States Statutes at Large.”
+Pub. L. 85–857, §8, Sept. 2, 1958, 72 Stat. 1263, provided that: "This Act shall be printed in slip-law form with a table of contents and a comprehensive index and tables furnished by the Committee on Veterans' Affairs of the House of Representatives; however, such table of contents, comprehensive index and tables shall not be printed in the United States Statutes at Large."
 
 #### Pending Claims
 
-Pub. L. 85–857, §9, Sept. 2, 1958, 72 Stat. 1263, provided that: “A claim for benefits which is pending in the Veterans’ Administration on January 1, 1959, or filed thereafter, shall be adjudicated under the laws in effect on December 31, 1958, with respect to the period before January 1, 1959, and, except as provided in section 10, under title 38, United States Code, thereafter.”
+Pub. L. 85–857, §9, Sept. 2, 1958, 72 Stat. 1263, provided that: "A claim for benefits which is pending in the Veterans' Administration on January 1, 1959, or filed thereafter, shall be adjudicated under the laws in effect on December 31, 1958, with respect to the period before January 1, 1959, and, except as provided in section 10, under title 38, United States Code, thereafter."
 
 #### Persons Receiving Benefits on December 31, 1958
 
-Pub. L. 85–857, §10, Sept. 2, 1958, 72 Stat. 1263, provided that: “Any individual receiving benefits as a veteran, or as the widow, child, or parent of a veteran, under public laws administered by the Veterans’ Administration on December 31, 1958, shall, as long as entitlement under such laws continues, receive benefits under the corresponding provisions of title 38, United States Code, thereafter, or benefits at the rate payable under such public laws, whichever will result in the greater benefit being paid to the individual. The provisions of this section shall apply to those claims within the purview of section 9 in which it is determined that benefits are payable for December 31, 1958.”
+Pub. L. 85–857, §10, Sept. 2, 1958, 72 Stat. 1263, provided that: "Any individual receiving benefits as a veteran, or as the widow, child, or parent of a veteran, under public laws administered by the Veterans' Administration on December 31, 1958, shall, as long as entitlement under such laws continues, receive benefits under the corresponding provisions of title 38, United States Code, thereafter, or benefits at the rate payable under such public laws, whichever will result in the greater benefit being paid to the individual. The provisions of this section shall apply to those claims within the purview of section 9 in which it is determined that benefits are payable for December 31, 1958."
 
-#### Persons Entitled to Emergency Officers’ Retirement Pay on December 31, 1958, or Who Failed To Submit Applications Prior to May 25, 1929
+#### Persons Entitled to Emergency Officers' Retirement Pay on December 31, 1958, or Who Failed To Submit Applications Prior to May 25, 1929
 
 Pub. L. 85–857, §11, Sept. 2, 1958, 72 Stat. 1263, as amended by Pub. L. 87–875, Oct. 24, 1962, 76 Stat. 1198, provided that:
 
-“(a) Any person who was receiving, or entitled to receive, emergency officers’ retirement pay, or other privileges or benefits as a retired emergency officer of World War I, on December 31, 1958, under the laws in effect on that day, shall, except where there was fraud, clear and unmistakable error as to conclusion of fact or law, or misrepresentation of material facts, continue, to receive, or be entitle to receive, emergency officers’ retirement pay at the rate otherwise payable on December 31, 1958, and such other privileges and benefits, so long as the conditions warranting such pay, privileges, and benefits under those laws continue.
+"(a) Any person who was receiving, or entitled to receive, emergency officers' retirement pay, or other privileges or benefits as a retired emergency officer of World War I, on December 31, 1958, under the laws in effect on that day, shall, except where there was fraud, clear and unmistakable error as to conclusion of fact or law, or misrepresentation of material facts, continue, to receive, or be entitle to receive, emergency officers' retirement pay at the rate otherwise payable on December 31, 1958, and such other privileges and benefits, so long as the conditions warranting such pay, privileges, and benefits under those laws continue.
 
-“(b) Any individual who, upon application therefor before May 25, 1929, would have been granted emergency officer's retirement pay based upon 30 per centum or more disability under the Act of May 24, 1928 (45 Stat. 735), and who would have been entitled to continue to receive such pay under section 10 of Public Numbered 2, Seventy-third Congress, or under section 1 of Public Numbered 743, Seventy-sixth Congress, and who upon being placed on the emergency officers’ retired list would have been paid retired pay at a monthly rate lower than the monthly rate of disability compensation then payable, shall, upon application made therefor after the date of enactment of this subparagraph \[Oct. 24, 1962\] to the Administrator of Veterans’ Affairs, be placed upon the appropriate emergency officers’ retired list, and thereafter shall be entitled to all rights, privileges, and benefits of retired emergency officers of World War I.”
+"(b) Any individual who, upon application therefor before May 25, 1929, would have been granted emergency officer's retirement pay based upon 30 per centum or more disability under the Act of May 24, 1928 (45 Stat. 735), and who would have been entitled to continue to receive such pay under section 10 of Public Numbered 2, Seventy-third Congress, or under section 1 of Public Numbered 743, Seventy-sixth Congress, and who upon being placed on the emergency officers' retired list would have been paid retired pay at a monthly rate lower than the monthly rate of disability compensation then payable, shall, upon application made therefor after the date of enactment of this subparagraph \[Oct. 24, 1962\] to the Administrator of Veterans' Affairs, be placed upon the appropriate emergency officers' retired list, and thereafter shall be entitled to all rights, privileges, and benefits of retired emergency officers of World War I."
 
 #### Continuation of Certain Rights and Benefits
 
 Pub. L. 85–857, §12, Sept. 2, 1958, 72 Stat. 1264, as amended by Pub. L. 89–50, §1(c), June 24, 1965, 79 Stat. 173; Pub. L. 91–24, §14(a), June 11, 1969, 83 Stat. 35, provided that:
 
-“(a) \[Repealed by Pub. L. 91–24, effective June 11, 1969, except as to any indebtedness which may be due the Government as the result of any benefits granted thereunder. Prior to such repeal, subsec. (a) read as follows: “The repeal of part VIII, and paragraphs 10 and 11 of part VII, of Veterans Regulation Numbered 1(a), sections 3 and 4 of Public Law 16, Seventy-eighth Congress, and section 1507 of the Servicemen's Readjustment Act of 1944, shall not apply in the case of any veteran (1) who enlisted or reenlisted in a regular component of the Armed Forces after October 6, 1945, and before October 7, 1946, or (2) whose discharge or dismissal is changed, corrected, or modified before February 1, 1965, pursuant to section 1552 or 1553 of title 10, United States Code, or by other corrective action by competent authority.”\]
+"(a) \[Repealed by Pub. L. 91–24, effective June 11, 1969, except as to any indebtedness which may be due the Government as the result of any benefits granted thereunder. Prior to such repeal, subsec. (a) read as follows: "The repeal of part VIII, and paragraphs 10 and 11 of part VII, of Veterans Regulation Numbered 1(a), sections 3 and 4 of Public Law 16, Seventy-eighth Congress, and section 1507 of the Servicemen's Readjustment Act of 1944, shall not apply in the case of any veteran (1) who enlisted or reenlisted in a regular component of the Armed Forces after October 6, 1945, and before October 7, 1946, or (2) whose discharge or dismissal is changed, corrected, or modified before February 1, 1965, pursuant to section 1552 or 1553 of title 10, United States Code, or by other corrective action by competent authority."\]
 
-“(b) Nothing in this Act or any amendment or repeal made by it, shall affect any right, liability, penalty, authorization or requirement pertaining to World War adjusted compensation authorized or prescribed under the provisions of the World War Adjusted Compensation Act, or the Adjusted Compensation Payment Act, 1936, or any related Act, which was in effect on December 31, 1958.
+"(b) Nothing in this Act or any amendment or repeal made by it, shall affect any right, liability, penalty, authorization or requirement pertaining to World War adjusted compensation authorized or prescribed under the provisions of the World War Adjusted Compensation Act, or the Adjusted Compensation Payment Act, 1936, or any related Act, which was in effect on December 31, 1958.
 
-“(c) \[Repealed by Pub. L. 89–50, effective July 1, 1966. Prior to such repeal, subsec. (c) read as follows: “Nothing in this Act, or any amendment or repeal made by it, shall deprive any person of benefits under the Mustering-Out Payment Act of 1944 to which he would have been entitled if this Act had not been enacted.”\]
+"(c) \[Repealed by Pub. L. 89–50, effective July 1, 1966. Prior to such repeal, subsec. (c) read as follows: "Nothing in this Act, or any amendment or repeal made by it, shall deprive any person of benefits under the Mustering-Out Payment Act of 1944 to which he would have been entitled if this Act had not been enacted."\]
 
-“(d) Nothing in this Act, or any amendment or repeal made by it, shall affect any right of any person based on a contract entered into before the effective date of this Act, or affect the manner in which such right could have been enforced or obtained but for this Act, or such amendment or repeal.
+"(d) Nothing in this Act, or any amendment or repeal made by it, shall affect any right of any person based on a contract entered into before the effective date of this Act, or affect the manner in which such right could have been enforced or obtained but for this Act, or such amendment or repeal.
 
-“(e) Chapter 37 of title 38, United States Code, is a continuation and restatement of the provisions of title III of the Servicemen's Readjustment Act of 1944, and may be considered to be an amendment to such title III.”
+"(e) Chapter 37 of title 38, United States Code, is a continuation and restatement of the provisions of title III of the Servicemen's Readjustment Act of 1944, and may be considered to be an amendment to such title III."
 
 #### Improvement of United States Code by Pub. L. 102–83; Corresponding Provisions; Savings Provision
 
 Pub. L. 102–83, §7, Aug. 6, 1991, 105 Stat. 410, provided that:
 
-“(a) References to Replaced Laws.—A reference to a provision of title 38, United States Code, replaced by a provision of that title enacted by section 2 \[enacting chapters 3, 5, 7, 9, and 77 of this title, amending sections 618, 621, 654, 1521, 1685, 1833, 2003A, 2014, 5701, 7101, and 7455 of this title, and repealing former chapter 3 of this title\] (including a reference in a regulation, order, or other law) shall be treated as referring to the corresponding provision enacted by this Act.
+"(a) References to Replaced Laws.—A reference to a provision of title 38, United States Code, replaced by a provision of that title enacted by section 2 \[enacting chapters 3, 5, 7, 9, and 77 of this title, amending sections 618, 621, 654, 1521, 1685, 1833, 2003A, 2014, 5701, 7101, and 7455 of this title, and repealing former chapter 3 of this title\] (including a reference in a regulation, order, or other law) shall be treated as referring to the corresponding provision enacted by this Act.
 
-“(b) Savings Provision for Regulations.—A regulation, rule, or order in effect under a provision of title 38, United States Code, replaced by a provision of that title enacted by section 2 shall continue in effect under the corresponding provision enacted by this Act until repealed, amended, or superseded.
+"(b) Savings Provision for Regulations.—A regulation, rule, or order in effect under a provision of title 38, United States Code, replaced by a provision of that title enacted by section 2 shall continue in effect under the corresponding provision enacted by this Act until repealed, amended, or superseded.
 
-“(c) General Savings Provision.—An action taken or an offense committed under a provision of title 38, United States Code, replaced by a provision of that title enacted by section 2 shall be treated as having been taken or committed under the corresponding provision enacted by this Act.”
+"(c) General Savings Provision.—An action taken or an offense committed under a provision of title 38, United States Code, replaced by a provision of that title enacted by section 2 shall be treated as having been taken or committed under the corresponding provision enacted by this Act."
 
 ### **PART I—GENERAL PROVISIONS**
 
@@ -1540,15 +1540,15 @@ Chap. Sec.
 
 31\. Training and Rehabilitation for Veterans with Service-Connected Disabilities 3100
 
-32\. Post-Vietnam Era Veterans’ Educational Assistance 3201
+32\. Post-Vietnam Era Veterans' Educational Assistance 3201
 
 33\. Post-9/11 Educational Assistance 3301. 1
 
         
 
-34\. Veterans’ Educational Assistance 3451
+34\. Veterans' Educational Assistance 3451
 
-35\. Survivors’ and Dependents’ Educational Assistance 3500
+35\. Survivors' and Dependents' Educational Assistance 3500
 
 36\. Administration of Educational Benefits 3670
 
@@ -1584,7 +1584,7 @@ Chap. Sec.
 
 ### **PART V—BOARDS, ADMINISTRATIONS, AND SERVICES**
 
-71\. Board of Veterans’ Appeals 7101
+71\. Board of Veterans' Appeals 7101
 
 72\. United States Court of Appeals for Veterans Claims 7251
 
@@ -1598,7 +1598,7 @@ Chap. Sec.
 
 77\. Veterans Benefits Administration 7701
 
-78\. Veterans’ Canteen Service 7801
+78\. Veterans' Canteen Service 7801
 
 79\. Information Security Education Assistance Program 7901
 
@@ -1614,7 +1614,7 @@ Chap. Sec.
 
 83\. Acceptance of Gifts and Bequests 8301
 
-85\. Disposition of Deceased Veterans’ Personal Property 8501
+85\. Disposition of Deceased Veterans' Personal Property 8501
 
         
 
@@ -1628,69 +1628,69 @@ Chap. Sec.
 
 Pub. L. 109–233, title IV, §402(d)(3), June 15, 2006, 120 Stat. 411, added item for chapter 63.
 
-**2003**—Pub. L. 108–183, title I, §102(e)(2), Dec. 16, 2003, 117 Stat. 2655, substituted “Benefits for Children of Vietnam Veterans and Certain Other Veterans” for “Benefits for Children of Vietnam Veterans” in item for chapter 18.
+**2003**—Pub. L. 108–183, title I, §102(e)(2), Dec. 16, 2003, 117 Stat. 2655, substituted "Benefits for Children of Vietnam Veterans and Certain Other Veterans" for "Benefits for Children of Vietnam Veterans" in item for chapter 18.
 
-**2002**—Pub. L. 107–330, title III, §308(g)(1)(A), Dec. 6, 2002, 116 Stat. 2828, substituted “5100” for “5101” in item for chapter 51.
+**2002**—Pub. L. 107–330, title III, §308(g)(1)(A), Dec. 6, 2002, 116 Stat. 2828, substituted "5100" for "5101" in item for chapter 51.
 
 **2001**—Pub. L. 107–95, §5(a)(2), Dec. 21, 2001, 115 Stat. 918, added item for chapter 20.
 
-**2000**—Pub. L. 106–419, title IV, §401(f)(2), Nov. 1, 2000, 114 Stat. 1861, substituted “Benefits for Children of Vietnam Veterans” and “1802” for “Benefits for Children of Vietnam Veterans Who Are Born With Spina Bifida” and “1801”, respectively, in item for chapter 18.
+**2000**—Pub. L. 106–419, title IV, §401(f)(2), Nov. 1, 2000, 114 Stat. 1861, substituted "Benefits for Children of Vietnam Veterans" and "1802" for "Benefits for Children of Vietnam Veterans Who Are Born With Spina Bifida" and "1801", respectively, in item for chapter 18.
 
-**1998**—Pub. L. 105–368, title V, §512(a)(4)(B), Nov. 11, 1998, 112 Stat. 3341, substituted “Appeals for Veterans Claims” for “Veterans Appeals” in item for chapter 72.
+**1998**—Pub. L. 105–368, title V, §512(a)(4)(B), Nov. 11, 1998, 112 Stat. 3341, substituted "Appeals for Veterans Claims" for "Veterans Appeals" in item for chapter 72.
 
 **1996**—Pub. L. 104–204, title IV, §421(b)(2), Sept. 26, 1996, 110 Stat. 2926, added item for chapter 18.
 
 **1994**—Pub. L. 103–446, title XII, §1201(h)(1), Nov. 2, 1994, 108 Stat. 4688, struck out item for chapter 42 and added identical new item for chapter 42.
 
-Pub. L. 103–353, §2(b)(1), Oct. 13, 1994, 108 Stat. 3169, substituted “Employment and Reemployment Rights of Members of the Uniformed Services” and “4301” for “Veterans’ Reemployment Rights” and “2021”, respectively, in item for chapter 43.
+Pub. L. 103–353, §2(b)(1), Oct. 13, 1994, 108 Stat. 3169, substituted "Employment and Reemployment Rights of Members of the Uniformed Services" and "4301" for "Veterans' Reemployment Rights" and "2021", respectively, in item for chapter 43.
 
-**1991**—Pub. L. 102–86, title IV, §401(b)(2), Aug. 14, 1991, 105 Stat. 422, inserted “; Enhanced-Use Leases of Real Property” in item for chapter 81.
+**1991**—Pub. L. 102–86, title IV, §401(b)(2), Aug. 14, 1991, 105 Stat. 422, inserted "; Enhanced-Use Leases of Real Property" in item for chapter 81.
 
-Pub. L. 102–83, §§2(d)(1), 5(b)(2), Aug. 6, 1991, 105 Stat. 402, 406, substituted “Department of Veterans Affairs . . . 301” for “Veterans’ Administration; Officers and Employees . . . 201” in item for chapter 3, added items for chapters 5, 7, 9, and 77, substituted “1101” for “301” in item for chapter 11, “1301” for “401” in item for chapter 13, “1501” for “501” in item for chapter 15, “1701” for “601” in item for chapter 17, “1901” for “701” in item for chapter 19, “2101” for “801” in item for chapter 21, “2301” for “901” in item for chapter 23, “2400” for “1000” in item for chapter 24, “3001” for “1401” in item for chapter 30, “3100” for “1500” in item for chapter 31, “3201” for “1601” in item for chapter 32, “3451” for “1651” in item for chapter 34, “3500” for “1700” in item for chapter 35, “3670” for “1770” in item for chapter 36, “3701” for “1801” in item for chapter 37, “3901” for “1901” in item for chapter 39, “4100” for “2000” in item for chapter 41, and “4211” for “2011” in item for chapter 42.
+Pub. L. 102–83, §§2(d)(1), 5(b)(2), Aug. 6, 1991, 105 Stat. 402, 406, substituted "Department of Veterans Affairs . . . 301" for "Veterans' Administration; Officers and Employees . . . 201" in item for chapter 3, added items for chapters 5, 7, 9, and 77, substituted "1101" for "301" in item for chapter 11, "1301" for "401" in item for chapter 13, "1501" for "501" in item for chapter 15, "1701" for "601" in item for chapter 17, "1901" for "701" in item for chapter 19, "2101" for "801" in item for chapter 21, "2301" for "901" in item for chapter 23, "2400" for "1000" in item for chapter 24, "3001" for "1401" in item for chapter 30, "3100" for "1500" in item for chapter 31, "3201" for "1601" in item for chapter 32, "3451" for "1651" in item for chapter 34, "3500" for "1700" in item for chapter 35, "3670" for "1770" in item for chapter 36, "3701" for "1801" in item for chapter 37, "3901" for "1901" in item for chapter 39, "4100" for "2000" in item for chapter 41, and "4211" for "2011" in item for chapter 42.
 
-Pub. L. 102–54, §14(e)(1), June 13, 1991, 105 Stat. 287, inserted “United States” in item for chapter 72.
+Pub. L. 102–54, §14(e)(1), June 13, 1991, 105 Stat. 287, inserted "United States" in item for chapter 72.
 
-Pub. L. 102–40, title IV, §§402(c)(2), 403(f)(1), May 7, 1991, 105 Stat. 239, 240, substituted “5101” for “3001” in item for chapter 51, “5301” for “3101” in item for chapter 53, “5501” for “3201” in item for chapter 55, “5701” for “3301” in item for chapter 57, “5901” for “3401” in item for chapter 59, “6101” for “3501” in item for chapter 61, “Boards, Administrations, and Services” for “Boards and Departments” in item for part V, “7101” for “4001” in item chapter 71, “7251” for “4051” in item for chapter 72, “Veterans Health Administration—Organization and Functions . . . 7301” for “Department of Medicine and Surgery . . . 4101”, added item for chapter 74, struck out item for chapter 75 “Veterans’ Canteen Services . . . 4201”, substituted “7601” for “4301” in item for chapter 76, added item for chapter 78, substituted “8101” for “5001” in item for chapter 81, “8201” for “5070” in item for chapter 82, “8301” for “5101” in item for chapter 83, and “8501” for “5201” in item for chapter 85.
+Pub. L. 102–40, title IV, §§402(c)(2), 403(f)(1), May 7, 1991, 105 Stat. 239, 240, substituted "5101" for "3001" in item for chapter 51, "5301" for "3101" in item for chapter 53, "5501" for "3201" in item for chapter 55, "5701" for "3301" in item for chapter 57, "5901" for "3401" in item for chapter 59, "6101" for "3501" in item for chapter 61, "Boards, Administrations, and Services" for "Boards and Departments" in item for part V, "7101" for "4001" in item chapter 71, "7251" for "4051" in item for chapter 72, "Veterans Health Administration—Organization and Functions . . . 7301" for "Department of Medicine and Surgery . . . 4101", added item for chapter 74, struck out item for chapter 75 "Veterans' Canteen Services . . . 4201", substituted "7601" for "4301" in item for chapter 76, added item for chapter 78, substituted "8101" for "5001" in item for chapter 81, "8201" for "5070" in item for chapter 82, "8301" for "5101" in item for chapter 83, and "8501" for "5201" in item for chapter 85.
 
-Pub. L. 102–16, §9(c)(2), Mar. 22, 1991, 105 Stat. 55, struck out “Disabled and Vietnam Era” after “Employment and Training of” in item for chapter 42.
+Pub. L. 102–16, §9(c)(2), Mar. 22, 1991, 105 Stat. 55, struck out "Disabled and Vietnam Era" after "Employment and Training of" in item for chapter 42.
 
-**1988**—Pub. L. 100–687, div. A, title I, §103(c)(1), title III, §301(b), Nov. 18, 1988, 102 Stat. 4107, 4121, substituted “Claims” for “Applications” in item for chapter 51 and added item for chapter 72.
+**1988**—Pub. L. 100–687, div. A, title I, §103(c)(1), title III, §301(b), Nov. 18, 1988, 102 Stat. 4107, 4121, substituted "Claims" for "Applications" in item for chapter 51 and added item for chapter 72.
 
 Pub. L. 100–322, title II, §216(e)(2), May 20, 1988, 102 Stat. 530, added item for chapter 76.
 
 **1984**—Pub. L. 98–525, title VII, §702(a)(2), Oct. 19, 1984, 98 Stat. 2563, added item for chapter 30.
 
-**1982**—Pub. L. 97–306, title III, §301(b)(2), Oct. 14, 1982, 96 Stat. 1437, substituted “2000” for “2001” in item for chapter 41.
+**1982**—Pub. L. 97–306, title III, §301(b)(2), Oct. 14, 1982, 96 Stat. 1437, substituted "2000" for "2001" in item for chapter 41.
 
-Pub. L. 97–295, §4(1)(A), Oct. 12, 1982, 96 Stat. 1304, substituted “1500” for “1,500” in item for chapter 31.
+Pub. L. 97–295, §4(1)(A), Oct. 12, 1982, 96 Stat. 1304, substituted "1500" for "1,500" in item for chapter 31.
 
-Pub. L. 97–295, §4(1)(B), Oct. 12, 1982, 96 Stat. 1304, substituted “1651” for “1650” in item for chapter 34.
+Pub. L. 97–295, §4(1)(B), Oct. 12, 1982, 96 Stat. 1304, substituted "1651" for "1650" in item for chapter 34.
 
 Pub. L. 97–295, §4(1)(C), Oct. 12, 1982, 96 Stat. 1304, added item for chapter 82.
 
-**1981**—Pub. L. 97–72, title III, §302(b)(2), Nov. 3, 1981, 95 Stat. 1059, substituted “Housing and Small Business Loans” for “Home, Condominium, and Mobile Home Loans” in item for chapter 37.
+**1981**—Pub. L. 97–72, title III, §302(b)(2), Nov. 3, 1981, 95 Stat. 1059, substituted "Housing and Small Business Loans" for "Home, Condominium, and Mobile Home Loans" in item for chapter 37.
 
-**1980**—Pub. L. 96–466, title I, §101(b), Oct. 17, 1980, 94 Stat. 2186, substituted “Training and Rehabilitation for Veterans with Service-Connected Disabilities . . . 1,500” for “Vocational Rehabilitation . . . 1501” in item for chapter 31.
+**1980**—Pub. L. 96–466, title I, §101(b), Oct. 17, 1980, 94 Stat. 2186, substituted "Training and Rehabilitation for Veterans with Service-Connected Disabilities . . . 1,500" for "Vocational Rehabilitation . . . 1501" in item for chapter 31.
 
-**1976**—Pub. L. 94–581, title II, §203(a), Oct. 21, 1976, 90 Stat. 2856, inserted “Nursing Home,” in item for chapter 17.
+**1976**—Pub. L. 94–581, title II, §203(a), Oct. 21, 1976, 90 Stat. 2856, inserted "Nursing Home," in item for chapter 17.
 
-Pub. L. 94–502, title III, §309(b), Oct. 15, 1976, 90 Stat. 2391, substituted “Survivors’ and Dependents’ Educational Assistance” for “War Orphans’ and Widows’ Education Assistance” in item for chapter 35.
+Pub. L. 94–502, title III, §309(b), Oct. 15, 1976, 90 Stat. 2391, substituted "Survivors' and Dependents' Educational Assistance" for "War Orphans' and Widows' Education Assistance" in item for chapter 35.
 
 Pub. L. 94–502, title IV, §405, Oct. 15, 1976, 90 Stat. 2397, added item for chapter 32.
 
-**1974**—Pub. L. 93–569, §7(d), Dec. 31, 1974, 88 Stat. 1866, substituted “Home, Condominium, and Mobile Home Loans” for “Home, Farm, and Business Loans” in item for chapter 37.
+**1974**—Pub. L. 93–569, §7(d), Dec. 31, 1974, 88 Stat. 1866, substituted "Home, Condominium, and Mobile Home Loans" for "Home, Farm, and Business Loans" in item for chapter 37.
 
 Pub. L. 93–508, title IV, §404(b), Dec. 3, 1974, 88 Stat. 1600, added item for chapter 43.
 
 **1973**—Pub. L. 93–43, §2(b), June 18, 1973, 87 Stat. 78, added item for chapter 24.
 
-**1972**—Pub. L. 92–540, title V, §§502(b), 503(b), Oct. 24, 1972, 86 Stat. 1097, 1098, substituted “, Training and” for “and Employment” in item for chapter 41, and added item for chapter 42.
+**1972**—Pub. L. 92–540, title V, §§502(b), 503(b), Oct. 24, 1972, 86 Stat. 1097, 1098, substituted ", Training and" for "and Employment" in item for chapter 41, and added item for chapter 42.
 
-**1971**—Pub. L. 91–666, §2(b), Jan. 11, 1971, 84 Stat. 2000, substituted “Automobiles and Adaptive Equipment for Certain Disabled Veterans and Members of the Armed Forces” for “Automobiles for Disabled Veterans” in item for chapter 39.
+**1971**—Pub. L. 91–666, §2(b), Jan. 11, 1971, 84 Stat. 2000, substituted "Automobiles and Adaptive Equipment for Certain Disabled Veterans and Members of the Armed Forces" for "Automobiles for Disabled Veterans" in item for chapter 39.
 
-**1968**—Pub. L. 90–631, §2(h)(2), Oct. 23, 1968, 82 Stat. 1333, substituted “War Orphans’ and Widows’ Educational Assistance . . . 1700” for “War Orphans’ Educational Assistance . . . 1701” in item for chapter 35.
+**1968**—Pub. L. 90–631, §2(h)(2), Oct. 23, 1968, 82 Stat. 1333, substituted "War Orphans' and Widows' Educational Assistance . . . 1700" for "War Orphans' Educational Assistance . . . 1701" in item for chapter 35.
 
-**1966**—Pub. L. 89–358, §§4(c), 6(b), Mar. 3, 1966, 80 Stat. 23, 27, substituted chapter “34. Veterans’ Educational Assistance . . . 1650” for chapter “33. Education of Korean Conflict Veterans . . . 1601” and added chapter 36; and substituted “Job Counseling and Employment Placement Service for Veterans” for “Unemployment Benefits for Veterans” in item for chapter 41, respectively.
+**1966**—Pub. L. 89–358, §§4(c), 6(b), Mar. 3, 1966, 80 Stat. 23, 27, substituted chapter "34. Veterans' Educational Assistance . . . 1650" for chapter "33. Education of Korean Conflict Veterans . . . 1601" and added chapter 36; and substituted "Job Counseling and Employment Placement Service for Veterans" for "Unemployment Benefits for Veterans" in item for chapter 41, respectively.
 
 **1965**—Pub. L. 89–50, §1(b), June 24, 1965, 79 Stat. 173, struck out item for chapter 43 which related to mustering out payments.
 

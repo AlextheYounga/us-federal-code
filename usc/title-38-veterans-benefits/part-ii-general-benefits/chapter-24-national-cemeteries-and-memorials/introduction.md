@@ -18,7 +18,7 @@ Sec.
 
 2407\. Authority to accept and maintain suitable memorials.
 
-2408\. Aid to States for establishment, expansion, and improvement of veterans’ cemeteries.
+2408\. Aid to States for establishment, expansion, and improvement of veterans' cemeteries.
 
 2409\. Memorial areas in Arlington National Cemetery.
 
@@ -40,13 +40,13 @@ Sec.
 
 **2013**—Pub. L. 112–260, title I, §103(b), Jan. 10, 2013, 126 Stat. 2420, added item 2414.
 
-**2012**—Pub. L. 112–154, title VI, §§601(c)(2), 602(b), Aug. 6, 2012, 126 Stat. 1199, 1200, added items 2410A and 2413 and struck out former item 2413 “Prohibition on certain demonstrations at cemeteries under control of the National Cemetery Administration and at Arlington National Cemetery”.
+**2012**—Pub. L. 112–154, title VI, §§601(c)(2), 602(b), Aug. 6, 2012, 126 Stat. 1199, 1200, added items 2410A and 2413 and struck out former item 2413 "Prohibition on certain demonstrations at cemeteries under control of the National Cemetery Administration and at Arlington National Cemetery".
 
 **2006**—Pub. L. 109–228, §2(a)(2), May 29, 2006, 120 Stat. 388, added item 2413.
 
 **2004**—Pub. L. 108–454, title VI, §602(b), Dec. 10, 2004, 118 Stat. 3624, added item 2412.
 
-**1998**—Pub. L. 105–368, title IV, §403(c)(4), (d)(1), Nov. 11, 1998, 112 Stat. 3338, 3339, substituted “Administration; composition of Administration” for “System; composition of such system; appointment of director” in item 2400 and “Administration” for “System” in item 2411.
+**1998**—Pub. L. 105–368, title IV, §403(c)(4), (d)(1), Nov. 11, 1998, 112 Stat. 3338, 3339, substituted "Administration; composition of Administration" for "System; composition of such system; appointment of director" in item 2400 and "Administration" for "System" in item 2411.
 
 **1997**—Pub. L. 105–116, §1(b), Nov. 21, 1997, 111 Stat. 2382, added item 2411.
 

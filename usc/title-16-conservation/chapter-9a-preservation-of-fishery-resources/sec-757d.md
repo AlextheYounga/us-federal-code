@@ -26,8 +26,8 @@ Subsec. (a)(7). Pub. L. 101–627, §401(2), redesignated par. (7) as (1).
 
 **1979**—Subsec. (a). Pub. L. 96–118, §3(a), substituted provisions authorizing appropriations of not to exceed $11,000,000, $13,000,000, and $15,000,000 for fiscal years 1980 through 1982, respectively, for provisions authorizing appropriations of not to exceed $25,000,000, $6,000,000, $7,500,000, $8,500,000, $20,000,000, $20,000,000, $20,000,000, $20,000,000, $20,000,000, and $20,000,000 for fiscal years ending June 30, 1970, through June 30, 1979, respectively.
 
-Subsec. (b). Pub. L. 96–118, §3(b), substituted “$1,250,000” for “$1,000,000”.
+Subsec. (b). Pub. L. 96–118, §3(b), substituted "$1,250,000" for "$1,000,000".
 
-**1974**—Subsec. (a). Pub. L. 93–362 substituted “$20,000,000 for each of the fiscal years ending June 30, 1974, June 30, 1975, June 30, 1976, June 30, 1977, June 30, 1978, and June 30, 1979” for “$10,000,000 for the fiscal year ending June 30, 1974”.
+**1974**—Subsec. (a). Pub. L. 93–362 substituted "$20,000,000 for each of the fiscal years ending June 30, 1974, June 30, 1975, June 30, 1976, June 30, 1977, June 30, 1978, and June 30, 1979" for "$10,000,000 for the fiscal year ending June 30, 1974".
 
 **1970**—Subsec. (a). Pub. L. 91–249 authorized appropriation of not to exceed $6,000,000, $7,500,000, $8,500,000 and $10,000,000 for fiscal years ending June 30, 1971, June 30, 1972, June 30, 1973, and June 30, 1974, respectively, to be available until expended.

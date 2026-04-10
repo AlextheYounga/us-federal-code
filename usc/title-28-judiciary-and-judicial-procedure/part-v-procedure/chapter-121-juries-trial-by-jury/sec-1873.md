@@ -8,7 +8,7 @@ In any case of admiralty and maritime jurisdiction relating to any matter of con
 
 Based on title 28, U.S.C., 1940 ed., §770 (R.S. §§566, 648; Mar. 3, 1911, ch. 231, §291, 36 Stat. 1167).
 
-Words “and Territories” following words “in different States” were omitted as obsolete. The act of February 26, 1845, ch. 20, 5 Stat. 726, from which this language was derived was intended primarily to cover the Great Lakes regions.
+Words "and Territories" following words "in different States" were omitted as obsolete. The act of February 26, 1845, ch. 20, 5 Stat. 726, from which this language was derived was intended primarily to cover the Great Lakes regions.
 
 The first sentence of section 770 of title 28, U.S.C., 1940 ed., providing generally for the right of jury trials in district courts, was omitted as covered by Rule 38 of the Federal Rules of Civil Procedure.
 

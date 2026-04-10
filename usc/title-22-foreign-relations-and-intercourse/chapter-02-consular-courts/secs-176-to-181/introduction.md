@@ -6,7 +6,7 @@ Section 176, R.S. §4128, related to the exercise of judicial duties by the Secr
 
 Section 177, R.S. §§4127, 4129; act June 14, 1878, ch. 193, 20 Stat. 131, related to the general extension to unnamed countries with which the United States may after July 1, 1870 enter into treaty relations, of the provisions relating to the jurisdiction of consular and diplomatic officers.
 
-Section 178, R.S. §4130; acts Feb. 1, 1876, ch. 6, 19 Stat. 2; Feb. 5, 1915, ch. 23, §6, 38 Stat. 806, related to the definition of the words “minister” and “consul”.
+Section 178, R.S. §4130; acts Feb. 1, 1876, ch. 6, 19 Stat. 2; Feb. 5, 1915, ch. 23, §6, 38 Stat. 806, related to the definition of the words "minister" and "consul".
 
 Section 179, R.S. §4110, related to the responsibility of diplomatic and consular officers as judicial officers.
 

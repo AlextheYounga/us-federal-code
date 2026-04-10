@@ -4,7 +4,7 @@
 
 (1) This subsection shall apply to any individual who—
 
-(A) is employed by the Library of Congress Child Development Center (known as the “Little Scholars Child Development Center”, in this section referred to as the “Center”) established under section 205(g)(1) of the Legislative Branch Appropriations Act, 1991; and
+(A) is employed by the Library of Congress Child Development Center (known as the "Little Scholars Child Development Center", in this section referred to as the "Center") established under section 205(g)(1) of the Legislative Branch Appropriations Act, 1991; and
 
 (B) makes an election to be covered by this subsection with the Librarian of Congress, not later than the later of—
 
@@ -70,6 +70,6 @@ The Librarian of Congress may prescribe regulations to carry out this section.
 
 Section 205(g)(1) of the Legislative Branch Appropriations Act, 1991, referred to in subsec. (a)(1)(A), is section 205(g)(1) of Pub. L. 101–520, which is set out as a note under section 141 of this title.
 
-[1 So in original. Probably should be “chapter,”.](#162b_1)
+[1 So in original. Probably should be "chapter,".](#162b_1)
 
-[2 So in original. Probably should be followed by “of title 5”.](#162b_2)
+[2 So in original. Probably should be followed by "of title 5".](#162b_2)

@@ -40,7 +40,7 @@ The National Environmental Policy Act of 1969, referred to in subsec. (c)(3), is
 
 **2004**—Subsec. (c). Pub. L. 108–324, §107(d)(1), inserted heading.
 
-Subsec. (c)(1). Pub. L. 108–324, §107(d)(1), (2), designated first sentence as subpar. (A) and inserted par. and subpar. headings and designated last sentence as subpar. (B), inserted subpar. heading, and substituted “The Special Court shall have” for “Such court shall have”.
+Subsec. (c)(1). Pub. L. 108–324, §107(d)(1), (2), designated first sentence as subpar. (A) and inserted par. and subpar. headings and designated last sentence as subpar. (B), inserted subpar. heading, and substituted "The Special Court shall have" for "Such court shall have".
 
 Subsec. (c)(2). Pub. L. 108–324, §107(d)(3), added par. (2).
 

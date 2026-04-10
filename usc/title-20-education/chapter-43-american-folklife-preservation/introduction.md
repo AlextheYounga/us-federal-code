@@ -20,7 +20,7 @@ Sec.
 
         
 
-#### SUBCHAPTER II—VETERANS’ ORAL HISTORY
+#### SUBCHAPTER II—VETERANS' ORAL HISTORY
 
 2141\. Findings; purpose.
 

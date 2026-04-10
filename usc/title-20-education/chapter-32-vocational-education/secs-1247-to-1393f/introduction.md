@@ -4,7 +4,7 @@
 
 Section 1247, Pub. L. 88–210, title I, §107, as added Pub. L. 90–576, title I, §101(b), Oct. 16, 1968, 82 Stat. 1069, set forth limitations on payments for vocational education assistance.
 
-Section 1248, Pub. L. 88–210, title I, §108, as added Pub. L. 90–576, title I, §101(b), Oct. 16, 1968, 82 Stat. 1069; amended Pub. L. 92–318, title II, §202, June 23, 1972, 86 Stat. 325; Pub. L. 93–380, title VIII, §841(a)(4), Aug. 21, 1974, 88 Stat. 607, defined “vocational education”, “area vocational education school”, “school facilities”, “construction”. “Commissioner”, “handicapped”, “State”, “State board”, “local educational agency”, “high school”, “private vocational training institution”, “Vocational Education Act of 1946”, “supplementary vocational education Acts”, “vocational training”, and “postsecondary educational institution”.
+Section 1248, Pub. L. 88–210, title I, §108, as added Pub. L. 90–576, title I, §101(b), Oct. 16, 1968, 82 Stat. 1069; amended Pub. L. 92–318, title II, §202, June 23, 1972, 86 Stat. 325; Pub. L. 93–380, title VIII, §841(a)(4), Aug. 21, 1974, 88 Stat. 607, defined "vocational education", "area vocational education school", "school facilities", "construction". "Commissioner", "handicapped", "State", "State board", "local educational agency", "high school", "private vocational training institution", "Vocational Education Act of 1946", "supplementary vocational education Acts", "vocational training", and "postsecondary educational institution".
 
 Section 1261, Pub. L. 88–210, title I, §121, as added Pub. L. 90–576, title I, §101(b), Oct. 16, 1968, 82 Stat. 1072, authorized grants for State vocational education programs.
 
@@ -48,7 +48,7 @@ Section 1353, Pub. L. 88–210, title I, §173, as added Pub. L. 90–576, title
 
 Section 1354, Pub. L. 88–210, title I, §174, as added Pub. L. 90–576, title I, §101(b), Oct. 16, 1968, 82 Stat. 1087, limited use of funds for cooperative vocational education programs.
 
-Section 1355, Pub. L. 88–210, title I, §175, as added Pub. L. 90–576, title I, §101(b), Oct. 16, 1968, 82 Stat. 1087, defined “cooperative work-study program”.
+Section 1355, Pub. L. 88–210, title I, §175, as added Pub. L. 90–576, title I, §101(b), Oct. 16, 1968, 82 Stat. 1087, defined "cooperative work-study program".
 
 Section 1371, Pub. L. 88–210, title I, §181, as added Pub. L. 90–576, title I, §101(b), Oct. 16, 1968, 82 Stat. 1088; amended Pub. L. 91–230, title VII, §706(a), Apr. 13, 1970, 84 Stat. 189; Pub. L. 92–318, title II, §207, June 23, 1972, 86 Stat. 326; Pub. L. 94–482, title II, §201(n), Oct. 12, 1976, 90 Stat. 2169, set forth funding provisions for work-study programs for vocational education students.
 

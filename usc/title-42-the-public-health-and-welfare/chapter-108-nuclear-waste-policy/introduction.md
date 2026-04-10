@@ -190,7 +190,7 @@ Sec.
 
 #### SUBCHAPTER IV—NUCLEAR WASTE NEGOTIATOR
 
-10241\. “State” defined.
+10241\. "State" defined.
 
 10242\. Office of Nuclear Waste Negotiator.
 

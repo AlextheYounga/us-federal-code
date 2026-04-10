@@ -6,4 +6,4 @@ This subchapter was originally added by Pub. L. 102–40, May 7, 1991, 105 Stat.
 
 #### Amendments
 
-**2004**—Pub. L. 108–445, §3(b), Dec. 3, 2004, 118 Stat. 2636, substituted “PAY FOR PHYSICIANS AND DENTISTS” for “SPECIAL PAY FOR PHYSICIANS AND DENTISTS” in subchapter heading.
+**2004**—Pub. L. 108–445, §3(b), Dec. 3, 2004, 118 Stat. 2636, substituted "PAY FOR PHYSICIANS AND DENTISTS" for "SPECIAL PAY FOR PHYSICIANS AND DENTISTS" in subchapter heading.

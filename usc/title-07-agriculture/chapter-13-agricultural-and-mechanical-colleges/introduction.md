@@ -74,6 +74,6 @@ Sec.
 
 348\. Rules and regulations.
 
-349\. “State” defined.
+349\. "State" defined.
 
         

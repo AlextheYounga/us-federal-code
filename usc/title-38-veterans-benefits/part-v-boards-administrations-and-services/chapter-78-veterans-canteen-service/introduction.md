@@ -1,8 +1,8 @@
-### **CHAPTER 78—VETERANS’ CANTEEN SERVICE**
+### **CHAPTER 78—VETERANS' CANTEEN SERVICE**
 
 Sec.
 
-7801\. Purpose of Veterans’ Canteen Service.
+7801\. Purpose of Veterans' Canteen Service.
 
 7802\. Duties of Secretary with respect to Service.
 
@@ -26,7 +26,7 @@ Sec.
 
 #### Amendments
 
-**1991**—Pub. L. 102–83, §4(b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 404, 405, substituted “Secretary” for “Administrator” in item 7802.
+**1991**—Pub. L. 102–83, §4(b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 404, 405, substituted "Secretary" for "Administrator" in item 7802.
 
 Pub. L. 102–40, title IV, §402(a), (c)(1), May 7, 1991, 105 Stat. 238, 239, redesignated chapter 75 of this title as this chapter and renumbered items 4201 to 4210 as 7801 to 7810, respectively.
 

@@ -6,7 +6,7 @@ It shall be unlawful for any employer or his duly authorized agent to discharge 
 
 #### Amendments
 
-**1984**—Pub. L. 98–426 inserted after first sentence “The discharge or refusal to employ a person who has been adjudicated to have filed a fraudulent claim for compensation is not a violation of this section.”, substituted “$1,000” for “$100”, and substituted “$5,000” for “$1,000”.
+**1984**—Pub. L. 98–426 inserted after first sentence "The discharge or refusal to employ a person who has been adjudicated to have filed a fraudulent claim for compensation is not a violation of this section.", substituted "$1,000" for "$100", and substituted "$5,000" for "$1,000".
 
 #### Effective Date of 1984 Amendment
 

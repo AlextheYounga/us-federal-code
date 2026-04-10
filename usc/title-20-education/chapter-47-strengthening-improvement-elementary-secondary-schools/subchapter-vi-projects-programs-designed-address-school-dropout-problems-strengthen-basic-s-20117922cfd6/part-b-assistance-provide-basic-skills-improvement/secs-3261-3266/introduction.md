@@ -4,7 +4,7 @@
 
 Sections were omitted in the general amendment of the Elementary and Secondary Education Act of 1965, Pub. L. 89–10, by Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3519.
 
-Section 3261, Pub. L. 89–10, title VI, §6101, as added Pub. L. 100–297, title I, §1001, Apr. 28, 1988, 102 Stat. 270, provided that this part could be cited as the “Secondary Schools Basic Skills Demonstration Assistance Act of 1988”.
+Section 3261, Pub. L. 89–10, title VI, §6101, as added Pub. L. 100–297, title I, §1001, Apr. 28, 1988, 102 Stat. 270, provided that this part could be cited as the "Secondary Schools Basic Skills Demonstration Assistance Act of 1988".
 
 A prior section 3261, Pub. L. 89–10, title VII, §751, as added Pub. L. 95–561, title VII, §701, Nov. 1, 1978, 92 Stat. 2282; amended Pub. L. 98–511, title II, §201, Oct. 19, 1984, 98 Stat. 2385, related to Office of Bilingual Education and Minority Languages Affairs, prior to the general amendment of the Elementary and Secondary Education Act of 1965, Pub. L. 89–10, by Pub. L. 100–297.
 

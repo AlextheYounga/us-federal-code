@@ -66,4 +66,4 @@ Except for the authority provided in section 2(c)(1),[1](#373b_1_target) the law
 
 (Pub. L. 107–69, §1, Nov. 12, 2001, 115 Stat. 593.)
 
-[1 So in original. Probably should be “subsection (c)(1)”.](#373b_1)
+[1 So in original. Probably should be "subsection (c)(1)".](#373b_1)

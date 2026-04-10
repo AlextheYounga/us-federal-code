@@ -26,4 +26,4 @@ Subject to section 460mmm–4(l)(3) [1](#460mmm-5_1_target) of this title, in t
 
 (Pub. L. 106–353, §7, Oct. 24, 2000, 114 Stat. 1379.)
 
-[1 So in original. Probably should be section “460mmm–4(*l*)(5)”.](#460mmm-5_1)
+[1 So in original. Probably should be section "460mmm–4(*l*)(5)".](#460mmm-5_1)

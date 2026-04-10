@@ -1,14 +1,14 @@
-### **CHAPTER 102—JUNIOR RESERVE OFFICERS’ TRAINING CORPS**
+### **CHAPTER 102—JUNIOR RESERVE OFFICERS' TRAINING CORPS**
 
 Sec.
 
-2031\. Junior Reserve Officers’ Training Corps.
+2031\. Junior Reserve Officers' Training Corps.
 
 2032\. Responsibility of the Secretaries of the military departments to maximize enrollment and enhance efficiency.
 
 2033\. Instructor qualifications.
 
-2034\. Educational institutions not maintaining units of Junior Reserve Officers’ Training Corps: issuance of arms, tentage, and equipment.
+2034\. Educational institutions not maintaining units of Junior Reserve Officers' Training Corps: issuance of arms, tentage, and equipment.
 
         
 
@@ -18,7 +18,7 @@ Sec.
 
 **2006**—Pub. L. 109–364, div. A, title V, §539(b), Oct. 17, 2006, 120 Stat. 2211, added item 2033.
 
-**2001**—Pub. L. 107–107, div. A, title V, §596(c)(2), Dec. 28, 2001, 115 Stat. 1127, struck out item 2033 “Contingent funding increase”.
+**2001**—Pub. L. 107–107, div. A, title V, §596(c)(2), Dec. 28, 2001, 115 Stat. 1127, struck out item 2033 "Contingent funding increase".
 
 **1999**—Pub. L. 106–65, div. A, title V, §547(a)(2), Oct. 5, 1999, 113 Stat. 609, added item 2033.
 

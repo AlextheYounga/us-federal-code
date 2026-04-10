@@ -58,7 +58,7 @@ Sec.
 
 **2007**—Pub. L. 110–157, title III, §301(b)(2), Dec. 26, 2007, 121 Stat. 1836, added item 5317A.
 
-**2003**—Pub. L. 108–183, title VII, §708(c)(4)(B)(ii), Dec. 16, 2003, 117 Stat. 2675, substituted “Social Security Administration” for “Department of Health and Human Services” in item 5318.
+**2003**—Pub. L. 108–183, title VII, §708(c)(4)(B)(ii), Dec. 16, 2003, 117 Stat. 2675, substituted "Social Security Administration" for "Department of Health and Human Services" in item 5318.
 
 **2001**—Pub. L. 107–103, title V, §505(a)(2), Dec. 27, 2001, 115 Stat. 996, added item 5313B.
 
@@ -78,7 +78,7 @@ Pub. L. 96–385, title V, §504(b), Oct. 7, 1980, 94 Stat. 1535, added item 311
 
 **1978**—Pub. L. 95–588, title III, §305(b), Nov. 4, 1978, 92 Stat. 2508, added item 3112.
 
-**1972**—Pub. L. 92–328, title II, §203, June 30, 1972, 86 Stat. 397, substituted “claims by the United States” for “overpayments” in item 3102.
+**1972**—Pub. L. 92–328, title II, §203, June 30, 1972, 86 Stat. 397, substituted "claims by the United States" for "overpayments" in item 3102.
 
 **1970**—Pub. L. 91–376, §8(c), Aug. 12, 1970, 84 Stat. 790, added item 3111.
 

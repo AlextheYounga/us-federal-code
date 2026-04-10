@@ -2,7 +2,7 @@
 
 Section 15h, acts June 8, 1936, ch. 541, §1, 49 Stat. 1488; Aug. 1, 1946, ch. 725, §1, 60 Stat. 775, provided for a popular name. Subject matter of section prior to its amendment related to the development of vocational education in States and Territories, appropriations and their allotment, and matching of funds by States and Territories, and was replaced by sections 15j and 15k of this title.
 
-Section 15i, acts June 8, 1936, ch. 541, §2, 49 Stat. 1488; Aug. 1, 1946, ch. 725, title I, §101, 60 Stat. 775; Aug. 2, 1956, ch. 871, title III, §301, 70 Stat. 925; June 25, 1959, Pub. L. 86–70, §18(b)(2), 73 Stat. 144; July 12, 1960, Pub. L. 86–624, §14(b)(3), 74 Stat. 414, defined “States and Territories”, “State plan”, “State board”, and “Smith-Hughes Vocational Education Act”.
+Section 15i, acts June 8, 1936, ch. 541, §2, 49 Stat. 1488; Aug. 1, 1946, ch. 725, title I, §101, 60 Stat. 775; Aug. 2, 1956, ch. 871, title III, §301, 70 Stat. 925; June 25, 1959, Pub. L. 86–70, §18(b)(2), 73 Stat. 144; July 12, 1960, Pub. L. 86–624, §14(b)(3), 74 Stat. 414, defined "States and Territories", "State plan", "State board", and "Smith-Hughes Vocational Education Act".
 
 Section 15j, acts June 8, 1936, ch. 541, §3, 49 Stat. 1489; Aug. 1, 1946, ch. 725, title I, §101, 60 Stat. 775; Aug. 2, 1956, ch. 871, title III, §301, 70 Stat. 925; Aug. 8, 1956, ch. 1039, §2, 70 Stat. 1126, authorized appropriations for programs in vocational education in agriculture, home economics, trades and industry, distributive occupations, and fishery trades.
 

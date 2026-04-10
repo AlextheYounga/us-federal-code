@@ -26,7 +26,7 @@ Sec.
 
 1723\. Commission on Interoperable Data Sharing.
 
-1724\. Personnel management authorities for positions involved in the development and implementation of the interoperable electronic data system (“Chimera system”).
+1724\. Personnel management authorities for positions involved in the development and implementation of the interoperable electronic data system ("Chimera system").
 
         
 

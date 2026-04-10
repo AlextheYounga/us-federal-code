@@ -12,7 +12,7 @@ This section contains only a part of sections 221, 244, 304 and 305 of title 28,
 
 Sections 221, 244, 304 and 305 of title 28, U.S.C., 1940 ed., related to the clerks of the circuit courts of appeals, the Court of Claims and the Court of Customs and Patent Appeals.
 
-The phrase “assigned to them by the court” was substituted for the indefinite provision of section 221 of title 28, U.S.C., 1940 ed., that the clerk of each circuit court of appeals “shall exercise the same powers and perform the same duties \* \* \* as are exercised and performed by the clerk of the Supreme Court, so far as the same may be applicable.”
+The phrase "assigned to them by the court" was substituted for the indefinite provision of section 221 of title 28, U.S.C., 1940 ed., that the clerk of each circuit court of appeals "shall exercise the same powers and perform the same duties \* \* \* as are exercised and performed by the clerk of the Supreme Court, so far as the same may be applicable."
 
 This section is new insofar as it affects the Clerk of the Supreme Court and clerks of the district courts and the Customs Court. Existing law does not prescribe the powers and duties of those clerks. The duties of the clerk of the Customs Court have been prescribed by the rules of such court adopted May 29, 1936.
 

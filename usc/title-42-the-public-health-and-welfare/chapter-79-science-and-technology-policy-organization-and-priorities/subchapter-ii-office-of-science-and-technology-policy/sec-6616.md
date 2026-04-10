@@ -26,7 +26,7 @@ In carrying out his functions under this chapter, the Director is authorized to�
 
 #### Codification
 
-In subsec. (c)(3), “section 6101 of title 41” substituted for “section 3709 of the Revised Statutes (41 U.S.C. 5)” on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+In subsec. (c)(3), "section 6101 of title 41" substituted for "section 3709 of the Revised Statutes (41 U.S.C. 5)" on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
 #### Abolition of the Federal Coordinating Council for Science, Engineering, and Technology; Transfer of Functions
 

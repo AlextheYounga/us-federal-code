@@ -1,6 +1,6 @@
 ### \[§4111. Repealed. Pub. L. 107–95, §5(e)(3), Dec. 21, 2001, 115 Stat. 918\]
 
-Section, added Pub. L. 106–117, title IX, §901(a), Nov. 30, 1999, 113 Stat. 1586, related to homeless veterans’ reintegration programs.
+Section, added Pub. L. 106–117, title IX, §901(a), Nov. 30, 1999, 113 Stat. 1586, related to homeless veterans' reintegration programs.
 
 #### Prior Provisions
 

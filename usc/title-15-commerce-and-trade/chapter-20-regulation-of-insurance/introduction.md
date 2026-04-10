@@ -10,6 +10,6 @@ Sec.
 
 1014\. Effect on other laws.
 
-1015\. “State” defined.
+1015\. "State" defined.
 
         

@@ -48,7 +48,7 @@ Sec.
 
 1933\. Funds for on and off reservation programs.
 
-1934\. “Indian” defined for certain purposes.
+1934\. "Indian" defined for certain purposes.
 
         
 

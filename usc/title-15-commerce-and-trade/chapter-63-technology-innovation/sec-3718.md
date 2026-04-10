@@ -140,7 +140,7 @@ Memorandum of the President of the United States, Apr. 10, 2008, 73 F.R. 20523, 
 
 Memorandum for the Director of the Office of Science and Technology Policy
 
-By the authority vested in me as President of the United States by the Constitution and the laws of the United States of America, including section 1006(e) of the America COMPETES Act (Public Law 110–69) (the “Act”), I hereby designate the Committee on Technology of the National Science and Technology Council to carry out the responsibilities assigned to the Council on Innovation and Competitiveness in section 1006 of the Act.
+By the authority vested in me as President of the United States by the Constitution and the laws of the United States of America, including section 1006(e) of the America COMPETES Act (Public Law 110–69) (the "Act"), I hereby designate the Committee on Technology of the National Science and Technology Council to carry out the responsibilities assigned to the Council on Innovation and Competitiveness in section 1006 of the Act.
 
 The Director of the Office of Science and Technology Policy is authorized and directed to publish this memorandum in the Federal Register.
 

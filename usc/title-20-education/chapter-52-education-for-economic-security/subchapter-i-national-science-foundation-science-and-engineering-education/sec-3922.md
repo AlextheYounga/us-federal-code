@@ -8,7 +8,7 @@ The Foundation shall, after consultation with appropriate private school represe
 
 Prior sections 3922 to 3954 were omitted in the general revision of this subchapter by section 201 of Pub. L. 99–159.
 
-Prior section 3922, Pub. L. 98–377, title I, §122, Aug. 11, 1984, 98 Stat. 1269, related to requirements, contents, etc., for applications and defined “eligible applicant”.
+Prior section 3922, Pub. L. 98–377, title I, §122, Aug. 11, 1984, 98 Stat. 1269, related to requirements, contents, etc., for applications and defined "eligible applicant".
 
 Prior section 3923, Pub. L. 98–377, title I, §123, Aug. 11, 1984, 98 Stat. 1270, related to special consideration for applications meeting the needs of underrepresented and underserved populations. See section 3919 of this title.
 

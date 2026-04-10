@@ -24,7 +24,7 @@ Sec.
 
 1315\. Rights and protections under Worker Adjustment and Retraining Notification Act.
 
-1316\. Rights and protections relating to veterans’ employment and reemployment.
+1316\. Rights and protections relating to veterans' employment and reemployment.
 
 1316a. Legislative branch appointments.
 

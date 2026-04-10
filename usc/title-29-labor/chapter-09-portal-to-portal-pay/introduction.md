@@ -22,7 +22,7 @@ Sec.
 
 260\. Liquidated damages.
 
-261\. Applicability of “area of production” regulations.
+261\. Applicability of "area of production" regulations.
 
 262\. Definitions.
 

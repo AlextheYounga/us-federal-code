@@ -64,4 +64,4 @@ Part I of subtitle B of title III of the Agricultural Adjustment Act of 1938, re
 
 [1 See References in Text note below.](#518a_1)
 
-[2 So in original. Probably should be “Agricultural”.](#518a_2)
+[2 So in original. Probably should be "Agricultural".](#518a_2)

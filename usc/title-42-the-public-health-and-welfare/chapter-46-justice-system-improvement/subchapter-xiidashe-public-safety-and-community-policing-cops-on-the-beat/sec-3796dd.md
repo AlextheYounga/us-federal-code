@@ -24,7 +24,7 @@ The purposes for which grants made under subsection (a) of this section may be m
 
 (8) to develop new technologies, including interoperable communications technologies, modernized criminal record technology, and forensic technology, to assist State, tribal, and local law enforcement agencies in reorienting the emphasis of their activities from reacting to crime to preventing crime and to train law enforcement officers to use such technologies;
 
-(9) to develop and implement innovative programs to permit members of the community to assist State, tribal, and local law enforcement agencies in the prevention of crime in the community, such as a citizens’ police academy, including programs designed to increase the level of access to the criminal justice system enjoyed by victims, witnesses, and ordinary citizens by establishing decentralized satellite offices (including video facilities) of principal criminal courts buildings;
+(9) to develop and implement innovative programs to permit members of the community to assist State, tribal, and local law enforcement agencies in the prevention of crime in the community, such as a citizens' police academy, including programs designed to increase the level of access to the criminal justice system enjoyed by victims, witnesses, and ordinary citizens by establishing decentralized satellite offices (including video facilities) of principal criminal courts buildings;
 
 (10) to establish innovative programs to reduce, and keep to a minimum, the amount of time that law enforcement officers must be away from the community while awaiting court appearances;
 
@@ -38,7 +38,7 @@ The purposes for which grants made under subsection (a) of this section may be m
 
 (15) to establish, implement, and coordinate crime prevention and control programs (involving law enforcement officers working with community members) with other Federal programs that serve the community and community members to better address the comprehensive needs of the community and its members;
 
-(16) to support the purchase by a law enforcement agency of no more than 1 service weapon per officer, upon hiring for deployment in community-oriented policing or, if necessary, upon existing officers’ initial redeployment to community-oriented policing; and
+(16) to support the purchase by a law enforcement agency of no more than 1 service weapon per officer, upon hiring for deployment in community-oriented policing or, if necessary, upon existing officers' initial redeployment to community-oriented policing; and
 
 (17) to permit tribal governments receiving direct law enforcement services from the Bureau of Indian Affairs to access the program under this section for use in accordance with paragraphs (1) through (16).
 
@@ -66,7 +66,7 @@ The Attorney General may utilize any component or components of the Department o
 
 #### (f) Minimum amount
 
-Unless all applications submitted by any State and grantee within the State pursuant to subsection (a) of this section have been funded, each qualifying State, together with grantees within the State, shall receive in each fiscal year pursuant to subsection (a) of this section not less than 0.5 percent of the total amount appropriated in the fiscal year for grants pursuant to that subsection. In this subsection, “qualifying State” means any State which has submitted an application for a grant, or in which an eligible entity has submitted an application for a grant, which meets the requirements prescribed by the Attorney General and the conditions set out in this subchapter.
+Unless all applications submitted by any State and grantee within the State pursuant to subsection (a) of this section have been funded, each qualifying State, together with grantees within the State, shall receive in each fiscal year pursuant to subsection (a) of this section not less than 0.5 percent of the total amount appropriated in the fiscal year for grants pursuant to that subsection. In this subsection, "qualifying State" means any State which has submitted an application for a grant, or in which an eligible entity has submitted an application for a grant, which meets the requirements prescribed by the Attorney General and the conditions set out in this subchapter.
 
 #### (g) Matching funds
 
@@ -124,31 +124,31 @@ A prior section 1701 of Pub. L. 90–351 was renumbered section 2601 and is clas
 
 #### Amendments
 
-**2010**—Subsec. (b). Pub. L. 111–211, §243(1)(A), inserted “to” after each par. designation.
+**2010**—Subsec. (b). Pub. L. 111–211, §243(1)(A), inserted "to" after each par. designation.
 
-Subsec. (b)(1). Pub. L. 111–211, §243(1)(B), substituted “State, tribal, or” for “State and”.
+Subsec. (b)(1). Pub. L. 111–211, §243(1)(B), substituted "State, tribal, or" for "State and".
 
 Subsec. (b)(5) to (8). Pub. L. 111–211, §243(1)(G), redesignated pars. (6) to (9) as (5) to (8), respectively.
 
 Subsec. (b)(9), (10). Pub. L. 111–211, §243(1)(G), redesignated pars. (10) and (11) as (9) and (10), respectively. Former par. (9) redesignated (8).
 
-Pub. L. 111–211, §243(1)(C), inserted “, tribal,” after “State”.
+Pub. L. 111–211, §243(1)(C), inserted ", tribal," after "State".
 
 Subsec. (b)(11) to (14). Pub. L. 111–211, §243(1)(G), redesignated pars. (12) to (15) as (11) to (14), respectively. Former par. (11) redesignated (10).
 
 Subsec. (b)(15). Pub. L. 111–211, §243(1)(G), redesignated par. (16) as (15). Former par. (15) redesignated (14).
 
-Pub. L. 111–211, §243(1)(D), substituted “a State or Indian tribe in” for “a State in”, “the State or tribal community that” for “the State which”, and “a State, tribal, or local” for “a State or local”.
+Pub. L. 111–211, §243(1)(D), substituted "a State or Indian tribe in" for "a State in", "the State or tribal community that" for "the State which", and "a State, tribal, or local" for "a State or local".
 
 Subsec. (b)(16), (17). Pub. L. 111–211, §243(1)(E)–(H), added par. (17) and redesignated former par. (17) as (16). Former par. (16) redesignated (15).
 
-Subsec. (i). Pub. L. 111–211, §243(2), substituted “Except as provided in subsection (j), the authority” for “The authority”.
+Subsec. (i). Pub. L. 111–211, §243(2), substituted "Except as provided in subsection (j), the authority" for "The authority".
 
 Subsecs. (j), (k). Pub. L. 111–211, §243(3), added subsecs. (j) and (k).
 
-**2006**—Subsec. (a). Pub. L. 109–162, §1163(a)(1), reenacted subsec. heading without change and amended text generally. Prior to amendment, text read as follows: “The Attorney General may make grants to States, units of local government, Indian tribal governments, other public and private entities, and multi-jurisdictional or regional consortia thereof to increase police presence, to expand and improve cooperative efforts between law enforcement agencies and members of the community to address crime and disorder problems, and otherwise to enhance public safety.”
+**2006**—Subsec. (a). Pub. L. 109–162, §1163(a)(1), reenacted subsec. heading without change and amended text generally. Prior to amendment, text read as follows: "The Attorney General may make grants to States, units of local government, Indian tribal governments, other public and private entities, and multi-jurisdictional or regional consortia thereof to increase police presence, to expand and improve cooperative efforts between law enforcement agencies and members of the community to address crime and disorder problems, and otherwise to enhance public safety."
 
-Subsec. (b). Pub. L. 109–162, §1163(a)(3)(A), substituted “Uses of grant amounts” for “Additional grant projects” in subsec. heading and “The purposes for which grants made under subsection (a) of this section may be made are—” for “Grants made under subsection (a) of this section may include programs, projects, and other activities to—” in introductory provisions.
+Subsec. (b). Pub. L. 109–162, §1163(a)(3)(A), substituted "Uses of grant amounts" for "Additional grant projects" in subsec. heading and "The purposes for which grants made under subsection (a) of this section may be made are—" for "Grants made under subsection (a) of this section may include programs, projects, and other activities to—" in introductory provisions.
 
 Pub. L. 109–162, §1163(a)(2), (3), redesignated subsec. (d) as (b) and struck out former subsec. (b) which related to rehiring, hiring, and initial redeployment grant projects.
 
@@ -158,11 +158,11 @@ Subsec. (b)(5). Pub. L. 109–162, §1163(a)(3)(B), redesignated par. (5) as (10
 
 Subsec. (b)(6) to (8). Pub. L. 109–162, §1163(a)(3)(B), redesignated pars. (1) to (3) as (6) to (8), respectively. Former pars. (6) to (8) redesignated (11) to (13), respectively.
 
-Subsec. (b)(9). Pub. L. 109–162, §1163(a)(3)(B), (D), redesignated par. (4) as (9) and amended it generally. Prior to amendment, par. (9) read as follows: “develop new technologies to assist State and local law enforcement agencies in reorienting the emphasis of their activities from reacting to crime to preventing crime;”. Former par. (9) redesignated (14).
+Subsec. (b)(9). Pub. L. 109–162, §1163(a)(3)(B), (D), redesignated par. (4) as (9) and amended it generally. Prior to amendment, par. (9) read as follows: "develop new technologies to assist State and local law enforcement agencies in reorienting the emphasis of their activities from reacting to crime to preventing crime;". Former par. (9) redesignated (14).
 
 Subsec. (b)(10) to (17). Pub. L. 109–162, §1163(a)(3)(B), redesignated pars. (5) to (12) as (10) to (17), respectively.
 
-Subsec. (c). Pub. L. 109–162, §1163(a)(2), (4), (5), redesignated subsec. (e) as (c), substituted “subsection (g) of this section” for “subsection (i) of this section”, and struck out former subsec. (c) which related to use of grants for troops-to-cops programs.
+Subsec. (c). Pub. L. 109–162, §1163(a)(2), (4), (5), redesignated subsec. (e) as (c), substituted "subsection (g) of this section" for "subsection (i) of this section", and struck out former subsec. (c) which related to use of grants for troops-to-cops programs.
 
 Subsecs. (d) to (k). Pub. L. 109–162, §1163(a)(4), redesignated subsecs. (f) to (k) as (d) to (i), respectively. Former subsecs. (d) and (e) redesignated (b) and (c), respectively.
 
@@ -170,52 +170,52 @@ Subsecs. (d) to (k). Pub. L. 109–162, §1163(a)(4), redesignated subsecs. (f) 
 
 **1998**—Subsec. (d)(8) to (11). Pub. L. 105–302 added par. (8) and redesignated former pars. (8) to (10) as (9) to (11), respectively.
 
-**1997**—Subsec. (b)(2)(A). Pub. L. 105–119 amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “may not exceed—
+**1997**—Subsec. (b)(2)(A). Pub. L. 105–119 amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: "may not exceed—
 
-“(i) 20 percent of the funds available for grants pursuant to this subsection in fiscal year 1995;
+"(i) 20 percent of the funds available for grants pursuant to this subsection in fiscal year 1995;
 
-“(ii) 20 percent of the funds available for grants pursuant to this subsection in fiscal year 1996; or
+"(ii) 20 percent of the funds available for grants pursuant to this subsection in fiscal year 1996; or
 
-“(iii) 10 percent of the funds available for grants pursuant to this subsection in fiscal years 1997, 1998, 1999, and 2000; and”.
+"(iii) 10 percent of the funds available for grants pursuant to this subsection in fiscal years 1997, 1998, 1999, and 2000; and".
 
 #### Purposes of 1994 Amendments
 
-Pub. L. 103–322, title I, §10002, Sept. 13, 1994, 108 Stat. 1807, provided that: “The purposes of this title \[see Short Title of 1994 Amendment note set out under section 3711 of this title\] are to—
+Pub. L. 103–322, title I, §10002, Sept. 13, 1994, 108 Stat. 1807, provided that: "The purposes of this title \[see Short Title of 1994 Amendment note set out under section 3711 of this title\] are to—
 
-“(1) substantially increase the number of law enforcement officers interacting directly with members of the community (‘cops on the beat’);
+"(1) substantially increase the number of law enforcement officers interacting directly with members of the community ('cops on the beat');
 
-“(2) provide additional and more effective training to law enforcement officers to enhance their problem solving, service, and other skills needed in interacting with members of the community;
+"(2) provide additional and more effective training to law enforcement officers to enhance their problem solving, service, and other skills needed in interacting with members of the community;
 
-“(3) encourage the development and implementation of innovative programs to permit members of the community to assist State, Indian tribal government, and local law enforcement agencies in the prevention of crime in the community; and
+"(3) encourage the development and implementation of innovative programs to permit members of the community to assist State, Indian tribal government, and local law enforcement agencies in the prevention of crime in the community; and
 
-“(4) encourage the development of new technologies to assist State, Indian tribal government, and local law enforcement agencies in reorienting the emphasis of their activities from reacting to crime to preventing crime,
+"(4) encourage the development of new technologies to assist State, Indian tribal government, and local law enforcement agencies in reorienting the emphasis of their activities from reacting to crime to preventing crime,
 
-by establishing a program of grants and assistance in furtherance of these objectives, including the authorization for a period of 6 years of grants for the hiring and rehiring of additional career law enforcement officers.”
+by establishing a program of grants and assistance in furtherance of these objectives, including the authorization for a period of 6 years of grants for the hiring and rehiring of additional career law enforcement officers."
 
 #### Improving Public Safety Presence in Rural Alaska
 
 Pub. L. 111–211, title II, §247(a)–(d), July 29, 2010, 124 Stat. 2296, 2297, provided that:
 
-“(a) Definitions.—In this section:
+"(a) Definitions.—In this section:
 
-“(1) State.—
+"(1) State.—
 
-“(A) In general.—The term ‘State’ means the State of Alaska.
+"(A) In general.—The term 'State' means the State of Alaska.
 
-“(B) Inclusion.—The term ‘State’ includes any political subdivision of the State of Alaska.
+"(B) Inclusion.—The term 'State' includes any political subdivision of the State of Alaska.
 
-“(2) Village public safety officer.—The term ‘village public safety officer’ means an individual employed as a village public safety officer under the program established by the State pursuant to Alaska Statute 18.65.670.
+"(2) Village public safety officer.—The term 'village public safety officer' means an individual employed as a village public safety officer under the program established by the State pursuant to Alaska Statute 18.65.670.
 
-“(3) Tribal organization.—The term ‘tribal organization’ has the meaning given that term in section 4 of the Indian Self-Determination and Educational \[Education\] Assistance Act (25 U.S.C. 450b(l)).
+"(3) Tribal organization.—The term 'tribal organization' has the meaning given that term in section 4 of the Indian Self-Determination and Educational \[Education\] Assistance Act (25 U.S.C. 450b(l)).
 
-“(b) COPS Grants.—The State and any Indian tribe or tribal organization in the State that employs a village public safety officer shall be eligible to apply for a grant under section 1701 of the Omnibus Crime Control and Safe Streets Act of 1968 (42 U.S.C. 3796dd) (provided that only an Indian tribe or tribal organization may receive a grant under the tribal resources grant program under subsection (j) of that section) on an equal basis with other eligible applicants for funding under that section.
+"(b) COPS Grants.—The State and any Indian tribe or tribal organization in the State that employs a village public safety officer shall be eligible to apply for a grant under section 1701 of the Omnibus Crime Control and Safe Streets Act of 1968 (42 U.S.C. 3796dd) (provided that only an Indian tribe or tribal organization may receive a grant under the tribal resources grant program under subsection (j) of that section) on an equal basis with other eligible applicants for funding under that section.
 
-“(c) Staffing for Adequate Fire and Emergency Response Grants.—The State and any Indian tribe or tribal organization in the State that employs a village public safety officer shall be eligible to apply for a grant under the Staffing for Adequate Fire and Emergency Response program under section 34 of the Federal Fire Prevention and Control Act of 1974 (15 U.S.C. 2229a) on an equal basis with other eligible applicants for funding under that program.
+"(c) Staffing for Adequate Fire and Emergency Response Grants.—The State and any Indian tribe or tribal organization in the State that employs a village public safety officer shall be eligible to apply for a grant under the Staffing for Adequate Fire and Emergency Response program under section 34 of the Federal Fire Prevention and Control Act of 1974 (15 U.S.C. 2229a) on an equal basis with other eligible applicants for funding under that program.
 
-“(d) Training for Village Public Safety Officers and Tribal Law Enforcement Positions Funded Under COPS Program.—
+"(d) Training for Village Public Safety Officers and Tribal Law Enforcement Positions Funded Under COPS Program.—
 
-“(1) In general.—Any village public safety officer or tribal law enforcement officer in the State shall be eligible to participate in any training program offered at the Indian Police Academy of the Federal Law Enforcement Training Center.
+"(1) In general.—Any village public safety officer or tribal law enforcement officer in the State shall be eligible to participate in any training program offered at the Indian Police Academy of the Federal Law Enforcement Training Center.
 
-“(2) Funding.—Funding received pursuant to grants approved under section 1701 of the Omnibus Crime Control and Safe Streets Act of 1968 (42 U.S.C. 3796dd) may be used for training of officers at programs described in paragraph (1) or at a police academy in the State certified by the Alaska Police Standards Council.”
+"(2) Funding.—Funding received pursuant to grants approved under section 1701 of the Omnibus Crime Control and Safe Streets Act of 1968 (42 U.S.C. 3796dd) may be used for training of officers at programs described in paragraph (1) or at a police academy in the State certified by the Alaska Police Standards Council."
 
-\[For definition of “Indian tribe” as used in section 247(a)–(d) of Pub. L. 111–211, set out above, see section 203(a) of Pub. L. 111–211, set out as a note under section 2801 of Title 25, Indians.\]
+\[For definition of "Indian tribe" as used in section 247(a)–(d) of Pub. L. 111–211, set out above, see section 203(a) of Pub. L. 111–211, set out as a note under section 2801 of Title 25, Indians.\]

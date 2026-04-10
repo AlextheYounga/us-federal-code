@@ -110,7 +110,7 @@ Sec.
 
 3975\. Group life insurance supplement applicable to those killed in terrorist attacks.
 
-3976\. Survivors’ and dependents’ educational assistance.
+3976\. Survivors' and dependents' educational assistance.
 
         
 
@@ -264,7 +264,7 @@ Sec.
 
 #### Part II—Foreign Service Pension System
 
-4071\. Establishment; application of Federal Employees’ Retirement System to Foreign Service Pension System participants.
+4071\. Establishment; application of Federal Employees' Retirement System to Foreign Service Pension System participants.
 
 4071a. Definitions.
 

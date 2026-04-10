@@ -10,6 +10,6 @@ Sec.
 
 504\. Power to make arrangements respecting atomic energy materials as unaffected.
 
-505\. “Mineral leasing laws” defined.
+505\. "Mineral leasing laws" defined.
 
         

@@ -6,9 +6,9 @@ Sections 3501 to 3509, which provided for creation and operation of Depository I
 
 Section 3501, Pub. L. 96–221, title II, §202, Mar. 31, 1980, 94 Stat. 142, set out congressional findings and stated that the purpose in enacting this subchapter was to provide for orderly phase-out and ultimate elimination of limitations on maximum rates of interest and dividends which could be paid on deposits and accounts by depository institutions.
 
-Pub. L. 96–221, title II, §201, Mar. 31, 1980, 94 Stat. 142, provided that title II of Pub. L. 96–221 (subchapter I of this chapter) could be cited as the “Depository Institutions Deregulation Act of 1980”.
+Pub. L. 96–221, title II, §201, Mar. 31, 1980, 94 Stat. 142, provided that title II of Pub. L. 96–221 (subchapter I of this chapter) could be cited as the "Depository Institutions Deregulation Act of 1980".
 
-Pub. L. 96–221, title VIII, §801, Mar. 31, 1980, 94 Stat. 191, provided that title VIII of Pub. L. 96–221 (subchapter II of this chapter) could be cited as the “Financial Regulation Simplification Act of 1980”, prior to repeal (effective 5 years after the date of enactment) by Pub. L. 96–221, title VIII, §806, Mar. 31, 1980, 94 Stat. 192.
+Pub. L. 96–221, title VIII, §801, Mar. 31, 1980, 94 Stat. 191, provided that title VIII of Pub. L. 96–221 (subchapter II of this chapter) could be cited as the "Financial Regulation Simplification Act of 1980", prior to repeal (effective 5 years after the date of enactment) by Pub. L. 96–221, title VIII, §806, Mar. 31, 1980, 94 Stat. 192.
 
 Section 3502, Pub. L. 96–221, title II, §203, Mar. 31, 1980, 94 Stat. 142, provided for membership and authority of Depository Institutions Deregulation Committee.
 

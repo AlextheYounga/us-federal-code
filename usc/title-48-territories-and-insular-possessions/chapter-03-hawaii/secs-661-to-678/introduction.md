@@ -8,7 +8,7 @@ Section 661, act July 7, 1898, No. 55, §1, 30 Stat. 750, provided that Congress
 
 Section 662, act Apr. 30, 1900, ch. 339, §99, 31 Stat. 161, which declared to be property of Hawaiian Government portion of public domain known prior to April 30, 1900, as Crown land.
 
-Section 663, acts Apr. 30, 1900, ch. 339, §73(a), (b), 31 Stat. 154; Apr. 2, 1908, ch. 124, 35 Stat. 56; July 9, 1921, ch. 42, §304, 42 Stat. 116, defined “public lands”, “commissioner”, “land board”, and “person”, and incorporated by reference certain other defined terms.
+Section 663, acts Apr. 30, 1900, ch. 339, §73(a), (b), 31 Stat. 154; Apr. 2, 1908, ch. 124, 35 Stat. 56; July 9, 1921, ch. 42, §304, 42 Stat. 116, defined "public lands", "commissioner", "land board", and "person", and incorporated by reference certain other defined terms.
 
 Section 664, acts Apr. 30, 1900, ch. 339, §73(c), 31 Stat. 154; Apr. 2, 1908, ch. 124, 35 Stat. 56; May 27, 1910, ch. 258, §5, 36 Stat. 444; July 9, 1921, ch. 42, §304, 42 Stat. 117, declared that laws of Hawaii relating to public lands, settlement of boundaries and issuance of patents on land commission awards, shall continue in force until Congress shall otherwise provide.
 
@@ -48,4 +48,4 @@ Section 677a, act Apr. 30, 1900, ch. 339, §73(par.), as added June 12, 1940, ch
 
 Section 677b, act Apr. 30, 1900, ch. 339, §73(par.), as added June 12, 1940, ch. 336, §1, 54 Stat. 346, provided for refunds on account of reamortization of homestead agreements.
 
-Section 678, act Apr. 30, 1900, ch. 339, §107, as added July 9, 1921, ch. 42, §315, 42 Stat. 121, cited the Act of April 30, 1900, ch. 339, 31 Stat. 141, as the “Hawaiian Organic Act”.
+Section 678, act Apr. 30, 1900, ch. 339, §107, as added July 9, 1921, ch. 42, §315, 42 Stat. 121, cited the Act of April 30, 1900, ch. 339, 31 Stat. 141, as the "Hawaiian Organic Act".

@@ -2,7 +2,7 @@
 
 Section 2491, Pub. L. 85–905, §1, Sept. 2, 1958, 72 Stat. 1742; Pub. L. 87–715, §1(a), Sept. 28, 1962, 76 Stat. 654; Pub. L. 89–258, Oct. 19, 1965, 79 Stat. 983; Pub. L. 90–247, title I, §155(a), Jan. 2, 1968, 81 Stat. 804, contained statement of purposes for the provisions.
 
-Section 2492, Pub. L. 85–905, §2, Sept. 2, 1958, 72 Stat. 1742; Pub. L. 89–258, Oct. 19, 1965, 79 Stat. 983; Pub. L. 90–247, title I, §155(b), Jan. 2, 1968, 81 Stat. 805; Pub. L. 91–61, §1(2), Aug. 20, 1969, 83 Stat. 103, defined “Secretary”, “United States”, “deaf person”, “handicapped”, and “construction”.
+Section 2492, Pub. L. 85–905, §2, Sept. 2, 1958, 72 Stat. 1742; Pub. L. 89–258, Oct. 19, 1965, 79 Stat. 983; Pub. L. 90–247, title I, §155(b), Jan. 2, 1968, 81 Stat. 805; Pub. L. 91–61, §1(2), Aug. 20, 1969, 83 Stat. 103, defined "Secretary", "United States", "deaf person", "handicapped", and "construction".
 
 Section 2493, Pub. L. 85–905, §3, Sept. 2, 1958, 72 Stat. 1742; Pub. L. 87–715, §1(b), Sept. 28, 1962, 76 Stat. 654; Pub. L. 89–258, Oct. 19, 1965, 79 Stat. 983; Pub. L. 90–247, title I, §155(c), (d)(1), Jan. 2, 1968, 81 Stat. 805; Pub. L. 91–61, §1(1), Aug. 20, 1969, 83 Stat. 102, provided for establishment of a loan service of captioned films and educational media for handicapped and authority of Secretary.
 

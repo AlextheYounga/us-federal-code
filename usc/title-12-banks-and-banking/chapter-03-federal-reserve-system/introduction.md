@@ -20,11 +20,11 @@ Sec.
 
 225b. Appearances before and reports to the Congress.
 
-226\. “Federal Reserve Act.”
+226\. "Federal Reserve Act."
 
-227\. “Banking Act of 1933.”
+227\. "Banking Act of 1933."
 
-228\. “Banking Act of 1935.”
+228\. "Banking Act of 1935."
 
         
 
@@ -124,7 +124,7 @@ Sec.
 
 304\. Class A and class B directors; selection.
 
-305\. Class C directors; selection; “Federal reserve agent.”
+305\. Class C directors; selection; "Federal reserve agent."
 
 306\. Assistants to Federal reserve agent.
 
@@ -262,7 +262,7 @@ Sec.
 
 371d. Investment in bank premises or stock of corporation holding premises.
 
-372\. Bankers’ acceptances.
+372\. Bankers' acceptances.
 
 373\. Acceptance of drafts or bills drawn by banks in foreign countries or dependencies of United States for purpose of dollar exchange.
 
@@ -294,7 +294,7 @@ Sec.
 
 393\. Federal reserve banks as depositaries for Farm Credit System.
 
-394\. Federal reserve banks as depositaries for and fiscal agents of Home Owners’ Loan Corporation.
+394\. Federal reserve banks as depositaries for and fiscal agents of Home Owners' Loan Corporation.
 
 395\. Federal reserve banks as depositaries, custodians and fiscal agents for Commodity Credit Corporation.
 

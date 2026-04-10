@@ -60,4 +60,4 @@ The effective date of the New Markets Venture Capital Program Act of 2000, refer
 
 [1 So in original. The article probably should not appear.](#689g_1)
 
-[2 So in original. Probably should be “than”.](#689g_2)
+[2 So in original. Probably should be "than".](#689g_2)

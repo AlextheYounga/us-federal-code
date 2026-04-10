@@ -28,4 +28,4 @@ Section 1353, acts Aug. 24, 1912, ch. 390, §8, 37 Stat. 565; Sept. 21, 1922, ch
 
 Section 1354, acts Aug. 24, 1912, ch. 390, §9, 37 Stat. 565; Sept. 21, 1922, ch. 370, §3, 42 Stat. 1006, related to transfer of causes to new courts.
 
-Section 1355, acts Aug. 24, 1912, ch. 390, §9, 37 Stat. 565; Sept. 21, 1922, ch. 370, §3, 42 Stat. 1006, related to continuance of laws defining clerks’ duties.
+Section 1355, acts Aug. 24, 1912, ch. 390, §9, 37 Stat. 565; Sept. 21, 1922, ch. 370, §3, 42 Stat. 1006, related to continuance of laws defining clerks' duties.

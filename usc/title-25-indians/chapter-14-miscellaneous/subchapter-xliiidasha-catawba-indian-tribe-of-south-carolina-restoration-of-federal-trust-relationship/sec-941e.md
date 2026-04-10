@@ -4,7 +4,7 @@
 
 Within one year after October 27, 1993, the Tribe shall submit to the Secretary, for approval, its base membership roll. An individual is eligible for inclusion on the base membership roll if that individual is living on October 27, 1993, and—
 
-(1) is listed on the membership roll published by the Secretary in the Federal Register on February 25, 1961 (26 FR 1680–1688, “Notice of Final Membership Roll”), and is not excluded under the provisions of subsection (c) of this section;
+(1) is listed on the membership roll published by the Secretary in the Federal Register on February 25, 1961 (26 FR 1680–1688, "Notice of Final Membership Roll"), and is not excluded under the provisions of subsection (c) of this section;
 
 (2) the Executive Committee determines, based on the criteria used to compile the roll referred to in paragraph (1), that the individual should have been included on the membership roll at that time, but was not; or
 

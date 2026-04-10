@@ -26,7 +26,7 @@ Provisions relating to maintenance of clerk's offices were omitted as covered by
 
 Provisions for furnishing rooms and accommodations at Lexington and Pikeville were omitted as obsolete on advice of the Director of the Administrative Office of the United States Courts that Federal accommodations are now available in each of those places.
 
-Words “with the waters thereof,” after the list of counties in each district, were omitted as unnecessary and inconsistent with other sections of this chapter.
+Words "with the waters thereof," after the list of counties in each district, were omitted as unnecessary and inconsistent with other sections of this chapter.
 
 McCreary County of the Eastern District was formed from parts of the counties of Pulaski, Wayne, and Whitley since the latest amendment of the Judicial Code.
 

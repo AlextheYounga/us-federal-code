@@ -4,7 +4,7 @@ Section 5091, Pub. L. 99–440, title V, §501, Oct. 2, 1986, 100 Stat. 1108; Pu
 
 Section 5092, Pub. L. 99–440, title V, §502, Oct. 2, 1986, 100 Stat. 1109; Pub. L. 99–631, §1(a)(27), Nov. 7, 1986, 100 Stat. 3518, related to lifting of prohibitions contained in this chapter.
 
-Section 5093, Pub. L. 99–440, title V, §503, Oct. 2, 1986, 100 Stat. 1109, related to study of health conditions in “homelands” areas of South Africa.
+Section 5093, Pub. L. 99–440, title V, §503, Oct. 2, 1986, 100 Stat. 1109, related to study of health conditions in "homelands" areas of South Africa.
 
 Section 5094, Pub. L. 99–440, title V, §504, Oct. 2, 1986, 100 Stat. 1109, related to report on imports of strategic and critical materials from South Africa.
 

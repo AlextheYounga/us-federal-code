@@ -16,10 +16,10 @@ Title I of Pub. L. 101–537 and title II of Pub. L. 101–646 enacted identical
 
 **1998**—Pub. L. 105–265, §4(1), made technical amendment to reference in original act which appears in introductory provisions as reference to this chapter.
 
-Par. (1). Pub. L. 105–265, §4(4), added par. (1) and struck out former par. (1) which read as follows: “to develop proposals to implement recommendations resulting from that study; and”.
+Par. (1). Pub. L. 105–265, §4(4), added par. (1) and struck out former par. (1) which read as follows: "to develop proposals to implement recommendations resulting from that study; and".
 
-Pub. L. 105–265, §4(2), (3), redesignated par. (2) as (1) and struck out former par. (1) which read as follows: “to carry out a comprehensive study of the status, and the assessment, management, and restoration needs, of the fishery resources of the Great Lakes Basin;”.
+Pub. L. 105–265, §4(2), (3), redesignated par. (2) as (1) and struck out former par. (1) which read as follows: "to carry out a comprehensive study of the status, and the assessment, management, and restoration needs, of the fishery resources of the Great Lakes Basin;".
 
-Pars. (2), (3). Pub. L. 105–265, §4(3), (5), redesignated par. (3) as (2) and substituted “habitat in” for “habitat of”. Former par. (2) redesignated (1).
+Pars. (2), (3). Pub. L. 105–265, §4(3), (5), redesignated par. (3) as (2) and substituted "habitat in" for "habitat of". Former par. (2) redesignated (1).
 
 **1996**—Pub. L. 104–332 made technical amendment to Pub. L. 101–646, §2003, which enacted this section.

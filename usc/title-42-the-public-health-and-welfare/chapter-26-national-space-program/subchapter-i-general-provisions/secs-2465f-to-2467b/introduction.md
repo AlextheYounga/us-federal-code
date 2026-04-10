@@ -6,7 +6,7 @@ Section 2466, Pub. L. 99–170, title II, §201, Dec. 5, 1985, 99 Stat. 1017, re
 
 Section 2466a, Pub. L. 99–170, title II, §202, Dec. 5, 1985, 99 Stat. 1017, related to goals of the reimbursement pricing policy for the Space Transportation System. See section 70302 of Title 51.
 
-Section 2466b, Pub. L. 99–170, title II, §203, Dec. 5, 1985, 99 Stat. 1017, defined “Administrator” and “additive cost”. See section 70303 of Title 51.
+Section 2466b, Pub. L. 99–170, title II, §203, Dec. 5, 1985, 99 Stat. 1017, defined "Administrator" and "additive cost". See section 70303 of Title 51.
 
 Section 2466c, Pub. L. 99–170, title II, §204, Dec. 5, 1985, 99 Stat. 1017; Pub. L. 103–437, §15(c)(5), Nov. 2, 1994, 108 Stat. 4592, related to duties of Administrator. See section 70304 of Title 51.
 

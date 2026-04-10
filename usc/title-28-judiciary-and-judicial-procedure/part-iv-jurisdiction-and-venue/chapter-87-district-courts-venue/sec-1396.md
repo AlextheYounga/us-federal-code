@@ -10,7 +10,7 @@ Based on title 28, U.S.C., 1940 ed., §105, and section 3744 of title 26, U.S.C.
 
 Section consolidates section 3744 of title 26, U.S.C., 1940 ed., Internal Revenue Code, with section 105 of title 28, U.S.C., 1940 ed.
 
-Words “or in the district where the return was filed” are new. This extension of venue will permit of an action in a district easily determinable for collection of revenue earned in several districts, or States, but the return for which is filed with one collector.
+Words "or in the district where the return was filed" are new. This extension of venue will permit of an action in a district easily determinable for collection of revenue earned in several districts, or States, but the return for which is filed with one collector.
 
 Changes were made in phraseology.
 

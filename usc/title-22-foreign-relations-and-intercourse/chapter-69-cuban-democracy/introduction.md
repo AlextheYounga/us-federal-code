@@ -20,6 +20,6 @@ Sec.
 
 6009\. Enforcement.
 
-6010\. “United States person” defined.
+6010\. "United States person" defined.
 
         
