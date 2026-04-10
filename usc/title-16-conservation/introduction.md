@@ -294,4 +294,8 @@ Chap. Sec.
 
 99\. Maritime Security and Fisheries Enforcement 8001
 
+100\. Nutria Eradication and Control 8101
+
+101\. National Fish Habitat Conservation Through Partnerships 8201
+
         
