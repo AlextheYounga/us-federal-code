@@ -122,6 +122,8 @@ Sec.
 
 3030g–22. Payment requirement.
 
+3030g–23. Nutrition services impact study.
+
         
 
 #### Part D—Evidence-Based Disease Prevention and Health Promotion Services
@@ -300,13 +302,21 @@ Sec.
 
         
 
-#### Part D—General Provisions
+#### Part D—Supportive Services for Healthy Aging and Independence
+
+3057k–21. Program.
+
+        
+
+#### Part E—General Provisions
 
 3057 l. Administration.
 
 3057m. Payments.
 
 3057n. Authorization of appropriations.
+
+3057 o. Funding set aside.
 
         
 

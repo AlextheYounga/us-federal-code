@@ -8,4 +8,6 @@ Sec.
 
 50b. Appointment of employees.
 
+50c. Improved apprenticeship program coordination between the Department of Labor and the Department of Veterans Affairs.
+
         
