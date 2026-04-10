@@ -18,6 +18,10 @@ The Administrator shall include a report on the regulations whenever the Adminis
 
 (Pub. L. 85–536, §2\[37\], as added Pub. L. 110–234, title XII, §12062(2), May 22, 2008, 122 Stat. 1407, and Pub. L. 110–246, §4(a), title XII, §12062(2), June 18, 2008, 122 Stat. 1664, 2169.)
 
+  
+
+#### **Editorial Notes**
+
 #### References in Text
 
 The date of the enactment of the Small Business Disaster Response and Loan Improvements Act of 2008, referred to in subsec. (c), is the date of enactment of subtitle B (§§12051–12091) of title XII of Pub. L. 110–246, which was approved June 18, 2008.
@@ -29,6 +33,10 @@ Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110�
 #### Prior Provisions
 
 A prior section 2\[37\] of Pub. L. 85–536 was renumbered section 2\[49\] and is set out as a note under section 631 of this title.
+
+  
+
+#### **Statutory Notes and Related Subsidiaries**
 
 #### Effective Date
 

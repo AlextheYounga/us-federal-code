@@ -114,6 +114,10 @@ For purposes of this subsection—
 
 (June 10, 1920, ch. 285, pt. II, §212, as added Pub. L. 95–617, title II, §204(a), Nov. 9, 1978, 92 Stat. 3138; amended Pub. L. 102–486, title VII, §722, Oct. 24, 1992, 106 Stat. 2916.)
 
+  
+
+#### **Editorial Notes**
+
 #### References in Text
 
 The TVA Act, referred to in subsec. (f)(1), means act May 18, 1933, ch. 32, 48 Stat. 58, as amended, known as the Tennessee Valley Authority Act of 1933, which is classified generally to chapter 12A (§831 et seq.) of this title. For complete classification of this Act to the Code, see section 831 of this title and Tables.
@@ -131,6 +135,10 @@ Subsec. (b). Pub. L. 102–486, §722(1), struck out subsec. (b) which required 
 Subsec. (e). Pub. L. 102–486, §722(2), amended subsec. (e) generally. Prior to amendment, subsec. (e) related to utilization of interconnection or wheeling authority in lieu of other authority and limitation of Commission authority.
 
 Subsecs. (g) to (k). Pub. L. 102–486, §722(3), added subsecs. (g) to (k).
+
+  
+
+#### **Statutory Notes and Related Subsidiaries**
 
 #### State Authorities; Construction
 

@@ -14,6 +14,8 @@ Sec.
 
         
 
+#### **Editorial Notes**
+
 #### Amendments
 
 **1997**—Pub. L. 105–102, §3(b), Nov. 20, 1997, 111 Stat. 2215, amended directory language of Pub. L. 104–152. See 1996 Amendment note below.

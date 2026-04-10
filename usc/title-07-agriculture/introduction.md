@@ -264,6 +264,8 @@ Chap. Sec.
 
         
 
+#### **Editorial Notes**
+
 Disposition Table  
 (Showing disposition of sections of former chapter 17 of Title 7)
 | *Former Classification*                                                                                                                                                | *New Classification or Disposition* |

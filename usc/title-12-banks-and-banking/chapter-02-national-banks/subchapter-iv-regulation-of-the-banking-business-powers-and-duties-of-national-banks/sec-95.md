@@ -22,15 +22,11 @@
 
   
 
-#### **Statutory Notes and Related Subsidiaries**
+#### **Executive Documents**
 
 #### Termination of Trust Territory of the Pacific Islands
 
 For termination of Trust Territory of the Pacific Islands, see note set out preceding section 1681 of Title 48, Territories and Insular Possessions.
-
-  
-
-#### **Executive Documents**
 
 #### Bank Holiday of 1933
 

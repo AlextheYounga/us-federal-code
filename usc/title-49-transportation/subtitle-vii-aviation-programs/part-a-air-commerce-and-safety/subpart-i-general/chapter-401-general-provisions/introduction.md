@@ -64,6 +64,8 @@ Sec.
 
         
 
+#### **Editorial Notes**
+
 #### Amendments
 
 **2018**—Pub. L. 115–254, div. K, title I, §1991(c)(4), Oct. 5, 2018, 132 Stat. 3627, substituted "\[Reserved\]" for "Security and research and development activities" in item 40119.
