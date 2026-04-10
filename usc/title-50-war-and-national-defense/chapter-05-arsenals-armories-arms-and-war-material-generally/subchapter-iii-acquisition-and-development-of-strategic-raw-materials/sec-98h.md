@@ -26,8 +26,6 @@ There is established in the Treasury of the United States a separate fund to be 
 
 (H) Contracting under competitive procedures for materials development and research to—
 
-  
-
 (i) improve the quality and availability of materials stockpiled from time to time in the stockpile; and
 
 (ii) develop new materials for the stockpile.
