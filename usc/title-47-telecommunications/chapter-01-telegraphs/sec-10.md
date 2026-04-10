@@ -4,6 +4,10 @@ Whenever any telegraph company which shall have accepted the provisions of secti
 
 (Aug. 7, 1888, ch. 772, §2, 25 Stat. 383; Sept. 3, 1954, ch. 1263, §48, 68 Stat. 1243.)
 
+  
+
+#### **Editorial Notes**
+
 #### References in Text
 
 Sections 1 to 6 and 8 of this title, referred to in text, were repealed by act July 16, 1947, ch. 256, §1, 61 Stat. 327.

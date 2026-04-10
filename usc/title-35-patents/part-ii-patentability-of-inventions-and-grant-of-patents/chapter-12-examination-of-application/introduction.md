@@ -14,6 +14,8 @@ Sec.
 
         
 
+#### **Editorial Notes**
+
 #### Amendments
 
 **2011**—Pub. L. 112–29, §3(j)(5), Sept. 16, 2011, 125 Stat. 291, amended items 134 and 135 generally, substituting "Appeal to the Patent Trial and Appeal Board" for "Appeal to the Board of Patent Appeals and Interferences" in item 134 and "Derivation proceedings" for "Interferences" in item 135.

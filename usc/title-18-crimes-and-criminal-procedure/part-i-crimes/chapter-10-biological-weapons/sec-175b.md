@@ -20,6 +20,8 @@
 
 (3) Penalty.—Whoever knowingly violates this section shall be fined as provided in this title, imprisoned not more than 10 years, or both, but the prohibition contained in this section shall not apply with respect to any duly authorized United States governmental activity.
 
+  
+
 (b) Transfer to Unregistered Person.—
 
 (1) Select agents.—Whoever transfers a select agent to a person who the transferor knows or has reasonable cause to believe is not registered as required by regulations under subsection (b) or (c) of section 351A of the Public Health Service Act shall be fined under this title, or imprisoned for not more than 5 years, or both.
@@ -78,7 +80,7 @@ Section 6(j) of the Export Administration Act of 1979, referred to in subsec. (d
 
 #### Amendments
 
-**2019**—Subsec. (a). Pub. L. 116–31, §2(1), inserted subsec. heading, added pars. (1) and (2), redesignated former par. (2) as (3), inserted par. heading and realigned margin, and struck out former par. (1) which prohibited the shipment, transportation, or possession of certain biological agents or toxins.
+**2019**—Subsec. (a). Pub. L. 116–31, §2(1), inserted subsec. heading; added pars. (1) and (2); redesignated former par. (2) as (3), inserted par. heading and realigned margin; and struck out former par. (1) which prohibited the shipment, transportation, or possession of certain biological agents or toxins.
 
 Subsec. (d). Pub. L. 116–31, §2(2), inserted heading.
 

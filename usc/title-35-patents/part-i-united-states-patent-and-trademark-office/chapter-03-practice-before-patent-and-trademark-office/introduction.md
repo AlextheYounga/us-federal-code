@@ -10,6 +10,8 @@ Sec.
 
         
 
+#### **Editorial Notes**
+
 #### Amendments
 
 **1999**—Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4715(b)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–580, struck out item 31 "Regulations for agents and attorneys".

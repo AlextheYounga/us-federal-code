@@ -24,6 +24,8 @@ Chap. Sec.
 
         
 
+#### **Editorial Notes**
+
 #### Amendments
 
 **2002**—Pub. L. 107–273, div. C, title III, §13206(a)(6), Nov. 2, 2002, 116 Stat. 1904, substituted "Examination of Application" for "Examination of Applications" in heading of chapter 12.

@@ -34,6 +34,10 @@ Chap. Sec.
 
         
 
+  
+
+#### **Editorial Notes**
+
 #### Amendments
 
 **2018**—Pub. L. 115–264, title II, §202(b), Oct. 11, 2018, 132 Stat. 3737, added item relating to chapter 14.
@@ -194,6 +198,10 @@ This Table lists the sections of former Title 17, Copyrights, and indicates the 
 #### Prior Provisions
 
 Title 17, as enacted by act July 30, 1947, ch. 391, 61 Stat. 652, consisting of sections 1 to 32, 101 to 116, and 201 to 216, as amended through 1976, and section 203, as amended by Pub. L. 95–94, title IV, §406(a), Aug. 5, 1977, 91 Stat. 682, terminated Jan. 1, 1978.
+
+  
+
+#### **Statutory Notes and Related Subsidiaries**
 
 #### Effective Date
 

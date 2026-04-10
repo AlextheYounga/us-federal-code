@@ -32,6 +32,8 @@ Sec.
 
         
 
+#### **Editorial Notes**
+
 #### Amendments
 
 **2002**—Pub. L. 107–273, div. C, title III, §13210(11), Nov. 2, 2002, 116 Stat. 1910, substituted "licensing" for "licensure" in item 903.
