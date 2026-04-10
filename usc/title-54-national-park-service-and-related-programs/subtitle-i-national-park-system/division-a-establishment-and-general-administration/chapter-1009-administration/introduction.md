@@ -10,8 +10,14 @@ Sec.
 
 100904\. Admission and special recreation use fees.
 
-100905\. Commercial filming.
+100905\. Filming and still photography in System units.
 
 100906\. Advisory committees.
 
         
+
+#### **Editorial Notes**
+
+#### Amendments
+
+**2025**—Pub. L. 118–234, title I, §125(a)(2), Jan. 4, 2025, 138 Stat. 2851, added item 100905 and struck out former item 100905 "Commercial filming".

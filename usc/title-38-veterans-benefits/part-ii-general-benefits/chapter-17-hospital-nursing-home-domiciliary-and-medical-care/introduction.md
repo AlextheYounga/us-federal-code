@@ -22,6 +22,8 @@ Sec.
 
 1703F. Credentialing verification requirements for providers of non-Department health care services.
 
+1703G. Quarterly report on referrals for non-Department health care.
+
 1704\. Preventive health services: annual report.
 
 1704A. Independent assessments of health care delivery systems and management processes.
@@ -107,6 +109,10 @@ Sec.
 1720I. Mental and behavioral health care for certain former members of the Armed Forces.
 
 1720J. Emergent suicide care.
+
+1720K. Grants or contracts to provide mental health support to family caregivers of veterans.
+
+1720L. Home- and community-based services: programs.
 
         
 
@@ -227,6 +233,8 @@ Sec.
 #### **Editorial Notes**
 
 #### Amendments
+
+**2025**—Pub. L. 118–210, title I, §§122, 123(a), 140(a), Jan. 2, 2025, 138 Stat. 2724, 2726, 2743, added items 1703G, 1720K, and 1720L.
 
 **2022**—Pub. L. 117–328, div. U, title I, §193A(a), Dec. 29, 2022, 136 Stat. 5439, added item 1722C.
 

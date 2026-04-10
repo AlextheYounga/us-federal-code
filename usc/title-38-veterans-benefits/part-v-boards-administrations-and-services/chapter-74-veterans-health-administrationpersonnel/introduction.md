@@ -52,7 +52,7 @@ Sec.
 
         
 
-#### SUBCHAPTER III—PAY FOR PHYSICIANS, PODIATRISTS, AND DENTISTS
+#### SUBCHAPTER III—PAY FOR PHYSICIANS AND OTHER HEALTH-CARE PERSONNEL [1](#CHAPTER74—VETERANSHEALTHADMINISTRATION_1_target)
 
 7431\. Pay.
 
@@ -110,9 +110,15 @@ Sec.
 
         
 
+#### Applicability of Amendment
+
+Amendment of analysis by Pub. L. 118–210 applicable to any pay period of the Department of Veterans Affairs beginning on or after the date that is 180 days after Jan. 2, 2025. See 2025 Amendment note below.
+
 #### **Editorial Notes**
 
 #### Amendments
+
+**2025**—Pub. L. 118–210, title I, §142(a)(4)(B), Jan. 2, 2025, 138 Stat. 2746, substituted "PAY FOR PHYSICIANS AND OTHER HEALTH-CARE PERSONNEL" for "PAY FOR PHYSICIANS, PODIATRISTS, AND DENTISTS" in subchapter heading.
 
 **2022**—Pub. L. 117–328, div. U, title I, §112(b), Dec. 29, 2022, 136 Stat. 5414, added item 7414.
 
@@ -129,3 +135,5 @@ Pub. L. 117–168, §1(b)(2), title IX, §906(b)(1), Aug. 10, 2022, 136 Stat. 17
 **2004**—Pub. L. 108–445, §§3(g), 4(a)(2), Dec. 3, 2004, 118 Stat. 2643, 2645, substituted "PAY FOR PHYSICIANS AND DENTISTS" for "SPECIAL PAY FOR PHYSICIANS AND DENTISTS" in item for subchapter III, "Pay" for "Special pay: authority" in item 7431, "Pay of Under Secretary for Health" for "Special pay: written agreements" in item 7432, "Administrative matters" for "Special pay: full-time physicians" in item 7433, struck out items 7434 "Special pay: part-time physicians", 7435 "Special pay: full-time dentists", 7436 "Special pay: part-time dentists", 7437 "Special pay: general provisions", 7438 "Special pay: coordination with other benefits laws", 7439 "Periodic review of pay of physicians and dentists; quadrennial report", and 7440 "Annual report", and added item 7456A.
 
 **1991**—Pub. L. 102–40, title I, §§102, 103(a)(2), title II, §203(b), title IV, §401(b)(1), May 7, 1991, 105 Stat. 187, 199, 207, 221, added chapter heading and analysis.
+
+[1 So in original. Does not conform to subchapter heading.](#CHAPTER74—VETERANSHEALTHADMINISTRATION_1)
