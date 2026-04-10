@@ -12,7 +12,7 @@ Sec.
 
         
 
-#### **Editorial Notes**
+#### **Statutory Notes and Related Subsidiaries**
 
 #### Federal Food, Drug, and Cosmetic Act
 
