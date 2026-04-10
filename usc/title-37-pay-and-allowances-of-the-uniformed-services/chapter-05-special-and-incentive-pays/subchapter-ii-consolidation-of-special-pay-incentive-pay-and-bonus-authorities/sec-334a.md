@@ -90,6 +90,8 @@
 
 (3) Proficiency flying duty.—The term "proficiency flying duty" means flying performed under competent orders by enlisted members of the regular or reserve components while serving in assignments in which such skills would normally not be maintained in the performance of assigned duties.
 
+  
+
 (i) Termination of Authority.—No agreement may be entered into under this section after December 31, 2018.
 
 (Added Pub. L. 115–91, div. A, title VI, §617(a), Dec. 12, 2017, 131 Stat. 1424.)

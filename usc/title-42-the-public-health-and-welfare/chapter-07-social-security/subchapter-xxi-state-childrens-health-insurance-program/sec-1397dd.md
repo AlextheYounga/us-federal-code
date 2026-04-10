@@ -758,7 +758,7 @@ Except as provided in clauses (iii) and (iv), for fiscal year 2014 and each succ
 
   
 
-multiplied by the allotment increase factor under paragraph (6) for such even-numbered fiscal year.
+ multiplied by the allotment increase factor under paragraph (6) for such even-numbered fiscal year.
 
 #### (iii) Special rule for 2016
 
