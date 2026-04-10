@@ -10,7 +10,7 @@ A manufacturer of a device that—
 
   
 
-shall, during, or in advance of, a public health emergency declared by the Secretary under section 247d of this title, notify the Secretary, in accordance with subsection (b), of a permanent discontinuance in the manufacture of the device (except for discontinuances as a result of an approved modification of the device) or an interruption of the manufacture of the device that is likely to lead to a meaningful disruption in the supply of that device in the United States, and the reasons for such discontinuance or interruption.
+shall, during, or in advance of, a public health emergency declared by the Secretary under section 247d of title 42, notify the Secretary, in accordance with subsection (b), of a permanent discontinuance in the manufacture of the device (except for discontinuances as a result of an approved modification of the device) or an interruption of the manufacture of the device that is likely to lead to a meaningful disruption in the supply of that device in the United States, and the reasons for such discontinuance or interruption.
 
 #### (b) Timing
 
@@ -46,7 +46,7 @@ If a person fails to submit information required under subsection (a) in accorda
 
 #### (f) Expedited inspections and reviews
 
-If, based on notifications described in subsection (a) or any other relevant information, the Secretary concludes that there is, or is likely to be, a shortage of an device, the Secretary shall, as appropriate—
+If, based on notifications described in subsection (a) or any other relevant information, the Secretary concludes that there is, or is likely to be, a shortage of an [1](#356j_1_target) device, the Secretary shall, as appropriate—
 
 (1) prioritize and expedite the review of a submission under section 360c(f)(2) of this title, 360e of this title, review of a notification under section 360(k) of this title, or 360j(m) of this title for a device that could help mitigate or prevent such shortage; or
 
@@ -127,3 +127,5 @@ The term "meaningful disruption"—
 The term "shortage", with respect to a device, means a period of time when the demand or projected demand for the device within the United States exceeds the supply of the device.
 
 (June 25, 1938, ch. 675, §506J, as added Pub. L. 116–136, div. A, title III, §3121, Mar. 27, 2020, 134 Stat. 363.)
+
+[1 So in original. Probably should be "a".](#356j_1)
