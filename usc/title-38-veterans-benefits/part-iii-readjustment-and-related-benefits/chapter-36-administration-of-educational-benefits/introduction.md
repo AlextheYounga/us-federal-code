@@ -68,7 +68,7 @@ Sec.
 
 3695\. Limitation on period of assistance under two or more programs.
 
-3696\. Limitation on certain advertising, sales, and enrollment practices.
+3696\. Prohibition on certain advertising, sales, and enrollment practices.
 
 3697\. Funding of contract educational and vocational counseling.
 
