@@ -1,5 +1,5 @@
 ### SUBCHAPTER III—RENT, INSTALLMENT CONTRACTS, MORTGAGES, LIENS, ASSIGNMENT, LEASES, TELEPHONE SERVICE CONTRACTS
 
-#### Codification
+#### Amendments
 
-Pub. L. 111–275, title III, §302(b), Oct. 13, 2010, 124 Stat. 2876, inserted ", TELEPHONE SERVICE CONTRACTS" after "LEASES" in heading.
+**2010**—Pub. L. 111–275, title III, §302(b), Oct. 13, 2010, 124 Stat. 2876, inserted ", TELEPHONE SERVICE CONTRACTS" after "LEASES" in heading.

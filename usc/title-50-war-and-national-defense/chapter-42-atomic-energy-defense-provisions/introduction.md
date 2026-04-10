@@ -74,8 +74,6 @@ Sec.
 
 2538c. Long-term plan for meeting national security requirements for unencumbered uranium.
 
-2538d. Incorporation of integrated surety architecture.
-
         
 
 #### Part B—Tritium
@@ -94,7 +92,11 @@ Sec.
 
 #### SUBCHAPTER III—PROLIFERATION MATTERS
 
-2561 to 2564. Repealed.
+2561, 2562. Repealed.
+
+2563\. Annual report on status of Nuclear Materials Protection, Control, and Accounting Program.
+
+2564\. Repealed.
 
 2565\. Authority to conduct program relating to fissile materials.
 
@@ -117,10 +119,6 @@ Sec.
 2574\. Enhancing nuclear forensics capabilities.
 
 2575\. Defense nuclear nonproliferation management plan.
-
-2576\. Information relating to certain defense nuclear nonproliferation programs.
-
-2577\. Annual Selected Acquisition Reports on certain hardware relating to defense nuclear nonproliferation.
 
         
 
@@ -210,7 +208,7 @@ Sec.
 
 2658, 2659. Repealed.
 
-2660\. Repealed.
+2660\. Design and use of prototypes of nuclear weapons for intelligence purposes.
 
 2661\. Protection of certain nuclear facilities and assets from unmanned aircraft.
 
@@ -305,10 +303,6 @@ Sec.
 2753\. Notification of cost overruns for certain Department of Energy projects.
 
 2754\. Life-cycle cost estimates of certain atomic energy defense capital assets.
-
-2755\. Matters relating to critical decisions.
-
-2756\. Unfunded priorities of the National Nuclear Security Administration.
 
         
 

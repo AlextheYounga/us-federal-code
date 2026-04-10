@@ -16,6 +16,10 @@ Sec.
 
 195\. Definitions.
 
-196 to 198. Transferred.
+196\. Emergency foreign vessel acquisition; purchase or requisition of vessels lying idle in United States waters.
+
+197\. Voluntary purchase or charter agreements.
+
+198\. Requisitioned vessels.
 
         
