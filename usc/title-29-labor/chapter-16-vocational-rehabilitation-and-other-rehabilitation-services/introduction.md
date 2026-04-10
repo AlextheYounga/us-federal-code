@@ -64,7 +64,7 @@ Sec.
 
 728\. Expenditure of certain amounts.
 
-728a. Training of employers with respect to Americans with Disabilities Act of 1990.
+728a. Training and services for employers.
 
         
 
@@ -75,6 +75,8 @@ Sec.
 731\. Payments to States.
 
 732\. Client assistance program.
+
+733\. Provision of pre-employment transition services.
 
         
 
@@ -96,7 +98,7 @@ Sec.
 
 761\. Authorization of appropriations.
 
-762\. National Institute on Disability and Rehabilitation Research.
+762\. National Institute on Disability, Independent Living, and Rehabilitation Research.
 
 762a. Research and demonstration projects.
 
@@ -104,7 +106,9 @@ Sec.
 
 764\. Research and other covered activities.
 
-765\. Rehabilitation Research Advisory Council.
+765\. Disability, Independent Living, and Rehabilitation Research Advisory Council.
+
+766\. Definition of covered school.
 
         
 
@@ -116,9 +120,7 @@ Sec.
 
 773\. Demonstration and training programs.
 
-774\. Migrant and seasonal farmworkers.
-
-775\. Recreational programs.
+774, 775. Repealed.
 
 776\. Measuring of project outcomes and performance.
 
@@ -166,19 +168,13 @@ Sec.
 
 794f. Establishment of standards for accessible medical diagnostic equipment.
 
+794g. Limitations on use of subminimum wage.
+
         
 
 #### SUBCHAPTER VI—EMPLOYMENT OPPORTUNITIES FOR INDIVIDUALS WITH DISABILITIES
 
-#### Part A—Projects With Industry
-
-795\. Projects With Industry.
-
-795a. Authorization of appropriations.
-
-        
-
-#### Part B—Supported Employment Services for Individuals With the Most Significant Disabilities
+795, 795a. Repealed.
 
 795g. Purpose.
 
@@ -194,7 +190,9 @@ Sec.
 
 795m. Savings provision.
 
-795n. Authorization of appropriations.
+795n. Advisory Committee on Increasing Competitive Integrated Employment for Individuals with Disabilities.
+
+795 o. Authorization of appropriations.
 
         
 
@@ -206,6 +204,8 @@ Sec.
 
 796\. Purpose.
 
+796–1.Administration of the Independent Living program.
+
 796a. Definitions.
 
 796b. Eligibility for receipt of services.
@@ -214,13 +214,15 @@ Sec.
 
 796d. Statewide Independent Living Council.
 
-796d–1. Responsibilities of Commissioner.
+796d–1. Responsibilities of the Administrator.
 
         
 
 #### subpart 2—independent living services
 
 796e. Allotments.
+
+796e–0. Training and technical assistance.
 
 796e–1. Payments to States from allotments.
 
@@ -251,6 +253,8 @@ Sec.
 #### Part B—Independent Living Services for Older Individuals Who Are Blind
 
 796j. "Older individual who is blind" defined.
+
+796j–1. Training and technical assistance.
 
 796k. Program of grants.
 

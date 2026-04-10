@@ -28,7 +28,7 @@ For the purpose of carrying out the acquisition and deployment of secure facilit
 
 Section 247d–6b(c)(1)(B) of title 42, referred to in subsec. (a), was in the original "section 319F–2(c)(1)(B)", which was translated as meaning section 319F–2(c)(1)(B) of the Public Health Service Act, to reflect the probable intent of Congress.
 
-Section 403–4 of title 50, referred to in subsec. (d)(1), was repealed and a new section 403–4 enacted by Pub. L. 108–458, title I, §1011(a), Dec. 17, 2004, 118 Stat. 3660, and subsequently editorially reclassified to section 3035 of Title 50; as so enacted, section 3035 no longer relates to promulgation of standards and qualifications for the performance of intelligence activities.
+Section 403–4 of title 50, referred to in subsec. (d)(1), was repealed and a new section 403–4 enacted by Pub. L. 108–458, title I, §1011(a), Dec. 17, 2004, 118 Stat. 3660, and subsequently editorially reclassified to section 3035 of Title 50, War and National Defense; as so enacted, section 3035 no longer relates to promulgation of standards and qualifications for the performance of intelligence activities.
 
 Part A of subchapter II of this chapter, referred to in subsec. (d)(2), was in the original "subtitle A of title II", meaning subtitle A of title II of Pub. L. 107–296, Nov. 25, 2002, 116 Stat. 2145, which is classified generally to part A (§121 et seq.) of subchapter II of this chapter. For complete classification of part A to the Code, see Tables.
 

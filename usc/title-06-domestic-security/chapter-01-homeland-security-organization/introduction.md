@@ -206,6 +206,8 @@ Sec.
 
 240\. Border Enforcement Security Task Force.
 
+241\. Prevention of international child abduction.
+
         
 
 #### Part D—Immigration Enforcement Functions
@@ -366,6 +368,8 @@ Sec.
 
 381\. Functions transferred.
 
+382\. Use of proceeds derived from criminal investigations.
+
         
 
 #### Part D—Acquisitions
@@ -491,6 +495,8 @@ Sec.
 469a. Collection of fees from non-Federal participants in meetings.
 
 470\. Disclosures regarding homeland security grants.
+
+471\. Annual ammunition report.
 
         
 
