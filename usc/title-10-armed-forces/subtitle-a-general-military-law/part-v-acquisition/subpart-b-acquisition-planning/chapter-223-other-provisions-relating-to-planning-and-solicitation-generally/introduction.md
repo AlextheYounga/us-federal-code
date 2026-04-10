@@ -30,4 +30,8 @@ Sec.
 
         
 
+#### Prior Provisions
+
+A prior chapter 223 "PLANNING AND SOLICITATION RELATING TO PARTICULAR ITEMS OR SERVICES", as added by Pub. L. 115–232, div. A, title VIII, §801(a), Aug. 13, 2018, 132 Stat. 1827, and consisting of reserved section 3251, was repealed by Pub. L. 116–283, div. A, title XVIII, §1811(b), Jan. 1, 2021, 134 Stat. 4164.
+
 [1 So in original. There is no section 3248.](#CHAPTER223_1)

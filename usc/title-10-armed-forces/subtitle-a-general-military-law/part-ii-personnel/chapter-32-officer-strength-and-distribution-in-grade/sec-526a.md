@@ -48,6 +48,8 @@
 
 (B) The number of officers described in subparagraph (A) who do not serve in a position that is a joint duty assignment for purposes of chapter 38 of this title may not exceed five per armed force, unless authorized by the Secretary of Defense.
 
+  
+
 (d) Exclusion of Certain Officers Pending Separation or Retirement or Between Senior Positions.—The limitations of this section do not apply to—
 
 (1) an officer of an armed force in the grade of brigadier general or above or, in the case of the Navy, in the grade of rear admiral (lower half) or above, who is on leave pending the retirement, separation, or release of that officer from active duty, but only during the 60-day period beginning on the date of the commencement of such leave of such officer; or

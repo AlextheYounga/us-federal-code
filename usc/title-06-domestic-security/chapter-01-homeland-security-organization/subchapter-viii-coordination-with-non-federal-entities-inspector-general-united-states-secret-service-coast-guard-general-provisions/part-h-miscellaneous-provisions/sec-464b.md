@@ -4,13 +4,13 @@ In fiscal year 2004 and thereafter, the Center is authorized to accept detailees
 
 (Pub. L. 108–90, title IV, Oct. 1, 2003, 117 Stat. 1150.)
 
-#### References in Text
-
-The Center, referred to in text, means the Federal Law Enforcement Training Center.
-
   
 
 #### **Editorial Notes**
+
+#### References in Text
+
+The Center, referred to in text, means the Federal Law Enforcement Training Center.
 
 #### Codification
 
