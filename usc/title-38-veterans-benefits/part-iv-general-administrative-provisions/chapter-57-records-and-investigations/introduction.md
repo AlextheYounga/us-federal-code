@@ -66,6 +66,14 @@ Pub. L. 102–40, title IV, §402(c)(1), May 7, 1991, 105 Stat. 239, renumbered 
 
 #### **Statutory Notes and Related Subsidiaries**
 
+#### Removal of Dependents From Award of Compensation or Pension
+
+Pub. L. 116–315, title II, §2008, Jan. 5, 2021, 134 Stat. 4977, provided that: "Beginning not later than 90 days after the date of the enactment of this Act \[Jan. 5, 2021\], the Secretary of Veterans Affairs shall ensure that—
+
+"(1) the recipient of an award of compensation or pension may remove any dependent from an award of compensation or pension to the individual using the eBenefits system of the Department of Veterans Affairs, or a successor system; and
+
+"(2) such removal takes effect not later than 60 days after the date on which the recipient elects such removal."
+
 #### Updating Dependent Information
 
 Pub. L. 115–407, title V, §502, Dec. 31, 2018, 132 Stat. 5376, provided that: "The Secretary of Veterans Affairs shall make such changes to such information technology systems of the Department of Veterans Affairs, including the eBenefits system or successor system, as may be necessary so that whenever the Secretary records in such systems information about a dependent of a person, the person is able to review and revise such information."
@@ -168,17 +176,21 @@ Pub. L. 115–407, title V, §503, Dec. 31, 2018, 132 Stat. 5376, provided that:
 
 #### Discontinuation of Use of Social Security Numbers To Identify Individuals in Department of Veterans Affairs Information Systems
 
-Pub. L. 116–94, div. F, title II, §238, Dec. 20, 2019, 133 Stat. 2804, provided that:
+Pub. L. 116–260, div. J, title II, §237, Dec. 27, 2020, 134 Stat. 1681, provided that:
 
 "(a) Except as provided in subsection (b), the Secretary of Veterans Affairs, in consultation with the Secretary of Defense and the Secretary of Labor, shall discontinue using Social Security account numbers to identify individuals in all information systems of the Department of Veterans Affairs as follows:
 
-"(1) For all veterans submitting to the Secretary of Veterans Affairs new claims for benefits under laws administered by the Secretary, not later than 5 years after the date of the enactment of this Act \[Dec. 20, 2019\].
+"(1) For all veterans submitting to the Secretary of Veterans Affairs new claims for benefits under laws administered by the Secretary, not later than March 23, 2023.
 
-"(2) For all individuals not described in paragraph (1), not later than 8 years after the date of the enactment of this Act.
+"(2) For all individuals not described in paragraph (1), not later than March 23, 2026.
 
-"(b) The Secretary of Veterans Affairs may use a Social Security account number to identify an individual in an information system of the Department of Veterans Affairs if and only if the use of such number is required to obtain information the Secretary requires from an information system that is not under the jurisdiction of the Secretary."
+"(b) The Secretary of Veterans Affairs may use a Social Security account number to identify an individual in an information system of the Department of Veterans Affairs if and only if the use of such number is required to obtain information the Secretary requires from an information system that is not under the jurisdiction of the Secretary.
+
+"(c) The matter in subsections (a) and (b) shall supersede section 238 of \[div. F of\] Public Law 116–94 \[see below\]."
 
 Similar provisions were contained in the following acts:
+
+Pub. L. 116–94, div. F, title II, §238, Dec. 20, 2019, 133 Stat. 2804.
 
 Pub. L. 115–244, div. C, title II, §239, Sept. 21, 2018, 132 Stat. 2972.
 

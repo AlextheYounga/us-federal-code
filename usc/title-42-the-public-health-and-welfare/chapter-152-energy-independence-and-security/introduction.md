@@ -14,7 +14,9 @@ Sec.
 
 17012\. Advanced battery loan guarantee program.
 
-17013\. Advanced technology vehicles manufacturing incentive program.
+17013.
+
+17014\. Research and development into integrating electric vehicles onto the electric grid.
 
         
 
@@ -62,6 +64,8 @@ Sec.
 
 17063\. Energy information for commercial buildings.
 
+17064\. Smart building acceleration.
+
         
 
 #### Part A—Residential Building Efficiency
@@ -81,6 +85,8 @@ Sec.
 17084\. Separate spaces with high-performance energy efficiency measures.
 
 17085\. Tenant Star program.
+
+17086\. Advanced integration of buildings onto the electric grid.
 
         
 
@@ -105,6 +111,14 @@ Sec.
 17111\. Energy-intensive industries program.
 
 17112\. Energy efficiency for data center buildings.
+
+17113\. Industrial emissions reduction technology development program.
+
+17114\. Industrial Technology Innovation Advisory Committee.
+
+17115\. Technical assistance program to implement industrial emissions reduction.
+
+17115a. Development of national smart manufacturing plan.
 
         
 
@@ -170,9 +184,7 @@ Sec.
 
 17173\. Daylighting systems and direct solar light pipe technology.
 
-17174\. Solar air conditioning research and development program.
-
-17175\. Photovoltaic demonstration program.
+17174, 17175. Repealed.
 
         
 
@@ -188,15 +200,15 @@ Sec.
 
 17195\. Geothermal energy production from oil and gas fields and recovery and production of geopressured gas resources.
 
-17196\. Cost sharing and proposal evaluation.
+17195a. Geothermal heat pumps and direct use research and development.
 
-17197\. Center for Geothermal Technology Transfer.
+17196\. Organization and administration of programs.
 
-17198\. GeoPowering America.
+17197\. Advanced geothermal computing and data science research and development.
 
-17199\. Educational pilot program.
+17198\. Geothermal workforce development.
 
-17200\. Reports.
+17199, 17200. Repealed.
 
 17201\. Applicability of other laws.
 
@@ -208,23 +220,33 @@ Sec.
 
         
 
-#### Part C—Marine and Hydrokinetic Renewable Energy Technologies
+#### Part C—Water Power Research and Development
 
-17211\. Definition.
+17211\. Definitions.
 
-17212\. Marine and hydrokinetic renewable energy research and development.
+17212\. Water power technology research, development, and demonstration.
 
-17213\. National Marine Renewable Energy Research, Development, and Demonstration Centers.
+17213\. Hydropower research, development, and demonstration.
 
-17214\. Applicability of other laws.
+17214\. Marine energy research, development, and demonstration.
 
-17215\. Authorization of appropriations.
+17215\. National Marine Energy Centers.
+
+17216\. Organization and administration of programs.
+
+17217\. Applicability of other laws.
+
+17218\. Authorization of appropriations.
 
         
 
 #### Part D—Energy Storage for Transportation and Electric Power
 
 17231\. Energy storage competitiveness.
+
+17232\. Better energy storage technology.
+
+17233\. Energy storage technology and microgrid assistance program.
 
         
 
@@ -362,8 +384,22 @@ Sec.
 
 17384\. Smart grid technology research, development, and demonstration.
 
+17384a. Smart grid modeling, visualization, architecture, and controls.
+
 17385\. Smart grid interoperability framework.
 
 17386\. Federal matching fund for smart grid investment costs.
+
+17387\. Integrated energy systems.
+
+17388\. Advisory committee.
+
+17389\. Technology demonstration on the distribution grid.
+
+17390\. Voluntary model pathways.
+
+17391\. Voluntary state, regional, and local electricity distribution planning.
+
+17392\. Micro-grid and integrated micro-grid systems program.
 
         
