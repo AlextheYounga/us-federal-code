@@ -12,6 +12,8 @@ Sec.
 
         
 
+#### **Editorial Notes**
+
 #### Prior Provisions
 
 A prior chapter 365 "CONTRACTOR WORKFORCE", consisting of reserved section 4701, was repealed by Pub. L. 116–283, div. A, title XVIII, §1863(a), Jan. 1, 2021, 134 Stat. 4278.

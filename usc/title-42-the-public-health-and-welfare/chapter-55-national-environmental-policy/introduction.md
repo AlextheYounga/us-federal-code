@@ -108,7 +108,7 @@ Sec.
 
 4370m. Definitions.
 
-4370m–1. Federal Permitting Improvement Council.
+4370m–1. Federal Permitting Improvement Steering Council.
 
 4370m–2. Permitting process improvement.
 
@@ -130,6 +130,6 @@ Sec.
 
 4370m–11. Savings provision.
 
-4370m–12. Sunset.
+4370m–12. Repealed.
 
         

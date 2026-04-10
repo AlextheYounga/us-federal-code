@@ -40,6 +40,8 @@ Sec.
 
         
 
+#### **Editorial Notes**
+
 #### Prior Provisions
 
 A prior chapter 803, consisting of sections 8011 to 8024, related to Department of the Air Force, prior to renumbering as chapter 903 of this title.

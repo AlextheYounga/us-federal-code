@@ -28,6 +28,8 @@ Sec.
 
         
 
+#### **Editorial Notes**
+
 #### Amendments
 
 **2019**—Pub. L. 116–92, div. A, title V, §523(b)(1), Dec. 20, 2019, 133 Stat. 1354, added item 1553a.

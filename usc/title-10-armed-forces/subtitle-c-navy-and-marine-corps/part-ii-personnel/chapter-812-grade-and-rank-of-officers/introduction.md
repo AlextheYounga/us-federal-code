@@ -12,6 +12,8 @@ Sec.
 
         
 
+#### **Editorial Notes**
+
 #### Amendments
 
 **2018**—Pub. L. 115–232, div. A, title VIII, §807(e)(2)(B), (f)(1), Aug. 13, 2018, 132 Stat. 1837, 1838, redesignated chapter 535 of this title as this chapter and items 5501 to 5503 and 5508 as 8111 to 8113 and 8118, respectively.

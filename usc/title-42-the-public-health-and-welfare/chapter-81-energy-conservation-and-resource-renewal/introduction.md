@@ -40,7 +40,9 @@ Sec.
 
 6837\. Omitted.
 
-6838 to 6840. Repealed.
+6838\. Cost-effective codes implementation for efficiency and resilience.
+
+6839, 6840. Repealed.
 
         
 

@@ -4,6 +4,10 @@ There is reserved and withdrawn from settlement, occupancy or sale under the law
 
 (Oct. 1, 1890, ch. 1263, §3, 26 Stat. 651.)
 
+  
+
+#### **Editorial Notes**
+
 #### Codification
 
 Section was formerly classified to section 45 of this title.

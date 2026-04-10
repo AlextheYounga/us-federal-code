@@ -44,6 +44,8 @@ Sec.
 
         
 
+#### **Editorial Notes**
+
 #### Amendments
 
 **2021**—Pub. L. 116–283, div. A, title V, §505(b)(2), Jan. 1, 2021, 134 Stat. 3571, added item 14502a.

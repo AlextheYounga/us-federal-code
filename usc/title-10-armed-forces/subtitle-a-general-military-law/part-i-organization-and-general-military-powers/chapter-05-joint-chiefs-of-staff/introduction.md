@@ -18,6 +18,8 @@ Sec.
 
         
 
+#### **Editorial Notes**
+
 #### Prior Provisions
 
 A prior chapter 5 related to Joint Chiefs of Staff, prior to the general revision of this chapter by Pub. L. 99–433, title II, §201, Oct. 1, 1986, 100 Stat. 1004, consisted of sections 141 to 143 as follows:

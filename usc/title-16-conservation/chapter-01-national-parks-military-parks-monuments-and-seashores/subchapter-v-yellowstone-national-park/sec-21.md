@@ -4,6 +4,10 @@ The tract of land in the States of Montana and Wyoming, lying near the headwater
 
 (R.S. §2474.)
 
+  
+
+#### **Editorial Notes**
+
 #### Codification
 
 R.S. §2474 derived from act Mar. 1, 1872, ch. 24, §1, 17 Stat. 32.

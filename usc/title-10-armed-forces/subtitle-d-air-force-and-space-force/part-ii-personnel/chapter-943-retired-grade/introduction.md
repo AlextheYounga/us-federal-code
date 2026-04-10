@@ -16,6 +16,8 @@ Sec.
 
         
 
+#### **Editorial Notes**
+
 #### Prior Provisions
 
 A prior chapter 943, consisting of sections 9681 to 9686, related to disposal of obsolete or surplus material, prior to renumbering as chapter 973 of this title.

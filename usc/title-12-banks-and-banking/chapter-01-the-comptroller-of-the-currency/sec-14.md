@@ -24,7 +24,7 @@ R.S. §333 derived from acts June 3, 1864, ch. 106, §61, 13 Stat. 117, and Feb.
 
   
 
-#### **Statutory Notes and Related Subsidiaries**
+#### **Executive Documents**
 
 #### Exception as to Transfer of Functions
 

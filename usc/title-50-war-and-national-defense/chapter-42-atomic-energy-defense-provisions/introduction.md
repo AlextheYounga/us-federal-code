@@ -146,6 +146,8 @@ Sec.
 
 2586\. Defense environmental cleanup technology program.
 
+2586a. Other programs relating to technology development.
+
 2587\. Report on defense environmental cleanup expenditures.
 
 2588\. Public participation in planning for defense environmental cleanup.
@@ -322,6 +324,8 @@ Sec.
 
 2757\. Review of adequacy of nuclear weapons budget.
 
+2758\. Improvements to cost estimates informing analyses of alternatives.
+
         
 
 #### Part B—Penalties
@@ -399,5 +403,7 @@ Sec.
 2821\. Repealed.
 
 2822\. Payment of costs of operation and maintenance of infrastructure at Nevada National Security Site.
+
+2823\. University-based defense nuclear policy collaboration program.
 
         
