@@ -1,15 +1,21 @@
-### §558d. Incidental expenses
+### §558d. Authorization of appropriations
 
-The Secretaries are authorized to provide for incidental expenses, such as transportation, uniforms, lodging, training, equipment, and subsistence.
+There are authorized to be appropriated such sums as may be necessary to carry out the provisions of sections 558a to 558d of this title.
 
-(Pub. L. 92–300, §5, as added Pub. L. 118–234, title III, §341, Jan. 4, 2025, 138 Stat. 2913.)
+(Pub. L. 92–300, §4, May 18, 1972, 86 Stat. 147; Pub. L. 95–289, §1, June 5, 1978, 92 Stat. 289.)
 
   
 
 #### **Editorial Notes**
 
-#### Prior Provisions
+#### Amendments
 
-A prior section 558d, Pub. L. 92–300, §4, May 18, 1972, 86 Stat. 147; Pub. L. 95–289, §1, June 5, 1978, 92 Stat. 289, authorized appropriations for former sections 558a to 558d of this title, prior to the general amendment of the Volunteers in the National Forests Act of 1972 by Pub. L. 118–234.
+**1978**—Pub. L. 95–289 struck out limitation requiring not more than $100,000 to be appropriated in any one year.
 
-A prior section 5 of Pub. L. 92–300, May 18, 1972, 86 Stat. 147, was set out as a Short Title note under section 558a of this title, prior to the general amendment of the Volunteers in the National Forests Act of 1972 by Pub. L. 118–234.
+  
+
+#### **Statutory Notes and Related Subsidiaries**
+
+#### Effective Date of 1978 Amendment
+
+Pub. L. 95–289, §2, June 5, 1978, 92 Stat. 289, provided that: "The amendment made by this Act to the Volunteers in the National Forests Act of 1972 \[amending this section\] shall become effective October 1, 1978."

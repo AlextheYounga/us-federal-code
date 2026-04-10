@@ -3814,7 +3814,7 @@ Sec.
 
 460l–6c. Admission, entrance, and recreation fees.
 
-460l–6d. Filming and still photography.
+460l–6d. Commercial filming.
 
 460l–7 to 460l–11. Repealed.
 

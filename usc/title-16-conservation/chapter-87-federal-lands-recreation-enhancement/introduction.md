@@ -10,8 +10,6 @@ Sec.
 
 6804\. Recreation passes.
 
-6804a. Availability of Federal, State, and local recreation passes.
-
 6805\. Cooperative agreements.
 
 6806\. Special account and distribution of fees and revenues.
