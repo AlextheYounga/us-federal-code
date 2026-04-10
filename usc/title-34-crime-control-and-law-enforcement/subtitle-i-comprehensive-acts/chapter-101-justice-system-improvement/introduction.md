@@ -580,6 +580,8 @@ Sec.
 
 10652\. National criminal justice and mental health training and technical assistance.
 
+10653\. Creation of a TBI and PTSD training for first responders.
+
         
 
 #### SUBCHAPTER XXXIV—CONFRONTING USE OF METHAMPHETAMINE

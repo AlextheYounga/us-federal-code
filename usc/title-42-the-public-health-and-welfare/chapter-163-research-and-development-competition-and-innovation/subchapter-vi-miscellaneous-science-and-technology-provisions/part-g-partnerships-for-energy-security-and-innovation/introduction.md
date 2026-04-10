@@ -1,0 +1,1 @@
+### Part G—Partnerships for Energy Security and Innovation
