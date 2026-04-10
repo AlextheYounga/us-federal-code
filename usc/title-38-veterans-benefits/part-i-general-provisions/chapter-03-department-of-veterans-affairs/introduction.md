@@ -48,6 +48,8 @@ Sec.
 
 322\. Office of National Veterans Sports Programs and Special Events.
 
+323\. Office of Accountability and Whistleblower Protection.
+
         
 
 #### Prior Provisions
@@ -121,6 +123,8 @@ Section 245, added Pub. L. 91–219, title II, §214(a), Mar. 26, 1970, 84 Stat.
 Section 246, added Pub. L. 95–202, title III, §310(b)(1), Nov. 23, 1977, 91 Stat. 1446; amended Pub. L. 95–336, §6(b), Aug. 4, 1978, 92 Stat. 453; Pub. L. 97–295, §4(8), Oct. 12, 1982, 96 Stat. 1305, related to veterans cost-of-instruction payments to institutions of higher learning.
 
 #### Amendments
+
+**2017**—Pub. L. 115–41, title I, §101(c), June 23, 2017, 131 Stat. 865, added item 323.
 
 **2008**—Pub. L. 110–389, title II, §222(b), title VII, §703(b), Oct. 10, 2008, 122 Stat. 4156, 4184, added items 321 and 322.
 
