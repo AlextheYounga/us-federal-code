@@ -8,6 +8,8 @@ Sec.
 
         
 
+#### **Editorial Notes**
+
 #### Prior Provisions
 
 A prior subchapter C related to tax on hazardous wastes, consisted of sections 4681 and 4682, prior to repeal by Pub. L. 99–499, title V, §514(a)(1), Oct. 17, 1986, 100 Stat. 1767.

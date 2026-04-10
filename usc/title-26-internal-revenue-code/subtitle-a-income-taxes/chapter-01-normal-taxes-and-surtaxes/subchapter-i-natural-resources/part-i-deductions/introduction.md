@@ -22,6 +22,8 @@ Sec.
 
         
 
+#### **Editorial Notes**
+
 #### Amendments
 
 **1990**—Pub. L. 101–508, title XI, §11801(b)(7), Nov. 5, 1990, 104 Stat. 1388–522, struck out item for part II "Exclusions from gross income".

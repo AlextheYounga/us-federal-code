@@ -10,6 +10,8 @@ Sec.
 
         
 
+#### **Editorial Notes**
+
 #### Amendments
 
 **1976**—Pub. L. 94–455, title XIX, §1903(b), Oct. 4, 1976, 90 Stat. 1810, struck out item 3113 "District of Columbia credit unions".

@@ -22,6 +22,10 @@ H. Excise tax based on investment income of private colleges and universities 49
 
         
 
+  
+
+#### **Editorial Notes**
+
 #### Amendments
 
 **2017**—Pub. L. 115–97, title I, §13701(b), Dec. 22, 2017, 131 Stat. 2168, added item for subchapter H.

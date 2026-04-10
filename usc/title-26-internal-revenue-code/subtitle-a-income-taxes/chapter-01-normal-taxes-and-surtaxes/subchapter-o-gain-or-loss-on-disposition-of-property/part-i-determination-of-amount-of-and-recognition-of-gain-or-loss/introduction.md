@@ -8,6 +8,8 @@ Sec.
 
         
 
+#### **Editorial Notes**
+
 #### Amendments
 
 **1976**—Pub. L. 94–455, title XIX, §1901(b)(28)(B)(ii), Oct. 4, 1976, 90 Stat. 1799, struck out item 1002 "Recognition of gain or loss".

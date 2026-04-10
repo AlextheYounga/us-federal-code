@@ -8,6 +8,8 @@ Sec.
 
         
 
+#### **Editorial Notes**
+
 #### Prior Provisions
 
 A prior subpart D, consisting of section 6056, related to information concerning private foundations, prior to repeal by Pub. L. 96–603, §1(c), Dec. 28, 1980, 94 Stat. 3504.

@@ -10,6 +10,10 @@ C. Heavy trucks and trailers 4051
 
         
 
+  
+
+#### **Editorial Notes**
+
 #### Prior Provisions
 
 The provisions of a prior chapter 31, Miscellaneous Excise Taxes, were set out as:

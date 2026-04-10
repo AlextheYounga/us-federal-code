@@ -26,6 +26,8 @@ Sec.
 
         
 
+#### **Editorial Notes**
+
 #### Amendments
 
 **1976**—Pub. L. 94–566, title I, §115(c)(4), Oct. 20, 1976, 90 Stat. 2671, substituted "services performed for nonprofit organizations or governmental entities" for "certain services performed for nonprofit organizations and for State hospitals and institutions of higher education" in item 3309.

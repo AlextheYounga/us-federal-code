@@ -12,6 +12,8 @@ Sec.
 
         
 
+#### **Editorial Notes**
+
 #### Amendments
 
 **2018**—Pub. L. 115–141, div. U, title IV, §401(a)(138), Mar. 23, 2018, 132 Stat. 1191, substituted "Deduction for estates and trusts accumulating income or distributing corpus" for "Deductions for estates and trusts accumulating income or distributing corpus" in item 661.
