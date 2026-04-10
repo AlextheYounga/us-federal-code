@@ -98,8 +98,6 @@ Chap. Sec.
 
 945\. Disposition of Effects of Deceased Persons 9712
 
-        
-
 947\. Transportation 9741
 
 949\. Real Property 9771

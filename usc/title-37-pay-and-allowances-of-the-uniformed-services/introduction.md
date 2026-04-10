@@ -155,7 +155,7 @@ Table Showing Disposition of All Sections of Former Title 37
 | 301(d)                                 | 301                                                                                  |
 | 301(e)                                 | 206, 301, 309, 402, 1002                                                             |
 | 301(f)                                 | Rep.                                                                                 |
-| 302                                    | T. 33 §853o–1                                                                        |
+| 302                                    | T. 33 §853*o*–1                                                                      |
 | 303                                    | 423                                                                                  |
 | 304                                    | 201, 421                                                                             |
 | 305                                    | 418                                                                                  |
