@@ -52,6 +52,8 @@ Chap. Sec.
 
         
 
+#### **Editorial Notes**
+
 #### Amendments
 
 **2017**—Pub. L. 115–85, §2(a)(4), Nov. 21, 2017, 131 Stat. 1275, repealed Pub. L. 113–187, §9(f)(2). See 2014 Amendment note below.
@@ -75,10 +77,6 @@ Chap. Sec.
 Pub. L. 95–378, §2(b), Sept. 22, 1978, 92 Stat. 723, struck out item 27 "Federal Records Council".
 
 **1974**—Pub. L. 93–536, §2, Dec. 22, 1974, 88 Stat. 1735, substituted "National Historical Publications and Records Commission" for "National Historical Publications Commission" in item 25.
-
-#### Change of Name
-
-"Government Publishing Office" substituted for "Government Printing Office" in items 3 and 39 on authority of section 1301(b) of Pub. L. 113–235, div. H, title I, Dec. 16, 2014, 128 Stat. 2537, set out as a note preceding section 301 of this title.
 
 Table Showing Disposition of All Sections of Former Title 44
 | *Title 44  Former Sections*      | *Title 44  New Sections*     |
@@ -421,6 +419,14 @@ Table Showing Disposition of All Sections of Former Title 44
 | 425                              | 3510                         |
 | 426                              | 3502                         |
 | 427                              | 3511                         |
+
+  
+
+#### **Statutory Notes and Related Subsidiaries**
+
+#### Change of Name
+
+"Government Publishing Office" substituted for "Government Printing Office" in items 3 and 39 on authority of section 1301(b) of Pub. L. 113–235, div. H, title I, Dec. 16, 2014, 128 Stat. 2537, set out as a note preceding section 301 of this title.
 
 #### Enacting Clause
 

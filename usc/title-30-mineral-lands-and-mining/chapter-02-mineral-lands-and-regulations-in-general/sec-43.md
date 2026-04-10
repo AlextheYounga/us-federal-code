@@ -4,9 +4,17 @@ As a condition of sale, in the absence of necessary legislation by Congress, the
 
 (R.S. §2338.)
 
+  
+
+#### **Editorial Notes**
+
 #### Codification
 
 R.S. §2338 derived from act July 26, 1866, ch. 262, §5, 14 Stat. 252.
+
+  
+
+#### **Statutory Notes and Related Subsidiaries**
 
 #### Submerged Lands Act
 
