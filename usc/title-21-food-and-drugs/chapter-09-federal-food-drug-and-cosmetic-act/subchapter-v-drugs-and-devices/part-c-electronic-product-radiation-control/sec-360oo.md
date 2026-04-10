@@ -14,7 +14,7 @@
 
   
 
-(b) The Secretary may exempt any electronic product, or class thereof, from all or part of subsection (a) of this section, upon such conditions as he may find necessary to protect the public health or welfare, for the purpose of research, investigations, studies, demonstrations, or training, or for reasons of national security.
+(b) The Secretary may exempt any electronic product, or class thereof, from all or part of subsection (a), upon such conditions as he may find necessary to protect the public health or welfare, for the purpose of research, investigations, studies, demonstrations, or training, or for reasons of national security.
 
 (June 25, 1938, ch. 675, §538, formerly act July 1, 1944, ch. 373, title III, §538, formerly §360B, as added Pub. L. 90–602, §2(3), Oct. 18, 1968, 82 Stat. 1184; renumbered §538 and amended Pub. L. 101–629, §19(a)(1)(B), (2)(F), (3), (4), Nov. 28, 1990, 104 Stat. 4529, 4530; Pub. L. 103–80, §4(a)(2), Aug. 13, 1993, 107 Stat. 779.)
 
