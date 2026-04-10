@@ -38,7 +38,7 @@ Sec.
 
 #### Amendments
 
-**2024**—Pub. L. 118–159, div. A, title IX, §921(a), title XVI, §§1612(a), 1614(a)(1), Dec. 23, 2024, 138 Stat. 2036, 2167, 2168, added items 429a, 430c, and 430d. Amendment adding item 429a was made pursuant to operation of section 102 of this title.
+**2024**—Pub. L. 118–159, div. A, title IX, §921(a), title XVI, §§1612(a), 1614(a)(1), Dec. 23, 2024, 138 Stat. 2036, 2167, 2168, added items 429a, 430c, and 430d. Amendments were made pursuant to operation of section 102 of this title.
 
 **2015**—Pub. L. 114–92, div. A, title X, §§1081(a)(5), 1083(a)(2), title XVI, §1631(b), Nov. 25, 2015, 129 Stat. 1001, 1004, 1111, added items 430 to 430b.
 

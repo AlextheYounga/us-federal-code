@@ -48,7 +48,7 @@ Sec.
 
 #### Amendments
 
-**2024**—Pub. L. 118–159, div. B, title XXVIII, §2823(b), Dec. 23, 2024, 138 Stat. 2256, which directed amendment of the analysis for this chapter by adding item 2839, was executed to the analysis for this subchapter, to reflect the probable intent of Congress
+**2024**—Pub. L. 118–159, div. B, title XXVIII, §2823(b), Dec. 23, 2024, 138 Stat. 2256, which directed amendment of the analysis for this chapter by adding item 2839, was executed to the analysis for this subchapter, to reflect the probable intent of Congress.
 
 **2022**—Pub. L. 117–263, div. B, title XXVIII, §2821(a), Dec. 23, 2022, 136 Stat. 2999, added item 2837. Amendment was made pursuant to operation of section 102 of this title.
 
