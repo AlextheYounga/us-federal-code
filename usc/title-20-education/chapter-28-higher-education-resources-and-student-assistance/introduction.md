@@ -212,9 +212,9 @@ Sec.
 
 1063c. Reporting and audit requirements.
 
-1063d. Strengthening HBCUS through Federal agency plans.
+1063d. Strengthening HBCUs through Federal agency plans.
 
-1063e. President's Board of Advisors on HBCUS.
+1063e. President's Board of Advisors on HBCUs.
 
         
 
