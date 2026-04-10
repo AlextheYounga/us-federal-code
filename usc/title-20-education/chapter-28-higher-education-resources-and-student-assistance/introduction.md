@@ -1064,9 +1064,7 @@ Sec.
 
 #### SUBCHAPTER VIII—MISCELLANEOUS
 
-1151\. Repealed.
-
-1152\. Repealed.
+1151, 1152. Repealed.
 
 1153\. Underground Railroad educational and cultural program.
 
