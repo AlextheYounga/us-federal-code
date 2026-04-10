@@ -20,7 +20,7 @@
 
   
 
-(e) Exception.—(1)The notification requirement under subsection (a) shall not apply with respect to a sensitive military operation executed within the territory of Afghanistan pursuant to the Authorization for Use of Military Force (Public Law 107–40; 50 U.S.C. 1541 note).
+(e) Exception.—(1) The notification requirement under subsection (a) shall not apply with respect to a sensitive military operation executed within the territory of Afghanistan pursuant to the Authorization for Use of Military Force (Public Law 107–40; 50 U.S.C. 1541 note).
 
 (2) The exception in paragraph (1) shall cease to be in effect at the close of December 31, 2017.
 
