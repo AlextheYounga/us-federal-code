@@ -26,7 +26,7 @@ The one year period is made inapplicable to applications which may be pending wh
 
   
 
-#### **Statutory Notes and Related Subsidiairies**
+#### **Statutory Notes and Related Subsidiaries**
 
 #### Effective Date of 1975 Amendment
 
