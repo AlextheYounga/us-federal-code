@@ -72,6 +72,6 @@
 
 [1 So in original. Does not conform to subchapter designation.](#CHAPTER700_1)
 
-[2 So in original. Probably should be preceded by "Sec.".](#CHAPTER700_2)
+[2 So in original. Probably should be preceded by "Sec."](#CHAPTER700_2)
 
 [3 So in original. Does not conform to section catchline.](#CHAPTER700_3)
