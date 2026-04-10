@@ -2,7 +2,7 @@ United States Code Document
 
 # TITLE 28—APPENDIX
 
-Item Page
+Item
 
 Judicial Personnel Financial Disclosure Requirements (Repealed) 1
 
@@ -11853,7 +11853,7 @@ Amendment of this rule embraced by the order entered by the Supreme Court of the
 
 (2) *Service in the United States.* A subpoena may be served at any place within the United States.
 
-(3) *Service in a Foreign Country.* 28 U.S.C. §1783 governs issuing and serving a subpoena directed to a United States national or resident who is in a foreign country.
+(3) *Service in a Foreign Country.* 28 U.S.C. §1783 governs issuing and serving a subpoena directed to a United States national or resident who is in a foreign country.
 
 (4) *Proof of Service.* Proving service, when necessary, requires filing with the issuing court a statement showing the date and manner of service and the names of the persons served. The statement must be certified by the server.
 
@@ -11861,7 +11861,7 @@ Amendment of this rule embraced by the order entered by the Supreme Court of the
 
 (c) Place of Compliance.
 
-(1)*For a Trial, Hearing, or Deposition.* A subpoena may command a person to attend a trial, hearing, or deposition only as follows:
+(1) *For a Trial, Hearing, or Deposition.* A subpoena may command a person to attend a trial, hearing, or deposition only as follows:
 
 (A) within 100 miles of where the person resides, is employed, or regularly transacts business in person; or
 
