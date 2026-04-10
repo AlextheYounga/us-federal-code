@@ -56,7 +56,9 @@ Sec.
 
 3143\. Termination of work on failure to pay agreed wages.
 
-3144\. Authority of Comptroller General to pay wages and list contractors violating contracts.
+3144\. Authority of Comptroller General to pay wages and list contractors violating contracts. 1
+
+        
 
 3145\. Regulations governing contractors and subcontractors.
 
@@ -82,7 +84,7 @@ Sec.
 
 3172\. Extension of state workers’ compensation laws to buildings, works, and property of the Federal Government.
 
-3173\. Working capital fund for blueprinting, photostating, and duplicating services in General Services Administration. 1
+3173\. Working capital fund for blueprinting, photostating, and duplicating services in General Services Administration. 2
 
         
 
@@ -92,10 +94,12 @@ Sec.
 
 3176\. Administrator of General Services to furnish services in continental United States to international bodies.
 
-3177\. Use of photovoltaic energy in public buildings. 2
+3177\. Use of photovoltaic energy in public buildings. 3
 
         
 
-[1 Section catchline amended by Pub. L. 111–8 without corresponding amendment of chapter analysis.](#CHAPTER31_1)
+[1 Section catchline amended by Pub. L. 113–50 without corresponding amendment of chapter analysis.](#CHAPTER31_1)
 
-[2 Editorially supplied. Section 3177 added by Pub. L. 109–58 without corresponding amendment of chapter analysis.](#CHAPTER31_2)
+[2 Section catchline amended by Pub. L. 111–8 without corresponding amendment of chapter analysis.](#CHAPTER31_2)
+
+[3 Editorially supplied. Section 3177 added by Pub. L. 109–58 without corresponding amendment of chapter analysis.](#CHAPTER31_3)
