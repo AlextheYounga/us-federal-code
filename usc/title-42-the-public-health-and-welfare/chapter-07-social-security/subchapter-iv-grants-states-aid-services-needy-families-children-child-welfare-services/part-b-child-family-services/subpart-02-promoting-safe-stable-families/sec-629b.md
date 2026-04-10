@@ -66,15 +66,31 @@ A State plan meets the requirements of this subsection if the plan—
 
   
 
-(9) contains assurances that in administering and conducting service programs under the plan, the safety of the children to be served shall be of paramount concern; and
+(9) contains assurances that in administering and conducting service programs under the plan, the safety of the children to be served shall be of paramount concern;
 
-(10) describes how the State identifies which populations are at the greatest risk of maltreatment and how services are targeted to the populations.
+(10) describes how the State identifies which populations are at the greatest risk of maltreatment and how services are targeted to the populations; and
+
+(11) provides a description of policies in place, including training for employees, to address child welfare reports and investigations of neglect concerning the living arrangements or subsistence needs of a child with the goal to prevent the separation of a child from a parent of the child solely due to poverty, to ensure access to services described in section 629a(a)(1)(H) of this title.
 
 #### (b) Approval of plans
 
 #### (1) In general
 
-The Secretary shall approve a plan that meets the requirements of subsection (a) only if the plan was developed jointly by the Secretary and the State, after consultation by the State agency with appropriate public and nonprofit private agencies and community-based organizations with experience in administering programs of services for children and families (including family preservation, family support, family reunification, and adoption promotion and support services).
+The Secretary shall approve a plan that meets the requirements of subsection (a) only if—
+
+(A) the plan was developed jointly by the Secretary and the State, and the State, in developing the plan, consulted with—
+
+(i) appropriate public and nonprofit private agencies;
+
+(ii) community-based organizations involved in providing services for children and families in the areas of family preservation, family support, family reunification, foster care, kinship, and adoption promotion and support;
+
+(iii) parents with child welfare experience, foster parents, adoptive parents, and kinship caregivers; and
+
+(iv) children, youth, and young adults with experience in the child welfare system, including State boards and councils comprised of youth with lived experience who represent the diversity of children in the State to whom the plan would apply; and
+
+  
+
+(B) the State has made publicly accessible on a website of the State agency a report that outlines how the State has implemented the suggestions of the children and youth referred to in subparagraph (A)(iv).
 
 #### (2) Plans of Indian tribes or tribal consortia
 
@@ -84,7 +100,7 @@ The Secretary may exempt a plan submitted by an Indian tribe or tribal consortiu
 
 #### (B) Special rule
 
-Notwithstanding subparagraph (A) of this paragraph, the Secretary may not approve a plan of an Indian tribe or tribal consortium under this subpart to which (but for this subparagraph) an allotment of less than $10,000 would be made under section 629c(a) of this title if allotments were made under section 629c(a) of this title to all Indian tribes and tribal consortia with plans approved under this subpart with the same or larger numbers of children.
+Notwithstanding subparagraph (A) of this paragraph, the Secretary may not approve a plan of an Indian tribe or tribal consortium under this subpart to which (but for this subparagraph) an allotment of less than $10,000 would be made under sections 629c(a) and 629g(c)(1) of this title combined if allotments were made under such sections to all Indian tribes and tribal consortia with plans approved under this subpart with the same or larger numbers of children.
 
 #### (c) Annual submission of State reports to Congress
 
@@ -101,42 +117,6 @@ The compilation shall include the individual State reports and tables that synth
 Not later than September 30 of each year, the Secretary shall publish the compilation on the website of the Department of Health and Human Services in a location easily accessible by the public.
 
 (Aug. 14, 1935, ch. 531, title IV, §432, as added Pub. L. 103–66, title XIII, §13711(a)(2), Aug. 10, 1993, 107 Stat. 651; amended Pub. L. 105–89, title III, §305(b)(1), (c)(1), Nov. 19, 1997, 111 Stat. 2130, 2131; Pub. L. 105–200, title IV, §410(c), July 16, 1998, 112 Stat. 673; Pub. L. 109–288, §§3(e)(1), (2), 5(b)(3)(A), (c), Sept. 28, 2006, 120 Stat. 1235, 1243, 1244; Pub. L. 112–34, title I, §102(b), (e), (g)(1), Sept. 30, 2011, 125 Stat. 371, 372; Pub. L. 115–123, div. E, title VII, §50721(b)(2), Feb. 9, 2018, 132 Stat. 245; Pub. L. 118–258, title I, §§107(b)(1), 109(b), 111(b), Jan. 4, 2025, 138 Stat. 2955, 2958, 2961.)
-
-#### Amendment of Section
-
-Pub. L. 118–258, title I, §§107(b)(1), 109(b), 111(b), 117, Jan. 4, 2025, 138 Stat. 2955, 2958, 2961, 2969, provided that, effective Oct. 1, 2025, and applicable to payments under this part for calendar quarters beginning on or after such date, with delay permitted if either State legislation or tribal action is required to meet additional requirements, this section is amended as follows:
-
-(1) in subsection (a), by striking "and" after the semicolon in paragraph (9), by striking the period and inserting "; and" in paragraph (10), and by adding at the end the following:
-
-*"(11) provides a description of policies in place, including training for employees, to address child welfare reports and investigations of neglect concerning the living arrangements or subsistence needs of a child with the goal to prevent the separation of a child from a parent of the child solely due to poverty, to ensure access to services described in section 629a(a)(1)(H) of this title."; and*
-
-(2) in subsection (b)—
-
-(A) by amending paragraph (1) to read as follows:
-
-#### *"(1) In general*
-
-*"The Secretary shall approve a plan that meets the requirements of subsection (a) only if—*
-
-*"(A) the plan was developed jointly by the Secretary and the State, and the State, in developing the plan, consulted with—*
-
-*"(i) appropriate public and nonprofit private agencies;*
-
-*"(ii) community-based organizations involved in providing services for children and families in the areas of family preservation, family support, family reunification, foster care, kinship, and adoption promotion and support;*
-
-*"(iii) parents with child welfare experience, foster parents, adoptive parents, and kinship caregivers; and*
-
-*"(iv) children, youth, and young adults with experience in the child welfare system, including State boards and councils comprised of youth with lived experience who represent the diversity of children in the State to whom the plan would apply; and*
-
-  
-
-*"(B) the State has made publicly accessible on a website of the State agency a report that outlines how the State has implemented the suggestions of the children and youth referred to in subparagraph (A)(iv)."; and*
-
-  
-
-(B) in paragraph (2)(B), by striking "section 629c(a) of this title" the 1st place it appears and inserting "sections 629c(a) and 629g(c)(1) of this title combined" and by striking "section 629c(a) of this title" the 2nd place it appears and inserting "such sections".
-
-See 2025 Amendment notes below.
 
   
 

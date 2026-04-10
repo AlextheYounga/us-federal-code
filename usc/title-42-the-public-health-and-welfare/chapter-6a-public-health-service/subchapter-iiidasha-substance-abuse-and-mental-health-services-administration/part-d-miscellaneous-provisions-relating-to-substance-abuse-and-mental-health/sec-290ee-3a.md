@@ -203,3 +203,11 @@ Subsec. (d)(1). Pub. L. 115–271, §7181(a)(7)(B), substituted "subsection (b)"
 Subsecs. (e) to (i). Pub. L. 115–271, §7181(a)(8), added subsec. (e) to (i). Former subsecs. (e) and (f) redesignated (d) and (j), respectively.
 
 Subsec. (j). Pub. L. 115–271, §7181(a)(4), redesignated subsec. (f) as (j).
+
+  
+
+#### **Statutory Notes and Related Subsidiaries**
+
+#### Substance Use Disorder and Overdose Prevention Activities
+
+Pub. L. 119–44, title I, §113, Dec. 1, 2025, 139 Stat. 679, provided that: "The activities carried out pursuant to section 1003(b)(4)(A) of the 21st Century Cures Act (42 U.S.C. 290ee–3a(b)(4)(A)) may include facilitating access to products used to prevent overdose deaths by detecting the presence of one or more substances, such as fentanyl and xylazine test strips, to the extent the purchase and possession of such products is consistent with Federal and State law."

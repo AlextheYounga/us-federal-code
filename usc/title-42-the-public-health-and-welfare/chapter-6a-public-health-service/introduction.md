@@ -824,9 +824,13 @@ Sec.
 
         
 
-#### Part O—Fetal Alcohol Syndrome Prevention and Services Program
+#### Part O—Fetal Alcohol Spectrum Disorder Prevention and Services Program
 
-280f to 280f–3. Omitted.
+280f. Fetal alcohol spectrum disorders prevention, intervention, and services delivery program.
+
+280f–1. Strengthening capacity and education for fetal alcohol spectrum disorders.
+
+280f–2. Authorization of appropriations.
 
         
 
@@ -1804,7 +1808,7 @@ Sec.
 
 290ee–7. Comprehensive opioid recovery centers.
 
-290ee–8. Career Act.
+290ee–8. Career Act; treatment, recovery, and workforce support grants.
 
 290ee–9. Services for families and patients in crisis.
 

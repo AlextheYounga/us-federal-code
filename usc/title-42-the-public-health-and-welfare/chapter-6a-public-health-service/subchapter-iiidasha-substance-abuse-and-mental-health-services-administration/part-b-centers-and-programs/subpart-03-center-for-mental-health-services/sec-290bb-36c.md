@@ -14,9 +14,11 @@ In maintaining the program, the activities of the Secretary shall include—
 
 (3) consulting with the Secretary of Veterans Affairs to ensure that veterans calling the suicide prevention hotline have access to a specialized veterans' suicide prevention hotline;
 
-(4) improving awareness of the program for suicide prevention and mental health crisis intervention services, including by conducting an awareness initiative and ongoing outreach to the public; and
+(4) improving awareness of the program for suicide prevention and mental health crisis intervention services, including by conducting an awareness initiative and ongoing outreach to the public;
 
-(5) improving the collection and analysis of demographic information, in a manner that protects personal privacy, consistent with applicable Federal and State privacy laws, in order to understand disparities in access to the program among individuals who are seeking help.
+(5) improving the collection and analysis of demographic information, in a manner that protects personal privacy, consistent with applicable Federal and State privacy laws, in order to understand disparities in access to the program among individuals who are seeking help; and
+
+(6) taking such steps as may be necessary to ensure the suicide prevention hotline is protected from cybersecurity incidents and eliminates known cybersecurity vulnerabilities.
 
 #### (c) Plan
 
@@ -62,17 +64,61 @@ The Secretary shall, as appropriate, formalize and strengthen agreements between
 
 The Secretary shall ensure that the aggregated information collected and any applicable analyses conducted under subsection (b)(5), including from local call centers, as applicable, are made available in a usable format to State and local agencies in order to inform suicide prevention activities.
 
-#### (f) Authorization of appropriations
+#### (f) Cybersecurity reporting
+
+#### (1) Notification
+
+#### (A) In general
+
+The program's network administrator receiving Federal funding pursuant to subsection (a) shall report to the Assistant Secretary, in a manner that protects personal privacy, consistent with applicable Federal and State privacy laws—
+
+(i) any identified cybersecurity vulnerabilities to the program within a reasonable amount of time after identification of such a vulnerability; and
+
+(ii) any identified cybersecurity incidents to the program within a reasonable amount of time after identification of such incident.
+
+#### (B) Local and regional crisis centers
+
+Local and regional crisis centers participating in the program shall report to the program's network administrator identified under subparagraph (A), in a manner that protects personal privacy, consistent with applicable Federal and State privacy laws—
+
+(i) any identified cybersecurity vulnerabilities to the program within a reasonable amount of time after identification of such vulnerability; and
+
+(ii) any identified cybersecurity incidents to the program within a reasonable amount of time after identification of such incident.
+
+#### (2) Notification
+
+If the program's network administrator receiving funding pursuant to subsection (a) discovers, or is informed by a local or regional crisis center pursuant to paragraph (1)(B) of, a cybersecurity vulnerability or incident, within a reasonable amount of time after such discovery or receipt of information, such entity shall report the vulnerability or incident to the Assistant Secretary.
+
+#### (3) Clarification
+
+#### (A) Oversight
+
+#### (i) Local and regional crisis centers
+
+Except as provided in clause (ii), local and regional crisis centers participating in the program shall oversee all technology each center employs in the provision of services as a participant in the program.
+
+#### (ii) Network administrator
+
+The program's network administrator receiving Federal funding pursuant to subsection (a) shall oversee the technology each crisis center employs in the provision of services as a participant in the program if such oversight responsibilities are established in the applicable network participation agreement.
+
+#### (B) Supplement, not supplant
+
+The cybersecurity incident reporting requirements under this subsection shall supplement, and not supplant, cybersecurity incident reporting requirements under other provisions of applicable Federal law that are in effect on December 1, 2025.
+
+#### (g) Authorization of appropriations
 
 To carry out this section, there are authorized to be appropriated $101,621,000 for each of fiscal years 2023 through 2027.
 
-(July 1, 1944, ch. 373, title V, §520E–3, as added Pub. L. 114–255, div. B, title IX, §9005, Dec. 13, 2016, 130 Stat. 1239; amended Pub. L. 117–328, div. FF, title I, §1103(a), Dec. 29, 2022, 136 Stat. 5637.)
+(July 1, 1944, ch. 373, title V, §520E–3, as added Pub. L. 114–255, div. B, title IX, §9005, Dec. 13, 2016, 130 Stat. 1239; amended Pub. L. 117–328, div. FF, title I, §1103(a), Dec. 29, 2022, 136 Stat. 5637; Pub. L. 119–44, title I, §108(a), (b), Dec. 1, 2025, 139 Stat. 675, 676.)
 
   
 
 #### **Editorial Notes**
 
 #### Amendments
+
+**2025**—Subsec. (b)(6). Pub. L. 119–44, §108(a), added par. (6).
+
+Subsecs. (f), (g). Pub. L. 119–44, §108(b), added subsec. (f) and redesignated former subsec. (f) as (g).
 
 **2022**—Subsec. (b)(1). Pub. L. 117–328, §1103(a)(1)(A), inserted "supporting and" before "coordinating" and substituted "mental health crisis intervention services, including appropriate follow-up services," for "crisis intervention services".
 

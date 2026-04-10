@@ -38,6 +38,26 @@ A prior section 300x, act July 1, 1944, ch. 373, title XIX, §1911, as added Aug
 
 Part effective July 10, 1992, with programs making awards providing financial assistance in fiscal year 1993 and subsequent years effective for awards made on or after Oct. 1, 1992, and with provision that section 205(a) of Pub. L. 102–321, set out below, regarding allotments made for fiscal year 1992 under this part as in effect on the day before July 10, 1992, applies with respect to the program established in this part, see section 801(b), (d) of Pub. L. 102–321, set out as an Effective Date of 1992 Amendment note under section 236 of this title.
 
+#### State Guidance Related to Individuals With Serious Mental Illness and Children With Serious Emotional Disturbance
+
+Pub. L. 119–44, title II, §208, Dec. 1, 2025, 139 Stat. 681, provided that:
+
+"(a) Review of Use of Certain Funding.—Not later than 1 year after the date of enactment of this Act \[Dec. 1, 2025\], the Secretary of Health and Human Services (referred to in this section as the 'Secretary'), acting through the Assistant Secretary for Mental Health and Substance Use, shall conduct a review of State use of funds made available under the Community Mental Health Services Block Grant program under subpart I of part B of title XIX of the Public Health Service Act (42 U.S.C. 300x et seq.) (referred to in this section as the 'block grant program') for first episode psychosis activities. Such review shall consider the following:
+
+"(1) How States use funds for evidence-based treatments and services according to the standard of care for individuals with early serious mental illness and children with a serious emotional disturbance.
+
+"(2) The percentages of the State funding under the block grant program expended on early serious mental illness and first episode psychosis, and the number of individuals served under such funds.
+
+"(b) Report and Guidance.—
+
+"(1) Report.—Not later than 180 days after the completion of the review under subsection (a), the Secretary shall submit to the Committee on Health, Education, Labor, and Pensions and the Committee on Appropriations of the Senate and the Committee on Energy and Commerce and the Committee on Appropriations of the House of Representatives a report describing—
+
+"(A) the findings of the review under subsection (a); and
+
+"(B) any recommendations for changes to the block grant program that would facilitate improved outcomes for individuals with serious mental illness and children with serious emotional disturbance.
+
+"(2) Guidance.—Not later than 1 year after the date on which the report is submitted under paragraph (1), the Secretary shall update the guidance provided to States under the block grant program on coordinated specialty care and other evidence-based mental health care services for individuals with serious mental illness and children with a serious emotional disturbance, based on the findings and recommendations of such report."
+
 #### Temporary Provisions Regarding Funding
 
 Section 205 of Pub. L. 102–321, as amended by Pub. L. 102–352, §2(c), Aug. 26, 1992, 106 Stat. 939; Pub. L. 102–408, title III, §312, Oct. 13, 1992, 106 Stat. 2091, provided that, with respect to allotments made for fiscal year 1992 under this part, as in effect on the day before July 10, 1992, any portion of the total of such allotments that has not been paid to the States as of the first day of the fourth quarter of such fiscal year be reallotted with the result that the total allotment made for a State for fiscal year 1992 be the amount indicated for the State in a specified table, authorized Secretary of Health and Human Services to make a grant to a State of the reallotment if the State agrees that the grant be subject to all conditions upon which allotments and payments under this part, as in effect on the day before July 10, 1992, are made for fiscal 1992, with specified exceptions, permitted transfers of allotments made in fiscal years 1993 and 1994 between this part and subpart II, section 300x–21 of this title, under certain circumstances, defined terms as used, and directed funding, subject to a limitation, of a program for pregnant and postpartum women for fiscal year 1993.

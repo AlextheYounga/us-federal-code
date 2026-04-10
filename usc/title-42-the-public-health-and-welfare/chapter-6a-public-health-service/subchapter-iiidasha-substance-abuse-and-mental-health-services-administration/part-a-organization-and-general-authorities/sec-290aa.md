@@ -676,6 +676,10 @@ shall continue in effect according to their terms until modified, terminated, su
 
 "With respect to fiscal years 1994 and 1995, the Directors of the National Institute on Alcohol Abuse and Alcoholism, the National Institute on Drug Abuse, and the National Institute of Mental Health shall notwithstanding section 405(a) \[42 U.S.C. 284(a)\], prepare and submit, directly to the President for review and transmittal to Congress, an annual budget estimate (including an estimate of the number and type of personnel needs for the Institute) for their respective Institutes, after reasonable opportunity for comment (but without change) by the Secretary of Health and Human Services, the Director of the National Institutes of Health, and the Institute's advisory council."
 
+#### Website Improvements
+
+Pub. L. 119–44, title III, §307(c), Dec. 1, 2025, 139 Stat. 689, provided that: "The Secretary shall implement improvements to Grants.gov related to SAMHSA funding opportunities based on stakeholder feedback received at the public meeting under subsection (a) \[not classified to the Code\], as appropriate, to the maximum extent feasible."
+
 #### Funding for Community-Based Funding for Local Behavioral Health Needs
 
 Pub. L. 117–2, title II, §2707, Mar. 11, 2021, 135 Stat. 47, provided that:
@@ -690,7 +694,7 @@ Pub. L. 117–2, title II, §2707, Mar. 11, 2021, 135 Stat. 47, provided that:
 
 #### Interdepartmental Substance Use Disorders Coordinating Committee
 
-Pub. L. 115–271, title VII, §7022, Oct. 24, 2018, 132 Stat. 4010, provided that:
+Pub. L. 115–271, title VII, §7022, Oct. 24, 2018, 132 Stat. 4010, as amended by Pub. L. 119–44, title I, §110(b), Dec. 1, 2025, 139 Stat. 677, provided that:
 
 "(a) Establishment.—Not later than 3 months after the date of the enactment of this Act \[Oct. 24, 2018\], the Secretary of Health and Human Services (in this section referred to as the 'Secretary') shall, in coordination with the Director of National Drug Control Policy, establish a committee, to be known as the Interdepartmental Substance Use Disorders Coordinating Committee (in this section referred to as the 'Committee'), to coordinate Federal activities related to substance use disorders.
 
@@ -770,11 +774,37 @@ Pub. L. 115–271, title VII, §7022, Oct. 24, 2018, 132 Stat. 4010, provided th
 
 "(f) Annual Report.—Not later than 1 year after the date of the enactment of this Act \[Oct. 24, 2018\], and annually thereafter for the life of the Committee, the Committee shall publish on the Internet website of the Department of Health and Human Services, which may include the public information dashboard established under section 1711 of the Public Health Service Act \[42 U.S.C. 300u–16\], as added by section 7021, a report summarizing the activities carried out by the Committee pursuant to subsection (e), including any findings resulting from such activities.
 
-"(g) Working Groups.—The Committee may establish working groups for purposes of carrying out the duties described in subsection (e). Any such working group shall be composed of members of the Committee (or the designees of such members) and may hold such meetings as are necessary to enable the working group to carry out the duties delegated to the working group.
+"(g) Working Groups.—
+
+"(1) In general.—The Committee may establish working groups for purposes of carrying out the duties described in subsection (e). Any such working group shall be composed of members of the Committee (or the designees of such members) and may hold such meetings as are necessary to carry out the duties delegated to the working group.
+
+"(2) Additional federal interagency work group on fentanyl contamination of illegal drugs.—
+
+"(A) Establishment.—The Secretary, acting through the Committee, shall establish a Federal Interagency Work Group on Fentanyl Contamination of Illegal Drugs (referred to in this paragraph as the 'Work Group') consisting of representatives from relevant Federal departments and agencies on the Committee.
+
+"(B) Consultation.—The Work Group shall consult with relevant stakeholders and subject matter experts, including—
+
+"(i) State, Tribal, and local subject matter experts in reducing, preventing, and responding to drug overdose caused by fentanyl contamination of illicit drugs; and
+
+"(ii) family members of both adults and youth who have overdosed by fentanyl contaminated illicit drugs.
+
+"(C) Duties.—The Work Group shall—
+
+"(i) examine Federal efforts to reduce and prevent drug overdose by fentanyl-contaminated illicit drugs;
+
+"(ii) identify strategies to improve State, Tribal, and local responses to overdose by fentanyl-contaminated illicit drugs;
+
+"(iii) coordinate with the Secretary, as appropriate, in carrying out activities to raise public awareness of synthetic opioids and other emerging drug use and misuse issues;
+
+"(iv) make recommendations to Congress for improving Federal programs, including with respect to the coordination of efforts across such programs; and
+
+"(v) make recommendations for educating youth on the potency and dangers of drugs contaminated by fentanyl.
+
+"(D) Annual report to secretary.—The Work Group shall annually prepare and submit to the Secretary, the Committee on Health, Education, Labor, and Pensions of the Senate, and the Committee on Energy and Commerce and the Committee on Education and Workforce of the House of Representatives, a report on the activities carried out by the Work Group under subparagraph (C), including recommendations to reduce and prevent drug overdose by fentanyl contamination of illegal drugs, in all populations, and specifically among youth at risk for substance misuse.
 
 "(h) Federal Advisory Committee Act.—The Federal Advisory Committee Act (\[former\] 5 U.S.C. App.) \[see 5 U.S.C. 1001 et seq.\] shall apply to the Committee only to the extent that the provisions of such Act do not conflict with the requirements of this section.
 
-"(i) Sunset.—The Committee shall terminate on the date that is 6 years after the date on which the Committee is established under subsection (a)."
+"(i) Sunset.—The Committee shall terminate on September 30, 2030."
 
 #### Improving Oversight of Mental and Substance Use Disorders Programs Through the Assistant Secretary for Planning and Evaluation
 

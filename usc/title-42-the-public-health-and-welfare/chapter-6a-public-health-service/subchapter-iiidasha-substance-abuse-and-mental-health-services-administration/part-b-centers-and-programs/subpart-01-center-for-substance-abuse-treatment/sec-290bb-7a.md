@@ -20,7 +20,7 @@ In this subsection:
 
 The term "eligible entity" means—
 
-(i) a local educational agency that is seeking to establish or expand substance use prevention or recovery support services at one or more high schools;
+(i) a local educational agency, or a consortium of local educational agencies, that is seeking to establish or expand substance use prevention or recovery support services at one or more secondary schools;
 
 (ii) a State educational agency;
 
@@ -30,7 +30,7 @@ The term "eligible entity" means—
 
 (v) a nonprofit organization with appropriate expertise in providing services or programs for children, adolescents, or young adults, excluding a school;
 
-(vi) a State, political subdivision of a State, Indian tribe, or tribal organization; or
+(vi) a State, political subdivision of a State, Indian Tribe, or Tribal organization; or
 
 (vii) a high school or dormitory serving high school students that receives funding from the Bureau of Indian Education.
 
@@ -46,9 +46,9 @@ The term "high school" has the meaning given such term in section 7801 of title 
 
 The term "homeless youth" has the meaning given the term "homeless children or youths" in section 11434a of this title.
 
-#### (E) Indian tribe; tribal organization
+#### (E) Indian Tribe; Tribal organization
 
-The terms "Indian tribe" and "tribal organization" have the meanings given such terms in section 5304 of title 25.
+The terms "Indian Tribe" and "Tribal organization" have the meanings given such terms in section 5304 of title 25.
 
 #### (F) Institution of higher education
 
@@ -74,7 +74,11 @@ The term "recovery program" means a program—
 
 (ii) that includes peer-to-peer support delivered by individuals with lived experience in recovery, and communal activities to build recovery skills and supportive social networks.
 
-#### (K) State educational agency
+#### (K) Secondary school
+
+The term "secondary school" has the meaning given such term in section 7801 of title 20.
+
+#### (L) State educational agency
 
 The term "State educational agency" has the meaning given such term in section 7801 of title 20.
 
@@ -82,9 +86,9 @@ The term "State educational agency" has the meaning given such term in section 7
 
 The Secretary, in consultation with the Secretary of Education, shall—
 
-(A) identify or facilitate the development of evidence-based best practices for prevention of substance misuse and abuse by children, adolescents, and young adults, including for specific populations such as youth in foster care, homeless youth, out-of-school youth, and youth who are at risk of or have experienced trafficking that address—
+(A) identify or facilitate the development of evidence-based best practices for prevention of substance misuse by children, adolescents, and young adults, including for specific populations at increased risk for substance misuse such as youth in foster care, homeless youth, out-of-school youth, and youth who are at risk of or have experienced trafficking that address—
 
-(i) primary prevention;
+(i) primary prevention, which may include strategies to increase education and awareness of the potency and dangers of synthetic opioids (including drugs contaminated with fentanyl) and, as appropriate, other emerging drug use or misuse issues;
 
 (ii) appropriate recovery support services;
 
@@ -102,17 +106,17 @@ The Secretary, in consultation with the Secretary of Education, shall—
 
 #### (4) Grants authorized
 
-The Secretary, in consultation with the Secretary of Education, shall award 3-year grants, on a competitive basis, to eligible entities to enable such entities, in coordination with Indian tribes, if applicable, and State agencies responsible for carrying out substance use disorder prevention and treatment programs, to carry out evidence-based programs for—
+The Secretary, in consultation with the Secretary of Education, shall award 3-year grants, on a competitive basis, to eligible entities to enable such entities, in coordination with Indian Tribes, if applicable, and State agencies responsible for carrying out substance use disorder prevention and treatment programs, to carry out evidence-based programs for—
 
-(A) prevention of substance misuse and abuse by children, adolescents, and young adults, which may include primary prevention;
+(A) prevention of substance misuse by children, adolescents, and young adults, which may include primary prevention and strategies to increase education and awareness of the potency and dangers of synthetic opioids (including drugs contaminated with fentanyl) and, as appropriate, emerging drug use or misuse issues;
 
-(B) recovery support services for children, adolescents, and young adults, which may include counseling, job training, linkages to community-based services, family support groups, peer mentoring, and recovery coaching; or
+(B) recovery support services for children, adolescents, and young adults, which may include counseling, job training, linkages to community-based services, family support groups, peer-to-peer support, and recovery coaching; or
 
 (C) treatment or referrals for treatment of substance use disorders, which may include the use of medication-assisted treatment, as appropriate.
 
 #### (5) Special consideration
 
-In awarding grants under this subsection, the Secretary shall give special consideration to the unique needs of tribal, urban, suburban, and rural populations.
+In awarding grants under this subsection, the Secretary shall give special consideration to the unique needs of Tribal, urban, suburban, and rural populations.
 
 #### (6) Application
 
@@ -126,9 +130,11 @@ To be eligible for a grant under this subsection, an entity shall submit to the 
 
 (iii) the goals of the proposed project, including the intended outcomes;
 
-(iv) how the eligible entity plans to use grant funds for evidence-based activities, in accordance with this subsection to prevent, provide recovery support for, or treat substance use disorders amongst such individuals, or a combination of such activities; and
+(iv) how the eligible entity plans to use grant funds for evidence-based activities, in accordance with this subsection to prevent, provide recovery support for, or treat substance use disorders amongst such individuals, or a combination of such activities;
 
 (v) how the eligible entity will collaborate with relevant partners, which may include State educational agencies, local educational agencies, institutions of higher education, juvenile justice agencies, prevention and recovery support providers, local service providers, including substance use disorder treatment programs, providers of mental health services, youth serving organizations, family and youth homeless providers, child welfare agencies, and primary care providers, in carrying out the grant program; and
+
+(vi) a plan to sustain the activities carried out under the grant program, after the grant program has ended; and
 
   
 
@@ -150,13 +156,23 @@ Each eligible entity awarded a grant under this subsection shall submit to the S
 
 #### (8) Report to Congress
 
-The Secretary shall, not later than October 1, 2022, submit a report to the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Energy and Commerce and the Committee on Education and the Workforce of the House of Representatives a report summarizing the effectiveness of the grant program under this subsection, based on the information submitted in reports required under paragraph (7).
+The Secretary shall, not later than October 1, 2028, submit a report to the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Energy and Commerce and the Committee on Education and the Workforce of the House of Representatives a report summarizing the effectiveness of the grant program under this subsection, based on the information submitted in reports required under paragraph (7).
 
 #### (9) Authorization of appropriations
 
-There is authorized to be appropriated $10,000,000 to carry out this subsection for each of fiscal years 2019 through 2023.
+To carry out this subsection, there are authorized to be appropriated—
 
-(Pub. L. 115–271, title VII, §7102, Oct. 24, 2018, 132 Stat. 4038.)
+(A) $10,000,000 for fiscal year 2026;
+
+(B) $12,000,000 for fiscal year 2027;
+
+(C) $13,000,000 for fiscal year 2028;
+
+(D) $14,000,000 for fiscal year 2029; and
+
+(E) $15,000,000 for fiscal year 2030.
+
+(Pub. L. 115–271, title VII, §7102, Oct. 24, 2018, 132 Stat. 4038; Pub. L. 119–44, title I, §110(a), title III, §304, Dec. 1, 2025, 139 Stat. 677, 685.)
 
   
 
@@ -167,3 +183,33 @@ There is authorized to be appropriated $10,000,000 to carry out this subsection 
 Section is comprised of section 7102 of Pub. L. 115–271. Subsec. (a) of section 7102 of Pub. L. 115–271 amended section 290bb–7 of this title.
 
 Section was enacted as part of the Substance Use–Disorder Prevention that Promotes Opioid Recovery and Treatment for Patients and Communities Act, also known as the SUPPORT for Patients and Communities Act, and not as part of the Public Health Service Act which comprises this chapter.
+
+#### Amendments
+
+**2025**—Subsec. (c)(2)(A)(i). Pub. L. 119–44, §304(1)(A)(i), inserted ", or a consortium of local educational agencies," after "a local educational agency" and substituted "secondary schools" for "high schools".
+
+Subsec. (c)(2)(A)(vi). Pub. L. 119–44, §304(1)(A)(ii), substituted "Tribe, or Tribal" for "tribe, or tribal".
+
+Subsec. (c)(2)(E). Pub. L. 119–44, §304(1)(B), amended subpar. (E) generally. Prior to amendment, text read as follows: "The terms 'Indian tribe' and 'tribal organization' have the meanings given such terms in section 5304 of title 25."
+
+Subsec. (c)(2)(K), (L). Pub. L. 119–44, §304(1)(C), (D), added subpar. (K) and redesignated former subpar. (K) as (L).
+
+Subsec. (c)(3)(A). Pub. L. 119–44, §304(2), in introductory provisions, struck out "and abuse" before "by children," and inserted "at increased risk for substance misuse" after "specific populations".
+
+Subsec. (c)(3)(A)(i). Pub. L. 119–44, §110(a)(1), inserted ", which may include strategies to increase education and awareness of the potency and dangers of synthetic opioids (including drugs contaminated with fentanyl) and, as appropriate, other emerging drug use or misuse issues" before semicolon at end.
+
+Subsec. (c)(4). Pub. L. 119–44, §304(3)(A), substituted "Indian Tribes" for "Indian tribes" in introductory provisions.
+
+Subsec. (c)(4)(A). Pub. L. 119–44, §304(3)(B), struck out "and abuse" before "by children,".
+
+Pub. L. 119–44, §110(a)(2), inserted "and strategies to increase education and awareness of the potency and dangers of synthetic opioids (including drugs contaminated with fentanyl) and, as appropriate, emerging drug use or misuse issues" before semicolon at end.
+
+Subsec. (c)(4)(B). Pub. L. 119–44, §304(3)(C), substituted "peer-to-peer support" for "peer mentoring".
+
+Subsec. (c)(5). Pub. L. 119–44, §304(4), substituted "Tribal" for "tribal".
+
+Subsec. (c)(6)(A)(vi). Pub. L. 119–44, §304(5), added cl. (vi).
+
+Subsec. (c)(8). Pub. L. 119–44, §304(6), substituted "2028" for "2022".
+
+Subsec. (c)(9). Pub. L. 119–44, §304(7), amended par. (9) generally. Prior to amendment, text read as follows: "There is authorized to be appropriated $10,000,000 to carry out this subsection for each of fiscal years 2019 through 2023."

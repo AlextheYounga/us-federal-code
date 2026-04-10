@@ -2,7 +2,7 @@
 
 #### (a) Indian tribes or tribal consortia
 
-From the amount reserved pursuant to section 629f(b)(3) of this title for any fiscal year, the Secretary shall allot to each Indian tribe with a plan approved under this subpart an amount that bears the same ratio to such reserved amount as the number of children in the Indian tribe bears to the total number of children in all Indian tribes with State plans so approved, as determined by the Secretary on the basis of the most current and reliable information available to the Secretary. If a consortium of Indian tribes submits a plan approved under this subpart, the Secretary shall allot to the consortium an amount equal to the sum of the allotments determined for each Indian tribe that is part of the consortium.
+From the amount reserved pursuant to section 629f(b)(2) of this title for any fiscal year, the Secretary shall allot to each Indian tribe with a plan approved under this subpart an amount that bears the same ratio to such reserved amount as the number of children in the Indian tribe bears to the total number of children in all Indian tribes with State plans so approved, as determined by the Secretary on the basis of the most current and reliable information available to the Secretary. If a consortium of Indian tribes submits a plan approved under this subpart, the Secretary shall allot to the consortium an amount equal to the sum of the allotments determined for each Indian tribe that is part of the consortium.
 
 #### (b) Territories
 
@@ -30,49 +30,27 @@ The amount of any allotment to a State under subsection (a), (b), or (c) of this
 
 #### (e) Allotment of funds reserved to support monthly caseworker visits
 
-#### (1) Territories
+#### (1) Base allotment
 
-From the amount reserved pursuant to section 629f(b)(4)(A) of this title for any fiscal year, the Secretary shall allot to each jurisdiction specified in subsection (b) of this section, that has provided to the Secretary such documentation as may be necessary to verify that the jurisdiction has complied with section 629f(b)(4)(B)(ii) of this title during the fiscal year, an amount determined in the same manner as the allotment to each of such jurisdictions is determined under section 623 of this title (without regard to the initial allotment of $70,000 to each State).
+From the amount reserved pursuant to section 629f(b)(3)(A) of this title for any fiscal year, the Secretary shall first allot to each State (other than an Indian tribe) that has provided to the Secretary such documentation as may be necessary to verify that the jurisdiction has complied with section 629f(b)(4)(B)(ii) [1](#629c_1_target) of this title during the fiscal year, a base allotment of $100,000, and shall then allot to each of those States an amount determined in paragraph (2) or (3) of this subsection, as applicable.
 
-#### (2) Other States
+#### (2) Territories
 
-From the amount reserved pursuant to section 629f(b)(4)(A) of this title for any fiscal year that remains after applying paragraph (1) of this subsection for the fiscal year, the Secretary shall allot to each State (other than an Indian tribe) not specified in subsection (b) of this section, that has provided to the Secretary such documentation as may be necessary to verify that the State has complied with section 629f(b)(4)(B)(ii) of this title during the fiscal year, an amount equal to such remaining amount multiplied by the supplemental nutrition assistance program benefits percentage of the State (as defined in subsection (c)(2) of this section) for the fiscal year, except that in applying subsection (c)(2)(A) of this section, "subsection (e)(2)" shall be substituted for "such paragraph (1)".
+From the amount reserved pursuant to section 629f(b)(3)(A) of this title for any fiscal year that remains after applying paragraph (1) of this subsection for the fiscal year, the Secretary shall allot to each jurisdiction specified in subsection (b) of this section to which a base allotment is made under such paragraph (1) an amount determined in the same manner as the allotment to each of such jurisdictions is determined under section 623 of this title (without regard to the initial allotment of $70,000 to each State).
+
+#### (3) Other States
+
+From the amount reserved pursuant to section 629f(b)(3)(A) of this title for any fiscal year that remains after applying paragraphs (1) and (2) of this subsection for the fiscal year, the Secretary shall allot to each State (other than an Indian tribe) not specified in subsection (b) of this section to which a base allotment was made under paragraph (1) of this subsection an amount equal to such remaining amount multiplied by the supplemental nutrition assistance program benefits percentage of the State (as defined in subsection (c)(2) of this section) for the fiscal year, except that in applying subsection (c)(2)(A) of this section, "subsection (e)(3)" shall be substituted for "such paragraph (1)".
 
 (Aug. 14, 1935, ch. 531, title IV, §433, as added Pub. L. 103–66, title XIII, §13711(a)(2), Aug. 10, 1993, 107 Stat. 653; amended Pub. L. 107–133, title I, §§103, 106(a)(2), Jan. 17, 2002, 115 Stat. 2415, 2417; Pub. L. 109–288, §§4(a)(2), 5(b)(1)(A), 6(f)(4), Sept. 28, 2006, 120 Stat. 1237, 1242, 1247; Pub. L. 110–234, title IV, §4002(b)(1)(B), (D), (2)(V), May 22, 2008, 122 Stat. 1096, 1097; Pub. L. 110–246, §4(a), title IV, §4002(b)(1)(B), (D), (2)(V), June 18, 2008, 122 Stat. 1664, 1857, 1858; Pub. L. 112–34, title I, §102(g)(2), Sept. 30, 2011, 125 Stat. 372; Pub. L. 118–258, title I, §§112(b), 115(b)(2)(A), (B), Jan. 4, 2025, 138 Stat. 2962, 2968, 2969.)
-
-#### Amendment of Section
-
-Pub. L. 118–258, title I, §§112(b), 115(b)(2)(A), (B), 117, Jan. 4, 2025, 138 Stat. 2962, 2968, 2969, provided that, effective Oct. 1, 2025, and applicable to payments under this part for calendar quarters beginning on or after such date, with delay permitted if either State legislation or tribal action is required to meet additional requirements, this section is amended as follows:
-
-(1) in subsection (a), by striking "629f(b)(3) of this title" and inserting "629f(b)(2) of this title"; and
-
-(2) in subsection (e)—
-
-(A) by striking paragraphs (1) and (2) and inserting the following:
-
-#### *"(1) Base allotment*
-
-*"From the amount reserved pursuant to section 629f(b)(4)(A) of this title for any fiscal year, the Secretary shall first allot to each State (other than an Indian tribe) that has provided to the Secretary such documentation as may be necessary to verify that the jurisdiction has complied with section 629f(b)(4)(B)(ii) of this title during the fiscal year, a base allotment of $100,000, and shall then allot to each of those States an amount determined in paragraph (2) or (3) of this subsection, as applicable.*
-
-#### *"(2) Territories*
-
-*"From the amount reserved pursuant to section 629f(b)(4)(A) of this title for any fiscal year that remains after applying paragraph (1) of this subsection for the fiscal year, the Secretary shall allot to each jurisdiction specified in subsection (b) of this section to which a base allotment is made under such paragraph (1) an amount determined in the same manner as the allotment to each of such jurisdictions is determined under section 623 of this title (without regard to the initial allotment of $70,000 to each State).*
-
-#### *"(3) Other States*
-
-*"From the amount reserved pursuant to section 629f(b)(4)(A) of this title for any fiscal year that remains after applying paragraphs (1) and (2) of this subsection for the fiscal year, the Secretary shall allot to each State (other than an Indian tribe) not specified in subsection (b) of this section to which a base allotment was made under paragraph (1) of this subsection an amount equal to such remaining amount multiplied by the supplemental nutrition assistance program benefits percentage of the State (as defined in subsection (c)(2) of this section) for the fiscal year, except that in applying subsection (c)(2)(A) of this section, 'subsection (e)(3)' shall be substituted for 'such paragraph (1)'."; and*
-
-  
-
-(B) by striking "629f(b)(4)(A) of this title" and inserting "629f(b)(3)(A) of this title" each place it appears.
-
-  
-
-See 2025 Amendment notes below.
 
   
 
 #### **Editorial Notes**
+
+#### References in Text
+
+Section 629f(b)(4)(B)(ii) of this title, referred to in subsec. (e)(1), was redesignated section 629f(b)(3)(B)(ii) of this title by Pub. L. 118–258, title I, §115(b)(1), Jan. 4, 2025, 138 Stat. 2968.
 
 #### Codification
 
@@ -143,3 +121,5 @@ Amendment by Pub. L. 109–288 effective Oct. 1, 2006, and applicable to payment
 #### Effective Date of 2002 Amendment
 
 Amendment by Pub. L. 107–133 effective Jan. 17, 2002, with delay permitted if State legislation is required, see section 301 of Pub. L. 107–133, set out as a note under section 629 of this title.
+
+[1 See References in Text note below.](#629c_1)
