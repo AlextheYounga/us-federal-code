@@ -248,7 +248,7 @@ Department of War designated Department of the Army and title of Secretary of Wa
 
 #### Transition
 
-Pub. L. 118–272, div. A, title I, §1146(c), Jan. 4, 2025, 138 Stat. 3038, provided that: "The amendments made by this section \[amending this section and repealing provisions set out as a note below\] shall have no effect on any written agreement signed by the Secretary and a non-Federal interest pursuant to paragraph (2) of section 5(c) of the Act of August 18, 1941 (33 U.S.C. 701n(c)) (as in effect on the day before the date of enactment of this Act \[Jan. 4, 2025\]), if the non-Federal interest otherwise continues to meet the requirements of that paragraph (as so in effect)."
+Pub. L. 118–272, div. A, title I, §1146(c), Jan. 4, 2025, 138 Stat. 3038, provided that: "The amendments made by this section \[amending this section and repealing provisions set out as a note below\] shall have no effect on any written agreement signed by the Secretary \[of the Army\] and a non-Federal interest pursuant to paragraph (2) of section 5(c) of the Act of August 18, 1941 (33 U.S.C. 701n(c)) (as in effect on the day before the date of enactment of this Act \[Jan. 4, 2025\]), if the non-Federal interest otherwise continues to meet the requirements of that paragraph (as so in effect)."
 
 #### Participation in Preparedness Exercises
 

@@ -1435,6 +1435,8 @@ Pub. L. 88–272, title I, §131, Feb. 26, 1964, 78 Stat. 30, as amended by Pub.
 
 #### Short Title of 2025 Amendment
 
+Pub. L. 119–64, §1, Dec. 26, 2025, 139 Stat. 1984, provided that: "This Act \[amending sections 6303 and 7508A of this title and enacting provisions set out as notes under sections 6303 and 7508A of this title\] may be cited as the 'Disaster Related Extension of Deadlines Act'."
+
 Pub. L. 119–39, §1, Nov. 25, 2025, 139 Stat. 659, provided that: "This Act \[amending section 6213 of this title and enacting provisions set out as notes under section 6213 of this title\] may be cited as the 'Internal Revenue Service Math and Taxpayer Help Act'."
 
 Pub. L. 119–29, §1, July 24, 2025, 139 Stat. 471, provided that: "This Act \[amending section 7508A of this title and enacting provisions set out as a note under section 7508A of this title\] may be cited as the 'Filing Relief for Natural Disasters Act'."

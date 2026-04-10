@@ -68,9 +68,9 @@ Nothing in this section is intended or shall be construed to impede, supersede, 
 
 #### (d) Authorization of appropriations
 
-For each of fiscal years 2021 through 2025, there is authorized to be appropriated $15,000,000 to carry out this section.
+For each of fiscal years 2021 through 2030, there is authorized to be appropriated $15,000,000 to carry out this section.
 
-(Pub. L. 116–94, div. P, title II, §201, Dec. 20, 2019, 133 Stat. 3184.)
+(Pub. L. 116–94, div. P, title II, §201, Dec. 20, 2019, 133 Stat. 3184; Pub. L. 119–67, §2, Dec. 26, 2025, 139 Stat. 1993.)
 
   
 
@@ -85,3 +85,7 @@ The Great Lakes Fishery Act of 1956, referred to in subsec. (c)(4), is act June 
 #### Codification
 
 Section was enacted as part of the Further Consolidated Appropriations Act, 2020, and not as part of the Great Lakes Fish and Wildlife Restoration Act of 1990 which comprises this chapter.
+
+#### Amendments
+
+**2025**—Subsec. (d). Pub. L. 119–67 substituted "2030" for "2025".
