@@ -34,6 +34,6 @@ Sec.
 
 777m. Multistate conservation grant program.
 
-777n. Expenditure of remaining balance in Boat Safety Account.
+777n. Repealed.
 
         
