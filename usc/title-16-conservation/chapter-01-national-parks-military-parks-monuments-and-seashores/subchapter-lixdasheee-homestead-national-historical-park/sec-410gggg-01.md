@@ -4,6 +4,10 @@ It shall be the duty of the Secretary of the Interior to lay out said land in a 
 
 (Mar. 19, 1936, ch. 157, §3, 49 Stat. 1184.)
 
+  
+
+#### **Editorial Notes**
+
 #### Codification
 
 Section was formerly classified to section 450w of this title.
