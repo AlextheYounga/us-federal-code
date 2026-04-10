@@ -4,13 +4,15 @@ United States Code Document
 
 # FEDERAL RULES OF BANKRUPTCY PROCEDURE
 
-(Effective August 1, 1983, as amended to December 1, 2022)
+(Effective August 1, 1983, as amended to January 5, 2023)
 
 #### Historical Note
 
 The Federal Rules of Bankruptcy Procedure were adopted by order of the Supreme Court on Apr. 25, 1983, transmitted to Congress by the Chief Justice on the same day, and became effective Aug. 1, 1983.
 
 The Rules have been amended Aug. 30, 1983, Pub. L. 98–91, §2(a), 97 Stat. 607, eff. Aug. 1, 1983; July 10, 1984, Pub. L. 98–353, title III, §321, 98 Stat. 357; Apr. 29, 1985, eff. Aug. 1, 1985; Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 25, 1989, eff. Aug. 1, 1989; Apr. 30, 1991, eff. Aug. 1, 1991; Apr. 22, 1993, eff. Aug. 1, 1993; Apr. 29, 1994, eff. Aug. 1, 1994; Oct. 22, 1994, Pub. L. 103–394, title I, §114, 108 Stat. 4118; Apr. 27, 1995, eff. Dec. 1, 1995; Apr. 23, 1996, eff. Dec. 1, 1996; Apr. 11, 1997, eff. Dec. 1, 1997; Apr. 26, 1999, eff. Dec. 1, 1999; Apr. 17, 2000, eff. Dec. 1, 2000; Apr. 23, 2001, eff. Dec. 1, 2001; Apr. 29, 2002, eff. Dec. 1, 2002; Mar. 27, 2003, eff. Dec. 1, 2003; Apr. 26, 2004, eff. Dec. 1, 2004; Apr. 25, 2005, eff. Dec. 1, 2005; Apr. 12, 2006, eff. Dec. 1, 2006; Apr. 30, 2007, eff. Dec. 1, 2007; Apr. 23, 2008, eff. Dec. 1, 2008; Mar. 26, 2009, eff. Dec. 1, 2009; Apr. 28, 2010, eff. Dec. 1, 2010; Apr. 26, 2011, eff. Dec. 1, 2011; Apr. 23, 2012, eff. Dec. 1, 2012; Apr. 16, 2013, eff. Dec. 1, 2013; Apr. 25, 2014, eff. Dec. 1, 2014; Apr. 29, 2015, eff. Dec. 1, 2015; Apr. 28, 2016, eff. Dec. 1, 2016; Apr. 27, 2017, eff. Dec. 1, 2017; Apr. 26, 2018, eff. Dec. 1, 2018; Apr. 25, 2019, eff. Dec. 1, 2019; Apr. 27, 2020, eff. Dec. 1, 2020; Apr. 14, 2021, eff. Dec. 1, 2021; Apr. 11, 2022, eff. Dec. 1, 2022.
+
+  
 
 Rule
 
@@ -511,8 +513,6 @@ Rule
 #### OFFICIAL FORMS \[see United States Courts website\]
 
 #### APPENDIX: LENGTH LIMITS STATED IN PART VIII OF THE FEDERAL RULES OF BANKRUPTCY PROCEDURE
-
-### **BANKRUPTCY RULES**
 
 #### Effective Date; Application; Supersedure of Prior Rules; Transmission to Congress
 
@@ -2144,7 +2144,7 @@ Subdivision (k) is amended to add a reference to subdivision (a)(9) of this rule
 
 #### References in Text
 
-The Securities Investor Protection Act, referred to in subd. (k), probably means the Securities Investor Protection Act of 1970, Pub. L. 91–598, Dec. 30, 1970, 84 Stat. 1636, as amended, which is classified generally to chapter 2B–1 (§78aaa et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 78aaa of Title 15 and Tables.
+The Securities Investor Protection Act, referred to in subd. (k), probably means the Securities Investor Protection Act of 1970, Pub. L. 91–598, Dec. 30, 1970, 84 Stat. 1636, which is classified generally to chapter 2B–1 (§78aaa et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 78aaa of Title 15 and Tables.
 
 #### Amendment by Public Law
 
@@ -2158,9 +2158,9 @@ Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days afte
 
 #### Effective Date of 1983 Amendment
 
-Section 1 of Pub. L. 98–91 provided: "That rule 2002(f) of the Bankruptcy Rules, as proposed by the United States Supreme Court in the order of April 25, 1983, of the Court, shall take effect on August 1, 1983, except as otherwise provided in section 2 \[amending subd. (f) of this rule and enacting a provision set out as a note below\]."
+Pub. L. 98–91, §1, Aug. 30, 1983, 97 Stat. 607, provided: "That rule 2002(f) of the Bankruptcy Rules, as proposed by the United States Supreme Court in the order of April 25, 1983, of the Court, shall take effect on August 1, 1983, except as otherwise provided in section 2 \[amending subd. (f) of this rule and enacting a provision set out as a note below\]."
 
-Section 2(b) of Pub. L. 98–91 provided that: "The amendment made by subsection (a) \[amending subd. (f) of this rule\] shall take effect on August 1, 1983."
+Pub. L. 98–91, §2(b), Aug. 30, 1983, 97 Stat. 607, provided that: "The amendment made by subsection (a) \[amending subd. (f) of this rule\] shall take effect on August 1, 1983."
 
 [1 So in original. Period probably should not appear.](#Rule_2002_1)
 
@@ -3446,7 +3446,7 @@ A time limit of 30 days for responding to a written request under subparagraph (
 
 #### References in Text
 
-The United States Warehouse Act, referred to in subd. (g), is Part C of act Aug. 11, 1916, ch. 313, 39 Stat. 486, as amended, which is classified generally to chapter 10 (§241 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 241 of Title 7 and Tables.
+The United States Warehouse Act, referred to in subd. (g), is Part C of act Aug. 11, 1916, ch. 313, 39 Stat. 486, which is classified generally to chapter 10 (§241 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 241 of Title 7 and Tables.
 
 #### Amendment by Public Law
 
@@ -5434,7 +5434,7 @@ The rule is amended to be gender neutral. The bankruptcy judge before whom the m
 
 (1) *Place of Filing*. The lists, schedules, statements, proofs of claim or interest, complaints, motions, applications, objections and other papers required to be filed by these rules, except as provided in 28 U.S.C. §1409, shall be filed with the clerk in the district where the case under the Code is pending. The judge of that court may permit the papers to be filed with the judge, in which event the filing date shall be noted thereon, and they shall be forthwith transmitted to the clerk. The clerk shall not refuse to accept for filing any petition or other paper presented for the purpose of filing solely because it is not presented in proper form as required by these rules or any local rules or practices.
 
-(2) *Electronic Filing and Signing.*
+(2) *Electronic Filing and Signing*.
 
 (A) *By a Represented Entity—Generally Required; Exceptions*. An entity represented by an attorney shall file electronically, unless nonelectronic filing is allowed by the court for good cause or is allowed or required by local rule.
 
@@ -9051,7 +9051,7 @@ The rule is amended to add §1502 of the Code to the list of definitional provis
 
 #### References in Text
 
-The Bankruptcy Act of 1898 as amended, referred to in pars. (1) and (2), is act July 1, 1898, ch. 541, 30 Stat. 544, as amended, which was classified generally to former Title 11, Bankruptcy. Sections 1(10) and 2a of this Act were classified to sections 1(10) and 11(a), respectively, of former Title 11. The Act was repealed effective Oct. 1, 1979, by Pub. L. 95–598, §§401(a), 402(a), Nov. 6, 1978, 92 Stat. 2682, section 101 of which enacted revised Title 11.
+The Bankruptcy Act of 1898 as amended, referred to in pars. (1) and (2), is act July 1, 1898, ch. 541, 30 Stat. 544, which was classified generally to former Title 11, Bankruptcy. Sections 1(10) and 2a of this Act were classified to sections 1(10) and 11(a), respectively, of former Title 11. The Act was repealed effective Oct. 1, 1979, by Pub. L. 95–598, §§401(a), 402(a), Nov. 6, 1978, 92 Stat. 2682, section 101 of which enacted revised Title 11.
 
 ### Rule 9002. Meanings of Words in the Federal Rules of Civil Procedure When Applicable to Cases Under the Code
 
@@ -9069,13 +9069,13 @@ The following words and phrases used in the Federal Rules of Civil Procedure mad
 
 (As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 22, 1993, eff. Aug. 1, 1993.)
 
-#### References in Text
-
-The Federal Rules of Civil Procedure, referred to in text, are set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
-
 #### Notes of Advisory Committee on Rules—1993 Amendment
 
 This rule is revised to include the words "district judge" in anticipation of amendments to the Federal Rules of Civil Procedure.
+
+#### References in Text
+
+The Federal Rules of Civil Procedure, referred to in text, are set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
 
 ### Rule 9003. Prohibition of Ex Parte Contacts
 
@@ -10121,7 +10121,7 @@ This rule is amended to provide flexibility so that the Bankruptcy Rules may pro
 
 The Federal Rules of Civil Procedure, referred to in text, are set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
 
-The effective date of these rules, referred to in text, is Aug. 1, 1983. See Effective Date note set out prec. Rule 1001 of this Appendix.
+The effective date of these rules, referred to in text, is Aug. 1, 1983. See Effective Date note set out preceding Rule 1001 of this Appendix.
 
 ### Rule 9033. Proposed Findings of Fact and Conclusions of Law
 

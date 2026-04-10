@@ -84,7 +84,7 @@ To be eligible to receive a grant under subsection (a)(2), an entity shall be—
 
 (E) a health center operated by the Indian Health Service, an Indian tribe, a tribal organization, or an urban Indian organization (as defined in section 1603 of title 25); or
 
-(F) an entity with a demonstrated record of success in providing training for nurse practitioners, physician assistants, health service psychologists counselors, nurses,, [1](#294k_1_target) and social workers, including such entities that serve pediatric populations.
+(F) an entity with a demonstrated record of success in providing training for nurse practitioners, physician assistants, health service psychologists counselors, nurses,,[1](#294k_1_target) and social workers, including such entities that serve pediatric populations.
 
 #### (3) Academic units or programs
 
@@ -96,7 +96,7 @@ To be eligible to receive a grant under subsection (a)(3), an entity shall be a 
 
 In awarding grants under subsection (a)(1) or (a)(2), the Secretary shall give priority to eligible entities that—
 
-(A) demonstrate sufficient size, scope, and capacity to undertake the requisite training of an appropriate number of psychiatric residents, fellows, health service psychologists, nurses nurse [2](#294k_2_target) practitioners, physician assistants counselors,, [2](#294k_2_target) or social workers in addiction medicine per year to meet the needs of the area served;
+(A) demonstrate sufficient size, scope, and capacity to undertake the requisite training of an appropriate number of psychiatric residents, fellows, health service psychologists, nurses nurse [1](#294k_1_target) practitioners, physician assistants counselors,,[1](#294k_1_target) or social workers in addiction medicine per year to meet the needs of the area served;
 
 (B) demonstrate experience in training providers to practice team-based care that integrates mental health and substance use disorder prevention and treatment services with primary care in community-based settings, which may include such settings that serve pediatric populations;
 
@@ -152,7 +152,7 @@ Not later than 1 year after receipt of the data described in paragraph (1)(B), t
 
 #### (g) Authorization of appropriations
 
-There are authorized to be appropriated to carry out this section, and $31,700,000 for each of fiscal years 2023 through 2027.
+There are authorized to be appropriated to carry out this section, and [1](#294k_1_target) $31,700,000 for each of fiscal years 2023 through 2027.
 
 (July 1, 1944, ch. 373, title VII, §760, as added Pub. L. 114–255, div. B, title IX, §9022, Dec. 13, 2016, 130 Stat. 1250; amended Pub. L. 117–328, div. FF, title I, §1311(b), Dec. 29, 2022, 136 Stat. 5696.)
 
@@ -194,6 +194,4 @@ Subsec. (f)(2)(B). Pub. L. 117–328, §1311(b)(10), substituted "disorders" for
 
 Subsec. (g). Pub. L. 117–328, §1311(b)(9), substituted ", and $31,700,000 for each of fiscal years 2023 through 2027" for "$10,000,000 for each of fiscal years 2018 through 2022".
 
-[1 So in original..](#294k_1)
-
-[2 So in original.](#294k_2)
+[1 So in original.](#294k_1)
