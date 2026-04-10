@@ -78,6 +78,8 @@ Sec.
 
 1834\. Heating and ventilating Senate wing.
 
+1835\. Interagency details.
+
         
 
 #### Part B—Compensation
@@ -141,6 +143,8 @@ Sec.
 1871\. Expired appropriations available for deposit into Employees' Compensation Fund.
 
 1872\. Use of expired funds for unemployment compensation payments.
+
+1873\. Acceptance of travel expenses from non-Federal sources.
 
         
 
