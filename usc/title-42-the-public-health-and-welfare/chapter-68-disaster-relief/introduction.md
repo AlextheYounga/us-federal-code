@@ -68,6 +68,8 @@ Sec.
 
 5161\. Audits and investigations.
 
+5161a. Audit of contracts.
+
 5162\. Advance of non-Federal share.
 
 5163\. Limitation on use of sliding scales.
@@ -88,6 +90,8 @@ Sec.
 
 5165f. National Urban Search and Rescue Response System.
 
+5165g. National veterinary emergency teams.
+
         
 
 #### SUBCHAPTER IV—MAJOR DISASTER ASSISTANCE PROGRAMS
@@ -107,6 +111,10 @@ Sec.
 5173\. Debris removal.
 
 5174\. Federal assistance to individuals and households.
+
+5174a. Flexibility.
+
+5174b. Critical document fee waiver.
 
 5175, 5176. Repealed.
 
@@ -152,6 +160,8 @@ Sec.
 
 5189g. Unified Federal review.
 
+5189h. Agency accountability.
+
         
 
 #### SUBCHAPTER IV–A—EMERGENCY ASSISTANCE PROGRAMS
@@ -191,6 +201,8 @@ Sec.
 5196e. Radiological Emergency Preparedness Fund.
 
 5196f. Disaster related information services.
+
+5196g. Guidance and training by FEMA on coordination of emergency response plans.
 
         
 
@@ -233,6 +245,8 @@ Sec.
 5204c. Hazard mitigation for insular areas.
 
 5205\. Disaster grant closeout procedures.
+
+5205a. Certain recoupment prohibited.
 
 5206\. Buy American.
 
