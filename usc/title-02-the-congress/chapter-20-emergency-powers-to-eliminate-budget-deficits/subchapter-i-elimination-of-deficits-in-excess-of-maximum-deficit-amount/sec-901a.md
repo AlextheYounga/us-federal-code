@@ -88,9 +88,11 @@ Except as provided by paragraphs (10), (11), (12), and (13), on the date of the 
 
 (C) Notwithstanding the 2 percent limit specified in subparagraph (A) for payments for the Medicare programs specified in section 906(d) of this title, the sequestration order of the President under such subparagraph for fiscal year 2030 shall be applied to such payments so that—
 
-(i) with respect to the first 6 months in which such order is effective for such fiscal year, the payment reduction shall be 4.0 percent; and
+(i) with respect to the first 5 ½ months in which such order is effective for such fiscal year, the payment reduction shall be 2.0 percent;
 
-(ii) with respect to the second 6 months in which such order is so effective for such fiscal year, the payment reduction shall be 0.0 percent.
+(ii) with respect to the 6-month period beginning on the day after the last day of the period described in clause (i) in which such order is so effective for such fiscal year, the payment reduction shall be 4.0 percent; and
+
+(iii) with respect to the remaining ½ month in which such order is so effective for such fiscal year, the payment reduction shall be 0.0 percent.
 
 #### (7) Adjustment for Medicare
 
@@ -128,7 +130,7 @@ On the dates specified in paragraph (2), OMB shall submit a report to Congress c
 
 (B) Paragraph (5)(B) shall not be implemented for fiscal years 2020 and 2021.
 
-(Pub. L. 99–177, title II, §251A, as added Pub. L. 112–25, title III, §302(a), Aug. 2, 2011, 125 Stat. 256; amended Pub. L. 112–240, title IX, §901(a), (c), Jan. 2, 2013, 126 Stat. 2370; Pub. L. 113–67, div. A, title I, §101(b), (c), (d)(2), div. B, title II, §1205, Dec. 26, 2013, 127 Stat. 1167, 1168, 1200; Pub. L. 113–82, §1, Feb. 15, 2014, 128 Stat. 1009; Pub. L. 113–93, title II, §222, Apr. 1, 2014, 128 Stat. 1077; Pub. L. 114–74, title I, §101(b), (c), Nov. 2, 2015, 129 Stat. 586; Pub. L. 115–123, div. C, title I, §30101(b), (c), Feb. 9, 2018, 132 Stat. 123; Pub. L. 116–37, title I, §101(d), title IV, §402, Aug. 2, 2019, 133 Stat. 1050, 1058; Pub. L. 116–136, div. A, title III, §3709(b), Mar. 27, 2020, 134 Stat. 422.)
+(Pub. L. 99–177, title II, §251A, as added Pub. L. 112–25, title III, §302(a), Aug. 2, 2011, 125 Stat. 256; amended Pub. L. 112–240, title IX, §901(a), (c), Jan. 2, 2013, 126 Stat. 2370; Pub. L. 113–67, div. A, title I, §101(b), (c), (d)(2), div. B, title II, §1205, Dec. 26, 2013, 127 Stat. 1167, 1168, 1200; Pub. L. 113–82, §1, Feb. 15, 2014, 128 Stat. 1009; Pub. L. 113–93, title II, §222, Apr. 1, 2014, 128 Stat. 1077; Pub. L. 114–74, title I, §101(b), (c), Nov. 2, 2015, 129 Stat. 586; Pub. L. 115–123, div. C, title I, §30101(b), (c), Feb. 9, 2018, 132 Stat. 123; Pub. L. 116–37, title I, §101(d), title IV, §402, Aug. 2, 2019, 133 Stat. 1050, 1058; Pub. L. 116–136, div. A, title III, §3709(b), Mar. 27, 2020, 134 Stat. 422; Pub. L. 117–7, §1(b), Apr. 14, 2021, 135 Stat. 251.)
 
   
 
@@ -153,6 +155,12 @@ The Bipartisan Budget Act of 2019, referred to in par. (13)(A), is Pub. L. 116�
 A prior section 901a, Pub. L. 99–177, title II, §251A, as added Pub. L. 103–322, title XXXI, §310001(g)(1), Sept. 13, 1994, 108 Stat. 2104, related to sequestration with respect to Violent Crime Reduction Trust Fund, prior to repeal by Pub. L. 105–33, title X, §10204(a)(1), Aug. 5, 1997, 111 Stat. 702.
 
 #### Amendments
+
+**2021**—Par. (6)(C)(i). Pub. L. 117–7, §1(b)(1), substituted "first 5 ½ months" for "first 6 months" and "2.0 percent" for "4.0 percent" and struck out "and" at end.
+
+Par. (6)(C)(ii). Pub. L. 117–7, §1(b)(2), substituted "6-month period beginning on the day after the last day of the period described in clause (i)" for "second 6 months" and "4.0 percent; and" for "0.0 percent."
+
+Par. (6)(C)(iii). Pub. L. 117–7, §1(b)(3), added cl. (iii).
 
 **2020**—Par. (6)(B). Pub. L. 116–136, §3709(b)(1), substituted "through 2030" for "through 2029" in introductory provisions.
 
@@ -232,7 +240,9 @@ Par. (11). Pub. L. 113–67, §101(d)(2)(C), redesignated par. (11) as (9).
 
 #### Temporary Suspension of Medicare Sequestration
 
-Pub. L. 116–136, div. A, title III, §3709(a), Mar. 27, 2020, 134 Stat. 421, as amended by Pub. L. 116–260, div. N, title I, §102(a), Dec. 27, 2020, 134 Stat. 1950, provided that: "During the period beginning on May 1, 2020 and ending on March 31, 2021, the Medicare programs under title XVIII of the Social Security Act (42 U.S.C. 1395 et seq.) shall be exempt from reduction under any sequestration order issued before, on, or after the date of enactment of this Act \[Mar. 27, 2020\]."
+Pub. L. 116–136, div. A, title III, §3709(a), Mar. 27, 2020, 134 Stat. 421, as amended by Pub. L. 116–260, div. N, title I, §102(a), Dec. 27, 2020, 134 Stat. 1950; Pub. L. 117–7, §1(a)(1), Apr. 14, 2021, 135 Stat. 251, provided that: "During the period beginning on May 1, 2020 and ending on December 31, 2021, the Medicare programs under title XVIII of the Social Security Act (42 U.S.C. 1395 et seq.) shall be exempt from reduction under any sequestration order issued before, on, or after the date of enactment of this Act \[Mar. 27, 2020\]."
+
+\[Pub. L. 117–7, §1(a)(2), Apr. 14, 2021, 135 Stat. 251, provided that: "The amendment made by paragraph (1) \[amending section 3709(a) of Pub. L. 116–136, set out above\] shall take effect as if enacted as part of the CARES Act (Public Law 116–136)."\]
 
 \[Pub. L. 116–260, div. N, title I, §102(b), Dec. 27, 2020, 134 Stat. 1950, provided that: "The amendment made by subsection (a) \[amending section 3709(a) of Pub. L. 116–136, set out above\] shall take effect as if enacted as part of the CARES Act (Public Law 116–136)."\]
 

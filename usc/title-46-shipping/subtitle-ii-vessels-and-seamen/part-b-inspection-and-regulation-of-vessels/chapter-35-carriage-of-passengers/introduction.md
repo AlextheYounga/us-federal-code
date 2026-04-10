@@ -18,6 +18,10 @@ Sec.
 
 3508\. Crime scene preservation training for passenger vessel crewmembers.
 
+3509\. Medical standards.
+
+3510\. Additional medical and safety standards.
+
         
 
 #### Historical and Revision Notes
@@ -29,6 +33,10 @@ Chapter 35 consolidates the laws that have specific application to the carriage 
 #### **Editorial Notes**
 
 #### Amendments
+
+**2021**—Pub. L. 117–14, §3(b), May 24, 2021, 135 Stat. 276, added item 3510.
+
+Pub. L. 116–283, div. G, title LVXXXIII \[LXXXIII\], §8322(b), Jan. 1, 2021, 134 Stat. 4702, added item 3509.
 
 **2016**—Pub. L. 114–120, title III, §306(a)(3), Feb. 8, 2016, 130 Stat. 54, inserted a period at end of items 3507 and 3508.
 
