@@ -88,7 +88,7 @@ Fees collected pursuant to this subsection for any fiscal year—
 
 (A) [1](#360bbb-4a_1_target) shall be deposited and credited as offsetting collections to the account providing appropriations to the Food and Drug Administration; and
 
-#### (6) [2](#360bbb-4a_2_target) shall not be collected for any fiscal year except to the extent provided in advance in appropriation Acts.
+(6) [2](#360bbb-4a_2_target) shall not be collected for any fiscal year except to the extent provided in advance in appropriation Acts.
 
 #### (d) Notice of issuance of voucher and approval of products under voucher
 
@@ -120,4 +120,4 @@ The Public Health Service Act, referred to in subsec. (f), is act July 1, 1944, 
 
 [1 So in original. No subpar. (B) has been enacted.](#360bbb-4a_1)
 
-[2 So in original. Probably should be subpar. (B).](#360bbb-4a_2)
+[2 So in original. Probably should be designated as subpar. (B).](#360bbb-4a_2)

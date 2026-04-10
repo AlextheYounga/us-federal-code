@@ -54,6 +54,8 @@ Sec.
 
 625\. Inapplicability of certain requirements to catfish.
 
+626\. Purchase of tags, labels, stamps, and certificates.
+
         
 
 #### SUBCHAPTER II—MEAT PROCESSORS AND RELATED INDUSTRIES

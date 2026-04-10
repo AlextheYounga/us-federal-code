@@ -58,6 +58,8 @@ Sec.
 
 7642\. Food Animal Residue Avoidance Database program.
 
+7643\. Distribution of farmers' bulletins.
+
         
 
 #### Part B—General

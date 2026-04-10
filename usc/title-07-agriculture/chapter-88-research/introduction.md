@@ -124,4 +124,10 @@ Sec.
 
 5940\. Legitimacy of industrial hemp research.
 
+5941\. Purchase of cultures for soil and fertilizer investigations.
+
+5942\. Wheat and feed grains research; regional and national research programs; utilization of services of Federal, State and private agencies; authorization of appropriations.
+
+5943\. Rice research.
+
         
