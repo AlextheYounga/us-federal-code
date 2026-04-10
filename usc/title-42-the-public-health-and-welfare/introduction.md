@@ -1,6 +1,6 @@
 # TITLE 42—THE PUBLIC HEALTH AND WELFARE
 
-Chap.684873 Sec.
+Chap. Sec.
 
 1\. The Public Health Service \[Mostly Repealed or Omitted, See Chapter 6A\] 1
 
