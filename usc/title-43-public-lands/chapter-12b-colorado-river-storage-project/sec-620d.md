@@ -20,7 +20,7 @@ Revenues in the Basin Fund in excess of operating needs shall be paid annually t
 
 (2) the costs of each unit, participating project, or any separable feature thereof which are allocated to municipal water supply pursuant to section 620e of this title, within a period not exceeding fifty years from the date of completion of such unit, participating project, or separable feature thereof;
 
-(3) interest on the unamortized balance of the investment (including interest during construction) in the power and municipal water supply features of each unit, participating project, or any separable feature thereof, at a rate determined by the Secretary of the Treasury as provided in subsection (f) of this section, and interest due shall be a first charge;
+(3) interest on the unamortized balance of the investment (including interest during construction) in the power and municipal water supply features of each unit, participating project, or any separable feature thereof, at a rate determined by the Secretary of the Treasury as provided in subsection (f), and interest due shall be a first charge;
 
 (4) the costs of each storage unit which are allocated to irrigation pursuant to section 620e of this title within a period not exceeding fifty years; and
 

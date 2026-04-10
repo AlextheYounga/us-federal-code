@@ -106,7 +106,7 @@ Nothing in this section shall apply to—
 
 #### (f) Western red cedar
 
-Nothing in this section shall be construed to supersede section 2406(i) of title 50, Appendix.
+Nothing in this section shall be construed to supersede section 4606(i) of title 50.
 
 #### (g) Presidential authority
 
