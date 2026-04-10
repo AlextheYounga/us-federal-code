@@ -228,7 +228,7 @@ Sec.
 
 246a. Bureau of State Services management fund; establishment; advancements; availability.
 
-247\. Omitted.
+247\. Assisting veterans with military emergency medical training to meet requirements for becoming civilian health care professionals.
 
 247a. Family support groups for Alzheimer's disease patients.
 
@@ -772,7 +772,7 @@ Sec.
 
 280g–2. Childhood malignancies.
 
-280g–3. .Controlled substance monitoring program.
+280g–3. Controlled substance monitoring program.
 
 280g–4. Grants to strengthen the healthcare system's response to domestic violence, dating violence, sexual assault, and stalking.
 
@@ -969,6 +969,8 @@ Sec.
 284p. Activities of the National Institutes of Health with respect to research with implications for enhancing daily function for persons with paralysis.
 
 284q. Pain research.
+
+284q–1. NIH opioid research.
 
         
 
@@ -1498,6 +1500,10 @@ Sec.
 
 290aa–6 to 290aa–14. Transferred or Repealed.
 
+290aa–15. Department of Health and Human Services grant accountability.
+
+290aa–16. Evaluation of performance of Department of Health and Human Services programs.
+
         
 
 #### Part B—Centers and Programs
@@ -1524,6 +1530,8 @@ Sec.
 
 290bb–9. Methamphetamine and amphetamine treatment initiative.
 
+290bb–10. Evidence-based prescription opioid and heroin treatment and interventions demonstration.
+
         
 
 #### subpart 2—center for substance abuse prevention
@@ -1549,6 +1557,8 @@ Sec.
 290bb–25e. Prevention of methamphetamine and inhalant abuse and addiction.
 
 290bb–25f. Prevention and education programs.
+
+290bb–25g. Awareness campaigns.
 
         
 
@@ -1628,7 +1638,15 @@ Sec.
 
 290dd–2. Confidentiality of records.
 
-290dd–3 to 290ee–3. Omitted.
+290dd–3. Grants for reducing overdose deaths.
+
+290ee. Opioid overdose reversal medication access and education grant programs.
+
+290ee–1. First responder training.
+
+290ee–2. Building communities of recovery.
+
+290ee–3. State demonstration grants for comprehensive opioid abuse response.
 
         
 

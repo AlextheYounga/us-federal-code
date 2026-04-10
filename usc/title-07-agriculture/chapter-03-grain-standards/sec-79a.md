@@ -68,6 +68,8 @@ The representatives of the Secretary shall be afforded access to any elevator, w
 
 (D) Export tonnage fees.—For an official weighing at an export facility performed by the Secretary, the portion of the fees based on export tonnage shall be based on the rolling 5-year average of export tonnage volumes.
 
+  
+
 (2) Each agency to which authority has been delegated under this section and each agency or other person which has been designated to perform functions related to weighing under this section shall pay to the Secretary fees in such amount as the Secretary determines fair and reasonable and as will cover the costs incurred by the Secretary relating to supervision of the agency personnel and supervision by the Secretary of the Secretary's field office personnel incurred as a result of the functions performed by such agencies, except costs incurred under sections 79(g)(3), 85, 86, and 87c of this title. The fees shall be payable after the services are performed at such times as specified by the Secretary and shall be deposited in the fund created in section 79(j) of this title. Failure to pay the fee within thirty days after it is due shall result in automatic termination of the delegation or designation, which shall be reinstated upon payment, within such period as specified by the Secretary, of the fee currently due plus interest and any further expenses incurred by the Secretary because of such termination. The interest rate on overdue fees shall be as prescribed by the Secretary, but not less than the current average market yield on outstanding marketable obligations of the United States of comparable maturity, plus an additional charge of not to exceed 1 per centum per annum as determined by the Secretary, and adjusted to the nearest one-eighth of 1 per centum.
 
 (3) Adjustment of fees.—In order to maintain an operating reserve of not less than 3 and not more than 6 months, the Secretary shall adjust the fees described in paragraphs (1) and (2) not less frequently than annually.
@@ -88,7 +90,7 @@ Subsec. (i)(2). Pub. L. 114–54, §301(b)(3)(B), in introductory provisions, su
 
 Subsec. (l). Pub. L. 114–54, §301(c)(2)(A), inserted heading.
 
-Subsec. (l)(1). Pub. L. 114–54, §301(c)(2)(A), (B), inserted heading; designated first to third sentences as subpars. (A) to (C), respectively, and inserted subpar. headings; in subpar. (C), substituted "Fees described in this paragraph" for "Such fees"; and added subpar. (D).
+Subsec. (l)(1). Pub. L. 114–54, §301(c)(2)(A), (B), inserted heading, designated first to third sentences as subpars. (A) to (C), respectively, and inserted subpar. headings, in subpar. (C), substituted "Fees described in this paragraph" for "Such fees", and added subpar. (D).
 
 Subsec. (l)(3). Pub. L. 114–54, §301(c)(2)(D), added par. (3). Former par. (3) redesignated (4).
 
