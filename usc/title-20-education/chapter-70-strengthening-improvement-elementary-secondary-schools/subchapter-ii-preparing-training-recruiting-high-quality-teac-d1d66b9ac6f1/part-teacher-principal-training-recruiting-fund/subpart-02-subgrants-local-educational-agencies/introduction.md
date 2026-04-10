@@ -1,1 +1,0 @@
-### subpart 2—subgrants to local educational agencies

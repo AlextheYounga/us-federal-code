@@ -13,5 +13,3 @@ Section 5055, Pub. L. 100–418, title VI, §6065, Aug. 23, 1988, 102 Stat. 1493
 Section 5056, Pub. L. 100–418, title VI, §6066, Aug. 23, 1988, 102 Stat. 1494, related to activities for which grants could be used.
 
 Section 5057, Pub. L. 100–418, title VI, §6067, Aug. 23, 1988, 102 Stat. 1495, related to distribution of assistance and limitation on costs.
-
-For similar provisions, see section 7261 et seq. of this title.
