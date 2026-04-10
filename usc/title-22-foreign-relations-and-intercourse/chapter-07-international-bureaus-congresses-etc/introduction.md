@@ -702,6 +702,8 @@ Sec.
 
 284aa. Multilateral debt relief.
 
+284bb. Eighteenth replenishment.
+
         
 
 #### SUBCHAPTER XIV—ASIAN DEVELOPMENT BANK
@@ -771,6 +773,8 @@ Sec.
 285ee. Fifth capital increase.
 
 285ff. Tenth replenishment.
+
+285gg. Eleventh replenishment.
 
         
 
@@ -1133,6 +1137,8 @@ Sec.
 290g–22. Thirteenth replenishment.
 
 290g–23. Multilateral debt relief.
+
+290g–24. Fourteenth replenishment.
 
         
 

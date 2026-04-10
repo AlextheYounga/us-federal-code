@@ -12,7 +12,7 @@ Sec.
 
 1469a–1. Full amounts to be covered into treasuries of Guam, Northern Mariana Islands, Puerto Rico, and Virgin Islands; reductions prohibited.
 
-1469b. Auditing of transactions of Territorial and local governments.
+1469b. Auditing of transactions of territorial and local governments.
 
 1469c. Availability of services, facilities, and equipment of agencies and instrumentalities of United States; reimbursement requirements.
 

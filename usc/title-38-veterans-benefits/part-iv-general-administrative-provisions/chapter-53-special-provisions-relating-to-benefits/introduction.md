@@ -12,6 +12,8 @@ Sec.
 
 5303A. Minimum active-duty service requirement.
 
+5303B. Character of service determinations.
+
 5304\. Prohibition against duplication of benefits.
 
 5305\. Waiver of retired pay.
@@ -53,6 +55,8 @@ Sec.
         
 
 #### Amendments
+
+**2018**—Pub. L. 115–141, div. J, title II, §259(b), Mar. 23, 2018, 132 Stat. 829, added item 5303B.
 
 **2008**—Pub. L. 110–252, title I, §1303(a)(2), June 30, 2008, 122 Stat. 2327, added item 5302A.
 

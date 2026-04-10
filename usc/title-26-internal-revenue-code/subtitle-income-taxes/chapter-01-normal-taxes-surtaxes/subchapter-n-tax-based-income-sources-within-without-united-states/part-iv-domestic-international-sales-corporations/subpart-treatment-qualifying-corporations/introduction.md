@@ -6,12 +6,8 @@ Sec.
 
 992\. Requirements of a domestic international sales corporation.
 
-993\. Definitions and special rules. 1
-
-        
+993\. Definitions and special rules.
 
 994\. Inter-company pricing rules.
 
         
-
-[1 So in original. Does not conform to section catchline.](#I_1)

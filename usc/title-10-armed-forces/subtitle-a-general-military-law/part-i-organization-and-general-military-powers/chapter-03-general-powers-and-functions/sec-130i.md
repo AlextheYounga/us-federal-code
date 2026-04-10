@@ -16,6 +16,8 @@
 
 (F) Use reasonable force to disable, damage, or destroy the unmanned aircraft system or unmanned aircraft.
 
+  
+
 (2) The Secretary of Defense shall develop the actions described in paragraph (1) in coordination with the Secretary of Transportation.
 
 (c) Forfeiture.—Any unmanned aircraft system or unmanned aircraft described in subsection (a) that is seized by the Secretary of Defense is subject to forfeiture to the United States.

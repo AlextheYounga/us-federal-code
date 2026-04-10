@@ -6,12 +6,8 @@ A. Corporate organizations.
 
 B. Effects on shareholders and security holders.
 
-C. Effects on corporations. 1
-
-        
+C. Effects on corporations.
 
 D. Special rule; definitions.
 
         
-
-[1 So in original. Does not conform to subpart heading.](#I_1)

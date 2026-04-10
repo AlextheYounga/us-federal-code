@@ -206,7 +206,7 @@ Sec.
 
 #### SUBCHAPTER XIV—MATCHING GRANT PROGRAM FOR SCHOOL SECURITY
 
-3797a to 3797e. Transferred or Omitted.
+3797a to 3797e. Repealed, Transferred, or Omitted.
 
         
 

@@ -16,6 +16,8 @@ The term "disqualified related party amount" means any interest or royalty paid 
 
 (B) such related party is allowed a deduction with respect to such amount under the tax law of such country.
 
+  
+
 Such term shall not include any payment to the extent such payment is included in the gross income of a United States shareholder under section 951(a).
 
 #### (2) Related party
@@ -54,7 +56,7 @@ The Secretary shall issue such regulations or other guidance as may be necessary
 
 (A) cases in which the disqualified related party amount is taxed under the laws of a foreign country other than the country of which the related party is a resident for tax purposes, and
 
-(B) other cases which the Secretary determines do not present a risk of eroding the Federal tax base,
+(B) other cases which the Secretary determines do not present a risk of eroding the Federal tax base,[1](#267A_1_target)
 
   
 
@@ -65,3 +67,5 @@ The Secretary shall issue such regulations or other guidance as may be necessary
 #### Effective Date
 
 Pub. L. 115–97, title I, §14222(c), Dec. 22, 2017, 131 Stat. 2220, provided that: "The amendments made by this section \[enacting this section\] shall apply to taxable years beginning after December 31, 2017."
+
+[1 So in original. Probably should be followed by "and".](#267A_1)
