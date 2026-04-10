@@ -1,5 +1,9 @@
 ### §§661 to 678. Omitted
 
+  
+
+#### **Editorial Notes**
+
 #### Codification
 
 Sections 661 to 678, relating to Territory of Hawaii, were omitted in view of admission of Hawaii into the Union.

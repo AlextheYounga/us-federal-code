@@ -1,5 +1,9 @@
 ### §§395 to 405. Omitted
 
+  
+
+#### **Editorial Notes**
+
 #### Codification
 
 Sections 395 to 405, relating to the Territory of Alaska, were omitted in view of the admission of Alaska into the Union.

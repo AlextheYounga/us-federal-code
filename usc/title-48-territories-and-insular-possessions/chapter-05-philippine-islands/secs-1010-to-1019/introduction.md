@@ -1,5 +1,9 @@
 ### §§1010 to 1019. Omitted
 
+  
+
+#### **Editorial Notes**
+
 #### Codification
 
 Sections 1010 to 1019 were omitted in view of recognition of Philippine independence.

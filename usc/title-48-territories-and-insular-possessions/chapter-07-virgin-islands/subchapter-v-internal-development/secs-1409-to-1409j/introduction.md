@@ -22,6 +22,10 @@ Section 1409i, act Dec. 20, 1944, ch. 615, §10, 58 Stat. 830; 1950 Reorg. Plan 
 
 Section 1409j, act Dec. 20, 1944, ch. 615, §11, 58 Stat. 830; 1950 Reorg. Plan No. 15, §1, eff. May 24, 1950, 15 F.R. 3176, 64 Stat. 1267, related to authorization of appropriations for administrative and other expenses.
 
+  
+
+#### **Statutory Notes and Related Subsidiaries**
+
 #### Estimates As Not Constituting Limitations
 
 Act July 31, 1953, ch. 298, title I, §1, 67 Stat. 275, provided in part that the estimated project costs specified in this subchapter not constitute limitations on amounts that could be expended for such projects.

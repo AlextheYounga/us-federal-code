@@ -1,5 +1,9 @@
 ### §§488 to 488f. Omitted
 
+  
+
+#### **Editorial Notes**
+
 #### Codification
 
 Sections 488 to 488f, relating to Territory of Alaska, were omitted in view of admission of Alaska into the Union.
