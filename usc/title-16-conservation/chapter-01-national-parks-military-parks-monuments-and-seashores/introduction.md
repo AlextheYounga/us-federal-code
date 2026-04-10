@@ -214,7 +214,7 @@ Sec.
 
 78\. Detail of troops to Sequoia and Yosemite Parks.
 
-79\. Omitted.
+79\. Rights-of-way for public utilities.
 
 79–1. Yosemite National Park; expansion of reservoir capacity.
 
@@ -3600,7 +3600,7 @@ Sec.
 
 #### Part A—Coordination of Programs
 
-460l to 460l–3. Repealed.
+460 l to 460 l–3. Repealed.
 
         
 

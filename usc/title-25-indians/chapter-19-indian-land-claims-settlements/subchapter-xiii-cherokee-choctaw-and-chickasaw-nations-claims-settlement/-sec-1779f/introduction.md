@@ -84,7 +84,7 @@ If a claim under paragraph (1)(A) is filed by the deadline specified in that par
 
 If no claims under paragraph (1)(A) are filed by the deadline specified in that paragraph—
 
-(i) any funds held in the special holding account under paragraph (2) and attributed to that Indian Nation shall be deposited in the appropriate tribal trust account established by section 1779d(a) [1](#1779f_1_target) of this title; and
+(i) any funds held in the special holding account under paragraph (2) and attributed to that Indian Nation shall be deposited in the appropriate tribal trust account established by section 1779d(a) [1](#_1779f_1_target) of this title; and
 
 (ii) after the date that is 180 days after December 13, 2002, paragraph (2)(B) shall not apply to appropriations attributed to that Indian Nation.
 
@@ -102,4 +102,4 @@ Congress declares that—
 
 Section 1779d(a) of this title, referred to in subsec. (b)(3)(C)(i), was in the original "section 6(a)" and was translated as reading "section 606(a)", meaning section 606(a) of Pub. L. 107–331, to reflect the probable intent of Congress, because Pub. L. 107–331 does not contain a section 6, and section 1779d(a) establishes three tribal trust fund accounts.
 
-[1 See References in Text note below.](#1779f_1)
+[1 See References in Text note below.](#_1779f_1)
