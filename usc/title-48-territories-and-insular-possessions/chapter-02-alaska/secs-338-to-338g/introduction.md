@@ -4,9 +4,9 @@
 
 Sections 338 to 338g, relating to Territory of Alaska, were omitted in view of admission of Alaska into the Union.
 
-Section 338, acts Aug. 1956, ch. 840, §1, 70 Stat. 888; Apr. 20, 1957, Pub. L. 85–16, 71 Stat. 14; July 6, 1959, Pub. L. 86–78, §1(1), 73 Stat. 161, established Alaska International Rail and Highway Commission, set out its size and structure, appointment of its members, and selection of chairman and vice chairman, and authorized appointment of an Army officer to Commission.
+Section 338, acts Aug. 1, 1956, ch. 840, §1, 70 Stat. 888; Apr. 20, 1957, Pub. L. 85–16, 71 Stat. 14; July 6, 1959, Pub. L. 86–78, §1(1), 73 Stat. 161, established Alaska International Rail and Highway Commission, set out its size and structure, appointment of its members, and selection of chairman and vice chairman, and authorized appointment of an Army officer to Commission.
 
-Section 338a, act Aug. 1, 1956, ch. 840, §2, 70 Stat. 8888, set out duties of Commission.
+Section 338a, act Aug. 1, 1956, ch. 840, §2, 70 Stat. 888, set out duties of Commission.
 
 Section 338b, acts Aug. 1, 1956, ch. 840, §3, 70 Stat. 888; Aug. 8, 1958, Pub. L. 85–601, §1(a), 72 Stat. 524, authorized Commission to cooperate with Canada in carrying out its functions.
 

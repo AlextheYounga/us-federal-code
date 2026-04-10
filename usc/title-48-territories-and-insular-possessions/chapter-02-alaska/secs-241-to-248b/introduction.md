@@ -14,7 +14,7 @@ Section 244, act June 14, 1906, ch. 3299, §2, 34 Stat. 264, prescribed penaltie
 
 Section 245, act June 14, 1906, ch. 3299, §3, 34 Stat. 264, provided for jurisdiction of prosecutions under sections 243 to 247 of this title.
 
-Section 246, acts June 14, 1906, ch. 3299, §4, 34 Stat. 264; Mar. 4, 1913, ch. 141, §1, 37 Stat. 736; Aug. 4, 1949, ch. 393, §§1, 20, 63 Stat. 495, 501, authorized searches and seizures of vessels.
+Section 246, acts June 14, 1906, ch. 3299, §4, 34 Stat. 264; Mar. 4, 1913, ch. 141, §1, 37 Stat. 736; Aug. 4, 1949, ch. 393, §§1, 20, 63 Stat. 495, 561, authorized searches and seizures of vessels.
 
 Section 247, acts June 14, 1906, ch. 3299, §5, 34 Stat. 264; Mar. 4, 1913, ch. 141, §1, 37 Stat. 736; Jan. 28, 1915, ch. 20, §1, 38 Stat. 800; Aug. 4, 1949, ch. 393, §§1, 20, 63 Stat. 495, 561, empowered Secretary to promulgate rules and regulations to carry into effect provisions of sections 243 to 246 of this title.
 

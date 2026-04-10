@@ -122,6 +122,8 @@ Sec.
 
 1975\. Overseas travel.
 
+1975a. Overseas travel to accompany members of House leadership.
+
 1976\. Acceptance of donations of animals.
 
 1977\. Settlement and payment of tort claims.
@@ -133,5 +135,7 @@ Sec.
 1980\. Mounted horse unit.
 
 1981\. Advance payments.
+
+1982\. Acceptance of surplus or obsolete property.
 
         
