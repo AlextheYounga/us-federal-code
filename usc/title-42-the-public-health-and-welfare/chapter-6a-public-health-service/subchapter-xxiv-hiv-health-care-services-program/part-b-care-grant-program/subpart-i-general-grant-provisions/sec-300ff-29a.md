@@ -60,6 +60,10 @@ The authority to make grants under this section applies beginning with the first
 
 (July 1, 1944, ch. 373, title XXVI, §2620, as added and amended Pub. L. 109–415, title II, §205(2), title VII, §703, Dec. 19, 2006, 120 Stat. 2797, 2820; Pub. L. 111–87, §§2(a)(1), (3)(A), 5(c)(2), 8(a)(2), (b)(2)(D), Oct. 30, 2009, 123 Stat. 2885, 2891, 2893, 2894.)
 
+  
+
+#### **Editorial Notes**
+
 #### Prior Provisions
 
 A prior section 2620 of act July 1, 1944, was renumbered section 2621 and is classified to section 300ff–30 of this title.
@@ -73,6 +77,10 @@ Another prior section 2620 of act July 1, 1944, was classified to section 300ff�
 Subsec. (a)(2). Pub. L. 111–87, §§5(c)(2), 8(a)(2), (b)(2)(D), substituted "300ff–28(a)(2)(F)(i)" for "300ff–28(a)(2)(G)(i)", "5 percent" for "2 percent", and "canceled, offset under section 300ff–31a(e) of this title," for "canceled".
 
 **2006**—Pub. L. 109–415, §703, which directed repeal of this section effective Oct. 1, 2009, was itself repealed by Pub. L. 111–87, §2(a)(1), effective Sept. 30, 2009.
+
+  
+
+#### **Statutory Notes and Related Subsidiaries**
 
 #### Effective Date of 2009 Amendment; Revival of Section
 

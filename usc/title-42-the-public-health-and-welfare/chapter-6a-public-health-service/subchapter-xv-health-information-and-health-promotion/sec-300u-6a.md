@@ -28,6 +28,10 @@ The purposes for which amounts made available under paragraph [3](#300u-6a_3_ta
 
 (July 1, 1944, ch. 373, title XVII, §1707A, as added Pub. L. 111–148, title X, §10334(b)(1), Mar. 23, 2010, 124 Stat. 972.)
 
+  
+
+#### **Statutory Notes and Related Subsidiaries**
+
 #### Construction
 
 Pub. L. 111–148, title X, §10334(b)(2), Mar. 23, 2010, 124 Stat. 973, provided that: "Nothing in this subsection \[enacting this section and provisions set out as a note under this section\] and the amendments made by this subsection may be construed as establishing regulatory authority or modifying any existing regulatory authority."
