@@ -232,7 +232,7 @@ An applicant subject to subsection (a) shall submit to the Secretary an initial 
 
 #### (A) Timing
 
-An applicant shall submit the initial pediatric study plan under paragraph (1)—
+An applicant shall submit the initial pediatric plan under paragraph (1)—
 
 (i) before the date on which the applicant submits the assessments under subsection (a)(2); and
 
@@ -244,9 +244,9 @@ An applicant shall submit the initial pediatric study plan under paragraph (1)�
 
   
 
-Nothing in this section shall preclude the Secretary from accepting the submission of an initial pediatric study plan earlier than the date otherwise applicable under this subparagraph.
+Nothing in this section shall preclude the Secretary from accepting the submission of an initial pediatric plan earlier than the date otherwise applicable under this subparagraph.
 
-#### (B) Content of initial pediatric study plan
+#### (B) Content of initial plan
 
 The initial pediatric study plan shall include—
 
@@ -274,13 +274,13 @@ Not later than 90 calendar days following the meeting under paragraph (2)(C)(i) 
 
 If the agreed initial pediatric study plan contains a request from the applicant for a deferral, partial waiver, or waiver under this section, the written confirmation under paragraph (3) shall include a recommendation from the Secretary as to whether such request meets the standards under paragraphs (3) or (4) of subsection (a).
 
-#### (5) Amendments to the agreed initial pediatric study plan
+#### (5) Amendments to the plan
 
 At the initiative of the Secretary or the applicant, the agreed initial pediatric study plan may be amended at any time. The requirements of paragraph (2)(C) shall apply to any such proposed amendment in the same manner and to the same extent as such requirements apply to an initial pediatric study plan under paragraph (1). The requirements of paragraphs (3) and (4) shall apply to any agreement resulting from such proposed amendment in the same manner and to the same extent as such requirements apply to an agreed initial pediatric study plan.
 
 #### (6) Internal committee
 
-The Secretary shall consult the internal committee under section 355d of this title on the review of the initial pediatric study plan, agreed initial pediatric study plan, and any significant amendments to such plans.
+The Secretary shall consult the internal committee under section 355d of this title on the review of the initial pediatric study plan, agreed initial pediatric plan, and any significant amendments to such plans.
 
 #### (7) Required rulemaking
 
@@ -290,7 +290,7 @@ Not later than 1 year after July 9, 2012, the Secretary shall promulgate propose
 
 #### (1) Review
 
-Beginning not later than 30 days after September 27, 2007, the Secretary shall utilize the internal committee established under section 355d of this title to provide consultation to reviewing divisions on initial pediatric study plans, agreed initial pediatric study plans, and any significant amendments to such plans, and assessments prior to approval of an application or supplement for which a pediatric assessment is required under this section and all deferral, deferral extension, and waiver requests granted pursuant to this section.
+Beginning not later than 30 days after September 27, 2007, the Secretary shall utilize the internal committee established under section 355d of this title to provide consultation to reviewing divisions on initial pediatric study plans, agreed initial pediatric study plans, and assessments prior to approval of an application or supplement for which a pediatric assessment is required under this section and all deferral, deferral extension, and waiver requests granted pursuant to this section.
 
 #### (2) Activity by committee
 
@@ -418,7 +418,21 @@ Nothing in this section provides to the Secretary any authority to require a ped
 
 Unless the Secretary requires otherwise by regulation, this section does not apply to any drug for an indication for which orphan designation has been granted under section 360bb of this title.
 
-#### (l) New active ingredient
+#### (l) Institute of Medicine study
+
+#### (1) In general
+
+Not later than three years after September 27, 2007, the Secretary shall contract with the Institute of Medicine to conduct a study and report to Congress regarding the pediatric studies conducted pursuant to this section or precursor regulations since 1997 and labeling changes made as a result of such studies.
+
+#### (2) Content of study
+
+The study under paragraph (1) shall review and assess the use of extrapolation for pediatric subpopulations, the use of alternative endpoints for pediatric populations, neonatal assessment tools, the number and type of pediatric adverse events, and ethical issues in pediatric clinical trials.
+
+#### (3) Representative sample
+
+The Institute of Medicine may devise an appropriate mechanism to review a representative sample of studies conducted pursuant to this section from each review division within the Center for Drug Evaluation and Research in order to make the requested assessment.
+
+#### (m) New active ingredient
 
 #### (1) Non-interchangeable biosimilar biological product
 
@@ -428,21 +442,9 @@ A biological product that is biosimilar to a reference product under section 262
 
 A biological product that is interchangeable with a reference product under section 262 of title 42 shall not be considered to have a new active ingredient under this section.
 
-(June 25, 1938, ch. 675, §505B, as added Pub. L. 108–155, §2(a), Dec. 3, 2003, 117 Stat. 1936; amended Pub. L. 110–85, title IV, §402(a), Sept. 27, 2007, 121 Stat. 866; Pub. L. 111–148, title VII, §7002(d)(2), Mar. 23, 2010, 124 Stat. 816; Pub. L. 112–144, title V, §§501(b), 505–506(b), 509(b), July 9, 2012, 126 Stat. 1040–1044, 1048; Pub. L. 114–255, div. A, title III, §§3101(a)(2)(D), 3102(3), Dec. 13, 2016, 130 Stat. 1153, 1156.)
+(June 25, 1938, ch. 675, §505B, as added Pub. L. 108–155, §2(a), Dec. 3, 2003, 117 Stat. 1936; amended Pub. L. 110–85, title IV, §402(a), Sept. 27, 2007, 121 Stat. 866; Pub. L. 111–148, title VII, §7002(d)(2), Mar. 23, 2010, 124 Stat. 816; Pub. L. 112–144, title V, §§501(b), 505–506(b), 509(b), July 9, 2012, 126 Stat. 1040–1044, 1048.)
 
 #### Amendments
-
-**2016**—Subsec. (e)(2)(A). Pub. L. 114–255, §3101(a)(2)(D)(i)(I)(aa), inserted "study" after "initial pediatric" in introductory and concluding provisions.
-
-Subsec. (e)(2)(B). Pub. L. 114–255, §3101(a)(2)(D)(i)(I)(bb), substituted "Content of initial pediatric study plan" for "Content of initial plan" in heading.
-
-Subsec. (e)(5). Pub. L. 114–255, §3101(a)(2)(D)(i)(II), inserted "agreed initial pediatric study" before "plan" in heading.
-
-Subsec. (e)(6). Pub. L. 114–255, §3101(a)(2)(D)(i)(III), substituted "agreed initial pediatric study plan" for "agreed initial pediatric plan".
-
-Subsec. (f)(1). Pub. L. 114–255, §3101(a)(2)(D)(ii), inserted "and any significant amendments to such plans," after "agreed initial pediatric study plans,".
-
-Subsec. (l), (m). Pub. L. 114–255, §3102(3), redesignated subsec. (m) as (l) and struck out former subsec. (l) which related to Institute of Medicine study.
 
 **2012**—Subsec. (a)(1). Pub. L. 112–144, §509(b)(1)(A), inserted "for a drug" after "(or supplement to an application)" in introductory provisions.
 

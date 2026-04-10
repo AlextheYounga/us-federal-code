@@ -154,8 +154,6 @@ Sec.
 
 355f. Extension of exclusivity period for new qualified infectious disease products.
 
-355g. Utilizing real world evidence.
-
 356\. Expedited approval of drugs for serious or life-threatening diseases or conditions.
 
 356–1. Accelerated approval of priority countermeasures.
@@ -174,9 +172,7 @@ Sec.
 
 356f. Hospital repackaging of drugs in shortage.
 
-356g. Standards for regenerative medicine and regenerative advanced therapies.
-
-357\. Qualification of drug development tools.
+357\. Repealed.
 
 358\. Authority to designate official names.
 
@@ -187,8 +183,6 @@ Sec.
 360a. Clinical trial guidance for antibiotic drugs.
 
 360a–1. Clinical trials.
-
-360a–2. Susceptibility test interpretive criteria for microorganisms.
 
 360b. New animal drugs.
 
@@ -201,8 +195,6 @@ Sec.
 360e. Premarket approval.
 
 360e–1. Pediatric uses of devices.
-
-360e–3. Breakthrough devices.
 
 360f. Banned devices.
 
@@ -244,8 +236,6 @@ Sec.
 
 360ff. Priority review to encourage treatments for rare pediatric diseases.
 
-360ff–1. Targeted drugs for rare diseases.
-
         
 
 #### Part C—Electronic Product Radiation Control
@@ -286,8 +276,6 @@ Sec.
 
 360bbb. Expanded access to unapproved therapies and diagnostics.
 
-360bbb–0. Expanded access policy required for investigational drugs.
-
 360bbb–1. Dispute resolution.
 
 360bbb–2. Classification of products.
@@ -299,8 +287,6 @@ Sec.
 360bbb–3b. Products held for emergency use.
 
 360bbb–4. Countermeasure development, review, and technical assistance.
-
-360bbb–4a. Priority review to encourage treatments for agents that present national security threats.
 
 360bbb–5. Critical Path Public-Private Partnerships.
 
@@ -423,8 +409,6 @@ Sec.
 379d–2. Policy on the review and clearance of scientific articles published by FDA employees.
 
 379d–3. Streamlined hiring authority.
-
-379d–3a. Hiring authority for scientific, technical, and professional personnel.
 
 379d–4. Reporting requirements.
 
@@ -675,9 +659,5 @@ Sec.
 399e. Nanotechnology.
 
 399f. Ensuring adequate information regarding pharmaceuticals for all populations, particularly underrepresented subpopulations, including racial subgroups.
-
-399g. Food and Drug Administration Intercenter Institutes.
-
-399h. Grants for studying continuous drug manufacturing.
 
         
