@@ -22,7 +22,7 @@ Sec.
 
 5610\. Authorization of appropriations.
 
-5611.Repealed.
+5611\. Repealed.
 
 5612\. Quota allocation practice.
 

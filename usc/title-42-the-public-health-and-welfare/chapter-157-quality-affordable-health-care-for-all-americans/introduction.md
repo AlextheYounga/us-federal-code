@@ -142,4 +142,6 @@ Sec.
 
 18121\. Implementation funding.
 
+18122\. Rule of construction regarding health care providers.
+
         

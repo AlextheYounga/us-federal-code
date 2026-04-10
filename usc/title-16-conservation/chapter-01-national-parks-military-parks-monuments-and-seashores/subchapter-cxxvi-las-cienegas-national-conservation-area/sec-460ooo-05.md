@@ -48,7 +48,7 @@ In order to assist in the development and implementation of the management plan,
 
 The Archaeological Resources Protection Act of 1979, referred to in subsec. (b)(4), is Pub. L. 96–95, Oct. 31, 1979, 93 Stat. 721, as amended, which is classified generally to chapter 1B (§470aa et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 470aa of this title and Tables.
 
-The National Historic Preservation Act, referred to in subsec. (b)(4), is Pub. L. 89–665, Oct. 15, 1966, 80 Stat. 915, which was classified generally to subchapter II (§470 et seq.) of chapter 1A of this title prior to the enactment of Title 54, National Park Service and Related Programs. See 54 U.S.C. 300101 et seq.
+The National Historic Preservation Act, referred to in subsec. (b)(4), is Pub. L. 89–665, Oct. 15, 1966, 80 Stat. 915, which was classified generally to subchapter II (§470 et seq.) of chapter 1A of this title. The Act, except for section 1, was repealed and restated in division A (§300101 et seq.) of subtitle III of Title 54, National Park Service and Related Programs, by Pub. L. 113–287, §§3, 7, Dec. 19, 2014, 128 Stat. 3094, 3272. For complete classification of this Act to the Code, see Tables. For disposition of former sections of this title, see Disposition Table preceding section 100101 of Title 54.
 
 The Federal Cave Resources Protection Act of 1988, referred to in subsec. (b)(9), is Pub. L. 100–691, Nov. 18, 1988, 102 Stat. 4546, which is classified generally to chapter 63 (§4301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 4301 of this title and Tables.
 
