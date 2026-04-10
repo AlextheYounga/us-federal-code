@@ -10,7 +10,7 @@ A regulated investment company—
 
   
 
-may elect the application of this section with respect to some or all of the credits allowable (determined without regard to this section and sections 54(c), 54A(c)(1), 54AA(c)(1), and 1397E(c)) to the investment company during such taxable year with respect to such bonds.
+may elect the application of this section with respect to some or all of the credits allowable (determined without regard to this section and sections 54(c), 54A(c)(1), 54AA(c)(1), and 1397E(c)) [1](#853A_1_target) to the investment company during such taxable year with respect to such bonds.
 
 #### (b) Effect of election
 
@@ -34,7 +34,7 @@ If the election provided in subsection (a) is in effect with respect to any cred
 
 (B) be allowed credits against the tax imposed by this chapter equal to the amount of such distribution, subject to the provisions of this title applicable to the credit involved.
 
-#### (c) Statements [1](#853A_1_target) to shareholders
+#### (c) Statements [2](#853A_2_target) to shareholders
 
 The amount treated as a distribution of money received by a shareholder under subsection (b)(2)(A) (and as credits allowed to such shareholder under subsection (b)(2)(B)) shall not exceed the amount so reported by the regulated investment company in a written statement furnished to such shareholder.
 
@@ -52,9 +52,9 @@ For purposes of this subsection—
 
 The term "tax credit bond" means—
 
-(i) a qualified tax credit bond (as defined in section 54A(d)),
+(i) a qualified tax credit bond (as defined in section 54A(d)),[1](#853A_1_target)
 
-(ii) a build America bond (as defined in section 54AA(d)) other than a qualified bond described in section 54AA(g), and
+(ii) a build America bond (as defined in section 54AA(d)) [1](#853A_1_target) other than a qualified bond described in section 54AA(g),[1](#853A_1_target) and
 
 (iii) any bond for which a credit is allowable under subpart H of part IV of subchapter A of this chapter.
 
@@ -62,9 +62,9 @@ The term "tax credit bond" means—
 
 The term "applicable date" means—
 
-(i) in the case of a qualified tax credit bond or a bond described in subparagraph (A)(iii), any credit allowance date (as defined in section 54A(e)(1)), and
+(i) in the case of a qualified tax credit bond or a bond described in subparagraph (A)(iii), any credit allowance date (as defined in section 54A(e)(1)),[1](#853A_1_target) and
 
-(ii) in the case of a build America bond (as defined in section 54AA(d)), any interest payment date (as defined in section 54AA(e)).
+(ii) in the case of a build America bond (as defined in section 54AA(d)),[1](#853A_1_target) any interest payment date (as defined in section 54AA(e)).[1](#853A_1_target)
 
 #### (2) Stripped tax credit bonds
 
@@ -75,6 +75,14 @@ If the ownership of a tax credit bond is separated from the credit with respect 
 The Secretary shall prescribe such regulations or other guidance as may be necessary or appropriate to carry out the purposes of this section, including methods for determining a shareholder's proportionate share of credits.
 
 (Added Pub. L. 111–5, div. B, title I, §1541(a), Feb. 17, 2009, 123 Stat. 360; amended Pub. L. 111–325, title III, §301(d), Dec. 22, 2010, 124 Stat. 3544; Pub. L. 113–295, div. A, title II, §209(h), Dec. 19, 2014, 128 Stat. 4029.)
+
+#### References in Text
+
+Sections 54, 54A, and 54AA, referred to in subsecs. (a) and (e)(1), were repealed by Pub. L. 115–97, title I, §13404(a), Dec. 22, 2017, 131 Stat. 2138.
+
+Section 1397E, referred to in subsec. (a), was repealed by Pub. L. 115–97, title I, §13404(c)(1), Dec. 22, 2017, 131 Stat. 2138.
+
+Subpart H of part IV of subchapter A of this chapter, referred to in subsec. (e)(1)(A)(iii), is subpart H (§54) of part IV of subchapter A of chapter 1 of this title, which was repealed by Pub. L. 115–97, title I, §13404(c)(1), Dec. 22, 2017, 131 Stat. 2138.
 
 #### Amendments
 
@@ -108,6 +116,8 @@ Amendment by Pub. L. 111–325 applicable to taxable years beginning after Dec. 
 
 #### Effective Date
 
-Section applicable to taxable years ending after Feb. 17, 2009, see section 1541(c) of Pub. L. 111–5, set out as an Effective Date of 2009 Amendment note under section 54 of this title.
+Pub. L. 111–5, div. B, title I, §1541(c), Feb. 17, 2009, 123 Stat. 362, provided that: "The amendments made by this section \[enacting this section and amending sections 54 and 54A of this title\] shall apply to taxable years ending after the date of the enactment of this Act \[Feb. 17, 2009\]."
 
-[1 See 2010 Amendment note below.](#853A_1)
+[1 See References in Text note below.](#853A_1)
+
+[2 See 2010 Amendment note below.](#853A_2)
