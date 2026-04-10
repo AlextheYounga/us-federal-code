@@ -130,7 +130,7 @@ Chap. Sec.
 
 102\. United States Secret Service Uniformed Division Personnel 10201
 
-103\. Department of State 10301
+103\. Department of State 10301. 3
 
         
 
@@ -144,7 +144,7 @@ Chap. Sec.
 
 #### Amendments
 
-**2021**—Pub. L. 117–81, Div. E, title LIII, §5312(c), Dec. 27, 2021, 135 Stat. 2365, which directed amendment of the table of chapters at the beginning of title 5 by inserting item for chapter 103, was executed by making the amendment in the front matter to this part to reflect the probable intent of Congress.
+**2021**—Pub. L. 117–81, div. E, title LIII, §5312(c), Dec. 27, 2021, 135 Stat. 2365, which directed amendment of the analysis at the beginning of title 5 by inserting item for chapter 103, was executed by making the amendment to this analysis to reflect the probable intent of Congress.
 
 **2019**—Pub. L. 116–92, div. A, title XI, §1122(c), Dec. 20, 2019, 133 Stat. 1608, added item for chapter 92.
 
@@ -191,3 +191,5 @@ Pub. L. 106–265, title I, §1002(b), Sept. 19, 2000, 114 Stat. 769, added item
 [1 Chapter heading amended by Pub. L. 107–296 without corresponding amendment of part analysis.](#SubpartBanalysis_1)
 
 [2 So in original. Probably should be capitalized.](#SubpartHanalysis_2)
+
+[3 So in original. The period probably should not appear.](#SubpartIanalysis_3)
