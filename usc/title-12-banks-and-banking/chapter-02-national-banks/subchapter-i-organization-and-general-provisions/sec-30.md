@@ -22,7 +22,7 @@ Notwithstanding subsection (a) or any other provision of law, any depository ins
 
 For purposes of this subsection, the terms "depository institution", "insured depository institution", "national bank", and "State bank" have the meanings given those terms in section 1813 of this title.
 
-([May 1, 1886, ch. 73, §2, 24 Stat. 18](/statviewer.htm?volume=24&page=18); [Pub. L. 86–230, §3, Sept. 8, 1959, 73 Stat. 457](/statviewer.htm?volume=73&page=457); [Pub. L. 97–320, title IV, §405(a), Oct. 15, 1982, 96 Stat. 1512](/statviewer.htm?volume=96&page=1512); [Pub. L. 97–457, §19(a), Jan. 12, 1983, 96 Stat. 2509](/statviewer.htm?volume=96&page=2509); [Pub. L. 103–328, title I, §102(b)(2), Sept. 29, 1994, 108 Stat. 2350](/statviewer.htm?volume=108&page=2350); [Pub. L. 106–102, title VII, §723, Nov. 12, 1999, 113 Stat. 1471](/statviewer.htm?volume=113&page=1471).)
+(May 1, 1886, ch. 73, §2, 24 Stat. 18; Pub. L. 86–230, §3, Sept. 8, 1959, 73 Stat. 457; Pub. L. 97–320, title IV, §405(a), Oct. 15, 1982, 96 Stat. 1512; Pub. L. 97–457, §19(a), Jan. 12, 1983, 96 Stat. 2509; Pub. L. 103–328, title I, §102(b)(2), Sept. 29, 1994, 108 Stat. 2350; Pub. L. 106–102, title VII, §723, Nov. 12, 1999, 113 Stat. 1471.)
 
 #### Amendments
 

@@ -6,7 +6,7 @@
 
 (2) For the purpose of this subsection, the term "State" means any of the several States, the District of Columbia, the Commonwealth of Puerto Rico, the Northern Mariana Islands, Guam, the Virgin Islands, American Samoa, the Trust Territory of the Pacific Islands, or any other territory or possession of the United States.
 
-([Mar. 9, 1933, ch. 1, title I, §4, 48 Stat. 2](/statviewer.htm?volume=48&page=2); [Pub. L. 96–221, title VII, §705, Mar. 31, 1980, 94 Stat. 187](/statviewer.htm?volume=94&page=187); [Pub. L. 97–320, title IV, §407, Oct. 15, 1982, 96 Stat. 1513](/statviewer.htm?volume=96&page=1513); [Pub. L. 97–457, §21, Jan. 12, 1983, 96 Stat. 2509](/statviewer.htm?volume=96&page=2509).)
+(Mar. 9, 1933, ch. 1, title I, §4, 48 Stat. 2; Pub. L. 96–221, title VII, §705, Mar. 31, 1980, 94 Stat. 187; Pub. L. 97–320, title IV, §407, Oct. 15, 1982, 96 Stat. 1513; Pub. L. 97–457, §21, Jan. 12, 1983, 96 Stat. 2509.)
 
 #### Amendments
 

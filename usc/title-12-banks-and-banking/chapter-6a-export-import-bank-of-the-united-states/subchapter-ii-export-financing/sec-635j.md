@@ -8,7 +8,7 @@ It is the policy of the Congress that the Export-Import Bank of the United State
 
 The Bank shall specially designate loans, guarantees, and insurance on the books of the Bank made under authority of this subchapter. In connection with guarantees and insurance, not less than 25 per centum of the related contractual liability of the Bank shall be taken into account for the purpose of applying the limitation imposed by section 635e of this title; but the full amount of the related contractual liability of such guarantees and insurance shall be taken into account for the purpose of applying the limitation in section 635(c)(1) of this title, concerning the amount of guarantees and insurance the Bank may have outstanding at any one time thereunder. The aggregate amount of loans plus 25 per centum of the contractual liability of guarantees and insurance outstanding at any one time under this subchapter shall not exceed $500,000,000.
 
-([Pub. L. 90–390, §1, July 7, 1968, 82 Stat. 296](/statviewer.htm?volume=82&page=296); [Pub. L. 96–470, title I, §115, Oct. 19, 1980, 94 Stat. 2240](/statviewer.htm?volume=94&page=2240).)
+(Pub. L. 90–390, §1, July 7, 1968, 82 Stat. 296; Pub. L. 96–470, title I, §115, Oct. 19, 1980, 94 Stat. 2240.)
 
 #### Amendments
 
@@ -40,4 +40,4 @@ Lyndon B. Johnson.      
 
 #### Termination of Advisory Committees
 
-Advisory Committees in existence on Jan. 5, 1973, to terminate not later than the expiration of the 2-year period following Jan. 5, 1973, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law, see section 14 of [Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770](/statviewer.htm?volume=86&page=770), set out in the Appendix to Title 5, Government Organization and Employees.
+Advisory Committees in existence on Jan. 5, 1973, to terminate not later than the expiration of the 2-year period following Jan. 5, 1973, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law, see section 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, set out in the Appendix to Title 5, Government Organization and Employees.

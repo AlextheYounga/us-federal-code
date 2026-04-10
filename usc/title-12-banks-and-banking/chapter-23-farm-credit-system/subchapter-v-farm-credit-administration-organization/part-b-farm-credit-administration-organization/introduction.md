@@ -44,4 +44,4 @@ This order shall take effect upon the sixty-first calendar day after its transmi
 
 Franklin D. Roosevelt.      
 
-\[All functions, powers and duties of the Governor of the Farm Credit Administration which relate to the making, administration, and liquidation of all loans identified or referred to in pars. 5(b), 5(c), and 5(d) of this Executive Order were abolished by act [Aug. 14, 1946, ch. 964, §2(a)(2), 60 Stat. 1062](/statviewer.htm?volume=60&page=1062), set out as a note under sections 1001 to 1006 of Title 7, Agriculture.\]
+\[All functions, powers and duties of the Governor of the Farm Credit Administration which relate to the making, administration, and liquidation of all loans identified or referred to in pars. 5(b), 5(c), and 5(d) of this Executive Order were abolished by act Aug. 14, 1946, ch. 964, §2(a)(2), 60 Stat. 1062, set out as a note under sections 1001 to 1006 of Title 7, Agriculture.\]

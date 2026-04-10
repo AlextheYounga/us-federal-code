@@ -36,11 +36,11 @@ Where any merging bank or banking association, at the time of the merger, was ac
 
 Stock of the receiving association may be issued as provided by the terms of the merger agreement, free from any preemptive rights of the shareholders of the respective merging banks.
 
-(Nov. 7, 1918, ch. 209, §3, formerly §2, as added [Pub. L. 86–230, §20, Sept. 8, 1959, 73 Stat. 463](/statviewer.htm?volume=73&page=463); renumbered §3, [Pub. L. 103–328, title I, §102(b)(4)(A), Sept. 29, 1994, 108 Stat. 2351](/statviewer.htm?volume=108&page=2351); amended [Pub. L. 112–231, §2(b)(2)(B), Dec. 28, 2012, 126 Stat. 1619](/statviewer.htm?volume=126&page=1619).)
+(Nov. 7, 1918, ch. 209, §3, formerly §2, as added Pub. L. 86–230, §20, Sept. 8, 1959, 73 Stat. 463; renumbered §3, Pub. L. 103–328, title I, §102(b)(4)(A), Sept. 29, 1994, 108 Stat. 2351; amended Pub. L. 112–231, §2(b)(2)(B), Dec. 28, 2012, 126 Stat. 1619.)
 
 #### Codification
 
-Provisions similar to those comprising this section were contained in section 4 of act Nov. 7, 1918, ch. 209, as added [July 14, 1952, ch. 722, §1, 66 Stat. 599](/statviewer.htm?volume=66&page=599) (formerly classified to section 34b of this title), prior to the complete amendment and renumbering of act Nov. 7, 1918, by Pub. L. 86–230.
+Provisions similar to those comprising this section were contained in section 4 of act Nov. 7, 1918, ch. 209, as added July 14, 1952, ch. 722, §1, 66 Stat. 599 (formerly classified to section 34b of this title), prior to the complete amendment and renumbering of act Nov. 7, 1918, by Pub. L. 86–230.
 
 #### Amendments
 

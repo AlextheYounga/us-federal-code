@@ -132,7 +132,7 @@ The term "home State" means the State in which the main office of a national ban
 
 The term "host State" means, with respect to a bank, a State, other than the home State of the bank, in which the bank maintains, or seeks to establish and maintain, a branch.
 
-#### (h) Repealed. [Pub. L. 104–208, div. A, title II, §2204, Sept. 30, 1996, 110 Stat. 3009–405](/statviewer.htm?volume=110&page=3009-405)
+#### (h) Repealed. Pub. L. 104–208, div. A, title II, §2204, Sept. 30, 1996, 110 Stat. 3009–405
 
 #### (i) Prior approval of branch locations
 
@@ -150,7 +150,7 @@ This section shall not be construed to amend or repeal section 25 of the Federal
 
 The words "State bank," "State banks," "bank," or "banks," as used in this section, shall be held to include trust companies, savings banks, or other such corporations or institutions carrying on the banking business under the authority of State laws.
 
-([R.S. §5155](/statviewer.htm?volume=rs&page=996); [Feb. 25, 1927, ch. 191, §7, 44 Stat. 1228](/statviewer.htm?volume=44&page=1228); [June 16, 1933, ch. 89, §23, 48 Stat. 189](/statviewer.htm?volume=48&page=189); [Aug. 23, 1935, ch. 614, title III, §305, 49 Stat. 708](/statviewer.htm?volume=49&page=708); [July 15, 1952, ch. 753, §2(b), 66 Stat. 633](/statviewer.htm?volume=66&page=633); [Pub. L. 87–721, Sept. 28, 1962, 76 Stat. 667](/statviewer.htm?volume=76&page=667); [Pub. L. 103–328, title I, §§102(b)(1), 103(a), Sept. 29, 1994, 108 Stat. 2349](/statviewer.htm?volume=108&page=2349), [2352](/statviewer.htm?volume=108&page=2352); [Pub. L. 104–208, div. A, title II, §§2204, 2205(a), Sept. 30, 1996, 110 Stat. 3009–405](/statviewer.htm?volume=110&page=3009-405); [Pub. L. 105–24, §2(b), July 3, 1997, 111 Stat. 239](/statviewer.htm?volume=111&page=239); [Pub. L. 111–203, title VI, §613(a), July 21, 2010, 124 Stat. 1614](/statviewer.htm?volume=124&page=1614).)
+(R.S. §5155; Feb. 25, 1927, ch. 191, §7, 44 Stat. 1228; June 16, 1933, ch. 89, §23, 48 Stat. 189; Aug. 23, 1935, ch. 614, title III, §305, 49 Stat. 708; July 15, 1952, ch. 753, §2(b), 66 Stat. 633; Pub. L. 87–721, Sept. 28, 1962, 76 Stat. 667; Pub. L. 103–328, title I, §§102(b)(1), 103(a), Sept. 29, 1994, 108 Stat. 2349, 2352; Pub. L. 104–208, div. A, title II, §§2204, 2205(a), Sept. 30, 1996, 110 Stat. 3009–405; Pub. L. 105–24, §2(b), July 3, 1997, 111 Stat. 239; Pub. L. 111–203, title VI, §613(a), July 21, 2010, 124 Stat. 1614.)
 
 #### References in Text
 
@@ -160,7 +160,7 @@ Section 25 of the Federal Reserve Act, as amended, referred to in subsec. (k), i
 
 #### Codification
 
-[R.S. §5155](/statviewer.htm?volume=rs&page=996) derived from act [Mar. 3, 1865, ch. 78, §7, 13 Stat. 484](/statviewer.htm?volume=13&page=484).
+R.S. §5155 derived from act Mar. 3, 1865, ch. 78, §7, 13 Stat. 484.
 
 #### Amendments
 
@@ -208,6 +208,6 @@ Nothing in Pub. L. 105–24 to alter right of States under section 525 of Pub. L
 
 #### Applicability of McFadden Act to Present Financial Environment; Report and Recommendations by President to Congress
 
-[Pub. L. 95–369, §14, Sept. 17, 1978, 92 Stat. 625](/statviewer.htm?volume=92&page=625), provided for a report to Congress by the President, not later than one year after Sept. 17, 1978, containing recommendations concerning the applicability of the McFadden Act \[[Feb. 25, 1927, ch. 191, 44 Stat. 1224](/statviewer.htm?volume=44&page=1224)\] to the then current financial, banking, and economic environment.
+Pub. L. 95–369, §14, Sept. 17, 1978, 92 Stat. 625, provided for a report to Congress by the President, not later than one year after Sept. 17, 1978, containing recommendations concerning the applicability of the McFadden Act \[Feb. 25, 1927, ch. 191, 44 Stat. 1224\] to the then current financial, banking, and economic environment.
 
 [1 See References in Text note below.](#36_1)
