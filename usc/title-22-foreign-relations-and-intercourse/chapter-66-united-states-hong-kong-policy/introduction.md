@@ -32,6 +32,10 @@ Sec.
 
 5724\. Consultation with Congress.
 
+5725\. Secretary of State report regarding the autonomy of Hong Kong.
+
+5726\. Treatment of Hong Kong applicants for visas to study or work in the United States.
+
         
 
 #### SUBCHAPTER III—REPORTING PROVISIONS
