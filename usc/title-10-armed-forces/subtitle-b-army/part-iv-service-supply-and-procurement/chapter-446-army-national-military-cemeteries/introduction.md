@@ -14,10 +14,4 @@ Sec.
 
 4726\. Oversight and inspections.
 
-4727\. Cemetery concessions contracts.
-
         
-
-#### Amendments
-
-**2013**—Pub. L. 113–66, div. A, title V, §585(b), Dec. 26, 2013, 127 Stat. 777, added item 4727.

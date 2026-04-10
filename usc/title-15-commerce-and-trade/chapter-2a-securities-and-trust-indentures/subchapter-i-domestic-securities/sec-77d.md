@@ -38,8 +38,6 @@ With respect to transactions referred to in clause (B), if securities of the iss
 
 (D) the issuer complies with the requirements of section 77d–1(b) of this title.
 
-  
-
 (b) [1](#77d_1_target) Offers and sales exempt under section 230.506 of title 17, Code of Federal Regulations (as revised pursuant to section 201 of the Jumpstart Our Business Startups Act) shall not be deemed public offerings under the Federal securities laws as a result of general advertising or general solicitation.
 
 (b)(1) [1](#77d_1_target) With respect to securities offered and sold in compliance with Rule 506 of Regulation D under this subchapter, no person who meets the conditions set forth in paragraph (2) shall be subject to registration as a broker or dealer pursuant to section 78o(a)(1) of this title,[2](#77d_2_target) solely because—

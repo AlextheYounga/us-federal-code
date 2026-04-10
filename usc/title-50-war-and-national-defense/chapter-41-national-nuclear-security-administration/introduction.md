@@ -24,8 +24,6 @@ Sec.
 
 2410\. Status of Administration and contractor personnel within Department of Energy.
 
-2411\. Director for cost estimating and program evaluation.
-
         
 
 #### SUBCHAPTER II—MATTERS RELATING TO SECURITY
