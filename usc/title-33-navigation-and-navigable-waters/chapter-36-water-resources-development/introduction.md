@@ -148,7 +148,7 @@ Sec.
 
 2281a. Tribal Liaison.
 
-2281b. Corps of engineers support for underserved communities; outreach.
+2281b. Corps of Engineers support for underserved communities; outreach.
 
 2282\. Feasibility reports.
 
