@@ -127,3 +127,17 @@ Sec.
 811\. Authorization of appropriations.
 
         
+
+#### Part F—Global Catastrophic Risk Management
+
+821\. Definitions.
+
+822\. Assessment of global catastrophic risk.
+
+823\. Report required.
+
+824\. Enhanced catastrophic incident annex.
+
+825\. Rules of construction.
+
+        

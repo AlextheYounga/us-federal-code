@@ -44,6 +44,10 @@ Sec.
 
 5333\. Study of the effects of size and complexity of financial institutions on capital market efficiency and economic growth.
 
+5334\. Data standards.
+
+5335\. Open data publication.
+
         
 
 #### Part B—Office of Financial Research
@@ -229,6 +233,10 @@ Sec.
 5496b. GAO study of financial regulations.
 
 5497\. Funding; penalties and fines.
+
+5498\. Data standards.
+
+5499\. Open data publication.
 
         
 

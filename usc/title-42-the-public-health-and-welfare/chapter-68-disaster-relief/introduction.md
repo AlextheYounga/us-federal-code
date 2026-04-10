@@ -26,6 +26,8 @@ Sec.
 
 5136\. Natural hazard risk assessment.
 
+5136a. Assistance and training for communities with technological hazards and related emerging threats.
+
         
 
 #### SUBCHAPTER III—MAJOR DISASTER AND EMERGENCY ASSISTANCE ADMINISTRATION
