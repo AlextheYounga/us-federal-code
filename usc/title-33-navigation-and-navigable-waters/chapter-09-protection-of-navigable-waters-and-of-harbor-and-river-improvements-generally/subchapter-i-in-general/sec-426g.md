@@ -144,7 +144,7 @@ Not later than December 31, 2008, and every 3 years thereafter, the Secretary sh
 
 #### (1) In general
 
-Subject to paragraph (2), the Secretary may expend, from any appropriations made available to the Secretary for the purpose of carrying out civil works, not more than $37,500,000 during any fiscal year to pay the Federal share of the costs of construction of small shore and beach restoration and protection projects or small projects under this section.
+Subject to paragraph (2), the Secretary may expend, from any appropriations made available to the Secretary for the purpose of carrying out civil works, not more than $62,500,000 during any fiscal year to pay the Federal share of the costs of construction of small shore and beach restoration and protection projects or small projects under this section.
 
 #### (2) Limitation
 
@@ -152,9 +152,9 @@ The total amount expended for a project under this section shall—
 
 (A) be sufficient to pay the cost of Federal participation in the project (including periodic nourishment as provided for under section 426e of this title), as determined by the Secretary; and
 
-(B) be not more than $10,000,000.
+(B) be not more than $15,000,000.
 
-(Aug. 13, 1946, ch. 960, §3, 60 Stat. 1056; July 26, 1947, ch. 343, title II, §205(a), 61 Stat. 501; July 28, 1956, ch. 768, 70 Stat. 703; Pub. L. 87–874, title I, §103(a)(4), Oct. 23, 1962, 76 Stat. 1178; Pub. L. 89–298, title III, §310(b), Oct. 27, 1965, 79 Stat. 1095; Pub. L. 91–611, title I, §112(b), Dec. 31, 1970, 84 Stat. 1821; Pub. L. 99–662, title IX, §915(e), Nov. 17, 1986, 100 Stat. 4191; Pub. L. 104–303, title II, §227(e)(2)(C), Oct. 12, 1996, 110 Stat. 3703; Pub. L. 106–53, title II, §226, Aug. 17, 1999, 113 Stat. 298; Pub. L. 110–114, title II, §2038(a), Nov. 8, 2007, 121 Stat. 1097; Pub. L. 114–322, title I, §1167, Dec. 16, 2016, 130 Stat. 1670; Pub. L. 115–270, title I, §1157(a), Oct. 23, 2018, 132 Stat. 3793.)
+(Aug. 13, 1946, ch. 960, §3, 60 Stat. 1056; July 26, 1947, ch. 343, title II, §205(a), 61 Stat. 501; July 28, 1956, ch. 768, 70 Stat. 703; Pub. L. 87–874, title I, §103(a)(4), Oct. 23, 1962, 76 Stat. 1178; Pub. L. 89–298, title III, §310(b), Oct. 27, 1965, 79 Stat. 1095; Pub. L. 91–611, title I, §112(b), Dec. 31, 1970, 84 Stat. 1821; Pub. L. 99–662, title IX, §915(e), Nov. 17, 1986, 100 Stat. 4191; Pub. L. 104–303, title II, §227(e)(2)(C), Oct. 12, 1996, 110 Stat. 3703; Pub. L. 106–53, title II, §226, Aug. 17, 1999, 113 Stat. 298; Pub. L. 110–114, title II, §2038(a), Nov. 8, 2007, 121 Stat. 1097; Pub. L. 114–322, title I, §1167, Dec. 16, 2016, 130 Stat. 1670; Pub. L. 115–270, title I, §1157(a), Oct. 23, 2018, 132 Stat. 3793; Pub. L. 118–272, div. A, title I, §1107(c), Jan. 4, 2025, 138 Stat. 3004.)
 
   
 
@@ -165,6 +165,10 @@ The total amount expended for a project under this section shall—
 The Shoreline Erosion Control Demonstration Act of 1974, referred to in subsec. (b)(2)(C)(viii), is Pub. L. 93–251, title I, §54, Mar. 7, 1974, 88 Stat. 26, formerly set out as a note under section 1962d–5 of Title 42, The Public Health and Welfare.
 
 #### Amendments
+
+**2025**—Subsec. (c)(1). Pub. L. 118–272, §1107(c)(1), substituted "$62,500,000" for "$37,500,000".
+
+Subsec. (c)(2)(B). Pub. L. 118–272, §1107(c)(2), substituted "$15,000,000" for "$10,000,000".
 
 **2018**—Subsec. (c)(1). Pub. L. 115–270 substituted "$37,500,000" for "$30,000,000".
 

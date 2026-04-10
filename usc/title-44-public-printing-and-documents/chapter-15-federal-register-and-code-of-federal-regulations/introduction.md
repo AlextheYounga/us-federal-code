@@ -4,11 +4,11 @@ Sec.
 
 1501\. Definitions.
 
-1502\. Custody and printing of Federal documents; appointment of Director.
+1502\. Custody and publishing of Federal documents; appointment of Director.
 
-1503\. Filing documents with Office; notation of time; public inspection; transmission for printing.
+1503\. Filing documents with Office; notation of time; public inspection; transmission for publishing.
 
-1504\. "Federal Register"; printing; contents; distribution; price.
+1504\. "Federal Register"; publishing; contents; distribution; price; physical copies.
 
 1505\. Documents to be published in Federal Register.
 
@@ -29,6 +29,8 @@ Sec.
 #### **Editorial Notes**
 
 #### Amendments
+
+**2025**—Pub. L. 118–267, §2(h), Jan. 4, 2025, 138 Stat. 2986, added items for 1502 to 1504 and struck out former items 1502 "Custody and printing of Federal documents; appointment of Director", 1503 "Filing documents with Office; notation of time; public inspection; transmission for printing", and 1504 " 'Federal Register'; printing; contents; distribution; price".
 
 **1977**—Pub. L. 95–94, title IV, §408(a)(2), Aug. 5, 1977, 91 Stat. 683, substituted "Costs of publication, etc." for "Cost of publication; appropriations authorized; penalty mail privilege" in item 1509.
 

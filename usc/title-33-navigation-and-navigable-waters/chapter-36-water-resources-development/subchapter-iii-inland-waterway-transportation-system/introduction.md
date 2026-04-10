@@ -6,7 +6,7 @@
 
 #### Inland Waterways Regional Dredge Pilot Program
 
-Pub. L. 117–263, div. H, title LXXXI, §8133, Dec. 23, 2022, 136 Stat. 3720, provided that:
+Pub. L. 117–263, div. H, title LXXXI, §8133, Dec. 23, 2022, 136 Stat. 3720, as amended by Pub. L. 118–272, div. A, title I, §1118, Jan. 4, 2025, 138 Stat. 3012, provided that:
 
 "(a) In General.—The Secretary \[of the Army\] is authorized to establish a pilot program (referred to in this section as the 'pilot program') to conduct a multiyear demonstration program to award contracts with a duration of up to 5 years for dredging projects on inland waterways of the United States described in section 206 of the Inland Waterways Revenue Act of 1978 (33 U.S.C. 1804).
 
@@ -18,17 +18,13 @@ Pub. L. 117–263, div. H, title LXXXI, §8133, Dec. 23, 2022, 136 Stat. 3720, p
 
 "(3) provide cost savings by combining work across multiple projects across different accounts of the Corps of Engineers.
 
-"(c) Demonstration.—
+"(c) Projects.—In awarding contracts under subsection (a), the Secretary shall consider projects that—
 
-"(1) In general.—The Secretary shall, to the maximum extent practicable, award contracts for projects under subsection (a) that combine work for construction and operation and maintenance.
+"(1) improve navigation reliability on inland waterways that are accessible year-round;
 
-"(2) Projects.—In awarding contracts under paragraph (1), the Secretary shall consider projects that—
+"(2) increase freight capacity on inland waterways; and
 
-"(A) improve navigation reliability on inland waterways that are accessible year-round;
-
-"(B) increase freight capacity on inland waterways; and
-
-"(C) have the potential to enhance the availability of containerized cargo on inland waterways.
+"(3) have the potential to enhance the availability of containerized cargo on inland waterways.
 
 "(d) Savings Clause.—Nothing in this section affects the responsibility of the Secretary with respect to the construction and operation and maintenance of projects on the inland waterways system.
 

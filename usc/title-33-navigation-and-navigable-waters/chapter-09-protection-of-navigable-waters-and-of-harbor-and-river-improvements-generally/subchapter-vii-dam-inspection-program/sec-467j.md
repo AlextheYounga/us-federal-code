@@ -4,7 +4,7 @@
 
 #### (1) Annual amounts
 
-There are authorized to be appropriated to FEMA to carry out sections 467e, 467f, and 467h of this title (in addition to any amounts made available for similar purposes included in any other Act and amounts made available under subsections (b) through (e)), $9,200,000 for each of fiscal years 2019 through 2023, to remain available until expended.
+There are authorized to be appropriated to FEMA to carry out sections 467e, 467f, and 467h of this title (in addition to any amounts made available for similar purposes included in any other Act and amounts made available under subsections (b) through (e)), $9,200,000 for each of fiscal years 2019 through 2028, to remain available until expended.
 
 #### (2) Allocation
 
@@ -16,49 +16,43 @@ Subject to subparagraphs (B) and (C), for each fiscal year, amounts made availab
 
 (ii) Two-thirds among States that qualify for assistance under section 467f(e) of this title, to each such State in proportion to—
 
-(I) the number of dams in the State that are listed as State-regulated dams on the inventory of dams maintained under section 467d of this title; as compared to
+(I) the number of dams in the State that are listed as State-regulated dams on the inventory of dams and low-head dams maintained under section 467d of this title; as compared to
 
-(II) the number of dams in all States that are listed as State-regulated dams on the inventory of dams maintained under section 467d of this title.
+(II) the number of dams in all States that are listed as State-regulated dams on the inventory of dams and low-head dams maintained under section 467d of this title.
 
 #### (B) Maximum amount of allocation
 
-#### (i) In general
-
-The amount of funds allocated to a State under this paragraph may not exceed 50 percent of the reasonable cost of implementing the State dam safety program.
-
-#### (ii) Fiscal year 2015 and subsequent fiscal years
-
-For fiscal year 2015 and each subsequent fiscal year, the amount of funds allocated to a State under this paragraph may not exceed the amount of funds committed by the State to implement dam safety activities.
+The amount of funds allocated to a State under this paragraph for a fiscal year may not exceed the amount that is equal to 4 times the amount of funds committed by the State to implement dam safety activities for that fiscal year.
 
 #### (C) Determination
 
 The Administrator and the Board shall determine the amount allocated to States.
 
-#### (b) National dam inventory
+#### (b) National inventory of dams and low-head dams
 
-There is authorized to be appropriated to carry out section 467d of this title $500,000 for each of fiscal years 2019 through 2023.
+There is authorized to be appropriated to carry out section 467d of this title $500,000 for each of fiscal years 2019 through 2028.
 
 #### (c) Public awareness
 
-There is authorized to be appropriated to carry out section 467g–2 of this title $1,000,000 for each of fiscal years 2019 through 2023.
+There is authorized to be appropriated to carry out section 467g–2 of this title $1,000,000 for each of fiscal years 2019 through 2028.
 
 #### (d) Research
 
-There is authorized to be appropriated to carry out section 467g of this title $1,450,000 for each of fiscal years 2019 through 2023, to remain until expended.
+There is authorized to be appropriated to carry out section 467g of this title $1,450,000 for each of fiscal years 2019 through 2028, to remain until expended.
 
 #### (e) Dam safety training
 
-There is authorized to be appropriated to carry out section 467g–1 of this title $750,000 for each of fiscal years 2019 through 2023.
+There is authorized to be appropriated to carry out section 467g–1 of this title $750,000 for each of fiscal years 2019 through 2028.
 
 #### (f) Staff
 
-There is authorized to be appropriated to FEMA for the employment of such additional staff personnel as are necessary to carry out sections 467f through 467g–1 of this title $1,000,000 for each of fiscal years 2019 through 2023.
+There is authorized to be appropriated to FEMA for the employment of such additional staff personnel as are necessary to carry out sections 467f through 467g–1 of this title $1,000,000 for each of fiscal years 2019 through 2028.
 
 #### (g) Limitation on use of amounts
 
 Amounts made available under this subchapter may not be used to construct or repair any Federal or non-Federal dam.
 
-(Pub. L. 92–367, §14, formerly §12, as added Pub. L. 104–303, title II, §215(c)(8), Oct. 12, 1996, 110 Stat. 3693; renumbered §13 and amended Pub. L. 107–310, §§5(1), 7, Dec. 2, 2002, 116 Stat. 2453; Pub. L. 109–460, §1(d), Dec. 22, 2006, 120 Stat. 3401; renumbered §14 and amended Pub. L. 113–121, title III, §3001(a)(1), (d)(1), (e), (f), June 10, 2014, 128 Stat. 1282–1284; Pub. L. 115–270, title I, §1163, Oct. 23, 2018, 132 Stat. 3796.)
+(Pub. L. 92–367, §14, formerly §12, as added Pub. L. 104–303, title II, §215(c)(8), Oct. 12, 1996, 110 Stat. 3693; renumbered §13 and amended Pub. L. 107–310, §§5(1), 7, Dec. 2, 2002, 116 Stat. 2453; Pub. L. 109–460, §1(d), Dec. 22, 2006, 120 Stat. 3401; renumbered §14 and amended Pub. L. 113–121, title III, §3001(a)(1), (d)(1), (e), (f), June 10, 2014, 128 Stat. 1282–1284; Pub. L. 115–270, title I, §1163, Oct. 23, 2018, 132 Stat. 3796; Pub. L. 118–272, div. A, title I, §1132(d), Jan. 4, 2025, 138 Stat. 3023.)
 
   
 
@@ -71,6 +65,26 @@ A prior section 467j, Pub. L. 92–367, §11, as added Pub. L. 99–662, title X
 A prior section 14 of Pub. L. 92–367 was classified to section 467m of this title prior to repeal by Pub. L. 104–303.
 
 #### Amendments
+
+**2025**—Subsec. (a)(1). Pub. L. 118–272, §1132(d)(1)(A), substituted "2028" for "2023".
+
+Subsec. (a)(2)(A)(ii)(I), (II). Pub. L. 118–272, §1132(d)(1)(B)(i), inserted "and low-head dams" after "inventory of dams".
+
+Subsec. (a)(2)(B). Pub. L. 118–272, §1132(d)(1)(B)(ii), amended subpar. (B) generally. Prior to amendment, text read as follows:
+
+"(i) In general.—The amount of funds allocated to a State under this paragraph may not exceed 50 percent of the reasonable cost of implementing the State dam safety program.
+
+"(ii) Fiscal year 2015 and subsequent fiscal years.—For fiscal year 2015 and each subsequent fiscal year, the amount of funds allocated to a State under this paragraph may not exceed the amount of funds committed by the State to implement dam safety activities."
+
+Subsec. (b). Pub. L. 118–272, §1132(d)(2), substituted "National inventory of dams and low-head dams" for "National dam inventory" in heading and "2028" for "2023" in text.
+
+Subsec. (c). Pub. L. 118–272, §1132(d)(3), substituted "2028" for "2023".
+
+Subsec. (d). Pub. L. 118–272, §1132(d)(4), substituted "2028" for "2023".
+
+Subsec. (e). Pub. L. 118–272, §1132(d)(5), substituted "2028" for "2023".
+
+Subsec. (f). Pub. L. 118–272, §1132(d)(6), substituted "2028" for "2023".
 
 **2018**—Pub. L. 115–270 substituted "2019 through 2023" for "2015 through 2019" wherever appearing.
 

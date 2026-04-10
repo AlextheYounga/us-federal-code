@@ -202,6 +202,8 @@ Sec.
 
 628c. Grants to States to enhance collaboration between State child welfare and juvenile justice systems.
 
+628d. Effective implementation of the Indian Child Welfare Act of 1978.
+
         
 
 #### subpart 2—promoting safe and stable families
@@ -229,6 +231,10 @@ Sec.
         
 
 #### subpart 3—common provisions
+
+629k. Reduction of administrative burden.
+
+629 l. Public access to State plans.
 
 629m. Data exchange standards for improved interoperability.
 

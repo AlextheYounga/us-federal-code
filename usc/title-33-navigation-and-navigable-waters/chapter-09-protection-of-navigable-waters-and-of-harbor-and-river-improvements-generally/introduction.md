@@ -40,7 +40,7 @@ Sec.
 
 413\. Duty of United States attorneys and other Federal officers in enforcement of provisions; arrest of offenders.
 
-414\. Removal by Secretary of the Army of sunken water craft generally; liability of owner, lessee, or operator.
+414\. Vessel removal by Corps of Engineers.
 
 415\. Summary removal of water craft obstructing navigation; liability of owner, lessee, or operator.
 
@@ -204,7 +204,7 @@ Sec.
 
 467c. Determination of danger to human life and property.
 
-467d. National dam inventory.
+467d. National inventory of dams and low-head dams.
 
 467e. Interagency Committee on Dam Safety.
 
@@ -230,6 +230,6 @@ Sec.
 
 467n. Recovery of dam modification costs required for safety purposes.
 
-467 o. National low-head dam inventory.
+467 o. Repealed.
 
         

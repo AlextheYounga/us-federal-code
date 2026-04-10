@@ -30,6 +30,10 @@ Nothing in this subsection [1](#629m_1_target) shall be construed to require a 
 
 (Aug. 14, 1935, ch. 531, title IV, §440, as added Pub. L. 112–34, title I, §105(a), Sept. 30, 2011, 125 Stat. 376; amended Pub. L. 115–123, div. E, title VII, §50771(a), Feb. 9, 2018, 132 Stat. 267.)
 
+#### Renumbering of Section
+
+Pub. L. 118–258, title I, §§106(f)(1), 117, Jan. 4, 2025, 138 Stat. 2952, 2969, provided that, effective Oct. 1, 2025, and applicable to payments under this part for calendar quarters beginning on or after such date, with delay permitted if either State legislation or tribal action is required to meet additional requirements, this section is renumbered section 443 of act Aug. 14, 1935.
+
   
 
 #### **Editorial Notes**
