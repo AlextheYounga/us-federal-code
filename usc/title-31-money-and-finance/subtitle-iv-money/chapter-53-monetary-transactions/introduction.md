@@ -48,7 +48,7 @@ Sec.
 
 5325\. Identification required to purchase certain monetary instruments.
 
-5326\. Records of certain domestic coin and currency transactions.
+5326\. Records of certain domestic transactions.
 
 \[5327. Repealed.\]
 
@@ -111,6 +111,8 @@ Sec.
         
 
 #### Amendments
+
+**2017**—Pub. L. 115–44, title II, §275(b), Aug. 2, 2017, 131 Stat. 938, struck out "coin and currency" before "transactions" in item 5326.
 
 **2006**—Pub. L. 109–347, title VIII, §802(b), Oct. 13, 2006, 120 Stat. 1961, added subchapter IV heading and items 5361 to 5367.
 
