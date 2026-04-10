@@ -634,6 +634,16 @@ Sec.
 
         
 
+#### Part F—Rafael Ramos and Wenjian Liu National Blue Alert
+
+14165\. Definitions.
+
+14165a. Blue Alert communications network.
+
+14165b. Blue Alert Coordinator; guidelines.
+
+        
+
 #### SUBCHAPTER X—MOTOR VEHICLE THEFT PROTECTION
 
 14171\. Motor vehicle theft prevention program.
