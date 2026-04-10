@@ -956,7 +956,11 @@ The term "trading facility" does not include—
 
 A person or group of persons that would not otherwise constitute a trading facility shall not be considered to be a trading facility solely as a result of the submission to a derivatives clearing organization of transactions executed on or through the person or group of persons.
 
-(Sept. 21, 1922, ch. 369, §1a, as added Pub. L. 102–546, title IV, §404(a), Oct. 28, 1992, 106 Stat. 3625; amended Pub. L. 106–554, §1(a)(5) \[title I, §§101, 123(a)(1)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–366, 2763A–405; Pub. L. 110–234, title XIII, §§13105(j), 13201(a), 13203(a), (b), May 22, 2008, 122 Stat. 1435, 1439; Pub. L. 110–246, §4(a), title XIII, §§13105(j), 13201(a), 13203(a), (b), June 18, 2008, 122 Stat. 1664, 2197, 2201; Pub. L. 111–203, title VII, §§721(a), 741(b)(10), July 21, 2010, 124 Stat. 1658, 1732.)
+(Sept. 21, 1922, ch. 369, §1a, as added Pub. L. 102–546, title IV, §404(a), Oct. 28, 1992, 106 Stat. 3625; amended Pub. L. 106–554, §1(a)(5) \[title I, §§101, 123(a)(1)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–366, 2763A–405; Pub. L. 110–234, title XIII, §§13105(j), 13201(a), 13203(a), (b), May 22, 2008, 122 Stat. 1435, 1439; Pub. L. 110–246, §4(a), title XIII, §§13105(j), 13201(a), 13203(a), (b), June 18, 2008, 122 Stat. 1664, 2197, 2201; Pub. L. 111–203, title VII, §§721(a), 741(b)(10), July 21, 2010, 124 Stat. 1658, 1732; Pub. L. 119–27, §17(f), July 18, 2025, 139 Stat. 463.)
+
+#### Amendment of Paragraph (9)
+
+Pub. L. 119–27, §§17(f), 20, July 18, 2025, 139 Stat. 463, 466, provided that, effective on the earlier of the date that is 18 months after July 18, 2025, or the date that is 120 days after the date on which the primary Federal payment stablecoin regulators issue any final regulations implementing Pub. L. 119–27, paragraph (9) of this section is amended by adding at the end the following: "The term 'commodity' does not include a payment stablecoin issued by a permitted payment stablecoin issuer, as such terms are defined in section 5901 of title 12." See 2025 Amendment note below.
 
   
 
@@ -997,6 +1001,8 @@ The Wall Street Transparency and Accountability Act of 2010, referred to in par.
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
+
+**2025**—Par. (9). Pub. L. 119–27 inserted at end "The term 'commodity' does not include a payment stablecoin issued by a permitted payment stablecoin issuer, as such terms are defined in section 5901 of title 12."
 
 **2010**—Pub. L. 111–203, §721(a)(1), redesignated pars. (2), (3), and (4), (5) to (17), (18) to (23), (24) to (28), (29), (30), (31) to (33), and (34) as (6), (8), and (9), (11) to (23), (26) to (31), (34) to (38), (40), (41), (44) to (46), and (51), respectively.
 
@@ -1121,6 +1127,10 @@ Pars. (29) to (33). Pub. L. 106–554, §1(a)(5) \[title I, §101(7)\], added pa
   
 
 #### **Statutory Notes and Related Subsidiaries**
+
+#### Effective Date of 2025 Amendment
+
+Amendment by Pub. L. 119–27 effective on the earlier of the date that is 18 months after July 18, 2025, or the date that is 120 days after the date on which the primary Federal payment stablecoin regulators issue any final regulations implementing Pub. L. 119–27, see section 20 of Pub. L. 119–27, set out as an Effective Date note under section 5901 of Title 12, Banks and Banking.
 
 #### Effective Date of 2010 Amendment
 

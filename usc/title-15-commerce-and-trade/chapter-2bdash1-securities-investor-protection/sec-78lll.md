@@ -138,7 +138,11 @@ The term "protective decree" means a decree, issued by a court upon application 
 
 The term "Security" means any note, stock, treasury stock, bond, debenture, evidence of indebtedness, any collateral trust certificate, preorganization certificate or subscription, transferable share, voting trust certificate, certificate of deposit, certificate of deposit for a security, or any security future as that term is defined in section 78c(a)(55)(A) of this title, any investment contract or certificate of interest or participation in any profit-sharing agreement or in any oil, gas, or mineral royalty or lease (if such investment contract or interest is the subject of a registration statement with the Commission pursuant to the provisions of the Securities Act of 1933 \[15 U.S.C. 77a et seq.\]), any put, call, straddle, option, or privilege on any security, or group or index of securities (including any interest therein or based on the value thereof), or any put, call, straddle, option, or privilege entered into on a national securities exchange relating to foreign currency, any certificate of interest or participation in, temporary or interim certificate for, receipt for, guarantee of, or warrant or right to subscribe to or purchase or sell any of the foregoing, and any other instrument commonly known as a security. Except as specifically provided above, the term "security" does not include any currency, or any commodity or related contract or futures contract, or any warrant or right to subscribe to or purchase or sell any of the foregoing.
 
-(Pub. L. 91–598, §16, formerly §12, Dec. 30, 1970, 84 Stat. 1656; renumbered §16 and amended Pub. L. 95–283, §§9, 15, May 21, 1978, 92 Stat. 260, 271; Pub. L. 95–598, title III, §308(o), Nov. 6, 1978, 92 Stat. 2676; Pub. L. 97–303, §7, Oct. 13, 1982, 96 Stat. 1410; Pub. L. 100–181, title VIII, §802, Dec. 4, 1987, 101 Stat. 1265; Pub. L. 106–554, §1(a)(5) \[title II, §203(d)(1)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–424; Pub. L. 111–203, title IX, §983(b), July 21, 2010, 124 Stat. 1931.)
+(Pub. L. 91–598, §16, formerly §12, Dec. 30, 1970, 84 Stat. 1656; renumbered §16 and amended Pub. L. 95–283, §§9, 15, May 21, 1978, 92 Stat. 260, 271; Pub. L. 95–598, title III, §308(o), Nov. 6, 1978, 92 Stat. 2676; Pub. L. 97–303, §7, Oct. 13, 1982, 96 Stat. 1410; Pub. L. 100–181, title VIII, §802, Dec. 4, 1987, 101 Stat. 1265; Pub. L. 106–554, §1(a)(5) \[title II, §203(d)(1)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–424; Pub. L. 111–203, title IX, §983(b), July 21, 2010, 124 Stat. 1931; Pub. L. 119–27, §17(e), July 18, 2025, 139 Stat. 463.)
+
+#### Amendment of Paragraph (14)
+
+Pub. L. 119–27, §§17(e), 20, July 18, 2025, 139 Stat. 463, 466, provided that, effective on the earlier of the date that is 18 months after July 18, 2025, or the date that is 120 days after the date on which the primary Federal payment stablecoin regulators issue any final regulations implementing Pub. L. 119–27, paragraph (14) of this section is amended by adding at the end the following: "The term 'security' does not include a payment stablecoin issued by a permitted payment stablecoin issuer, as such terms are defined in section 5901 of title 12." See 2025 Amendment note below.
 
   
 
@@ -153,6 +157,8 @@ The Bankruptcy Act, referred to in provision preceding par. (1), is act July 1, 
 The Securities Act of 1933, referred to in par. (14), is act May 27, 1933, ch. 38, title I, 48 Stat. 74, which is classified generally to subchapter I (§77a et seq.) of chapter 2A of this title. For complete classification of this Act to the Code, see section 77a of this title and Tables.
 
 #### Amendments
+
+**2025**—Par. (14). Pub. L. 119–27 inserted at end "The term 'security' does not include a payment stablecoin issued by a permitted payment stablecoin issuer, as such terms are defined in section 5901 of title 12."
 
 **2010**—Par. (2). Pub. L. 111–203, §983(b)(1), added par. (2) and struck out former par. (2) which defined "customer".
 
@@ -183,6 +189,10 @@ Pub. L. 95–283 in introductory text inserted requirement for applicability of 
   
 
 #### **Statutory Notes and Related Subsidiaries**
+
+#### Effective Date of 2025 Amendment
+
+Amendment by Pub. L. 119–27 effective on the earlier of the date that is 18 months after July 18, 2025, or the date that is 120 days after the date on which the primary Federal payment stablecoin regulators issue any final regulations implementing Pub. L. 119–27, see section 20 of Pub. L. 119–27, set out as an Effective Date note under section 5901 of Title 12, Banks and Banking.
 
 #### Effective Date of 2010 Amendment
 

@@ -132,7 +132,7 @@ In this subsection, the term "covered individual" means—
 
 (A) an individual who is participating in the Transition Assistance Program established under section 1144 of title 10, subject to an availability determination by the Secretary of the military department concerned;
 
-(B) a servicemember in the National Guard or Reserves not on active duty.
+(B) a servicemember in the National Guard or Reserves not on active duty.[1](#657b_1_target)
 
 (C) an individual who—
 
@@ -555,3 +555,5 @@ Ex. Ord. No. 13708, Sept. 30, 2015, 80 F.R. 60271, extended term until Sept. 30,
 Ex. Ord. No. 13652, Sept. 30, 2013, 78 F.R. 61817, extended term until Sept. 30, 2015.
 
 Ex. Ord. No. 13591, Nov. 23, 2011, 76 F.R. 74623, extended term until Sept. 30, 2013.
+
+[1 So in original. The period probably should be a semicolon.](#657b_1)

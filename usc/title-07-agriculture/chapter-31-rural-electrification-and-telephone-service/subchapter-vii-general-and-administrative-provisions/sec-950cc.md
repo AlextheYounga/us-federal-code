@@ -2,7 +2,7 @@
 
 #### (a) Notice requirements
 
-The Secretary shall promptly make available to the public, [1](#950cc_1_target) a fully searchable database on the website of the Rural Utilities Service that contains information on all retail broadband projects provided assistance or for which assistance is sought that are administered by the Secretary, including, at a minimum—
+The Secretary shall promptly make available to the public,[1](#950cc_1_target) a fully searchable database on the website of the Rural Utilities Service that contains information on all retail broadband projects provided assistance or for which assistance is sought that are administered by the Secretary, including, at a minimum—
 
 (1) notice of each application for assistance describing the application, including—
 
