@@ -8,6 +8,10 @@ This chapter may be cited as the “Federal Power Act”.
 
 Section was enacted as part of part III of the Federal Power Act, and not as part of part I of that Act which comprises this subchapter.
 
+#### Short Title of 2013 Amendment
+
+Pub. L. 113–23, §1(a), Aug. 9, 2013, 127 Stat. 493, provided that: “This Act \[amending sections 798, 823a, and 2705 of this title and enacting provisions set out as notes preceding section 791 and under section 797 of this title\] may be cited as the ‘Hydropower Regulatory Efficiency Act of 2013’.”
+
 #### Short Title of 1990 Amendment
 
 Pub. L. 101–575, §1, Nov. 15, 1990, 104 Stat. 2834, provided that: “This Act \[enacting section 2243 of Title 42, The Public Health and Welfare, amending sections 796 and 824a–3 of this title and sections 2014, 2061, 2201, and 2284 of Title 42, and enacting provisions set out as a note under section 796 of this title\] may be cited as the ‘Solar, Wind, Waste, and Geothermal Power Production Incentives Act of 1990’.”

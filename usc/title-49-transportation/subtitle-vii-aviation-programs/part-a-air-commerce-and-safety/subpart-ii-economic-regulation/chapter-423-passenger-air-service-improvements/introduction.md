@@ -46,6 +46,6 @@ Pub. L. 112–95, title IV, §411, Feb. 14, 2012, 126 Stat. 88, provided that:
 
 “(h) Termination.—The advisory committee established under this section shall terminate on September 30, 2015.”
 
-#### Disclosure of Seat Dimensions to Facilitate the Use of Child Safety Seats on Aircraft
+#### Disclosure of Seat Dimensions To Facilitate the Use of Child Safety Seats on Aircraft
 
 Pub. L. 112–95, title IV, §412, Feb. 14, 2012, 126 Stat. 89, provided that: “Not later than 1 year after the date of enactment of this Act \[Feb. 14, 2012\], the Administrator of the Federal Aviation Administration shall initiate a rulemaking to require each air carrier operating under part 121 of title 14, Code of Federal Regulations, to post on the Internet Web site of the air carrier the maximum dimensions of a child safety seat that can be used on each aircraft operated by the air carrier to enable passengers to determine which child safety seats can be used on those aircraft.”
