@@ -282,7 +282,7 @@ Sec.
 
 #### Part D—Dissemination of Treatment Information
 
-360aaa to 360aaa–6. Omitted
+360aaa to 360aaa–6. Omitted.
 
         
 
@@ -323,6 +323,8 @@ Sec.
 360bbb–8b. Use of clinical investigation data from outside the United States.
 
 360bbb–8c. Patient participation in medical product discussion.
+
+360bbb–8d. Notification, nondistribution, and recall of controlled substances.
 
         
 
@@ -595,6 +597,10 @@ Sec.
 384d. Accreditation of third-party auditors.
 
 384e. Recognition of foreign government inspections.
+
+384f. Strengthening FDA and CBP coordination and capacity.
+
+384g. Restricting entrance of illicit drugs.
 
         
 
