@@ -86,6 +86,8 @@ Sec.
 
 223\. Obscene or harassing telephone calls in the District of Columbia or in interstate or foreign communications.
 
+223a. Notice and removal of nonconsensual intimate visual depictions.
+
 224\. Pole attachments.
 
 225\. Telecommunications services for hearing-impaired and speech-impaired individuals.
