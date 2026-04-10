@@ -34,13 +34,13 @@ Pub. L. 96–190, Feb. 12, 1980, 94 Stat. 17, known as the Dispute Resolution Ac
 
 # FEDERAL RULES OF APPELLATE PROCEDURE
 
-(As amended to December 1, 2024)
+(As amended to December 1, 2025)
 
 #### Historical Note
 
 The Federal Rules of Appellate Procedure were adopted by order of the Supreme Court on Dec. 4, 1967, transmitted to Congress by the Chief Justice on Jan. 15, 1968, and became effective on July 1, 1968.
 
-The Rules have been amended Mar. 30, 1970, eff. July 1, 1970; Mar. 1, 1971, eff. July 1, 1971; Apr. 24, 1972, eff. Oct. 1, 1972; Apr. 30, 1979, eff. Aug. 1, 1979; Oct. 12, 1984, Pub. L. 98–473, title II, §210, 98 Stat 1987; Mar. 10, 1986, eff. July 1, 1986; Nov. 18, 1988, Pub. L. 100–690, title VII, §7111, 102 Stat. 4419; Apr. 25, 1989, eff. Dec. 1, 1989; Apr. 30, 1991, eff. Dec. 1, 1991; Apr. 22, 1993, eff. Dec. 1, 1993; Apr. 29, 1994, eff. Dec. 1, 1994; Apr. 27, 1995, eff. Dec. 1, 1995; Apr. 23, 1996, eff. Dec. 1, 1996; Apr. 24, 1996, Pub. L. 104–132, title I, §103, 110 Stat. 1218; Apr. 24, 1998, eff. Dec. 1, 1998; Apr. 29, 2002, eff. Dec. 1, 2002; Mar. 27, 2003, eff. Dec. 1, 2003; Apr. 25, 2005, eff. Dec. 1, 2005; Apr. 12, 2006, eff. Dec. 1, 2006; Apr. 30, 2007, eff. Dec. 1, 2007; Mar. 26, 2009, eff. Dec. 1, 2009; Apr. 28, 2010, eff. Dec. 1, 2010; Apr. 26, 2011, eff. Dec. 1, 2011; Apr. 16, 2013, eff. Dec. 1, 2013; Apr. 25, 2014, eff. Dec. 1, 2014; Apr. 28, 2016, eff. Dec. 1, 2016; Apr. 27, 2017, eff. Dec. 1, 2017; Apr. 26, 2018, eff. Dec. 1, 2018; Apr. 25, 2019, eff. Dec. 1, 2019; Apr. 27, 2020, eff. Dec. 1, 2020; Apr. 14, 2021, eff. Dec. 1, 2021; Apr. 11, 2022, eff. Dec. 1, 2022; Apr. 24, 2023, eff. Dec. 1, 2023; Apr. 2, 2024, eff. Dec. 1, 2024.
+The Rules have been amended Mar. 30, 1970, eff. July 1, 1970; Mar. 1, 1971, eff. July 1, 1971; Apr. 24, 1972, eff. Oct. 1, 1972; Apr. 30, 1979, eff. Aug. 1, 1979; Oct. 12, 1984, Pub. L. 98–473, title II, §210, 98 Stat 1987; Mar. 10, 1986, eff. July 1, 1986; Nov. 18, 1988, Pub. L. 100–690, title VII, §7111, 102 Stat. 4419; Apr. 25, 1989, eff. Dec. 1, 1989; Apr. 30, 1991, eff. Dec. 1, 1991; Apr. 22, 1993, eff. Dec. 1, 1993; Apr. 29, 1994, eff. Dec. 1, 1994; Apr. 27, 1995, eff. Dec. 1, 1995; Apr. 23, 1996, eff. Dec. 1, 1996; Apr. 24, 1996, Pub. L. 104–132, title I, §103, 110 Stat. 1218; Apr. 24, 1998, eff. Dec. 1, 1998; Apr. 29, 2002, eff. Dec. 1, 2002; Mar. 27, 2003, eff. Dec. 1, 2003; Apr. 25, 2005, eff. Dec. 1, 2005; Apr. 12, 2006, eff. Dec. 1, 2006; Apr. 30, 2007, eff. Dec. 1, 2007; Mar. 26, 2009, eff. Dec. 1, 2009; Apr. 28, 2010, eff. Dec. 1, 2010; Apr. 26, 2011, eff. Dec. 1, 2011; Apr. 16, 2013, eff. Dec. 1, 2013; Apr. 25, 2014, eff. Dec. 1, 2014; Apr. 28, 2016, eff. Dec. 1, 2016; Apr. 27, 2017, eff. Dec. 1, 2017; Apr. 26, 2018, eff. Dec. 1, 2018; Apr. 25, 2019, eff. Dec. 1, 2019; Apr. 27, 2020, eff. Dec. 1, 2020; Apr. 14, 2021, eff. Dec. 1, 2021; Apr. 11, 2022, eff. Dec. 1, 2022; Apr. 24, 2023, eff. Dec. 1, 2023; Apr. 2, 2024, eff. Dec. 1, 2024; Apr. 23, 2025, eff. Dec. 1, 2025.
 
 #### TITLE I. APPLICABILITY OF RULES
 
@@ -64,7 +64,7 @@ Rule
 
 \[5.1. Abrogated.\]
 
-6\. Appeal in a Bankruptcy Case.
+6\. Appeal in a Bankruptcy Case or Proceeding.
 
 7\. Bond for Costs on Appeal in a Civil Case.
 
@@ -186,6 +186,8 @@ Rule
 
 Form
 
+\[1. Superseded.\]
+
 1A. Notice of Appeal to a Court of Appeals From a Judgment of a District Court.
 
 1B. Notice of Appeal to a Court of Appeals From an Appealable Order of a District Court.
@@ -230,7 +232,7 @@ Section 2 of the Order of the Supreme Court, dated Dec. 4, 1967, provided: "That
 
 #### Notes of Advisory Committee on Rules—1967
 
-These rules are drawn under the authority of 28 U.S.C. §2072, as amended by the Act of November 6, 1966, 80 Stat. 1323 (1 U.S. Code Cong. & Ad. News, p. 1546 (1966)) (Rules of Civil Procedure); 28 U.S.C. §2075 (Bankruptcy Rules); and 18 U.S.C. §§3771 (Procedure to and including verdict) and 3772 (Procedure after verdict). Those statutes combine to give to the Supreme Court power to make rules of practice and procedure for all cases within the jurisdiction of the courts of appeals. By the terms of the statutes, after the rules have taken effect all laws in conflict with them are of no further force or effect. Practice and procedure in the eleven courts of appeals are now regulated by rules promulgated by each court under the authority of 28 U.S.C. §2071. Rule 47 expressly authorizes the courts of appeals to make rules of practice not inconsistent with these rules.
+These rules are drawn under the authority of 28 U.S.C. \[former\] §2072, as amended by the Act of November 6, 1966, 80 Stat. 1323 (1 U.S. Code Cong. & Ad. News, p. 1546 (1966)) (Rules of Civil Procedure); 28 U.S.C. §2075 (Bankruptcy Rules); and 18 U.S.C. \[former\] §§3771 (Procedure to and including verdict) and 3772 (Procedure after verdict). Those statutes combine to give to the Supreme Court power to make rules of practice and procedure for all cases within the jurisdiction of the courts of appeals. By the terms of the statutes, after the rules have taken effect all laws in conflict with them are of no further force or effect. Practice and procedure in the eleven courts of appeals are now regulated by rules promulgated by each court under the authority of 28 U.S.C. §2071. Rule 47 expressly authorizes the courts of appeals to make rules of practice not inconsistent with these rules.
 
 As indicated by the titles under which they are found, the following rules are of special application: Rules 3 through 12 apply to appeals from judgments and orders of the district courts; Rules 13 and 14 apply to appeals from decisions of the Tax Court (Rule 13 establishes an appeal as the mode of review of decisions of the Tax Court in place of the present petition for review); Rules 15 through 20 apply to proceedings for review or enforcement of orders of administrative agencies, boards, commissions and officers. Rules 22 through 24 regulate habeas corpus proceedings and appeals in forma pauperis. All other rules apply to all proceedings in the courts of appeals.
 
@@ -680,7 +682,7 @@ As a result of the statutory amendments, subdivision (a) of Rule 3.1 is no longe
 
 *Subdivision (a)*. This subdivision is derived from FRCP 73(a) without any change of substance. The requirement that a request for an extension of time for filing the notice of appeal made after expiration of the time be made by motion and on notice codifies the result reached under the present provisions of FRCP 73(a) and 6(b). *North Umberland Mining Co. v. Standard Accident Ins. Co*., 193 F.2d 951 (9th Cir., 1952); *Cohen v. Plateau Natural Gas Co*., 303 F.2d 273 (10th Cir., 1962); *Plant Economy, Inc. v. Mirror Insulation Co*., 308 F.2d 275 (3d Cir., 1962).
 
-Since this subdivision governs appeals in all civil cases, it supersedes the provisions of section 25 of the Bankruptcy Act (11 U.S.C. §48). Except in cases to which the United States or an officer or agency thereof is a party, the change is a minor one, since a successful litigant in a bankruptcy proceeding may, under section 25, oblige an aggrieved party to appeal within 30 days after entry of judgment—the time fixed by this subdivision in cases involving private parties only—by serving him with notice of entry on the day thereof, and by the terms of section 25 an aggrieved party must in any event appeal within 40 days after entry of judgment. No reason appears why the time for appeal in bankruptcy should not be the same as that in civil cases generally. Furthermore, section 25 is a potential trap for the uninitiated. The time for appeal which it provides is not applicable to all appeals which may fairly be termed appeals in bankruptcy. Section 25 governs only those cases referred to in section 24 as "proceedings in bankruptcy" and "controversies arising in proceedings in bankruptcy." *Lowenstein v. Reikes*, 54 F.2d 481 (2d Cir., 1931), *cert. den*., 285 U.S. 539, 52 S.Ct. 311, 76 L.Ed. 932 (1932). The distinction between such cases and other cases which arise out of bankruptcy is often difficult to determine. See 2 Moore's Collier on Bankruptcy  24.12 through  24.36 (1962). As a result it is not always clear whether an appeal is governed by section 25 or by FRCP 73(a), which is applicable to such appeals in bankruptcy as are not governed by section 25.
+Since this subdivision governs appeals in all civil cases, it supersedes the provisions of section 25 of the Bankruptcy Act (11 U.S.C. \[former\] §48). Except in cases to which the United States or an officer or agency thereof is a party, the change is a minor one, since a successful litigant in a bankruptcy proceeding may, under section 25, oblige an aggrieved party to appeal within 30 days after entry of judgment—the time fixed by this subdivision in cases involving private parties only—by serving him with notice of entry on the day thereof, and by the terms of section 25 an aggrieved party must in any event appeal within 40 days after entry of judgment. No reason appears why the time for appeal in bankruptcy should not be the same as that in civil cases generally. Furthermore, section 25 is a potential trap for the uninitiated. The time for appeal which it provides is not applicable to all appeals which may fairly be termed appeals in bankruptcy. Section 25 governs only those cases referred to in section 24 as "proceedings in bankruptcy" and "controversies arising in proceedings in bankruptcy." *Lowenstein v. Reikes*, 54 F.2d 481 (2d Cir., 1931), *cert. den*., 285 U.S. 539, 52 S.Ct. 311, 76 L.Ed. 932 (1932). The distinction between such cases and other cases which arise out of bankruptcy is often difficult to determine. See 2 Moore's Collier on Bankruptcy  24.12 through  24.36 (1962). As a result it is not always clear whether an appeal is governed by section 25 or by FRCP 73(a), which is applicable to such appeals in bankruptcy as are not governed by section 25.
 
 In view of the unification of the civil and admiralty procedure accomplished by the amendments of the Federal Rules of Civil Procedure effective July 1, 1966, this subdivision governs appeals in those civil actions which involve admiralty or maritime claims and which prior to that date were known as suits in admiralty.
 
@@ -1090,19 +1092,19 @@ Subdivision (a)(1) is amended to delete the reference to "proof of service" to r
 
 The Federal Courts Improvement Act of 1996, Pub. L. No. 104–317, abolished appeals by permission under 28 U.S.C. §636(c)(5), making Rule 5.1 obsolete. Rule 5.1 is, therefore, abrogated.
 
-### Rule 6. Appeal in a Bankruptcy Case
+### Rule 6. Appeal in a Bankruptcy Case or Proceeding
 
-(a) Appeal From a Judgment, Order, or Decree of a District Court Exercising Original Jurisdiction in a Bankruptcy Case. An appeal to a court of appeals from a final judgment, order, or decree of a district court exercising jurisdiction under 28 U.S.C. §1334 is taken as any other civil appeal under these rules.
+(a) Appeal From a Judgment, Order, or Decree of a District Court Exercising Original Jurisdiction in a Bankruptcy Case or Proceeding. An appeal to a court of appeals from a final judgment, order, or decree of a district court exercising original jurisdiction in a bankruptcy case or proceeding under 28 U.S.C. §1334 is taken as any other civil appeal under these rules. But the reference in Rule 4(a)(4)(A) to the time allowed for motions under certain Federal Rules of Civil Procedure must be read as a reference to the time allowed for the equivalent motions under the applicable Federal Rules of Bankruptcy Procedure, which may be shorter than the time allowed under the Civil Rules.
 
-(b) Appeal From a Judgment, Order, or Decree of a District Court or Bankruptcy Appellate Panel Exercising Appellate Jurisdiction in a Bankruptcy Case.
+(b) Appeal From a Judgment, Order, or Decree of a District Court or Bankruptcy Appellate Panel Exercising Appellate Jurisdiction in a Bankruptcy Case or Proceeding.
 
-(1) *Applicability of Other Rules.* These rules apply to an appeal to a court of appeals under 28 U.S.C. §158(d)(1) from a final judgment, order, or decree of a district court or bankruptcy appellate panel exercising appellate jurisdiction under 28 U.S.C. §158(a) or (b), but with these qualifications:
+(1) *Applicability of Other Rules.* These rules apply to an appeal to a court of appeals under 28 U.S.C. §158(d)(1) from a final judgment, order, or decree of a district court or bankruptcy appellate panel exercising appellate jurisdiction in a bankruptcy case or proceeding under 28 U.S.C. §158(a) or (b), but with these qualifications:
 
 (A) Rules 4(a)(4), 4(b), 9, 10, 11, 12(c), 13–20, 22–23, and 24(b) do not apply;
 
 (B) the reference in Rule 3(c) to "Forms 1A and 1B in the Appendix of Forms" must be read as a reference to Form 5;
 
-(C) when the appeal is from a bankruptcy appellate panel, "district court," as used inany applicable rule, means "appellate panel"; and
+(C) when the appeal is from a bankruptcy appellate panel, "district court," as used in any applicable rule, means "bankruptcy appellate panel"; and
 
 (D) in Rule 12.1, "district court" includes a bankruptcy court or bankruptcy appellate panel.
 
@@ -1114,7 +1116,7 @@ The Federal Courts Improvement Act of 1996, Pub. L. No. 104–317, abolished app
 
 (i) If a timely motion for rehearing under Bankruptcy Rule 8022 is filed, the time to appeal for all parties runs from the entry of the order disposing of the motion. A notice of appeal filed after the district court or bankruptcy appellate panel announces or enters a judgment, order, or decree—but before disposition of the motion for rehearing—becomes effective when the order disposing of the motion for rehearing is entered.
 
-(ii) If a party intends to challenge the order disposing of the motion—or the alteration or amendment of a judgment, order, or decree upon the motion—then the party, in compliance with Rules 3(c) and 6(b)(1)(B), must file a notice of appeal or amended notice of appeal. The notice or amended notice must be filed within the time prescribed by Rule 4—excluding Rules 4(a)(4) and 4(b)—measured from the entry of the order disposing of the motion.
+(ii) If a party intends to challenge the order disposing of the motion—or the alteration or amendment of a judgment, order, or decree upon the motion—then the party, in accordance with Rules 3(c) and 6(b)(1)(B), must file a notice of appeal or amended notice of appeal. The notice or amended notice must be filed within the time prescribed by Rule 4—excluding Rules 4(a)(4) and 4(b)—measured from the entry of the order disposing of the motion.
 
 (iii) No additional fee is required to file an amended notice.
 
@@ -1140,39 +1142,69 @@ The Federal Courts Improvement Act of 1996, Pub. L. No. 104–317, abolished app
 
 (i) When the record is complete, the district clerk or bankruptcy-appellate-panel clerk must number the documents constituting the record and promptly make it available to the circuit clerk. If the clerk makes the record available in paper form, the clerk will not send documents of unusual bulk or weight, physical exhibits other than documents, or other parts of the record designated for omission by local rule of the court of appeals, unless directed to do so by a party or the circuit clerk. If unusually bulky or heavy exhibits are to be made available in paper form, a party must arrange with the clerks in advance for their transportation and receipt.
 
-(ii) All parties must do whatever else is necessary to enable the clerk to assemble the record and make it available. When the record is made available in paper form, the court of appeals may provide by rule or order that a certified copy of the docket entries be made available in place of the redesignated record. But any party may request at any time during the pendency of the appeal that the redesignated record be made available.
+(ii) All parties must do whatever else is necessary to enable the clerk to assemble the record and make it available. When the record is made available in paper form, the court of appeals may provide by rule or order that a certified copy of the docket entries be made available in place of the redesignated record. But at any time during the appeal's pendency, any party may request that the redesignated record be made available.
 
   
 
-(D) *Filing the Record.* When the district clerk or bankruptcy-appellate-panel clerk has made the record available, the circuit clerk must note that fact on the docket. The date noted on the docket serves as the filing date of the record. The circuit clerk must immediately notify all parties of the filing date.
+(D) *Filing the Record.* When the district clerk or bankruptcy-appellate-panel clerk has made the record available, the circuit clerk must note that fact on the docket. The date as noted serves as the filing date of the record. The circuit clerk must immediately notify all parties of that date.
 
   
 
-(c) Direct Review by Permission Under 28 U.S.C. §158(d)(2).
+(c) Direct Appeal from a Judgment, Order, or Decree of a Bankruptcy Court by Authorization Under 28 U.S.C. §158(d)(2).
 
-(1) *Applicability of Other Rules.* These rules apply to a direct appeal by permission under 28 U.S.C. §158(d)(2), but with these qualifications:
+(1) *Applicability of Other Rules.* These rules apply to a direct appeal from a judgment, order, or decree of a bankruptcy court by authorization under 28 U.S.C. §158(d)(2), but with these qualifications:
 
-(A) Rules 3–4, 5(a)(3), 6(a), 6(b), 8(a), 8(c), 9–12, 13–20, 22–23, and 24(b) do not apply;
+(A) Rules 3–4, 5 (except as provided in this Rule 6(c)), 6(a), 6(b), 8(a), 8(c), 9–12, 13–20, 22–23, and 24(b) do not apply; and
 
-(B) as used in any applicable rule, "district court" or "district clerk" includes—to the extent appropriate—a bankruptcy court or bankruptcy appellate panel or its clerk; and
-
-(C) the reference to "Rules 11 and 12(c)" in Rule 5(d)(3) must be read as a reference to Rules 6(c)(2)(B) and (C).
+(B) as used in any applicable rule, "district court" or "district clerk" includes—to the extent appropriate—a bankruptcy court or bankruptcy appellate panel or its clerk.
 
   
 
-(2) *Additional Rules.* In addition, the following rules apply:
+(2) *Additional Rules.* In addition to the rules made applicable by Rule 6(c)(1), the following rules apply:
 
-(A) *The Record on Appeal.* Bankruptcy Rule 8009 governs the record on appeal.
+(A) *Petition to Authorize a Direct Appeal.* Within 30 days after a certification of a bankruptcy court's order for direct appeal to the court of appeals under 28 U.S.C. §158(d)(2) becomes effective under Bankruptcy Rule 8006(a), any party to the appeal may ask the court of appeals to authorize a direct appeal by filing a petition with the circuit clerk under Bankruptcy Rule 8006(g).
 
-(B) *Making the Record Available.* Bankruptcy Rule 8010 governs completing the record and making it available.
+(B) *Contents of the Petition.* The petition must include the material required by Rule 5(b)(1) and an attached copy of:
 
-(C) *Stays Pending Appeal.* Bankruptcy Rule 8007 applies to stays pending appeal.
+(i) the certification; and
 
-(D) *Duties of the Circuit Clerk.* When the bankruptcy clerk has made the record available, the circuit clerk must note that fact on the docket. The date noted on the docket serves as the filing date of the record. The circuit clerk must immediately notify all parties of the filing date.
+(ii) the notice of appeal of the bankruptcy court's judgment, order, or decree filed under Bankruptcy Rule 8003 or 8004.
 
-(E) *Filing a Representation Statement.* Unless the court of appeals designates another time, within 14 days after entry of the order granting permission to appeal, the attorney who sought permission must file a statement with the circuit clerk naming the parties that the attorney represents on appeal.
+  
 
-(As amended Apr. 30, 1979, eff. Aug. 1, 1979; Apr. 25, 1989, eff. Dec. 1, 1989; Apr. 30, 1991, eff. Dec. 1, 1991; Apr. 22, 1993, eff. Dec. 1, 1993; Apr. 24, 1998, eff. Dec. 1, 1998; Mar. 26, 2009, eff. Dec. 1, 2009; Apr. 25, 2014, eff. Dec. 1, 2014; Apr. 14, 2021, eff. Dec. 1, 2021.)
+(C) *Answer or Cross-Petition; Oral Argument.* Rule 5(b)(2) governs an answer or cross-petition. Rule 5(b)(3) governs oral argument.
+
+(D) *Form of Papers; Number of Copies; Length Limits.* Rule 5(c) governs the required form, number of copies to be filed, and length limits applicable to the petition and any answer or cross-petition.
+
+(E) *Notice of Appeal; Calculating Time.* A notice of appeal to the court of appeals need not be filed. The date when the order authorizing the direct appeal is entered serves as the date of the notice of appeal for calculating time under these rules.
+
+(F) *Notification of the Order Authorizing Direct Appeal; Fees; Docketing the Appeal.*
+
+(i) When the court of appeals enters the order authorizing the direct appeal, the circuit clerk must notify the bankruptcy clerk and the district court clerk or bankruptcy-appellate-panel clerk of the entry.
+
+(ii) Within 14 days after the order authorizing the direct appeal is entered, the appellant must pay the bankruptcy clerk any unpaid required fee, including:
+
+• the fee required for the appeal to the district court or bankruptcy appellate panel; and
+
+• the difference between the fee for an appeal to the district court or bankruptcy appellate panel and the fee required for an appeal to the court of appeals.
+
+  
+
+(iii) The bankruptcy clerk must notify the circuit clerk once the appellant has paid all required fees. Upon receiving the notice, the circuit clerk must enter the direct appeal on the docket.
+
+  
+
+(G) *Stay Pending Appeal.* Bankruptcy Rule 8007 governs any stay pending appeal.
+
+(H) *The Record on Appeal.* Bankruptcy Rule 8009 governs the record on appeal. If a party has already filed a document or completed a step required to assemble the record for the appeal to the district court or bankruptcy appellate panel, the party need not repeat that filing or step.
+
+(I) *Making the Record Available.* Bankruptcy Rule 8010 governs completing the record and making it available. When the court of appeals enters the order authorizing the direct appeal, the bankruptcy clerk must make the record available to the circuit clerk.
+
+(J) *Duties of the Circuit Clerk.* When the bankruptcy clerk has made the record available, the circuit clerk must note that fact on the docket. The date as noted serves as the filing date of the record. The circuit clerk must immediately notify all parties of that date.
+
+(K) *Filing a Representation Statement.* Unless the court of appeals designates another time, within 14 days after the order authorizing the direct appeal is entered, the attorney for each party to the appeal must file a statement with the circuit clerk naming the parties that the attorney represents on appeal.
+
+(As amended Apr. 30, 1979, eff. Aug. 1, 1979; Apr. 25, 1989, eff. Dec. 1, 1989; Apr. 30, 1991, eff. Dec. 1, 1991; Apr. 22, 1993, eff. Dec. 1, 1993; Apr. 24, 1998, eff. Dec. 1, 1998; Mar. 26, 2009, eff. Dec. 1, 2009; Apr. 25, 2014, eff. Dec. 1, 2014; Apr. 14, 2021, eff. Dec. 1, 2021; Apr. 23, 2025, eff. Dec. 1, 2025.)
 
 #### Notes of Advisory Committee on Rules—1967
 
@@ -1240,9 +1272,88 @@ Subdivision (c)(2)(E) is modeled on Rule 12(b), with appropriate adjustments.
 
 The amendment replaces Form 1 with Forms 1A and 1B to conform to the amendment to Rule 3(c).
 
+#### Committee Notes on Rules—2025 Amendment
+
+*Subdivision (a).* Minor stylistic and clarifying changes are made to subdivision (a). In addition, subdivision (a) is amended to clarify that, when a district court is exercising original jurisdiction in a bankruptcy case or proceeding under 28 U.S.C. §1334, the time in which to file post-judgment motions that can reset the time to appeal under Rule 4(a)(4)(A) is controlled by the Federal Rules of Bankruptcy Procedure, rather than the Federal Rules of Civil Procedure.
+
+The Bankruptcy Rules partially incorporate the relevant Civil Rules but\[,\] in some instances\[,\] shorten the deadlines for motions set out in the Civil Rules. *See* Fed. R. Bankr. P. 9015(c) (any renewed motion for judgment under Civil Rule 50(b) must be filed within 14 days of entry of judgment); Fed. R. Bankr. P. 7052 (any motion to amend or make additional findings under Civil Rule 52(b) must be filed within 14 days of entry of judgment); Fed. R. Bankr. P. 9023 (any motion to alter or amend the judgment or for a new trial under Civil Rule 59 must be filed within 14 days of entry of judgment).
+
+Motions for attorney's fees in bankruptcy cases or proceedings are governed by Bankruptcy Rule 7054(b)(2)(A), which incorporates without change the 14-day deadline set in Civil Rule 54(d)(2)(B). Under Appellate Rule 4(a)(4)(A)(iii), such a motion resets the time to appeal only if the district court so orders pursuant to Civil Rule 58(e), which is made applicable to bankruptcy cases and proceedings by Bankruptcy Rule 7058.
+
+Motions for relief under Civil Rule 60 in bankruptcy cases or proceedings are governed by Bankruptcy Rule 9024. Appellate Rule 4(a)(4)(A)(vi) provides that a motion for relief under Civil Rule 60 resets the time to appeal only if the motion is made within the time allowed for filing a motion under Civil Rule 59. In a bankruptcy case or proceeding, motions under Civil Rule 59 are governed by Bankruptcy Rule 9023, which, as noted above, requires such motions to be filed within 14 days of entry of judgment.
+
+ 
+| **Civil Rule** | **Bankruptcy  Rule** | **Time Under  Bankruptcy Rule** |
+| -------------- | -------------------- | ------------------------------- |
+| 50(b)          | 9015(c)              | 14 days                         |
+| 52(b)          | 7052                 | 14 days                         |
+| 59             | 9023                 | 14 days                         |
+| 54(d)(2)(B)    | 7054(b)(2)(A)        | 14 days                         |
+| 60             | 9024                 | 14 days                         |
+
+Of course, the Bankruptcy Rules may be amended in the future. If that happens, the time allowed for the equivalent motions under the applicable Bankruptcy Rule may change.
+
+*Subdivision (b).* Minor stylistic and clarifying changes are made to the header of subdivision (b) and to subdivision (b)(1). Subdivision (b)(1)(C) is amended to correct the omission of the word "bankruptcy" from the phrase "bankruptcy appellate panel." Stylistic changes are made to subdivision (b)(2).
+
+*Subdivision (c).* Subdivision (c) was added to Rule 6 in 2014 to set out procedures governing discretionary direct appeals from orders, judgments, or decrees of the bankruptcy court to the court of appeals under 28 U.S.C. §158(d)(2).
+
+Typically, an appeal from an order, judgment, or decree of a bankruptcy court may be taken either to the district court for the relevant district or, in circuits that have established bankruptcy appellate panels, to the bankruptcy appellate panel for that circuit. 28 U.S.C. §158(a). Final orders of the district court or bankruptcy appellate panel resolving appeals under §158(a) are then appealable as of right to the court of appeals under §158(d)(1).
+
+That two-step appeals process can be redundant and time-consuming and could in some circumstances potentially jeopardize the value of a bankruptcy estate by impeding quick resolution of disputes over disposition of estate assets. In the Bankruptcy Abuse Prevention and Consumer Protection Act of 2005, Congress enacted 28 U.S.C. §158(d)(2) to provide that, in certain circumstances, appeals may be taken directly from orders of the bankruptcy court to the courts of appeals, bypassing the intervening appeal to the district court or bankruptcy appellate panel.
+
+Specifically, §158(d)(2) grants the court of appeals jurisdiction of appeals from any order, judgment, or decree of the bankruptcy court if (a) the bankruptcy court, the district court, the bankruptcy appellate panel, or all parties to the appeal certify that (1) "the judgment, order, or decree involves a question of law as to which there is no controlling decision of the court of appeals for the circuit or of the Supreme Court of the United States, or involves a matter of public importance"; (2) "the judgment, order, or decree involves a question of law requiring resolution of conflicting decisions"; or (3) "an immediate appeal from the judgment, order, or decree may materially advance the progress of the case or proceeding in which the appeal is taken" *and* (b) "the court of appeals authorizes the direct appeal of the judgment, order, or decree." 28 U.S.C. §158(d)(2).
+
+Bankruptcy Rule 8006 governs the procedures for certification of a bankruptcy court order for direct appeal to the court of appeals. Among other things, Rule 8006 provides that, to become effective, the certification must be filed in the appropriate court, the appellant must file a notice of appeal of the bankruptcy court order to the district court or bankruptcy appellate panel, and the notice of appeal must become effective. Fed. R. Bankr. P. 8006(a). Once the certification becomes effective under Rule 8006(a), a petition seeking authorization of the direct appeal must be filed with the court of appeals within 30 days. *Id*. 8006(g).
+
+Rule 6(c) governs the procedures applicable to a petition for authorization of a direct appeal and, if the court of appeals grants the petition, the initial procedural steps required to prosecute the direct appeal in the court of appeals.
+
+As promulgated in 2014, Rule 6(c) incorporated by reference most of Rule 5, which governs petitions for permission to appeal to the court of appeals from otherwise non-appealable district court orders. It has become evident over time, however, that Rule 5 is not a perfect fit for direct appeals of bankruptcy court orders to the courts of appeals. The primary difference is that Rule 5 governs discretionary appeals from district court orders that are otherwise non-appealable, and an order granting a petition for permission to appeal under Rule 5 thus initiates an appeal that otherwise would not occur. By contrast, an order granting a petition to authorize a direct appeal under Rule 6(c) means that an appeal that has already been filed and is pending in the district court or bankruptcy appellate panel will instead be heard in the court of appeals. As a result, it is not always clear precisely how to apply the provisions of Rule 5 to a Rule 6(c) direct appeal.
+
+The new amendments to Rule 6(c) are intended to address that problem by making Rule 6(c) self-contained. Thus, Rule 6(c)(1) is amended to provide that Rule 5 is not applicable to Rule 6(c) direct appeals except as specified in Rule 6(c) itself. Rule 6(c)(2) is also amended to include the substance of applicable provisions of Rule 5, modified to apply more clearly to Rule 6(c) direct appeals. In addition, stylistic and clarifying amendments are made to conform to other provisions of the Appellate Rules and Bankruptcy Rules and to ensure that all the procedures governing direct appeals of bankruptcy court orders are as clear as possible to both courts and practitioners.
+
+*Subdivision (c)—Title.* The title of subdivision (c) is amended to change "Direct Review" to "Direct Appeal" and "Permission" to "Authorization," to be consistent with the language of 28 U.S.C. §158(d)(2). In addition, the language "from a Judgment, Order, or Decree of a Bankruptcy Court" is added for clarity and to be consistent with other subdivisions of Rule 6.
+
+*Subdivision (c)(1).* The language of the first sentence is amended to be consistent with the title of subdivision (c). In addition, the list of rules in subdivision (c)(1)(A) that are inapplicable to direct appeals is modified to include Rule 5, except as provided in subdivision (c) itself. Subdivision (c)(1)(C), which modified certain language in Rule 5 in the context of direct appeals, is therefore deleted. As set out in more detail below, the provisions of Rule 5 that are applicable to direct appeals have been added, with appropriate modifications to take account of the direct appeal context, as new provisions in subdivision (c)(2).
+
+*Subdivision (c)(2).* The language "to the rules made applicable by \[Rule 6\](c)(1)" is added to the first sentence for consistency with other subdivisions of Rule 6.
+
+*Subdivision (c)(2)(A).* Subdivision (c)(2)(A) is a new provision that sets out the basic procedure and timeline for filing a petition to authorize a direct appeal in the court of appeals. It is intended to be substantively identical to Bankruptcy Rule 8006(g), with minor stylistic changes made in light of the context of the Appellate Rules.
+
+*Subdivision (c)(2)(B).* Subdivision (c)(2)(B) is a new provision that specifies the contents of a petition to authorize a direct appeal. It provides that, in addition to the material required by Rule 5, the petition must include an attached copy of the certification under §158(d)(2) and a copy of the notice of appeal to the district court or bankruptcy appellate panel.
+
+*Subdivision (c)(2)(C).* Subdivision (c)(2)(C) is a new provision. For clarity, it specifies that answers or cross-petitions are governed by Rule 5(b)(2) and oral argument is governed by Rule 5(b)(3).
+
+*Subdivision (c)(2)(D).* Subdivision (c)(2)(D) is a new provision. For clarity, it specifies that the required form, number of copies to be filed, and length limits applicable to the petition and any answer or cross-petition are governed by Rule 5(c).
+
+*Subdivision (c)(2)(E).* Subdivision (c)(2)(E) is a new provision that incorporates the substance of Rule 5(d)(2), modified to take into account that the appellant will already have filed a notice of appeal to the district court or bankruptcy appellate panel. It makes clear that a second notice of appeal to the court of appeals need not be filed, and that the date of entry of the order authorizing the direct appeal serves as the date of the notice of appeal for the purpose of calculating time under the Appellate Rules.
+
+*Subdivision (c)(2)(F).* Subdivision (c)(2)(F) is a new provision. It largely incorporates the substance of Rules 5(d)(1)(A) and 5(d)(3), with some modifications.
+
+Subdivision (c)(2)(F)(i) now requires that when the court of appeals enters an order authorizing a direct appeal, the circuit clerk must notify the bankruptcy clerk and the clerk of the district court or the clerk of the bankruptcy appellate panel of the order.
+
+Subdivision (c)(2)(F)(ii) requires that, within 14 days of entry of the order authorizing the direct appeal, the appellant must pay the bankruptcy clerk any required filing or docketing fees that have not yet been paid. Thus, if the appellant has not yet paid the required fee for the initial appeal to the district court or bankruptcy appellate panel, the appellant must do so. In addition, the appellant must pay the bankruptcy clerk the difference between the fee for the appeal to the district court or bankruptcy appellate panel and the fee for an appeal to the court of appeals, so that the appellant has paid the full fee required for an appeal to the court of appeals.
+
+Subdivision (c)(2)(F)(iii) then requires the bankruptcy clerk to notify the circuit clerk that all fees have been paid, which triggers the circuit clerk's duty to docket the direct appeal.
+
+*Subdivision (c)(2)(G).* Subdivision (c)(2)(G) was formerly subdivision (c)(2)(C). It is substantively unchanged, continuing to provide that Bankruptcy Rule 8007 governs stays pending appeal, but reflects minor stylistic revisions.
+
+*Subdivision (c)(2)(H).* Subdivision (c)(2)(H) was formerly subdivision (c)(2)(A). It continues to provide that Bankruptcy Rule 8009 governs the record on appeal, but adds a sentence clarifying that steps taken to assemble the record under Bankruptcy Rule 8009 before the court of appeals authorizes the direct appeal need not be repeated after the direct appeal is authorized.
+
+*Subdivision (c)(2)(I).* Subdivision (c)(2)(I) was formerly subdivision (c)(2)(B). It continues to provide that Bankruptcy Rule 8010 governs provision of the record to the court of appeals. It adds a sentence clarifying that when the court of appeals authorizes the direct appeal, the bankruptcy clerk must make the record available to the court of appeals.
+
+*Subdivision (c)(2)(J).* Subdivision (c)(2)(J) was formerly subdivision (c)(2)(D). It is unchanged other than a stylistic change and being renumbered.
+
+*Subdivision (c)(2)(K).* Subdivision (c)(2)(K) was formerly subdivision (c)(2)(E). Because any party may file a petition to authorize a direct appeal, it is modified to provide that the attorney for each party—rather than only the attorney for the party filing the petition—must file a representation statement. In addition, the phrase "granting permission to appeal" is changed to "authorizing the direct appeal" to conform to the language used throughout the rest of subdivision (c), and a stylistic change is made.
+
 #### References in Text
 
-The Bankruptcy Rules, referred to in subds. (b)(2)(A)(i), (B)(i), and (c)(2)(A)–(C), are set out in the Appendix to Title 11, Bankruptcy.
+The Federal Rules of Civil Procedure, referred to in subd. (a), are set out in this Appendix.
+
+The Federal Rules of Bankruptcy Procedure, referred to in subd. (a), are set out in the Appendix to Title 11, Bankruptcy.
+
+The Civil Rules, referred to in subd. (a), probably means the Federal Rules of Civil Procedure, which are set out in this Appendix.
+
+The Bankruptcy Rules, referred to in subds. (b)(2)(A)(i), (B)(i), and (c)(2)(A), (B)(ii), (G) to (I), probably means the Federal Rules of Bankruptcy Procedure, which are set out in the Appendix to Title 11, Bankruptcy.
 
 ### Rule 7. Bond for Costs on Appeal in a Civil Case
 
@@ -1358,15 +1469,15 @@ The Federal Rules of Criminal Procedure, referred to in subd. (c), are set out i
 
 #### Notes of Advisory Committee on Rules—1967
 
-*Subdivision (a)*. The appealability of release orders entered prior to a judgment of conviction is determined by the provisions of 18 U.S.C. §3147, as qualified by 18 U.S.C. §3148, and by the rule announced in *Stack v. Boyle*, 342 U.S. 1, 72 S.Ct. 1, 96 L.Ed. 3 (1951), holding certain orders respecting release appealable as final orders under 28 U.S.C. §1291. The language of the rule, "(an)n appeal authorized by law from an order refusing or imposing conditions of release," is intentionally broader than that used in 18 U.S.C. §3147 in describing orders made appealable by that section. The summary procedure ordained by the rule is intended to apply to all appeals from orders respecting release, and it would appear that at least some orders not made appealable by 18 U.S.C. §3147 are nevertheless appealable under the *Stack v. Boyle* rationale. See, for example, *United States v. Foster*, 278 F.2d 567 (2d Cir., 1960), holding appealable an order refusing to extend bail limits. Note also the provisions of 18 U.S.C. §3148, which after withdrawing from persons charged with an offense punishable by death and from those who have been convicted of an offense the right of appeal granted by 18 U.S.C. §3147, expressly preserves "other rights to judicial review of conditions of release or orders of detention."
+*Subdivision (a)*. The appealability of release orders entered prior to a judgment of conviction is determined by the provisions of 18 U.S.C. §3147 \[(Supp. II 1966)\], as qualified by 18 U.S.C. §3148 \[(Supp. II 1966)\], and by the rule announced in *Stack v. Boyle*, 342 U.S. 1, 72 S.Ct. 1, 96 L.Ed. 3 (1951), holding certain orders respecting release appealable as final orders under 28 U.S.C. §1291. The language of the rule, "(an)n appeal authorized by law from an order refusing or imposing conditions of release," is intentionally broader than that used in 18 U.S.C. §3147 \[(Supp. II 1966)\] in describing orders made appealable by that section. The summary procedure ordained by the rule is intended to apply to all appeals from orders respecting release, and it would appear that at least some orders not made appealable by 18 U.S.C. §3147 \[(Supp. II 1966)\] are nevertheless appealable under the *Stack v. Boyle* rationale. See, for example, *United States v. Foster*, 278 F.2d 567 (2d Cir., 1960), holding appealable an order refusing to extend bail limits. Note also the provisions of 18 U.S.C. §3148 \[(Supp. II 1966)\], which after withdrawing from persons charged with an offense punishable by death and from those who have been convicted of an offense the right of appeal granted by 18 U.S.C. §3147 \[(Supp. II 1966)\], expressly preserves "other rights to judicial review of conditions of release or orders of detention."
 
-The purpose of the subdivision is to insure the expeditious determination of appeals respecting release orders, an expedition commanded by 18 U.S.C. §3147 and by the Court in *Stack v. Boyle*, supra. It permits such appeals to be heard on an informal record without the necessity of briefs and on reasonable notice. Equally important to the just and speedy disposition of these appeals is the requirement that the district court state the reasons for its decision. See *Jones v. United States*, 358 F.2d 543 (D.C. Cir., 1966); *Rhodes v. United States*, 275 F.2d 78 (4th Cir., 1960); *United States v. Williams*, 253 F.2d 144 (7th Cir., 1958).
+The purpose of the subdivision is to insure the expeditious determination of appeals respecting release orders, an expedition commanded by 18 U.S.C. §3147 \[(Supp. II 1966)\] and by the Court in *Stack v. Boyle*, supra. It permits such appeals to be heard on an informal record without the necessity of briefs and on reasonable notice. Equally important to the just and speedy disposition of these appeals is the requirement that the district court state the reasons for its decision. See *Jones v. United States*, 358 F.2d 543 (D.C. Cir., 1966); *Rhodes v. United States*, 275 F.2d 78 (4th Cir., 1960); *United States v. Williams*, 253 F.2d 144 (7th Cir., 1958).
 
-*Subdivision (b)*. This subdivision regulates procedure for review of an order respecting release at a time when the jurisdiction of the court of appeals has already attached by virtue of an appeal from the judgment of conviction. Notwithstanding the fact that jurisdiction has passed to the court of appeals, both 18 U.S.C. §3148 and FRCrP 38(c) contemplate that the initial determination of whether a convicted defendant is to be released pending the appeal is to be made by the district court. But at this point there is obviously no need for a separate appeal from the order of the district court respecting release. The court of appeals or a judge thereof has power to effect release on motion as an incident to the pending appeal. See FRCrP 38(c) and 46(a)(2). But the motion is functionally identical with the appeal regulated by subdivision (a) and requires the same speedy determination if relief is to be effective. Hence the similarity of the procedure outlined in the two subdivisions.
+*Subdivision (b)*. This subdivision regulates procedure for review of an order respecting release at a time when the jurisdiction of the court of appeals has already attached by virtue of an appeal from the judgment of conviction. Notwithstanding the fact that jurisdiction has passed to the court of appeals, both 18 U.S.C. §3148 \[(Supp. II 1966)\] and \[former\] FRCrP 38(c) contemplate that the initial determination of whether a convicted defendant is to be released pending the appeal is to be made by the district court. But at this point there is obviously no need for a separate appeal from the order of the district court respecting release. The court of appeals or a judge thereof has power to effect release on motion as an incident to the pending appeal. See \[former\] FRCrP 38(c) and 46(a)(2). But the motion is functionally identical with the appeal regulated by subdivision (a) and requires the same speedy determination if relief is to be effective. Hence the similarity of the procedure outlined in the two subdivisions.
 
 #### Notes of Advisory Committee on Rules—1972 Amendment
 
-Subdivision (c) is intended to bring the rule into conformity with 18 U.S.C. §3148 and to allocate to the defendant the burden of establishing that he will not flee and that he poses no danger to any other person or to the community. The burden is placed upon the defendant in the view that the fact of his conviction justifies retention in custody in situations where doubt exists as to whether he can be safely released pending disposition of his appeal. Release pending appeal may also be denied if "it appears that an appeal is frivolous or taken for delay." 18 U.S.C. §3148. The burden of establishing the existence of these criteria remains with the government.
+Subdivision (c) is intended to bring the rule into conformity with 18 U.S.C. §3148 \[(1970)\] and to allocate to the defendant the burden of establishing that he will not flee and that he poses no danger to any other person or to the community. The burden is placed upon the defendant in the view that the fact of his conviction justifies retention in custody in situations where doubt exists as to whether he can be safely released pending disposition of his appeal. Release pending appeal may also be denied if "it appears that an appeal is frivolous or taken for delay." 18 U.S.C. §3148 \[(1970)\]. The burden of establishing the existence of these criteria remains with the government.
 
 #### Notes of Advisory Committee on Rules—1994 Amendment
 
@@ -1696,7 +1807,7 @@ The Appellate Rules Committee also made stylistic changes to the Note's first an
 
 #### Notes of Advisory Committee on Rules—1967
 
-*Subdivision (a)*. This subdivision effects two changes in practice respecting review of Tax Court decisions: (1) Section 7483 of the Internal Revenue Code, 68A Stat. 891, 26 U.S.C. §7483, provides that review of a Tax Court decision may be obtained by filing a petition for review. The subdivision provides for review by the filing of the simple and familiar notice of appeal used to obtain review of district court judgments; (2) Section 7483, *supra*, requires that a petition for review be filed within 3 months after a decision is rendered, and provides that if a petition is so filed by one party, any other party may file a petition for review within 4 months after the decision is rendered. In the interest of fixing the time for review with precision, the proposed rule substitutes "90 days" and "120 days" for the statutory "3 months" and "4 months", respectively. The power of the Court to regulate these details of practice is clear. Title 28 U.S.C. §2072, as amended by the Act of November 6, 1966, 80 Stat. 1323 (1 U.S. Code Cong. & Ad. News, p. 1546 (1966)), authorizes the Court to regulate ". . . practice and procedure in proceedings for the review by the courts of appeals of decisions of the Tax Court of the United States. . . ."
+*Subdivision (a)*. This subdivision effects two changes in practice respecting review of Tax Court decisions: (1) Section 7483 of the Internal Revenue Code, 68A Stat. 891, 26 U.S.C. §7483, provides that review of a Tax Court decision may be obtained by filing a petition for review. The subdivision provides for review by the filing of the simple and familiar notice of appeal used to obtain review of district court judgments; (2) Section 7483, *supra*, requires that a petition for review be filed within 3 months after a decision is rendered, and provides that if a petition is so filed by one party, any other party may file a petition for review within 4 months after the decision is rendered. In the interest of fixing the time for review with precision, the proposed rule substitutes "90 days" and "120 days" for the statutory "3 months" and "4 months", respectively. The power of the Court to regulate these details of practice is clear. Title 28 U.S.C. §2072 \[(Supp. II 1966)\], as amended by the Act of November 6, 1966, 80 Stat. 1323 (1 U.S. Code Cong. & Ad. News, p. 1546 (1966)), authorizes the Court to regulate ". . . practice and procedure in proceedings for the review by the courts of appeals of decisions of the Tax Court of the United States. . . ."
 
 The second paragraph states the settled teaching of the case law. See *Robert Louis Stevenson Apartments, Inc. v. C.I.R*., 337 F.2d 681, 10 A.L.R.3d 112 (8th Cir., 1964); *Denholm & McKay Co. v. C.I.R*., 132 F.2d 243 (1st Cir., 1942); *Helvering v. Continental Oil Co*., 63 App.D.C. 5, 68 F.2d 750 (1934); *Burnet v. Lexington Ice & Coal Co*., 62 F.2d 906 (4th Cir., 1933); *Griffiths v. C.I.R*., 50 F.2d 782 (7th Cir., 1931).
 
@@ -1800,7 +1911,7 @@ Rule 13 currently addresses appeals as of right from the Tax Court, and Rule 14 
 
 #### Notes of Advisory Committee on Rules—1967
 
-*General Note*. The power of the Supreme Court to prescribe rules of practice and procedure for the judicial review or enforcement of orders of administrative agencies, boards, commissions, and officers is conferred by 28 U.S.C. §2072, as amended by the Act of November 6, 1966, §1, 80 Stat. 1323 (1 U.S. Code Cong. & Ad. News, p. 1546 (1966)). Section 11 of the Hobbs Administrative Orders Review Act of 1950, 64 Stat. 1132, reenacted as 28 U.S.C. §2352 (28 U.S.C.A. §2352 (Suppl. 1966)), repealed by the Act of November 6, 1966, §4, *supra*, directed the courts of appeals to adopt and promulgate, subject to approval by the Judicial Conference rules governing practice and procedure in proceedings to review the orders of boards, commissions and officers whose orders were made reviewable in the courts of appeals by the Act. Thereafter, the Judicial Conference approved a uniform rule, and that rule, with minor variations, is now in effect in all circuits. Third Circuit Rule 18 is a typical circuit rule, and for convenience it is referred to as the uniform rule in the notes which accompany rules under this Title.
+*General Note*. The power of the Supreme Court to prescribe rules of practice and procedure for the judicial review or enforcement of orders of administrative agencies, boards, commissions, and officers is conferred by 28 U.S.C. \[former\] §2072, as amended by the Act of November 6, 1966, §1, 80 Stat. 1323 (1 U.S. Code Cong. & Ad. News, p. 1546 (1966)). Section 11 of the Hobbs Administrative Orders Review Act of 1950, 64 Stat. 1132, reenacted as 28 U.S.C. §2352 (28 U.S.C.A. §2352 (Suppl. 1966)), repealed by the Act of November 6, 1966, §4, *supra*, directed the courts of appeals to adopt and promulgate, subject to approval by the Judicial Conference rules governing practice and procedure in proceedings to review the orders of boards, commissions and officers whose orders were made reviewable in the courts of appeals by the Act. Thereafter, the Judicial Conference approved a uniform rule, and that rule, with minor variations, is now in effect in all circuits. Third Circuit Rule 18 is a typical circuit rule, and for convenience it is referred to as the uniform rule in the notes which accompany rules under this Title.
 
 *Subdivision (a)*. The uniform rule (see General Note above) requires that the petition for review contain "a concise statement, in barest outline, of the nature of the proceedings as to which relief is sought, the facts upon which venue is based, the grounds upon which relief is sought, and the relief prayed." That language is derived from Section 4 of the Hobbs Administrative Orders Review Act of 1950, 64 Stat. 1130, reenacted as 28 U.S.C. §2344 (28 U.S.C.A. §2344 (Suppl. 1966)). A few other statutes also prescribe the content of the petition, but the great majority are silent on the point. The proposed rule supersedes 28 U.S.C. §2344 and other statutory provisions prescribing the form of the petition for review and permits review to be initiated by the filing of a simple petition similar in form to the notice of appeal used in appeals from judgments of district courts. The more elaborate form of petition for review now required is rarely useful either to the litigants or to the courts. There is no effective, reasonable way of obliging petitioners to come to the real issues before those issues are formulated in the briefs. Other provisions of this subdivision are derived from sections 1 and 2 of the uniform rule.
 
@@ -1808,7 +1919,7 @@ Rule 13 currently addresses appeals as of right from the Tax Court, and Rule 14 
 
 *Subdivision (c)*. This subdivision is derived from section 1 of the uniform rule.
 
-*Subdivision (d)*. This subdivision is based upon section 6 of the uniform rule. Statutes occasionally permit intervention by the filing of a notice of intention to intervene. The uniform rule does not fix a time limit for intervention, and the only time limits fixed by statute are the 30–day periods found in the Communications Act Amendments, 1952, §402(e), 66 Stat. 719, 47 U.S.C. §402(e), and the Sugar Act of 1948, §205(d), 61 Stat. 927, 7 U.S.C. §1115(d).
+*Subdivision (d)*. This subdivision is based upon section 6 of the uniform rule. Statutes occasionally permit intervention by the filing of a notice of intention to intervene. The uniform rule does not fix a time limit for intervention, and the only time limits fixed by statute are the 30–day periods found in the Communications Act Amendments, 1952, §402(e), 66 Stat. 719, 47 U.S.C. §402(e), and the Sugar Act of 1948, §205(d), 61 Stat. 927, 7 U.S.C. \[former\] §1115(d).
 
 #### Notes of Advisory Committee on Rules—1993 Amendment
 
@@ -2214,7 +2325,7 @@ When Rule 23 was adopted it used the same language as Supreme Court Rule 49, whi
 
 #### Notes of Advisory Committee on Rules—1967
 
-*Subdivision (a)*. Authority to allow prosecution of an appeal in forma pauperis is vested in "\[a\]ny court of the United States" by 28 U.S.C. §1915(a). The second paragraph of section 1915(a) seems to contemplate initial application to the district court for permission to proceed in forma pauperis, and although the circuit rules are generally silent on the question, the case law requires initial application to the district court. *Hayes v. United States*, 258 F.2d 400 (5th Cir., 1958), *cert. den*. 358 U.S. 856, 79 S.Ct. 87, 3 L.Ed.2d 89 (1958); *Elkins v. United States*, 250 F.2d 145 (9th Cir., 1957) see 364 U.S. 206, 80 S.Ct. 1437, 4 L.Ed.2d 1669 (1960); *United States v. Farley*, 238 F.2d 575 (2d Cir., 1956) see 354 U.S. 521, 77 S.Ct. 1371, 1 L.Ed.2d 1529 (1957). D.C. Cir. Rule 41(a) requires initial application to the district court. The content of the affidavit follows the language of the statute; the requirement of a statement of the issues comprehends the statutory requirement of a statement of "the nature of the . . . appeal. . . ." The second sentence is in accord with the decision in *McGann v. United States*, 362 U.S. 309, 80 S.Ct. 725, 4 L.Ed.2d 734 (1960). The requirement contained in the third sentence has no counterpart in present circuit rules, but it has been imposed by decision in at least two circuits. *Ragan v. Cox*, 305 F.2d 58 (10th Cir., 1962); *United States ex rel. Breedlove v. Dowd*, 269 F.2d 693 (7th Cir., 1959).
+*Subdivision (a)*. Authority to allow prosecution of an appeal in forma pauperis is vested in "\[a\]ny court of the United States" by 28 U.S.C. §1915(a) \[(1964)\]. The second paragraph of section 1915(a) \[(1964)\] seems to contemplate initial application to the district court for permission to proceed in forma pauperis, and although the circuit rules are generally silent on the question, the case law requires initial application to the district court. *Hayes v. United States*, 258 F.2d 400 (5th Cir., 1958), *cert. den*. 358 U.S. 856, 79 S.Ct. 87, 3 L.Ed.2d 89 (1958); *Elkins v. United States*, 250 F.2d 145 (9th Cir., 1957) see 364 U.S. 206, 80 S.Ct. 1437, 4 L.Ed.2d 1669 (1960); *United States v. Farley*, 238 F.2d 575 (2d Cir., 1956) see 354 U.S. 521, 77 S.Ct. 1371, 1 L.Ed.2d 1529 (1957). D.C. Cir. Rule 41(a) requires initial application to the district court. The content of the affidavit follows the language of the statute; the requirement of a statement of the issues comprehends the statutory requirement of a statement of "the nature of the . . . appeal. . . ." The second sentence is in accord with the decision in *McGann v. United States*, 362 U.S. 309, 80 S.Ct. 725, 4 L.Ed.2d 734 (1960). The requirement contained in the third sentence has no counterpart in present circuit rules, but it has been imposed by decision in at least two circuits. *Ragan v. Cox*, 305 F.2d 58 (10th Cir., 1962); *United States ex rel. Breedlove v. Dowd*, 269 F.2d 693 (7th Cir., 1959).
 
 The second paragraph permits one whose indigency has been previously determined by the district court to proceed on appeal in forma pauperis without the necessity of a redetermination of indigency, while reserving to the district court its statutory authority to certify that the appeal is not taken in good faith, 28 U.S.C. §1915(a), and permitting an inquiry into whether the circumstances of the party who was originally entitled to proceed in forma pauperis have changed during the course of the litigation. Cf. Sixth Circuit Rule 26.
 
@@ -4026,33 +4137,49 @@ Only the caption of this rule has been amended. The changes are intended to be s
 
 ### Rule 39. Costs
 
-(a) Against Whom Assessed. The following rules apply unless the law provides or the court orders otherwise:
+(a) Allocating Costs Among the Parties. The following rules apply to allocating taxable costs among the parties unless the law provides, the parties agree, or the court orders otherwise:
 
-(1) if an appeal is dismissed, costs are taxed against the appellant, unless the parties agree otherwise;
+(1) if an appeal is dismissed, costs are allocated against the appellant;
 
-(2) if a judgment is affirmed, costs are taxed against the appellant;
+(2) if a judgment is affirmed, costs are allocated against the appellant;
 
-(3) if a judgment is reversed, costs are taxed against the appellee;
+(3) if a judgment is reversed, costs are allocated against the appellee;
 
-(4) if a judgment is affirmed in part, reversed in part, modified, or vacated, costs are taxed only as the court orders.
-
-  
-
-(b) Costs For and Against the United States. Costs for or against the United States, its agency, or officer will be assessed under Rule 39(a) only if authorized by law.
-
-(c) Costs of Copies. Each court of appeals must, by local rule, fix the maximum rate for taxing the cost of producing necessary copies of a brief or appendix, or copies of records authorized by Rule 30(f). The rate must not exceed that generally charged for such work in the area where the clerk's office is located and should encourage economical methods of copying.
-
-(d) Bill of Costs: Objections; Insertion in Mandate.
-
-(1) A party who wants costs taxed must—within 14 days after entry of judgment—file with the circuit clerk and serve an itemized and verified bill of costs.
-
-(2) Objections must be filed within 14 days after service of the bill of costs, unless the court extends the time.
-
-(3) The clerk must prepare and certify an itemized statement of costs for insertion in the mandate, but issuance of the mandate must not be delayed for taxing costs. If the mandate issues before costs are finally determined, the district clerk must—upon the circuit clerk's request—add the statement of costs, or any amendment of it, to the mandate.
+(4) if a judgment is affirmed in part, reversed in part, modified, or vacated, each party bears its own costs.
 
   
 
-(e) Costs on Appeal Taxable in the District Court. The following costs on appeal are taxable in the district court for the benefit of the party entitled to costs under this rule:
+(b) Reconsideration. Once the allocation of costs is established by the entry of judgment, a party may seek reconsideration of that allocation by filing a motion in the court of appeals within 14 days after the entry of judgment. But issuance of the mandate under Rule 41 must not be delayed awaiting a determination of the motion. The court of appeals retains jurisdiction to decide the motion after the mandate issues.
+
+(c) Costs Governed by Allocation Determination. The allocation of costs applies both to costs taxable in the court of appeals under Rule 39(e) and to costs taxable in district court under Rule 39(f).
+
+(d) Costs For and Against the United States. Costs for or against the United States, its agency, or officer will be allocated under Rule 39(a) only if authorized by law.
+
+(e) Costs on Appeal Taxable in the Court of Appeals.
+
+(1) *Costs Taxable.* The following costs on appeal are taxable in the court of appeals for the benefit of the party entitled to costs:
+
+(A) the production of necessary copies of a brief or appendix, or copies of records authorized by Rule 30(f);
+
+(B) the docketing fee; and
+
+(C) a filing fee paid in the court of appeals.
+
+  
+
+(2) *Costs of Copies.* Each court of appeals must, by local rule, set the maximum rate for taxing the cost of producing necessary copies of a brief or appendix, or copies of records authorized by Rule 30(f). The rate must not exceed that generally charged for such work in the area where the clerk's office is located and should encourage economical methods of copying.
+
+(3) *Bill of Costs: Objections; Insertion in Mandate.*
+
+(A) A party who wants costs taxed in the court of appeals must—within 14 days after judgment is entered—file with the circuit clerk and serve an itemized and verified bill of those costs.
+
+(B) Objections must be filed within 14 days after the bill of costs is served, unless the court extends the time.
+
+(C) The clerk must prepare and certify an itemized statement of costs for insertion in the mandate, but issuance of the mandate must not be delayed for taxing costs. If the mandate issues before costs are finally determined, the district clerk must—upon the circuit clerk's request—add the statement of costs, or any amendment of it, to the mandate.
+
+  
+
+(f) Costs on Appeal Taxable in the District Court. The following costs on appeal are taxable in the district court for the benefit of the party entitled to costs:
 
 (1) the preparation and transmission of the record;
 
@@ -4062,7 +4189,7 @@ Only the caption of this rule has been amended. The changes are intended to be s
 
 (4) the fee for filing the notice of appeal.
 
-(As amended Apr. 30, 1979, eff. Aug. 1, 1979; Mar. 10, 1986, eff. July 1, 1986; Apr. 24, 1998, eff. Dec. 1, 1998; Mar. 26, 2009, eff. Dec. 1, 2009; Apr. 26, 2018, eff. Dec. 1, 2018; Apr. 25, 2019, eff. Dec. 1, 2019.)
+(As amended Apr. 30, 1979, eff. Aug. 1, 1979; Mar. 10, 1986, eff. July 1, 1986; Apr. 24, 1998, eff. Dec. 1, 1998; Mar. 26, 2009, eff. Dec. 1, 2009; Apr. 26, 2018, eff. Dec. 1, 2018; Apr. 25, 2019, eff. Dec. 1, 2019; Apr. 23, 2025, eff. Dec. 1, 2025.)
 
 #### Notes on Advisory Committee on Rules—1967
 
@@ -4103,6 +4230,22 @@ The amendment of subdivision (e)(3) conforms this rule with the amendment of Fed
 #### Committee Notes on Rules—2019 Amendment
 
 In subdivision (d)(1) the words "with proof of service" are deleted and replaced with "and serve" to conform with amendments to Rule 25(d) regarding when proof of service or acknowledgement of service is required for filed papers.
+
+#### Committee Notes on Rules—2025 Amendment
+
+In *City of San Antonio v. Hotels.com*, 141 S. Ct. 1628 (2021), the Supreme Court held that Rule 39 does not permit a district court to alter a court of appeals' allocation of the costs listed in subdivision (e) of that Rule. The Court also observed that "the current Rules and the relevant statutes could specify more clearly the procedure that such a party should follow to bring their arguments to the court of appeals. . . ." *Id*. at 1638. The amendment does so. Stylistic changes are also made.
+
+*Subdivision (a).* Both the heading and the body of the Rule are amended to clarify that allocation of the costs among the parties is done by the court of appeals. The court may allow the default rules specified in subdivision (a) to operate based on the judgment, or it may allocate them differently based on the equities of the situation. Subdivision (a) is not concerned with calculating the amounts owed; it is concerned with who bears those costs, and in what proportion. The amendment also specifies a default for mixed judgments: each party bears its own costs.
+
+*Subdivision (b).* The amendment specifies a procedure for a party to ask the court of appeals to reconsider the allocation of costs established pursuant to subdivision (a). A party may do so by motion in the court of appeals within 14 days after the entry of judgment. The mandate is not stayed pending resolution of this motion, but the court of appeals retains jurisdiction to decide the motion after the mandate issues.
+
+*Subdivision (c).* Codifying the decision in *Hotels.com*, the amendment also makes clear that the allocation of costs by the court of appeals governs the taxation of costs both in the court of appeals and in the district court.
+
+*Subdivision (d).* The amendment uses the word "allocated" to match subdivision (a).
+
+*Subdivision (e).* The amendment specifies which costs are taxable in the court of appeals and clarifies that the procedure in that subdivision governs the taxation of costs taxable in the court of appeals. The docketing fee, currently $500 \[probably should be "$600"\], is established by the Judicial Conference of the United States pursuant to 28 U.S.C. §1913. The reference to filing fees paid in the court of appeals is not a reference to the $5 fee paid to the district court required by 28 U.S.C. §1917 for filing a notice of appeal from the district court to the court of appeals. Instead, the reference is to filing fees paid in the court of appeals, such as the fee to file a notice of appeal from a bankruptcy appellate panel.
+
+*Subdivision (f).* The provisions governing costs taxable in the district court are lettered (f) rather than (e). The filing fee referred to in this subdivision is the $5 fee required by 28 U.S.C. §1917 for filing a notice of appeal from the district court to the court of appeals.
 
 ### Rule 40. Panel Rehearing; En Banc Determination
 
@@ -4630,11 +4773,15 @@ The language and organization of the rule are amended to make the rule more easi
 
 ### APPENDIX OF FORMS
 
+### \[Form 1. Superseded by Forms 1A and 1B\]
+
+To reflect changes to Rule 3 of the Federal Rules of Appellate Procedure in 2021, Form 1 is replaced by Forms 1A and 1B. See Committee Notes on Rules—2021 Amendment, set out as a note under Rule 3 in this Appendix.
+
 ### Form 1A. Notice of Appeal to a Court of Appeals From a Judgment of a District Court
 
-### United States District Court for the \_\_\_\_\_\_\_\_ District of \_\_\_\_\_\_\_\_\_\_\_\_
+#### United States District Court for the \_\_\_\_\_\_\_\_ District of \_\_\_\_\_\_\_\_\_\_\_\_
 
-### Docket Number \_\_\_\_\_\_\_\_
+#### Docket Number \_\_\_\_\_\_\_\_
 
 A.B., Plaintiff
 
@@ -4646,7 +4793,7 @@ C.D., Defendant
 
   
 
-\_\_\_\_\_\_(name all parties taking the appeal) \* appeal to the United States Court of Appeals for the \_\_\_\_\_\_ Circuit from the final judgment entered on \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_(state the date the judgment was entered).
+\_\_\_\_\_\_(name all parties taking the appeal)\* appeal to the United States Court of Appeals for the \_\_\_\_\_\_ Circuit from the final judgment entered on \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_(state the date the judgment was entered).
 
 (s)\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_      
 
@@ -4658,7 +4805,7 @@ C.D., Defendant
 
 \[*Note to inmate filers: If you are an inmate confined in an institution and you seek the timing benefit of Fed. R. App. P. 4(c)(1), complete Form 7 (Declaration of Inmate Filing) and file that declaration with this Notice of Appeal.*\]
 
-\* See Rule 3(c) for permissible ways of identifying appellants.
+\*See Rule 3(c) for permissible ways of identifying appellants.
 
 (As added Apr. 14, 2021, eff. Dec. 1, 2021.)
 
@@ -4680,7 +4827,7 @@ C.D., Defendant
 
   
 
-\_\_\_\_\_\_(name all parties taking the appeal) \* appeal to the United States Court of Appeals for the \_\_\_\_\_\_ Circuit from the order \_\_\_\_\_\_(describe the order) entered on \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_(state the date the order was entered).
+\_\_\_\_\_\_(name all parties taking the appeal)\* appeal to the United States Court of Appeals for the \_\_\_\_\_\_ Circuit from the order \_\_\_\_\_\_(describe the order) entered on \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_(state the date the order was entered).
 
 (s)\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_      
 
@@ -4692,7 +4839,7 @@ C.D., Defendant
 
 \[*Note to inmate filers: If you are an inmate confined in an institution and you seek the timing benefit of Fed. R. App. P. 4(c)(1), complete Form 7 (Declaration of Inmate Filing) and file that declaration with this Notice of Appeal.*\]
 
-\* See Rule 3(c) for permissible ways of identifying appellants.
+\*See Rule 3(c) for permissible ways of identifying appellants.
 
 (As added Apr. 14, 2021, eff. Dec. 1, 2021.)
 
@@ -4720,7 +4867,7 @@ Respondent
 
   
 
-\_\_\_\_\_\_(name all parties taking the appeal) \* appeal to the United States Court of Appeals for the \_\_\_\_\_\_ Circuit from the decision entered on \_\_\_\_\_\_\_\_(state the date the decision was entered).
+\_\_\_\_\_\_(name all parties taking the appeal)\* appeal to the United States Court of Appeals for the \_\_\_\_\_\_ Circuit from the decision entered on \_\_\_\_\_\_\_\_(state the date the decision was entered).
 
 (s)\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_      
 
@@ -4728,7 +4875,7 @@ Respondent
 
 *Address: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_*      
 
-\* See Rule 3(c) for permissible ways of identifying appellants.
+\*See Rule 3(c) for permissible ways of identifying appellants.
 
 (As amended Apr. 22, 1993, eff. Dec. 1, 1993; Mar. 27, 2003, eff. Dec. 1, 2003; Apr. 14, 2021, eff. Dec. 1, 2021.)
 
@@ -4754,7 +4901,7 @@ Respondent
 
   
 
-\_\_\_\_\_\_(here name all parties bringing the petition) \*\_\_\_\_\_\_ hereby petition the court for review of the Order of the XYZ Commission (describe the order) entered on \_\_\_\_\_\_\_\_\_\_, 20\_\_.
+\_\_\_\_\_\_(here name all parties bringing the petition)\*\_\_\_\_\_\_ hereby petition the court for review of the Order of the XYZ Commission (describe the order) entered on \_\_\_\_\_\_\_\_\_\_, 20\_\_.
 
 (s)\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_,      
 
@@ -4762,7 +4909,7 @@ Respondent
 
 *Address:\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_*      
 
-\* See Rule 15.
+\*See Rule 15.
 
 (As amended Apr. 22, 1993, eff. Dec. 1, 1993; Mar. 27, 2003, eff. Dec. 1, 2003.)
 
@@ -4810,7 +4957,7 @@ Address: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_      
 
 (As added Apr. 25, 1989, eff. Dec. 1, 1989; amended Mar. 27, 2003, eff. Dec. 1, 2003; Apr. 28, 2016, eff. Dec. 1, 2016.)
 
-#### Form 6
+### Form 6. Certificate of Compliance With Type-Volume Limit
 
 ![](http://uscode.house.gov/images/uscprelim/28ap6.png)
 
@@ -4864,13 +5011,13 @@ Signed on \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\[*insert date*\]
 
 # FEDERAL RULES OF CIVIL PROCEDURE
 
-(As amended to December 1, 2024)
+(As amended to December 1, 2025)
 
 #### Historical Note
 
 The original Rules of Civil Procedure for the District Courts were adopted by order of the Supreme Court on Dec. 20, 1937, transmitted to Congress by the Attorney General on Jan. 3, 1938, and became effective on Sept. 16, 1938.
 
-The Rules have been amended Dec. 28, 1939, eff. Apr. 3, 1941; Dec. 27, 1946, eff. Mar. 19, 1948; Dec. 29, 1948, eff. Oct. 20, 1949; Apr. 30, 1951, eff. Aug. 1, 1951; Apr. 17, 1961, eff. July 19, 1961; Jan. 21, 1963, eff. July 1, 1963; Feb. 28, 1966, eff. July 1, 1966; Dec. 4, 1967, eff. July 1, 1968; Mar. 30, 1970, eff. July 1, 1970; Mar. 1, 1971, eff. July 1, 1971; Nov. 20, 1972, and Dec. 18, 1972, eff. July 1, 1975; Apr. 29, 1980, eff. Aug. 1, 1980; Oct. 21, 1980, Pub. L. 96–481, title II, §205(a), (b), 94 Stat. 2330; Jan. 12, 1983, Pub. L. 97–462, §§2–4, 96 Stat. 2527–2530, eff. Feb. 26, 1983; Apr. 28, 1983, eff. Aug. 1, 1983; Apr. 29, 1985, eff. Aug. 1, 1985; Mar. 2, 1987, eff. Aug. 1, 1987; Apr. 25, 1988, eff. Aug. 1, 1988; Nov. 18, 1988, Pub. L. 100–690, title VII, §§7047(b), 7049, 7050, 102 Stat. 4401; Apr. 30, 1991, eff. Dec. 1, 1991; Dec. 9, 1991, Pub. L. 102–198, §11, 105 Stat. 1626; Apr. 22, 1993, eff. Dec. 1, 1993; Apr. 27, 1995, eff. Dec. 1, 1995; Apr. 23, 1996, eff. Dec. 1, 1996; Apr. 11, 1997, eff. Dec. 1, 1997; Apr. 24, 1998, eff. Dec. 1, 1998; Apr. 26, 1999, eff. Dec. 1, 1999; Apr. 17, 2000, eff. Dec. 1, 2000; Apr. 23, 2001, eff. Dec. 1, 2001; Apr. 29, 2002, eff. Dec. 1, 2002; Mar. 27, 2003, eff. Dec. 1, 2003; Apr. 25, 2005, eff. Dec. 1, 2005; Apr. 12, 2006, eff. Dec. 1, 2006; Apr. 30, 2007, eff. Dec. 1, 2007; Apr. 23, 2008, eff. Dec. 1, 2008; Mar. 26, 2009, eff. Dec. 1, 2009; Apr. 28, 2010, eff. Dec. 1, 2010; Apr. 16, 2013, eff. Dec. 1, 2013; Apr. 25, 2014, eff. Dec. 1, 2014; Apr. 29, 2015, eff. Dec. 1, 2015; Apr. 28, 2016, eff. Dec. 1, 2016; Apr. 27, 2017, eff. Dec. 1, 2017; Apr. 26, 2018, eff. Dec. 1, 2018; Apr. 27, 2020, eff. Dec. 1, 2020; Apr. 11, 2022, eff. Dec. 1, 2022; Apr. 24, 2023, eff. Dec. 1, 2023; Apr. 2, 2024, eff. Dec. 1, 2024.
+The Rules have been amended Dec. 28, 1939, eff. Apr. 3, 1941; Dec. 27, 1946, eff. Mar. 19, 1948; Dec. 29, 1948, eff. Oct. 20, 1949; Apr. 30, 1951, eff. Aug. 1, 1951; Apr. 17, 1961, eff. July 19, 1961; Jan. 21, 1963, eff. July 1, 1963; Feb. 28, 1966, eff. July 1, 1966; Dec. 4, 1967, eff. July 1, 1968; Mar. 30, 1970, eff. July 1, 1970; Mar. 1, 1971, eff. July 1, 1971; Nov. 20, 1972, and Dec. 18, 1972, eff. July 1, 1975; Apr. 29, 1980, eff. Aug. 1, 1980; Oct. 21, 1980, Pub. L. 96–481, title II, §205(a), (b), 94 Stat. 2330; Jan. 12, 1983, Pub. L. 97–462, §§2–4, 96 Stat. 2527–2530, eff. Feb. 26, 1983; Apr. 28, 1983, eff. Aug. 1, 1983; Apr. 29, 1985, eff. Aug. 1, 1985; Mar. 2, 1987, eff. Aug. 1, 1987; Apr. 25, 1988, eff. Aug. 1, 1988; Nov. 18, 1988, Pub. L. 100–690, title VII, §§7047(b), 7049, 7050, 102 Stat. 4401; Apr. 30, 1991, eff. Dec. 1, 1991; Dec. 9, 1991, Pub. L. 102–198, §11, 105 Stat. 1626; Apr. 22, 1993, eff. Dec. 1, 1993; Apr. 27, 1995, eff. Dec. 1, 1995; Apr. 23, 1996, eff. Dec. 1, 1996; Apr. 11, 1997, eff. Dec. 1, 1997; Apr. 24, 1998, eff. Dec. 1, 1998; Apr. 26, 1999, eff. Dec. 1, 1999; Apr. 17, 2000, eff. Dec. 1, 2000; Apr. 23, 2001, eff. Dec. 1, 2001; Apr. 29, 2002, eff. Dec. 1, 2002; Mar. 27, 2003, eff. Dec. 1, 2003; Apr. 25, 2005, eff. Dec. 1, 2005; Apr. 12, 2006, eff. Dec. 1, 2006; Apr. 30, 2007, eff. Dec. 1, 2007; Apr. 23, 2008, eff. Dec. 1, 2008; Mar. 26, 2009, eff. Dec. 1, 2009; Apr. 28, 2010, eff. Dec. 1, 2010; Apr. 16, 2013, eff. Dec. 1, 2013; Apr. 25, 2014, eff. Dec. 1, 2014; Apr. 29, 2015, eff. Dec. 1, 2015; Apr. 28, 2016, eff. Dec. 1, 2016; Apr. 27, 2017, eff. Dec. 1, 2017; Apr. 26, 2018, eff. Dec. 1, 2018; Apr. 27, 2020, eff. Dec. 1, 2020; Apr. 11, 2022, eff. Dec. 1, 2022; Apr. 24, 2023, eff. Dec. 1, 2023; Apr. 2, 2024, eff. Dec. 1, 2024; Apr. 23, 2025, eff. Dec. 1, 2025.
 
 #### TITLE I. SCOPE OF RULES; FORM OF ACTION
 
@@ -4923,6 +5070,8 @@ Rule
 15\. Amended and Supplemental Pleadings.
 
 16\. Pretrial Conferences; Scheduling; Management.
+
+16.1. Multidistrict Litigation.
 
         
 
@@ -5271,7 +5420,7 @@ These rules govern the procedure in all civil actions and proceedings in the Uni
 
 2\. The expression "district courts of the United States" appearing in the statute authorizing the Supreme Court of the United States to promulgate rules of civil procedure does not include the district courts held in the Territories and insular possessions. See *Mookini et al. v. United States*, 303 U.S. 201, 58 S.Ct. 543, 82 L.Ed. 748 (1938).
 
-3\. These rules are drawn under the authority of the act of June 19, 1934, U.S.C., Title 28, §723b \[see 2072\] (Rules in actions at law; Supreme Court authorized to make), and §723c \[see 2072\] (Union of equity and action at law rules; power of Supreme Court) and also other grants of rule making power to the Court. See Clark and Moore, *A New Federal Civil Procedure—I. The Background*, 44 Yale L.J. 387, 391 (1935). Under §723b after the rules have taken effect all laws in conflict therewith are of no further force or effect. In accordance with §723c the Court has united the general rules prescribed for cases in equity with those in actions at law so as to secure one form of civil action and procedure for both. See Rule 2 (One Form of Action). For the former practice in equity and at law see U.S.C., Title 28, §§723 and 730 \[see 2071 et seq.\] (conferring power on the Supreme Court to make rules of practice in equity) and the \[former\] Equity Rules promulgated thereunder; U.S.C., Title 28, \[former\] §724 (Conformity act): \[former\] Equity Rule 22 (Action at Law Erroneously Begun as Suit in Equity—Transfer); \[former\] Equity Rule 23 (Matters Ordinarily Determinable at Law When Arising in Suit in Equity to be Disposed of Therein); U.S.C., Title 28, \[former\] §§397 (Amendments to pleadings when case brought to wrong side of court), and 398 (Equitable defenses and equitable relief in actions at law).
+3\. These rules are drawn under the authority of the act of June 19, 1934, U.S.C., Title 28, §723b \[see former 2072\] (Rules in actions at law; Supreme Court authorized to make), and §723c \[see former 2072\] (Union of equity and action at law rules; power of Supreme Court) and also other grants of rule making power to the Court. See Clark and Moore, *A New Federal Civil Procedure—I. The Background*, 44 Yale L.J. 387, 391 (1935). Under §723b \[see former 2072\] after the rules have taken effect all laws in conflict therewith are of no further force or effect. In accordance with §723c \[see former 2072\] the Court has united the general rules prescribed for cases in equity with those in actions at law so as to secure one form of civil action and procedure for both. See Rule 2 (One Form of Action). For the former practice in equity and at law see U.S.C., Title 28, §§723 and 730 \[see 2071, former 2072, former 2073\] (conferring power on the Supreme Court to make rules of practice in equity) and the \[former\] Equity Rules promulgated thereunder; U.S.C., Title 28, \[former\] §724 (Conformity act): \[former\] Equity Rule 22 (Action at Law Erroneously Begun as Suit in Equity—Transfer); \[former\] Equity Rule 23 (Matters Ordinarily Determinable at Law When Arising in Suit in Equity to be Disposed of Therein); U.S.C., Title 28, \[former\] §§397 (Amendments to pleadings when case brought to wrong side of court), and 398 (Equitable defenses and equitable relief in actions at law).
 
 4\. With the second sentence compare U.S.C., Title 28, \[former\] §§777 (Defects of form; amendments), 767 (Amendment of process); \[former\] Equity Rule 19 (Amendments Generally).
 
@@ -5327,7 +5476,7 @@ Present Rule 1 says that the Rules govern "in all suits of a civil nature." Styl
 
 Present Rule 25(a)(1) is a classic illustration of the "shall" trap. It says that "the action shall be dismissed as to" a deceased party unless a motion to substitute is made within 90 days after death is suggested on the record. Style Rule 25(a)(1) translated "shall" as "may," providing that the action "may be dismissed." This choice was bolstered by considering the effects of the Rule 6(b) authority to extend the 90-day period even after it expires. To say that the court "must" dismiss might distract attention from the alternative authority to extend the time and grant a motion to substitute. Comments suggested that "may" effects a substantive change. The comments took pains to express no view on the desirability of substantive change. The Committee concluded that it is better to replace "may" with "must," and to delete the Committee Note explanation of the Rule 6(b) reasons for concluding that "may" does not work a substantive change.
 
-A syntactic ambiguity in Rule 65(d) was corrected in response to comments and further research demonstrating that the ambiguity resulted from inadvertent omission of a comma when the Rule was adopted to carry forward former 28 U.S.C. §363. As revised, Rule 65(d) clearly provides that an injunction binds a party only after actual notice. It also clearly provides that after actual notice of an injunction, the injunction binds a person in active concert or participation with a party's officers, agents, servants, employees, and attorneys. The change is explained further in the new paragraph added to the Rule 65 Committee Note.
+A syntactic ambiguity in Rule 65(d) was corrected in response to comments and further research demonstrating that the ambiguity resulted from inadvertent omission of a comma when the Rule was adopted to carry forward former 28 U.S.C. §363 \[probably means 28 U.S.C. §383\]. As revised, Rule 65(d) clearly provides that an injunction binds a party only after actual notice. It also clearly provides that after actual notice of an injunction, the injunction binds a person in active concert or participation with a party's officers, agents, servants, employees, and attorneys. The change is explained further in the new paragraph added to the Rule 65 Committee Note.
 
 Finally, the Committee decided not to change the approach taken to identifying shifts of material among subdivisions. The Bankruptcy Rules Committee urged that the Committee Notes should identify decisions to rearrange material among subdivisions of the same rule to improve clarity and simplicity. In Rule 12, for example, subdivision (c) was divided between Style Rule 12(c) and (d), while former subdivision (d) became Style Rule 12(i). The purpose of expanding the Committee Notes would be to alert future researchers—particularly those who rely on tightly focused electronic searches—to define search terms that will reach back before the Style Amendments took effect. The approach taken in the published Style Rules was to identify in Committee Notes only the one instance in which material was shifted between Rules—from Rule 25 to Rule 17. Forty-four shifts among subdivisions of the same rule were charted in Appendix B, "Current and Restyled Rules Comparison Chart" The chart is set out below \[omitted\]. The Committee decided again that this approach is better than the alternative of adding length to many of the Committee Notes. It can be expected that many rules publications will draw attention to the changes identified in the chart.
 
@@ -5357,7 +5506,7 @@ There is one form of action—the civil action.
 
 #### Notes of Advisory Committee on Rules—1937
 
-1\. This rule modifies U.S.C., Title 28, \[former\] §384 (Suits in equity, when not sustainable). U.S.C., Title 28, §§723 and 730 \[see 2071 et seq.\] (conferring power on the Supreme Court to make rules of practice in equity), are unaffected insofar as they relate to the rule making power in admiralty. These sections, together with §723b \[see 2072\] (Rules in actions at law; Supreme Court authorized to make) are continued insofar as they are not inconsistent with §723c \[see 2072\] (Union of equity and action at law rules; power of Supreme Court). See Note 3 to Rule 1. U.S.C., Title 28, \[former\] §§724 (Conformity act), 397 (Amendments to pleadings when case brought to wrong side of court) and 398 (Equitable defenses and equitable relief in actions at law) are superseded.
+1\. This rule modifies U.S.C., Title 28, \[former\] §384 (Suits in equity, when not sustainable). U.S.C., Title 28, §§723 and 730 \[see 2071, former 2072, former 2073\] (conferring power on the Supreme Court to make rules of practice in equity), are unaffected insofar as they relate to the rule making power in admiralty. These sections, together with §723b \[see former 2072\] (Rules in actions at law; Supreme Court authorized to make) are continued insofar as they are not inconsistent with §723c \[see former 2072\] (Union of equity and action at law rules; power of Supreme Court). See Note 3 to Rule 1. U.S.C., Title 28, \[former\] §§724 (Conformity act), 397 (Amendments to pleadings when case brought to wrong side of court) and 398 (Equitable defenses and equitable relief in actions at law) are superseded.
 
 2\. Reference to actions at law or suits in equity in all statutes should now be treated as referring to the civil action prescribed in these rules.
 
@@ -5755,7 +5904,7 @@ Paragraph (1). For an example of a statute providing for service upon an agent o
 
 Paragraph (3). This enumerates the officers and agents of a corporation or of a partnership or other unincorporated association upon whom service of process may be made, and permits service of process only upon the officers, managing or general agents, or agents authorized by appointment or by law, of the corporation, partnership or unincorporated association against which the action is brought. See *Christian v. International Ass'n of Machinists*, 7 F.(2d) 481 (D.C.Ky., 1925) and *Singleton v. Order of Railway Conductors of America*, 9 F.Supp. 417 (D.C.Ill., 1935). Compare *Operative Plasterers' and Cement Finishers' International Ass'n of the United States and Canada v. Case*, 93 F.(2d) 56 (App.D.C., 1937).
 
-For a statute authorizing service upon a specified agent and requiring mailing to the defendant, see U.S.C., Title 6, §7 \[now Title 31, §9306\] (Surety companies as sureties; appointment of agents; service of process).
+For a statute authorizing service upon a specified agent and requiring mailing to the defendant, see U.S.C., Title 6, §7 \[now 31 U.S.C. 9306\] (Surety companies as sureties; appointment of agents; service of process).
 
 Paragraphs (4) and (5) provide a uniform and comprehensive method of service for all actions against the United States or an officer or agency thereof. For statutes providing for such service, see U.S.C., Title 7, §§217 (Proceedings for suspension of orders), 499k (Injunctions; application of injunction laws governing orders of Interstate Commerce Commission), 608c(15)(B) (Court review of ruling of Secretary of Agriculture), and 855 (making §608c(15)(B) applicable to orders of the Secretary of Agriculture as to handlers of anti-hog-cholera serum and hog-cholera virus); U.S.C., Title 26, \[former\] §1569 (Bill in chancery to clear title to realty on which the United States has a lien for taxes); U.S.C., Title 28, \[former\] §§45 (District Courts; practice and procedure in certain cases under the interstate commerce laws), \[former\] 763 (Petition in suit against the United States; service; appearance by district attorney), 766 \[now 2409\] (Partition suits where United States is tenant in common or joint tenant), 902 \[now 2410\] (Foreclosure of mortgages or other liens on property in which the United States has an interest). These and similar statutes are modified insofar as they prescribe a different method of service or dispense with the service of a summons.
 
@@ -5765,7 +5914,7 @@ For the \[former\] Equity Rule on service, see \[former\] Equity Rule 13 (Manner
 
 *Note to Subdivision (f)*. This rule enlarges to some extent the present rule as to where service may be made. It does not, however, enlarge the jurisdiction of the district courts.
 
-U.S.C., Title 28, §§113 \[now 1392\] (Suits in States containing more than one district) (where there are two or more defendants residing in different districts), \[former\] 115 (Suits of a local nature), 116 \[now 1392\] (Property in different districts in same State), \[former\] 838 (Executions run in all districts of State); U.S.C., Title 47, §13 (Action for damages against a railroad or telegraph company whose officer or agent in control of a telegraph line refuses or fails to operate such line in a certain manner—"upon any agent of the company found in such state"); U.S.C., Title 49, §321(c) \[see 13304(a)\] (Requiring designation of a process agent by interstate motor carriers and in case of failure so to do, service may be made upon any agent in the State) and similar statutes, allowing the running of process throughout a State, are substantially continued.
+U.S.C., Title 28, §§113 \[see former 1392\] (Suits in States containing more than one district) (where there are two or more defendants residing in different districts), \[former\] 115 (Suits of a local nature), 116 \[see former 1392\] (Property in different districts in same State), \[former\] 838 (Executions run in all districts of State); U.S.C., Title 47, §13 (Action for damages against a railroad or telegraph company whose officer or agent in control of a telegraph line refuses or fails to operate such line in a certain manner—"upon any agent of the company found in such state"); U.S.C., Title 49, §321(c) \[see 13304(a)\] (Requiring designation of a process agent by interstate motor carriers and in case of failure so to do, service may be made upon any agent in the State) and similar statutes, allowing the running of process throughout a State, are substantially continued.
 
 U.S.C., Title 15, §§5 (Bringing in additional parties) (Sherman Act), 25 (Restraining violations; procedure); U.S.C., Title 28, §§44 \[now 2321\] (Procedure in certain cases under interstate commerce laws; service of processes of court), 117 \[now 754, 1692\] (Property in different States in same circuit; jurisdiction of receiver), 839 \[now 2413\] (Executions; run in every State and Territory) and similar statutes, providing for the running of process beyond the territorial limits of a State, are expressly continued.
 
@@ -5809,7 +5958,7 @@ As to the Court's power to amend subdivisions (e) and (f) as here set forth, see
 
 *Subdivision (i)*. The continual increase of civil litigation having international elements makes it advisable to consolidate, amplify, and clarify the provisions governing service upon parties in foreign countries. See generally Jones, *International Judicial Assistance: Procedural Chaos and a Program for Reform*, 62 Yale L.J. 515 (1953); Longley, *Serving Process, Subpoenas and Other Documents in Foreign Territory*, Proc. A.B.A., Sec. Int'l & Comp. L. 34 (1959); Smit, *International Aspects of Federal Civil Procedure*, 61 Colum.L.Rev. 1031 (1961).
 
-As indicated in the opening lines of new subdivision (i), referring to the provisions of subdivision (e), the authority for effecting foreign service must be found in a statute of the United States or a statute or rule of court of the State in which the district court is held providing in terms or upon proper interpretation for service abroad upon persons not inhabitants of or found within the State. See the Advisory Committee's Note to amended Rule 4(d)(7) and Rule 4(e). For examples of Federal and State statutes expressly authorizing such service, see 8 U.S.C. §1451(b); 35 U.S.C. §§146, 293; Me.Rev.Stat., ch. 22, §70 (Supp. 1961); Minn.Stat.Ann. §303.13 (1947); N.Y.Veh. & Tfc.Law §253. Several decisions have construed statutes to permit service in foreign countries, although the matter is not expressly mentioned in the statutes. See, e.g., *Chapman v. Superior Court*, 162 Cal.App.2d 421, 328 P.2d 23 (Dist.Ct.App. 1958); *Sperry v. Fliegers*, 194 Misc. 438, 86 N.Y.S.2d 830 (Sup.Ct. 1949); *Ewing v. Thompson*, 233 N.C. 564, 65 S.E.2d 17 (1951); *Rushing v. Bush*, 260 S.W.2d 900 (Tex.Ct.Civ.App. 1953). Federal and State statutes authorizing service on nonresidents in such terms as to warrant the interpretation that service abroad is permissible include 15 U.S.C. §§77v(a), 78aa, 79y; 28 U.S.C. §1655; 38 U.S.C. §784(a); Ill.Ann.Stat. ch. 110, §§16, 17 (Smith-Hurd 1956); Wis.Stat. §262.06 (1959).
+As indicated in the opening lines of new subdivision (i), referring to the provisions of subdivision (e), the authority for effecting foreign service must be found in a statute of the United States or a statute or rule of court of the State in which the district court is held providing in terms or upon proper interpretation for service abroad upon persons not inhabitants of or found within the State. See the Advisory Committee's Note to amended Rule 4(d)(7) and Rule 4(e). For examples of Federal and State statutes expressly authorizing such service, see 8 U.S.C. §1451(b); 35 U.S.C. §§146, 293; Me.Rev.Stat., ch. 22, §70 (Supp. 1961); Minn.Stat.Ann. §303.13 (1947); N.Y.Veh. & Tfc.Law §253. Several decisions have construed statutes to permit service in foreign countries, although the matter is not expressly mentioned in the statutes. See, e.g., *Chapman v. Superior Court*, 162 Cal.App.2d 421, 328 P.2d 23 (Dist.Ct.App. 1958); *Sperry v. Fliegers*, 194 Misc. 438, 86 N.Y.S.2d 830 (Sup.Ct. 1949); *Ewing v. Thompson*, 233 N.C. 564, 65 S.E.2d 17 (1951); *Rushing v. Bush*, 260 S.W.2d 900 (Tex.Ct.Civ.App. 1953). Federal and State statutes authorizing service on nonresidents in such terms as to warrant the interpretation that service abroad is permissible include 15 U.S.C. §§77v(a), 78aa, \[former\] 79y; 28 U.S.C. §1655; 38 U.S.C. §784(a) \[now 1984(a)\]; Ill.Ann.Stat. ch. 110, §§16, 17 (Smith-Hurd 1956); Wis.Stat. §262.06 (1959).
 
 Under subdivisions (e) and (i), when authority to make foreign service is found in a Federal statute or statute or rule of court of a State, it is always sufficient to carry out the service in the manner indicated therein. Subdivision (i) introduces considerable further flexibility by permitting the foreign service and return thereof to be carried out in any of a number of other alternative ways that are also declared to be sufficient. Other aspects of foreign service continue to be governed by the other provisions of Rule 4. Thus, for example, subdivision (i) effects no change in the form of the summons, or the issuance of separate or additional summons, or the amendment of service.
 
@@ -5821,13 +5970,13 @@ One of the purposes of subdivision (i) is to allow accommodation to the policies
 
 In certain foreign countries service in aid of litigation pending in other countries can lawfully be accomplished only upon request to the foreign court, which in turn directs the service to be made. In many countries this has long been a customary way of accomplishing the service. See *In re Letters Rogatory out of First Civil Court of City of Mexico*, 261 Fed. 652 (S.D.N.Y. 1919); *Jones, supra*, at 543; Comment, 44 Colum.L.Rev. 72 (1944); Note, 58 Yale L.J. 1193 (1949). Subparagraph (B) of paragraph (1), referring to a letter rogatory, validates this method. A proviso, applicable to this subparagraph and the preceding one, requires, as a safeguard, that the service made shall be reasonably calculated to give actual notice of the proceedings to the party. See *Milliken v. Meyer*, 311 U.S. 457, 61 S.Ct. 339, 85 L.Ed. 278 (1940).
 
-Subparagraph (C) of paragraph (1), permitting foreign service by personal delivery on individuals and corporations, partnerships, and associations, provides for a manner of service that is not only traditionally preferred, but also is most likely to lead to actual notice. Explicit provision for this manner of service was thought desirable because a number of Federal and State statutes permitting foreign service do not specifically provide for service by personal delivery abroad, see e.g., 35 U.S.C. §§146, 293; 46 \[App.\] U.S.C. §1292; Calif.Ins.Code §1612; N.Y.Veh. & Tfc.Law §253, and it also may be unavailable under the law of the country in which the service is made.
+Subparagraph (C) of paragraph (1), permitting foreign service by personal delivery on individuals and corporations, partnerships, and associations, provides for a manner of service that is not only traditionally preferred, but also is most likely to lead to actual notice. Explicit provision for this manner of service was thought desirable because a number of Federal and State statutes permitting foreign service do not specifically provide for service by personal delivery abroad, see e.g., 35 U.S.C. §§146, 293; \[former\] 46 U.S.C. \[App.\] §1292 \[see 46 U.S.C. 53911\]; Calif.Ins.Code §1612; N.Y.Veh. & Tfc.Law §253, and it also may be unavailable under the law of the country in which the service is made.
 
 Subparagraph (D) of paragraph (1), permitting service by certain types of mail, affords a manner of service that is inexpensive and expeditious, and requires a minimum of activity within the foreign country. Several statutes specifically provide for service in a foreign country by mail, e.g., Hawaii Rev.Laws §§230–31, 230–32 (1955); Minn.Stat.Ann. §303.13 (1947); N.Y.Civ.Prac.Act, §229–b; N.Y.Veh. & Tfc.Law §253, and it has been sanctioned by the courts even in the absence of statutory provision specifying that form of service. *Zurini v. United States*, 189 F.2d 722 (8th Cir. 1951); *United States v. Cardillo*, 135 F.Supp. 798 (W.D.Pa. 1955); *Autogiro Co. v. Kay Gyroplanes, Ltd*., 55 F.Supp. 919 (D.D.C. 1944). Since the reliability of postal service may vary from country to country, service by mail is proper only when it is addressed to the party to be served and a form of mail requiring a signed receipt is used. An additional safeguard is provided by the requirement that the mailing be attended to be the clerk of the court. See also the provisions of paragraph (2) of this subdivision (i) regarding proof of service by mail.
 
 Under the applicable law it may be necessary, when the defendant is an infant or incompetent person, to deliver the summons and complaint to a guardian, committee, or similar fiduciary. In such a case it would be advisable to make service under subparagraph (A), (B), or (E).
 
-Subparagraph (E) of paragraph (1) adds flexibility by permitting the court by order to tailor the manner of service to fit the necessities of a particular case or the peculiar requirements of the law of the country in which the service is to be made. A similar provision appears in a number of statutes, e.g., 35 U.S.C. §§146, 293; 38 U.S.C. §784(a); 46 \[App.\] U.S.C. §1292.
+Subparagraph (E) of paragraph (1) adds flexibility by permitting the court by order to tailor the manner of service to fit the necessities of a particular case or the peculiar requirements of the law of the country in which the service is to be made. A similar provision appears in a number of statutes, e.g., 35 U.S.C. §§146, 293; 38 U.S.C. §784(a); \[former\] 46 U.S.C. \[App.\] §1292 \[see 46 U.S.C. 53911\].
 
 The next-to-last sentence of paragraph (1) permits service under (C) and (E) to be made by any person who is not a party and is not less than 18 years of age or who is designated by court order or by the foreign court. Cf. Rule 45(c); N.Y.Civ.Prac.Act §§233, 235. This alternative increases the possibility that the plaintiff will be able to find a process server who can proceed unimpeded in the foreign country; it also may improve the chances of enforcing the judgment in the country of service. Especially is the alternative valuable when authority for the foreign service is found in a statute or rule of court that limits the group of eligible process servers to designated officials or special appointees who, because directly connected with another "sovereign," may be particularly offensive to the foreign country. See generally Smit, *supra*, at 1040–41. When recourse is had to subparagraph (A) or (B) the identity of the process server always will be determined by the law of the foreign country in which the service is made.
 
@@ -5901,7 +6050,7 @@ Robert A. McConnell,        
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-[1](#Rule_4_1_target) In addition to amending Rule 4, we have previously recommended: (a) amendments to 28 U.S.C. §569(b) redefining the Marshals traditional role by eliminating the statutory requirement that they serve subpoenas, as well as summonses and complaints, and; (b) amendments to 28 U.S.C. §1921 changing the manner and level in which marshal fees are charged for serving private civil process. These legislative changes are embodied in Section 10 of S. 2567 and the Department's proposed fiscal year 1983 Appropriations Authorization bill. If, in the Committee's judgment, efforts to incorporate these suggested amendments in H.R. 7154 would in any way impede consideration of the bill during the few remaining legislative days in the 97th Congress, we would urge that they be separately considered early in the 98th Congress.
+[1](#Rule_4_1_target) In addition to amending Rule 4, we have previously recommended: (a) amendments to 28 U.S.C. §569(b) \[(1982), see 28 U.S.C. 566(c)\] redefining the Marshals traditional role by eliminating the statutory requirement that they serve subpoenas, as well as summonses and complaints, and; (b) amendments to 28 U.S.C. §1921 changing the manner and level in which marshal fees are charged for serving private civil process. These legislative changes are embodied in Section 10 of S. 2567 and the Department's proposed fiscal year 1983 Appropriations Authorization bill. If, in the Committee's judgment, efforts to incorporate these suggested amendments in H.R. 7154 would in any way impede consideration of the bill during the few remaining legislative days in the 97th Congress, we would urge that they be separately considered early in the 98th Congress.
 
 #### H.R. 7154—Federal Rules of Civil Procedure Amendments Act of 1982
 
@@ -5927,9 +6076,9 @@ Rule 4 of the Federal Rules of Civil Procedure relates to the issuance and servi
 
 The Supreme Court's proposed modifications of Rule 4 were designed to alleviate the burden on the Marshals Service of serving summonses and complaints in private civil actions. Appendix II, at 7 (Report of the Committee on Rules of Practice and Procedure), 16 (Advisory Committee Note). While the Committee received no complaints about the goal of reducing the role of the Marshals Service, the Court's proposals simply failed to achieve that goal. See House Report No. 97–662, at 2–3 (1982).
 
-The Court's proposed Rule 4(c)(2)(B) required the Marshals Service to serve summonses and complaints "pursuant to any statutory provision expressly providing for service by a United States Marshal or his deputy." [5](#Rule_4_5_target) One such statutory provision is 28 U.S.C. 569(b), which compels marshals to "execute *all* lawful writs, process and orders issued under authority of the United States, *including those of the courts* \* \* \*." (emphasis added). Thus, any party could have invoked 28 U.S.C. 569(b) to utilize a marshal for service of a summons and complaint, thereby thwarting the intent of the new subsection to limit the use of marshals. The Justice Department acknowledges that the proposed subsection did not accomplish its objectives.[6](#Rule_4_6_target)
+The Court's proposed Rule 4(c)(2)(B) required the Marshals Service to serve summonses and complaints "pursuant to any statutory provision expressly providing for service by a United States Marshal or his deputy." [5](#Rule_4_5_target) One such statutory provision is 28 U.S.C. 569(b) \[(1982), see 28 U.S.C. 566(c)\], which compels marshals to "execute *all* lawful writs, process and orders issued under authority of the United States, *including those of the courts* \* \* \*." (emphasis added). Thus, any party could have invoked 28 U.S.C. 569(b) \[(1982), see 28 U.S.C. 566(c)\] to utilize a marshal for service of a summons and complaint, thereby thwarting the intent of the new subsection to limit the use of marshals. The Justice Department acknowledges that the proposed subsection did not accomplish its objectives.[6](#Rule_4_6_target)
 
-Had 28 U.S.C. 569(b) been inconsistent with proposed Rule 4(c)(2)(B), the latter would have nullified the former under 28 U.S.C. 2072, which provides that "All laws in conflict with such rules shall be of no further force or effect after such rules have taken effect." Since proposed Rule 4(c)(2)(B) specifically referred to statutes such as 28 U.S.C. 569(b), however, the new subsection did not conflict with 28 U.S.C. 569(b) and did not, therefore, supersede it.
+Had 28 U.S.C. 569(b) \[(1982), see 28 U.S.C. 566(c)\] been inconsistent with proposed Rule 4(c)(2)(B), the latter would have nullified the former under 28 U.S.C. 2072, which provides that "All laws in conflict with such rules shall be of no further force or effect after such rules have taken effect." Since proposed Rule 4(c)(2)(B) specifically referred to statutes such as 28 U.S.C. 569(b) \[(1982), see 28 U.S.C. 566(c)\], however, the new subsection did not conflict with 28 U.S.C. 569(b) \[(1982), see 28 U.S.C. 566(c)\] and did not, therefore, supersede it.
 
 H.R. 7154 cures this problem and achieves the desired reduction in the role of the Marshals Service by authorizing marshals to serve summonses and complaints "on behalf of the United States". By so doing, H.R. 7154 eliminates the loophole in the Court's proposed language and still provides for service by marshals on behalf of the Government.[7](#Rule_4_7_target)
 
@@ -6033,7 +6182,7 @@ For background information about how the Judicial Conference committees operate,
 
 [6](#Rule_4_6_target) Appendix I, at 2 (letter of Assistant Attorney General Robert A. McConnell).
 
-[7](#Rule_4_7_target) The provisions of H.R. 7154 conflict with 28 U.S.C. 569(b) because the latter is a broader command to marshals to serve all federal court process. As a later statutory enactment, however, H.R. 7154 supersedes 28 U.S.C. 569(b), thereby achieving the goal of reducing the role of marshals.
+[7](#Rule_4_7_target) The provisions of H.R. 7154 conflict with 28 U.S.C. 569(b) \[(1982), see 28 U.S.C. 566(c)\] because the latter is a broader command to marshals to serve all federal court process. As a later statutory enactment, however, H.R. 7154 supersedes 28 U.S.C. 569(b) \[(1982), see 28 U.S.C. 566(c)\], thereby achieving the goal of reducing the role of marshals.
 
 [8](#Rule_4_8_target) Proposed Rule 4(d)(8) provided that "Service . . . shall not be the basis for the entry of a default or a judgment by default unless the record contains a return receipt showing acceptance by the defendant or a returned envelope showing refusal of the process by the defendant." This provision reflects a desire to preclude default judgments on unclaimed mail. See Appendix II, at 7 (Report of the Committee on Rules of Practice and Procedure).
 
@@ -6303,7 +6452,7 @@ Subdivision (b) replaces the final clause of the penultimate sentence of the for
 
 Service of process is not required to notify a party of a decree or injunction, or of an order that the party show cause why that party should not be held in contempt of such an order. With respect to a party who has once been served with a summons, the service of the decree or injunction itself or of an order to show cause can be made pursuant to Rule 5. Thus, for example, an injunction may be served on a party through that person's attorney. *Chagas v. United States*, 369 F.2d 643 (5th Cir. 1966). The same is true for service of an order to show cause. *Waffenschmidt v. Mackay*, 763 F.2d 711 (5th Cir. 1985).
 
-The new rule does not affect the reach of the court to impose criminal contempt sanctions. Nationwide enforcement of federal decrees and injunctions is already available with respect to criminal contempt: a federal court may effect the arrest of a criminal contemnor anywhere in the United States, 28 U.S.C. §3041, and a contemnor when arrested may be subject to removal to the district in which punishment may be imposed. Fed. R. Crim. P. 40. Thus, the present law permits criminal contempt enforcement against a contemnor wherever that person may be found.
+The new rule does not affect the reach of the court to impose criminal contempt sanctions. Nationwide enforcement of federal decrees and injunctions is already available with respect to criminal contempt: a federal court may effect the arrest of a criminal contemnor anywhere in the United States, 28 U.S.C. §3041 \[18 U.S.C. §3041\], and a contemnor when arrested may be subject to removal to the district in which punishment may be imposed. Fed. R. Crim. P. 40. Thus, the present law permits criminal contempt enforcement against a contemnor wherever that person may be found.
 
 The effect of the revision is to provide a choice of civil or criminal contempt sanctions in those situations to which it applies. Contempt proceedings, whether civil or criminal, must be brought in the court that was allegedly defied by a contumacious act. *Ex parte Bradley*, 74 U.S. 366 (1869). This is so even if the offensive conduct or inaction occurred outside the district of the court in which the enforcement proceeding must be conducted. *E.g., McCourtney v. United States*, 291 Fed. 497 (8th Cir.), *cert. denied*, 263 U.S. 714 (1923). For this purpose, the rule as before does not distinguish between parties and other persons subject to contempt sanctions by reason of their relation or connection to parties.
 
@@ -6843,7 +6992,7 @@ Other changes proposed in Rule 6(b) are merely clarifying and conforming. Thus "
 
 The wording of the first sentence of Rule 6(a) is clarified and the subdivision is made expressly applicable to computing periods of time set forth in local rules.
 
-Saturday is to be treated in the same way as Sunday or a "legal holiday" in that it is not to be included when it falls on the last day of a computed period, nor counted as an intermediate day when the period is less than 7 days. "Legal holiday" is defined for purposes of this subdivision and amended Rule 77(c). Compare the definition of "holiday" in 11 U.S.C. §1(18); also 5 U.S.C. §86a; Executive Order No. 10358, "Observance of Holidays," June 9, 1952, 17 Fed.Reg. 5269. In the light of these changes the last sentence of the present subdivision, dealing with half holidays, is eliminated.
+Saturday is to be treated in the same way as Sunday or a "legal holiday" in that it is not to be included when it falls on the last day of a computed period, nor counted as an intermediate day when the period is less than 7 days. "Legal holiday" is defined for purposes of this subdivision and amended Rule 77(c). Compare the definition of "holiday" in 11 U.S.C. §1(18) \[(1958)\]; also 5 U.S.C. §86a \[see 6104\]; Executive Order No. 10358, "Observance of Holidays," June 9, 1952, 17 Fed.Reg. 5269. In the light of these changes the last sentence of the present subdivision, dealing with half holidays, is eliminated.
 
 With Saturdays and State holidays made "dies non" in certain cases by the amended subdivision, computation of the usual 5–day notice of motion or the 2–day notice to dissolve or modify a temporary restraining order may work out so as to cause embarrassing delay in urgent cases. The delay can be obviated by applying to the court to shorten the time, see Rules 6(d) and 65(b).
 
@@ -7635,7 +7784,7 @@ A motion asserting any of these defenses must be made before pleading if a respo
 
 *Note to Subdivision (a)*. 1. Compare \[former\] Equity Rules 12 (Issue of Subpoena—Time for Answer) and 31 (Reply—When Required—When Cause at Issue); 4 Mont.Rev.Codes Ann. (1935) §§9107, 9158; N.Y.C.P.A. (1937) §263; N.Y.R.C.P. (1937) Rules 109–111.
 
-2\. U.S.C., Title 28, §763 \[now 547\] (Petition in action against United States; service; appearance by district attorney) provides that the United States as a defendant shall have 60 days within which to answer or otherwise defend. This and other statutes which provide 60 days for the United States or an officer or agency thereof to answer or otherwise defend are continued by this rule. Insofar as any statutes not excepted in Rule 81 provide a different time for a defendant to defend, such statutes are modified. See U.S.C., Title 28, \[former\] §45 (District courts; practice and procedure in certain cases under the interstate commerce laws) (30 days).
+2\. U.S.C., Title 28, \[former\] §763 (Petition in action against United States; service; appearance by district attorney) provides that the United States as a defendant shall have 60 days within which to answer or otherwise defend. This and other statutes which provide 60 days for the United States or an officer or agency thereof to answer or otherwise defend are continued by this rule. Insofar as any statutes not excepted in Rule 81 provide a different time for a defendant to defend, such statutes are modified. See U.S.C., Title 28, \[former\] §45 (District courts; practice and procedure in certain cases under the interstate commerce laws) (30 days).
 
 3\. Compare the last sentence of \[former\] Equity Rule 29 (Defenses—How Presented) and N.Y.C.P.A. (1937) §283. See Rule 15(a) for time within which to plead to an amended pleading.
 
@@ -7791,11 +7940,11 @@ Rule 12 is amended to make it clear that a federal statute that specifies anothe
 
 5\. The provisions of this rule respecting counterclaims are subject to Rule 82 (Jurisdiction and Venue Unaffected). For a discussion of Federal jurisdiction and venue in regard to counterclaims and cross-claims, see Shulman and Jaegerman, *Some Jurisdictional Limitations in Federal Procedure* (1936), 45 Yale L.J. 393, 410 et seq.
 
-6\. This rule does not affect such statutes of the United States as U.S.C., Title 28, §41(1) \[now 1332, 1345, 1359\] (United States as plaintiff; civil suits at common law and in equity), relating to assigned claims in actions based on diversity of citizenship.
+6\. This rule does not affect such statutes of the United States as U.S.C., Title 28, §41(1) \[see 1331, 1332, 1341, 1342, 1345, 1354, 1359\] (United States as plaintiff; civil suits at common law and in equity), relating to assigned claims in actions based on diversity of citizenship.
 
 7\. If the action proceeds to judgment without the interposition of a counterclaim as required by subdivision (a) of this rule, the counterclaim is barred. See *American Mills Co. v. American Surety Co*., 260 U.S. 360 (1922); *Marconi Wireless Telegraph Co. v. National Electric Signalling Co*., 206 Fed. 295 (E.D.N.Y., 1913); Hopkins, *Federal Equity Rules* (8th ed., 1933), p. 213; Simkins, *Federal Practice* (1934), p. 663
 
-8\. For allowance of credits against the United States see U.S.C., Title 26, §§1672–1673 \[see 7442\] (Suits for refunds of internal revenue taxes—limitations); U.S.C., Title 28, §§774 \[now 2406\] (Suits by United States against individuals; credits), \[former\] 775 (Suits under postal laws; credits); U.S.C., Title 31, §227 \[now 3728\] (Offsets against judgments and claims against United States).
+8\. For allowance of credits against the United States see U.S.C., Title 26, §§1672–1673 \[see 6532(a)(1), (4), 7422(a)\] (Suits for refunds of internal revenue taxes—limitations); U.S.C., Title 28, §§774 \[now 2406\] (Suits by United States against individuals; credits), \[former\] 775 (Suits under postal laws; credits); U.S.C., Title 31, §227 \[now 3728\] (Offsets against judgments and claims against United States).
 
 #### Notes of Advisory Committee on Rules—1946 Amendment
 
@@ -8089,7 +8238,7 @@ Rule 15(a)(1) is amended to substitute "no later than" for "within" to measure t
 
   
 
-(b) Scheduling.
+(b) Scheduling and Management.
 
 (1) *Scheduling Order.* Except in categories of actions exempted by local rule, the district judge—or a magistrate judge when authorized by local rule—must issue a scheduling order:
 
@@ -8113,7 +8262,7 @@ Rule 15(a)(1) is amended to substitute "no later than" for "within" to measure t
 
 (iii) provide for disclosure, discovery, or preservation of electronically stored information;
 
-(iv) include any agreements the parties reach for asserting claims of privilege or of protection as trial-preparation material after information is produced, including agreements reached under Federal Rule of Evidence 502;
+(iv) include the timing and method for complying with Rule 26(b)(5)(A) and any agreements the parties reach for asserting claims of privilege or of protection as trial-preparation material after information is produced, including agreements reached under Federal Rule of Evidence 502;
 
 (v) direct that before moving for an order relating to discovery, the movant must request a conference with the court;
 
@@ -8185,7 +8334,7 @@ Rule 15(a)(1) is amended to substitute "no later than" for "within" to measure t
 
 (2) *Imposing Fees and Costs.* Instead of or in addition to any other sanction, the court must order the party, its attorney, or both to pay the reasonable expenses—including attorney's fees—incurred because of any noncompliance with this rule, unless the noncompliance was substantially justified or other circumstances make an award of expenses unjust.
 
-(As amended Apr. 28, 1983, eff. Aug. 1, 1983; Mar. 2, 1987, eff. Aug. 1, 1987; Apr. 22, 1993, eff. Dec. 1, 1993; Apr. 12, 2006, eff. Dec. 1, 2006; Apr. 30, 2007, eff. Dec. 1, 2007; Apr. 29, 2015, eff. Dec. 1, 2015.)
+(As amended Apr. 28, 1983, eff. Aug. 1, 1983; Mar. 2, 1987, eff. Aug. 1, 1987; Apr. 22, 1993, eff. Dec. 1, 1993; Apr. 12, 2006, eff. Dec. 1, 2006; Apr. 30, 2007, eff. Dec. 1, 2007; Apr. 29, 2015, eff. Dec. 1, 2015; Apr. 23, 2025, eff. Dec. 1, 2025.)
 
 #### Notes of Advisory Committee on Rules—1937
 
@@ -8347,6 +8496,160 @@ The order also may include agreements incorporated in a court order under Eviden
 
 Finally, the order may direct that before filing a motion for an order relating to discovery the movant must request a conference with the court. Many judges who hold such conferences find them an efficient way to resolve most discovery disputes without the delay and burdens attending a formal motion, but the decision whether to require such conferences is left to the discretion of the judge in each case.
 
+#### Committee Notes on Rules—2025 Amendment
+
+Rule 16(b) is amended in tandem with an amendment to Rule 26(f)(3)(D). In addition, two words—"and management"—are added to the title of this rule in recognition that it contemplates that the court will in many instances do more than establish a schedule in its Rule 16(b) order; the focus of this amendment is an illustration of such activity.
+
+The amendment to Rule 26(f)(3)(D) directs the parties to discuss and include in their discovery plan a method for complying with the requirements in Rule 26(b)(5)(A). It also directs that the discovery plan address\[es\] the timing for compliance with this requirement, in order to avoid problems that can arise if issues about compliance emerge only at the end of the discovery period.
+
+Early attention to the particulars on this subject can avoid problems later in the litigation by establishing case-specific procedures up front. It may be desirable for the Rule 16(b) order to provide for "rolling" production that may identify possible disputes about whether certain withheld materials are indeed protected. If the parties are unable to resolve those disputes, it is often desirable to have them resolved at an early stage by the court, in part so that the parties can apply the court's resolution of the issues in further discovery in the case.
+
+Because the specific method of complying with Rule 26(b)(5)(A) depends greatly on the specifics of a given case there is no overarching standard for all cases. In the first instance, the parties themselves should discuss these specifics during their Rule 26(f) conference; these amendments to Rule 16(b) recognize that the court can provide direction early in the case. Though the court ordinarily will give much weight to the parties' preferences, the court's order prescribing the method for complying with Rule 26(b)(5)(A) does not depend on party agreement. But the parties may report that it is too early to settle on a specific method, and the court should be open to modifying its order should modification be warranted by evolving circumstances in the case.
+
+#### References in Text
+
+The Federal Rules of Evidence, referred to in subds. (b)(3)(B)(iv) and (c)(2)(D), are set out in this Appendix.
+
+### Rule 16.1. Multidistrict Litigation
+
+(a) Initial Management Conference. After the Judicial Panel on Multidistrict Litigation transfers actions, the transferee court should schedule an initial management conference to develop an initial plan for orderly pretrial activity in the MDL proceedings.
+
+(b) Report for the Conference.
+
+(1) *Submitting a Report.* The transferee court should order the parties to meet and to submit a report to the court before the conference.
+
+(2) *Required Content: the Parties' Views on Leadership Counsel and Other Matters.* The report must address any matter the court designates—which may include any matter in Rule 16—and, unless the court orders otherwise, the parties' views on:
+
+(A) whether leadership counsel should be appointed and, if so:
+
+(i) the timing of the appointments;
+
+(ii) the structure of leadership counsel;
+
+(iii) the procedure for selecting leadership and whether the appointments should be reviewed periodically;
+
+(iv) their responsibilities and authority in conducting pretrial activities and any role in facilitating resolution of the MDL proceedings;
+
+(v) the proposed methods for regularly communicating with and reporting to the court and nonleadership counsel;
+
+(vi) any limits on activity by nonleadership counsel; and
+
+(vii) whether and when to establish a means for compensating leadership counsel;
+
+  
+
+(B) any previously entered scheduling or other orders that should be vacated or modified;
+
+(C) a schedule for additional management conferences with the court;
+
+(D) how to manage the direct filing of new actions in the MDL proceedings; and
+
+(E) whether related actions have been—or are expected to be—filed in other courts, and whether to adopt methods for coordinating with them.
+
+  
+
+(3) *Additional Required Content: the Parties' Initial Views on Various Matters.* Unless the court orders otherwise, the report also must address the parties' initial views on:
+
+(A) whether consolidated pleadings should be prepared;
+
+(B) how and when the parties will exchange information about the factual bases for their claims and defenses;
+
+(C) discovery, including any difficult issues that may arise;
+
+(D) any likely pretrial motions;
+
+(E) whether the court should consider any measures to facilitate resolving some or all actions before the court;
+
+(F) whether any matters should be referred to a magistrate judge or a master; and
+
+(G) the principal factual and legal issues likely to be presented.
+
+  
+
+(4) *Permitted Content.* The report may include any other matter that the parties wish to bring to the court's attention.
+
+  
+
+(c) Initial Management Order. After the conference, the court should enter an initial management order addressing the matters in Rule 16.1(b) and, in the court's discretion, any other matters. This order controls the course of the proceedings unless the court modifies it.
+
+(As added Apr. 23, 2025, eff. Dec. 1, 2025.)
+
+#### Committee Notes on Rules—2025
+
+The Multidistrict Litigation Act, 28 U.S.C. §1407, was adopted in 1968. It empowers the Judicial Panel on Multidistrict Litigation to transfer one or more actions for coordinated or consolidated pretrial proceedings to promote the just and efficient conduct of such actions. The number of civil actions subject to transfer orders from the Panel has increased since the statute was enacted but has leveled off in recent years. These actions have accounted for a substantial portion of the federal civil docket. There has been no reference to multidistrict litigation (MDL proceedings) in the Civil Rules. The addition of Rule 16.1 is designed to provide a framework for the initial management of MDL proceedings.
+
+Not all MDL proceedings present the management challenges this rule addresses, and, thus, it is important to maintain flexibility in managing MDL proceedings. Of course, other multiparty litigation that did not result from a Judicial Panel transfer order may present similar management challenges. For example, multiple actions in a single district (sometimes called related cases and assigned by local rule to a single judge) may exhibit characteristics similar to MDL proceedings. In such situations, courts may find it useful to employ procedures similar to those Rule 16.1 identifies in handling those multiparty proceedings. In both MDL proceedings and other multiparty litigation, the Manual for Complex Litigation also may be a source of guidance.
+
+*Rule 16.1(a).* Rule 16.1(a) recognizes that the transferee judge regularly schedules an initial management conference soon after the Judicial Panel transfer occurs. One purpose of the initial management conference is to begin to develop an initial management plan for the MDL proceedings and, thus, this initial conference may only address some of the matters referenced in Rule 16.1(b)(2)–(3). That initial MDL management conference ordinarily would not be the only management conference held during the MDL proceedings. Although holding an initial management conference in MDL proceedings is not mandatory under Rule 16.1(a), early attention to the matters identified in Rule 16.1(b)(2)–(3) should be of great value to the transferee judge and the parties.
+
+*Rule 16.1(b)(1).* The court ordinarily should order the parties to meet to submit a report to the court about the matters designated in Rule 16.1(b)(2)–(3) prior to the initial management conference. This should be a single report, but it may reflect the parties' divergent views on these matters.
+
+*Rule 16.1(b)(2).* Unless the court orders otherwise, the report must address all of the matters identified in Rule 16.1(b)(2) (as well as all those in 16.1(b)(3)). The court also may direct the parties to address any other matter, whether or not listed in Rule 16.1(b) or in Rule 16. Rules 16.1(b) and 16 provide a series of prompts for the court and do not constitute a mandatory checklist for the transferee judge to follow.
+
+The rule distinguishes between the matters identified in Rule 16.1(b)(2)(B)–(E) and in Rule 16.1(b)(3) because court action on a matter identified in Rule 16.1(b)(3) may be premature before leadership counsel is appointed, if that is to occur. For this reason, 16.1(b)(2) calls for the parties' views on the matters designated in (b)(2)\[,\] whereas 16.1(b)(3) requires only the parties' initial views on those matters listed in (b)(3).
+
+Rule 16.1(b)(2)(C) directs the parties to suggest a schedule for additional management conferences during which the same or other matters may be addressed, and the Rule 16.1(c) initial management order controls only until it is modified. The goal of the initial management conference is to begin to develop an initial management plan, not necessarily to adopt a final plan for the entirety of the MDL proceeding. Experience has shown, however, that the matters identified in Rule 16.1(b)(2)(B)–(E) and Rule 16.1(b)(3) are often important to the management of MDL proceedings.
+
+*Rule 16.1(b)(2)(A).* Appointment of leadership counsel is not universally needed in MDL proceedings, and the timing of appointments may vary. But, to manage the MDL proceedings, the court may decide to appoint leadership counsel and many times this will be one of the early orders the transferee judge enters. Rule 16.1(b)(2)(A) calls attention to several topics the court should consider if appointment of leadership counsel seems warranted.
+
+The first topic is the timing of appointment of leadership. Ordinarily, transferee judges enter orders appointing leadership counsel separately from orders addressing the matters in Rule\[s\] 16.1(b)(2)(B)–(E) and 16.1(b)(3).
+
+In some MDL proceedings\[,\] it may be important that leadership counsel be organized into committees with specific duties and responsibilities. Rule 16.1(b)(2)(A)(ii) therefore prompts counsel to provide the court with specific suggestions on the leadership structure that should be employed.
+
+The procedure for selecting leadership counsel is addressed in item (iii). There is no single method that is best for all MDL proceedings. The transferee judge is responsible to ensure that the lawyers appointed to leadership positions are able to do the work and will responsibly and fairly discharge their leadership obligations. In undertaking this process, a transferee judge should consider the benefits of geographical distribution as well as differing experiences, skills, knowledge, and backgrounds. Courts have considered the nature of the actions and parties, the needs of the litigation, and each lawyer's qualifications, expertise, and access to resources. They have also taken into account how the lawyers will complement one another and work collectively.
+
+MDL proceedings do not have the same commonality requirements as class actions, so substantially different categories of claims or parties may be included in the same MDL proceeding and leadership may be comprised of attorneys who represent parties asserting a range of claims in the MDL proceeding. For example, in some MDL proceedings\[,\] there may be claims by individuals who suffered injuries and also claims by third-party payors who paid for medical treatment. The court may need to take these differences into account in making leadership appointments.
+
+Courts have selected leadership counsel through combinations of formal applications, interviews, and recommendations from other counsel and judges who have experience with MDL proceedings.
+
+The rule also calls for advising the court whether appointment to leadership should be reviewed periodically. Transferee courts have found that appointment for a term is useful as a management tool for the court to monitor progress in the MDL proceedings.
+
+Item (iv) recognizes that another important role for leadership counsel in some MDL proceedings is to facilitate resolution of claims. Resolution may be achieved by such means as early exchange of information, expedited discovery, pretrial motions, bellwether trials, and settlement negotiations.
+
+An additional task of leadership counsel is to communicate with the court and with nonleadership counsel as proceedings unfold. Item (v) directs the parties to report how leadership counsel will communicate with the court and nonleadership counsel. In some instances, the court or leadership counsel have created websites that permit nonleadership counsel to monitor the MDL proceedings, and sometimes online access to court hearings provides a method for monitoring the proceedings.
+
+Another responsibility of leadership counsel is to organize the MDL proceedings in accordance with the court's initial management order under Rule 16.1(c). In some MDL proceedings, there may be tension between the approach that leadership counsel takes in handling pretrial matters and the preferences of individual parties and nonleadership counsel. As item (vi) recognizes, it may be necessary for the court to give priority to leadership counsel's pretrial plans when they conflict with initiatives sought by nonleadership counsel. The court should, however, ensure that nonleadership counsel have suitable opportunities to express their views to the court, and take care not to interfere with the responsibilities nonleadership counsel owe their clients.
+
+Finally, item (vii) addresses whether and when to establish a means to compensate leadership counsel for their added responsibilities. Courts have entered orders pursuant to the common benefit doctrine establishing specific protocols for the management of case staffing, timekeeping, cost reimbursement, and related common benefit issues. But it may be best to defer entering a specific order relating to a common benefit fee and expenses until well into the proceedings, when the court is more familiar with the effects of such an order and the activities of leadership counsel.
+
+If proposed class actions are included within the MDL proceeding, Rule 23(g) applies to appointment of class counsel should the court eventually certify one or more classes, and the court may also choose to appoint interim class counsel before resolving the certification question. In such MDL proceedings, the court must be alert to the relative responsibilities of leadership counsel under Rule 16.1 and class counsel under Rule 23(g). Rule 16.1 does not displace Rule 23.
+
+*Rule 16.1(b)(2)(B)–(E) and (3).* Rule 16.1(b)(2) and (3) identify a number of matters that often are important in the management of MDL proceedings. The matters identified in Rule 16.1(b)(2)(B)–(E) frequently call for early action by the court. The matters identified by Rule 16.1(b)(3) are in a separate paragraph of the rule because, in the absence of appointment of leadership counsel should appointment be warranted, the parties may be able to provide only their initial views on these matters at the conference.
+
+*Rule 16.1(b)(2)(B).* When multiple actions are transferred to a single district pursuant to 28 U.S.C. §1407, those actions may have reached different procedural stages in the district courts from which they were transferred. In some, Rule 26(f) conferences may have occurred and Rule 16(b) scheduling orders may have been entered. Those scheduling orders are likely to vary. Managing the centralized MDL proceedings in a consistent manner may warrant vacating or modifying scheduling orders or other orders entered in the transferor district courts, as well as any scheduling orders previously entered by the transferee judge.
+
+*Rule 16.1(b)(2)(C).* The Rule 16.1(a) conference is the initial management conference. Although there is no requirement that there be further management conferences, courts generally conduct management conferences throughout the duration of the MDL proceeding to effectively manage the litigation and promote clear, orderly, and open channels of communication between the parties and the court on a regular basis.
+
+*Rule 16.1(b)(2)(D).* When large numbers of tagalong actions (actions that are filed in or removed to federal court after the Judicial Panel has created the MDL proceeding) are anticipated, some parties have stipulated to "direct filing" orders entered by the court to provide a method to avoid the transferee judge receiving numerous cases through transfer rather than direct filing. If a direct filing order is entered, it is important to address other matters that can arise, such as properly handling any jurisdictional or venue issues that might be presented, identifying the appropriate district court for remand at the end of the pretrial phase, how time limits such as statutes of limitations should be handled, and how choice of law issues should be addressed. Sometimes\[,\] liaison counsel may be appointed specifically to report on developments in related litigation (e.g., state courts and bankruptcy courts) at the case management conferences.
+
+*Rule 16.1(b)(2)(E).* On occasion\[,\] there are actions in other courts that are related to the MDL proceeding. Indeed, a number of state court systems have mechanisms like \[28 U.S.C.\] §1407 to aggregate separate actions in their courts. In addition, it may happen that a party to an MDL proceeding is a party to another action that presents issues related to or bearing on issues in the MDL proceeding.
+
+The existence of such actions can have important consequences for the management of the MDL proceeding. For example, the coordination of overlapping discovery is often important. If the court is considering adopting a common benefit fund order, consideration of the relative importance of the various proceedings may be important to ensure a fair arrangement. It is important that the MDL transferee judge be aware of whether such actions in other courts have been filed or are anticipated.
+
+*Rule 16.1(b)(3).* As compared to the matters listed in Rule 16.1(b)(2)(B)–(E), Rule 16.1(b)(3) identifies matters that may be more fully addressed once leadership is appointed, should leadership be recommended, and thus, in their report the parties may only be able to provide their initial views on these matters.
+
+*Rule 16.1(b)(3)(A).* For case management purposes, some courts have required consolidated pleadings, such as master complaints and answers, in addition to short form complaints. Such consolidated pleadings may be useful for determining the scope of discovery and may also be employed in connection with pretrial motions, such as motions under Rule 12 or Rule 56. The Rules of Civil Procedure, including the pleading rules, continue to apply in all MDL proceedings. The relationship between the consolidated pleadings and individual pleadings filed in or transferred to the MDL proceedings depends on the purpose of the consolidated pleadings in the MDL proceeding. Decisions regarding whether to use master pleadings can have significant implications in MDL proceedings, as the Supreme Court noted in *Gelboim v. Bank of America Corp.*, 574 U.S. 405, 413 n.3 (2015).
+
+*Rule 16.1(b)(3)(B).* In some MDL proceedings, concerns have been raised on both the plaintiff side and the defense side that some claims and defenses have been asserted without the inquiry called for by Rule 11(b). Experience has shown that in many cases an early exchange of information about the factual bases for claims and defenses can facilitate efficient management. Some courts have utilized "fact sheets" or a "census" as methods to take a survey of the claims and defenses presented, largely as a management method for planning and organizing the proceedings. Such methods can be used early on when information is being exchanged between the parties or during the discovery process addressed in Rule 16.1(b)(3)(C).
+
+The level of detail called for by such methods should be carefully considered to meet the purpose to be served and avoid undue burdens. Early exchanges may depend on a number of factors, including the types of cases before the court. And the timing of these exchanges may depend on other factors, such as motions to dismiss or other early matters and their impact on the early exchange of information. Other factors might include whether there are issues that should be addressed early in the proceeding (e.g., jurisdiction, general causation, or preemption) and the number of plaintiffs in the MDL proceeding.
+
+This court-ordered exchange of information may be ordered independently from the discovery rules, which are addressed in Rule 16.1(b)(3)(C). Alternatively, in some cases, transferee judges have ordered that such exchanges of information be made under Rule 33 or 34. Under some circumstances—after taking account of whether the party whose claim or defense is involved has reasonable access to needed information—the court may find it appropriate to employ expedited methods to resolve claims or defenses not supported after the required information exchange.
+
+*Rule 16.1(b)(3)(C).* A major task for the MDL transferee judge is to supervise discovery in an efficient manner. The principal issues in the MDL proceeding may help guide the discovery plan and avoid inefficiencies and unnecessary duplication.
+
+*Rule 16.1(b)(3)(D).* Early attention to likely pretrial motions can be important to facilitate progress and efficiently manage the MDL proceedings. The manner and timing in which certain legal and factual issues are to be addressed by the court can be important in determining the most efficient method for discovery.
+
+*Rule 16.1(b)(3)(E).* The court may consider measures to facilitate the resolution of some or all actions before the court. In MDL proceedings, in addition to mediation and other dispute resolution alternatives, focused discovery orders, timely adjudication of principal legal issues, selection of representative bellwether trials, and coordination with state courts may facilitate resolution. Ultimately, the question of whether parties reach a settlement is just that—a decision to be made by the parties.
+
+*Rule 16.1(b)(3)(F).* MDL transferee judges may refer matters to a magistrate judge or a master to expedite the pretrial process or to play a part in facilitating communication between the parties, including but not limited to settlement negotiations. It can be valuable for the court to know the parties' positions about the possible appointment of a master before considering whether such an appointment should be made. Rule 53 prescribes procedures for appointment of a master.
+
+*Rule 16.1(b)(3)(G).* Orderly and efficient pretrial activity in MDL proceedings can be facilitated by early identification of the principal factual and legal issues likely to be presented. Depending on the issues presented, the court may conclude that certain factual issues should be pursued through early discovery, and certain legal issues should be addressed through early motion practice.
+
+*Rule 16.1(b)(4).* In addition to the matters the court has directed counsel to address, the parties may choose to discuss and report about other matters that they believe the transferee judge should address at the initial management conference.
+
+*Rule 16.1(c).* Effective and efficient management of MDL proceedings benefits from a comprehensive management order. An initial management order need not address all matters designated under Rule 16.1(b) if the court determines the matters are not significant to the MDL proceeding or would better be addressed in a subsequent order. There is no requirement under Rule 16.1 that the court set specific time limits or other scheduling provisions as in ordinary litigation under Rule 16(b)(3)(A). Because active judicial management of MDL proceedings must be flexible, the court should be open to modifying its initial management order in light of developments in the MDL proceedings. Such modification may be particularly appropriate if leadership counsel is appointed after the initial management conference under Rule 16.1(a).
+
 ### TITLE IV. PARTIES
 
 ### Rule 17. Plaintiff and Defendant; Capacity; Public Officers
@@ -8415,7 +8718,7 @@ Finally, the order may direct that before filing a motion for an order relating 
 
 #### Notes of Advisory Committee on Rules—1937
 
-*Note to Subdivision (a)*. The real party in interest provision, except for the last clause which is new, is taken verbatim from \[former\] Equity Rule 37 (Parties Generally—Intervention), except that the word "expressly" has been omitted. For similar provisions see N.Y.C.P.A. (1937) §210; Wyo.Rev.Stat.Ann. (1931) §§89–501, 89–502, 89–503; *English Rules Under the Judicature Act* (The Annual Practice, 1937) O. 16, r. 8. See also Equity Rule 41 (Suit to Execute Trusts of Will—Heir as Party). For examples of statutes of the United States providing particularly for an action for the use or benefit of another in the name of the United States, see U.S.C., \[former\] Title 40, §270b (Suit by persons furnishing labor and material for work on public building contracts \* \* \* may sue on a payment bond, "in the name of the United States for the use of the person suing") \[now 40 U.S.C. §3133(b), (c)\]; and U.S.C., Title 25, §201 (Penalties under laws relating to Indians—how recovered). Compare U.S.C., Title 26, \[former\] §1645(c) (Suits for penalties, fines, and forfeitures, under this title, where not otherwise provided for, to be in name of United States).
+*Note to Subdivision (a)*. The real party in interest provision, except for the last clause which is new, is taken verbatim from \[former\] Equity Rule 37 (Parties Generally—Intervention), except that the word "expressly" has been omitted. For similar provisions see N.Y.C.P.A. (1937) §210; Wyo.Rev.Stat.Ann. (1931) §§89–501, 89–502, 89–503; *English Rules Under the Judicature Act* (The Annual Practice, 1937) O. 16, r. 8. See also Equity Rule 41 (Suit to Execute Trusts of Will—Heir as Party). For examples of statutes of the United States providing particularly for an action for the use or benefit of another in the name of the United States, see U.S.C., Title 40, §270b \[(Supp. I 1935), see 40 U.S.C. 3133(b), (c)\] (Suit by persons furnishing labor and material for work on public building contracts \* \* \* may sue on a payment bond, "in the name of the United States for the use of the person suing"); and U.S.C., Title 25, §201 (Penalties under laws relating to Indians—how recovered). Compare U.S.C., Title 26, \[former\] §1645(c) (Suits for penalties, fines, and forfeitures, under this title, where not otherwise provided for, to be in name of United States).
 
 *Note to Subdivision (b)*. For capacity see generally Clark and Moore, *A New Federal Civil Procedure—II. Pleadings and Parties*, 44 Yale L.J. 1291, 1312–1317 (1935) and specifically *Coppedge v. Clinton*, 72 F.(2d) 531 (C.C.A.10th, 1934) (natural person); *David Lupton's Sons Co. v. Automobile Club of America*, 225 U.S. 489 (1912) (corporation); *Puerto Rico v. Russell & Co*., 288 U.S. 476 (1933) (unincorporated ass'n.); *United Mine Workers of America v. Coronado Coal Co*., 259 U.S. 344 (1922) (federal substantive right enforced against unincorporated association by suit against the association in its common name without naming all its members as parties). This rule follows the existing law as to such associations, as declared in the case last cited above. Compare *Moffat Tunnel League v. United States*, 289 U.S. 113 (1933). See note to Rule 23, clause (1).
 
@@ -9971,7 +10274,7 @@ Table Showing Rearrangement of Rules
 
 (C) any issues about disclosure, discovery, or preservation of electronically stored information, including the form or forms in which it should be produced;
 
-(D) any issues about claims of privilege or of protection as trial-preparation materials, including—if the parties agree on a procedure to assert these claims after production—whether to ask the court to include their agreement in an order under Federal Rule of Evidence 502;
+(D) any issues about claims of privilege or of protection as trial-preparation materials, including the timing and method for complying with Rule 26(b)(5)(A) and—if the parties agree on a procedure to assert these claims after production—whether to ask the court to include their agreement in an order under Federal Rule of Evidence 502;
 
 (E) what changes should be made in the limitations on discovery imposed under these rules or by local rule, and what other limitations should be imposed; and
 
@@ -10007,7 +10310,7 @@ Table Showing Rearrangement of Rules
 
 (3) *Sanction for Improper Certification.* If a certification violates this rule without substantial justification, the court, on motion or on its own, must impose an appropriate sanction on the signer, the party on whose behalf the signer was acting, or both. The sanction may include an order to pay the reasonable expenses, including attorney's fees, caused by the violation.
 
-(As amended Dec. 27, 1946, eff. Mar. 19, 1948; Jan. 21, 1963, eff. July 1, 1963; Feb. 28, 1966, eff. July 1, 1966; Mar. 30, 1970, eff. July 1, 1970; Apr. 29, 1980, eff. Aug. 1, 1980; Apr. 28, 1983, eff. Aug. 1, 1983; Mar. 2, 1987, eff. Aug. 1, 1987; Apr. 22, 1993, eff. Dec. 1, 1993; Apr. 17, 2000, eff. Dec. 1, 2000; Apr. 12, 2006, eff. Dec. 1, 2006; Apr. 30, 2007, eff. Dec. 1, 2007; Apr. 28, 2010, eff. Dec. 1, 2010; Apr. 29, 2015, eff. Dec. 1, 2015.)
+(As amended Dec. 27, 1946, eff. Mar. 19, 1948; Jan. 21, 1963, eff. July 1, 1963; Feb. 28, 1966, eff. July 1, 1966; Mar. 30, 1970, eff. July 1, 1970; Apr. 29, 1980, eff. Aug. 1, 1980; Apr. 28, 1983, eff. Aug. 1, 1983; Mar. 2, 1987, eff. Aug. 1, 1987; Apr. 22, 1993, eff. Dec. 1, 1993; Apr. 17, 2000, eff. Dec. 1, 2000; Apr. 12, 2006, eff. Dec. 1, 2006; Apr. 30, 2007, eff. Dec. 1, 2007; Apr. 28, 2010, eff. Dec. 1, 2010; Apr. 29, 2015, eff. Dec. 1, 2015; Apr. 23, 2025, eff. Dec. 1, 2025.)
 
 #### Notes of Advisory Committee on Rules—1937
 
@@ -10628,6 +10931,16 @@ Rule 26(d)(2) is added to allow a party to deliver Rule 34 requests to another p
 Rule 26(d)(3) is renumbered and amended to recognize that the parties may stipulate to case-specific sequences of discovery.
 
 Rule 26(f)(3) is amended in parallel with Rule 16(b)(3) to add two items to the discovery plan—issues about preserving electronically stored information and court orders under Evidence Rule 502.
+
+#### Committee Notes on Rules—2025 Amendment
+
+Rule 26(f)(3)(D) is amended to address concerns about application of the requirement in Rule 26(b)(5)(A), which requires that producing parties describe materials withheld on grounds of privilege or as trial-preparation materials in a manner that "will enable other parties to assess the claim." Compliance with Rule 26(b)(5)(A) can involve very large burdens for all parties.
+
+Rule 26(b)(5)(A) was adopted in 1993, and from the outset was intended to recognize the need for flexibility. This amendment directs the parties to address the question of how they will comply with Rule 26(b)(5)(A) in their discovery plan, and report to the court about this topic. A companion amendment to Rule 16(b)(3)(B)(iv) seeks to prompt the court to include provisions about complying with Rule 26(b)(5)(A) in scheduling or case management orders.
+
+This amendment also seeks to provide the parties maximum flexibility in designing an appropriate method for identifying the grounds for withholding materials. Depending on the nature of the litigation, the nature of the materials sought through discovery, and the nature of the privilege or protection involved, what is needed in one case may not be necessary in another. No one-size-fits-all approach would actually be suitable in all cases.
+
+Requiring that discussion of this topic begin at the outset of the litigation and that the court be advised of the parties' plans or disagreements in this regard is a key purpose of this amendment, and should minimize problems later on, particularly if objections to a party's compliance with Rule 26(b)(5)(A) might otherwise emerge only at the end of the discovery period. Production of a privilege log near the close of the discovery period can create serious problems. Often\[,\] it will be valuable to provide for "rolling" production of materials and an appropriate description of the nature of the withheld material. In that way, areas of potential dispute may be identified and, if the parties cannot resolve them, presented to the court for resolution.
 
 #### References in Text
 
@@ -11737,7 +12050,7 @@ Physical examination of parties before trial is authorized by statute or rule in
 
 Mental examination of parties is authorized in Iowa. Iowa Code (1935) ch. 491–F1. See McCash, *The Evolution of the Doctrine of Discovery and Its Present Status in Iowa*, 20 Ia.L.Rev. 68 (1934).
 
-The constitutionality of legislation providing for physical examination of parties was sustained in *Lyon v. Manhattan Railway Co*., 142 N.Y. 298, 37 N.E. 113 (1894), and *McGovern v. Hope*, 63 N.J.L. 76, 42 Atl. 830 (1899). In *Union Pacific Ry. Co. v. Botsford*, 141 U.S. 250 (1891), it was held that the court could not order the physical examination of a party in the absence of statutory authority. But in *Camden and Suburban Ry. Co. v. Stetson*, 177 U.S. 172 (1900) where there was statutory authority for such examination, derived from a state statute made operative by the conformity act, the practice was sustained. Such authority is now found in the present rule made operative by the Act of June 19, 1934, ch. 651, U.S.C., Title 28, §§723b \[see 2072\] (Rules in actions at law; Supreme Court authorized to make) and 723c \[see 2072\] (Union of equity and action at law rules; power of Supreme Court).
+The constitutionality of legislation providing for physical examination of parties was sustained in *Lyon v. Manhattan Railway Co*., 142 N.Y. 298, 37 N.E. 113 (1894), and *McGovern v. Hope*, 63 N.J.L. 76, 42 Atl. 830 (1899). In *Union Pacific Ry. Co. v. Botsford*, 141 U.S. 250 (1891), it was held that the court could not order the physical examination of a party in the absence of statutory authority. But in *Camden and Suburban Ry. Co. v. Stetson*, 177 U.S. 172 (1900) where there was statutory authority for such examination, derived from a state statute made operative by the conformity act, the practice was sustained. Such authority is now found in the present rule made operative by the Act of June 19, 1934, ch. 651, U.S.C., Title 28, §§723b \[see former 2072\] (Rules in actions at law; Supreme Court authorized to make) and 723c \[see former 2072\] (Union of equity and action at law rules; power of Supreme Court).
 
 #### Notes of Advisory Committee on Rules—1970 Amendment
 
@@ -12259,7 +12572,7 @@ Amendment by Pub. L. 96–481 effective Oct. 1, 1981, and applicable to adversar
 
 #### Notes of Advisory Committee on Rules—1937
 
-This rule provides for the preservation of the constitutional right of trial by jury as directed in the enabling act (act of June 19, 1934, 48 Stat. 1064, U.S.C., Title 28, §723c \[see 2072\]), and it and the next rule make definite provision for claim and waiver of jury trial, following the method used in many American states and in England and the British Dominions. Thus the claim must be made at once on initial pleading or appearance under Ill.Rev.Stat. (1937) ch. 110, §188; 6 Tenn.Code Ann. (Williams, 1934) §8734; compare Wyo.Rev.Stat.Ann. (1931) §89–1320 (with answer or reply); within 10 days after the pleadings are completed or the case is at issue under 2 Conn.Gen.Stat. (1930) §5624; Hawaii Rev.Laws (1935) §4101; 2 Mass.Gen.Laws (Ter.Ed. 1932) ch. 231, §60; 3 Mich.Comp.Laws (1929) §14263; Mich.Court Rules Ann. (Searl, 1933) Rule 33 (15 days); England (until 1933) O. 36, r.r. 2 and 6; and Ontario Jud.Act (1927) §57(1) (4 days, or, where prior notice of trial, 2 days from such notice); or at a definite time varying under different codes, from 10 days before notice of trial to 10 days after notice, or, as in many, when the case is called for assignment, Ariz.Rev.Code Ann. (Struckmeyer, 1928) §3802; Calif.Code Civ.Proc. (Deering, 1937) §631, par. 4; Iowa Code (1935) §10724; 4 Nev.Comp.Laws (Hillyer, 1929) §8782; N.M.Stat.Ann. (Courtright, 1929) §105–814; N.Y.C.P.A. (1937) §426, subdivision 5 (applying to New York, Bronx, Richmond, Kings, and Queens Counties); R.I.Pub.Laws (1929), ch. 1327, amending R.I.Gen.Laws (1923) ch. 337, §6; Utah Rev.Stat.Ann. (1933) §104–23–6; 2 Wash.Rev.Stat.Ann. (Remington, 1932) §316; England (4 days after notice of trial), Administration of Justice Act (1933) §6 and amended rule under the Judicature Act (The Annual Practice, 1937), O. 36, r. 1; Australia High Court Procedure Act (1921) §12, Rules, O. 33, r. 2; Alberta Rules of Ct. (1914) 172, 183, 184; British Columbia Sup.Ct.Rules (1925) O. 36, r.r. 2, 6, 11, and 16; New Brunswick Jud. Act (1927) O. 36, r.r. 2 and 5. See James, *Trial by Jury and the New Federal Rules of Procedure* (1936), 45 Yale L.J. 1022.
+This rule provides for the preservation of the constitutional right of trial by jury as directed in the enabling act (act of June 19, 1934, 48 Stat. 1064, U.S.C., Title 28, §723c \[see former 2072\]), and it and the next rule make definite provision for claim and waiver of jury trial, following the method used in many American states and in England and the British Dominions. Thus the claim must be made at once on initial pleading or appearance under Ill.Rev.Stat. (1937) ch. 110, §188; 6 Tenn.Code Ann. (Williams, 1934) §8734; compare Wyo.Rev.Stat.Ann. (1931) §89–1320 (with answer or reply); within 10 days after the pleadings are completed or the case is at issue under 2 Conn.Gen.Stat. (1930) §5624; Hawaii Rev.Laws (1935) §4101; 2 Mass.Gen.Laws (Ter.Ed. 1932) ch. 231, §60; 3 Mich.Comp.Laws (1929) §14263; Mich.Court Rules Ann. (Searl, 1933) Rule 33 (15 days); England (until 1933) O. 36, r.r. 2 and 6; and Ontario Jud.Act (1927) §57(1) (4 days, or, where prior notice of trial, 2 days from such notice); or at a definite time varying under different codes, from 10 days before notice of trial to 10 days after notice, or, as in many, when the case is called for assignment, Ariz.Rev.Code Ann. (Struckmeyer, 1928) §3802; Calif.Code Civ.Proc. (Deering, 1937) §631, par. 4; Iowa Code (1935) §10724; 4 Nev.Comp.Laws (Hillyer, 1929) §8782; N.M.Stat.Ann. (Courtright, 1929) §105–814; N.Y.C.P.A. (1937) §426, subdivision 5 (applying to New York, Bronx, Richmond, Kings, and Queens Counties); R.I.Pub.Laws (1929), ch. 1327, amending R.I.Gen.Laws (1923) ch. 337, §6; Utah Rev.Stat.Ann. (1933) §104–23–6; 2 Wash.Rev.Stat.Ann. (Remington, 1932) §316; England (4 days after notice of trial), Administration of Justice Act (1933) §6 and amended rule under the Judicature Act (The Annual Practice, 1937), O. 36, r. 1; Australia High Court Procedure Act (1921) §12, Rules, O. 33, r. 2; Alberta Rules of Ct. (1914) 172, 183, 184; British Columbia Sup.Ct.Rules (1925) O. 36, r.r. 2, 6, 11, and 16; New Brunswick Jud. Act (1927) O. 36, r.r. 2 and 5. See James, *Trial by Jury and the New Federal Rules of Procedure* (1936), 45 Yale L.J. 1022.
 
 Rule 81(c) provides for claim for jury trial in removed actions.
 
@@ -12325,7 +12638,7 @@ Each court must provide by rule for scheduling trials. The court must give prior
 
 U.S.C., Title 28, \[former\] §769 (Notice of case for trial) is modified. See \[former\] Equity Rule 56 (On Expiration of Time for Depositions, Case Goes on Trial Calendar). See also \[former\] Equity Rule 57 (Continuances).
 
-For examples of statutes giving precedence, see U.S.C., Title 28, §47 \[now 1253, 2101, 2325\] (Injunctions as to orders of Interstate Commerce Commission); §380 \[now 1253, 2101, 2284\] (Injunctions alleged unconstitutionality of state statutes); §380a \[now 1253, 2101, 2284\] (Same; Constitutionality of federal statute); \[former\] §768 (Priority of cases where a state is party); Title 15, §28 (Antitrust laws; suits against monopolies expedited); Title 22, §240 (Petition for restoration of property seized as munitions of war, etc.); and Title 49, \[former\] §44 (Proceedings in equity under interstate commerce laws; expedition of suits).
+For examples of statutes giving precedence, see U.S.C., Title 28, §47 \[see 1253, 2101, 2284, former 2325\] (Injunctions as to orders of Interstate Commerce Commission); §380 \[see 1253, 2101, former 2281, 2284\] (Injunctions alleged unconstitutionality of state statutes); §380a \[see 1253, 2101, former 2282, 2284\] (Same; Constitutionality of federal statute); \[former\] §768 (Priority of cases where a state is party); Title 15, \[former\] §28 (Antitrust laws; suits against monopolies expedited); Title 22, \[former\] §240 (Petition for restoration of property seized as munitions of war, etc.); and Title 49, \[former\] §44 \[see former 15 U.S.C. 28\] (Proceedings in equity under interstate commerce laws; expedition of suits).
 
 #### Committee Notes on Rules—2007 Amendment
 
@@ -12377,7 +12690,7 @@ The best methods for scheduling trials depend on local conditions. It is useful 
 
 *Note to Subdivision (a)*. Compare Ill.Rev.Stat. (1937) ch. 110, §176, and *English Rules Under the Judicature Act* (The Annual Practice, 1937) O. 26.
 
-Provisions regarding dismissal in such statutes as U.S.C., Title 8, §164 \[see 1329\] (Jurisdiction of district courts in immigration cases) and U.S.C., Title 31, §232 \[now 3730\] (Liability of persons making false claims against United States; suits) are preserved by paragraph (1).
+Provisions regarding dismissal in such statutes as U.S.C., Title 8, §164 \[see 1329\] (Jurisdiction of district courts in immigration cases) and U.S.C., Title 31, §232 \[see 3730, 3731\] (Liability of persons making false claims against United States; suits) are preserved by paragraph (1).
 
 *Note to Subdivision (b)*. This provides for the equivalent of a nonsuit on motion by the defendant after the completion of the presentation of evidence by the plaintiff. Also, for actions tried without a jury, it provides the equivalent of the directed verdict practice for jury actions which is regulated by Rule 50.
 
@@ -12473,7 +12786,7 @@ The language of Rule 42 has been amended as part of the general restyling of the
 
 #### Notes of Advisory Committee on Rules—1937
 
-*Note to Subdivision (a)*. The first sentence is a restatement of the substance of U.S.C., Title 28, \[former\] §635 (Proof in common-law actions), §637 \[see 2072, 2073\] (Proof in equity and admiralty), and \[former\] Equity Rule 46 (Trial—Testimony Usually Taken in Open Court—Rulings on Objections to Evidence). This rule abolishes in patent and trade-mark actions, the practice under \[former\] Equity Rule 48 of setting forth in affidavits the testimony in chief of expert witnesses whose testimony is directed to matters of opinion. The second and third sentences on admissibility of evidence and *Subdivision (b)* on contradiction and cross-examination modify U.S.C., Title 28, §725 \[now 1652\] (Laws of states as rules of decision) insofar as that statute has been construed to prescribe conformity to state rules of evidence. Compare Callihan and Ferguson, *Evidence and the New Federal Rules of Civil Procedure*, 45 Yale L.J. 622 (1936), and *Same: 2*, 47 Yale L.J. 195 (1937). The last sentence modifies to the extent indicated U.S.C., Title 28, \[former\] §631 (Competency of witnesses governed by State laws).
+*Note to Subdivision (a)*. The first sentence is a restatement of the substance of U.S.C., Title 28, \[former\] §635 (Proof in common-law actions), §637 \[see former 2072, former 2073\] (Proof in equity and admiralty), and \[former\] Equity Rule 46 (Trial—Testimony Usually Taken in Open Court—Rulings on Objections to Evidence). This rule abolishes in patent and trade-mark actions, the practice under \[former\] Equity Rule 48 of setting forth in affidavits the testimony in chief of expert witnesses whose testimony is directed to matters of opinion. The second and third sentences on admissibility of evidence and *Subdivision (b)* on contradiction and cross-examination modify U.S.C., Title 28, §725 \[now 1652\] (Laws of states as rules of decision) insofar as that statute has been construed to prescribe conformity to state rules of evidence. Compare Callihan and Ferguson, *Evidence and the New Federal Rules of Civil Procedure*, 45 Yale L.J. 622 (1936), and *Same: 2*, 47 Yale L.J. 195 (1937). The last sentence modifies to the extent indicated U.S.C., Title 28, \[former\] §631 (Competency of witnesses governed by State laws).
 
 *Note to Subdivision (b)*. See 4 *Wigmore on Evidence* (2d ed., 1923) §1885 *et seq.*
 
@@ -12481,7 +12794,7 @@ The language of Rule 42 has been amended as part of the general restyling of the
 
 See Rule 61 for harmless error in either the admission or exclusion of evidence.
 
-*Note to Subdivision (d)*. See \[former\] Equity Rule 78 (Affirmation in Lieu of Oath) and U.S.C., Title 1, §1 (Words importing singular number, masculine gender, etc.; extended application), providing for affirmation in lieu of oath.
+*Note to Subdivision (d)*. See \[former\] Equity Rule 78 (Affirmation in Lieu of Oath) and U.S.C., Title 1, §1 \[(1934)\] (Words importing singular number, masculine gender, etc.; extended application), providing for affirmation in lieu of oath.
 
 #### Notes of Advisory Committee on Rules—1946 Supplementary Note Regarding Rules 43 and 44
 
@@ -12633,7 +12946,7 @@ U.S.C., Title 28:
 
  §688 \[now 1739\] (Proofs of records in offices not pertaining to courts)
 
- §689 \[now 1742\] (Copies of foreign records relating to land titles)
+ §689 \[see former 1742\] (Copies of foreign records relating to land titles)
 
  §695 \[now 1732\] (Writings and records made in regular course of business; admissibility)
 
@@ -12649,7 +12962,7 @@ U.S.C., Title 1:
 
  §54 \[now 204\] (Codes and supplements as establishing prima facie the laws of United States and District of Columbia, etc.)
 
- §55 \[now 208\] (Copies of supplements to Code of Laws of United States and of District of Columbia Code and supplements; conclusive evidence of original)
+ §55 \[now 209\] (Copies of supplements to Code of Laws of United States and of District of Columbia Code and supplements; conclusive evidence of original)
 
   
 
@@ -12661,7 +12974,7 @@ U.S.C., Title 5:
 
 U.S.C., Title 6:
 
- §7 \[now Title 31, §9306\] (Surety Companies as sureties; appointment of agents; service of process)
+ §7 \[now 31 U.S.C. 9306\] (Surety Companies as sureties; appointment of agents; service of process)
 
   
 
@@ -12687,7 +13000,7 @@ U.S.C., Title 11:
 
 U.S.C., Title 15:
 
- §127 (Trade-mark records in Patent Office; copies as evidence)
+ §127 \[see 1075(f)\] (Trade-mark records in Patent Office; copies as evidence)
 
   
 
@@ -12739,7 +13052,7 @@ U.S.C., Title 46:
 
 U.S.C., Title 47:
 
- §154(m) (Federal Communications Commission; copies of reports and decisions as evidence)
+ §154(m) \[now 154(l)\] (Federal Communications Commission; copies of reports and decisions as evidence)
 
  §412 (Documents filed with Federal Communications Commission as public records; prima facie evidence; confidential records)
 
@@ -12747,11 +13060,11 @@ U.S.C., Title 47:
 
 U.S.C., Title 49:
 
- §14(3) \[see 706\] (Interstate Commerce Commission reports and decisions; printing and distribution of copies)
+ §14(3) \[see 1306\] (Interstate Commerce Commission reports and decisions; printing and distribution of copies)
 
- §16(13) \[former\] (Copies of schedules, tariffs, etc., filed with Interstate Commerce Commission as evidence)
+ §16(13) \[see former 10303\] (Copies of schedules, tariffs, etc., filed with Interstate Commerce Commission as evidence)
 
- §19a(i) \[former\] (Valuation of property of carriers by Interstate Commerce Commission; final published valuations as evidence)
+ §19a(i) \[see former 10785\] (Valuation of property of carriers by Interstate Commerce Commission; final published valuations as evidence)
 
 #### Notes of Advisory Committee on Rules—1946 Supplementary Note Regarding Rules 43 and 44
 
@@ -12775,7 +13088,7 @@ Although the amended rule will generally facilitate proof of foreign official re
 
 *Subdivision (b)*. This provision relating to proof of lack of record is accommodated to the changes made in subdivision (a).
 
-*Subdivision (c)*. The amendment insures that international agreements of the United States are unaffected by the rule. Several consular conventions contain provisions for reception of copies or summaries of foreign official records. See, e.g., Consular Conv. with Italy, May 8, 1878, art. X, 20 Stat. 725, T.S. No. 178 (Dept. State 1878). See also 28 U.S.C. §§1740–42, 1745; *Fakouri v. Cadais*, 149 F.2d 321 (5th Cir. 1945), cert. denied, 326 U.S. 742 (1945); 5 *Moore's Federal Practice*, par. 44.05 (2d ed. 1951).
+*Subdivision (c)*. The amendment insures that international agreements of the United States are unaffected by the rule. Several consular conventions contain provisions for reception of copies or summaries of foreign official records. See, e.g., Consular Conv. with Italy, May 8, 1878, art. X, 20 Stat. 725, T.S. No. 178 (Dept. State 1878). See also 28 U.S.C. §§1740–\[former 17\]42, 1745; *Fakouri v. Cadais*, 149 F.2d 321 (5th Cir. 1945), cert. denied, 326 U.S. 742 (1945); 5 *Moore's Federal Practice*, par. 44.05 (2d ed. 1951).
 
 #### Notes of Advisory Committee on Rules—1987 Amendment
 
@@ -12997,39 +13310,39 @@ This rule applies to subpoenas *ad testificandum* and *duces tecum* issued by th
 
  U.S.C., Title 15, §49 (Federal Trade Commission)
 
- U.S.C., Title 15, §§77v(b), 78u(c), 79r(d) (Securities and Exchange Commission)
+ U.S.C., Title 15, §§77v(b), 78u(c), \[former\] 79r(d) (Securities and Exchange Commission)
 
  U.S.C., Title 16, §§797(g) and 825f (Federal Power Commission)
 
  U.S.C., Title 19, §1333(b) (Tariff Commission)
 
- U.S.C., Title 22, §§268, 270d and 270e (International Commissions, etc.)
+ U.S.C., Title 22, §§268, \[former\] 270d and \[former\] 270e (International Commissions, etc.)
 
- U.S.C., Title 26, §§614, 619(b) \[see 7456\] (Board of Tax Appeals)
+ U.S.C., Title 26, §§614, 619(b) \[see 6902(b), 7456\] (Board of Tax Appeals)
 
- U.S.C., Title 26, §1523(a) \[see 7608\] (Internal Revenue Officers)
+ U.S.C., Title 26, §1523(a) \[see 7402(b), 7604(a)\] (Internal Revenue Officers)
 
  U.S.C., Title 29, §161 (Labor Relations Board)
 
- U.S.C., Title 33, §506 (Secretary of Army)
+ U.S.C., Title 33, \[former\] §506 (Secretary of Army)
 
  U.S.C., Title 35, §§54–56 \[now 24\] (Patent Office proceedings)
 
  U.S.C., Title 38, \[former\] §133 (Veterans' Administration)
 
- U.S.C., Title 41, §39 (Secretary of Labor)
+ U.S.C., Title 41, §39 \[see 6507\] (Secretary of Labor)
 
  U.S.C., Title 45, §157 Third. (h) (Board of Arbitration under Railway Labor Act)
 
- U.S.C., Title 45, §222(b) (Investigation Commission under Railroad Retirement Act of 1935)
+ U.S.C., Title 45, \[former\] §222(b) (Investigation Commission under Railroad Retirement Act of 1935)
 
- U.S.C., Title 46 \[App.\], §1124(b) (Maritime Commission)
+ U.S.C., \[former\] Title 46 \[App.\], §1124(b) \[see 46 U.S.C. 50306\] (Maritime Commission)
 
- U.S.C., Title 47, §409(c) and (d) (Federal Communications Commission)
+ U.S.C., Title 47, §409(c) and (d) \[now 409(f), (g)\] (Federal Communications Commission)
 
- U.S.C., Title 49, §12(2) and (3) \[see 721(c) and 13301(c)\] (Interstate Commerce Commission)
+ U.S.C., Title 49, §12(2) and (3) \[see 1321(c) and 13301(c)\] (Interstate Commerce Commission)
 
- U.S.C., Title 49, §173a \[see 46104\] (Secretary of Commerce)
+ U.S.C., Title 49, §173a \[former\] (Secretary of Commerce)
 
   
 
@@ -13053,7 +13366,7 @@ U.S.C., Title 28:
 
  §602 \[now 1824\] (Fees and mileage of jurors and witnesses)
 
- §603 \[see Title 5, §§5515, 5537\] (No officer of court to have witness fees)
+ §603 \[see 5 U.S.C. 5515, 5537, 5751, 6322\] (No officer of court to have witness fees)
 
   
 
@@ -13341,7 +13654,7 @@ Provisions for qualifying, drawing, and challenging of jurors are found in U.S.C
 
   
 
-and D.C. Code (1930) Title 18, §§341–360 (Juries and Jury Commission) and Title 6, §366 (Peremptory challenges.
+and D.C. Code (1930) Title 18, §§341–360 (Juries and Jury Commission) and Title 6, §366 (Peremptory challenges).
 
 #### Notes of Advisory Committee on Rules—1966 Amendment
 
@@ -14131,19 +14444,19 @@ The time set in the former rule at 20 days has been revised to 21 days. See the 
 
 *Note to Subdivision (d)*. For the present rule in common law actions, see *Ex parte Peterson*, 253 U.S. 300, 40 S.Ct. 543, 64 L.Ed. 919 (1920); Payne, *Costs in Common Law Actions in the Federal Courts* (1935), 21 Va.L.Rev. 397.
 
-The provisions as to costs in actions in *forma pauperis* contained in U.S.C., Title 28, §§832–836 \[now 1915\] are unaffected by this rule. Other sections of U.S.C., Title 28, which are unaffected by this rule are: §§815 \[former\] (Costs; plaintiff not entitled to, when), 821 \[now 1928\] (Costs; infringement of patent; disclaimer), 825 (Costs; several actions), 829 \[now 1927\] (Costs; attorney liable for, when), and 830 \[now 1920\] (Costs; bill of; taxation).
+The provisions as to costs in actions in *forma pauperis* contained in U.S.C., Title 28, §§832–836 \[now 1915\] are unaffected by this rule. Other sections of U.S.C., Title 28, which are unaffected by this rule are: §§815 \[former\] (Costs; plaintiff not entitled to, when), 821 \[now 1928\] (Costs; infringement of patent; disclaimer), 825 \[former\] (Costs; several actions), 829 \[now 1927\] (Costs; attorney liable for, when), and 830 \[now 1920\] (Costs; bill of; taxation).
 
 The provisions of the following and similar statutes as to costs against the United States and its officers and agencies are specifically continued:
 
   
 
- U.S.C., Title 15, §§77v(a), 78aa, 79y (Securities and Exchange Commission)
+ U.S.C., Title 15, §§77v(a), 78aa, \[former\] 79y (Securities and Exchange Commission)
 
  U.S.C., Title 16, §825p (Federal Power Commission)
 
  U.S.C., Title 26, \[former\] §§1569(d) and 1645(d) (Internal revenue actions)
 
- U.S.C., Title 26, \[former\] §1670(b)(2) (Reimbursement of costs of recovery against revenue officers)
+ U.S.C., Title 26, §1670(b)(2) \[see 7423(2)\] (Reimbursement of costs of recovery against revenue officers)
 
  U.S.C., Title 28, \[former\] §817 (Internal revenue actions)
 
@@ -14171,21 +14484,21 @@ The provisions of the following and similar statutes as to costs are unaffected:
 
  U.S.C., Title 15, §15 (Actions for injuries due to violation of antitrust laws)
 
- U.S.C., Title 15, §72 (Actions for violation of law forbidding importation or sale of articles at less than market value or wholesale prices)
+ U.S.C., Title 15, \[former\] §72 (Actions for violation of law forbidding importation or sale of articles at less than market value or wholesale prices)
 
  U.S.C., Title 15, §77k (Actions by persons acquiring securities registered with untrue statements under Securities Act of 1933)
 
- U.S.C., Title 15, §78i(e) (Certain actions under the Securities Exchange Act of 1934)
+ U.S.C., Title 15, §78i(e) \[now 78i(f)\] (Certain actions under the Securities Exchange Act of 1934)
 
- U.S.C., Title 15, §78r (Similar to 78i(e))
+ U.S.C., Title 15, §78r (Similar to 78i(e) \[now 78i(f)\])
 
- U.S.C., Title 15, §96 (Infringement of trade-mark—damages)
+ U.S.C., Title 15, §96 \[see 1057(b), 1114, 1115, 1117\] (Infringement of trade-mark—damages)
 
- U.S.C., Title 15, §99 (Infringement of trade-mark—injunctions)
+ U.S.C., Title 15, §99 \[see 1116, 1117\] (Infringement of trade-mark—injunctions)
 
- U.S.C., Title 15, §124 (Infringement of trade-mark—damages)
+ U.S.C., Title 15, §124 \[see 1114, 1117\] (Infringement of trade-mark—damages)
 
- U.S.C., Title 19, §274 (Certain actions under customs law)
+ U.S.C., Title 19, \[former\] §274 (Certain actions under customs law)
 
  U.S.C., Title 30, §32 (Action to determine right to possession of mineral lands in certain cases)
 
@@ -14199,19 +14512,19 @@ The provisions of the following and similar statutes as to costs are unaffected:
 
  U.S.C., Title 35, §71 \[now 288\] (Infringement of patent—when specification too broad)
 
- U.S.C., Title 45, §153p (Actions for non-compliance with an order of National R. R. Adjustment Board for payment of money)
+ U.S.C., Title 45, §153p \[probably means 45 U.S.C. 153 par. First, (p)\] (Actions for non-compliance with an order of National R. R. Adjustment Board for payment of money)
 
  U.S.C., Title 46, \[former\] §38 (Action for penalty for failure to register vessel)
 
  U.S.C., Title 46, \[former\] §829 (Action based on non-compliance with an order of Maritime Commission for payment of money)
 
- U.S.C., Title 46, §941 \[now 31304\] (Certain actions under Ship Mortgage Act)
+ U.S.C., Title 46, §941 \[see 31304, 31323(c), 31330(a), (c)\] (Certain actions under Ship Mortgage Act)
 
- U.S.C., Title 46 \[App.\], §1227 (Actions for damages for violation of certain provisions of the Merchant Marine Act, 1936)
+ U.S.C., \[former\] Title 46 \[App.\], §1227 \[see 46 U.S.C. 58106\] (Actions for damages for violation of certain provisions of the Merchant Marine Act, 1936)
 
  U.S.C., Title 47, §206 (Actions for certain violations of Communications Act of 1934)
 
- U.S.C., Title 49, §16(2) \[see 11704, 15904\] (Action based on non-compliance with an order of I. C. C. for payment of money)
+ U.S.C., Title 49, §16(2) \[see 11704, 14704, 15904\] (Action based on non-compliance with an order of I. C. C. for payment of money)
 
 #### Notes of Advisory Committee on Rules—1946 Amendment
 
@@ -14323,13 +14636,13 @@ This represents the joining of the equity decree *pro confesso* (\[former\] Equi
 
 *Note to Subdivision (a)*. The provision for the entry of default comes from the Massachusetts practice, 2 Mass.Gen.Laws (Ter.Ed., 1932) ch. 231, §57. For affidavit of default, see 2 Minn.Stat. (Mason, 1927) §9256.
 
-*Note to Subdivision (b)*. The provision in paragraph (1) for the entry of judgment by the clerk when plaintiff claims a sum certain is found in the N.Y.C.P.A. (1937) §485, in Calif.Code Civ.Proc. (Deering, 1937) §585(1), and in Conn.Practice Book (1934) §47. For provisions similar to paragraph (2), compare Calif.Code, *supra*, §585(2); N.Y.C.P.A. (1937) §490; 2 Minn.Stat. (Mason, 1927) §9256(3); 2 Wash.Rev.Stat.Ann. (Remington, 1932) §411(2). U.S.C., Title 28, §785 (Action to recover forfeiture in bond) and similar statutes are preserved by the last clause of paragraph (2).
+*Note to Subdivision (b)*. The provision in paragraph (1) for the entry of judgment by the clerk when plaintiff claims a sum certain is found in the N.Y.C.P.A. (1937) §485, in Calif.Code Civ.Proc. (Deering, 1937) §585(1), and in Conn.Practice Book (1934) §47. For provisions similar to paragraph (2), compare Calif.Code, *supra*, §585(2); N.Y.C.P.A. (1937) §490; 2 Minn.Stat. (Mason, 1927) §9256(3); 2 Wash.Rev.Stat.Ann. (Remington, 1932) §411(2). U.S.C., Title 28, §785 \[now 1874\] (Action to recover forfeiture in bond) and similar statutes are preserved by the last clause of paragraph (2).
 
 *Note to Subdivision (e)*. This restates substantially the last clause of U.S.C., Title 28, \[former\] §763 (Action against the United States under the Tucker Act). As this rule governs in all actions against the United States, U.S.C., Title 28, \[former\] §45 (Practice and procedure in certain cases under the interstate commerce laws) and similar statutes are modified insofar as they contain anything inconsistent therewith.
 
 #### Notes of Advisory Committee on Rules—1946 Supplementary Note
 
-*Note*. The operation of Rule 55(b) (Judgment) is directly affected by the Soldiers' and Sailors' Civil Relief Act of 1940 (\[former\] 50 U.S.C. \[App.\] §501 *et seq*.) \[now 50 U.S.C. 3901 et seq.\]. Section 200 of the Act \[former 50 U.S.C. Appendix, §520\] imposes specific requirements which must be fulfilled before a default judgment can be entered (*e.g., Ledwith v. Storkan* (D.Neb. 1942) 6 Fed.Rules Serv. 60b.24, Case 2, 2 F.R.D. 539, and also provides for the vacation of a judgment in certain circumstances. See discussion in Commentary, *Effect of Conscription Legislation on the Federal Rules* (1940) 3 Fed.Rules Serv. 725; 3 *Moore's Federal Practice* (1938) Cum.Supplement §55.02.
+*Note*. The operation of Rule 55(b) (Judgment) is directly affected by the Soldiers' and Sailors' Civil Relief Act of 1940 (\[former\] 50 U.S.C. \[App.\] §501 *et seq*. \[see 50 U.S.C. 3901 et seq.\]). Section 200 of the Act \[former 50 U.S.C. App. 520\] imposes specific requirements which must be fulfilled before a default judgment can be entered (*e.g., Ledwith v. Storkan* (D.Neb. 1942) 6 Fed.Rules Serv. 60b.24, Case 2, 2 F.R.D. 539, and also provides for the vacation of a judgment in certain circumstances. See discussion in Commentary, *Effect of Conscription Legislation on the Federal Rules* (1940) 3 Fed.Rules Serv. 725; 3 *Moore's Federal Practice* (1938) Cum.Supplement §55.02.
 
 #### Notes of Advisory Committee on Rules—1987 Amendment
 
@@ -14821,7 +15134,7 @@ The time limit for relief by motion in the court and in the action in which the 
 
 It should be noted that Rule 60(b) does not assume to define the substantive law as to the grounds for vacating judgments, but merely prescribes the practice in proceedings to obtain relief.
 
-It should also be noted that under §200(4) of the Soldiers' and Sailors' Civil Relief Act of 1940 (\[former\] 50 U.S.C. \[App.\] §501 *et seq*. \[§520(4)\]), a judgment rendered in any action or proceeding governed by the section may be vacated under certain specified circumstances upon proper application to the court.
+It should also be noted that under §200(4) \[former 50 U.S.C. App. 520(4)\] of the Soldiers' and Sailors' Civil Relief Act of 1940 (\[former\] 50 U.S.C. \[App.\] §501 *et seq*. \[see 50 U.S.C. 3901 et seq.\]), a judgment rendered in any action or proceeding governed by the section may be vacated under certain specified circumstances upon proper application to the court.
 
 #### Notes of Advisory Committee on Rules—1948 Amendment
 
@@ -14891,7 +15204,7 @@ The language of Rule 61 has been amended as part of the general restyling of the
 
 #### Notes of Advisory Committee on Rules—1937
 
-*Note to Subdivision (a)*. The first sentence states the substance of the last sentence of U.S.C., Title 28, \[former\] §874 (Supersedeas). The remainder of the subdivision states the substance of the last clause of U.S.C., Title 28, \[former\] §227 (Appeals in proceedings for injunctions; receivers; and admiralty), and of \[former\] §227a (Appeals in suits in equity for infringement of letters patent for inventions; stay of proceedings for accounting), but extended to include final as well as interlocutory judgments.
+*Note to Subdivision (a)*. The first sentence states the substance of the last sentence of U.S.C., Title 28, \[former\] §874 (Supersedeas). The remainder of the subdivision states the substance of the last clause of U.S.C., Title 28, §227 \[see 1292\] (Appeals in proceedings for injunctions; receivers; and admiralty), and of §227a \[see 1292, 2107\] (Appeals in suits in equity for infringement of letters patent for inventions; stay of proceedings for accounting), but extended to include final as well as interlocutory judgments.
 
 *Note to Subdivision (b)*. This modifies U.S.C., Title 28, \[former\] §840 (Executions; stay on conditions).
 
@@ -14909,23 +15222,23 @@ U.S.C., Title 7:
 
 U.S.C., Title 15:
 
- §28 (Antitrust laws; suits against monopolies expedited)
+ §28 \[former\] (Antitrust laws; suits against monopolies expedited)
 
   
 
 U.S.C., Title 28:
 
- §47 \[now 2325\] (Injunctions as to orders of Interstate Commerce Commission, etc.)
+ §47 \[see 1253, 2101, 2284, former 2325\] (Injunctions as to orders of Interstate Commerce Commission, etc.)
 
- §380 \[now 2284\] (Injunctions; alleged unconstitutionality of State statutes.)
+ §380 \[see 1253, 2101, former 2281, 2284\] (Injunctions; alleged unconstitutionality of State statutes.)
 
- §380a \[now 2284\] (Same; constitutionality of federal statute)
+ §380a \[see 1253, 2101, former 2282, 2284\] (Same; constitutionality of federal statute)
 
   
 
 U.S.C., Title 49:
 
- §44 \[former\] (Suits in equity under interstate commerce laws; expedition of suits)
+ §44 \[former, see also former 15 U.S.C. 28\] (Suits in equity under interstate commerce laws; expedition of suits)
 
   
 
@@ -14937,7 +15250,7 @@ U.S.C., Title 49:
 
 #### Notes of Advisory Committee on Rules—1946 Amendment
 
-*Subdivision (a)*. \[This subdivision not amended\]. Sections 203 and 204 of the Soldiers' and Sailors' Civil Relief Act of 1940 (\[former\] 50 U.S.C. \[App.\] §501 *et seq*. \[§§523, 524\] \[now 50 U.S.C. §§3933, 3934\]) provide under certain circumstances for the issuance and continuance of a stay of execution of any judgment or order entered against a person in military service. See *Bowsman v. Peterson* (D.Neb. 1942) 45 F.Supp. 741. Section 201 of the Act \[50 U.S.C. §3931\] permits under certain circumstances the issuance of a stay of any action or proceeding at any stage thereof, where either the plaintiff or defendant is a person in military service. See also Note to Rule 64 herein.
+*Subdivision (a)*. \[This subdivision not amended\]. Sections 203 and 204 \[see 50 U.S.C. 3933, 3934\] of the Soldiers' and Sailors' Civil Relief Act of 1940 (\[former\] 50 U.S.C. \[App.\] §501 *et seq*. \[see 50 U.S.C. 3901 et seq.\]) provide under certain circumstances for the issuance and continuance of a stay of execution of any judgment or order entered against a person in military service. See *Bowsman v. Peterson* (D.Neb. 1942) 45 F.Supp. 741. Section 201 of the Act \[see 50 U.S.C. §3931\] permits under certain circumstances the issuance of a stay of any action or proceeding at any stage thereof, where either the plaintiff or defendant is a person in military service. See also Note to Rule 64 herein.
 
 *Subdivision (b)*. This change was necessary because of the proposed addition to Rule 59 of subdivision (e).
 
@@ -15073,25 +15386,25 @@ For statutes of the United States on attachment, see e.g.:
 
 U.S.C., Title 28:
 
- §737 \[now 2710\] (Attachment in postal suits)
+ §737 \[see 2710\] (Attachment in postal suits)
 
- §738 \[now 2711\] (Attachment; application for warrant)
+ §738 \[see 2711\] (Attachment; application for warrant)
 
- §739 \[now 2712\] (Attachment; issue of warrant)
+ §739 \[see 2712\] (Attachment; issue of warrant)
 
- §740 \[now 2713\] (Attachment; trial of ownership of property)
+ §740 \[see 2713\] (Attachment; trial of ownership of property)
 
- §741 \[now 2714\] (Attachment; investment of proceeds of attached property)
+ §741 \[see 2714\] (Attachment; investment of proceeds of attached property)
 
- §742 \[now 2715\] (Attachment; publication of attachment)
+ §742 \[see 2715\] (Attachment; publication of attachment)
 
- §743 \[now 2716\] (Attachment; personal notice of attachment)
+ §743 \[see 2716\] (Attachment; personal notice of attachment)
 
- §744 \[now 2717\] (Attachment; discharge; bond)
+ §744 \[see 2717\] (Attachment; discharge; bond)
 
  §745 \[former\] (Attachment; accrued rights not affected)
 
- §746 (Attachments dissolved in conformity with State laws)
+ §746 \[former\] (Attachments dissolved in conformity with State laws)
 
   
 
@@ -15147,7 +15460,7 @@ U.S.C., Title 28:
 
 #### Notes of Advisory Committee on Rules—1946 Supplementary Note
 
-Sections 203 and 204 of the Soldiers' and Sailors' Civil Relief Act of 1940 (\[former\] 50 U.S.C. \[App.\] §501 *et seq*. \[§§523, 524\] \[now 50 U.S.C. §§3933, 3934\]) provide under certain circumstances for the issuance and continuance of a stay of the execution of any judgment entered against a person in military service, or the vacation or stay of any attachment or garnishment directed against such person's property, money, or debts in the hands of another. See also Note to Rule 62 herein.
+Sections 203 and 204 \[see 50 U.S.C. 3933, 3934\] of the Soldiers' and Sailors' Civil Relief Act of 1940 (\[former\] 50 U.S.C. \[App.\] §501 *et seq*. \[see 50 U.S.C. 3901 et seq.\]) provide under certain circumstances for the issuance and continuance of a stay of the execution of any judgment entered against a person in military service, or the vacation or stay of any attachment or garnishment directed against such person's property, money, or debts in the hands of another. See also Note to Rule 62 herein.
 
 #### Committee Notes on Rules—2007 Amendment
 
@@ -15229,7 +15542,7 @@ Former Rule 64 stated that the Civil Rules govern an action in which any remedy 
 
   
 
- U.S.C., Title 15, §§77t(b), 78u(e), and 79r(f) (Securities and Exchange Commission).
+ U.S.C., Title 15, §§77t(b), 78u(e) \[now 78u(d)\], and \[former\] 79r(f) (Securities and Exchange Commission).
 
   
 
@@ -15249,17 +15562,17 @@ For other statutes dealing with injunctions which are continued, see e.g.:
 
 U.S.C., Title 28:
 
- §46 \[see former §2324\] (Suits to enjoin orders of Interstate Commerce Commission to be against United States)
+ §46 \[see former 2324\] (Suits to enjoin orders of Interstate Commerce Commission to be against United States)
 
- §47 \[see former §2325\] (Injunctions as to orders of Interstate Commerce Commission; appeal to Supreme Court; time for taking)
+ §47 \[see 1253, 2101, 2284, former 2325\] (Injunctions as to orders of Interstate Commerce Commission; appeal to Supreme Court; time for taking)
 
  §378 \[former\] (Injunctions; when granted)
 
- §379 \[see §2283\] (Injunctions; stay in State courts)
+ §379 \[now 2283\] (Injunctions; stay in State courts)
 
- §380 \[see §§1253, 2101, former 2281, 2284\] (Injunctions; alleged unconstitutionality of State statutes; appeal to Supreme Court)
+ §380 \[see 1253, 2101, former 2281, 2284\] (Injunctions; alleged unconstitutionality of State statutes; appeal to Supreme Court)
 
- §380a \[see §§1253, 2101, former 2282, 2284\] (Injunctions; constitutionality of Federal statute; application for hearing; appeal to Supreme Court)
+ §380a \[see 1253, 2101, former 2282, 2284\] (Injunctions; constitutionality of Federal statute; application for hearing; appeal to Supreme Court)
 
   
 
@@ -15283,7 +15596,7 @@ U.S.C., Title 15:
 
 #### Notes of Advisory Committee on Rules—1946 Amendment
 
-It has been held that in actions on preliminary injunction bonds the district court has discretion to grant relief in the same proceeding or to require the institution of a new action on the bond. *Russell v. Farley* (1881) 105 U.S. 433, 466. It is believed, however, that in all cases the litigant should have a right to proceed on the bond in the same proceeding, in the manner provided in Rule 73(f) for a similar situation. The paragraph added to Rule 65(c) insures this result and is in the interest of efficiency. There is no reason why Rules 65(c) and 73(f) should operate differently. Compare §50(n) of the Bankruptcy Act, 11 U.S.C. §78(n), under which actions on all bonds furnished pursuant to the Act may be proceeded upon summarily in the bankruptcy court. See 2 *Collier on Bankruptcy* (14th ed. by Moore and Oglebay) 1853–1854.
+It has been held that in actions on preliminary injunction bonds the district court has discretion to grant relief in the same proceeding or to require the institution of a new action on the bond. *Russell v. Farley* (1881) 105 U.S. 433, 466. It is believed, however, that in all cases the litigant should have a right to proceed on the bond in the same proceeding, in the manner provided in Rule 73(f) for a similar situation. The paragraph added to Rule 65(c) insures this result and is in the interest of efficiency. There is no reason why Rules 65(c) and 73(f) should operate differently. Compare §50(n) of the Bankruptcy Act, 11 U.S.C. \[former\] §78(n), under which actions on all bonds furnished pursuant to the Act may be proceeded upon summarily in the bankruptcy court. See 2 *Collier on Bankruptcy* (14th ed. by Moore and Oglebay) 1853–1854.
 
 #### Notes of Advisory Committee on Rules—1948 Amendment
 
@@ -15333,7 +15646,7 @@ The language of Rule 65 has been amended as part of the general restyling of the
 
 The final sentence of former Rule 65(c) referred to Rule 65.1. It is deleted as unnecessary. Rule 65.1 governs of its own force.
 
-Rule 65(d)(2) clarifies two ambiguities in former Rule 65(d). The former rule was adapted from former 28 U.S.C. §363, but omitted a comma that made clear the common doctrine that a party must have actual notice of an injunction in order to be bound by it.Amended Rule 65(d) restores the meaning of the earlier statute, and also makes clear the proposition that an injunction can be enforced against a person who acts in concert with a party's officer, agent, servant, employee, or attorney.
+Rule 65(d)(2) clarifies two ambiguities in former Rule 65(d). The former rule was adapted from former 28 U.S.C. §363 \[probably means 28 U.S.C. §383\], but omitted a comma that made clear the common doctrine that a party must have actual notice of an injunction in order to be bound by it. Amended Rule 65(d) restores the meaning of the earlier statute, and also makes clear the proposition that an injunction can be enforced against a person who acts in concert with a party's officer, agent, servant, employee, or attorney.
 
 *Changes Made After Publication and Comment*. See Note to Rule 1, supra.
 
@@ -15381,11 +15694,11 @@ The title of Rule 66 has been expanded to make clear the subject of the rule, *i
 
 The first sentence added to Rule 66 prevents a dismissal by any party, after a federal equity receiver has been appointed, except upon leave of court. A party should not be permitted to oust the court and its officer without the consent of that court. See Civil Rule 31(e), Eastern District of Washington.
 
-The second sentence added at the beginning of the rule deals with suits by or against a federal equity receiver. The first clause thereof eliminates the formal ceremony of an ancillary appointment before suit can be brought by a receiver, and is in accord with the more modern state practice, and with more expeditious and less expensive judicial administration. 2 *Moore's Federal Practice* (1938) 2088–2091. For the rule necessitating ancillary appointment, see *Sterrett v. Second Nat. Bank* (1918) 248 U.S. 73; *Kelley v. Queeney* (W.D.N.Y. 1941) 41 F.Supp. 1015; see also *McCandless v. Furlaud* (1934) 293 U.S. 67. This rule has been extensively criticized. First, *Extraterritorial Powers of Receivers* (1932) 27 Ill.L.Rev. 271; Rose, *Extraterritorial Actions by Receivers* (1933) 17 Minn.L.Rev. 704; Laughlin, *The Extraterritorial Powers of Receivers* (1932) 45 Harv.L.Rev. 429; Clark and Moore, *A New Federal Civil Procedure—II, Pleadings and Parties* (1935) 44 Yale L.J. 1291, 1312–1315; Note (1932) 30 Mich.L.Rev. 1322. See also comment in *Bicknell v. Lloyd-Smith* (C.C.A.2d, 1940) 109 F.(2d) 527, cert. den. (1940) 311 U.S. 650. The second clause of the sentence merely incorporates the well-known and general rule that, absent statutory authorization, a federal receiver cannot be sued without leave of the court which appointed him, applied in the federal courts since *Barton v. Barbour* (1881) 104 U.S. 126. See also 1 *Clark on Receivers* (2d ed.) §549. Under 28 U.S.C. §125, leave of court is unnecessary when a receiver is sued "in respect of any act or transaction of his in carrying on the business" connected with the receivership property, but such suit is subject to the general equity jurisdiction of the court in which the receiver was appointed, so far as justice necessitates.
+The second sentence added at the beginning of the rule deals with suits by or against a federal equity receiver. The first clause thereof eliminates the formal ceremony of an ancillary appointment before suit can be brought by a receiver, and is in accord with the more modern state practice, and with more expeditious and less expensive judicial administration. 2 *Moore's Federal Practice* (1938) 2088–2091. For the rule necessitating ancillary appointment, see *Sterrett v. Second Nat. Bank* (1918) 248 U.S. 73; *Kelley v. Queeney* (W.D.N.Y. 1941) 41 F.Supp. 1015; see also *McCandless v. Furlaud* (1934) 293 U.S. 67. This rule has been extensively criticized. First, *Extraterritorial Powers of Receivers* (1932) 27 Ill.L.Rev. 271; Rose, *Extraterritorial Actions by Receivers* (1933) 17 Minn.L.Rev. 704; Laughlin, *The Extraterritorial Powers of Receivers* (1932) 45 Harv.L.Rev. 429; Clark and Moore, *A New Federal Civil Procedure—II, Pleadings and Parties* (1935) 44 Yale L.J. 1291, 1312–1315; Note (1932) 30 Mich.L.Rev. 1322. See also comment in *Bicknell v. Lloyd-Smith* (C.C.A.2d, 1940) 109 F.(2d) 527, cert. den. (1940) 311 U.S. 650. The second clause of the sentence merely incorporates the well-known and general rule that, absent statutory authorization, a federal receiver cannot be sued without leave of the court which appointed him, applied in the federal courts since *Barton v. Barbour* (1881) 104 U.S. 126. See also 1 *Clark on Receivers* (2d ed.) §549. Under 28 U.S.C. §125 \[(1946)\], leave of court is unnecessary when a receiver is sued "in respect of any act or transaction of his in carrying on the business" connected with the receivership property, but such suit is subject to the general equity jurisdiction of the court in which the receiver was appointed, so far as justice necessitates.
 
 Capacity of a state court receiver to sue or be sued in federal court is governed by Rule 17(b).
 
-The last sentence added to Rule 66 assures the application of the rules in all matters except actual administration of the receivership estate itself. Since this implicitly carries with it the applicability of those rules relating to appellate procedure, the express reference thereto contained in Rule 66 has been stricken as superfluous. Under Rule 81(a)(1) the rules do not apply to bankruptcy proceedings except as they may be made applicable by order of the Supreme Court. Rule 66 is applicable to what is commonly known as a federal "chancery" or "equity" receiver, or similar type of court officer. It is not designed to regulate or affect receivers in bankruptcy, which are governed by the Bankruptcy Act and the General Orders. Since the Federal Rules are applicable in bankruptcy by virtue of General Orders in Bankruptcy 36 and 37 \[following section 53 of Title 11, U.S.C.\] only to the extent that they are not inconsistent with the Bankruptcy Act or the General Orders, Rule 66 is not applicable to bankruptcy receivers. See *1 Collier on Bankruptcy* (14th ed. by Moore and Oglebay)  2.23–2.36.
+The last sentence added to Rule 66 assures the application of the rules in all matters except actual administration of the receivership estate itself. Since this implicitly carries with it the applicability of those rules relating to appellate procedure, the express reference thereto contained in Rule 66 has been stricken as superfluous. Under Rule 81(a)(1) the rules do not apply to bankruptcy proceedings except as they may be made applicable by order of the Supreme Court. Rule 66 is applicable to what is commonly known as a federal "chancery" or "equity" receiver, or similar type of court officer. It is not designed to regulate or affect receivers in bankruptcy, which are governed by the Bankruptcy Act and the General Orders. Since the Federal Rules are applicable in bankruptcy by virtue of General Orders in Bankruptcy 36 and 37 \[following section 53 of former Title 11, U.S.C.\] only to the extent that they are not inconsistent with the Bankruptcy Act or the General Orders, Rule 66 is not applicable to bankruptcy receivers. See *1 Collier on Bankruptcy* (14th ed. by Moore and Oglebay)  2.23–2.36.
 
 #### Notes of Advisory Committee on Rules—1948 Amendment
 
@@ -15485,7 +15798,7 @@ The former 10-day periods are extended to 14 days to reflect the change in the R
 
 #### Notes of Advisory Committee on Rules—1937
 
-*Note to Subdivision (a)*. This follows in substance U.S.C., Title 28, \[former\] §§727 (Executions as provided by State laws) and 729 \[now Title 42, §1988\] (Proceedings in vindication of civil rights), except that, as in the similar case of attachments (see note to Rule 64), the rule specifies the applicable State law to be that of the time when the remedy is sought, and thus renders unnecessary, as well as supersedeas, local district court rules.
+*Note to Subdivision (a)*. This follows in substance U.S.C., Title 28, \[former\] §§727 (Executions as provided by State laws) and 729 \[now 42 U.S.C. 1988\] (Proceedings in vindication of civil rights), except that, as in the similar case of attachments (see note to Rule 64), the rule specifies the applicable State law to be that of the time when the remedy is sought, and thus renders unnecessary, as well as supersedeas, local district court rules.
 
 Statutes of the United States on execution, when applicable, govern under this rule. Among these are:
 
@@ -15507,7 +15820,7 @@ U.S.C., Title 19:
 
 U.S.C., Title 26:
 
- §1610(a) \[former\] (Surrender of property subject to distraint)
+ §1610(a) \[now 6332(a)\] (Surrender of property subject to distraint)
 
   
 
@@ -15581,19 +15894,19 @@ Special statutes of the United States on exemption from execution are also conti
 
 U.S.C., Title 2:
 
- §118 (Actions against officers of Congress for official acts)
+ §118 \[now 5503\] (Actions against officers of Congress for official acts)
 
   
 
 U.S.C., Title 5:
 
- §729 \[see 8346, 8470\] (Federal employees retirement annuities not subject to assignment, execution, levy, or other legal process)
+ §729 \[former\] (Federal employees retirement annuities not subject to assignment, execution, levy, or other legal process)
 
   
 
 U.S.C., Title 10:
 
- §610 \[now 3690, 8690\] (Exemption of enlisted men from arrest on civil process)
+ §610 \[see former 3690, former 8690\] (Exemption of enlisted men from arrest on civil process)
 
   
 
@@ -15611,27 +15924,27 @@ U.S.C., Title 33:
 
 U.S.C., Title 38:
 
- §54 \[see 5301\] (Attachment, levy or seizure of moneys due pensioners prohibited)
+ §54 \[former\] (Attachment, levy or seizure of moneys due pensioners prohibited)
 
  §393 \[former\] (Army and Navy Medal of Honor Roll; pensions additional to other pensions; liability to attachment, etc.) Compare Title 34, §365(c) (Medal of Honor Roll; special pension to persons enrolled)
 
- §618 \[see 5301\] (Benefits exempt from seizure under process and taxation; no deductions for indebtedness to United States)
+ §618 \[former\] (Benefits exempt from seizure under process and taxation; no deductions for indebtedness to United States)
 
   
 
 U.S.C., Title 43:
 
- §175 (Exemption from execution of homestead land)
+ §175 \[former\] (Exemption from execution of homestead land)
 
   
 
 U.S.C., Title 48:
 
- §1371o (Panama Canal and railroad retirement annuities, exemption from execution and so forth)
+ §1371o \[former\] (Panama Canal and railroad retirement annuities, exemption from execution and so forth)
 
 #### Notes of Advisory Committee on Rules—1946 Supplementary Note
 
-With respect to the provisions of the Soldiers' and Sailors' Civil Relief Act of 1940 (\[former\] 50 U.S.C. \[App.\] §501 *et seq*. \[now 50 U.S.C. §3901 et seq.\]) see Notes to Rules 62 and 64 herein.
+With respect to the provisions of the Soldiers' and Sailors' Civil Relief Act of 1940 (\[former\] 50 U.S.C. \[App.\] §501 *et seq*. \[see 50 U.S.C. 3901 et seq.\]) see Notes to Rules 62 and 64 herein.
 
 #### Notes of Advisory Committee on Rules—1948 Amendment
 
@@ -15649,7 +15962,7 @@ The amendments are technical. No substantive change is intended.
 
 The language of Rule 69 has been amended as part of the general restyling of the Civil Rules to make them more easily understood and to make style and terminology consistent throughout the rules. These changes are intended to be stylistic only.
 
-Amended Rule 69(b) incorporates directly the provisions of 2 U.S.C. §118 and 28 U.S.C. §2006, deleting the incomplete statement in former Rule 69(b) of the circumstances in which execution does not issue against an officer.
+Amended Rule 69(b) incorporates directly the provisions of 2 U.S.C. §118 \[now 5503\] and 28 U.S.C. §2006, deleting the incomplete statement in former Rule 69(b) of the circumstances in which execution does not issue against an officer.
 
 #### References in Text
 
@@ -15987,7 +16300,7 @@ U.S.C., Title 16:
 
 U.S.C., Title 42:
 
- §§1805(b)(5), 1813(b) (Atomic Energy Act).
+ §§1805(b)(5) \[former, see 2096\], 1813(b) \[former, see 2222\] (Atomic Energy Act).
 
   
 
@@ -15997,15 +16310,15 @@ The following are instances of Acts which authorized condemnation and declare th
 
 U.S.C., Title 16:
 
- §423k (Richmond National Battlefield Park; acquisition of lands by the Secretary of the Interior).
+ §423k \[former\] (Richmond National Battlefield Park; acquisition of lands by the Secretary of the Interior).
 
- §714 (Exercise by water power licensee of power of eminent domain).
+ §714 \[probably means 814\] (Exercise by water power licensee of power of eminent domain).
 
   
 
 U.S.C., Title 24:
 
- §78 (Condemnation of land for the former National Home for Disabled Volunteer Soldiers).
+ §78 \[former\] (Condemnation of land for the former National Home for Disabled Volunteer Soldiers).
 
   
 
@@ -16025,11 +16338,11 @@ U.S.C., Title 40:
 
 U.S.C., Title 50:
 
- §171 (Acquisition of land by the Secretary of the Army for national defense).
+ §171 \[former, see 10 U.S.C. 2663\] (Acquisition of land by the Secretary of the Army for national defense).
 
- §172 (Acquisition of property by the Secretary of the Army, etc., for production of lumber).
+ §172 \[former, see 10 U.S.C. 2665\] (Acquisition of property by the Secretary of the Army, etc., for production of lumber).
 
- §632 App. (Second War Powers Act, 1942; acquisition of real property for war purposes by the Secretary of the Army, the Secretary of the Navy and others).
+ §632 App. \[former\] (Second War Powers Act, 1942; acquisition of real property for war purposes by the Secretary of the Army, the Secretary of the Navy and others).
 
   
 
@@ -16055,11 +16368,11 @@ Aside from the foregoing limited exceptions dealing with the TVA and the Distric
 
 *Note to Subdivision (a)*. As originally promulgated the Federal Rules governed appeals in condemnation proceedings but were not otherwise applicable. Rule 81(a)(7). Pre-appeal procedure, in the main, conformed to state procedure. See statutes and discussion, supra. The purpose of Rule 71A is to provide a uniform procedure for condemnation in the federal district courts, including the District of Columbia. To achieve this purpose Rule 71A prescribes such specialized procedure as is required by condemnation proceedings, otherwise it utilizes the general framework of the Federal Rules where specific detail is unnecessary. The adoption of Rule 71A, of course, renders paragraph (7) of Rule 81(a) unnecessary.
 
-The promulgation of a rule for condemnation procedure is within the rule-making power. The Enabling Act \[Act of June 19, 1934, c. 651, §§1, 2 (48 Stat. 1064), 28 U.S.C. §§723b, 723c \[see 2072\]\] gives the Supreme Court "the power to prescribe, by general rules \* \* \* the forms of process, writs, pleadings, and motions, and the practice and procedure in civil actions at law." Such rules, however, must not abridge, enlarge, or modify substantive rights. In *Kohl v. United States*, 1875, 91 U.S. 367, 23 L.Ed. 449, a proceeding instituted by the United States to appropriate land for a post-office site under a statute enacted for such purpose, the Supreme Court held that "a proceeding to take land in virtue of the government's eminent domain, and determining the compensation to be made for it, is \* \* \* a suit at common law, when initiated in a court." See also *Madisonville Traction Co. v. Saint Bernard Mining Co*., 1905, 25 S.Ct. 251, 196 U.S. 239, 23 L.Ed. 449, infra, under subdivision (k). And the Conformity Act, \[former\] 40 U.S.C. §258, which is superseded by Rule 71A, deals only with "practice, pleadings, forms and proceedings and not with matters of substantive laws." *United States v. 243.22 Acres of Land in Village of Farmingdale, Town of Babylon, Suffolk County, N.Y*., D.C.N.Y. 1942, 43 F.Supp. 561, affirmed 129 F.2d 678, certiorari denied, 63 S.Ct. 441, 317 U.S. 698, 87 L.Ed. 558.
+The promulgation of a rule for condemnation procedure is within the rule-making power. The Enabling Act \[Act of June 19, 1934, c. 651, §§1, 2 (48 Stat. 1064), 28 U.S.C. §§723b, 723c \[see former 2072\]\] gives the Supreme Court "the power to prescribe, by general rules \* \* \* the forms of process, writs, pleadings, and motions, and the practice and procedure in civil actions at law." \[28 U.S.C. 723b (1946).\] Such rules, however, must not abridge, enlarge, or modify substantive rights. In *Kohl v. United States*, 1875, 91 U.S. 367, 23 L.Ed. 449, a proceeding instituted by the United States to appropriate land for a post-office site under a statute enacted for such purpose, the Supreme Court held that "a proceeding to take land in virtue of the government's eminent domain, and determining the compensation to be made for it, is \* \* \* a suit at common law, when initiated in a court." See also *Madisonville Traction Co. v. Saint Bernard Mining Co*., 1905, 25 S.Ct. 251, 196 U.S. 239, 23 L.Ed. 449, infra, under subdivision (k). And the Conformity Act, \[former\] 40 U.S.C. §258, which is superseded by Rule 71A, deals only with "practice, pleadings, forms and proceedings and not with matters of substantive laws." *United States v. 243.22 Acres of Land in Village of Farmingdale, Town of Babylon, Suffolk County, N.Y*., D.C.N.Y. 1942, 43 F.Supp. 561, affirmed 129 F.2d 678, certiorari denied, 63 S.Ct. 441, 317 U.S. 698, 87 L.Ed. 558.
 
-Rule 71A affords a uniform procedure for all cases of condemnation invoking the national power of eminent domain, and, to the extent stated in subdivision (k), for cases invoking a state's power of eminent domain; and supplants all statutes prescribing a different procedure. While the almost exclusive utility of the rule is for the condemnation of real property, it also applies to the condemnation of personal property, either as an incident to real property or as the sole object of the proceeding, when permitted or required by statute. See 38 U.S.C. \[former\] §438j (World War Veterans' Relief Act); 42 U.S.C. §§1805, 1811, 1813 (Atomic Energy Act); 50 U.S.C. §79 (Nitrates Act); 50 U.S.C. §§161–166 (Helium Gas Act). Requisitioning of personal property with the right in the owner to sue the United States, where the compensation cannot be agreed upon (see 42 U.S.C. §1813, supra, for example) will continue to be the normal method of acquiring personal property and Rule 71A in no way interferes with or restricts any such right. Only where the law requires or permits the formal procedure of condemnation to be utilized will the rule have any applicability to the acquisition of personal property.
+Rule 71A affords a uniform procedure for all cases of condemnation invoking the national power of eminent domain, and, to the extent stated in subdivision (k), for cases invoking a state's power of eminent domain; and supplants all statutes prescribing a different procedure. While the almost exclusive utility of the rule is for the condemnation of real property, it also applies to the condemnation of personal property, either as an incident to real property or as the sole object of the proceeding, when permitted or required by statute. See 38 U.S.C. \[former\] §438j (World War Veterans' Relief Act); 42 U.S.C. \[former\] §§1805, 1811, 1813 \[see 2061 to 2112, 2181 to 2190, 2221 to 2224\] (Atomic Energy Act); 50 U.S.C. \[former\] §79 (Nitrates Act); 50 U.S.C. \[former\] §§161–166 \[see 167a, 167b, 167d, 167e\] (Helium Gas Act). Requisitioning of personal property with the right in the owner to sue the United States, where the compensation cannot be agreed upon (see 42 U.S.C. §1813, supra, for example) will continue to be the normal method of acquiring personal property and Rule 71A in no way interferes with or restricts any such right. Only where the law requires or permits the formal procedure of condemnation to be utilized will the rule have any applicability to the acquisition of personal property.
 
-Rule 71A is not intended to and does not supersede the Act of February 26, 1931, ch. 307, §§1–5 (46 Stat. 1421), 40 U.S.C. §§258a–258e \[now 40 U.S.C. 3114, 3115, 3118\], which is a supplementary condemnation statute, permissive in its nature and designed to permit the prompt acquisition of title by the United States, pending the condemnation proceeding, upon a deposit in court. See *United States v. 76,800 Acres, More or Less, of Land, in Bryan and Liberty Counties, Ga*., D.C.Ga. 1942, 44 F.Supp. 653; *United States v. 17,280 Acres of Land, More or Less, Situated in Saunders County, Nebr*., D.C.Neb. 1942, 47 F.Supp. 267. The same is true insofar as the following or any other statutes authorize the acquisition of title or the taking of immediate possession:
+Rule 71A is not intended to and does not supersede the Act of February 26, 1931, ch. 307, §§1–5 (46 Stat. 1421), 40 U.S.C. §§258a–258e \[now 3114, 3115, 3118\], which is a supplementary condemnation statute, permissive in its nature and designed to permit the prompt acquisition of title by the United States, pending the condemnation proceeding, upon a deposit in court. See *United States v. 76,800 Acres, More or Less, of Land, in Bryan and Liberty Counties, Ga*., D.C.Ga. 1942, 44 F.Supp. 653; *United States v. 17,280 Acres of Land, More or Less, Situated in Saunders County, Nebr*., D.C.Neb. 1942, 47 F.Supp. 267. The same is true insofar as the following or any other statutes authorize the acquisition of title or the taking of immediate possession:
 
   
 
@@ -16071,15 +16384,15 @@ U.S.C., Title 33:
 
 U.S.C., Title 42:
 
- §1813(b) (When immediate possession may be taken under Atomic Energy Act).
+ §1813(b) \[former, see 2222, 2224\] (When immediate possession may be taken under Atomic Energy Act).
 
   
 
 U.S.C., Title 50:
 
- §171 (Acquisition of land by the Secretary of the Army for national defense).
+ §171 \[former, see 10 U.S.C. 2663\] (Acquisition of land by the Secretary of the Army for national defense).
 
- §632 App. (Second War Powers Act, 1942; acquisition of real property for war purposes by the Secretary of the Army, the Secretary of the Navy, and others).
+ §632 App. \[former\] (Second War Powers Act, 1942; acquisition of real property for war purposes by the Secretary of the Army, the Secretary of the Navy, and others).
 
   
 
@@ -16087,7 +16400,7 @@ U.S.C., Title 50:
 
 *Note to Subdivision (c)*. Since a condemnation proceeding is in rem and since a great many property owners are often involved, paragraph (1) requires the property to be named and only one of the owners. In other respects the caption will contain the name of the court, the title of the action, file number, and a designation of the pleading as a complaint in accordance with Rule 10(a).
 
-Since the general standards of pleading are stated in other rules, paragraph (2) prescribes only the necessary detail for condemnation proceedings. Certain statutes allow the United States to acquire title or possession immediately upon commencement of an action. See the Act of February 26, 1931, ch. 307 §§1–5 (46 Stat. 1421), 40 U.S.C. §§258a–258e \[now 40 U.S.C. 3114, 3115, 3118\], supra; and 33 U.S.C. §594, 42 U.S.C. §1813(b), 50 U.S.C. §§171, 632, supra. To carry out the purpose of such statutes and to aid the condemnor in instituting the action even where title is not acquired at the outset, the plaintiff is initially required to join as defendants only the persons having or claiming an interest in the property whose names are then known. This in no way prejudices the property owner, who must eventually be joined as a defendant, served with process, and allowed to answer before there can be any hearing involving the compensation to be paid for his piece of property. The rule requires the plaintiff to name all persons having or claiming an interest in the property of whom the plaintiff has learned and, more importantly, those appearing of record. By charging the plaintiff with the necessity to make "a search of the records of the extent commonly made by competent searchers of title in the vicinity in light of the type and value of the property involved" both the plaintiff and property owner are protected. Where a short term interest in property of little value is involved, as a two or three year easement over a vacant land for purposes of ingress and egress to other property, a search of the records covering a long period of time is not required. Where on the other hand fee simple title in valuable property is being condemned the search must necessarily cover a much longer period of time and be commensurate with the interests involved. But even here the search is related to the type made by competent title searchers in the vicinity. A search that extends back to the original patent may be feasible in some midwestern and western states and be proper under certain circumstances. In the Atlantic seaboard states such a search is normally not feasible nor desirable. There is a common sense business accommodation of what title searchers can and should do. For state statutes requiring persons appearing as owners or otherwise interested in the property to be named as defendants, see 3 Colo. Stat. Ann., 1935, c. 61, §2; Ill. Ann. Stat. (Smith-Hurd) c. 47, §2; 1 Iowa Code, 1946, §472.3; Kans. Stat. Ann., 1935, §26–101; 2 Mass. Laws Ann., 1932, ch. 80A, §4; 7 Mich. Stat. Ann., 1936, §8.2; 2 Minn. Stat., Mason, 1927, §6541; 20 N.J. Stat. Ann., 1939, §1–2; 3 Wash. Revised Stat., Remington, 1932, Title 6, §891. For state provisions allowing persons whose names are not known to be designated under the descriptive term of "unknown owner", see Hawaii Revised Laws, 1945, c. 8, §310 ("such \[unknown\] defendant may be joined in the petition under a fictitious name."; Ill. Ann. Stat., Smith-Hurd), c. 47, §2 ("Persons interested, whose names are unknown, may be made parties defendant by the description of the unknown owners; . . ."); Maryland Code Ann., 1939, Ar. 33A, §1 ("In case any owner or owners is or are not known, he or they may be described in such petition as the unknown owner or owners, or the unknown heir or heirs of a deceased owner."); 2 Mass. Laws Ann., 1932, c. 80A, §4 ("Persons not in being, unascertained or unknown who may have an interest in any of such land shall be made parties respondent by such description as seems appropriate, \* \* \*"); New Mex. Stat. Ann., 1941, §25–901 ("the owners \* \* \* shall be parties defendant, by name, if the names are known, and by description of the unknown owners of the land therein described, if their names are unknown."); Utah Code Ann., 1943, §104–61–7 ("The names of all owners and claimants of the property, if known, or a statement that they are unknown, who must be styled defendants").
+Since the general standards of pleading are stated in other rules, paragraph (2) prescribes only the necessary detail for condemnation proceedings. Certain statutes allow the United States to acquire title or possession immediately upon commencement of an action. See the Act of February 26, 1931, ch. 307 §§1–5 (46 Stat. 1421), 40 U.S.C. §§258a–258e, supra; and 33 U.S.C. §594, 42 U.S.C. §1813(b), 50 U.S.C. §§171, 632 \[App.\], supra. To carry out the purpose of such statutes and to aid the condemnor in instituting the action even where title is not acquired at the outset, the plaintiff is initially required to join as defendants only the persons having or claiming an interest in the property whose names are then known. This in no way prejudices the property owner, who must eventually be joined as a defendant, served with process, and allowed to answer before there can be any hearing involving the compensation to be paid for his piece of property. The rule requires the plaintiff to name all persons having or claiming an interest in the property of whom the plaintiff has learned and, more importantly, those appearing of record. By charging the plaintiff with the necessity to make "a search of the records of the extent commonly made by competent searchers of title in the vicinity in light of the type and value of the property involved" both the plaintiff and property owner are protected. Where a short term interest in property of little value is involved, as a two or three year easement over a vacant land for purposes of ingress and egress to other property, a search of the records covering a long period of time is not required. Where on the other hand fee simple title in valuable property is being condemned the search must necessarily cover a much longer period of time and be commensurate with the interests involved. But even here the search is related to the type made by competent title searchers in the vicinity. A search that extends back to the original patent may be feasible in some midwestern and western states and be proper under certain circumstances. In the Atlantic seaboard states such a search is normally not feasible nor desirable. There is a common sense business accommodation of what title searchers can and should do. For state statutes requiring persons appearing as owners or otherwise interested in the property to be named as defendants, see 3 Colo. Stat. Ann., 1935, c. 61, §2; Ill. Ann. Stat. (Smith-Hurd) c. 47, §2; 1 Iowa Code, 1946, §472.3; Kans. Stat. Ann., 1935, §26–101; 2 Mass. Laws Ann., 1932, ch. 80A, §4; 7 Mich. Stat. Ann., 1936, §8.2; 2 Minn. Stat., Mason, 1927, §6541; 20 N.J. Stat. Ann., 1939, §1–2; 3 Wash. Revised Stat., Remington, 1932, Title 6, §891. For state provisions allowing persons whose names are not known to be designated under the descriptive term of "unknown owner", see Hawaii Revised Laws, 1945, c. 8, §310 ("such \[unknown\] defendant may be joined in the petition under a fictitious name."; Ill. Ann. Stat., Smith-Hurd), c. 47, §2 ("Persons interested, whose names are unknown, may be made parties defendant by the description of the unknown owners; . . ."); Maryland Code Ann., 1939, Ar. 33A, §1 ("In case any owner or owners is or are not known, he or they may be described in such petition as the unknown owner or owners, or the unknown heir or heirs of a deceased owner."); 2 Mass. Laws Ann., 1932, c. 80A, §4 ("Persons not in being, unascertained or unknown who may have an interest in any of such land shall be made parties respondent by such description as seems appropriate, \* \* \*"); New Mex. Stat. Ann., 1941, §25–901 ("the owners \* \* \* shall be parties defendant, by name, if the names are known, and by description of the unknown owners of the land therein described, if their names are unknown."); Utah Code Ann., 1943, §104–61–7 ("The names of all owners and claimants of the property, if known, or a statement that they are unknown, who must be styled defendants").
 
 The last sentence of paragraph (2) enables the court to expedite the distribution of a deposit, in whole or in part, as soon as pertinent facts of ownership, value and the like are established. See also subdivision (j).
 
@@ -16095,7 +16408,7 @@ The signing of the complaint is governed by Rule 11.
 
 *Note to Subdivision (d)*. In lieu of a summons, which is the initial process in other civil actions under Rule 4 (a), subdivision (d) provides for a notice which is to contain sufficient information so that the defendant in effect obtains the plaintiff's statement of his claim against the defendant to whom the notice is directed. Since the plaintiff's attorney is an officer of the court and to prevent unduly burdening the clerk of the court, paragraph (1) of subdivision (d) provides that plaintiff's attorney shall prepare and deliver a notice or notices to the clerk. Flexibility is provided by the provision for joint or several notices, and for additional notices. Where there are only a few defendants it may be convenient to prepare but one notice directed to all the defendants. In other cases where there are many defendants it will be more convenient to prepare two or more notices; but in any event a notice must be directed to each named defendant. Paragraph (2) provides that the notice is to be signed by the plaintiff's attorney. Since the notice is to be delivered to the clerk, the issuance of the notice will appear of record in the court. The clerk should forthwith deliver the notice or notices for service to the marshal or to a person specially appointed to serve the notice. Rule 4 (a). The form of the notice is such that, in addition to informing the defendant of the plaintiff's statement of claim, it tells the defendant precisely what his rights are. Failure on the part of the defendant to serve an answer constitutes a consent to the taking and to the authority of the court to proceed to fix compensation therefor, but it does not preclude the defendant from presenting evidence as to the amount of compensation due him or in sharing the award of distribution. See subdivision (e); Form 28.
 
-While under Rule 4(f) the territorial limits of a summons are normally the territorial limits of the state in which the district court is held, the territorial limits for personal service of a notice under Rule 71A (d)(3) are those of the nation. This extension of process is here proper since the aim of the condemnation proceeding is not to enforce any personal liability and the property owner is helped, not imposed upon, by the best type of service possible. If personal service cannot be made either because the defendant's whereabouts cannot be ascertained, or, if ascertained, the defendant cannot be personally served, as where he resides in a foreign country such as Canada or Mexico, then service by publication is proper. The provisions for this type of service are set forth in the rule and are in no way governed by 28 U.S.C. §118.
+While under Rule 4(f) the territorial limits of a summons are normally the territorial limits of the state in which the district court is held, the territorial limits for personal service of a notice under Rule 71A (d)(3) are those of the nation. This extension of process is here proper since the aim of the condemnation proceeding is not to enforce any personal liability and the property owner is helped, not imposed upon, by the best type of service possible. If personal service cannot be made either because the defendant's whereabouts cannot be ascertained, or, if ascertained, the defendant cannot be personally served, as where he resides in a foreign country such as Canada or Mexico, then service by publication is proper. The provisions for this type of service are set forth in the rule and are in no way governed by 28 U.S.C. §118 \[now 1655\].
 
 *Note to Subdivision (e)*. Departing from the scheme of Rule 12, subdivision (e) requires all defenses and objections to be presented in an answer and does not authorize a preliminary motion. There is little need for the latter in condemnation proceedings. The general standard of pleading is governed by other rules, particularly Rule 8, and this subdivision (e) merely prescribes what matters the answer should set forth. Merely by appearing in the action a defendant can receive notice of all proceedings affecting him. And without the necessity of answering a defendant may present evidence as to the amount of compensation due him, and he may share in the distribution of the award. See also subdivision (d)(2); Form 28.
 
@@ -16107,7 +16420,7 @@ While under Rule 4(f) the territorial limits of a summons are normally the terri
 
 Congress has specially constituted a tribunal for the trial of the issue of just compensation in two instances: condemnation under the Tennessee Valley Authority Act; and condemnation in the District of Columbia. These tribunals are retained for reasons set forth in the General Statement: 3. Adjustment of Rule to Statutory Provisions, supra. Subdivision (h) also has prospective application so that if Congress should create another special tribunal, that tribunal will determine the issue of just compensation. Subject to these exceptions the general method of trial of that issue is to be by jury if any party demands it, otherwise that issue, as well as all other issues, are to be tried by the court.
 
-As to the TVA procedure that is continued, U.S.C., Title 16, §831x requires that three commissioners be appointed to fix the compensation; that exceptions to their award are to be heard by three district judges (unless the parties stipulate for a lesser number) and that the district judges try the question de novo; that an appeal to the circuit court of appeals may be taken within 30 days from the filing of the decision of the district judges; and that the circuit court of appeals shall on the record fix compensation "without regard to the awards of findings theretofore made by the commissioners or the district judges." The mode of fixing compensation in the District of Columbia, which is also continued, is prescribed in U.S.C., \[former\] Title 40, §§361–386. Under §371 the court is required in all cases to order the selection of a jury of five from among not less than 20 names, drawn "from the special box provided by law." They must have the usual qualifications of jurors and in addition must be freeholders of the District, and not in the service of the United States or the District. A special oath is administered to the chosen jurors. The trial proceeds in the ordinary way, except that the jury is allowed to separate after they have begun to consider their verdict.
+As to the TVA procedure that is continued, U.S.C., Title 16, §831x \[(1946)\] requires that three commissioners be appointed to fix the compensation; that exceptions to their award are to be heard by three district judges (unless the parties stipulate for a lesser number) and that the district judges try the question de novo; that an appeal to the circuit court of appeals may be taken within 30 days from the filing of the decision of the district judges; and that the circuit court of appeals shall on the record fix compensation "without regard to the awards of findings theretofore made by the commissioners or the district judges." The mode of fixing compensation in the District of Columbia, which is also continued, is prescribed in U.S.C., Title 40, \[former\] §§361–386. Under §371 \[(1940)\] the court is required in all cases to order the selection of a jury of five from among not less than 20 names, drawn "from the special box provided by law." They must have the usual qualifications of jurors and in addition must be freeholders of the District, and not in the service of the United States or the District. A special oath is administered to the chosen jurors. The trial proceeds in the ordinary way, except that the jury is allowed to separate after they have begun to consider their verdict.
 
 There is no constitutional right to jury trial in a condemnation proceeding. *Bauman v. Ross*, 1897, 17 S.Ct. 966, 167 U.S. 548, 42 L.Ed. 270. See, also, Hines, Does the Seventh Amendment to the Constitution of the United States Require Jury Trials in all Condemnation Proceedings? 1925, 11 Va.L.Rev. 505; Blair, Federal Condemnation Proceedings and the Seventh Amendment 1927, 41 Harv.L.Rev. 29; 3 Moore's Federal Practice 1938, 3007. Prior to Rule 71A, jury trial in federal condemnation proceedings was, however, enjoyed under the general conformity statute, \[former\] 40 U.S.C. §258, in states which provided for jury trial. See generally, 2 Lewis, Eminent Domain 3d ed. 1909, §§509, 510; 3 Moore, op. cit. supra. Since the general conformity statute is superseded by Rule 71A, see supra under subdivision (a), and since it was believed that the rule to be substituted should likewise give a right to jury trial, subdivision (h) establishes that method as the general one for determining the issue of just compensation.
 
@@ -16245,17 +16558,17 @@ Rule 72(b)(1) is amended to permit the clerk to serve a copy of a magistrate jud
 
 #### Notes of Advisory Committee on Rules—1983
 
-*Subdivision (a)*. This subdivision implements the broad authority of the 1979 amendments to the Magistrates Act, 28 U.S.C. §636(c), which permit a magistrate to sit in lieu of a district judge and exercise civil jurisdiction over a case, when the parties consent. See McCabe, *The Federal Magistrate Act of 1979*, 16 Harv. J. Legis. 343, 364–79 (1979). In order to exercise this jurisdiction, a magistrate must be specially designated under 28 U.S.C. §636(c)(1) by the district court or courts he serves. The only exception to a magistrate's exercise of civil jurisdiction, which includes the power to conduct jury and nonjury trials and decide dispositive motions, is the contempt power. A hearing on contempt is to be conducted by the district judge upon certification of the facts and an order to show cause by the magistrate. See 28 U.S.C. §639(e). In view of 28 U.S.C. §636(c)(1) and this rule, it is unnecessary to amend Rule 58 to provide that the decision of a magistrate is a "decision by the court" for the purposes of that rule and a "final decision of the district court" for purposes of 28 U.S.C. §1291 governing appeals.
+*Subdivision (a)*. This subdivision implements the broad authority of the 1979 amendments to the Magistrates Act, 28 U.S.C. §636(c), which permit a magistrate to sit in lieu of a district judge and exercise civil jurisdiction over a case, when the parties consent. See McCabe, *The Federal Magistrate Act of 1979*, 16 Harv. J. Legis. 343, 364–79 (1979). In order to exercise this jurisdiction, a magistrate must be specially designated under 28 U.S.C. §636(c)(1) by the district court or courts he serves. The only exception to a magistrate's exercise of civil jurisdiction, which includes the power to conduct jury and nonjury trials and decide dispositive motions, is the contempt power. A hearing on contempt is to be conducted by the district judge upon certification of the facts and an order to show cause by the magistrate. See 28 U.S.C. §639(e) \[probably means former 28 U.S.C. 636(e)\]. In view of 28 U.S.C. §636(c)(1) and this rule, it is unnecessary to amend Rule 58 to provide that the decision of a magistrate is a "decision by the court" for the purposes of that rule and a "final decision of the district court" for purposes of 28 U.S.C. §1291 governing appeals.
 
 *Subdivision (b)*. This subdivision implements the blind consent provision of 28 U.S.C. §636(c)(2) and is designed to ensure that neither the judge nor the magistrate attempts to induce a party to consent to reference of a civil matter under this rule to a magistrate. See House Rep. No. 96–444, 96th Cong. 1st Sess. 8 (1979).
 
 The rule opts for a uniform approach in implementing the consent provision by directing the clerk to notify the parties of their opportunity to elect to proceed before a magistrate and by requiring the execution and filing of a consent form or forms setting forth the election. However, flexibility at the local level is preserved in that local rules will determine how notice shall be communicated to the parties, and local rules will specify the time period within which an election must be made.
 
-The last paragraph of subdivision (b) reiterates the provision in 28 U.S.C. §636(c)(6) for vacating a reference to the magistrate.
+The last paragraph of subdivision (b) reiterates the provision in 28 U.S.C. §636(c)(6) \[now (c)(4)\] for vacating a reference to the magistrate.
 
 *Subdivision (c)*. Under 28 U.S.C. §636(c)(3), the normal route of appeal from the judgment of a magistrate—the only route that will be available unless the parties otherwise agree in advance—is an appeal by the aggrieved party "directly to the appropriate United States court of appeals from the judgment of the magistrate in the same manner as an appeal from any other judgment of a district court." The quoted statutory language indicates Congress' intent that the same procedures and standards of appealability that govern appeals from district court judgments govern appeals from magistrates' judgments.
 
-*Subdivision (d)*. 28 U.S.C. §636(c)(4) offers parties who consent to the exercise of civil jurisdiction by a magistrate an alternative appeal route to that provided in subdivision (c) of this rule. This optional appellate route was provided by Congress in recognition of the fact that not all civil cases warrant the same appellate treatment. In cases where the amount in controversy is not great and there are no difficult questions of law to be resolved, the parties may desire to avoid the expense and delay of appeal to the court of appeals by electing an appeal to the district judge. See McCabe, *The Federal Magistrate Act of 1979*, 16 Harv. J. Legis. 343, 388 (1979). This subdivision provides that the parties may elect the optional appeal route at the time of reference to a magistrate. To this end, the notice by the clerk under subdivision (b) of this rule shall explain the appeal option and the corollary restriction on review by the court of appeals. This approach will avoid later claims of lack of consent to the avenue of appeal. The choice of the alternative appeal route to the judge of the district court should be made by the parties in their forms of consent. Special appellate rules to govern appeals from a magistrate to a district judge appear in new Rules 74 through 76.
+*Subdivision (d)*. \[Former\] 28 U.S.C. §636(c)(4) offers parties who consent to the exercise of civil jurisdiction by a magistrate an alternative appeal route to that provided in subdivision (c) of this rule. This optional appellate route was provided by Congress in recognition of the fact that not all civil cases warrant the same appellate treatment. In cases where the amount in controversy is not great and there are no difficult questions of law to be resolved, the parties may desire to avoid the expense and delay of appeal to the court of appeals by electing an appeal to the district judge. See McCabe, *The Federal Magistrate Act of 1979*, 16 Harv. J. Legis. 343, 388 (1979). This subdivision provides that the parties may elect the optional appeal route at the time of reference to a magistrate. To this end, the notice by the clerk under subdivision (b) of this rule shall explain the appeal option and the corollary restriction on review by the court of appeals. This approach will avoid later claims of lack of consent to the avenue of appeal. The choice of the alternative appeal route to the judge of the district court should be made by the parties in their forms of consent. Special appellate rules to govern appeals from a magistrate to a district judge appear in new Rules 74 through 76.
 
 #### Notes of Advisory Committee on Rules—1987 Amendment
 
@@ -16457,9 +16770,9 @@ Compare \[former\] Equity Rule 3 (Books Kept by Clerk and Entries Therein). In c
 
 U.S.C., Title 5:
 
- §301 \[see Title 28, §526\] (Officials for investigation of official acts, records and accounts of marshals, attorneys, clerks of courts, United States commissioners, referees and trustees)
+ §301 \[see 28 U.S.C. 526\] (Officials for investigation of official acts, records and accounts of marshals, attorneys, clerks of courts, United States commissioners, referees and trustees)
 
- §318 \[former\] (Accounts of district attorneys)
+ §318 \[see 28 U.S.C. 549, former 569\] (Accounts of district attorneys)
 
   
 
@@ -16481,7 +16794,7 @@ And see "Instructions to United States Attorneys, Marshals, Clerks and Commissio
 
 *Subdivision (a)*. The amendment substitutes the Director of the Administrative Office of the United States Courts, acting subject to the approval of the Judicial Conference of Senior Circuit Judges, in the place of the Attorney General as a consequence of and in accordance with the provisions of the act establishing the Administrative Office and transferring functions thereto. Act of August 7, 1939, c. 501, §§1–7, 53 Stat. 1223, 28 U.S.C. §§444–450 \[now 601–610\].
 
-*Subdivision (b)*. The change in this subdivision does not alter the nature of the judgments and orders to be recorded in permanent form but it does away with the express requirement that they be recorded in a book. This merely gives latitude for the preservation of court records in other than book form, if that shall seem advisable, and permits with the approval of the Judicial Conference the adoption of such modern, space-saving methods as microphotography. See *Proposed Improvements in the Administration of the Offices of Clerks of United States District Courts*, prepared by the Bureau of the Budget (1941) 38–42. See also Rule 55, Federal Rules of Criminal Procedure \[following section 687 of Title 18 U.S.C.\].
+*Subdivision (b)*. The change in this subdivision does not alter the nature of the judgments and orders to be recorded in permanent form but it does away with the express requirement that they be recorded in a book. This merely gives latitude for the preservation of court records in other than book form, if that shall seem advisable, and permits with the approval of the Judicial Conference the adoption of such modern, space-saving methods as microphotography. See *Proposed Improvements in the Administration of the Offices of Clerks of United States District Courts*, prepared by the Bureau of the Budget (1941) 38–42. See also Rule 55, Federal Rules of Criminal Procedure \[following section 687 of former Title 18 U.S.C.\].
 
 *Subdivision (c)*. The words "Separate and" have been deleted as unduly rigid. There is no sufficient reason for requiring that the indices in all cases be separate; on the contrary, the requirement frequently increases the labor of persons searching the records as well as the labor of the clerk's force preparing them. The matter should be left to administrative discretion.
 
@@ -16491,7 +16804,7 @@ The other changes in the subdivision merely conform with those made in subdivisi
 
 #### Notes of Advisory Committee on Rules—1948 Amendment
 
-The change in nomenclature conforms to the official designation in Title 28, U.S.C., §231.
+The change in nomenclature conforms to the official designation in Title 28, U.S.C., §231 \[now 2108\].
 
 #### Notes of Advisory Committee on Rules—1963 Amendment
 
@@ -16517,7 +16830,7 @@ If stenographically reported testimony at a hearing or trial is admissible in ev
 
 #### Notes of Advisory Committee on Rules—1946 Amendment
 
-Subdivisions (a) and (b) of Rule 80 have been abrogated because of Public Law 222, 78th Cong., c. 3, 2d Sess., approved Jan. 20, 1944, 28 U.S.C. §9a \[now 550, 604, 753, 1915, 1920\], providing for the appointment of official stenographers for each district court, prescribing their duties, providing for the furnishing of transcripts, the taxation of the fees therefor as costs, and other related matters. This statute has now been implemented by Congressional appropriation available for the fiscal year beginning July 1, 1945.
+Subdivisions (a) and (b) of Rule 80 have been abrogated because of Public Law 222, 78th Cong., c. 3, 2d Sess., approved Jan. 20, 1944, 28 U.S.C. §9a \[now 753, 1915, 1920\], providing for the appointment of official stenographers for each district court, prescribing their duties, providing for the furnishing of transcripts, the taxation of the fees therefor as costs, and other related matters. This statute has now been implemented by Congressional appropriation available for the fiscal year beginning July 1, 1945.
 
 Subdivision (c) of Rule 80 (Stenographic Report or Transcript as Evidence) has been retained unchanged.
 
@@ -16605,11 +16918,11 @@ The language of Rule 80 has been amended as part of the general restyling of the
 
 #### Notes of Advisory Committee on Rules—1937
 
-*Note to Subdivision (a)*. Paragraph (1): Compare the enabling act, act of June 19, 1934, U.S.C., Title 28, §§723b \[see 2072\] (Rules in actions at law; Supreme Court authorized to make) and 723c \[see 2072\] (Union of equity and action at law rules; power of Supreme Court). For the application of these rules in bankruptcy and copyright proceedings, see Orders xxxvi and xxxvii in Bankruptcy and Rule 1 of Rules of Practice and Procedure under §25 of the copyright act, act of March 4, 1909, U.S.C., Title 17, §25 \[see 412, 501 to 504\] (Infringement and rules of procedure).
+*Note to Subdivision (a)*. Paragraph (1): Compare the enabling act, act of June 19, 1934, U.S.C., Title 28, §§723b \[see former 2072\] (Rules in actions at law; Supreme Court authorized to make) and 723c \[see former 2072\] (Union of equity and action at law rules; power of Supreme Court). For the application of these rules in bankruptcy and copyright proceedings, see Orders xxxvi and xxxvii in Bankruptcy and Rule 1 of Rules of Practice and Procedure under §25 of the copyright act, act of March 4, 1909, U.S.C., Title 17, §25 \[see 412, 501 to 504\] (Infringement and rules of procedure).
 
-For examples of statutes which are preserved by paragraph (2) see: U.S.C., Title 8, ch. 9 \[former\] (Naturalization); Title 28, ch. 14 \[now 153\] (Habeas corpus); Title 28, §§377a–377c (Quo warranto); and such forfeiture statutes as U.S.C., Title 7, §116 (Misbranded seeds, confiscation), and Title 21, §14 \[see 334(b)\] (Pure Food and Drug Act—condemnation of adulterated or misbranded food; procedure). See also *443 Cans of Frozen Eggs Product v. U.S*., 226 U.S. 172, 33 S.Ct. 50 (1912).
+For examples of statutes which are preserved by paragraph (2) see: U.S.C., Title 8, \[former\] ch. 9 (Naturalization); Title 28, ch. 14 \[now 153\] (Habeas corpus); Title 28, §§377a–377c \[now D.C. Code §§16–3501 to 16–3503\] (Quo warranto); and such forfeiture statutes as U.S.C., Title 7, \[former\] §116 (Misbranded seeds, confiscation), and Title 21, §14 \[see 334(b)\] (Pure Food and Drug Act—condemnation of adulterated or misbranded food; procedure). See also *443 Cans of Frozen Eggs Product v. U.S*., 226 U.S. 172, 33 S.Ct. 50 (1912).
 
-For examples of statutes which under paragraph (7) will continue to govern procedure in condemnation cases, see U.S.C., \[former\] Title 40, §258 (Condemnation of realty for sites for public building, etc., procedure); U.S.C., Title 16, §831x (Condemnation by Tennessee Valley Authority); U.S.C., \[former\] Title 40, §120 (Acquisition of lands for public use in District of Columbia); \[former\] Title 40, ch. 7 (Acquisition of lands in District of Columbia for use of United States; condemnation).
+For examples of statutes which under paragraph (7) will continue to govern procedure in condemnation cases, see U.S.C., Title 40, \[former\] §258 (Condemnation of realty for sites for public building, etc., procedure); U.S.C., Title 16, §831x (Condemnation by Tennessee Valley Authority); U.S.C., Title 40, \[former\] §120 (Acquisition of lands for public use in District of Columbia); Title 40, \[former\] ch. 7 (Acquisition of lands in District of Columbia for use of United States; condemnation).
 
 *Note to Subdivision (b)*. Some statutes which will be affected by this subdivision are:
 
@@ -16627,9 +16940,9 @@ U.S.C., Title 15:
 
  §77t(c) (Enforcement of Securities and Exchange Commission orders and Securities Act of 1933)
 
- §78u(f) (Same; Securities Exchange Act of 1934)
+ §78u(f) \[now 78u(e)\] (Same; Securities Exchange Act of 1934)
 
- §79r(g) (Same; Public Utility Holding Company Act of 1935)
+ §79r(g) \[former\] (Same; Public Utility Holding Company Act of 1935)
 
   
 
@@ -16665,7 +16978,7 @@ U.S.C., Title 33:
 
 U.S.C., Title 45:
 
- §88 (Mandamus against Union Pacific Railroad Company)
+ §88 \[former\] (Mandamus against Union Pacific Railroad Company)
 
  §153(p) (Mandamus to enforce orders of Adjustment Board under Railway Labor Act)
 
@@ -16733,19 +17046,19 @@ U.S.C., Title 28, §72 \[now 1446, 1447\], *supra*, however, is modified by shor
 
 #### Notes of Advisory Committee on Rules—1946 Amendment
 
-*Subdivision (a)*. Despite certain dicta to the contrary \[*Lynn v. United States* (C.C.A.5th, 1940) 110 F.(2d) 586; *Mount Tivy Winery, Inc. v. Lewis* (N.D.Cal. 1942) 42 F.Supp. 636\], it is manifest that the rules apply to actions against the United States under the Tucker Act \[28 U.S.C., §§41(20), 250, 251, 254, 257, 258, 287, 289, 292, 761–765 \[now 791, 1346, 1401, 1402, 1491, 1493, 1496, 1501, 1503, 2071, 2072, 2411, 2412, 2501, 2506, 2509, 2510\]\]. See *United States to use of Foster Wheeler Corp. v. American Surety Co. of New York* (E.D.N.Y. 1939) 25 F.Supp. 700; *Boerner v. United States* (E.D.N.Y. 1939) 26 F.Supp. 769; *United States v. Gallagher* (C.C.A.9th, 1945) 151 F.(2d) 556. Rules 1 and 81 provide that the rules shall apply to all suits of a civil nature, whether cognizable as cases at law or in equity, except those specifically excepted; and the character of the various proceedings excepted by express statement in Rule 81, as well as the language of the rules generally, shows that the term "civil action" \[Rule 2\] includes actions against the United States. Moreover, the rules in many places expressly make provision for the situation wherein the United States is a party as either plaintiff or defendant. See Rules 4(d)(4), 12(a), 13(d), 25(d), 37(f), 39(c), 45(c), 54(d), 55(e), 62(e), and 65(c). In *United States v. Sherwood* (1941) 312 U.S. 584, the Solicitor General expressly conceded in his brief for the United States that the rules apply to Tucker Act cases. The Solicitor General stated: "The Government, of course, recognizes that the Federal Rules of Civil Procedure apply to cases brought under the Tucker Act." (Brief for the United States, p. 31). Regarding *Lynn v. United States, supra*, the Solicitor General said: "In *Lynn v. United States* . . . the Circuit Court of Appeals for the Fifth Circuit went beyond the Government's contention there, and held that an action under the Tucker Act is neither an action at law nor a suit in equity and, seemingly, that the Federal Rules of Civil Procedure are, therefore, inapplicable. We think the suggestion is erroneous. Rules 4(d), 12(a), 39(c), and 55(e) expressly contemplate suits against the United States, and nothing in the enabling Act (48 Stat. 1064) \[see 28 U.S.C. 2072\] suggests that the Rules are inapplicable to Tucker Act proceedings, which in terms are to accord with court rules and their subsequent modifications (Sec. 4, Act of March 3, 1887, 24 Stat. 505) \[see 28 U.S.C. 2071, 2072\]." (Brief for the United States, p. 31, n. 17.)
+*Subdivision (a)*. Despite certain dicta to the contrary \[*Lynn v. United States* (C.C.A.5th, 1940) 110 F.(2d) 586; *Mount Tivy Winery, Inc. v. Lewis* (N.D.Cal. 1942) 42 F.Supp. 636\], it is manifest that the rules apply to actions against the United States under the Tucker Act \[28 U.S.C., §§41(20), 250, 251, 254, 257, 258, 287, 289, 292, 761–765 \[see 791, 1346, 1402, 1491, former 1493, 1494, 1496, 1501, 1503, 2071, former 2072, 2401, 2402, 2411, 2412, 2501, 2509, 2510, 2511\]\]. See *United States to use of Foster Wheeler Corp. v. American Surety Co. of New York* (E.D.N.Y. 1939) 25 F.Supp. 700; *Boerner v. United States* (E.D.N.Y. 1939) 26 F.Supp. 769; *United States v. Gallagher* (C.C.A.9th, 1945) 151 F.(2d) 556. Rules 1 and 81 provide that the rules shall apply to all suits of a civil nature, whether cognizable as cases at law or in equity, except those specifically excepted; and the character of the various proceedings excepted by express statement in Rule 81, as well as the language of the rules generally, shows that the term "civil action" \[Rule 2\] includes actions against the United States. Moreover, the rules in many places expressly make provision for the situation wherein the United States is a party as either plaintiff or defendant. See Rules 4(d)(4), 12(a), 13(d), 25(d), 37(f), 39(c), 45(c), 54(d), 55(e), 62(e), and 65(c). In *United States v. Sherwood* (1941) 312 U.S. 584, the Solicitor General expressly conceded in his brief for the United States that the rules apply to Tucker Act cases. The Solicitor General stated: "The Government, of course, recognizes that the Federal Rules of Civil Procedure apply to cases brought under the Tucker Act." (Brief for the United States, p. 31). Regarding *Lynn v. United States, supra*, the Solicitor General said: "In *Lynn v. United States* . . . the Circuit Court of Appeals for the Fifth Circuit went beyond the Government's contention there, and held that an action under the Tucker Act is neither an action at law nor a suit in equity and, seemingly, that the Federal Rules of Civil Procedure are, therefore, inapplicable. We think the suggestion is erroneous. Rules 4(d), 12(a), 39(c), and 55(e) expressly contemplate suits against the United States, and nothing in the enabling Act (48 Stat. 1064) \[see 28 U.S.C. former 2072\] suggests that the Rules are inapplicable to Tucker Act proceedings, which in terms are to accord with court rules and their subsequent modifications (Sec. 4, Act of March 3, 1887, 24 Stat. 505) \[see 28 U.S.C. 2071, former 2072\]." (Brief for the United States, p. 31, n. 17.)
 
 *United States v. Sherwood, supra*, emphasizes, however, that the application of the rules in Tucker Act cases affects only matters of procedure and does not operate to extend jurisdiction. See also Rule 82. In the *Sherwood* case, the New York Supreme Court, acting under §795 of the New York Civil Practice Act, made an order authorizing Sherwood, as a judgment creditor, to maintain a suit under the Tucker Act to recover damages from the United States for breach of its contract with the judgment debtor, Kaiser, for construction of a post office building. Sherwood brought suit against the United States and Kaiser in the District Court for the Eastern District of New York. The question before the United States Supreme Court was whether a United States District Court had jurisdiction to entertain a suit against the United States wherein private parties were joined as parties defendant. It was contended that either the Federal Rules of Civil Procedure or the Tucker Act, or both, embodied the consent of the United States to be sued in litigations in which issues between the plaintiff and third persons were to be adjudicated. Regarding the effect of the Federal Rules, the Court declared that nothing in the rules, so far as they may be applicable in Tucker Act cases, authorized the maintenance of any suit against the United States to which it had not otherwise consented. The matter involved was not one of procedure but of jurisdiction, the limits of which were marked by the consent of the United States to be sued. The jurisdiction thus limited is unaffected by the Federal Rules of Civil Procedure.
 
 *Subdivision (a)(2)*. The added sentence makes it clear that the rules have not superseded the requirements of U.S.C., Title 28, §466 \[now 2253\]. *Schenk v. Plummer* (C.C.A. 9th, 1940) 113 F.(2d) 726.
 
-For correct application of the rules in proceedings for forfeiture of property for violation of a statute of the United States, such as under U.S.C., Title 22, §405 (seizure of war materials intended for unlawful export) or U.S.C., Title 21, §334(b) (Federal Food, Drug, and Cosmetic Act; formerly Title 21, §14, Pure Food and Drug Act), see *Reynal v. United States* (C.C.A. 5th, 1945) 153 F.(2d) 929; *United States v. 108 Boxes of Cheddar Cheese* (S.D.Iowa 1943) 3 F.R.D. 40.
+For correct application of the rules in proceedings for forfeiture of property for violation of a statute of the United States, such as under U.S.C., Title 22, \[former\] §405 (seizure of war materials intended for unlawful export) or U.S.C., Title 21, §334(b) (Federal Food, Drug, and Cosmetic Act; formerly Title 21, §14, Pure Food and Drug Act), see *Reynal v. United States* (C.C.A. 5th, 1945) 153 F.(2d) 929; *United States v. 108 Boxes of Cheddar Cheese* (S.D.Iowa 1943) 3 F.R.D. 40.
 
 *Subdivision (a)(3)*. The added sentence makes it clear that the rules apply to appeals from proceedings to enforce administrative subpoenas. See *Perkins v. Endicott Johnson Corp*. (C.C.A. 2d 1942) 128 F.(2d) 208, aff'd on other grounds (1943) 317 U.S. 501; *Walling v. News Printing, Inc*. (C.C.A. 3d, 1945) 148 F.(2d) 57; *McCrone v. United States* (1939) 307 U.S. 61. And, although the provision allows full recognition of the fact that the rigid application of the rules in the proceedings themselves may conflict with the summary determination desired \[*Goodyear Tire & Rubber Co. v. National Labor Relations Board* (C.C.A. 6th, 1941) 122 F.(2d) 450; *Cudahy Packing Co. v. National Labor Relations Board* (C.C.A. 10th, 1941) 117 F.(2d) 692\], it is drawn so as to permit application of any of the rules in the proceedings whenever the district court deems them helpful. See, *e.g., Peoples Natural Gas Co. v. Federal Power Commission* (App. D.C. 1942) 127 F.(2d) 153, cert. den. (1942) 316 U.S. 700; *Martin v. Chandis Securities Co*. (C.C.A. 9th, 1942) 128 F.(2d) 731. Compare the application of the rules in summary proceedings in bankruptcy under General Order 37. See 1 *Collier on Bankruptcy* (14th ed. by Moore and Oglebay) 326–327; 2 *Collier, op. cit. supra*, 1401–1402; 3 *Collier, op. cit. supra*, 228–231; 4 *Collier, op. cit. supra*, 1199–1202.
 
 *Subdivision (a)(6)*. Section 405 of U.S.C., Title 8 originally referred to in the last sentence of paragraph (6), has been repealed and §738 \[see 1451\], U.S.C., Title 8, has been enacted in its stead. The last sentence of paragraph (6) has, therefore, been amended in accordance with this change. The sentence has also been amended so as to refer directly to the statute regarding the provision of time for answer, thus avoiding any confusion attendant upon a change in the statute.
 
-That portion of subdivision (a)(6) making the rules applicable to proceedings for enforcement or review of compensation orders under the Longshoremen's and Harbor Workers' Compensation Act \[33 U.S.C. §901 et seq.\] was added by an amendment made pursuant to order of the Court, December 28, 1939, effective three months subsequent to the adjournment of the 76th Congress, January 3, 1941.
+That portion of subdivision (a)(6) making the rules applicable to proceedings for enforcement or review of compensation orders under the Longshoremen's and Harbor Workers' Compensation Act \[renamed the Longshore and Harbor Workers' Compensation Act, 33 U.S.C. §901 et seq.\] was added by an amendment made pursuant to order of the Court, December 28, 1939, effective three months subsequent to the adjournment of the 76th Congress, January 3, 1941.
 
 *Subdivision (c)*. The change in subdivision (c) effects more speedy trials in removed actions. In some states many of the courts have only two terms a year. A case, if filed 20 days before a term, is returnable to that term, but if filed less than 20 days before a term, is returnable to the following term, which convenes six months later. Hence, under the original wording of Rule 81(c), where a case is filed less than 20 days before the term and is removed within a few days but before answer, it is possible for the defendant to delay interposing his answer or presenting his defenses by motion for six months or more. The rule as amended prevents this result.
 
@@ -16766,6 +17079,10 @@ That portion of subdivision (a)(6) making the rules applicable to proceedings fo
 *Paragraph (6)*.—The Chinese Exclusion Acts were repealed by the Act of December 17, 1943, c. 344, §1, 57 Stat. 600, and hence the reference to the Act of September 13, 1888, as amended, is deleted. The Longshoremen's and Harbor Workers' Compensation Act of March 4, 1927, was amended by Act of June 25, 1936, c. 804, 49 Stat. 1921, and hence the words "as amended" have been added to reflect this change and, as they are sufficiently general, to include future statutory amendment. The Nationality Act of October 14, 1940, c. 876, 54 Stat. 1137, 1172, repealed and replaced the Act of June 29, 1906, as amended, and correcting statutory references are, therefore, made.
 
 *Subdivision (c)*.—In the first sentence the change in nomenclature conforms to the official designation of district courts in Title 28, U.S.C., §132(a); and the word "all" is deleted as superfluous. The need for revision of the third sentence is occasioned by the procedure for removal set forth in revised Title 28, U.S.C., §1446. Under the prior removal procedure governing civil actions, 28 U.S.C., §72 (1946), the petition for removal had to be first presented to and filed with the state court, except in the case of removal on the basis of prejudice or local influence, within the time allowed "to answer or plead to the declaration or complaint of the plaintiff"; and the defendant had to file a transcript of the record in the federal court within thirty days from the date of filing his removal petition. Under §1446(a) removal is effected by a defendant filing with the proper United States district court "a verified petition containing a short and plain statement of the facts which entitled him or them to removal together with a copy of all process, pleadings, and orders served upon him or them in such action." And §1446(b) provides: "The petition for removal of a civil action or proceeding may be filed within twenty days after commencement of the action or service of process, whichever is later." This subsection (b) gives trouble in states where an action may be both commenced and service of process made without serving or otherwise giving the defendant a copy of the complaint or other initial pleading. To cure this statutory defect, the Judge's Committee appointed pursuant to action of the Judicial Conference and headed by Judge Albert B. Maris is proposing an amendment to §1446(b) to read substantially as follows: "The petition for removal of a civil action or proceedings shall be filed within 20 days after the receipt through service or otherwise by the defendant of a copy of the initial pleading setting forth the claim for relief upon which the action or proceeding is based." The revised third sentence of Rule 81(c) is geared to this proposed statutory amendment; and it gives the defendant at least 5 days after removal within which to present his defenses.\*
+
+\*Note.—The Supreme Court made these changes in the committee's proposed amendment to Rule 81(c): The phrase, "or within 20 days after the service of summons upon such initial pleading, then filed," was inserted following the phrase, "within 20 days after the receipt through service or otherwise of a copy of the initial pleading setting forth the claim for relief upon which the action or proceeding is based", because in several states suit is commenced by service of summons upon the defendant, notifying him that the plaintiff's pleading has been filed with the clerk of court. Thus, he may never receive a copy of the initial pleading. The added phrase is intended to give the defendant 20 days after the service of such summons in which to answer in a removed action, or 5 days after the filing of the petition for removal, whichever is longer. In these states, the 20-day period does not begin to run until such pleading is actually filed. The last word of the third sentence was changed from "longer" to "longest" because of the added phrase.
+
+The phrase, "and who has not already waived his right to such trial," which previously appeared in the fourth sentence of subsection (c) of Rule 81, was deleted in order to afford a party who has waived his right to trial by jury in a state court an opportunity to assert that right upon removal to a federal court.
 
 The change in the last sentence of subdivision (c) reflects the fact that a transcript of the record is no longer required under §1446, and safeguards the right to demand a jury trial, where the right has not already been waived and where the parties are at issue—"all necessary pleadings have been served." Only, rarely will the last sentence of Rule 81(c) have any applicability, since removal will normally occur before the pleadings are closed, and in this usual situation Rule 38(b) applies and safeguards the right to jury trial. See Moore's Federal practice (1st ed.) 3020.
 
@@ -16861,10 +17178,6 @@ The Longshore and Harbor Workers' Compensation Act, referred to in subd. (a)(6)(
 
 Abrogation of par. (7) of subdivision (a) of this rule as effective August 1, 1951, see Notes of Advisory Committee on Rules—1951, set as a note under Rule 71.1.
 
-[\* Note.—The Supreme Court made these changes in the committee's proposed amendment to Rule 81(c): The phrase, "or within 20 days after the service of summons upon such initial pleading, then filed," was inserted following the phrase, "within 20 days after the receipt through service or otherwise of a copy of the initial pleading setting forth the claim for relief upon which the action or proceeding is based", because in several states suit is commenced by service of summons upon the defendant, notifying him that the plaintiff's pleading has been filed with the clerk of court. Thus, he may never receive a copy of the initial pleading. The added phrase is intended to give the defendant 20 days after the service of such summons in which to answer in a removed action, or 5 days after the filing of the petition for removal, whichever is longer. In these states, the 20-day period does not begin to run until such pleading is actually filed. The last word of the third sentence was changed from "longer" to "longest" because of the added phrase.](#Rule_81_I)
-
-[The phrase, "and who has not already waived his right to such trial," which previously appeared in the fourth sentence of subsection (c) of Rule 81, was deleted in order to afford a party who has waived his right to trial by jury in a state court an opportunity to assert that right upon removal to a federal court.](#Rule_81_I)
-
 ### Rule 82. Jurisdiction and Venue Unaffected
 
 These rules do not extend or limit the jurisdiction of the district courts or the venue of actions in those courts. An admiralty or maritime claim under Rule 9(h) is governed by 28 U.S.C. §1390.
@@ -16881,7 +17194,7 @@ The change in nomenclature conforms to the official designation of district cour
 
 #### Notes of Advisory Committee on Rules—1966 Amendment
 
-Title 28, U.S.C. §1391(b) provides: "A civil action wherein jurisdiction is not founded solely on diversity of citizenship may be brought only in the judicial district where all defendants reside, except as otherwise provided by law." This provision cannot appropriately be applied to what were formerly suits in admiralty. The rationale of decisions holding it inapplicable rests largely on the use of the term "civil action"; i.e., a suit in admiralty is not a "civil action" within the statute. By virtue of the amendment to Rule 1, the provisions of Rule 2 convert suits in admiralty into civil actions. The added sentence is necessary to avoid an undesirable change in existing law with respect to venue.
+Title 28, U.S.C. §1391(b) \[(1964)\] provides: "A civil action wherein jurisdiction is not founded solely on diversity of citizenship may be brought only in the judicial district where all defendants reside, except as otherwise provided by law." This provision cannot appropriately be applied to what were formerly suits in admiralty. The rationale of decisions holding it inapplicable rests largely on the use of the term "civil action"; i.e., a suit in admiralty is not a "civil action" within the statute. By virtue of the amendment to Rule 1, the provisions of Rule 2 convert suits in admiralty into civil actions. The added sentence is necessary to avoid an undesirable change in existing law with respect to venue.
 
 #### Committee Notes on Rules—2001 Amendment
 
@@ -17007,7 +17320,7 @@ Sections 2–4 of the Order of the Supreme Court, dated Feb. 28, 1966, 383 U.S. 
 
 "2. That the foregoing amendments and additions to the Rules of Civil Procedure shall take effect on July 1, 1966, and shall govern all proceedings in actions brought thereafter and also in all further proceedings in actions then pending, except to the extent that in the opinion of the court their application in a particular action then pending would not be feasible or would work injustice, in which event the former procedure applies.
 
-"3. That the Chief Justice be, and he hereby is, authorized to transmit to the Congress the foregoing amendments and additions to the Rules of Civil Procedure in accordance with the provisions of Title 28, U.S.C., §§2072 and 2073.
+"3. That the Chief Justice be, and he hereby is, authorized to transmit to the Congress the foregoing amendments and additions to the Rules of Civil Procedure in accordance with the provisions of Title 28, U.S.C., \[former\] §§2072 and 2073.
 
 "4. That: (a) subdivision (c) of Rule 6 of the Rules of Civil Procedure for the United States District Courts promulgated by this court on December 20, 1937, effective September 16, 1938; (b) Rule 2 of the Rules for Practice and Procedure under section 25 of An Act To amend and consolidate the Acts respecting copyright, approved March 4, 1909, promulgated by this court on June 1, 1909, effective July 1, 1909; and (c) the Rules of Practice in Admiralty and Maritime Cases, promulgated by this court on December 6, 1920, effective March 7, 1921, as revised, amended and supplemented be, and they hereby are, rescinded, effective July 1, 1966."
 
@@ -17637,7 +17950,7 @@ Adapted from Admiralty Rule 8.
 
 Derived from Admiralty Rule 50.
 
-Title 46, U.S.C., §783 extends the principle of Rule 50 to the Government when sued under the Public Vessels Act, presumably on the theory that the credit of the Government is the equivalent of the best security. The rule adopts this principle and extends it to all cases in which the Government is defendant although the Suits in Admiralty Act contains no parallel provisions.
+Title 46, U.S.C., §783 \[(1964), see 46 U.S.C. 31102(b), 31105\] extends the principle of Rule 50 to the Government when sued under the Public Vessels Act, presumably on the theory that the credit of the Government is the equivalent of the best security. The rule adopts this principle and extends it to all cases in which the Government is defendant although the Suits in Admiralty Act contains no parallel provisions.
 
 #### Subdivision (8).
 
@@ -17719,7 +18032,7 @@ Sections 603 and 604 of Title 46, referred to in subd. (4)(f), were repealed by 
 
 Subdivision (1).
 
-The amendments of 1936 to the Limitation Act superseded to some extent the provisions of Admiralty Rule 51, especially with respect to the time of filing the complaint and with respect to security. The rule here incorporates in substance the 1936 amendment of the Act (46 U.S.C., §185) with a slight modification to make it clear that the complaint may be filed at any time not later than six months after a claim has been lodged with the owner.
+The amendments of 1936 to the Limitation Act superseded to some extent the provisions of Admiralty Rule 51, especially with respect to the time of filing the complaint and with respect to security. The rule here incorporates in substance the 1936 amendment of the Act (46 U.S.C., §185 \[(1964), see 46 U.S.C. 30529\]) with a slight modification to make it clear that the complaint may be filed at any time not later than six months after a claim has been lodged with the owner.
 
   
 
@@ -17731,7 +18044,7 @@ Derived from Admiralty Rules 51 and 53.
 
 Subdivision (3).
 
-This is derived from the last sentence of 36 \[46\] U.S.C. §185 and the last paragraph of Admiralty Rule 51.
+This is derived from the last sentence of 36 \[46\] U.S.C. §185 \[(1964), see 46 U.S.C. 30529\] and the last paragraph of Admiralty Rule 51.
 
   
 
@@ -17755,7 +18068,7 @@ Derived from Admiralty Rule 52.
 
 Subdivision (7).
 
-Derived from Admiralty Rules 52 and 36 \[46\] U.S.C., §185.
+Derived from Admiralty Rules 52 and 36 \[46\] U.S.C., §185 \[(1964), see 46 U.S.C. 30529\].
 
   
 
@@ -18315,7 +18628,7 @@ Rules 6, 7, and 8 set the times for serving the briefs: 30 days after the answer
 
 # FEDERAL RULES OF EVIDENCE
 
-(As amended to December 1, 2024)
+(As amended to December 1, 2025)
 
 #### Effective Date and Application of Rules
 
@@ -18745,7 +19058,7 @@ The order of proof here, as generally, is subject to the control of the judge.
 
 *Subdivision (d)*. The limitation upon cross-examination is designed to encourage participation by the accused in the determination of preliminary matters. He may testify concerning them without exposing himself to cross-examination generally. The provision is necessary because of the breadth of cross-examination under Rule 611(b).
 
-The rule does not address itself to questions of the subsequent use of testimony given by an accused at a hearing on a preliminary matter. See *Walder v. United States*, 347 U.S. 62 (1954): *Simmons v. United States*, 390 U.S. 377 (1968): *Harris v. New York*, 401 U.S. 222 (1971)
+The rule does not address itself to questions of the subsequent use of testimony given by an accused at a hearing on a preliminary matter. See *Walder v. United States*, 347 U.S. 62 (1954); *Simmons v. United States*, 390 U.S. 377 (1968); *Harris v. New York*, 401 U.S. 222 (1971).
 
 *Subdivision (e)*. For similar provisions see Uniform Rule 8; California Evidence Code §406; Kansas Code of Civil Procedure §60–408; New Jersey Evidence Rule 8(1).
 
@@ -19127,7 +19440,7 @@ Succeeding rules in the present article, in response to the demands of particula
 
 The Rules of Civil and Criminal Procedure in some instances require the exclusion of relevant evidence. For example, Rules 30(b) and 32(a)(3) of the Rules of Civil Procedure, by imposing requirements of notice and unavailability of the deponent, place limits on the use of relevant depositions. Similarly, Rule 15 of the Rules of Criminal Procedure restricts the use of depositions in criminal cases, even though relevant. And the effective enforcement of the command, originally statutory and now found in Rule 5(a) of the Rules of Criminal Procedure, that an arrested person be taken without unnecessary delay before a commissioner of other similar officer is held to require the exclusion of statements elicited during detention in violation thereof. *Mallory v. United States*, 354 U.S. 449, 77 S.Ct. 1356, 1 L.Ed.2d 1479 (1957); 18 U.S.C. §3501(c).
 
-While congressional enactments in the field of evidence have generally tended to expand admissibility beyond the scope of the common law rules, in some particular situations they have restricted the admissibility of relevant evidence. Most of this legislation has consisted of the formulation of a privilege or of a prohibition against disclosure. 8 U.S.C. §1202(f), records of refusal of visas or permits to enter United States confidential, subject to discretion of Secretary of State to make available to court upon certification of need; 10 U.S.C. §3693, replacement certificate of honorable discharge from Army not admissible in evidence; 10 U.S.C. §8693, same as to Air Force; 11 U.S.C. §25(a)(10), testimony given by bankrupt on his examination not admissible in criminal proceedings against him, except that given in hearing upon objection to discharge; 11 U.S.C. §205(a), railroad reorganization petition, if dismissed, not admissible in evidence; 11 U.S.C. §403(a), list of creditors filed with municipal composition plan not an admission; 13 U.S.C. §9(a), census information confidential, retained copies of reports privileged; 47 U.S.C. §605, interception and divulgence of wire or radio communications prohibited unless authorized by sender. These statutory provisions would remain undisturbed by the rules.
+While congressional enactments in the field of evidence have generally tended to expand admissibility beyond the scope of the common law rules, in some particular situations they have restricted the admissibility of relevant evidence. Most of this legislation has consisted of the formulation of a privilege or of a prohibition against disclosure. 8 U.S.C. §1202(f), records of refusal of visas or permits to enter United States confidential, subject to discretion of Secretary of State to make available to court upon certification of need; 10 U.S.C. \[former\] §3693 \[see 1041\], replacement certificate of honorable discharge from Army not admissible in evidence; 10 U.S.C. \[former\] §8693 \[see 1041\], same as to Air Force; 11 U.S.C. §25(a)(10) \[see 343, 344\], testimony given by bankrupt on his examination not admissible in criminal proceedings against him, except that given in hearing upon objection to discharge; 11 U.S.C. \[former\] §205(a), railroad reorganization petition, if dismissed, not admissible in evidence; 11 U.S.C. §403(a) \[see 903\], list of creditors filed with municipal composition plan not an admission; 13 U.S.C. §9(a), census information confidential, retained copies of reports privileged; 47 U.S.C. §605, interception and divulgence of wire or radio communications prohibited unless authorized by sender. These statutory provisions would remain undisturbed by the rules.
 
 The rule recognizes but makes no attempt to spell out the constitutional considerations which impose basic limitations upon the admissibility of relevant evidence. Examples are evidence obtained by unlawful search and seizure, *Weeks v. United States*, 232 U.S. 383, 34 S.Ct. 341, 58 L.Ed. 652 (1914); *Katz v. United States*, 389 U.S. 347, 88 S.Ct. 507, 19 L.Ed.2d 576 (1967); incriminating statement elicited from an accused in violation of right to counsel, *Massiah v. United States*, 377 U.S. 201, 84 S.Ct. 1199, 12 L.Ed.2d 246 (1964).
 
@@ -19357,7 +19670,7 @@ Agreement is general that habit evidence is highly persuasive as proof of conduc
 
 When disagreement has appeared, its focus has been upon the question what constitutes habit, and the reason for this is readily apparent. The extent to which instances must be multiplied and consistency of behavior maintained in order to rise to the status of habit inevitably gives rise to differences of opinion. Lewan, Rationale of Habit Evidence, 16 Syracuse L.Rev. 39, 49 (1964). While adequacy of sampling and uniformity of response are key factors, precise standards for measuring their sufficiency for evidence purposes cannot be formulated.
 
-The rule is consistent with prevailing views. Much evidence is excluded simply because of failure to achieve the status of habit. Thus, evidence of intemperate "habits" is generally excluded when offered as proof of drunkenness in accident cases, Annot., 46 A.L.R.2d 103, and evidence of other assaults is inadmissible to prove the instant one in a civil assault action, Annot., 66 A.L.R.2d 806. In *Levin v. United States*, 119 U.S.App.D.C. 156, 338 F.2d 265 (1964), testimony as to the religious "habits" of the accused, offered as tending to prove that he was at home observing the Sabbath rather than out obtaining money through larceny by trick, was held properly excluded;
+The rule is consistent with prevailing views. Much evidence is excluded simply because of failure to achieve the status of habit. Thus, evidence of intemperate "habits" is generally excluded when offered as proof of drunkenness in accident cases, Annot., 46 A.L.R.2d 103, and evidence of other assaults is inadmissible to prove the instant one in a civil assault action, Annot., 66 A.L.R.2d 806. In *Levin v. United States*, 119 U.S.App.D.C. 156, 338 F.2d 265 (1964), testimony as to the religious "habits" of the accused, offered as tending to prove that he was at home observing the Sabbath rather than out obtaining money through larceny by trick, was held properly excluded:
 
 "It seems apparent to us that an individual's religious practices would not be the type of activities which would lend themselves to the characterization of 'invariable regularity.' \[1 Wigmore 520.\] Certainly the very volitional basis of the activity raises serious questions as to its invariable nature, and hence its probative value." *Id*. at 272.
 
@@ -19849,7 +20162,7 @@ The common law—as interpreted by United States courts in the light of reason a
 
 But in a civil case, state law governs privilege regarding a claim or defense for which state law supplies the rule of decision.
 
-(Pub. L. 93–595, §1, Jan. 2, 1975, 88 Stat. 1933; amended Apr. 26, 2011, eff. Dec. 1, 2011.)
+(Pub. L. 93–595, §1, Jan. 2, 1975, 88 Stat. 1933; Apr. 26, 2011, eff. Dec. 1, 2011.)
 
 #### Notes of Committee on the Judiciary, House Report No. 93–650
 
@@ -20021,7 +20334,7 @@ Pub. L. 110–322, §1(c), Sept. 19, 2008, 122 Stat. 3538, provided that: "The a
 
 Every person is competent to be a witness unless these rules provide otherwise. But in a civil case, state law governs the witness's competency regarding a claim or defense for which state law supplies the rule of decision.
 
-(Pub. L. 93–595, §1, Jan. 2, 1975, 88 Stat. 1934; amended Apr. 26, 2011, eff. Dec. 1, 2011.)
+(Pub. L. 93–595, §1, Jan. 2, 1975, 88 Stat. 1934; Apr. 26, 2011, eff. Dec. 1, 2011.)
 
 #### Notes of Advisory Committee on Proposed Rules
 
@@ -20123,7 +20436,7 @@ The presiding judge may not testify as a witness at the trial. A party need not 
 
 #### Notes of Advisory Committee on Proposed Rules
 
-In view of the mandate of 28 U.S.C. §455 that a judge disqualify himself in "any case in which he \* \* \* is or has been a material witness," the likelihood that the presiding judge in a federal court might be called to testify in the trial over which he is presiding is slight. Nevertheless the possibility is not totally eliminated.
+In view of the mandate of 28 U.S.C. §455 \[(1970)\] that a judge disqualify himself in "any case in which he \* \* \* is or has been a material witness," the likelihood that the presiding judge in a federal court might be called to testify in the trial over which he is presiding is slight. Nevertheless the possibility is not totally eliminated.
 
 The solution here presented is a broad rule of incompetency, rather than such alternatives as incompetency only as to material matters, leaving the matter to the discretion of the judge, or recognizing no incompetency. The choice is the result of inability to evolve satisfactory answers to questions which arise when the judge abandons the bench for the witness stand. Who rules on objections? Who compels him to answer? Can he rule impartially on the weight and admissibility of his own testimony? Can he be impeached or cross-examined effectively? Can he, in a jury trial, avoid conferring his seal of approval on one side in the eyes of the jury? Can he, in a bench trial, avoid an involvement destructive of impartiality? The rule of general incompetency has substantial support. See Report of the Special Committee on the Propriety of Judges Appearing as Witnesses, 36 A.B.A.J. 630 (1950); cases collected in Annot. 157 A.L.R. 311; McCormick §68, p. 147; Uniform Rule 42; California Evidence Code §703; Kansas Code of Civil Procedure §60–442; New Jersey Evidence Rule 42. Cf. 6 Wigmore §1909, which advocates leaving the matter to the discretion of the judge, and statutes to that effect collected in Annot. 157 A.L.R. 311.
 
@@ -20301,7 +20614,7 @@ The amendment is technical. No substantive change is intended.
 
 #### Committee Notes on Rules—2003 Amendment
 
-The Rule has been amended to clarify that the absolute prohibition on extrinsic evidence applies only when the sole reason for proffering that evidence is to attack or support the witness' character for truthfulness. *See United States v. Abel*, 469 U.S. 45 (1984); *United States v. Fusco*, 748 F.2d 996 (5th Cir. 1984) (Rule 608(b) limits the use of evidence "designed to show that the witness has done things, unrelated to the suit being tried, that make him more or less believable per se"); Ohio R.Evid. 608(b). On occasion the Rule's use of the overbroad term "credibility" has been read "to bar extrinsic evidence for bias, competency and contradiction impeachment since they too deal with credibility." American Bar Association Section of Litigation, *Emerging Problems Under the Federal Rules of Evidence* at 161 (3d ed. 1998). The amendment conforms the language of the Rule to its original intent, which was to impose an absolute bar on extrinsic evidence only if the sole purpose for offering the evidence was to prove the witness' character for veracity. *See* Advisory Committee Note to Rule 608(b) (stating that the Rule is "\[i\]n conformity with Rule 405, which forecloses use of evidence of specific incidents as proof in chief of character unless character is in issue in the case . . .").
+The Rule has been amended to clarify that the absolute prohibition on extrinsic evidence applies only when the sole reason for proffering that evidence is to attack or support the witness' character for truthfulness. *See United States v. Abel*, 469 U.S. 45 (1984); *United States v. Fusco*, 748 F.2d 996 (5th Cir. 1984) (Rule 608(b) limits the use of evidence "designed to show that the witness has done things, unrelated to the suit being tried, that make him more or less believable per se"); Ohio R.Evid. 608(b). On occasion the Rule's use of the overbroad term "credibility" has been read "to bar extrinsic evidence for bias, competency and contradiction impeachment since they too deal with credibility." American Bar Association Section of Litigation, *Emerging Problems Under the Federal Rules of Evidence* at 161 (3d ed. 1998). The amendment conforms the language of the Rule to its original intent, which was to impose an absolute bar on extrinsic evidence only if the sole purpose for offering the evidence was to prove the witness' character for veracity. *See* Advisory Committee Note to Rule 608(b) (stating that the Rule is "\[i\]n conformity with Rule 405, which forecloses use of evidence of specific incidents as proof in chief of character unless character is in issue in the case . . .").
 
 By limiting the application of the Rule to proof of a witness' character for truthfulness, the amendment leaves the admissibility of extrinsic evidence offered for other grounds of impeachment (such as contradiction, prior inconsistent statement, bias and mental capacity) to Rules 402 and 403. *See, e.g., United States v. Winchenbach*, 197 F.3d 548 (1st Cir. 1999) (admissibility of a prior inconsistent statement offered for impeachment is governed by Rules 402 and 403, not Rule 608(b)); *United States v. Tarantino*, 846 F.2d 1384 (D.C. Cir. 1988) (admissibility of extrinsic evidence offered to contradict a witness is governed by Rules 402 and 403); *United States v. Lindemann*, 85 F.3d 1232 (7th Cir. 1996) (admissibility of extrinsic evidence of bias is governed by Rules 402 and 403).
 
@@ -20749,7 +21062,7 @@ The amendment is technical. No substantive change is intended.
 
 #### Committee Notes on Rules—1998 Amendment
 
-The amendment is in response to: (1) the Victim's Rights and Restitution Act of 1990, 42 U.S.C. §10606, which guarantees, within certain limits, the right of a crime victim to attend the trial; and (2) the Victim Rights Clarification Act of 1997 (18 U.S.C. §3510).
+The amendment is in response to: (1) the Victim's Rights and Restitution Act of 1990, 42 U.S.C. \[former\] §10606 \[see 18 U.S.C. 3771\], which guarantees, within certain limits, the right of a crime victim to attend the trial; and (2) the Victim Rights Clarification Act of 1997 (18 U.S.C. §3510).
 
 #### Committee Notes on Rules—2011 Amendment
 
@@ -21203,7 +21516,7 @@ It can scarcely be doubted that an assertion made in words is intended by the de
 
 When evidence of conduct is offered on the theory that it is not a statement, and hence not hearsay, a preliminary determination will be required to determine whether an assertion is intended. The rule is so worded as to place the burden upon the party claiming that the intention existed; ambiguous and doubtful cases will be resolved against him and in favor of admissibility. The determination involves no greater difficulty than many other preliminary questions of fact. Maguire, The Hearsay System: Around and Through the Thicket, 14 Vand.L.Rev. 741, 765–767 (1961).
 
-For similar approaches, see Uniform Rule 62(1); California Evidence Code §§225, 1200; Kansas Code of Civil Procedure §60–459(a); New Jersey Evidence Rule 62(1)
+For similar approaches, see Uniform Rule 62(1); California Evidence Code §§225, 1200; Kansas Code of Civil Procedure §60–459(a); New Jersey Evidence Rule 62(1).
 
 *Subdivision (c)*. The definition follows along familiar lines in including only statements offered to prove the truth of the matter asserted. McCormick §225; 5 Wigmore §1361, 6 *id*. §1766. If the significance of an offered statement lies solely in the fact that it was made, no issue is raised as to the truth of anything asserted, and the statement is not hearsay. *Emich Motors Corp. v. General Motors Corp*., 181 F.2d 70 (7th Cir. 1950), rev'd on other grounds 340 U.S. 558, 71 S.Ct. 408, 95 L.Ed 534, letters of complaint from customers offered as a reason for cancellation of dealer's franchise, to rebut contention that franchise was revoked for refusal to finance sales through affiliated finance company. The effect is to exclude from hearsay the entire category of "verbal acts" and "verbal parts of an act," in which the statement itself affects the legal rights of the parties or is a circumstance bearing on conduct affecting their rights.
 
@@ -21343,11 +21656,11 @@ The provision excepting from the operation of the rule hearsay which is made adm
 
 #### Federal Rules of Civil Procedure
 
-Rule 4(g): proof of service by affidavit.
+Rule 4(g) \[now 4(l)\]: proof of service by affidavit.
 
 Rule 32: admissibility of depositions.
 
-Rule 43(e): affidavits when motion based on facts not appearing of record.
+Rule 43(e)\[now 43(c)\]: affidavits when motion based on facts not appearing of record.
 
 Rule 56: affidavits in summary judgment proceedings.
 
@@ -21357,15 +21670,15 @@ Rule 65(b): showing by affidavit for temporary restraining order.
 
 Rule 4(a): affidavits to show grounds for issuing warrants.
 
-Rule 12(b)(4): affidavits to determine issues of fact in connection with motions.
+Rule 12(b)(4) \[former\]: affidavits to determine issues of fact in connection with motions.
 
 #### Acts of Congress
 
-10 U.S.C. §7730: affidavits of unavailable witnesses in actions for damages caused by vessel in naval service, or towage or salvage of same, when taking of testimony or bringing of action delayed or stayed on security grounds.
+10 U.S.C. §7730 \[now 8900\]: affidavits of unavailable witnesses in actions for damages caused by vessel in naval service, or towage or salvage of same, when taking of testimony or bringing of action delayed or stayed on security grounds.
 
 29 U.S.C. §161(4): affidavit as proof of service in NLRB proceedings.
 
-38 U.S.C. §5206: affidavit as proof of posting notice of sale of unclaimed property by Veterans Administration.
+38 U.S.C. §5206 \[now 8506\]: affidavit as proof of posting notice of sale of unclaimed property by Veterans Administration.
 
 #### Committee Notes on Rules—2011 Amendment
 
@@ -21609,7 +21922,7 @@ Justification for the exception is the assumption that a public official will pe
 
 (b) Cases sustaining admissibility of records of matters observed are also numerous. *United States v. Van Hook*, 284 F.2d 489 (7th Cir. 1960), remanded for resentencing 365 U.S. 609, 81 S.Ct. 823, 5 L.Ed.2d 821, letter from induction officer to District Attorney, pursuant to army regulations, stating fact and circumstances of refusal to be inducted; *T'Kach v. United States*, 242 F.2d 937 (5th Cir. 1957), affidavit of White House personnel officer that search of records showed no employment of accused, charged with fraudulently representing himself as an envoy of the President; *Minnehaha County v. Kelley*, 150 F.2d 356 (8th Cir. 1945); Weather Bureau records of rainfall; *United States v. Meyer*, 113 F.2d 387 (7th Cir. 1940), cert. denied 311 U.S. 706, 61 S.Ct. 174, 85 L.Ed. 459, map prepared by government engineer from information furnished by men working under his supervision.
 
-(c) The more controversial area of public records is that of the so-called "evaluative" report. The disagreement among the decisions has been due in part, no doubt, to the variety of situations encountered, as well as to differences in principle. Sustaining admissibility are such cases as *United States v. Dumas*, 149 U.S. 278, 13 S.Ct. 872, 37 L.Ed. 734 (1893), statement of account certified by Postmaster General in action against postmaster; *McCarty v. United States*, 185 F.2d 520 (5th Cir. 1950), reh. denied 187 F.2d 234, Certificate of Settlement of General Accounting Office showing indebtedness and letter from Army official stating Government had performed, in action on contract to purchase and remove waste food from Army camp; *Moran v. Pittsburgh-Des Moines Steel Co*., 183 F.2d 467 (3d Cir. 1950), report of Bureau of Mines as to cause of gas tank explosion; Petition of W—, 164 F.Supp. 659 (E.D.Pa.1958), report by Immigration and Naturalization Service investigator that petitioner was known in community as wife of man to whom she was not married. To the opposite effect and denying admissibility are *Franklin v. Skelly Oil Co*., 141 F.2d 568 (10th Cir. 1944), State Fire Marshal's report of cause of gas explosion; *Lomax Transp. Co. v. United States*, 183 F.2d 331 (9th Cir. 1950), Certificate of Settlement from General Accounting Office in action for naval supplies lost in warehouse fire; *Yung Jin Teung v. Dulles*, 229 F.2d 244 (2d Cir. 1956), "Status Reports" offered to justify delay in processing passport applications. Police reports have generally been excluded except to the extent to which they incorporate firsthand observations of the officer. Annot., 69 A.L.R.2d 1148. Various kinds of evaluative reports are admissible under federal statutes: 7 U.S.C. §78, findings of Secretary of Agriculture prima facie evidence of true grade of grain; 7 U.S.C. §210(f), findings of Secretary of Agriculture prima facie evidence in action for damages against stockyard owner; 7 U.S.C. §292, order by Secretary of Agriculture prima facie evidence in judicial enforcement proceedings against producers association monopoly; 7 U.S.C. §1622(h), Department of Agriculture inspection certificates of products shipped in interstate commerce prima facie evidence; 8 U.S.C. §1440(c), separation of alien from military service on conditions other than honorable provable by certificate from department in proceedings to revoke citizenship; 18 U.S.C. §4245, certificate of Director of Prisons that convicted person has been examined and found probably incompetent at time of trial prima facie evidence in court hearing on competency; 42 U.S.C. §269(b), bill of health by appropriate official prima facie evidence of vessel's sanitary history and condition and compliance with regulations; 46 U.S.C. §679, certificate of consul presumptive evidence of refusal of master to transport destitute seamen to United States. While these statutory exceptions to the hearsay rule are left undisturbed, Rule 802, the willingness of Congress to recognize a substantial measure of admissibility for evaluative reports is a helpful guide.
+(c) The more controversial area of public records is that of the so-called "evaluative" report. The disagreement among the decisions has been due in part, no doubt, to the variety of situations encountered, as well as to differences in principle. Sustaining admissibility are such cases as *United States v. Dumas*, 149 U.S. 278, 13 S.Ct. 872, 37 L.Ed. 734 (1893), statement of account certified by Postmaster General in action against postmaster; *McCarty v. United States*, 185 F.2d 520 (5th Cir. 1950), reh. denied 187 F.2d 234, Certificate of Settlement of General Accounting Office showing indebtedness and letter from Army official stating Government had performed, in action on contract to purchase and remove waste food from Army camp; *Moran v. Pittsburgh-Des Moines Steel Co*., 183 F.2d 467 (3d Cir. 1950), report of Bureau of Mines as to cause of gas tank explosion; Petition of W—, 164 F.Supp. 659 (E.D.Pa.1958), report by Immigration and Naturalization Service investigator that petitioner was known in community as wife of man to whom she was not married. To the opposite effect and denying admissibility are *Franklin v. Skelly Oil Co*., 141 F.2d 568 (10th Cir. 1944), State Fire Marshal's report of cause of gas explosion; *Lomax Transp. Co. v. United States*, 183 F.2d 331 (9th Cir. 1950), Certificate of Settlement from General Accounting Office in action for naval supplies lost in warehouse fire; *Yung Jin Teung v. Dulles*, 229 F.2d 244 (2d Cir. 1956), "Status Reports" offered to justify delay in processing passport applications. Police reports have generally been excluded except to the extent to which they incorporate firsthand observations of the officer. Annot., 69 A.L.R.2d 1148. Various kinds of evaluative reports are admissible under federal statutes: 7 U.S.C. §78, findings of Secretary of Agriculture prima facie evidence of true grade of grain; 7 U.S.C. §210(f), findings of Secretary of Agriculture prima facie evidence in action for damages against stockyard owner; 7 U.S.C. §292, order by Secretary of Agriculture prima facie evidence in judicial enforcement proceedings against producers association monopoly; 7 U.S.C. §1622(h), Department of Agriculture inspection certificates of products shipped in interstate commerce prima facie evidence; 8 U.S.C. §1440(c), separation of alien from military service on conditions other than honorable provable by certificate from department in proceedings to revoke citizenship; 18 U.S.C. §4245, certificate of Director of Prisons that convicted person has been examined and found probably incompetent at time of trial prima facie evidence in court hearing on competency; 42 U.S.C. §269(b), bill of health by appropriate official prima facie evidence of vessel's sanitary history and condition and compliance with regulations; 46 U.S.C. §679 \[now 11104\], certificate of consul presumptive evidence of refusal of master to transport destitute seamen to United States. While these statutory exceptions to the hearsay rule are left undisturbed, Rule 802, the willingness of Congress to recognize a substantial measure of admissibility for evaluative reports is a helpful guide.
 
 Factors which may be of assistance in passing upon the admissibility of evaluative reports include; (1) the timeliness of the investigation, McCormack, Can the Courts Make Wider Use of Reports of Official Investigations? 42 Iowa L.Rev. 363 (1957); (2) the special skill or experience of the official, *id*., (3) whether a hearing was held and the level at which conducted, *Franklin v. Skelly Oil Co*., 141 F.2d 568 (10th Cir. 1944); (4) possible motivation problems suggested by *Palmer v. Hoffman*, 318 U.S. 109, 63 S.Ct. 477, 87 L.Ed. 645 (1943). Others no doubt could be added.
 
@@ -21645,7 +21958,7 @@ Exception (17). Ample authority at common law supported the admission in evidenc
 
 For similar provisions, see Uniform Rule 63(30); California Evidence Code §1340; Kansas Code of Civil Procedure §60–460(bb); New Jersey Evidence Rule 63(30). Uniform Commercial Code §2–724 provides for admissibility in evidence of "reports in official publications or trade journals or in newspapers or periodicals of general circulation published as the reports of such \[established commodity\] market."
 
-Exception (18). The writers have generally favored the admissibility of learned treatises, McCormick §296, p. 621; Morgan, Basic Problems of Evidence 366 (1962); 6 Wigmore §1692, with the support of occasional decisions and rules, *City of Dothan v. Hardy*, 237 Ala. 603, 188 So. 264 (1939); *Lewandowski v. Preferred Risk Mut. Ins. Co*., 33 Wis.2d 69, 146 N.W.2d 505 (1966), 66 Mich.L.Rev. 183 (1967); Uniform Rule 63(31); Kansas Code of Civil Procedure §60–460(ce), but the great weight of authority has been that learned treatises are not admissible as substantive evidence though usable in the cross-examination of experts. The foundation of the minority view is that the hearsay objection must be regarded as unimpressive when directed against treatises since a high standard of accuracy is engendered by various factors: the treatise is written primarily and impartially for professionals, subject to scrutiny and exposure for inaccuracy, with the reputation of the writer at stake. 6 Wigmore §1692. Sound as this position may be with respect to trustworthiness, there is, nevertheless, an additional difficulty in the likelihood that the treatise will be misunderstood and misapplied without expert assistance and supervision. This difficulty is recognized in the cases demonstrating unwillingness to sustain findings relative to disability on the basis of judicially noticed medical texts. *Ross v. Gardner*, 365 F.2d 554 (6th Cir. 1966); *Sayers v. Gardner*, 380 F.2d 940 (6th Cir. 1967); *Colwell v. Gardner*, 386 F.2d 56 (6th Cir. 1967); *Glendenning v. Ribicoff*, 213 F.Supp. 301 (W.D.Mo. 1962); *Cook v. Celebrezze*, 217 F.Supp. 366 (W.D.Mo. 1963); *Sosna v. Celebrezze*, 234 F.Supp. 289 (E.D.Pa. 1964); and see *McDaniel v. Celebrezze*, 331 F.2d 426 (4th Cir. 1964). The rule avoids the danger of misunderstanding and misapplication by limiting the use of treatises as substantive evidence to situations in which an expert is on the stand and available to explain and assist in the application of the treatise if declared. The limitation upon receiving the publication itself physically in evidence, contained in the last sentence, is designed to further this policy.
+Exception (18). The writers have generally favored the admissibility of learned treatises, McCormick §296, p. 621; Morgan, Basic Problems of Evidence 366 (1962); 6 Wigmore §1692, with the support of occasional decisions and rules, *City of Dothan v. Hardy*, 237 Ala. 603, 188 So. 264 (1939); *Lewandowski v. Preferred Risk Mut. Ins. Co*., 33 Wis.2d 69, 146 N.W.2d 505 (1966), 66 Mich.L.Rev. 183 (1967); Uniform Rule 63(31); Kansas Code of Civil Procedure §60–460(cc), but the great weight of authority has been that learned treatises are not admissible as substantive evidence though usable in the cross-examination of experts. The foundation of the minority view is that the hearsay objection must be regarded as unimpressive when directed against treatises since a high standard of accuracy is engendered by various factors: the treatise is written primarily and impartially for professionals, subject to scrutiny and exposure for inaccuracy, with the reputation of the writer at stake. 6 Wigmore §1692. Sound as this position may be with respect to trustworthiness, there is, nevertheless, an additional difficulty in the likelihood that the treatise will be misunderstood and misapplied without expert assistance and supervision. This difficulty is recognized in the cases demonstrating unwillingness to sustain findings relative to disability on the basis of judicially noticed medical texts. *Ross v. Gardner*, 365 F.2d 554 (6th Cir. 1966); *Sayers v. Gardner*, 380 F.2d 940 (6th Cir. 1967); *Colwell v. Gardner*, 386 F.2d 56 (6th Cir. 1967); *Glendenning v. Ribicoff*, 213 F.Supp. 301 (W.D.Mo. 1962); *Cook v. Celebrezze*, 217 F.Supp. 366 (W.D.Mo. 1963); *Sosna v. Celebrezze*, 234 F.Supp. 289 (E.D.Pa. 1964); and see *McDaniel v. Celebrezze*, 331 F.2d 426 (4th Cir. 1964). The rule avoids the danger of misunderstanding and misapplication by limiting the use of treatises as substantive evidence to situations in which an expert is on the stand and available to explain and assist in the application of the treatise if declared. The limitation upon receiving the publication itself physically in evidence, contained in the last sentence, is designed to further this policy.
 
 The relevance of the use of treatises on cross-examination is evident. This use of treatises has been the subject of varied views. The most restrictive position is that the witness must have stated expressly on direct his reliance upon the treatise. A slightly more liberal approach still insists upon reliance but allows it to be developed on cross-examination. Further relaxation dispenses with reliance but requires recognition as an authority by the witness, developable on cross-examination. The greatest liberality is found in decisions allowing use of the treatise on cross-examination when its status as an authority is established by any means. Annot., 60 A.L.R.2d 77. The exception is hinged upon this last position, which is that of the Supreme Court, *Reilly v. Pinkus*, 338 U.S. 269, 70 S.Ct. 110, 94 L.Ed. 63 (1949), and of recent well considered state court decisions, *City of St. Petersburg v. Ferguson*, 193 So.2d 648 (Fla.App. 1967), cert. denied Fla., 201 So.2d 556; *Darling v. Charleston Memorial Community Hospital*, 33 Ill.2d 326, 211 N.E.2d 253 (1965); *Dabroe v. Rhodes Co*., 64 Wash.2d 431, 392 P.2d 317 (1964).
 
@@ -21667,7 +21980,7 @@ Practical considerations require exclusion of convictions of minor offenses, not
 
 Judgments of conviction based upon pleas of *nolo contendere* are not included. This position is consistent with the treatment of *nolo* pleas in Rule 410 and the authorities cited in the Advisory Committee's Note in support thereof.
 
-While these rules do not in general purport to resolve constitutional issues, they have in general been drafted with a view to avoiding collision with constitutional principles. Consequently the exception does not include evidence of the conviction of a third person, offered against the accused in a criminal prosecution to prove any fact essential to sustain the judgment of conviction. A contrary position would seem clearly to violate the right of confrontation. *Kirby v. United States*, 174 U.S. 47, 19 S.Ct. 574, 43 L.Ed. 890 (1899), error to convict of possessing stolen postage stamps with the only evidence of theft being the record of conviction of the thieves The situation is to be distinguished from cases in which conviction of another person is an element of the crime, e.g. 15 U.S.C. §902(d), interstate shipment of firearms to a known convicted felon, and, as specifically provided, from impeachment.
+While these rules do not in general purport to resolve constitutional issues, they have in general been drafted with a view to avoiding collision with constitutional principles. Consequently the exception does not include evidence of the conviction of a third person, offered against the accused in a criminal prosecution to prove any fact essential to sustain the judgment of conviction. A contrary position would seem clearly to violate the right of confrontation. *Kirby v. United States*, 174 U.S. 47, 19 S.Ct. 574, 43 L.Ed. 890 (1899), error to convict of possessing stolen postage stamps with the only evidence of theft being the record of conviction of the thieves. The situation is to be distinguished from cases in which conviction of another person is an element of the crime, e.g. 15 U.S.C. \[former\] §902(d), interstate shipment of firearms to a known convicted felon, and, as specifically provided, from impeachment.
 
 For comparable provisions see Uniform Rule 63(20); California Evidence Code §1300; Kansas Code of Civil Procedure §60–460(r); New Jersey Evidence Rule 63(20).
 
@@ -21899,7 +22212,7 @@ At common law the unavailability requirement was evolved in connection with part
 
 Five instances of unavailability are specified:
 
-(1) Substantial authority supports the position that exercise of a claim of privilege by the declarant satisfies the requirement of unavailability (usually in connection with former testimony). *Wyatt v. State*, 35 Ala.App. 147, 46 So.2d 837 (1950); *State v. Stewart*, 85 Kan. 404, 116 P. 489 (1911); Annot., 45 A.L.R.2d 1354; Uniform Rule 62(7)(a); California Evidence Code §240(a)(1); Kansas Code of Civil Procedure §60–459(g) (1). A ruling by the judge is required, which clearly implies that an actual claim of privilege must be made.
+(1) Substantial authority supports the position that exercise of a claim of privilege by the declarant satisfies the requirement of unavailability (usually in connection with former testimony). *Wyatt v. State*, 35 Ala.App. 147, 46 So.2d 837 (1950); *State v. Stewart*, 85 Kan. 404, 116 P. 489 (1911); Annot., 45 A.L.R.2d 1354; Uniform Rule 62(7)(a); California Evidence Code §240(a)(1); Kansas Code of Civil Procedure §60–459(g)(1). A ruling by the judge is required, which clearly implies that an actual claim of privilege must be made.
 
 (2) A witness is rendered unavailable if he simply refuses to testify concerning the subject matter of his statement despite judicial pressures to do so, a position supported by similar considerations of practicality. *Johnson v. People*, 152 Colo. 586, 384 P.2d 454 (1963); *People v. Pickett*, 339 Mich. 294, 63 N.W.2d 681, 45 A.L.R.2d 1341 (1954). *Contra, Pleau v. State*, 255 Wis. 362, 38 N.W.2d 496 (1949).
 
@@ -21927,7 +22240,7 @@ Provisions of the same tenor will be found in Uniform Rule 63(3)(b); California 
 
 The common law required that the statement be that of the victim, offered in a prosecution for criminal homicide. Thus declarations by victims in prosecutions for other crimes, e.g. a declaration by a rape victim who dies in childbirth, and all declarations in civil cases were outside the scope of the exception. An occasional statute has removed these restrictions, as in Colo.R.S. §52–1–20, or has expanded the area of offenses to include abortions, 5 Wigmore §1432, p. 224, n. 4. Kansas by decision extended the exception to civil cases. *Thurston v. Fritz*, 91 Kan. 468, 138 P. 625 (1914). While the common law exception no doubt originated as a result of the exceptional need for the evidence in homicide cases, the theory of admissibility applies equally in civil cases and in prosecutions for crimes other than homicide. The same considerations suggest abandonment of the limitation to circumstances attending the event in question, yet when the statement deals with matters other than the supposed death, its influence is believed to be sufficiently attenuated to justify the limitation. Unavailability is not limited to death. See subdivision (a) of this rule. Any problem as to declarations phrased in terms of opinion is laid at rest by Rule 701, and continuation of a requirement of first-hand knowledge is assured by Rule 602.
 
-Comparable provisions are found in Uniform Rule 63 (5); California Evidence Code §1242; Kansas Code of Civil Procedure §60–460(e); New Jersey Evidence Rule 63(5).
+Comparable provisions are found in Uniform Rule 63(5); California Evidence Code §1242; Kansas Code of Civil Procedure §60–460(e); New Jersey Evidence Rule 63(5).
 
 *Exception (3)*. The circumstantial guaranty of reliability for declarations against interest is the assumption that persons do not make statements which are damaging to themselves unless satisfied for good reason that they are true. *Hileman v. Northwest Engineering Co*., 346 F.2d 668 (6th Cir. 1965). If the statement is that of a party, offered by his opponent, it comes in as an admission, Rule 803(d)(2), and there is no occasion to inquire whether it is against interest, this not being a condition precedent to admissibility of admissions by opponents.
 
@@ -21939,11 +22252,11 @@ Ordinarily the third-party confession is thought of in terms of exculpating the 
 
 The balancing of self-serving against dissenting aspects of a declaration is discussed in McCormick §256.
 
-For comparable provisions, see Uniform Rule 63(10): California Evidence Code §1230; Kansas Code of Civil Procedure §60–460(j); New Jersey Evidence Rule 63(10).
+For comparable provisions, see Uniform Rule 63(10); California Evidence Code §1230; Kansas Code of Civil Procedure §60–460(j); New Jersey Evidence Rule 63(10).
 
 *Exception (4)*. The general common law requirement that a declaration in this area must have been made *ante litem motam* has been dropped, as bearing more appropriately on weight than admissibility. See 5 Wigmore §1483. Item (i)\[(A)\] specifically disclaims any need of firsthand knowledge respecting declarant's own personal history. In some instances it is self-evident (marriage) and in others impossible and traditionally not required (date of birth). Item (ii)\[(B)\] deals with declarations concerning the history of another person. As at common law, declarant is qualified if related by blood or marriage. 5 Wigmore §1489. In addition, and contrary to the common law, declarant qualifies by virtue of intimate association with the family. *Id*., §1487. The requirement sometimes encountered that when the subject of the statement is the relationship between two other persons the declarant must qualify as to both is omitted. Relationship is reciprocal. *Id*., §1491.
 
-For comparable provisions, see Uniform Rule 63 (23), (24), (25); California Evidence Code §§1310, 1311; Kansas Code of Civil Procedure §60–460(u), (v), (w); New Jersey Evidence Rules 63(23), 63(24), 63(25).
+For comparable provisions, see Uniform Rule 63(23), (24), (25); California Evidence Code §§1310, 1311; Kansas Code of Civil Procedure §60–460(u), (v), (w); New Jersey Evidence Rules 63(23), 63(24), 63(25).
 
 #### Notes of Committee on the Judiciary, House Report No. 93–650
 
@@ -22353,7 +22666,7 @@ Case law and statutes have, over the years, developed a substantial body of inst
 
 *Paragraph (5)*. Dispensing with preliminary proof of the genuineness of purportedly official publications, most commonly encountered in connection with statutes, court reports, rules, and regulations, has been greatly enlarged by statutes and decisions. 5 Wigmore §1684. Paragraph (5), it will be noted, does not confer admissibility upon all official publications; it merely provides a means whereby their authenticity may be taken as established for purposes of admissibility. Rule 44(a) of the Rules of Civil Procedure has been to the same effect.
 
-*Paragraph (6)*. The likelihood of forgery of newspapers or periodicals is slight indeed. Hence no danger is apparent in receiving them. Establishing the authenticity of the publication may, of course, leave still open questions of authority and responsibility for items therein contained. See 7 Wigmore §2150. Cf. 39 U.S.C. §4005(b), public advertisement prima facie evidence of agency of person named, in postal fraud order proceeding; Canadian Uniform Evidence Act, Draft of 1936, printed copy of newspaper prima facie evidence that notices or advertisements were authorized.
+*Paragraph (6)*. The likelihood of forgery of newspapers or periodicals is slight indeed. Hence no danger is apparent in receiving them. Establishing the authenticity of the publication may, of course, leave still open questions of authority and responsibility for items therein contained. See 7 Wigmore §2150. Cf. 39 U.S.C. §4005(b) \[now 3005(b)\], public advertisement prima facie evidence of agency of person named, in postal fraud order proceeding; Canadian Uniform Evidence Act, Draft of 1936, printed copy of newspaper prima facie evidence that notices or advertisements were authorized.
 
 *Paragraph (7)*. Several factors justify dispensing with preliminary proof of genuineness of commercial and mercantile labels and the like. The risk of forgery is minimal. Trademark infringement involves serious penalties. Great efforts are devoted to inducing the public to buy in reliance on brand names, and substantial protection is given them. Hence the fairness of this treatment finds recognition in the cases. *Curtiss Candy Co. v. Johnson*, 163 Miss. 426, 141 So. 762 (1932), Baby Ruth candy bar; *Doyle v. Continental Baking Co*., 262 Mass. 516, 160 N.E. 325 (1928), loaf of bread; *Weiner v. Mager & Throne, Inc*., 167 Misc. 338, 3 N.Y.S.2d 918 (1938), same. And see W.Va.Code 1966, §47–3–5, trade-mark on bottle prima facie evidence of ownership. *Contra, Keegan v. Green Giant Co*., 150 Me. 283, 110 A.2d 599 (1954); *Murphy v. Campbell Soup Co*., 62 F.2d 564 (1st Cir. 1933). Cattle brands have received similar acceptance in the western states. Rev.Code Mont.1947, §46–606; *State v. Wolfley*, 75 Kan. 406, 89 P. 1046 (1907); Annot., 11 L.R.A. (N.S.) 87. Inscriptions on trains and vehicles are held to be prima facie evidence of ownership or control. *Pittsburgh, Ft. W. & C. Ry. v. Callaghan*, 157 Ill. 406, 41 N.E. 909 (1895); 9 Wigmore §2510a. See also the provision of 19 U.S.C. §1615(2) that marks, labels, brands, or stamps indicating foreign origin are prima facie evidence of foreign origin of merchandise.
 
@@ -22361,7 +22674,7 @@ Case law and statutes have, over the years, developed a substantial body of inst
 
 *Paragraph (9)*. Issues of the authenticity of commercial paper in federal courts will usually arise in diversity cases, will involve an element of a cause of action or defense, and with respect to presumptions and burden of proof will be controlled by *Erie Railroad Co. v. Tompkins*, 304 U.S. 64, 58 S.Ct. 817, 82 L.Ed. 1188 (1938). Rule 302, *supra*. There may, however, be questions of authenticity involving lesser segments of a case or the case may be one governed by federal common law. *Clearfield Trust Co. v. United States*, 318 U.S. 363, 63 S.Ct. 573, 87 L.Ed. 838 (1943). Cf. *United States v. Yazell*, 382 U.S. 341, 86 S.Ct. 500, 15 L.Ed.2d 404 (1966). In these situations, resort to the useful authentication provisions of the Uniform Commercial Code is provided for. While the phrasing is in terms of "general commercial law," in order to avoid the potential complication inherent in borrowing local statutes, today one would have difficulty in determining the general commercial law without referring to the Code. See *Williams v. Walker-Thomas-Furniture Co*., 121 U.S.App.D.C. 315, 350 F.2d 445 (1965). Pertinent Code provisions are sections 1–202, 3–307, and 3–510, dealing with third-party documents, signatures on negotiable instruments, protests, and statements of dishonor.
 
-*Paragraph (10)*. The paragraph continues in effect dispensations with preliminary proof of genuineness provided in various Acts of Congress. See, for example, 10 U.S.C. §936, signature, without seal, together with title, prima facie evidence of authenticity of acts of certain military personnel who are given notarial power; 15 U.S.C. §77f(a), signature on SEC registration presumed genuine; 26 U.S.C. §6064, signature to tax return prima facie genuine.
+*Paragraph (10)*. The paragraph continues in effect dispensations with preliminary proof of genuineness provided in various Acts of Congress. See, for example, 10 U.S.C. §936\[(d) (1970)\], signature, without seal, together with title, prima facie evidence of authenticity of acts of certain military personnel who are given notarial power; 15 U.S.C. §77f(a), signature on SEC registration presumed genuine; 26 U.S.C. §6064, signature to tax return prima facie genuine.
 
 #### Notes of Committee on the Judiciary, House Report No. 93–650
 
@@ -22475,7 +22788,7 @@ In an earlier day, when discovery and other related procedures were strictly lim
 
 *Paragraph (3)*. In most instances, what is an original will be self-evident and further refinement will be unnecessary. However, in some instances particularized definition is required. A carbon copy of a contract executed in duplicate becomes an original, as does a sales ticket carbon copy given to a customer. While strictly speaking the original of a photograph might be thought to be only the negative, practicality and common usage require that any print from the negative be regarded as an original. Similarly, practicality and usage confer the status of original upon any computer printout. *Transport Indemnity Co. v. Seib*, 178 Neb. 253, 132 N.W.2d 871 (1965).
 
-*Paragraph (4)*. The definition describes "copies" produced by methods possessing an accuracy which virtually eliminates the possibility of error. Copies thus produced are given the status of originals in large measure by Rule 1003, *infra*. Copies subsequently produced manually, whether handwritten or typed, are not within the definition. It should be noted that what is an original for some purposes may be a duplicate for others. Thus a bank's microfilm record of checks cleared is the original as a record. However, a print offered as a copy of a check whose contents are in controversy is a duplicate. This result is substantially consistent with 28 U.S.C. §1732(b). Compare 26 U.S.C. §7513(c), giving full status as originals to photographic reproductions of tax returns and other documents, made by authority of the Secretary of the Treasury, and 44 U.S.C. §399(a), giving original status to photographic copies in the National Archives.
+*Paragraph (4)*. The definition describes "copies" produced by methods possessing an accuracy which virtually eliminates the possibility of error. Copies thus produced are given the status of originals in large measure by Rule 1003, *infra*. Copies subsequently produced manually, whether handwritten or typed, are not within the definition. It should be noted that what is an original for some purposes may be a duplicate for others. Thus a bank's microfilm record of checks cleared is the original as a record. However, a print offered as a copy of a check whose contents are in controversy is a duplicate. This result is substantially consistent with 28 U.S.C. §1732(b) \[now 1732\]. Compare 26 U.S.C. §7513(c) \[(1970)\], giving full status as originals to photographic reproductions of tax returns and other documents, made by authority of the Secretary of the Treasury, and 44 U.S.C. §399(a) \[now 44 U.S.C. 2116(a)\], giving original status to photographic copies in the National Archives.
 
 #### Notes of Committee on the Judiciary, House Report No. 93–650
 
@@ -22503,7 +22816,7 @@ On occasion, however, situations arise in which contents are sought to be proved
 
 It should be noted, however, that Rule 703, supra, allows an expert to give an opinion based on matters not in evidence, and the present rule must be read as being limited accordingly in its application. Hospital records which may be admitted as business records under Rule 803(6) commonly contain reports interpreting X-rays by the staff radiologist, who qualifies as an expert, and these reports need not be excluded from the records by the instant rule.
 
-The reference to Acts of Congress is made in view of such statutory provisions as 26 U.S.C. §7513, photographic reproductions of tax returns and documents, made by authority of the Secretary of the Treasury, treated as originals, and 44 U.S.C. §399(a), photographic copies in National Archives treated as originals.
+The reference to Acts of Congress is made in view of such statutory provisions as 26 U.S.C. §7513\[(c) (1970)\], photographic reproductions of tax returns and documents, made by authority of the Secretary of the Treasury, treated as originals, and 44 U.S.C. §399(a) \[now 44 U.S.C. 2116(a)\], photographic copies in National Archives treated as originals.
 
 #### Committee Notes on Rules—2011 Amendment
 
@@ -22717,17 +23030,17 @@ The language of Rule 1008 has been amended as part of the restyling of the Evide
 
 #### Notes of Advisory Committee on Proposed Rules
 
-*Subdivision (a)*. The various enabling acts contain differences in phraseology in their descriptions of the courts over which the Supreme Court's power to make rules of practice and procedure extends. The act concerning civil actions, as amended in 1966, refers to "the district courts \* \* \* of the United States in civil actions, including admiralty and maritime cases. \* \* \*" 28 U.S.C. §2072, Pub. L. 89–773, §1, 80 Stat. 1323. The bankruptcy authorization is for rules of practice and procedure "under the Bankruptcy Act." 28 U.S.C. §2075, Pub. L. 88–623, §1, 78 Stat. 1001. The Bankruptcy Act in turn creates bankruptcy courts of "the United States district courts and the district courts of the Territories and possessions to which this title is or may hereafter be applicable." 11 U.S.C. §§1(10), 11(a). The provision as to criminal rules up to and including verdicts applies to "criminal cases and proceedings to punish for criminal contempt of court in the United States district courts, in the district courts for the districts of the Canal Zone and Virgin Islands, in the Supreme Court of Puerto Rico, and in proceedings before United States magistrates." 18 U.S.C. §3771.
+*Subdivision (a)*. The various enabling acts contain differences in phraseology in their descriptions of the courts over which the Supreme Court's power to make rules of practice and procedure extends. The act concerning civil actions, as amended in 1966, refers to "the district courts \* \* \* of the United States in civil actions, including admiralty and maritime cases. \* \* \*" 28 U.S.C. §2072 \[(Supp. II 1966)\], Pub. L. 89–773, §1, 80 Stat. 1323. The bankruptcy authorization is for rules of practice and procedure "under the Bankruptcy Act." 28 U.S.C. §2075 \[(1970)\], Pub. L. 88–623, §1, 78 Stat. 1001. The Bankruptcy Act in turn creates bankruptcy courts of "the United States district courts and the district courts of the Territories and possessions to which this title is or may hereafter be applicable." 11 U.S.C. §§1(10), 11(a) \[(1970)\]. The provision as to criminal rules up to and including verdicts applies to "criminal cases and proceedings to punish for criminal contempt of court in the United States district courts, in the district courts for the districts of the Canal Zone and Virgin Islands, in the Supreme Court of Puerto Rico, and in proceedings before United States magistrates." 18 U.S.C. §3771 \[(1970)\].
 
-These various provisions do not in terms describe the same courts. In congressional usage the phrase "district courts of the United States," without further qualification, traditionally has included the district courts established by Congress in the states under Article III of the Constitution, which are "constitutional" courts, and has not included the territorial courts created under Article IV, Section 3, Clause 2, which are "legislative" courts. *Hornbuckle v. Toombs*, 85 U.S. 648, 21 L.Ed. 966 (1873). However, any doubt as to the inclusion of the District Court for the District of Columbia in the phrase is laid at rest by the provisions of the Judicial Code constituting the judicial districts, 28 U.S.C. §81 et seq. creating district courts therein, *Id*. §132, and specifically providing that the term "district court of the United States" means the courts so constituted. *Id*. §451. The District of Columbia is included. *Id*. §88. Moreover, when these provisions were enacted, reference to the District of Columbia was deleted from the original civil rules enabling act. 28 U.S.C. §2072. Likewise Puerto Rico is made a district, with a district court, and included in the term. *Id*. §119. The question is simply one of the extent of the authority conferred by Congress. With respect to civil rules it seems clearly to include the district courts in the states, the District Court for the District of Columbia, and the District Court for the District of Puerto Rico.
+These various provisions do not in terms describe the same courts. In congressional usage the phrase "district courts of the United States," without further qualification, traditionally has included the district courts established by Congress in the states under Article III of the Constitution, which are "constitutional" courts, and has not included the territorial courts created under Article IV, Section 3, Clause 2, which are "legislative" courts. *Hornbuckle v. Toombs*, 85 U.S. 648, 21 L.Ed. 966 (1873). However, any doubt as to the inclusion of the District Court for the District of Columbia in the phrase is laid at rest by the provisions of the Judicial Code constituting the judicial districts, 28 U.S.C. §81 et seq. creating district courts therein, *Id*. §132, and specifically providing that the term "district court of the United States" means the courts so constituted. *Id*. §451. The District of Columbia is included. *Id*. §88. Moreover, when these provisions were enacted, reference to the District of Columbia was deleted from the original civil rules enabling act. 28 U.S.C. §2072 \[(1970)\]. Likewise Puerto Rico is made a district, with a district court, and included in the term. *Id*. §119. The question is simply one of the extent of the authority conferred by Congress. With respect to civil rules it seems clearly to include the district courts in the states, the District Court for the District of Columbia, and the District Court for the District of Puerto Rico.
 
-The bankruptcy coverage is broader. The bankruptcy courts include "the United States district courts," which includes those enumerated above. Bankruptcy courts also include "the district courts of the Territories and possessions to which this title is or may hereafter be applicable." 11 U.S.C. §§1(10), 11(a). These courts include the district courts of Guam and the Virgin Islands. 48 U.S.C. §§1424(b), 1615. Professor Moore points out that whether the District Court for the District of the Canal Zone is a court of bankruptcy "is not free from doubt in view of the fact that no other statute expressly or inferentially provides for the applicability of the Bankruptcy Act in the Zone." He further observes that while there seems to be little doubt that the Zone is a territory or possession within the meaning of the Bankruptcy Act, 11 U.S.C. §1(10), it must be noted that the appendix to the Canal Zone Code of 1934 did not list the Act among the laws of the United States applicable to the Zone. 1 Moore's Collier on Bankruptcy 1.10, pp. 67, 72, n. 25 (14th ed. 1967). The Code of 1962 confers on the district court jurisdiction of:
+The bankruptcy coverage is broader. The bankruptcy courts include "the United States district courts," which includes those enumerated above. Bankruptcy courts also include "the district courts of the Territories and possessions to which this title is or may hereafter be applicable." 11 U.S.C. §§1(10), 11(a) \[(1970)\]. These courts include the district courts of Guam and the Virgin Islands. 48 U.S.C. §§1424(b), 1615. Professor Moore points out that whether the District Court for the District of the Canal Zone is a court of bankruptcy "is not free from doubt in view of the fact that no other statute expressly or inferentially provides for the applicability of the Bankruptcy Act in the Zone." He further observes that while there seems to be little doubt that the Zone is a territory or possession within the meaning of the Bankruptcy Act, 11 U.S.C. §1(10) \[(1970)\], it must be noted that the appendix to the Canal Zone Code of 1934 did not list the Act among the laws of the United States applicable to the Zone. 1 Moore's Collier on Bankruptcy 1.10, pp. 67, 72, n. 25 (14th ed. 1967). The Code of 1962 confers on the district court jurisdiction of:
 
 "(4) actions and proceedings involving laws of the United States applicable to the Canal Zone; and
 
 "(5) other matters and proceedings wherein jurisdiction is conferred by this Code or any other law." Canal Zone Code, 1962, Title 3, §141.
 
-Admiralty jurisdiction is expressly conferred. *Id*. §142. General powers are conferred on the district court, "if the course of proceeding is not specifically prescribed by this Code, by the statute, or by applicable rule of the Supreme Court of the United States \* \* \*" *Id*. §279. Neither these provisions nor §1(10) of the Bankruptcy Act ("district courts of the Territories and possessions to which this title is or may hereafter be applicable") furnishes a satisfactory answer as to the status of the District Court for the District of the Canal Zone as a court of bankruptcy. However, the fact is that this court exercises no bankruptcy jurisdiction in practice.
+Admiralty jurisdiction is expressly conferred. *Id*. §142. General powers are conferred on the district court, "if the course of proceeding is not specifically prescribed by this Code, by the statute, or by applicable rule of the Supreme Court of the United States \* \* \*" *Id*. §279. Neither these provisions nor §1(10) of the Bankruptcy Act ("district courts of the Territories and possessions to which this title is or may hereafter be applicable" \[11 U.S.C. 1(10) (1970)\]) furnishes a satisfactory answer as to the status of the District Court for the District of the Canal Zone as a court of bankruptcy. However, the fact is that this court exercises no bankruptcy jurisdiction in practice.
 
 The criminal rules enabling act specifies United States district courts, district courts for the districts of the Canal Zone and the Virgin Islands, the Supreme Court of the Commonwealth of Puerto Rico, and proceedings before United States commissioners. Aside from the addition of commissioners, now magistrates, this scheme differs from the bankruptcy pattern in that it makes no mention of the District Court of Guam but by specific mention removes the Canal Zone from the doubtful list.
 
@@ -22769,7 +23082,7 @@ Criminal contempts are punishable summarily if the judge certifies that he saw o
 
 Proceedings with respect to release on bail or otherwise do not call for application of the rules of evidence. The governing statute specifically provides:
 
-"Information stated in, or offered in connection with, any order entered pursuant to this section need not conform to the rules pertaining to the admissibility of evidence in a court of law." 18 U.S.C.A. §3146(f). This provision is consistent with the type of inquiry contemplated in A.B.A. Project on Minimum Standards for Criminal Justice, Standards Relating to Pretrial Release, §4.5(b), (c), p. 16 (1968). The references to the weight of the evidence against the accused, in Rule 46(a)(1), (c) of the Federal Rules of Criminal Procedure and in 18 U.S.C.A. §3146(b), as a factor to be considered, clearly do not have in view evidence introduced at a hearing.
+"Information stated in, or offered in connection with, any order entered pursuant to this section need not conform to the rules pertaining to the admissibility of evidence in a court of law." 18 U.S.C.A. §3146(f) \[(1970)\]. This provision is consistent with the type of inquiry contemplated in A.B.A. Project on Minimum Standards for Criminal Justice, Standards Relating to Pretrial Release, §4.5(b), (c), p. 16 (1968). The references to the weight of the evidence against the accused, in Rule 46(a)(1), (c) of the Federal Rules of Criminal Procedure and in 18 U.S.C.A. §3146(b) \[(1970)\], as a factor to be considered, clearly do not have in view evidence introduced at a hearing.
 
 The rule does not exempt habeas corpus proceedings. The Supreme Court held in *Walker v. Johnston*, 312 U.S. 275, 61 S.Ct. 574, 85 L.Ed. 830 (1941), that the practice of disposing of matters of fact on affidavit, which prevailed in some circuits, did not "satisfy the command of the statute that the judge shall proceed 'to determine the facts of the case, by hearing the testimony and arguments.' " This view accords with the emphasis in *Townsend v. Sain*, 372 U.S. 293, 83 S.Ct. 745, 9 L.Ed.2d 770 (1963), upon trial-type proceedings, *Id*. 311, 83 S.Ct. 745, with demeanor evidence as a significant factor, *Id*. 322, 83 S.Ct. 745, in applications by state prisoners aggrieved by unconstitutional detentions. Hence subdivision (e) applies the rules to habeas corpus proceedings to the extent not inconsistent with the statute.
 

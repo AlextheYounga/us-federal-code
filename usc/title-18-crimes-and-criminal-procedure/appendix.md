@@ -498,13 +498,13 @@ That this Act may be cited as the "Classified Information Procedures Act".
 
 # FEDERAL RULES OF CRIMINAL PROCEDURE
 
-(As amended to December 1, 2024)
+(As amended to December 1, 2025)
 
 #### Historical Note
 
 The original Federal Rules of Criminal Procedure were adopted by order of the Supreme Court on Dec. 26, 1944, transmitted to Congress by the Attorney General on Jan. 3, 1945, and became effective on Mar. 21, 1946.
 
-The Rules have been amended Dec. 27, 1948, eff. Jan. 1, 1949; Dec. 27, 1948, eff. Oct. 20, 1949; Apr. 12, 1954, eff. July 1, 1954; Apr. 9, 1956, eff. July 8, 1956; Feb. 28, 1966, eff. July 1, 1966; Dec. 4, 1967, eff. July 1, 1968; Mar. 1, 1971, eff. July 1, 1971; Apr. 24, 1972, eff. Oct. 1, 1972; Nov. 20, 1972, eff. July 1, 1975, pursuant to Pub. L. 93–595; Mar. 18, 1974, eff. July 1, 1974; Apr. 22, 1974, eff. in part Aug. 1, 1975, and Dec. 1, 1975, pursuant to Pub. L. 93–361 and Pub. L. 94–64; Dec. 12, 1975, Pub. L. 94–149, §5, 89 Stat. 806; Apr. 26, 1976, eff. in part Aug. 1, 1976, and Oct. 1, 1977, pursuant to Pub. L. 94–349 and Pub. L. 95–78; Apr. 30, 1979, eff. in part Aug. 1, 1979, and Dec. 1, 1980, pursuant to Pub. L. 96–42; Apr. 28, 1982, eff. Aug. 1, 1982; Oct. 12, 1982, Pub. L. 97–291, §3, 96 Stat. 1249; Apr. 28, 1983, eff. Aug. 1, 1983; Oct. 12, 1984, Pub. L. 98–473, title II, §§209, 215, 404, 98 Stat. 1986, 2014, 2067; Oct. 30, 1984, Pub. L. 98–596, §11(a), (b), 98 Stat. 3138; Apr. 29, 1985, eff. Aug. 1, 1985; Oct. 27, 1986, Pub. L. 99–570, title I, §1009(a), 100 Stat. 3207–8; Nov. 10, 1986, Pub. L. 99–646, §§12(b), 24, 25(a), 54(a), 100 Stat. 3594, 3597, 3607; Mar. 9, 1987, eff. Aug. 1, 1987; Apr. 25, 1988, eff. Aug. 1, 1988; Nov. 18, 1988, Pub. L. 100–690, title VI, §6483, title VII, §§7076, 7089(c), 102 Stat. 4382, 4406, 4409; Apr. 25, 1989, eff. Dec. 1, 1989; May 1, 1990, eff. Dec. 1, 1990; Apr. 30, 1991, eff. Dec. 1, 1991; Apr. 22, 1993, eff. Dec. 1, 1993; Apr. 29, 1994, eff. Dec. 1, 1994; Sept. 13, 1994, Pub. L. 103–322, title XXIII, §230101(b), title XXXIII, §330003(h), 108 Stat. 2078, 2141; Apr. 27, 1995, eff. Dec. 1, 1995; Apr. 23, 1996, eff. Dec. 1, 1996; Apr. 24, 1996, Pub. L. 104–132, title II, §207(a), 110 Stat. 1236; Apr. 11, 1997, eff. Dec. 1, 1997; Apr. 24, 1998, eff. Dec. 1, 1998; Apr. 26, 1999, eff. Dec. 1, 1999; Apr. 17, 2000, eff. Dec. 1, 2000; Oct. 26, 2001, Pub. L. 107–56, title II, §§203(a), 219, 115 Stat. 278, 291; Apr. 29, 2002, eff. Dec. 1, 2002; Nov. 2, 2002, Pub. L. 107–273, div. C, title I, §11019(b), 116 Stat. 1825; Nov. 25, 2002, Pub. L. 107–296, title VIII, §895, 116 Stat. 2256; Apr. 30, 2003, Pub. L. 108–21, title VI, §610(b), 117 Stat. 692; Apr. 26, 2004, eff. Dec. 1, 2004; Pub. L. 108–458, title VI, §6501(a), Dec. 17, 2004, 118 Stat. 3760; Apr. 25, 2005, eff. Dec. 1, 2005; Apr. 12, 2006, eff. Dec. 1, 2006; Apr. 30, 2007, eff. Dec. 1, 2007; Apr. 23, 2008, eff. Dec. 1, 2008; Mar. 26, 2009, eff. Dec. 1, 2009; Apr. 28, 2010, eff. Dec. 1, 2010; Apr. 26, 2011, eff. Dec. 1, 2011; Apr. 23, 2012, eff. Dec. 1, 2012; Apr. 16, 2013, eff. Dec. 1, 2013; Apr. 25, 2014; eff. Dec. 1, 2014; Apr. 28, 2016, eff. Dec. 1, 2016; Pub. L. 114–324, §2(c), Dec. 16, 2016, 130 Stat. 1948; Apr. 26, 2018, eff. Dec. 1, 2018; Apr. 25, 2019, eff. Dec. 1, 2019; Pub. L. 116–182, §2, Oct. 21, 2020, 134 Stat. 894; Apr. 11, 2022, eff. Dec. 1, 2022; Pub. L. 117–347, title III, §323(a)(1)(A), Jan. 5, 2023, 136 Stat. 6206; Apr. 24, 2023, eff. Dec. 1, 2023.
+The Rules have been amended Dec. 27, 1948, eff. Jan. 1, 1949; Dec. 27, 1948, eff. Oct. 20, 1949; Apr. 12, 1954, eff. July 1, 1954; Apr. 9, 1956, eff. July 8, 1956; Feb. 28, 1966, eff. July 1, 1966; Dec. 4, 1967, eff. July 1, 1968; Mar. 1, 1971, eff. July 1, 1971; Apr. 24, 1972, eff. Oct. 1, 1972; Nov. 20, 1972, eff. July 1, 1975, pursuant to Pub. L. 93–595; Mar. 18, 1974, eff. July 1, 1974; Apr. 22, 1974, eff. in part Aug. 1, 1975, and Dec. 1, 1975, pursuant to Pub. L. 93–361 and Pub. L. 94–64; Dec. 12, 1975, Pub. L. 94–149, §5, 89 Stat. 806; Apr. 26, 1976, eff. in part Aug. 1, 1976, and Oct. 1, 1977, pursuant to Pub. L. 94–349 and Pub. L. 95–78; Apr. 30, 1979, eff. in part Aug. 1, 1979, and Dec. 1, 1980, pursuant to Pub. L. 96–42; Apr. 28, 1982, eff. Aug. 1, 1982; Oct. 12, 1982, Pub. L. 97–291, §3, 96 Stat. 1249; Apr. 28, 1983, eff. Aug. 1, 1983; Oct. 12, 1984, Pub. L. 98–473, title II, §§209, 215, 404, 98 Stat. 1986, 2014, 2067; Oct. 30, 1984, Pub. L. 98–596, §11(a), (b), 98 Stat. 3138; Apr. 29, 1985, eff. Aug. 1, 1985; Oct. 27, 1986, Pub. L. 99–570, title I, §1009(a), 100 Stat. 3207–8; Nov. 10, 1986, Pub. L. 99–646, §§12(b), 24, 25(a), 54(a), 100 Stat. 3594, 3597, 3607; Mar. 9, 1987, eff. Aug. 1, 1987; Apr. 25, 1988, eff. Aug. 1, 1988; Nov. 18, 1988, Pub. L. 100–690, title VI, §6483, title VII, §§7076, 7089(c), 102 Stat. 4382, 4406, 4409; Apr. 25, 1989, eff. Dec. 1, 1989; May 1, 1990, eff. Dec. 1, 1990; Apr. 30, 1991, eff. Dec. 1, 1991; Apr. 22, 1993, eff. Dec. 1, 1993; Apr. 29, 1994, eff. Dec. 1, 1994; Sept. 13, 1994, Pub. L. 103–322, title XXIII, §230101(b), title XXXIII, §330003(h), 108 Stat. 2078, 2141; Apr. 27, 1995, eff. Dec. 1, 1995; Apr. 23, 1996, eff. Dec. 1, 1996; Apr. 24, 1996, Pub. L. 104–132, title II, §207(a), 110 Stat. 1236; Apr. 11, 1997, eff. Dec. 1, 1997; Apr. 24, 1998, eff. Dec. 1, 1998; Apr. 26, 1999, eff. Dec. 1, 1999; Apr. 17, 2000, eff. Dec. 1, 2000; Oct. 26, 2001, Pub. L. 107–56, title II, §§203(a), 219, 115 Stat. 278, 291; Apr. 29, 2002, eff. Dec. 1, 2002; Nov. 2, 2002, Pub. L. 107–273, div. C, title I, §11019(b), 116 Stat. 1825; Nov. 25, 2002, Pub. L. 107–296, title VIII, §895, 116 Stat. 2256; Apr. 30, 2003, Pub. L. 108–21, title VI, §610(b), 117 Stat. 692; Apr. 26, 2004, eff. Dec. 1, 2004; Dec. 17, 2004, Pub. L. 108–458, title VI, §6501(a), 118 Stat. 3760; Apr. 25, 2005, eff. Dec. 1, 2005; Apr. 12, 2006, eff. Dec. 1, 2006; Apr. 30, 2007, eff. Dec. 1, 2007; Apr. 23, 2008, eff. Dec. 1, 2008; Mar. 26, 2009, eff. Dec. 1, 2009; Apr. 28, 2010, eff. Dec. 1, 2010; Apr. 26, 2011, eff. Dec. 1, 2011; Apr. 23, 2012, eff. Dec. 1, 2012; Apr. 16, 2013, eff. Dec. 1, 2013; Apr. 25, 2014; eff. Dec. 1, 2014; Apr. 28, 2016, eff. Dec. 1, 2016; Dec. 16, 2016, Pub. L. 114–324, §2(c), 130 Stat. 1948; Apr. 26, 2018, eff. Dec. 1, 2018; Apr. 25, 2019, eff. Dec. 1, 2019; Oct. 21, 2020, Pub. L. 116–182, §2, 134 Stat. 894; Apr. 11, 2022, eff. Dec. 1, 2022; Jan. 5, 2023, Pub. L. 117–347, title III, §323(a)(1)(A), 136 Stat. 6206; Apr. 24, 2023, eff. Dec. 1, 2023.
 
 #### TITLE I. APPLICABILITY
 
@@ -794,7 +794,7 @@ Rule
 
 #### Notes of Advisory Committee on Rules—1944
 
-1\. These rules are prescribed under the authority of two acts of Congress, namely: the Act of June 29, 1940, c. 445, 18 U.S.C. 687 (Proceedings in criminal cases prior to and including verdict; power of Supreme Court to prescribe rules), and the Act of November 21, 1941, c. 492, 18 U.S.C. 689 (Proceedings to punish for criminal contempt of court; application to sections 687 and 688).
+1\. These rules are prescribed under the authority of two acts of Congress, namely: the Act of June 29, 1940, c. 445, 18 U.S.C. 687 \[(1940)\] (Proceedings in criminal cases prior to and including verdict; power of Supreme Court to prescribe rules), and the Act of November 21, 1941, c. 492, 18 U.S.C. 689 \[(Supp. I 1941)\] (Proceedings to punish for criminal contempt of court; application to sections 687 and 688).
 
 2\. The courts of the United States covered by the rules are enumerated in Rule 54(a). In addition to Federal courts in the continental United States they include district courts in Alaska, Hawaii, Puerto Rico and the Virgin Islands. In the Canal Zone only the rules governing proceedings after verdict, finding or plea of guilty are applicable.
 
@@ -804,7 +804,7 @@ Rule
 
 The rule is amended to make clear that the rules are applicable to courts of the United States and, where the rule so provides, to proceedings before United States magistrates and state or local judicial officers.
 
-Primarily these rules are intended to govern proceedings in criminal cases triable in the United States District Court. Special rules have been promulgated, pursuant to the authority set forth in 28 U.S.C. §636(c), for the trial of "minor offenses" before United States magistrates. (See Rules of Procedure for the Trial of Minor Offenses Before United States Magistrates (January 27, 1971).)
+Primarily these rules are intended to govern proceedings in criminal cases triable in the United States District Court. Special rules have been promulgated, pursuant to the authority set forth in 28 U.S.C. §636(c) \[now 636(d)\], for the trial of "minor offenses" before United States magistrates. (See Rules of Procedure for the Trial of Minor Offenses Before United States Magistrates (January 27, 1971).)
 
 However, there is inevitably some overlap between the two sets of rules. The Rules of Criminal Procedure for the United States District Courts deal with preliminary, supplementary, and special proceedings which will often be conducted before United States magistrates. This is true, for example, with regard to rule 3—The Complaint; rule 4—Arrest Warrant or Summons Upon Complaint; rule 5—Initial Appearance Before the Magistrate; and rule 5.1—Preliminary Examination. It is also true, for example, of supplementary and special proceedings such as rule 40—Commitment to Another District, Removal; rule 41—Search and Seizure; and rule 46—Release from Custody. Other of these rules, where applicable, also apply to proceedings before United States magistrates. See Rules of Procedure for the Trial of Minor Offenses Before United States Magistrates, rule 1—Scope:
 
@@ -892,7 +892,7 @@ The complaint is a written statement of the essential facts constituting the off
 
 #### Notes of Advisory Committee on Rules—1944
 
-The rule generally states existing law and practice, 18 U.S.C. 591 \[now 3041\] (Arrest and removal for trial); *United States v. Simon* (E.D.Pa.), 248 F. 980; *United States v. Maresca* (S.D.N.Y.), 266 F. 713, 719–721. It eliminates, however, the requirement of conformity to State law as to the form and sufficiency of the complaint. See, also, rule 57(b).
+The rule generally states existing law and practice, 18 U.S.C. 591 \[see 3041\] (Arrest and removal for trial); *United States v. Simon* (E.D.Pa.), 248 F. 980; *United States v. Maresca* (S.D.N.Y.), 266 F. 713, 719–721. It eliminates, however, the requirement of conformity to State law as to the form and sufficiency of the complaint. See, also, rule 57(b).
 
 #### Notes of Advisory Committee on Rules—1972 Amendment
 
@@ -988,7 +988,7 @@ Under the amended rule, the complaint and supporting material may be submitted b
 
 #### Notes of Advisory Committee on Rules—1944
 
-*Note to Subdivision* (a). 1. The rule states the existing law relating to warrants issued by commissioner or other magistrate. United States Constitution, Amendment IV; 18 U.S.C. 591 \[now 3041\] (Arrest and removal for trial).
+*Note to Subdivision* (a). 1. The rule states the existing law relating to warrants issued by commissioner or other magistrate. United States Constitution, Amendment IV; 18 U.S.C. 591 \[see 3041\] (Arrest and removal for trial).
 
 2\. The provision for summons is new, although a summons has been customarily used against corporate defendants, 28 U.S.C. 377 \[now 1651\] (Power to issue writs); *United States v. John Kelso Co*., 86 F. 304 (N.D.Cal., 1898). See also, *Albrecht v. United States*, 273 U.S. 1, 8 (1927). The use of the summons in criminal cases is sanctioned by many States, among them Indiana, Maryland, Massachusetts, New York, New Jersey, Ohio, and others. See A.L.I. Code of Criminal Procedure (1931), Commentaries to secs. 12, 13, and 14. The use of the summons is permitted in England by 11 & 12 Vict., c. 42, sec. 1 (1848). More general use of a summons in place of a warrant was recommended by the National Commission on Law Observance and Enforcement, *Report on Criminal Procedure* (1931) 47. The Uniform Arrest Act, proposed by the Interstate Commission on Crime, provides for a summons. Warner, 28 Va.L.R. 315. See also, Medalie, 4 Lawyers Guild, R. 1, 6.
 
@@ -998,13 +998,13 @@ Under the amended rule, the complaint and supporting material may be submitted b
 
 *Note to Subdivision* (b). Compare Rule 9(b) and forms of warrant and summons, Appendix of Forms.
 
-*Note to Subdivision* (c)(2). This rule and Rule 9(c)(1) modify the existing practice under which a warrant may be served only within the district in which it is issued. *Mitchell v. Dexter*, 244 F. 926 (C.C.A. 1st, 1917); *Palmer v. Thompson*, 20 App. D.C. 273 (1902); but see *In re Christian*, 82 F. 885 (C.C.W.D.Ark., 1897); 2 Op.Atty.Gen. 564. When a defendant is apprehended in a district other than that in which the prosecution has been instituted, this change will eliminate some of the steps that are at present followed: the issuance of a warrant in the district where the prosecution is pending; the return of the warrant *non est inventus*; the filing of a complaint on the basis of the warrant and its return in the district in which the defendant is found; and the issuance of another warrant in the latter district. The warrant originally issued will have efficacy throughout the United States and will constitute authority for arresting the defendant wherever found. Waite, 27 Jour. of Am. Judicature Soc. 101, 103. The change will not modify or affect the rights of the defendant as to removal. See Rule 40. The authority of the marshal to serve process is not limited to the district for which he is appointed, 28 U.S.C. 503 \[now 569\].
+*Note to Subdivision* (c)(2). This rule and Rule 9(c)(1) modify the existing practice under which a warrant may be served only within the district in which it is issued. *Mitchell v. Dexter*, 244 F. 926 (C.C.A. 1st, 1917); *Palmer v. Thompson*, 20 App. D.C. 273 (1902); but see *In re Christian*, 82 F. 885 (C.C.W.D.Ark., 1897); 2 Op.Atty.Gen. 564. When a defendant is apprehended in a district other than that in which the prosecution has been instituted, this change will eliminate some of the steps that are at present followed: the issuance of a warrant in the district where the prosecution is pending; the return of the warrant *non est inventus*; the filing of a complaint on the basis of the warrant and its return in the district in which the defendant is found; and the issuance of another warrant in the latter district. The warrant originally issued will have efficacy throughout the United States and will constitute authority for arresting the defendant wherever found. Waite, 27 Jour. of Am. Judicature Soc. 101, 103. The change will not modify or affect the rights of the defendant as to removal. See Rule 40. The authority of the marshal to serve process is not limited to the district for which he is appointed, 28 U.S.C. \[former\] 503.
 
 *Note to Subdivision* (c)(3). 1. The provision that the arresting officer need not have the warrant in his possession at the time of the arrest is rendered necessary by the fact that a fugitive may be discovered and apprehended by any one of many officers. It is obviously impossible for a warrant to be in the possession of every officer who is searching for a fugitive or who unexpectedly might find himself in a position to apprehend the fugitive. The rule sets forth the customary practice in such matters, which has the sanction of the courts. "It would be a strong proposition in an ordinary felony case to say that a fugitive from justice for whom a capias or warrant was outstanding could not be apprehended until the apprehending officer had physical possession of the capias or the warrant. If such were the law, criminals could circulate freely from one end of the land to the other, because they could always keep ahead of an officer with the warrant." *In re Kosopud* (N.D. Ohio), 272 F. 330, 336. Waite, 27 Jour. of Am. Judicature Soc. 101, 103. The rule, however, safeguards the defendant's rights in such case.
 
 2\. Service of summons under the rule is substantially the same as in civil actions under Federal Rules of Civil Procedure, Rule 4(d)(1) \[28 U.S.C., Appendix\].
 
-*Note to Subdivision* (c)(4). Return of a warrant or summons to the commissioner or other officer is provided by 18 U.S.C. 603 \[now 4084\] (Writs; copy as jailer's authority). The return of all "copies of process" by the commissioner to the clerk of the court is provided by 18 U.S.C. 591 \[now 3041\]; and see Rule 5(c), *infra.*
+*Note to Subdivision* (c)(4). Return of a warrant or summons to the commissioner or other officer is provided by 18 U.S.C. 603 \[see former 4084\] (Writs; copy as jailer's authority). The return of all "copies of process" by the commissioner to the clerk of the court is provided by 18 U.S.C. 591 \[see 3041\]; and see Rule 5(c), *infra.*
 
 #### Notes of Advisory Committee on Rules—1966 Amendment
 
@@ -1074,7 +1074,7 @@ New Rule 4(b), which is currently Rule 4(c), addresses the form of an arrest war
 
 Rule 4(b)(2) has been amended to require that if a summons is issued, the defendant must appear before a magistrate judge. The current rule requires the appearance before a "magistrate," which could include a state or local judicial officer. This change is consistent with the preference for requiring defendants to appear before federal judicial officers stated in revised Rule 4(b)(1).
 
-Rule 4(c) (currently Rule 4(d)) includes three changes. First, current Rule 4(d)(2) states the traditional rule recognizing the territorial limits for executing warrants. Rule 4(c)(2) includes new language that reflects the recent enactment of the Military Extraterritorial Jurisdiction Act (Pub. L. No. 106–523, 114 Stat. 2488) that permits arrests of certain military and Department of Defense personnel overseas. *See also* 14 U.S.C. §89 (Coast Guard authority to effect arrests outside territorial limits of United States). Second, current Rule 4(d)(3) provides that the arresting officer is only required to inform the defendant of the offense charged and that a warrant exists if the officer does not have a copy of the warrant. As revised, Rule 4(c)(3)(A) explicitly requires the arresting officer in all instances to inform the defendant of the offense charged and of the fact that an arrest warrant exists. The new rule continues the current provision that the arresting officer need not have a copy of the warrant, but if the defendant requests to see it, the officer must show the warrant to the defendant as soon as possible. The rule does not attempt to define any particular time limits for showing the warrant to the defendant.
+Rule 4(c) (currently Rule 4(d)) includes three changes. First, current Rule 4(d)(2) states the traditional rule recognizing the territorial limits for executing warrants. Rule 4(c)(2) includes new language that reflects the recent enactment of the Military Extraterritorial Jurisdiction Act (Pub. L. No. 106–523, 114 Stat. 2488) that permits arrests of certain military and Department of Defense personnel overseas. *See also* 14 U.S.C. §89 \[now 522\] (Coast Guard authority to effect arrests outside territorial limits of United States). Second, current Rule 4(d)(3) provides that the arresting officer is only required to inform the defendant of the offense charged and that a warrant exists if the officer does not have a copy of the warrant. As revised, Rule 4(c)(3)(A) explicitly requires the arresting officer in all instances to inform the defendant of the offense charged and of the fact that an arrest warrant exists. The new rule continues the current provision that the arresting officer need not have a copy of the warrant, but if the defendant requests to see it, the officer must show the warrant to the defendant as soon as possible. The rule does not attempt to define any particular time limits for showing the warrant to the defendant.
 
 Third, Rule 4(c)(3)(C) is taken from former Rule 9(c)(1). That provision specifies the manner of serving a summons on an organization. The Committee believed that Rule 4 was the more appropriate location for general provisions addressing the mechanics of arrest warrants and summonses. Revised Rule 9 liberally cross-references the basic provisions appearing in Rule 4. Under the amended rule, in all cases in which a summons is being served on an organization, a copy of the summons must be mailed to the organization.
 
@@ -1322,11 +1322,11 @@ In subdivision (b)(6)(B), the superfluous and anachronistic reference to the "fa
 
 #### Notes of Advisory Committee on Rules—1944
 
-*Note to Subdivision* (a). 1. The time within which a prisoner must be brought before a committing magistrate is defined differently in different statutes. The rule supersedes all statutory provisions on this point and fixes a single standard, i.e., "without unnecessary delay", 18 U.S.C. \[former\] 593 (Operating illicit distillery; arrest; bail); sec. \[former\] 595 (Persons arrested taken before nearest officer for hearing); 5 U.S.C. 300a \[now 18 U.S.C. 3052, 3107\] (Division of Investigation; authority of officers to serve warrants and make arrests); 16 U.S.C. 10 (Arrests by employees of park service for violations of laws and regulations); sec. 706 (Migratory Bird Treaty Act; arrests; search warrants); D.C. Code (1940), Title 4, sec. 140 (Arrests without warrant); see, also, 33 U.S.C. 436, 446, 452; 46 U.S.C. 708 \[now 18 U.S.C. 2279\]. What constitutes "unnecessary delay", i.e., reasonable time within which the prisoner should be brought before a committing magistrate, must be determined in the light of all the facts and circumstances of the case. The following authorities discuss the question what constitutes reasonable time for this purpose in various situations: *Carroll v. Parry*, 48 App.D.C. 453; *Janus v. United States*, 38 F.2d 431 (C.C.A. 9th); *Commonwealth v. Di Stasio*, 294 Mass. 273; *State v. Freeman*, 86 N.C. 683; *Peloquin v. Hibner*, 231 Wis. 77; see, also, Warner, 28 Va.L.R. 315, 339–341.
+*Note to Subdivision* (a). 1. The time within which a prisoner must be brought before a committing magistrate is defined differently in different statutes. The rule supersedes all statutory provisions on this point and fixes a single standard, i.e., "without unnecessary delay", 18 U.S.C. \[former\] 593 (Operating illicit distillery; arrest; bail); sec. \[former\] 595 (Persons arrested taken before nearest officer for hearing); 5 U.S.C. 300a \[now 18 U.S.C. 3052, 3107\] (Division of Investigation; authority of officers to serve warrants and make arrests); 16 U.S.C. \[former\] 10 (Arrests by employees of park service for violations of laws and regulations); sec. 706 (Migratory Bird Treaty Act; arrests; search warrants); D.C. Code (1940), Title 4, sec. 140 (Arrests without warrant); see, also, 33 U.S.C. \[former\] 436, 446, 452; 46 U.S.C. 708 \[now 18 U.S.C. 2279\]. What constitutes "unnecessary delay", i.e., reasonable time within which the prisoner should be brought before a committing magistrate, must be determined in the light of all the facts and circumstances of the case. The following authorities discuss the question what constitutes reasonable time for this purpose in various situations: *Carroll v. Parry*, 48 App.D.C. 453; *Janus v. United States*, 38 F.2d 431 (C.C.A. 9th); *Commonwealth v. Di Stasio*, 294 Mass. 273; *State v. Freeman*, 86 N.C. 683; *Peloquin v. Hibner*, 231 Wis. 77; see, also, Warner, 28 Va.L.R. 315, 339–341.
 
 2\. The rule also states the prevailing state practice, A.L.I. Code of Criminal Procedure (1931), Commentaries to secs. 35, 36.
 
-*Note to Subdivisions* (b) and (c). 1. These rules prescribe a uniform procedure to be followed at preliminary hearings before a commissioner. They supersede the general provisions of 18 U.S.C. 591 \[now 3041\] (Arrest and removal for trial). The procedure prescribed by the rules is that generally prevailing. See *Wood v. United States*, 128 F.2d 265, 271–272 (App. D.C.); A.L.I. Code of Criminal Procedure (1931), secs. 39–60 and Commentaries thereto; *Manual for United States Commissioners*, pp. 6–10, published by Administrative Office of the United States Courts.
+*Note to Subdivisions* (b) and (c). 1. These rules prescribe a uniform procedure to be followed at preliminary hearings before a commissioner. They supersede the general provisions of 18 U.S.C. 591 \[see 3041\] (Arrest and removal for trial). The procedure prescribed by the rules is that generally prevailing. See *Wood v. United States*, 128 F.2d 265, 271–272 (App. D.C.); A.L.I. Code of Criminal Procedure (1931), secs. 39–60 and Commentaries thereto; *Manual for United States Commissioners*, pp. 6–10, published by Administrative Office of the United States Courts.
 
 2\. Pleas before a commissioner are excluded, as a plea of guilty at this stage has no legal status or function except to serve as a waiver of preliminary examination. It has been held inadmissible in evidence at the trial, if the defendant was not represented by counsel when the plea was entered. *Wood v. United States*, 128 F.2d 265 (App. D.C.) The rule expressly provides for a waiver of examination, thereby eliminating any necessity for a provision as to plea.
 
@@ -1344,13 +1344,13 @@ The principal editorial change is to deal separately with the initial appearance
 
 Because federal magistrates are reasonably available to conduct initial appearances, the rule is drafted on the assumption that the initial appearance is before a federal magistrate. If experience under the act indicates that there must be frequent appearances before state or local judicial officers it may be desirable to draft an additional rule, such as the following, detailing the procedure for an initial appearance before a state or local judicial officer:
 
-*Initial Appearance Before a State or Local Judicial Officer*. If a United States magistrate is not reasonably available under rule 5(a), the arrested person shall be brought before a state or local judicial officer authorized by 18 U.S.C. §3041, and such officer shall inform the person of the rights specified in rule 5(c) and shall authorize the release of the arrested person under the terms provided for by these rules and by 18 U.S.C. §3146. The judicial officer shall immediately transmit any written order of release and any papers filed before him to the appropriate United States magistrate of the district and order the arrested person to appear before such United States magistrate within three days if not in custody or at the next regular hour of business of the United States magistrate if the arrested person is retained in custody. Upon his appearance before the United States magistrate, the procedure shall be that prescribed in rule 5.
+*Initial Appearance Before a State or Local Judicial Officer*. If a United States magistrate is not reasonably available under rule 5(a), the arrested person shall be brought before a state or local judicial officer authorized by 18 U.S.C. §3041, and such officer shall inform the person of the rights specified in rule 5(c) and shall authorize the release of the arrested person under the terms provided for by these rules and by 18 U.S.C. \[former\] §3146. The judicial officer shall immediately transmit any written order of release and any papers filed before him to the appropriate United States magistrate of the district and order the arrested person to appear before such United States magistrate within three days if not in custody or at the next regular hour of business of the United States magistrate if the arrested person is retained in custody. Upon his appearance before the United States magistrate, the procedure shall be that prescribed in rule 5.
 
 Several changes are made to conform the language of the rule to the Federal Magistrates Act.
 
 (1) The term "magistrate," which is defined in new rule 54, is substituted for the term "commissioner." As defined, "magistrate" includes those state and local judicial officers specified in 18 U.S.C. §3041, and thus the initial appearance may be before a state or local judicial officer when a federal magistrate is not reasonably available. This is made explicit in subdivision (a).
 
-(2) Subdivision (b) conforms the rule to the procedure prescribed in the Federal Magistrate Act when a defendant appears before a magistrate charged with a "minor offense" as defined in 18 U.S.C. §3401(f):
+(2) Subdivision (b) conforms the rule to the procedure prescribed in the Federal Magistrate Act when a defendant appears before a magistrate charged with a "minor offense" as defined in 18 U.S.C. §3401(f) \[(1970)\]:
 
 "misdemeanors punishable under the laws of the United States, the penalty for which does not exceed imprisonment for a period of one year, or a fine of not more than $1,000, or both, except that such term does not include . . . \[specified exceptions\]."
 
@@ -1732,7 +1732,7 @@ The times set in the former rule at 10 or 20 days have been revised to 14 or 21 
 
 2\. The provision that the grand jury shall consist of not less than 16 and not more than 23 members continues existing law, 28 U.S.C. 419 \[now 18 U.S.C. 3321\] (Grand jurors; number when less than required number).
 
-3\. The rule does not affect or deal with the method of summoning and selecting grand juries. Existing statutes on the subjects are not superseded. See 28 U.S.C. 411–426 \[now 1861–1870\]. As these provisions of law relate to jurors for both criminal and civil cases, it seemed best not to deal with this subject.
+3\. The rule does not affect or deal with the method of summoning and selecting grand juries. Existing statutes on the subjects are not superseded. See 28 U.S.C. 411–426 \[see 1861–1870\]. As these provisions of law relate to jurors for both criminal and civil cases, it seemed best not to deal with this subject.
 
 *Note to Subdivision* (b)(1). Challenges to the array and to individual jurors, although rarely invoked in connection with the selection of grand juries, are nevertheless permitted in the Federal courts and are continued by this rule, *United States v. Gale*, 109 U.S. 65, 69–70; *Clawson v. United States*, 114 U.S. 477; *Agnew v. United States*, 165 U.S. 36, 44. It is not contemplated, however, that defendants held for action of the grand jury shall receive notice of the time and place of the impaneling of a grand jury, or that defendants in custody shall be brought to court to attend at the selection of the grand jury. Failure to challenge is not a waiver of any objection. The objection may still be interposed by motion under Rule 6(b)(2).
 
@@ -1768,7 +1768,7 @@ Subdivision (f).—A minor change conforms the language to what doubtless is the
 
 Subdivision (b)(2) is amended to incorporate by express reference the provisions of the Jury Selection and Service Act of 1968. That act provides in part:
 
-The procedures prescribed by this section shall be the exclusive means by which a person accused of a Federal crime \[or\] the Attorney General of the United States \* \* \* may challenge any jury on the ground that such jury was not selected in conformity with the provisions of this title. \[28 U.S.C. §1867(c)\]
+The procedures prescribed by this section shall be the exclusive means by which a person accused of a Federal crime \[or\] the Attorney General of the United States \* \* \* may challenge any jury on the ground that such jury was not selected in conformity with the provisions of this title. \[28 U.S.C. §1867(e)\]
 
 Under rule 12(e) the judge shall decide the motion before trial or order it deferred until after verdict. The authority which the judge has to delay his ruling until after verdict gives him an option which can be exercised to prevent the unnecessary delay of a trial in the event that a motion attacking a grand jury is made on the eve of the trial. In addition, rule 12(c) gives the judge authority to fix the time at which pretrial motions must be made. Failure to make a pretrial motion at the appropriate time may constitute a waiver under rule 12(f).
 
@@ -1800,7 +1800,7 @@ The rule \[6(e)\] has presented a problem, however, with respect to attorneys an
 
 Although case law is limited, the trend seems to be in the direction of allowing disclosure to government personnel who assist attorneys for the government in situations where their expertise is required. This is subject to the qualification that the matters disclosed be used only for the purposes of the grand jury investigation. The court may inquire as to the good faith of the assisting personnel, to ensure that access to material is not merely a subterfuge to gather evidence unattainable by means other than the grand jury. This approach was taken in *In re Grand Jury Investigation of William H. Pflaumer & Sons, Inc*., 53 F.R.D. 464 (E.D.Pa. 1971); *In re April 1956 Term Grand Jury*, 239 F.2d 263 (7th Cir. 1956); *United States v. Anzelimo*, 319 F.Supp. 1106 (D.C.La. 1970). Another case, *Application of Kelly*, 19 F.R.D. 269 (S.D.N.Y. 1956), assumed, without deciding, that assistance given the attorney for the government by IRS and FBI agents was authorized.
 
-The change at line 27 reflects the fact that under the Bail Reform Act of 1966 some persons will be released without requiring bail. See 18 U.S.C. §§3146, 3148.
+The change at line 27 reflects the fact that under the Bail Reform Act of 1966 some persons will be released without requiring bail. See 18 U.S.C. \[former\] §§3146, 3148.
 
 Under the proposed amendment to rule 6(f), an indictment may be returned to a federal magistrate. ("Federal magistrate" is defined in rule 54(c) as including a United States magistrate as defined in 28 U.S.C. §631–639 and a judge of the United States.) This change will foreclose the possibility of noncompliance with the Speedy Trial Act timetable because of the nonavailability of a judge. Upon the effective date of certain provisions of the Speedy Trial Act of 1974, the timely return of indictments will become a matter of critical importance; for the year commencing July 1, 1976, indictments must be returned within 60 days of arrest or summons, for the year following within 45 days, and thereafter within 30 days. 18 U.S.C. §§3161(b) and (f), 3163(a). The problem is acute in a one-judge district where, if the judge is holding court in another part of the district, or is otherwise absent, the return of the indictment must await the later reappearance of the judge at the place where the grand jury is sitting.
 
@@ -2160,7 +2160,7 @@ Amendment of subd. (f) by the order of the United States Supreme Court of Apr. 2
 
 *Note to Subdivision* (a). 1. This rule gives effect to the following provision of the Fifth Amendment to the Constitution of the United States: "No person shall be held to answer for a capital, or otherwise infamous crime, unless on a presentment or indictment of a Grand Jury \* \* \*". An infamous crime has been defined as a crime punishable by death or by imprisonment in a penitentiary or at hard labor, *Ex parte Wilson*, 114 U.S. 417, 427; *United States v. Moreland*, 258 U.S. 433. Any sentence of imprisonment for a term of over one year may be served in a penitentiary, if so directed by the Attorney General, 18 U.S.C. 753f \[now 4082, 4083\] (Commitment of persons by any court of the United States and the juvenile court of the District of Columbia; place of confinement; transfers). Consequently any offense punishable by imprisonment for a term of over one year is an infamous crime.
 
-2\. Petty offenses and misdemeanors for which no infamous punishment is prescribed may now be prosecuted by information, 18 U.S.C. 541 \[see 1\] (Felonies and misdemeanors); *Duke v. United States*, 301 U.S. 492.
+2\. Petty offenses and misdemeanors for which no infamous punishment is prescribed may now be prosecuted by information, 18 U.S.C. 541 \[see former 1\] (Felonies and misdemeanors); *Duke v. United States*, 301 U.S. 492.
 
 3\. For a discussion of the provision for waiver of indictment, see Note to Rule 7(b), *infra.*
 
@@ -2172,7 +2172,7 @@ The Judicial Conference of Senior Circuit Judges, in September 1941, recommended
 
 Attorneys General of the United States have from time to time recommended legislation to permit defendants to waive indictment and to consent to prosecution by information. See *Annual Report of the Attorney General of the United States* (Mitchell) (1931) 3; *Id*. (Mitchell) (1932) 6; *Id*. (Cummings) (1933) 1, (1936) 2, (1937) 11, (1938) 9; *Id*. (Murphy) (1939) 7.
 
-The Federal Juvenile Delinquency Act \[now 18 U.S.C. 5031–5037\], now permits a juvenile charged with an offense not punishable by death or life imprisonment to consent to prosecution by information on a charge of juvenile delinquency, 18 U.S.C. 922 \[now 5032, 5033\].
+The Federal Juvenile Delinquency Act \[see 18 U.S.C. 5031 et seq.\], now permits a juvenile charged with an offense not punishable by death or life imprisonment to consent to prosecution by information on a charge of juvenile delinquency, 18 U.S.C. 922 \[now 5032, 5033\].
 
 2\. On the constitutionality of this rule, see *United States v. Gill*, 55 F.2d 399 (D.N.M.), holding that the constitutional guaranty of indictment by grand jury may be waived by defendant. It has also been held that other constitutional guaranties may be waived by the defendant, e. g., *Patton v. United States*, 281 U.S. 276 (trial by jury); *Johnson v. Zerbst*, 304 U.S. 458, 465 (right of counsel); *Trono v. United States*, 199 U.S. 521, 534 (protection against double jeopardy); *United States v. Murdock*, 284 U.S. 141, 148 (privilege against self-incrimination); *Diaz v. United States*, 223 U.S. 442, 450 (right of confrontation).
 
@@ -2564,7 +2564,7 @@ The amendment leaves to the courts the decision first, whether to permit video a
 
 1\. This rule is substantially a restatement of existing law and practice, 18 U.S.C. \[former\] 564 (Standing mute); *Fogus v. United States*, 34 F.2d 97 (C.C.A. 4th) (duty of court to ascertain that plea of guilty is intelligently and voluntarily made).
 
-2\. The plea of *nolo contendere* has always existed in the Federal courts, *Hudson v. United States*, 272 U.S. 451; *United States v. Norris*, 281 U.S. 619. The use of the plea is recognized by the Probation Act, 18 U.S.C. 724 \[now 3651\]. While at times criticized as theoretically lacking in logical basis, experience has shown that it performs a useful function from a practical standpoint.
+2\. The plea of *nolo contendere* has always existed in the Federal courts, *Hudson v. United States*, 272 U.S. 451; *United States v. Norris*, 281 U.S. 619. The use of the plea is recognized by the Probation Act, 18 U.S.C. 724 \[see former 3651\]. While at times criticized as theoretically lacking in logical basis, experience has shown that it performs a useful function from a practical standpoint.
 
 #### Notes of Advisory Committee on Rules—1966 Amendment
 
@@ -2608,7 +2608,7 @@ Former rule 11 required the court to inform the defendant of the "consequences o
 
 It has been suggested that it is desirable to inform a defendant of additional consequences which might follow from his plea of guilty. *Durant v. United States*, 410 F.2d 689 (1st Cir. 1969), held that a defendant must be informed of his ineligibility for parole. *Trujillo v. United States*, 377 F.2d 266 (5th Cir. 1967), cert. denied 389 U.S. 899, 88 S.Ct. 224, 19 L.Ed.2d 221 (1967), held that advice about eligibility for parole is not required. It has been suggested that a defendant be advised that a jury might find him guilty only of a lesser included offense. C. Wright, Federal Practice and Procedure: Criminal §173 at 374 (1969). See contra *Dorrough v. United States*, 385 F.2d 887 (5th Cir. 1967). The ABA Standards Relating to Pleas of Guilty §1.4(c)(iii) (Approved Draft, 1968) recommend that the defendant be informed that he may be subject to additional punishment if the offense charged is one for which a different or additional punishment is authorized by reason of the defendant's previous conviction.
 
-Under the rule the judge is not required to inform a defendant about these matters, though a judge is free to do so if he feels a consequence of a plea of guilty in a particular case is likely to be of real significance to the defendant. Currently, certain consequences of a plea of guilty, such as parole eligibility, may be so complicated that it is not feasible to expect a judge to clearly advise the defendant. For example, the judge may impose a sentence under 18 U.S.C. §4202 making the defendant eligible for parole when he has served one third of the judicially imposed maximum; or, under 18 U.S.C. §4208(a)(1), making parole eligibility after a specified period of time less than one third of the maximum; or, under 18 U.S.C. §4208(a)(2), leaving eligibility to the discretion of the parole board. At the time the judge is required to advise the defendant of the consequences of his plea, the judge will usually not have seen the presentence report and thus will have no basis for giving a defendant any very realistic advice as to when he might be eligible for parole. Similar complications exist with regard to other, particularly collateral, consequences of a plea of guilty in a given case.
+Under the rule the judge is not required to inform a defendant about these matters, though a judge is free to do so if he feels a consequence of a plea of guilty in a particular case is likely to be of real significance to the defendant. Currently, certain consequences of a plea of guilty, such as parole eligibility, may be so complicated that it is not feasible to expect a judge to clearly advise the defendant. For example, the judge may impose a sentence under 18 U.S.C. \[former\] §4202 making the defendant eligible for parole when he has served one third of the judicially imposed maximum; or, under 18 U.S.C. \[former\] §4208(a)(1), making parole eligibility after a specified period of time less than one third of the maximum; or, under 18 U.S.C. \[former\] §4208(a)(2), leaving eligibility to the discretion of the parole board. At the time the judge is required to advise the defendant of the consequences of his plea, the judge will usually not have seen the presentence report and thus will have no basis for giving a defendant any very realistic advice as to when he might be eligible for parole. Similar complications exist with regard to other, particularly collateral, consequences of a plea of guilty in a given case.
 
 Subdivisions (c)(3) and (4) specify the constitutional rights that the defendant waives by a plea of guilty or nolo contendere. These subdivisions are designed to satisfy the requirements of understanding waiver set forth in *Boykin v. Alabama*, 395 U.S. 238, 89 S.Ct. 1709, 23 L.Ed.2d 274 (1969). Subdivision (c)(3) is intended to require that the judge inform the defendant and determine that he understands that he waives his fifth amendment rights. The rule takes the position that the defendant's right not to incriminate himself is best explained in terms of his right to plead not guilty and to persist in that plea if it has already been made. This is language identical to that adopted in Illinois for the same purpose. See Illinois Supreme Court Rule 402(a)(3) (1970), Ill.Rev.Stat. 1973, ch. 110A, §402(a)(3).
 
@@ -2906,7 +2906,7 @@ It must also be emphasized that a harmless error provision has been added to Rul
 
 #### Notes of Advisory Committee on Rules—1985 Amendment
 
-*Note to Subdivision* (c)(1). Section 5 of the Victim and Witness Protection Act of 1982, Pub. L. No. 97–291, 96 Stat. 1248 (1982), adds 18 U.S.C. §3579, providing that when sentencing a defendant convicted of a Title 18 offense or of violating various subsections of the Federal Aviation Act of 1958, the court "may order, in addition to or in lieu of any other penalty authorized by law, that the defendant make restitution to any victim of the offense." Under this law restitution is favored; if the court "does not order restitution, or orders only partial restitution, . . . the court shall state on the record the reasons therefor." Because this restitution is deemed an aspect of the defendant's sentence, S. Rept. No. 97–532, 97th Cong., 2d Sess., 30–33 (1982), it is a matter about which a defendant tendering a plea of guilty or nolo contendere should be advised.
+*Note to Subdivision* (c)(1). Section 5 of the Victim and Witness Protection Act of 1982, Pub. L. No. 97–291, 96 Stat. 1248 (1982), adds 18 U.S.C. §3579 \[(1982), see 18 U.S.C. 3663\], providing that when sentencing a defendant convicted of a Title 18 offense or of violating various subsections of the Federal Aviation Act of 1958, the court "may order, in addition to or in lieu of any other penalty authorized by law, that the defendant make restitution to any victim of the offense." Under this law restitution is favored; if the court "does not order restitution, or orders only partial restitution, . . . the court shall state on the record the reasons therefor." Because this restitution is deemed an aspect of the defendant's sentence, S. Rept. No. 97–532, 97th Cong., 2d Sess., 30–33 (1982), it is a matter about which a defendant tendering a plea of guilty or nolo contendere should be advised.
 
 Because this new legislation contemplates that the amount of the restitution to be ordered will be ascertained later in the sentencing process, this amendment to Rule 11(c)(1) merely requires that the defendant be told of the court's power to order restitution. The exact amount or upper limit cannot and need not be stated at the time of the plea. Failure of a court to advise a defendant of the possibility of a restitution order would constitute harmless error under subdivision (h) if no restitution were thereafter ordered.
 
@@ -3110,7 +3110,7 @@ Subdivision (d) provides a mechanism for insuring that a defendant knows of the 
 
 Early in the pre-trial proceedings, the Government commendably informed both the court and defense counsel that an electronic listening device had been used in investigating the case, and suggested a hearing be held as to its legality.
 
-See also the "Omnibus Crime Control and Safe Streets Act of 1968," 18 U.S.C. §2518(9):
+See also the "Omnibus Crime Control and Safe Streets Act of 1968," 18 U.S.C. §2518(9) \[(1970)\]:
 
 The contents of any intercepted wire or oral communication or evidence derived therefrom shall not be received in evidence or otherwise disclosed in any trial, hearing, or other proceeding in a Federal or State court unless each party, not less than ten days before the trial, hearing, or proceeding, has been furnished with a copy of the court order, and accompanying application, under which the interception was authorized or approved.
 
@@ -3836,11 +3836,11 @@ The reference to a defendant's "confession" in the last sentence of the current 
 
 Rule 15 authorizes the taking of depositions by the government. Under former rule 15 only a defendant was authorized to take a deposition.
 
-The revision is similar to Title VI of the Organized Crime Control Act of 1970. The principal difference is that Title VI (18 U.S.C. §3503) limits the authority of the government to take depositions to cases in which the Attorney General certifies that the "proceeding is against a person who is believed to have participated in an organized criminal activity." This limitation is not contained in rule 15.
+The revision is similar to Title VI of the Organized Crime Control Act of 1970. The principal difference is that Title VI (18 U.S.C. §3503 \[(1970)\]) limits the authority of the government to take depositions to cases in which the Attorney General certifies that the "proceeding is against a person who is believed to have participated in an organized criminal activity." This limitation is not contained in rule 15.
 
-Dealing with the issue of government depositions so soon after the enactment of 18 U.S.C. §3503 is not inconsistent with the congressional purpose. On the floor of the House, Congressman Poff, a principal spokesman for the proposal, said that the House version was not designed to "limit the Judicial Conference of the United States in the exercise of its rulemaking authority . . . from addressing itself to other problems in this area or from adopting a broader approach." 116 Cong.Rec. 35293 (1970).
+Dealing with the issue of government depositions so soon after the enactment of 18 U.S.C. §3503 \[(1970)\] is not inconsistent with the congressional purpose. On the floor of the House, Congressman Poff, a principal spokesman for the proposal, said that the House version was not designed to "limit the Judicial Conference of the United States in the exercise of its rulemaking authority . . . from addressing itself to other problems in this area or from adopting a broader approach." 116 Cong.Rec. 35293 (1970).
 
-The recently enacted Title VI of the Organized Crime Control Act of 1970 (18 U.S.C. §3503) is based upon earlier efforts of the Advisory Committee on Criminal Rules which has over the past twenty-five years submitted several proposals authorizing government depositions.
+The recently enacted Title VI of the Organized Crime Control Act of 1970 (18 U.S.C. §3503 \[(1970)\]) is based upon earlier efforts of the Advisory Committee on Criminal Rules which has over the past twenty-five years submitted several proposals authorizing government depositions.
 
 The earlier drafts of the Federal Rules of Criminal Procedure proposed that the government be allowed to take depositions. Orfield, The Federal Rules of Criminal Procedure, 33 Calif.L.Rev. 543, 559 (1945). The Fifth Draft of what became rule 15 (then rule 20) dated June 1942, was submitted to the Supreme Court for comment. The court had a number of unfavorable comments about allowing government depositions. These comments were not published. The only reference to the fact that the court made comments is in 2 Orfield, Criminal Procedure under the Federal Rules §15:1 (1966); and Orfield, Depositions in Federal Criminal Procedure, 9 S.C.L.Q. 376, 380–381 (1957).
 
@@ -3860,9 +3860,9 @@ The following additional requirements shall apply if the deposition is taken at 
 
 The proposal to authorize government depositions was rejected by the Standing Committee on Rules of Practice and Procedure, C. Wright, Federal Practice and Procedure §241 at 477 (1969). 4 Barron, Federal Practice and Procedure (Supp. 1967). The Report of the Judicial Conference, submitted to the Supreme Court for approval late in 1965, contained no proposal for an amendment to rule 15. See 39 F.R.D. 69, 168–211 (1966).
 
-When the Organized Crime Control Act of 1970 was originally introduced in the Senate (S. 30) it contained a government deposition provision which was similar to the 1964 proposal of the Criminal Rules Advisory Committee, except that the original bill (S. 30) failed to provide standards to control the use of depositions at the trial. For an explanation and defense of the original proposal see McClellan, The Organized Crime Act (S. 30) or Its Critics: Which Threatens Civil Liberties?, 46 Notre Dame Lawyer 55, 100–108 (1970). This omission was remedied, prior to passage, with the addition of what is now 18 U.S.C. §3503(f) which prescribes the circumstances in which a deposition can be used. The standards are the same as those in former rule 15(e) with the addition of language allowing the use of the deposition when "the witness refuses in the trial or hearing to testify concerning the subject of the deposition or the part offered."
+When the Organized Crime Control Act of 1970 was originally introduced in the Senate (S. 30) it contained a government deposition provision which was similar to the 1964 proposal of the Criminal Rules Advisory Committee, except that the original bill (S. 30) failed to provide standards to control the use of depositions at the trial. For an explanation and defense of the original proposal see McClellan, The Organized Crime Act (S. 30) or Its Critics: Which Threatens Civil Liberties?, 46 Notre Dame Lawyer 55, 100–108 (1970). This omission was remedied, prior to passage, with the addition of what is now 18 U.S.C. §3503(f) \[(1970)\] which prescribes the circumstances in which a deposition can be used. The standards are the same as those in former rule 15(e) with the addition of language allowing the use of the deposition when "the witness refuses in the trial or hearing to testify concerning the subject of the deposition or the part offered."
 
-Before the Organized Crime Control Act of 1970 was enacted an additional amendment was added providing that the right of the government to take a deposition is limited to cases in which the Attorney General certifies that the defendant is "believed to have participated in an organized criminal activity" \[18 U.S.C. §3503(a)\]. The argument in favor of the amendment was that the whole purpose of the act was to deal with organized crime and therefore its provisions, including that providing for government depositions, should be limited to organized crime type cases.
+Before the Organized Crime Control Act of 1970 was enacted an additional amendment was added providing that the right of the government to take a deposition is limited to cases in which the Attorney General certifies that the defendant is "believed to have participated in an organized criminal activity" \[18 U.S.C. §3503(a) (1970)\]. The argument in favor of the amendment was that the whole purpose of the act was to deal with organized crime and therefore its provisions, including that providing for government depositions, should be limited to organized crime type cases.
 
 There is another aspect of Advisory Committee history which is relevant. In January 1970, the Advisory Committee circulated proposed changes in rule 16, one of which gives the government, when it has disclosed the identity of its witnesses, the right to take a deposition and use it "in the event the witness has become unavailable without the fault of the government or if the witness has changed his testimony." \[See Preliminary Draft of Proposed Amendments to the Federal Rules of Criminal Procedure for the United States District Courts, rule 16(a)(1)(vi) (January 1970).\] This provision is now incorporated within rule 16(a)(1)(v).
 
@@ -3924,7 +3924,7 @@ The Committee added language to subdivision (c) to make clear that the governmen
 
 The Committee notes that subdivision (e) permits the use of a deposition when the witness "gives testimony at the trial or hearing inconsistent with his deposition." Since subdivision (e) refers to the rules of evidence, the Committee understands that the Federal Rules of Evidence will govern the admissibility and use of the deposition. The Committee, by adopting subdivision (e) as proposed to be amended by the Supreme Court, intends the Federal Rules of Evidence to govern the admissibility and use of the deposition.
 
-The Committee believes that Rule 15 will not encourage trials by deposition. A deposition may be taken only in "exceptional circumstances" when "it is in the interest of justice that the testimony of a prospective witness of a party be taken and preserved. \* \* \*" A deposition, once it is taken, is not automatically admissible at trial, however. It may only be used at trial if the witness is unavailable, and the rule narrowly defines unavailability. The procedure established in Rule 15 is similar to the procedure established by the Organized Crime Control Act of 1970 for the taking and use of depositions in organized crime cases. See 18 U.S.C. 3503.
+The Committee believes that Rule 15 will not encourage trials by deposition. A deposition may be taken only in "exceptional circumstances" when "it is in the interest of justice that the testimony of a prospective witness of a party be taken and preserved. \* \* \*" A deposition, once it is taken, is not automatically admissible at trial, however. It may only be used at trial if the witness is unavailable, and the rule narrowly defines unavailability. The procedure established in Rule 15 is similar to the procedure established by the Organized Crime Control Act of 1970 for the taking and use of depositions in organized crime cases. See 18 U.S.C. \[former\] 3503.
 
 #### Conference Committee Notes, House Report No. 94–414; 1975 Amendment
 
@@ -4230,7 +4230,7 @@ The American Bar Association Standards mandate the prosecutor to make the requir
 
 The requirement in subdivision (a)(1)(A) is that the government produce "statements" without further discussion of what "statement" includes. There has been some recent controversy over what "statements" are subject to discovery under the current rule. See Discovery in Criminal Cases, 44 F.R.D. 481 (1968); C. Wright, Federal Practice and Procedure: Criminal §253, pp. 505–506 (1969, Supp. 1971). The kinds of "statements" which have been held to be within the rule include "substantially verbatim and contemporaneous" statements, *United States v. Elife*, 43 F.R.D. 23 (S.D.N.Y. 1967); statements which reproduce the defendant's "exact words," *United States v. Armantrout*, 278 F.Supp. 517 (S.D.N.Y. 1968); a memorandum which was not verbatim but included the substance of the defendant's testimony, *United States v. Scharf*, 267 F.Supp. 19 (S.D.N.Y. 1967); Summaries of the defendant's statements, *United States v. Morrison*, 43 F.R.D. 516 (N.D.Ill. 1967); and statements discovered by means of electronic surveillance, *United States v. Black*, 282 F.Supp. 35 (D.D.C. 1968). The court in *United States v. Iovinelli*, 276 F.Supp. 629, 631 (N.D.Ill. 1967), declared that "statements" as used in old rule 16 is not restricted to the "substantially verbatim recital of an oral statement" or to statements which are a "recital of past occurrences."
 
-The Jencks Act, 18 U.S.C. §3500, defines "statements" of government witnesses discoverable for purposes of cross-examination as: (1) a "written statement" signed or otherwise approved by a witness, (2) "a stenographic, mechanical, electrical, or other recording, or a transcription thereof, which is a substantially verbatim recital of an oral statement made by said witness to an agent of the government and recorded contemporaneously with the making of such oral statement." 18 U.S.C. §3500(e). The language of the Jencks Act has most often led to a restrictive definition of "statements," confining "statements" to the defendant's "own words." See *Hanks v. United States*, 388 F.2d 171 (10th Cir. 1968), and *Augenblick v. United States*, 377 F.2d 586, 180 Ct.Cl. 131 (1967).
+The Jencks Act, 18 U.S.C. §3500, defines "statements" of government witnesses discoverable for purposes of cross-examination as: (1) a "written statement" signed or otherwise approved by a witness, (2) "a stenographic, mechanical, electrical, or other recording, or a transcription thereof, which is a substantially verbatim recital of an oral statement made by said witness to an agent of the government and recorded contemporaneously with the making of such oral statement." 18 U.S.C. §3500(e) \[(1964)\]. The language of the Jencks Act has most often led to a restrictive definition of "statements," confining "statements" to the defendant's "own words." See *Hanks v. United States*, 388 F.2d 171 (10th Cir. 1968), and *Augenblick v. United States*, 377 F.2d 586, 180 Ct.Cl. 131 (1967).
 
 The American Bar Association's Standards Relating to Discovery and Procedure Before Trial (Approved Draft, 1970) do not attempt to define "statements" because of a disagreement among members of the committee as to what the definition should be. The majority rejected the restrictive definition of "statements" contained in the Jencks Act, 18 U.S.C. §3500(e), in the view that the defendant ought to be able to see his statement in whatever form it may have been preserved in fairness to the defendant and to discourage the practice, where it exists, of destroying original notes, after transforming them into secondary transcriptions, in order to avoid cross-examination based upon the original notes. See *Campbell v. United States*, 373 U.S. 487, 83 S.Ct. 1356, 10 L.Ed.2d 501 (1963). The minority favored a restrictive definition of "statements" in the view that the use of other than "verbatim" statements would subject witnesses to unfair cross-examination. See American Bar Association's Standards Relating to Discovery and Procedure Before Trial pp. 61–64 (Approved Draft, 1970). The draft of subdivision (a)(1)(A) leaves the matter of the meaning of the term unresolved and thus left for development on a case-by-case basis.
 
@@ -4722,13 +4722,13 @@ Amendment VI provides:
 
 In all criminal prosecutions, the accused shall enjoy the right to a speedy and public trial, by an impartial jury of the State and district wherein the crime shall have been committed, which district shall have been previously ascertained by law \* \* \*
 
-28 U.S.C. former §114 (now §§1393, 1441) provides:
+28 U.S.C. §114 \[(1940)\] provides:
 
 All prosecutions for crimes or offenses shall be had within the division of such districts where the same were committed, unless the court, or the judge thereof, upon the application of the defendant, shall order the cause to be transferred for prosecution to another division of the district.
 
 The word "prosecutions," as used in this statute, does not include the finding and return of an indictment. The prevailing practice of impaneling a grand jury for the entire district at a session in some division and of distributing the indictments among the divisions in which the offenses were committed is deemed proper and legal, *Salinger v. Loisel*, 265 U.S. 224, 237. The court stated that this practice is "attended with real advantages." The rule is a restatement of existing law and is intended to sanction the continuance of this practice. For this reason, the rule requires that only the trial be held in the division in which the offense was committed and permits other proceedings to be had elsewhere in the same district.
 
-2\. Within the framework of the foregoing constitutional provisions and the provisions of the general statute, 28 U.S.C. 114 \[now 1393, 1441\], *supra*, numerous statutes have been enacted to regulate the venue of criminal proceedings, particularly in respect to continuing offenses and offenses consisting of several transactions occurring in different districts. *Armour Packing Co. v. United States*, 209 U.S. 56, 73–77; *United States v. Johnson*, 323 U.S. 273. These special venue provisions are not affected by the rule. Among these statutes are the following:
+2\. Within the framework of the foregoing constitutional provisions and the provisions of the general statute, 28 U.S.C. 114 \[see former 1393, 1441\], *supra*, numerous statutes have been enacted to regulate the venue of criminal proceedings, particularly in respect to continuing offenses and offenses consisting of several transactions occurring in different districts. *Armour Packing Co. v. United States*, 209 U.S. 56, 73–77; *United States v. Johnson*, 323 U.S. 273. These special venue provisions are not affected by the rule. Among these statutes are the following:
 
   
 
@@ -4742,7 +4742,7 @@ U.S.C., Title 15:
 
  Section 78aa (Regulation of Securities Exchanges; jurisdiction of offenses and suits)
 
- Section 79y (Control of Public Utility Holding Companies; jurisdiction of offenses and suits)
+ Section 79y \[former\] (Control of Public Utility Holding Companies; jurisdiction of offenses and suits)
 
  Section 80a–43 (Investment Companies; jurisdiction of offenses and suits)
 
@@ -4762,19 +4762,19 @@ U.S.C., Title 18:
 
  Section 336 \[now 1302\] (Lottery, or gift enterprise circulars not mailable; place of trial)
 
- Section 338a \[now 876, 3239\] (Mailing threatening communications)
+ Section 338a \[see 876, former 3239\] (Mailing threatening communications)
 
- Section 338b \[now 877, 3239\] (Same; mailing in foreign country for delivery in the United States)
+ Section 338b \[see 877, former 3239\] (Same; mailing in foreign country for delivery in the United States)
 
  Section 345 \[now 1717\] (Using or attempting to use mails for transmission of matter declared nonmailable by title; jurisdiction of offense)
 
  Section 396e \[now 1762\] (Transportation or importation of convict-made goods with intent to use in violation of local law; jurisdiction of violations)
 
- Section 401 \[now 2421\] (White slave traffic; jurisdiction of prosecutions)
+ Section 401 \[see former 2421\] (White slave traffic; jurisdiction of prosecutions)
 
  Section 408 \[now 10, 2311 to 2313\] (Motor vehicles; transportation, etc., of stolen vehicles)
 
- Section 408d \[now 875, 3239\] (Threatening communications in interstate commerce)
+ Section 408d \[see 875, former 3239\] (Threatening communications in interstate commerce)
 
  Section 408e \[now 1073\] (Moving in interstate or foreign commerce to avoid prosecution for felony or giving testimony)
 
@@ -4782,9 +4782,9 @@ U.S.C., Title 18:
 
  Section 412 \[now 660\] (Embezzlement, etc., by officers of carrier; jurisdiction; double jeopardy)
 
- Section 418 \[now 3237\] (National Stolen Property Act; jurisdiction)
+ Section 418 \[former\] (National Stolen Property Act; jurisdiction)
 
- Section 419d \[now 3237\] (Transportation of stolen cattle in interstate or foreign commerce; jurisdiction of offense)
+ Section 419d \[former\] (Transportation of stolen cattle in interstate or foreign commerce; jurisdiction of offense)
 
  Section 420d \[now 1951\] (Interference with trade and commerce by violence, threats, etc., jurisdiction of offenses)
 
@@ -4798,7 +4798,7 @@ U.S.C., Title 21:
 
  Section 17 (Introduction into, or sale in, State or Territory or District of Columbia of dairy or food products falsely labeled or branded; penalty; jurisdiction of prosecutions)
 
- Section 118 (Prevention of introduction and spread of contagion; duty of district attorneys)
+ Section 118 \[former\] (Prevention of introduction and spread of contagion; duty of district attorneys)
 
   
 
@@ -4824,9 +4824,9 @@ U.S.C., Title 47:
 
 U.S.C., Title 49:
 
- Section 41 \[now 11902, 11903, 11915, 11916\] (Legislation Supplementary to Interstate Commerce Act; liability of corporation carriers and agents; offenses and penalties—(1) Liability of corporation common carriers; offenses; penalties; Jurisdiction)
+ Section 41 \[see former 11902, former 11903, former 11915, former 11916\] (Legislation Supplementary to Interstate Commerce Act; liability of corporation carriers and agents; offenses and penalties—(1) Liability of corporation common carriers; offenses; penalties; Jurisdiction)
 
- Section 623 \[repealed\] (Civil Aeronautics Act; venue and prosecution of offenses)
+ Section 623 \[former\] (Civil Aeronautics Act; venue and prosecution of offenses)
 
 #### Notes of Advisory Committee on Rules—1966 Amendment
 
@@ -4988,15 +4988,15 @@ Amendments of this rule embraced in the order of the United States Supreme Court
 
 3\. The rule provides for a change of venue only on defendant's motion and does not extend the same right to the prosecution, since the defendant has a constitutional right to a trial in the district where the offense was committed. Constitution of the United States, Article III, Sec. 2, Par. 3; Amendment VI. By making a motion for a change of venue, however, the defendant waives this constitutional right.
 
-4\. This rule is in addition to and does not supersede existing statutes enabling a party to secure a change of judge on the ground of personal bias or prejudice, 28 U.S.C. 25 \[now 144\]; or enabling the defendant to secure a change of venue as of right in certain cases involving offenses committed in more than one district, 18 U.S.C. 338a(d) \[now 876, 3239\] (Mailing threatening communications); *Id*. sec. 403d(d) \[now 875, 3239\] (Threatening communications in interstate commerce).
+4\. This rule is in addition to and does not supersede existing statutes enabling a party to secure a change of judge on the ground of personal bias or prejudice, 28 U.S.C. 25 \[now 144\]; or enabling the defendant to secure a change of venue as of right in certain cases involving offenses committed in more than one district, 18 U.S.C. 338a(d) \[see 876, former 3239\] (Mailing threatening communications); *Id*. sec. 408d(d) \[see 875, former 3239\] (Threatening communications in interstate commerce).
 
-*Note to Subdivision* (c). Cf. 28 U.S.C. 114 \[now 1393, 1441\] and Rule 20, *supra.*
+*Note to Subdivision* (c). Cf. 28 U.S.C. 114 \[see former 1393, 1441\] and Rule 20, *supra.*
 
 #### Notes of Advisory Committee on Rules—1966 Amendment
 
 Subdivision (a).—All references to divisions are eliminated in accordance with the amendment to Rule 18 eliminating division venue. The defendant is given the right to a transfer only when he can show that he cannot obtain a fair and impartial trial at any place fixed by law for holding court in the district. Transfers within the district to avoid prejudice will be within the power of the judge to fix the place of trial as provided in the amendments to Rule 18. It is also made clear that on a motion to transfer under this subdivision the court may select the district to which the transfer may be made. Cf. *United States v. Parr*, 17 F.R.D. 512, 519 (S.D.Tex. (1955); *Parr v. United States*, 351 U.S. 513 (1956).
 
-Subdivision (b).—The original rule limited change of venue for reasons other than prejudice in the district to those cases where venue existed in more than one district. Upon occasion, however, convenience of the parties and witnesses and the interest of justice would best be served by trial in a district in which no part of the offense was committed. See, e.g., *Travis v. United States*, 364 U.S. 631 (1961), holding that the only venue of a charge of making or filing a false non-Communist affidavit required by §9(h) of the National Labor Relations Act is in Washington, D.C. even though all the relevant witnesses may be located at the place where the affidavit was executed and mailed. See also Barber, Venue in Federal Criminal Cases: A Plea for Return to Principle, 42 Tex.L.Rev. 39 (1963); Wright, Proposed Changes in Federal Civil, Criminal and Appellate Procedure, 35 F.R.D. 317, 329 (1964). The amendment permits a transfer in any case on motion of the defendant on a showing that it would be for the convenience of parties and witnesses, and in the interest of justice. Cf. 28 U.S.C. §1404(a), stating a similar standard for civil cases. See also *Platt v. Minnesota Min. & Mfg. Co*., 376 U.S.C. 240 (1964). Here, as in subdivision (a), the court may select the district to which the transfer is to be made. The amendment also makes it clear that the court may transfer all or part of the offenses charged in a multi-count indictment or information. Cf. *United States v. Choate*, 276 F.2d 724 (5th Cir. 1960). References to divisions are eliminated in accordance with the amendment to Rule 18.
+Subdivision (b).—The original rule limited change of venue for reasons other than prejudice in the district to those cases where venue existed in more than one district. Upon occasion, however, convenience of the parties and witnesses and the interest of justice would best be served by trial in a district in which no part of the offense was committed. See, e.g., *Travis v. United States*, 364 U.S. 631 (1961), holding that the only venue of a charge of making or filing a false non-Communist affidavit required by §9(h) of the National Labor Relations Act is in Washington, D.C. even though all the relevant witnesses may be located at the place where the affidavit was executed and mailed. See also Barber, Venue in Federal Criminal Cases: A Plea for Return to Principle, 42 Tex.L.Rev. 39 (1963); Wright, Proposed Changes in Federal Civil, Criminal and Appellate Procedure, 35 F.R.D. 317, 329 (1964). The amendment permits a transfer in any case on motion of the defendant on a showing that it would be for the convenience of parties and witnesses, and in the interest of justice. Cf. 28 U.S.C. §1404(a), stating a similar standard for civil cases. See also *Platt v. Minnesota Min. & Mfg. Co*., 376 U.S. 240 (1964). Here, as in subdivision (a), the court may select the district to which the transfer is to be made. The amendment also makes it clear that the court may transfer all or part of the offenses charged in a multi-count indictment or information. Cf. *United States v. Choate*, 276 F.2d 724 (5th Cir. 1960). References to divisions are eliminated in accordance with the amendment to Rule 18.
 
 Subdivision (c).—The reference to division is eliminated in accordance with the amendment to Rule 18.
 
@@ -5092,7 +5092,7 @@ Subsection (b) of section 2 of the bill simply approves the Supreme Court propos
 
 #### Congressional Approval of Proposed 1977 Amendments
 
-Pub. L. 95–78, §2(b), July 30, 1977, 91 Stat. 320, provided that: "The amendments proposed by the Supreme Court \[in its order of Apr. 26, 1977\] to subdivisions (b) and (c) of rule 23 of such Rules of Criminal Procedure \[subd. (b) and (c) of this rule\] are approved."
+Pub. L. 95–78, §2(b), July 30, 1977, 91 Stat. 320, provided that: "The amendments proposed by the Supreme Court \[in its order of Apr. 26, 1977\] to subdivisions (b) and (c) of rule 23 of such Rules of Criminal Procedure \[subds. (b) and (c) of this rule\] are approved."
 
 #### Notes of Advisory Committee on Rules—1983 Amendment
 
@@ -5302,7 +5302,7 @@ U.S.C., Title 28:
 
 U.S.C., Title 46:
 
- Section 193 (Bills of lading to be issued; contents)
+ Section 193 \[see 30703\] (Bills of lading to be issued; contents)
 
 #### Notes of Advisory Committee on Rules—1972 Amendment
 
@@ -5496,7 +5496,7 @@ U.S.C., Title 28:
 
  Section 671 \[now 1733\] (Admissibility of copies of post office records and statement of accounts)
 
- Section 672 \[see 1733\] (Admissibility of copies of records in General Land Office)
+ Section 672 \[former\] (Admissibility of copies of records in General Land Office)
 
  Section 673 \[now 1744\] (Admissibility of copies of records, and so forth, of Patent Office)
 
@@ -5524,9 +5524,9 @@ U.S.C., Title 28:
 
  Section 688 \[now 1739\] (Proofs of records in offices not pertaining to courts)
 
- Section 689 \[now 1742\] (Copies of foreign records relating to land titles)
+ Section 689 \[see former 1742\] (Copies of foreign records relating to land titles)
 
- Section 695a–695h \[now 18 U.S.C. 3491–3496; 22 U.S.C. 1204; 1741\] (Foreign documents)
+ Section 695a–695h \[see 18 U.S.C. 3491–3496; 22 U.S.C. 4222; 28 U.S.C. 1741\] (Foreign documents)
 
   
 
@@ -5550,7 +5550,7 @@ U.S.C., Title 5:
 
 U.S.C., Title 8:
 
- Section 717(b) \[see 1435, 1482\] (Former citizens of United States excepted from certain requirements; citizenship lost by spouse's alienage or loss of United States citizenship, or by entering armed forces of foreign state or acquiring its nationality)
+ Section 717(b) \[see 1435, former 1482\] (Former citizens of United States excepted from certain requirements; citizenship lost by spouse's alienage or loss of United States citizenship, or by entering armed forces of foreign state or acquiring its nationality)
 
  Section 727(g) \[see 1443\] (Administration of naturalization laws; rules and regulations; instruction in citizenship; forms; oaths; depositions; documents in evidence; photographic studio)
 
@@ -5558,7 +5558,7 @@ U.S.C., Title 8:
 
 U.S.C., Title 15:
 
- Section 127 \[see 1057(e)\] (Trade-marks; copies of records as evidence)
+ Section 127 \[see 1057(f)\] (Trade-marks; copies of records as evidence)
 
   
 
@@ -5600,7 +5600,7 @@ U.S.C., Title 43:
 
 U.S.C., Title 44:
 
- Section 300h \[now 2112\] (National Archives; seal; reproduction of archives; fee; admissibility in evidence of reproductions)
+ Section 300h \[see 2116\] (National Archives; seal; reproduction of archives; fee; admissibility in evidence of reproductions)
 
  Section 307 \[now 1507\] (Filing document as constructive notice; publication in Register as presumption of validity; judicial notice; citation)
 
@@ -5614,7 +5614,7 @@ U.S.C., Title 47:
 
 U.S.C., Title 49:
 
- Section 16 \[now 10303\] (Orders of Commission and enforcement thereof; forfeitures—(13) copies of schedules, tariffs, contracts, etc., kept as public records; evidence)
+ Section 16 \[see former 10303\] (Orders of Commission and enforcement thereof; forfeitures—(13) copies of schedules, tariffs, contracts, etc., kept as public records; evidence)
 
 #### Committee Notes on Rules—2002 Amendment
 
@@ -5848,7 +5848,7 @@ Rule 30(d) clarifies what, if anything, counsel must do to preserve a claim of e
 
 #### Notes of Advisory Committee on Rules—1944
 
-*Note to Subdivision* (a). This rule is a restatement of existing law and practice. It does not embody any regulation of sealed verdicts, it being contemplated that this matter would be governed by local practice in the various district courts. The rule does not affect the existing statutes relating to qualified verdicts in cases in which capital punishment may be imposed, 18 U.S.C. 408a \[now 1201\] (Kidnapped persons); sec. 412a \[now 1992\] (Wrecking trains); sec. 567 \[now 1111\] (Verdicts; qualified verdicts).
+*Note to Subdivision* (a). This rule is a restatement of existing law and practice. It does not embody any regulation of sealed verdicts, it being contemplated that this matter would be governed by local practice in the various district courts. The rule does not affect the existing statutes relating to qualified verdicts in cases in which capital punishment may be imposed, 18 U.S.C. 408a \[now 1201\] (Kidnapped persons); sec. 412a \[see former 1992\] (Wrecking trains); sec. 567 \[now 1111\] (Verdicts; qualified verdicts).
 
 *Note to Subdivision* (b). This rule is a restatement of existing law, 18 U.S.C. \[former\] 566 (Verdicts; several joint defendants).
 
@@ -6080,7 +6080,7 @@ Rule 31(b) has been amended to clarify that a jury may return partial verdicts, 
 
 *Note to Subdivision* (d). This rule modifies existing practice by abrogating the ten-day limitation on a motion for leave to withdraw a plea of guilty. See Rule II (4) of the Criminal Appeals Rules of 1933, 292 U.S. 661.
 
-*Note to Subdivision* (e). See 18 U.S.C. 724 *et seq*. \[now 3651 *et seq*.\].
+*Note to Subdivision* (e). See 18 U.S.C. 724 *et seq*. \[see former 3651 et seq.\].
 
 #### Notes of Advisory Committee on Rules—1966 Amendment
 
@@ -6622,7 +6622,7 @@ Amendments of this rule embraced in the order of the United States Supreme Court
 
 *Note to Subdivision* (a)(1). Since *Morrissey v. Brewer*, 408 U.S. 471 (1972), and *Gagnon v. Scarpelli*, 411 U.S. 778 (1973), it is clear that a probationer can no longer be denied due process in reliance on the dictum in *Escoe v. Zerbst*, 295 U.S. 490, 492 (1935), that probation is an "act of grace." See Van Alstyne, The Demise of the Right-Privilege Distinction in Constitutional Law, 81 Harv.L.Rev. 1439 (1968); President's Commission on Law Enforcement and Administration of Justice. Task Force Report: Corrections 86 (1967).
 
-Subdivision (a)(1) requires, consistent with the holding in *Scarpelli*, that a prompt preliminary hearing must be held whenever "a probationer is held in custody on the ground that he has violated a condition of his probation." See 18 U.S.C. §3653 regarding arrest of the probationer with or without a warrant. If there is to be a revocation hearing but there has not been a holding in custody for a probation violation, there need not be a preliminary hearing. It was the fact of such a holding in custody "which prompted the Court to determine that a preliminary as well as a final revocation hearing was required to afford the petitioner due process of law." *United States v. Tucker*, 524 F.2d 77 (5th Cir. 1975). Consequently, a preliminary hearing need not be held if the probationer was at large and was not arrested but was allowed to appear voluntarily, *United States v. Strada*, 503 F.2d 1081 (8th Cir. 1974), or in response to a show cause order which "merely requires his appearance in court," *United States v. Langford*, 369 F.Supp. 1107 (N.D.Ill. 1973); if the probationer was in custody pursuant to a new charge, *Thomas v. United States*, 391 F.Supp. 202 (W.D.Pa. 1975), or pursuant to a final conviction of a subsequent offense, *United States v. Tucker*, supra; or if he was arrested but obtained his release.
+Subdivision (a)(1) requires, consistent with the holding in *Scarpelli*, that a prompt preliminary hearing must be held whenever "a probationer is held in custody on the ground that he has violated a condition of his probation." See 18 U.S.C. \[former\] §3653 regarding arrest of the probationer with or without a warrant. If there is to be a revocation hearing but there has not been a holding in custody for a probation violation, there need not be a preliminary hearing. It was the fact of such a holding in custody "which prompted the Court to determine that a preliminary as well as a final revocation hearing was required to afford the petitioner due process of law." *United States v. Tucker*, 524 F.2d 77 (5th Cir. 1975). Consequently, a preliminary hearing need not be held if the probationer was at large and was not arrested but was allowed to appear voluntarily, *United States v. Strada*, 503 F.2d 1081 (8th Cir. 1974), or in response to a show cause order which "merely requires his appearance in court," *United States v. Langford*, 369 F.Supp. 1107 (N.D.Ill. 1973); if the probationer was in custody pursuant to a new charge, *Thomas v. United States*, 391 F.Supp. 202 (W.D.Pa. 1975), or pursuant to a final conviction of a subsequent offense, *United States v. Tucker*, supra; or if he was arrested but obtained his release.
 
 Subdivision (a)(1)(A), (B) and (C) list the requirements for the preliminary hearing, as developed in *Morrissey* and made applicable to probation revocation cases in *Scarpelli*. Under (A), the probationer is to be given notice of the hearing and its purpose and of the alleged violation of probation. "Although the allegations in a motion to revoke probation need not be as specific as an indictment, they must be sufficient to apprise the probationer of the conditions of his probation which he is alleged to have violated, as well as the dates and events which support the charge." *Kartman v. Parratt*, 397 F.Supp. 531 (D.Nebr. 1975). Under (B), the probationer is permitted to appear and present evidence in his own behalf. And under (C), *upon request* by the probationer, adverse witnesses shall be made available for questioning unless the magistrate determines that the informant would be subjected to risk or harm if his identity were disclosed.
 
@@ -6648,9 +6648,9 @@ Revocation of probation is proper if the court finds a violation of the conditio
 
 See American Bar Association, Standards Relating to Probation §5.1 (Approved Draft, 1970).
 
-If probation is revoked, the probationer may be required to serve the sentence originally imposed, or any lesser sentence, and if imposition of sentence was suspended he may receive any sentence which might have been imposed. 18 U.S.C. §3653. When a split sentence is imposed under 18 U.S.C. §3651 and probation is subsequently revoked, the probationer is entitled to credit for the time served in jail but not for the time he was on probation. *Thomas v. United States*, 327 F.2d 795 (10th Cir.), cert, denied 377 U.S. 1000 (1964); *Schley v. Peyton*, 280 F.Supp. 307 (W.D.Va. 1968).
+If probation is revoked, the probationer may be required to serve the sentence originally imposed, or any lesser sentence, and if imposition of sentence was suspended he may receive any sentence which might have been imposed. 18 U.S.C. \[former\] §3653. When a split sentence is imposed under 18 U.S.C. \[former\] §3651 and probation is subsequently revoked, the probationer is entitled to credit for the time served in jail but not for the time he was on probation. *Thomas v. United States*, 327 F.2d 795 (10th Cir.), cert, denied 377 U.S. 1000 (1964); *Schley v. Peyton*, 280 F.Supp. 307 (W.D.Va. 1968).
 
-*Note to Subdivision* (b). Subdivision (b) concerns proceedings on modification of probation (as provided for in 18 U.S.C. §3651). The probationer should have the right to apply to the sentencing court for a clarification or change of conditions. American Bar Association, Standards Relating to Probation §3.1(c) (Approved Draft, 1970). This avenue is important for two reasons: (1) the probationer should be able to obtain resolution of a dispute over an ambiguous term or the meaning of a condition without first having to violate it; and (2) in cases of neglect, overwork, or simply unreasonableness on the part of the probation officer, the probationer should have recourse to the sentencing court when a condition needs clarification or modification.
+*Note to Subdivision* (b). Subdivision (b) concerns proceedings on modification of probation (as provided for in 18 U.S.C. \[former\] §3651). The probationer should have the right to apply to the sentencing court for a clarification or change of conditions. American Bar Association, Standards Relating to Probation §3.1(c) (Approved Draft, 1970). This avenue is important for two reasons: (1) the probationer should be able to obtain resolution of a dispute over an ambiguous term or the meaning of a condition without first having to violate it; and (2) in cases of neglect, overwork, or simply unreasonableness on the part of the probation officer, the probationer should have recourse to the sentencing court when a condition needs clarification or modification.
 
 Probation conditions should be subject to modification, for the sentencing court must be able to respond to changes in the probationer's circumstances as well as new ideas and methods of rehabilitation. See generally ABA Standards, supra, §3.3. The Sentencing court is given the authority to shorten the term or end probation early upon its own motion without a hearing. And while the modification of probation is a part of the sentencing procedure, so that the probationer is ordinarily entitled to a hearing and presence of counsel, a modification favorable to the probationer may be accomplished without a hearing in the presence of defendant and counsel. *United States v. Bailey*, 343 F.Supp. 76 (W.D.Mo. 1971).
 
@@ -7114,13 +7114,13 @@ The second sentence has been amended to increase the time within which the court
 
 The other amendments to the second sentence clarify ambiguities in the timing provisions. In those cases in which the mandate of the court of appeals is issued prior to action by the Supreme Court on the defendant's petition for certiorari, the rule created problems in three situations: (1) If the writ were denied, the last phrase of the rule left obscure the point at which the period began to run because orders of the Supreme Court denying applications for writs are not sent to the district courts. See *Johnson v. United States*, 235 F.2d 459 (5th Cir. 1956). (2) If the writ were granted but later dismissed as improvidently granted, the rule did not provide any time period for reduction of sentence. (3) If the writ were granted and later the Court affirmed a judgment of the court of appeals which had affirmed the conviction, the rule did not provide any time period for reduction of sentence. The amendment makes it clear that in each of these three situations the 120-period commences to run with the entry of the order or judgment of the Supreme Court.
 
-The third sentence has been added to make it clear that the time limitation imposed by Rule 35 upon the reduction of a sentence does not apply to such reduction upon the revocation of probation as authorized by 18 U.S.C. §3653.
+The third sentence has been added to make it clear that the time limitation imposed by Rule 35 upon the reduction of a sentence does not apply to such reduction upon the revocation of probation as authorized by 18 U.S.C. \[former\] §3653.
 
 #### Notes of Advisory Committee on Rules—1979 Amendment
 
 Rule 35 is amended in order to make it clear that a judge may, in his discretion, reduce a sentence of incarceration to probation. To the extent that this permits the judge to grant probation to a defendant who has already commenced service of a term of imprisonment, it represents a change in the law. See *United States v. Murray*, 275 U.S. 347 (1928) (Probation Act construed not to give power to district court to grant probation to convict after beginning of service of sentence, even in the same term of court); *Affronti v. United States*, 350 U.S. 79 (1955) (Probation Act construed to mean that after a sentence of consecutive terms on multiple counts of an indictment has been imposed and service of sentence for the first such term has commenced, the district court may not suspend sentence and grant probation as to the remaining term or terms). In construing the statute in *Murray* and *Affronti*, the Court concluded Congress could not have intended to make the probation provisions applicable during the entire period of incarceration (the only other conceivable interpretation of the statute), for this would result in undue duplication of the three methods of mitigating a sentence—probation, pardon and parole—and would impose upon district judges the added burden of responding to probation applications from prisoners throughout the service of their terms of imprisonment. Those concerns do not apply to the instant provisions, for the reduction may occur only within the time specified in subdivision (b). This change gives "meaningful effect" to the motion-to-reduce remedy by allowing the court "to consider all alternatives that were available at the time of imposition of the original sentence." *United States v. Golphin*, 362 F.Supp. 698 (W.D.Pa. 1973).
 
-Should the reduction to a sentence of probation occur after the defendant has been incarcerated more than six months, this would put into issue the applicability of 18 U.S.C. §3651, which provides that initially the court "may impose a sentence in excess of six months and provide that the defendant be confined in a jail-type institution for a period not exceeding six months and that the execution of the remainder of the sentence be suspended and the defendant placed on probation for such period and upon such terms and conditions as the court deems best."
+Should the reduction to a sentence of probation occur after the defendant has been incarcerated more than six months, this would put into issue the applicability of 18 U.S.C. §3651 \[(1976)\], which provides that initially the court "may impose a sentence in excess of six months and provide that the defendant be confined in a jail-type institution for a period not exceeding six months and that the execution of the remainder of the sentence be suspended and the defendant placed on probation for such period and upon such terms and conditions as the court deems best."
 
 #### Notes of Advisory Committee on Rules—1983 Amendment
 
@@ -7344,7 +7344,7 @@ This rule substantially continues existing law except that it provides that in c
 
 A defendant sentenced to a term of imprisonment is committed to the custody of the Attorney General who is empowered by statute to designate the place of his confinement. 18 U.S.C. §4082. The sentencing court has no authority to designate the place of imprisonment. See, e.g., *Hogue v. United States*, 287 F.2d 99 (5th Cir. 1961), cert. den., 368 U.S. 932 (1961).
 
-When the place of imprisonment has been designated, and notwithstanding the pendency of an appeal, the defendant is usually transferred from the place of his temporary detention within the district of his conviction unless he has elected "not to commence service of the sentence." This transfer can be avoided only if the defendant makes the election, a course sometimes advised by counsel who may deem it necessary to consult with the defendant from time to time before the appeal is finally perfected. However, the election deprives the defendant of a right to claim credit for the time spent in jail pending the disposition of the appeal because 18 U.S.C. §3568 provides that the sentence of imprisonment commences, to run only from "the date on which such person is received at the penitentiary, reformatory, or jail for service of said sentence." See, e.g., *Shelton v. United States*, 234 F.2d 132 (5th Cir. 1956).
+When the place of imprisonment has been designated, and notwithstanding the pendency of an appeal, the defendant is usually transferred from the place of his temporary detention within the district of his conviction unless he has elected "not to commence service of the sentence." This transfer can be avoided only if the defendant makes the election, a course sometimes advised by counsel who may deem it necessary to consult with the defendant from time to time before the appeal is finally perfected. However, the election deprives the defendant of a right to claim credit for the time spent in jail pending the disposition of the appeal because 18 U.S.C. §3568 \[(1964)\] provides that the sentence of imprisonment commences, to run only from "the date on which such person is received at the penitentiary, reformatory, or jail for service of said sentence." See, e.g., *Shelton v. United States*, 234 F.2d 132 (5th Cir. 1956).
 
 The amendment eliminates the procedure for election not to commence service of sentence. In lieu thereof it is provided that the court may recommend to the Attorney General that the defendant be retained at or transferred to a place of confinement near the place of trial or the place where the appeal is to be heard for the period reasonably necessary to permit the defendant to assist in the preparation of his appeal to the court of appeals. Under this procedure the defendant would no longer be required to serve dead time in a local jail in order to assist in preparation of his appeal.
 
@@ -7354,19 +7354,19 @@ Subdivisions (b) and (c) of this rule relate to appeals, the provisions of which
 
 #### Notes of Advisory Committee on Rules—1972 Amendment
 
-Rule 38(a)(2) is amended to reflect rule 9(b), Federal Rules of Appellate Procedure. The criteria for the stay of a sentence of imprisonment pending disposition of an appeal are those specified in rule 9(c) which incorporates 18 U.S.C. §3148 by reference.
+Rule 38(a)(2) is amended to reflect rule 9(b), Federal Rules of Appellate Procedure. The criteria for the stay of a sentence of imprisonment pending disposition of an appeal are those specified in rule 9(c) which incorporates 18 U.S.C. \[former\] §3148 by reference.
 
 The last sentence of subdivision (a)(2) is retained although easy access to the defendant has become less important with the passage of the Criminal Justice Act which provides for compensation to the attorney to travel to the place at which the defendant is confined. Whether the court will recommend confinement near the place of trial or place where the appeal is to be heard will depend upon a balancing of convenience against the possible advantage of confinement at a more remote correctional institution where facilities and program may be more adequate.
 
-The amendment to subdivision (a)(4) gives the court discretion in deciding whether to stay the order placing the defendant on probation. It also makes mandatory the fixing of conditions for the stay if a stay is granted. The court cannot release the defendant pending appeal without either placing him on probation or fixing the conditions for the stay under the Bail Reform Act, 18 U.S.C. §3148.
+The amendment to subdivision (a)(4) gives the court discretion in deciding whether to stay the order placing the defendant on probation. It also makes mandatory the fixing of conditions for the stay if a stay is granted. The court cannot release the defendant pending appeal without either placing him on probation or fixing the conditions for the stay under the Bail Reform Act, 18 U.S.C. \[former\] §3148.
 
-Former rule 38(a)(4) makes mandatory a stay of an order placing the defendant on probation whenever an appeal is noted. The court may or may not impose conditions upon the stay. See rule 46, Federal Rules of Criminal Procedure; and the Bail Reform Act, 18 U.S.C. §3148.
+Former rule 38(a)(4) makes mandatory a stay of an order placing the defendant on probation whenever an appeal is noted. The court may or may not impose conditions upon the stay. See rule 46, Federal Rules of Criminal Procedure; and the Bail Reform Act, 18 U.S.C. \[former\] §3148.
 
 Having the defendant on probation during the period of appeal may serve the objectives of both community protection and defendant rehabilitation. In current practice, the order of probation is sometimes stayed for an appeal period as long as two years. In a situation where the appeal is unsuccessful, the defendant must start under probation supervision after so long a time that the conditions of probation imposed at the time of initial sentencing may no longer appropriately relate either to the defendant's need for rehabilitation or to the community's need for protection. The purposes of probation are more likely to be served if the judge can exercise discretion, in appropriate cases, to require the defendant to be under probation during the period of appeal. The American Bar Association Project on Standards for Criminal Justice takes the position that prompt imposition of sentence aids in the rehabilitation of defendants, ABA Standards Relating to Pleas of Guilty §1.8(a)(i), Commentary p. 40 (Approved Draft, 1968). See also Sutherland and Cressey, Principles of Criminology 336 (1966).
 
-Under 18 U.S.C. §3148 the court now has discretion to impose conditions of release which are necessary to protect the community against danger from the defendant. This is in contrast to release prior to conviction, where the only appropriate criterion is insuring the appearance of the defendant. 18 U.S.C. §3146. Because the court may impose conditions of release to insure community protection, it seems appropriate to enable the court to do so by ordering the defendant to submit to probation supervision during the period of appeal, thus giving the probation service responsibility for supervision.
+Under 18 U.S.C. \[former\] §3148 the court now has discretion to impose conditions of release which are necessary to protect the community against danger from the defendant. This is in contrast to release prior to conviction, where the only appropriate criterion is insuring the appearance of the defendant. 18 U.S.C. \[former\] §3146. Because the court may impose conditions of release to insure community protection, it seems appropriate to enable the court to do so by ordering the defendant to submit to probation supervision during the period of appeal, thus giving the probation service responsibility for supervision.
 
-A major difference between probation and release under 18 U.S.C. §3148 exists if the defendant violates the conditions imposed upon his release. In the event that release is under 18 U.S.C. §3148, the violation of the condition may result in his being placed in custody pending the decision on appeal. If the appeal were unsuccessful, the order placing him on probation presumably would become effective at that time, and he would then be released under probation supervision. If the defendant were placed on probation, his violation of a condition could result in the imposition of a jail or prison sentence. If the appeal were unsuccessful, the jail or prison sentence would continue to be served.
+A major difference between probation and release under 18 U.S.C. \[former\] §3148 exists if the defendant violates the conditions imposed upon his release. In the event that release is under 18 U.S.C. \[former\] §3148, the violation of the condition may result in his being placed in custody pending the decision on appeal. If the appeal were unsuccessful, the order placing him on probation presumably would become effective at that time, and he would then be released under probation supervision. If the defendant were placed on probation, his violation of a condition could result in the imposition of a jail or prison sentence. If the appeal were unsuccessful, the jail or prison sentence would continue to be served.
 
 #### Notes of Advisory Committee on Rules—1987 Amendment
 
@@ -7436,7 +7436,7 @@ Amendment by Pub. L. 98–473 effective Nov. 1, 1987, and applicable only to off
 
 #### Notes of Advisory Committee on Rules—1944
 
-1\. This rule modifies and revamps existing procedure. The present practice has developed as a result of a series of judicial decisions, the only statute dealing with the subject being exceedingly general, 18 U.S.C. 591 \[now 3041\] (Arrest and removal for trial):
+1\. This rule modifies and revamps existing procedure. The present practice has developed as a result of a series of judicial decisions, the only statute dealing with the subject being exceedingly general, 18 U.S.C. 591 \[(1940), see 18 U.S.C. 3041\] (Arrest and removal for trial):
 
 For any crime or offense against the United States, the offender may, by any justice or judge of the United States, or by any United States commissioner, or by any chancellor, judge of a supreme or superior court, chief or first judge of common pleas, mayor of a city, justice of the peace, or other magistrate, of any State where he may be found, and agreeably to the usual mode of process against offenders in such State, and at the expense of the United States, be arrested and imprisoned, or bailed, as the case may be, for trial before such court of the United States as by law has cognizance of the offense. \* \* \* Where any offender or witness is committed in any district other than that where the offense is to be tried, it shall be the duty of the judge of the district where such offender or witness is imprisoned, seasonably to issue, and of the marshal to execute, a warrant for his removal to the district where the trial is to be had.
 
@@ -7464,13 +7464,13 @@ Subdivision (a) is amended to make clear that the person shall be taken before t
 
 Subdivision (b)(2) is amended to provide that the federal magistrate should inform the defendant of the fact that he may avail himself of the provisions of rule 20 if applicable in the particular case. However, the failure to so notify the defendant should not invalidate the removal procedure. Although the old rule is silent in this respect, it is current practice to so notify the defendant, and it seems desirable, therefore, to make this explicit in the rule itself.
 
-The requirement that an order of removal under subdivision (b)(3) can be made only by a judge of the United States and cannot be made by a United States magistrate is retained. However, subdivision (b)(5) authorizes issuance of the warrant of removal by a United States magistrate if he is authorized to do so by a rule of district court adopted in accordance with 28 U.S.C. §636(b):
+The requirement that an order of removal under subdivision (b)(3) can be made only by a judge of the United States and cannot be made by a United States magistrate is retained. However, subdivision (b)(5) authorizes issuance of the warrant of removal by a United States magistrate if he is authorized to do so by a rule of district court adopted in accordance with 28 U.S.C. §636(b) \[(1970)\]:
 
 Any district court \* \* \* by the concurrence of a majority of all the judges \* \* \* may establish rules pursuant to which any full-time United States magistrate \* \* \* may be assigned \* \* \* such additional duties as are not inconsistent with the Constitution and laws of the United States.
 
-Although former rule 40(b)(3) required that the warrant of removal be issued by a judge of the United States, there appears no constitutional or statutory prohibition against conferring this authority upon a United States magistrate in accordance with 28 U.S.C. §636(b). The background history is dealt with in detail in 8A J. Moore, Federal Practice  40.01 and 40.02 (2d ed. Cipes 1970, Supp. 1971).
+Although former rule 40(b)(3) required that the warrant of removal be issued by a judge of the United States, there appears no constitutional or statutory prohibition against conferring this authority upon a United States magistrate in accordance with 28 U.S.C. §636(b) \[(1970)\]. The background history is dealt with in detail in 8A J. Moore, Federal Practice  40.01 and 40.02 (2d ed. Cipes 1970, Supp. 1971).
 
-Subdivision (b)(4) makes explicit reference to provisions of the Bail Reform Act of 1966 by incorporating a cross-reference to 18 U.S.C. §3146 and §3148.
+Subdivision (b)(4) makes explicit reference to provisions of the Bail Reform Act of 1966 by incorporating a cross-reference to 18 U.S.C. \[former\] §3146 and \[former\] §3148.
 
 #### Notes of Advisory Committee on Rules—1979 Amendment
 
@@ -7488,7 +7488,7 @@ New subdivision (a) continues the present requirement that if the arrest was wit
 
 *Note to Subdivision* (c). New subdivision (c) follows existing subdivision (b)(4) as to transmittal of papers.
 
-*Note to Subdivision* (d). New subdivision (d) has no counterpart in the present rule. It provides a procedure for dealing with the situation in which a probationer is arrested in a district other than the district of supervision, consistent with 18 U.S.C. §3653, which provides in part:
+*Note to Subdivision* (d). New subdivision (d) has no counterpart in the present rule. It provides a procedure for dealing with the situation in which a probationer is arrested in a district other than the district of supervision, consistent with 18 U.S.C. §3653 \[(1976)\], which provides in part:
 
 If the probationer shall be arrested in any district other than that in which he was last supervised, he shall be returned to the district in which the warrant was issued, unless jurisdiction over him is transferred as above provided to the district in which he is found, and in that case he shall be detained pending further proceedings in such district.
 
@@ -7514,7 +7514,7 @@ Bandy's arrest in New York was pursuant to a bench warrant issued by the United 
 
 Consistent with Bandy, new subdivision (e) does not afford such a person all of the protections provided for in subdivision (a). However, subdivision (e) does ensure that a determination of identity will be made before that person is held to answer in the district of arrest.
 
-*Note to Subdivision* (f). Although the matter of bail is dealt with in rule 46 and 18 U.S.C. §§3146 and 3148, new subdivision (f) has been added to clarify the situation in which a defendant makes his initial appearance before the United States magistrate and there is a warrant issued by a judge of a different district who has endorsed the amount of bail on the warrant. The present ambiguity of the rule is creating practical administrative problems. If the United States magistrate concludes that a lower bail is appropriate, the judge who fixed the original bail on the warrant has, on occasion, expressed the view that this is inappropriate conduct by the magistrate. If the magistrate, in such circumstances, does not reduce the bail to the amount supported by all of the facts, there may be caused unnecessary inconvenience to the defendant, and there would arguably be a violation of at least the spirit of the Bail Reform Act and the Eighth Amendment.
+*Note to Subdivision* (f). Although the matter of bail is dealt with in rule 46 and 18 U.S.C. \[former\] §§3146 and 3148, new subdivision (f) has been added to clarify the situation in which a defendant makes his initial appearance before the United States magistrate and there is a warrant issued by a judge of a different district who has endorsed the amount of bail on the warrant. The present ambiguity of the rule is creating practical administrative problems. If the United States magistrate concludes that a lower bail is appropriate, the judge who fixed the original bail on the warrant has, on occasion, expressed the view that this is inappropriate conduct by the magistrate. If the magistrate, in such circumstances, does not reduce the bail to the amount supported by all of the facts, there may be caused unnecessary inconvenience to the defendant, and there would arguably be a violation of at least the spirit of the Bail Reform Act and the Eighth Amendment.
 
 The Procedures Manual for United States Magistrates, issued under the authority of the Judicial Conference of the United States, provides in ch. 6, pp. 8–9:
 
@@ -7532,7 +7532,7 @@ Pub. L. 96–42, §1(2), July 31, 1979, 93 Stat. 326 \[set out as a note under s
 
 The amendment to 40(d) is intended to make it clear that the transfer provisions therein apply whenever the arrest occurs other than in the district of probation jurisdiction, and that if probable cause is found at a preliminary hearing held pursuant to Rule 40(d)(2) the probationer should be held to answer in the district having probation jurisdiction.
 
-On occasion, the district of probation supervision and the district of probation jurisdiction will not be the same. See, e.g., *Cupp v. Byington*, 179 F.Supp. 669 (S.D.Ind. 1960) (supervision in Southern District of Indiana, but jurisdiction never transferred from District of Nevada). In such circumstances, it is the district having *jurisdiction* which may revoke the defendant's probation. *Cupp v. Byington*, supra; 18 U.S.C. §3653 ("the court for the district having jurisdiction over him \* \* \* may revoke the probation"; if probationer goes to another district, "jurisdiction over him may be transferred," and only then does "the court for the district to which jurisdiction is transferred \* \* \* have all the power with respect to the probationer that was previously possessed by the court for the district from which the transfer was made"). That being the case, that is the jurisdiction to which the probationer should be transferred as provided in Rule 40(d).
+On occasion, the district of probation supervision and the district of probation jurisdiction will not be the same. See, e.g., *Cupp v. Byington*, 179 F.Supp. 669 (S.D.Ind. 1960) (supervision in Southern District of Indiana, but jurisdiction never transferred from District of Nevada). In such circumstances, it is the district having *jurisdiction* which may revoke the defendant's probation. *Cupp v. Byington*, supra; 18 U.S.C. §3653 \[(1982)\] ("the court for the district having jurisdiction over him \* \* \* may revoke the probation"; if probationer goes to another district, "jurisdiction over him may be transferred," and only then does "the court for the district to which jurisdiction is transferred \* \* \* have all the power with respect to the probationer that was previously possessed by the court for the district from which the transfer was made"). That being the case, that is the jurisdiction to which the probationer should be transferred as provided in Rule 40(d).
 
 Because Rule 32.1 has now taken effect, a cross-reference to those provisions has been made in subdivision (d)(1) so as to clarify how the magistrate is to proceed if jurisdiction is transferred.
 
@@ -7746,15 +7746,15 @@ This rule is a codification of existing law and practice.
 
 *Note to Subdivision* (b). This rule is a restatement of existing law, 18 U.S.C. \[former\] 612; *Conyer v. United States*, 80 F.2d 292 (C.C.A. 6th). This provision does not supersede or repeal special statutory provisions permitting the issuance of search warrants in specific circumstances. See Subdivision (g) and Note thereto, *infra.*
 
-*Note to Subdivision* (c). This rule is a restatement of existing law, 18 U.S.C. \[former\] 613–616, 620; *Dumbra v. United States*, 268 U.S. 435.
+*Note to Subdivision* (c). This rule is a restatement of existing law, 18 U.S.C. \[former\] 613–616, \[former\] 620; *Dumbra v. United States*, 268 U.S. 435.
 
 *Note to Subdivision* (d). This rule is a restatement of existing law, 18 U.S.C. \[former\] 621–624.
 
-*Note to Subdivision* (e). This rule is a restatement of existing law and practice, with the exception hereafter noted, 18 U.S.C. \[former\] 625, 626; *Weeks v. United States*, 232 U.S. 383; *Silverthorne Lumber Co. v. United States*, 251 U.S. 385; *Agello v. United States*, 269 U.S. 20; *Gouled v. United States*, 255 U.S. 298. While under existing law a motion to suppress evidence or to compel return of property obtained by an illegal search and seizure may be made either before a commissioner subject to review by the court on motion, or before the court, the rule provides that such motion may be made only before the court. The purpose is to prevent multiplication of proceedings and to bring the matter before the court in the first instance. While during the life of the Eighteenth Amendment when such motions were numerous it was a common practice in some districts for commissioners to hear such motions, the prevailing practice at the present time is to make such motions before the district court. This practice, which is deemed to be preferable, is embodied in the rule.
+*Note to Subdivision* (e). This rule is a restatement of existing law and practice, with the exception hereafter noted, 18 U.S.C. \[former\] 625, \[former\] 626; *Weeks v. United States*, 232 U.S. 383; *Silverthorne Lumber Co. v. United States*, 251 U.S. 385; *Agello v. United States*, 269 U.S. 20; *Gouled v. United States*, 255 U.S. 298. While under existing law a motion to suppress evidence or to compel return of property obtained by an illegal search and seizure may be made either before a commissioner subject to review by the court on motion, or before the court, the rule provides that such motion may be made only before the court. The purpose is to prevent multiplication of proceedings and to bring the matter before the court in the first instance. While during the life of the Eighteenth Amendment when such motions were numerous it was a common practice in some districts for commissioners to hear such motions, the prevailing practice at the present time is to make such motions before the district court. This practice, which is deemed to be preferable, is embodied in the rule.
 
 *Note to Subdivision* (f). This rule is a restatement of existing law, 18 U.S.C. \[former\] 627; Cf. Rule 5(c) (last sentence).
 
-*Note to Subdivision* (g). While Rule 41 supersedes the general provisions of 18 U.S.C. 611–626 \[now 18 U.S.C. 3105, 3109\], relating to search warrants, it does not supersede, but preserves, all other statutory provisions permitting searches and seizures in specific situations. Among such statutes are the following:
+*Note to Subdivision* (g). While Rule 41 supersedes the general provisions of 18 U.S.C. 611–626 \[see 18 U.S.C. 3105, 3109\], relating to search warrants, it does not supersede, but preserves, all other statutory provisions permitting searches and seizures in specific situations. Among such statutes are the following:
 
   
 
@@ -7776,7 +7776,7 @@ U.S.C., Title 26:
 
   
 
-For statutes which incorporate by reference 18 U.S.C. \[former\] 98, and therefore are now controlled by this rule, see, e. g.:
+For statutes which incorporate by reference 18 U.S.C. 98 \[now 11, 957\], and therefore are now controlled by this rule, see, e. g.:
 
   
 
@@ -7952,7 +7952,7 @@ Some state search warrant provisions also provide for issuance of a warrant in t
 
 It may be that very often exigent circumstances, especially the need to act very promptly to protect the life or well-being of the kidnap victim, would justify an immediate warrantless search for the person restrained. But this is not inevitably the case. Moreover, as noted above there should be available a process whereby law enforcement agents may acquire in advance a judicial determination that they have cause to intrude upon the privacy of those at the place where the victim is thought to be located.
 
-That part of the amendment which authorizes issuance of a search warrant to search for a person to be arrested is also consistent with ALI Model Code of Pre-Arraignment Procedure §SS 210.3(1)(d) (Proposed Official Draft, 1975), which states that a search warrant may issue to search for "an individual for whose arrest there is reasonable cause." As noted in the Commentary thereto, id. at p. 507, it is desirable that there be "explicit statutory authority for such searches." Some state search warrant provisions also expressly provide for the issuance of a search warrant to search for a person to be arrested. See, e. g., Del.Code Ann. tit. 11, §2305 ("Persons for whom a warrant of arrest has been issued"). This part of the amendment to Rule 41 covers a defendant or witness for whom an arrest warrant has theretofore issued, or a defendant for whom grounds to arrest exist even though no arrest warrant has theretofore issued. It also covers the arrest of a deportable alien under 8 U.S.C. §1252, whose presence at a certain place might be important evidence of criminal conduct by another person, such as the harboring of undocumented aliens under 8 U.S.C. §1324(a)(3).
+That part of the amendment which authorizes issuance of a search warrant to search for a person to be arrested is also consistent with ALI Model Code of Pre-Arraignment Procedure §SS 210.3(1)(d) (Proposed Official Draft, 1975), which states that a search warrant may issue to search for "an individual for whose arrest there is reasonable cause." As noted in the Commentary thereto, id. at p. 507, it is desirable that there be "explicit statutory authority for such searches." Some state search warrant provisions also expressly provide for the issuance of a search warrant to search for a person to be arrested. See, e. g., Del.Code Ann. tit. 11, §2305 ("Persons for whom a warrant of arrest has been issued"). This part of the amendment to Rule 41 covers a defendant or witness for whom an arrest warrant has theretofore issued, or a defendant for whom grounds to arrest exist even though no arrest warrant has theretofore issued. It also covers the arrest of a deportable alien under 8 U.S.C. §1252, whose presence at a certain place might be important evidence of criminal conduct by another person, such as the harboring of undocumented aliens under 8 U.S.C. §1324(a)(3) \[see 1324(a)(1)(A)(iii)\].
 
 In *United States v. Watson*, 423 U.S. 411, 96 S.Ct. 820, 46 L.Ed.2d 598 (1976), the Court once again alluded to "the still unsettled question" of whether, absent exigent circumstances, officers acting without a warrant may enter private premises to make an arrest. Some courts have indicated that probable cause alone ordinarily is sufficient to support an arrest entry. *United States v. Fernandez*, 480 F.2d 726 (2d Cir. 1973); *United States ex rel. Wright v. Woods*, 432 F.2d 1143 (7th Cir. 1970). There exists some authority, however, that except under exigent circumstances a warrant is required to enter the defendant's own premises, *United States v. Calhoun*, 542 F.2d 1094 (9th Cir. 1976); *United States v. Lindsay*, 506 F.2d 166 (D.C.Cir. 1974); *Dorman v. United States*, 435 F.2d 385 (D.C.Cir. 1970), or, at least, to enter the premises of a third party, *Virgin Islands v. Gereau*, 502 F.2d 914 (3d Cir. 1974); *Fisher v. Volz*, 496 F.2d 333 (3d Cir. 1974); *Huotari v. Vanderport*, 380 F.Supp. 645 (D.Minn. 1974).
 
@@ -8160,17 +8160,17 @@ Amendment by Order of April 9, 1956, became effective 90 days thereafter.
 
 #### Notes of Advisory Committee on Rules—1944
 
-The rule-making power of the Supreme Court with respect to criminal proceedings was extended to proceedings to punish for criminal contempt of court by the Act of November 21, 1941 (55 Stat. 779), 18 U.S.C. 689.
+The rule-making power of the Supreme Court with respect to criminal proceedings was extended to proceedings to punish for criminal contempt of court by the Act of November 21, 1941 (55 Stat. 779), 18 U.S.C. \[former\] 689.
 
 *Note to Subdivision* (a). This rule is substantially a restatement of existing law, *Ex parte Terry*, 128 U.S. 289; *Cooke v. United States*, 267 U.S. 517, 534.
 
-*Note to Subdivision* (b). 1. This rule is substantially a restatement of the procedure prescribed in 28 U.S.C. 386–390 \[now 18 U.S.C. 401, 402, 3285, 3691\], and 29 U.S.C. 111 \[now 18 U.S.C. 3692\].
+*Note to Subdivision* (b). 1. This rule is substantially a restatement of the procedure prescribed in 28 U.S.C. 386–390 \[see 18 U.S.C. 402, 3285, 3691\], and 29 U.S.C. 111 \[now 18 U.S.C. 3692\].
 
 2\. The requirement in the second sentence that the notice shall describe the criminal contempt as such is intended to obviate the frequent confusion between criminal and civil contempt proceedings and follows the suggestion made in *McCann v. New York Stock Exchange*, 80 F.2d 211 (C.C.A. 2d). See also *Nye v. United States*, 313 U.S. 33, 42–43.
 
-3\. The fourth sentence relating to trial by jury preserves the right to a trial by jury in those contempt cases in which it is granted by statute, but does not enlarge the right or extend it to additional cases. The respondent in a contempt proceeding may demand a trial by jury as of right if the proceeding is brought under the Act of March 23, 1932, c. 90, sec. 11, 47 Stat. 72, 29 U.S.C. 111 \[now 18 U.S.C. 3692\] (Norris-La Guardia Act), or the Act of October 15, 1914, c. 323, sec. 22, 38 Stat. 738, 28 U.S.C. 387 (Clayton Act).
+3\. The fourth sentence relating to trial by jury preserves the right to a trial by jury in those contempt cases in which it is granted by statute, but does not enlarge the right or extend it to additional cases. The respondent in a contempt proceeding may demand a trial by jury as of right if the proceeding is brought under the Act of March 23, 1932, c. 90, sec. 11, 47 Stat. 72, 29 U.S.C. 111 \[now 18 U.S.C. 3692\] (Norris-La Guardia Act), or the Act of October 15, 1914, c. 323, sec. 22, 38 Stat. 738, 28 U.S.C. 387 \[see 18 U.S.C. 402\] (Clayton Act).
 
-4\. The provision in the sixth sentence disqualifying the judge affected by the contempt if the charge involves disrespect to or criticism of him, is based, in part, on 29 U.S.C. former §112 (Contempts; demand for retirement of judge sitting in proceeding) and the observations of Chief Justice Taft in *Cooke v. United States*, 267 U.S. 517, 539, 45 S.Ct. 390, 69 L.Ed. 767.
+4\. The provision in the sixth sentence disqualifying the judge affected by the contempt if the charge involves disrespect to or criticism of him, is based, in part, on 29 U.S.C. \[former\] §112 (Contempts; demand for retirement of judge sitting in proceeding) and the observations of Chief Justice Taft in *Cooke v. United States*, 267 U.S. 517, 539, 45 S.Ct. 390, 69 L.Ed. 767.
 
 5\. Among the statutory provisions defining criminal contempts are the following:
 
@@ -8200,7 +8200,7 @@ U.S.C., Title 15:
 
  Section 78u (Regulation of Securities Exchanges; investigation; injunctions and prosecution of offenses)
 
- Section 100 (Trademarks; destruction of infringing labels; service of injunction, and proceedings for enforcement)
+ Section 100 \[see 1116, 1118\] (Trademarks; destruction of infringing labels; service of injunction, and proceedings for enforcement)
 
  Section 155 (China Trade Act; authority of registrar in obtaining evidence)
 
@@ -8220,7 +8220,7 @@ U.S.C., Title 19:
 
 U.S.C., Title 22:
 
- Section 270f (International Bureaus; Congresses, etc.; perjury; contempts; penalties)
+ Section 270f \[former\] (International Bureaus; Congresses, etc.; perjury; contempts; penalties)
 
   
 
@@ -8240,7 +8240,7 @@ U.S.C., Title 28:
 
  Section 390a \[now 18 U.S.C. 402\] ("Person" or "persons" defined)
 
- Section 648 \[now Rule 17(f), FRCP, 18 U.S.C., Appendix; Rule 45(d), FRCP, 28 U.S.C., Appendix\] (Depositions under dedimus potestatem; witnesses; when required to attend)
+ Section 648 \[former\] (Depositions under dedimus potestatem; witnesses; when required to attend)
 
  Section 703 \[former\] (Punishment of witness for contempt)
 
@@ -8290,19 +8290,19 @@ U.S.C., Title 47:
 
 U.S.C., Title 48:
 
- Section 1345a (Canal Zone; general jurisdiction of district court; issue of process at request of officials; witnesses; contempt)
+ Section 1345a \[former\] (Canal Zone; general jurisdiction of district court; issue of process at request of officials; witnesses; contempt)
 
   
 
 U.S.C., Title 49:
 
- Section 12 \[see 721(c)(2), 13301(c)(2)\] (Interstate Commerce Commission; authority and duties of commission; witnesses; depositions—(3) Compelling attendance and testimony of witnesses, etc.)
+ Section 12 \[see 1321(c)(2), 13301(c)(2)\] (Interstate Commerce Commission; authority and duties of commission; witnesses; depositions—(3) Compelling attendance and testimony of witnesses, etc.)
 
   
 
 Federal Rules of Civil Procedure:
 
- Rule 45 (Subpoena) subdivision (f) (Contempt)
+ Rule 45 (Subpoena) subdivision (f) \[now (g)\] (Contempt)
 
 #### Notes of Advisory Committee on Rules—1987 Amendment
 
@@ -8472,11 +8472,11 @@ Amendments of this rule embraced in the order of the United States Supreme Court
 
 "In all criminal prosecutions, the accused shall enjoy the right \* \* \* to have the Assistance of Counsel for his defense."
 
-28 U.S.C. former §394 (now §1654) provides:
+28 U.S.C. §394 \[(1940), see 28 U.S.C. 1654\] provides:
 
 "In all the courts of the United States the parties may plead and manage their own causes personally, or by the assistance of such counsel or attorneys at law as, by the rules of the said courts, respectively, are permitted to manage and conduct causes therein."
 
-18 U.S.C. former §563 (now §3005), which is derived from the act of April 30, 1790 (1 Stat. 118), provides:
+18 U.S.C. §563 \[(1940), see 18 U.S.C. 3005\], which is derived from the act of April 30, 1790 (1 Stat. 118), provides:
 
 "Every person who is indicted of treason or other capital crime, shall be allowed to make his full defense by counsel learned in the law; and the court before which he is tried or some judge thereof, shall immediately, upon his request, assign to him such counsel, not exceeding two, as he may desire, and they shall have free access to him at all seasonable hours."
 
@@ -8518,7 +8518,7 @@ Moreover, it is important that the trial judge ascertain whether the effective a
 
 Trial court insistence that, except in extraordinary circumstances, codefendants retain separate counsel will in the long run . . . prove salutary not only to the administration of justice and the appearance of justice but the cost of justice; habeas corpus petitions, petitions for new trials, appeals and occasionally retrials . . . can be avoided. Issues as to whether there is an actual conflict of interest, whether the conflict has resulted in prejudice, whether there has been a waiver, whether the waiver is intelligent and knowledgeable, for example, can all be avoided. Where a conflict that first did not appear subsequently arises in or before trial, . . . continuances or mistrials can be saved. Essentially by the time a case . . . gets to the appellate level the harm to the appearance of justice has already been done, whether or not reversal occurs; at the trial level it is a matter which is so easy to avoid.
 
-A rule 44(c) inquiry is required whether counsel is assigned or retained. It "makes no difference whether counsel is appointed by the court or selected by the defendants; even where selected by the defendants the same dangers of potential conflict exist, and it is also possible that the rights of the public to the proper administration of justice may be affected adversely." *United States v. Mari*, supra (concurring opinion). See also *United States v. Lawriw*, supra. When there has been "no discussion as to possible conflict initiated by the court," it cannot be assumed that the choice of counsel by the defendants "was intelligently made with knowledge of any possible conflict." *United States v. Carrigan*, supra. As for assigned counsel, it is provided by statute that "the court shall appoint separate counsel for defendants having interests that cannot properly be represented by the same counsel, or when other good cause is shown." 18 U.S.C. §3006(A)(b). Rule 44(c) is not intended to prohibit the automatic appointment of separate counsel in the first instance, see *Ford v. United States*, 379 F.2d 123 (D.C. Cir. 1967); *Lollar v. United States*, 376 F.2d 243 (D.C. Cir. 1967), which would obviate the necessity for an inquiry.
+A rule 44(c) inquiry is required whether counsel is assigned or retained. It "makes no difference whether counsel is appointed by the court or selected by the defendants; even where selected by the defendants the same dangers of potential conflict exist, and it is also possible that the rights of the public to the proper administration of justice may be affected adversely." *United States v. Mari*, supra (concurring opinion). See also *United States v. Lawriw*, supra. When there has been "no discussion as to possible conflict initiated by the court," it cannot be assumed that the choice of counsel by the defendants "was intelligently made with knowledge of any possible conflict." *United States v. Carrigan*, supra. As for assigned counsel, it is provided by statute that "the court shall appoint separate counsel for defendants having interests that cannot properly be represented by the same counsel, or when other good cause is shown." 18 U.S.C. §3006(A)(b) \[3006A(b) (1976)\]. Rule 44(c) is not intended to prohibit the automatic appointment of separate counsel in the first instance, see *Ford v. United States*, 379 F.2d 123 (D.C. Cir. 1967); *Lollar v. United States*, 376 F.2d 243 (D.C. Cir. 1967), which would obviate the necessity for an inquiry.
 
 Under rule 44(c), an inquiry is called for when the joined defendants are represented by the same attorney and also when they are represented by attorneys "associated in the practice of law." This is consistent with Code of Professional Responsibility, Disciplinary Rule 5–105(D) (providing that if "a lawyer is required to decline employment or to withdraw from employment" because of a potential conflict, "no partner or associate of his or his firm may accept or continue such employment"); and ABA Standards Relating to the Defense Function §3.5(b) (Approved Draft, 1971) (applicable to "a lawyer or lawyers who are associated in practice"). Attorneys representing joined defendants should so advise the court if they are associated in the practice of law.
 
@@ -8854,13 +8854,13 @@ The amendment adds "Juneteenth National Independence Day" to the list of legal h
 
 #### Notes of Advisory Committee on Rules—1944
 
-*Note to Subdivision* (a)(1). This rule is substantially a restatement of existing law, 18 U.S.C. 596, 597 \[now 3141\].
+*Note to Subdivision* (a)(1). This rule is substantially a restatement of existing law, 18 U.S.C. 596, 597 \[see former 3141\].
 
 *Note to Subdivision* (a)(2). This rule is substantially a restatement of Rule 6 of Criminal Appeals Rules, with the addition of a reference to bail pending certiorari. This rule does not supersede 18 U.S.C. 682 \[now 3731\] (Appeals; on behalf of the United States; rules of practice and procedure), which provides for the admission of the defendant to bail on his own recognizance pending an appeal taken by the Government.
 
 *Note to Subdivision* (b). This rule is substantially a restatement of existing law, 28 U.S.C. \[former\] 657.
 
-*Note to Subdivision* (d). This rule is a restatement of existing practice, and is based in part on 6 U.S.C. 15 \[now 31 U.S.C. 9103\] (Bonds or notes of United States in lieu of recognizance, stipulation, bond, guaranty, or undertaking; place of deposit; return to depositor; contractors' bonds).
+*Note to Subdivision* (d). This rule is a restatement of existing practice, and is based in part on 6 U.S.C. 15 \[see 31 U.S.C. 9301, 9303\] (Bonds or notes of United States in lieu of recognizance, stipulation, bond, guaranty, or undertaking; place of deposit; return to depositor; contractors' bonds).
 
 *Note to Subdivision* (e). This rule is similar to Sec. 79 of A.L.I. Code of Criminal Procedure introducing, however, an element of flexibility. Corporate sureties are regulated by 6 U.S.C. 6–14 \[now 31 U.S.C. 9304–9308\].
 
@@ -8870,7 +8870,7 @@ The amendment adds "Juneteenth National Independence Day" to the list of legal h
 
 3\. The second sentence of paragraph (3) is similar to Rule 73(f) of the Federal Rules of Civil Procedure \[28 U.S.C., Appendix\]. This paragraph also substitutes simple motion procedure for enforcing forfeited bail bonds for the procedure by *scire facias*, which was abolished by Rule 81(b) of the Federal Rules of Civil Procedure.
 
-*Note to Subdivision* (g). This rule is a restatement of existing law and practice. It is based in part on 18 U.S.C. 599 \[now 3142\] (Surrender by bail).
+*Note to Subdivision* (g). This rule is a restatement of existing law and practice. It is based in part on 18 U.S.C. 599 \[see former 3142\] (Surrender by bail).
 
 #### Notes of Advisory Committee on Rules—1966 Amendment
 
@@ -8880,7 +8880,7 @@ Subdivision (d).—The amendments are designed to make possible (and to encourag
 
 The first change authorizes the acceptance as security of a deposit of cash or government securities in an amount less than the face amount of the bond. Since a defendant typically purchases a bail bond for a cash payment of a certain percentage of the face of the bond, a direct deposit with the court of that amount (returnable to the defendant upon his appearance) will often be equally adequate as a deterrent to flight. Cf. Ill.CodeCrim.Proc. §110–7 (1963).
 
-The second change authorizes the release of the defendant without financial security on his written agreement to appear when other deterrents appear reasonably adequate. See the discussion of such deterrents in *Bandy v. United States*, 81 S.Ct. 197 (1960). It also permits the imposition of nonfinancial conditions as the price of dispensing with security for the bond. Such conditions are commonly used in England. Devin, The Criminal Prosecution in England, 89 (1958). See the suggestion in Note, Bail: An Ancient Practice Reexamined, 70 Yale L.J. 966, 975 (1961) that such conditions "\* \* \* might include release in custody of a third party, such as the accused's employer, minister, attorney, or a private organization; release subject to a duty to report periodically to the court or other public official; or even release subject to a duty to return to jail each night." Willful failure to appear after forfeiture of bail is a separate criminal offense and hence an added deterrent to flight. 18 U.S.C. §3146.
+The second change authorizes the release of the defendant without financial security on his written agreement to appear when other deterrents appear reasonably adequate. See the discussion of such deterrents in *Bandy v. United States*, 81 S.Ct. 197 (1960). It also permits the imposition of nonfinancial conditions as the price of dispensing with security for the bond. Such conditions are commonly used in England. Devin, The Criminal Prosecution in England, 89 (1958). See the suggestion in Note, Bail: An Ancient Practice Reexamined, 70 Yale L.J. 966, 975 (1961) that such conditions "\* \* \* might include release in custody of a third party, such as the accused's employer, minister, attorney, or a private organization; release subject to a duty to report periodically to the court or other public official; or even release subject to a duty to return to jail each night." Willful failure to appear after forfeiture of bail is a separate criminal offense and hence an added deterrent to flight. 18 U.S.C. \[former\] §3146.
 
 For full discussion and general approval of the changes made here see Report of the Attorney General's Committee on Poverty and the Administration of Criminal Justice 58–89 (1963).
 
@@ -8890,11 +8890,11 @@ Subdivision (h).—The purpose of this new subdivision is to place upon the cour
 
 The amendments are intended primarily to bring rule 46 into general conformity with the Bail Reform Act of 1966 and to deal in the rule with some issues not now included within the rule.
 
-Subdivision (a) makes explicit that the Bail Reform Act of 1966 controls release on bail prior to trial. 18 U.S.C. §3146 refers to release of a defendant. 18 U.S.C. §3149 refers to release of a material witness.
+Subdivision (a) makes explicit that the Bail Reform Act of 1966 controls release on bail prior to trial. 18 U.S.C. \[former\] §3146 refers to release of a defendant. 18 U.S.C. \[former\] §3149 refers to release of a material witness.
 
 Subdivision (b) deals with an issue not dealt with by the Bail Reform Act of 1966 or explicitly in former rule 46, that is, the issue of bail during trial. The rule gives the trial judge discretion to continue the prior conditions of release or to impose such additional conditions as are adequate to insure presence at trial or to insure that his conduct will not obstruct the orderly and expeditious progress of the trial.
 
-Subdivision (c) provides for release during the period between a conviction and sentencing and for the giving of a notice of appeal or of the expiration of the time allowed for filing notice of appeal. There are situations in which defense counsel may informally indicate an intention to appeal but not actually give notice of appeal for several days. To deal with this situation the rule makes clear that the district court has authority to release under the terms of 18 U.S.C. §3148 pending notice of appeal (*e.g*., during the ten days after entry of judgment; see rule 4(b) of the Rules of Appellate Procedure). After the filing of notice of appeal, release by the district court shall be in accordance with the provisions of rule 9(b) of the Rules of Appellate Procedure. The burden of establishing that grounds for release exist is placed upon the defendant in the view that the fact of conviction justifies retention in custody in situations where doubt exists as to whether a defendant can be safely released pending either sentence or the giving of notice of appeal.
+Subdivision (c) provides for release during the period between a conviction and sentencing and for the giving of a notice of appeal or of the expiration of the time allowed for filing notice of appeal. There are situations in which defense counsel may informally indicate an intention to appeal but not actually give notice of appeal for several days. To deal with this situation the rule makes clear that the district court has authority to release under the terms of 18 U.S.C. \[former\] §3148 pending notice of appeal (*e.g*., during the ten days after entry of judgment; see rule 4(b) of the Rules of Appellate Procedure). After the filing of notice of appeal, release by the district court shall be in accordance with the provisions of rule 9(b) of the Rules of Appellate Procedure. The burden of establishing that grounds for release exist is placed upon the defendant in the view that the fact of conviction justifies retention in custody in situations where doubt exists as to whether a defendant can be safely released pending either sentence or the giving of notice of appeal.
 
 Subdivisions (d), (e), (f), and (g) remain unchanged. They were formerly lettered (e), (f), (g), and (h).
 
@@ -8990,7 +8990,7 @@ The time set in the former rule at 5 days, which excluded intermediate Saturdays
 
 *Note to Subdivision* (a). 1. The first sentence of this rule will change existing law. The common-law rule that the public prosecutor may enter a *nolle prosequi* in his discretion, without any action by the court, prevails in the Federal courts, *Confiscation Cases*, 7 Wall. 454, 457; *United States v. Woody*, 2 F.2d 262 (D.Mont.). This provision will permit the filing of a nolle prosequi only by leave of court. This is similar to the rule now prevailing in many States. A.L.I. Code of Criminal Procedure, Commentaries, pp. 895–897.
 
-2\. The rule confers the power to file a dismissal by leave of court on the Attorney General, as well as on the United States attorney, since under existing law the Attorney General exercises "general superintendence and direction" over the United States attorneys "as to the manner of discharging their respective duties," 5 U.S.C. 317 \[now 28 U.S.C. 509, 547\]. Moreover it is the administrative practice for the Attorney General to supervise the filing of a *nolle prosequi* by United States attorneys. Consequently it seemed appropriate that the Attorney General should have such power directly.
+2\. The rule confers the power to file a dismissal by leave of court on the Attorney General, as well as on the United States attorney, since under existing law the Attorney General exercises "general superintendence and direction" over the United States attorneys "as to the manner of discharging their respective duties," 5 U.S.C. 317 \[(1940)\]. Moreover it is the administrative practice for the Attorney General to supervise the filing of a *nolle prosequi* by United States attorneys. Consequently it seemed appropriate that the Attorney General should have such power directly.
 
 3\. The rule permits the filing of a dismissal of an indictment, information or complaint. The word "complaint" was included in order to resolve a doubt prevailing in some districts as to whether the United States attorney may file a *nolle prosequi* between the time when the defendant is bound over by the United States commissioner and the finding of an indictment. It has been assumed in a few districts that the power does not exist and that the United States attorney must await action of the grand jury, even if he deems it proper to dismiss the prosecution. This situation is an unnecessary hardship to some defendants.
 
@@ -9100,7 +9100,7 @@ The amendment corrects the reference to Rule 37(a)(2), the pertinent provisions 
 
 #### Notes of Advisory Committee on Rules—1985 Amendment
 
-18 U.S.C. §3575(a) and 21 U.S.C. §849(a), dealing respectively with dangerous special offender sentencing and dangerous special drug offender sentencing, provide for the prosecutor to file notice of such status "with the court" and for the court to "order the notice sealed" under specified circumstances, but also declare that disclosure of this notice shall not be made "to the presiding judge without the consent of the parties" before verdict or plea of guilty or nolo contendere. It has been noted that these provisions are "regrettably unclear as to where, in fact, such notice is to be filed" and that possibly filing with the chief judge is contemplated. *United States v. Tramunti*, 377 F.Supp. 6 (S.D.N.Y. 1974). But such practice has been a matter of dispute when the chief judge would otherwise have been the presiding judge in the case, *United States v. Gaylor*, No. 80–5016 (4th Cir. 1981), and "it does not solve the problem in those districts where there is only one federal district judge appointed," *United States v. Tramunti, supra.*
+18 U.S.C. §3575(a) \[(1982)\] and 21 U.S.C. §849(a) \[(1982)\], dealing respectively with dangerous special offender sentencing and dangerous special drug offender sentencing, provide for the prosecutor to file notice of such status "with the court" and for the court to "order the notice sealed" under specified circumstances, but also declare that disclosure of this notice shall not be made "to the presiding judge without the consent of the parties" before verdict or plea of guilty or nolo contendere. It has been noted that these provisions are "regrettably unclear as to where, in fact, such notice is to be filed" and that possibly filing with the chief judge is contemplated. *United States v. Tramunti*, 377 F.Supp. 6 (S.D.N.Y. 1974). But such practice has been a matter of dispute when the chief judge would otherwise have been the presiding judge in the case, *United States v. Gaylor*, No. 80–5016 (4th Cir. 1981), and "it does not solve the problem in those districts where there is only one federal district judge appointed," *United States v. Tramunti, supra.*
 
 The first sentence of subdivision (e) clarifies that the filing of such notice with the court is to be accomplished by filing with the clerk of the court, which is generally the procedure for filing with the court; see subdivision (d) of this rule. Except in a district having a single judge and no United States magistrate, the clerk will then, as provided in the second sentence, transmit the notice to the chief judge or to some other judge or a United States magistrate if the chief judge is scheduled to be the presiding judge in the case, so that the determination regarding sealing of the notice may be made without the disclosure prohibited by the aforementioned statutes. But in a district having a single judge and no United States magistrate this prohibition means the clerk may not disclose the notice to the court at all until the time specified by statute. The last sentence of subdivision (e) contemplates that in such instances the clerk will seal the notice if the case falls within the local rule describing when "a public record may prejudice fair consideration of a pending criminal matter," the determination called for by the aforementioned statutes. The local rule might provide, for example, that the notice is to be sealed upon motion by any party.
 
@@ -9396,7 +9396,7 @@ The Federal Rules of Evidence, referred to in subd. (b), are set out in the Appe
 
 #### Notes of Advisory Committee on Rules—1944
 
-*Note to Subdivision* (a). This rule is a restatement of existing law, 28 U.S.C. \[former\] 391 (second sentence): "On the hearing of any appeal, certiorari, writ of error, or motion for a new trial, in any case, civil or criminal, the court shall give judgment after an examination of the entire record before the court, without regard to technical errors, defects, or exceptions which do not affect the substantial rights of the parties"; 18 U.S.C. \[former\] 556; "No indictment found and presented by a grand jury in any district or other court of the United States shall be deemed insufficient, nor shall the trial, judgment, or other proceeding thereon be affected by reason of any defect or imperfection in matter of form only, which shall not tend to the prejudice of the defendant, \* \* \*." A similar provision is found in Rule 61 of the Federal Rules of Civil Procedure \[28 U.S.C., Appendix\].
+*Note to Subdivision* (a). This rule is a restatement of existing law, 28 U.S.C. 391 \[(1940)\] (second sentence): "On the hearing of any appeal, certiorari, writ of error, or motion for a new trial, in any case, civil or criminal, the court shall give judgment after an examination of the entire record before the court, without regard to technical errors, defects, or exceptions which do not affect the substantial rights of the parties"; 18 U.S.C. 556 \[(1940)\]; "No indictment found and presented by a grand jury in any district or other court of the United States shall be deemed insufficient, nor shall the trial, judgment, or other proceeding thereon be affected by reason of any defect or imperfection in matter of form only, which shall not tend to the prejudice of the defendant, \* \* \*." A similar provision is found in Rule 61 of the Federal Rules of Civil Procedure \[28 U.S.C., Appendix\].
 
 *Note to Subdivision* (b). This rule is a restatement of existing law, *Wiborg v. United States*, 163 U.S. 632, 658; *Hemphill v. United States*, 112 F.2d 505 (C.C.A. 9th), reversed 312 U.S. 657. Rule 27 of the Rules of the Supreme Court provides that errors not specified will be disregarded, "save as the court, at its option, may notice a plain error not assigned or specified." Similar provisions are found in the rules of several circuit courts of appeals.
 
@@ -9818,7 +9818,7 @@ The times set in the former rule at 10 days have been revised to 14 days. See th
 
 This rule implements several provisions of the Crime Victims' Rights Act, codified at 18 U.S.C. §3771, in judicial proceedings in the federal courts.
 
-*Subdivision (a)(1)*. This subdivision incorporates 18 U.S.C. §3771(a)(2), which provides that a victim has a "right to reasonable, accurate, and timely notice of any public court proceeding. . . ." The enactment of 18 U.S.C. §3771(a)(2) supplemented an existing statutory requirement that all federal departments and agencies engaged in the detection, investigation, and prosecution of crime identify victims at the earliest possible time and inform those victims of various rights, including the right to notice of the status of the investigation, the arrest of a suspect, the filing of charges against a suspect, and the scheduling of judicial proceedings. *See* 42 U.S.C. §10607(b) & (c)(3)(A)–(D).
+*Subdivision (a)(1)*. This subdivision incorporates 18 U.S.C. §3771(a)(2), which provides that a victim has a "right to reasonable, accurate, and timely notice of any public court proceeding. . . ." The enactment of 18 U.S.C. §3771(a)(2) supplemented an existing statutory requirement that all federal departments and agencies engaged in the detection, investigation, and prosecution of crime identify victims at the earliest possible time and inform those victims of various rights, including the right to notice of the status of the investigation, the arrest of a suspect, the filing of charges against a suspect, and the scheduling of judicial proceedings. *See* 42 U.S.C. §10607(b) & (c)(3)(A)–(D) \[now 34 U.S.C. 20141(b), (c)(3)(A)–(D)\].
 
 *Subdivision (a)(2)*. This subdivision incorporates 18 U.S.C. §3771(a)(3), which provides that the victim shall not be excluded from public court proceedings unless the court finds by clear and convincing evidence that the victim's testimony would be materially altered by attending and hearing other testimony at the proceeding, and 18 U.S.C. §3771(b), which provides that the court shall make every effort to permit the fullest possible attendance by the victim.
 

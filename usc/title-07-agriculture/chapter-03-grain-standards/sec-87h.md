@@ -2,7 +2,7 @@
 
 #### (a) Authorization of appropriations
 
-There are authorized to be appropriated $23,000,000 for standardization and compliance activities, monitoring in foreign ports grain officially inspected and weighed under this chapter, and any other expenses necessary to carry out the provisions of this chapter for each of the fiscal years 2021 through 2025, to the extent that financing is not obtained from fees and sales of samples as provided for in sections 79, 79a, 79b, 87e, and 87f–1 of this title.
+There are authorized to be appropriated $23,000,000 for standardization and compliance activities, monitoring in foreign ports grain officially inspected and weighed under this chapter, and any other expenses necessary to carry out the provisions of this chapter for each of the fiscal years 2021 through 2025,[1](#87h_1_target) to the extent that financing is not obtained from fees and sales of samples as provided for in sections 79, 79a, 79b, 87e, and 87f–1 of this title.
 
 #### (b) Limitations on uses of user fees
 
@@ -103,3 +103,9 @@ Amendment by Pub. L. 94–582 effective 30 days after Oct. 21, 1976, see section
 #### Effective Date
 
 For effective date of section, see section 2 of Pub. L. 90–487, set out as an Effective Date of 1968 Amendment note under section 78 of this title.
+
+#### Application of Section
+
+Subsec. (a) of this section to be applied by substituting "2026" for "2025", see section 5001(b) of Pub. L. 119–37, set out as a note under section 79d of this title.
+
+[1 See Application of Section note below.](#87h_1)

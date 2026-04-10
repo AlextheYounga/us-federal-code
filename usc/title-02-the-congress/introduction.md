@@ -66,7 +66,7 @@ Chap. Sec.
 
 22\. John C. Stennis Center for Public Service Training and Development 1101
 
-22A. Open World Leadership Center 1151
+22A. Congressional Office for International Leadership 1151
 
 22B. Hunger Fellowship Program 1161
 

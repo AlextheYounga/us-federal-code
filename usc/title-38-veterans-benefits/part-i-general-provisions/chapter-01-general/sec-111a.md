@@ -2,7 +2,7 @@
 
 (a) Transportation by Secretary.—(1) The Secretary may transport any person to or from a Department facility or other place in connection with vocational rehabilitation, counseling required by the Secretary pursuant to chapter 34 or 35 of this title, or for the purpose of examination, treatment, or care.
 
-(2) The authority granted by paragraph (1) shall expire on September 30, 2025.
+(2) The authority granted by paragraph (1) shall expire on September 30, 2026.
 
 (b) Transportation by Third-parties.—(1) The Secretary, in consultation and coordination with the Secretary of Transportation and appropriate representatives of veterans' service organizations, shall take all appropriate steps to facilitate the establishment and maintenance of a program under which such organizations, or individuals who are volunteering their services to the Department, would take responsibility for the transportation, without reimbursement from the Department, to Department facilities of veterans (primarily those residing in areas which are geographically accessible to such facilities) who seek services or benefits from the Department under chapter 17 or other provisions of this title.
 
@@ -16,7 +16,7 @@
 
 (iii) After making changes to the protocol under clause (ii), the Secretary shall implement the protocol in phases during the course of one year.
 
-(Added and amended Pub. L. 112–260, title II, §202(a), (b), Jan. 10, 2013, 126 Stat. 2423, 2424; Pub. L. 113–59, §6, Dec. 20, 2013, 127 Stat. 662; Pub. L. 113–175, title IV, §401, Sept. 26, 2014, 128 Stat. 1905; Pub. L. 114–58, title IV, §401, Sept. 30, 2015, 129 Stat. 534; Pub. L. 114–228, title IV, §401, Sept. 29, 2016, 130 Stat. 939; Pub. L. 115–62, title IV, §401, Sept. 29, 2017, 131 Stat. 1164; Pub. L. 115–251, title I, §161, Sept. 29, 2018, 132 Stat. 3171; Pub. L. 116–159, div. E, title II, §5204, Oct. 1, 2020, 134 Stat. 750; Pub. L. 116–315, title VII, §7001, Jan. 5, 2021, 134 Stat. 5054; Pub. L. 117–180, div. E, title II, §201, Sept. 30, 2022, 136 Stat. 2137; Pub. L. 118–83, div. B, title III, §331, Sept. 26, 2024, 138 Stat. 1541.)
+(Added and amended Pub. L. 112–260, title II, §202(a), (b), Jan. 10, 2013, 126 Stat. 2423, 2424; Pub. L. 113–59, §6, Dec. 20, 2013, 127 Stat. 662; Pub. L. 113–175, title IV, §401, Sept. 26, 2014, 128 Stat. 1905; Pub. L. 114–58, title IV, §401, Sept. 30, 2015, 129 Stat. 534; Pub. L. 114–228, title IV, §401, Sept. 29, 2016, 130 Stat. 939; Pub. L. 115–62, title IV, §401, Sept. 29, 2017, 131 Stat. 1164; Pub. L. 115–251, title I, §161, Sept. 29, 2018, 132 Stat. 3171; Pub. L. 116–159, div. E, title II, §5204, Oct. 1, 2020, 134 Stat. 750; Pub. L. 116–315, title VII, §7001, Jan. 5, 2021, 134 Stat. 5054; Pub. L. 117–180, div. E, title II, §201, Sept. 30, 2022, 136 Stat. 2137; Pub. L. 118–83, div. B, title III, §331, Sept. 26, 2024, 138 Stat. 1541; Pub. L. 119–37, div. G, title IV, §7403, Nov. 12, 2025, 139 Stat. 654.)
 
   
 
@@ -27,6 +27,8 @@
 The date of the enactment of the Johnny Isakson and David P. Roe, M.D. Veterans Health Care and Benefits Improvement Act of 2020, referred to in subsec. (b)(2)(A), is the date of enactment of Pub. L. 116–315, which was approved Jan. 5, 2021.
 
 #### Amendments
+
+**2025**—Subsec. (a)(2). Pub. L. 119–37 substituted "September 30, 2026" for "September 30, 2025".
 
 **2024**—Subsec. (a)(2). Pub. L. 118–83 substituted "September 30, 2025" for "September 30, 2024".
 
@@ -49,3 +51,9 @@ The date of the enactment of the Johnny Isakson and David P. Roe, M.D. Veterans 
 **2013**—Subsec. (a)(2). Pub. L. 113–59 substituted "December 31, 2014" for "the date that is one year after the date of the enactment of this section".
 
 Subsec. (b). Pub. L. 112–260, §202(b), transferred subsec. (h) of section 111 of this title to this section, redesignated it as subsec. (b), and inserted heading.
+
+#### **Statutory Notes and Related Subsidiaries**
+
+#### Effective Date of 2025 Amendment
+
+Pub. L. 119–37, div. G, title IV, §7406, Nov. 12, 2025, 139 Stat. 654, provided that: "The amendments made by this division \[amending this section, sections 312, 315, 503, 1710, 1710A, 2021A, 2031, 2033, 2044, 2061, 2102A, 2108, 3699, 3720, 3733, 3737, and 8118 of this title and provisions set out as notes under sections 1712A, 1720F, and 5101 of this title\], except for the amendments made by section 7307 \[amending sections 3720 and 3737 of this title\], shall take effect as if enacted on September 30, 2025."

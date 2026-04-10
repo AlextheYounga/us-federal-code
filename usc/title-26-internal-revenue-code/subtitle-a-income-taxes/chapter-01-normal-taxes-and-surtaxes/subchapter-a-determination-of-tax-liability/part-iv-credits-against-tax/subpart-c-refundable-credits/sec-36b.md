@@ -518,7 +518,7 @@ Subsec. (e)(1). Pub. L. 119–21, §71301(a), inserted "or, in the case of alien
 
 Subsec. (e)(2). Pub. L. 119–21, §71301(b), substituted "For purposes of this section—" for "For purposes of this section,", designated remainder of existing provisions as subpar. (A), inserted heading, and added subpar. (B).
 
-Subsec. (f)(2). Pub. L. 119–21, §71305(a), (b)(1), struck out subpar. (A) designation and heading and subpar. (B) which related to limitation on increase of advance payments under section 1412 of the Patient Protection and Affordable Care Actto a taxpayer whose household income is less than 400 percent of the poverty line for the size of the family involved for the taxable year.
+Subsec. (f)(2). Pub. L. 119–21, §71305(a), (b)(1), struck out subpar. (A) designation and heading and subpar. (B) which related to limitation on increase of advance payments under section 1412 of the Patient Protection and Affordable Care Act to a taxpayer whose household income is less than 400 percent of the poverty line for the size of the family involved for the taxable year.
 
 **2022**—Subsec. (b)(3)(A)(iii). Pub. L. 117–169, §12001(a), substituted "2021 through 2025" for "2021 and 2022" in heading and "after December 31, 2020, and before January 1, 2026" for "in 2021 or 2022" in introductory provisions.
 

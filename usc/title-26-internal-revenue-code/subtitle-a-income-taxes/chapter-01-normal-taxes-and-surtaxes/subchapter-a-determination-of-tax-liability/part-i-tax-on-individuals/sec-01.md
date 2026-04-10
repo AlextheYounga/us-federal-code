@@ -1435,6 +1435,8 @@ Pub. L. 88–272, title I, §131, Feb. 26, 1964, 78 Stat. 30, as amended by Pub.
 
 #### Short Title of 2025 Amendment
 
+Pub. L. 119–39, §1, Nov. 25, 2025, 139 Stat. 659, provided that: "This Act \[amending section 6213 of this title and enacting provisions set out as notes under section 6213 of this title\] may be cited as the 'Internal Revenue Service Math and Taxpayer Help Act'."
+
 Pub. L. 119–29, §1, July 24, 2025, 139 Stat. 471, provided that: "This Act \[amending section 7508A of this title and enacting provisions set out as a note under section 7508A of this title\] may be cited as the 'Filing Relief for Natural Disasters Act'."
 
 #### Short Title of 2024 Amendment
@@ -2375,70 +2377,8 @@ Provisions relating to inflation adjustment of items in sections 1, 23, 24, 25A,
 
 **1985**—Revenue Procedure 84–79.
 
-#### Ex. Ord. No. 14082. Implementation of the Energy and Infrastructure Provisions of the Inflation Reduction Act of 2022
+#### Executive Order No. 14082
 
-Ex. Ord. No. 14082, Sept. 12, 2022, 87 F.R. 56861, provided:
-
-By the authority vested in me as President by the Constitution and the laws of the United States of America, and in order to effectively implement the historic energy and infrastructure provisions in Public Law 117–169, commonly referred to as the Inflation Reduction Act of 2022 (the "Act") \[see Tables for classification\], and to accelerate United States global leadership in clean energy innovation, manufacturing, and deployment in a way that cuts consumer energy costs, creates well-paying union jobs and sustainable and equitable economic opportunity, advances environmental justice, and addresses the climate crisis, it is hereby ordered as follows:
-
-Section 1. *Background*. The Act is the single largest and most ambitious investment in the ability of the United States to advance clean energy, cut consumer energy costs, confront the climate crisis, promote environmental justice, and strengthen energy security, among other vital provisions that will lower costs for families, reduce the deficit, and grow and strengthen the economy. The Act will:
-
-(a) build on the once-in-a-generation investment in the infrastructure and competitiveness of the United States set forth in the Infrastructure Investment and Jobs Act (Public Law 117–58) \[see Tables for classification\] by accelerating the deployment of clean energy technologies, making home energy efficiency and clean energy installations more affordable, and incentivizing the purchase of electric vehicles;
-
-(b) boost energy security and lower energy costs for families, businesses, and government;
-
-(c) revitalize American manufacturing by investing in domestic clean energy supply chains and creating well-paying union jobs, including in traditional energy communities;
-
-(d) improve public health and advance environmental justice and economic opportunity for frontline communities who disproportionately bear the brunt of cumulative exposure to industrial and energy pollution;
-
-(e) promote climate justice by reducing harmful greenhouse gas emissions in line with the goal of realizing net-zero emissions by no later than 2050;
-
-(f) harness nature-based solutions—including climate-smart agriculture and forestry—that deliver economic benefits for rural communities, Tribes, farmers, ranchers, and forest landowners;
-
-(g) expand research and accelerate innovation in the development of clean energy, climate, and related technologies; and
-
-(h) increase the resilience of our communities in the face of a changing climate.
-
-Achieving these goals will require effective implementation of the Act by my Administration, as well as by State, local, Tribal, and territorial governments.
-
-Sec. 2. *Implementation Priorities*. In implementing the Act, all agencies (as described in section 3502(1) of title 44, United States Code, except for the agencies described in section 3502(5) of title 44) shall, as appropriate and to the extent consistent with law, prioritize:
-
-(a) investing public dollars effectively and efficiently, working to avoid waste, and achieving measurable, demonstrable outcomes for the American people;
-
-(b) driving progress to achieve the climate goals of the United States to reduce greenhouse gas emissions 50–52 percent below 2005 levels in 2030, achieve a carbon pollution-free electricity sector by 2035, and achieve net-zero emissions by no later than 2050;
-
-(c) advancing environmental and climate justice through an all-of-government approach, including through the Justice40 Initiative set forth in Executive Order 14008 of January 27, 2021 (Tackling the Climate Crisis at Home and Abroad) \[42 U.S.C. 4321 note\], to protect and improve the health and well-being of fence-line and frontline communities in the United States;
-
-(d) promoting construction of clean energy generation, storage, and transmission, and enabling technologies through efficient, effective mechanisms that incorporate community engagement;
-
-(e) increasing the competitiveness of the United States economy and investment in critical supply chains, including through the Act's incentives and measures to strengthen domestic manufacturing and supply chains;
-
-(f) increasing high-quality job opportunities for American workers and improving equitable access to these jobs, including in traditional energy communities, through the timely implementation of the Act's requirements for prevailing wages and registered apprenticeships and by focusing on high labor standards and the free and fair chance to join a union;
-
-(g) reducing energy costs for working families, businesses, and governments at all levels while increasing energy security for the benefit of United States economic competitiveness and national security;
-
-(h) accelerating innovation by directing the scientific and technical expertise of America's researchers, businesses, and workers toward achieving breakthroughs in clean energy and climate technologies; and
-
-(i) effectively coordinating with State, local, Tribal, and territorial governments, as well as with private-sector stakeholders and nongovernmental organizations, in implementing the critical investments outlined in this section to build sustainable, resilient communities.
-
-Sec. 3. *White House Office on Clean Energy Innovation and Implementation*. There is hereby established the White House Office on Clean Energy Innovation and Implementation within the Executive Office of the President, which shall coordinate the policymaking process with respect to implementing the energy and infrastructure provisions of the Act and other essential initiatives. The White House Office on Clean Energy Innovation and Implementation shall have a staff headed by the Senior Advisor for Clean Energy Innovation and Implementation; shall have such staff and other assistance as may be necessary to carry out the provisions of this order, subject to the availability of appropriations; and may work with established or ad hoc committees and interagency groups.
-
-Sec. 4. *Interagency Coordination*. (a) \[Amended Ex. Ord. No. 14008, set out as a note under section 4321 of Title 42, The Public Health and Welfare.\]
-
-(b) \[Amended Ex. Ord. No. 12898, set out as a note under section 4321 of Title 42.\]
-
-(c) \[Amended Ex. Ord. No. 14052, set out as a note under section 101 of Title 23, Highways.\]
-
-Sec. 5. *General Provisions*. (a) Nothing in this order shall be construed to impair or otherwise affect:
-
-(i) the authority granted by law to an executive department or agency, or the head thereof; or
-
-(ii) the functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
-
-(b) This order shall be implemented consistent with applicable law and subject to the availability of appropriations.
-
-(c) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
-
-J.R. Biden, Jr.      
+Ex. Ord. No. 14082, Sept. 12, 2022, 87 F.R. 56861, which related to implementation of the energy and infrastructure provisions of the Inflation Reduction Act of 2022 (Pub. L. 117–269, see Tables for classification), was revoked by Ex. Ord. No. 14148, §2(xx), Jan. 20, 2025, 90 F.R. 8239, and Ex. Ord. No. 14154, §4(a)(xi), Jan. 20, 2025, 90 F.R. 8355.
 
 [1 See References in Text note below.](#1_1)

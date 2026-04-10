@@ -130,7 +130,7 @@ In issuing an administrative order under paragraph (1) upon the Secretary's init
 
 (II) publish a notice of such final administrative order in the Federal Register;
 
-(III) afford requestors of drugs that will be subject to such order the opportunity for formal dispute resolution up to the level of the Director of the Center for Drug Evaluation and Research, which initially must be requested within 45 calendar days of the issuance of the order, and, for subsequent levels of appeal, within 30 calendar days of the prior decision; and
+(III) afford sponsors or requestors of drugs that will be subject to such order the opportunity for formal dispute resolution up to the level of the Director of the Center for Drug Evaluation and Research, which initially must be requested within 45 calendar days of the issuance of the order, and, for subsequent levels of appeal, within 30 calendar days of the prior decision; and
 
 (IV) except with respect to drugs described in paragraph (3)(B), upon completion of the formal dispute resolution procedure, inform the persons which sought such dispute resolution of their right to request a hearing.
 
@@ -586,7 +586,7 @@ The Secretary shall establish, maintain, update (as determined necessary by the 
 
 #### (h) Development advice to sponsors or requestors
 
-The Secretary shall establish procedures under which sponsors or requestors may meet with appropriate officials of the Food and Drug Administration to obtain advice on the studies and other information necessary to support submissions under this section and other matters relevant to the regulation of nonprescription drugs and the development of new nonprescription drugs under this section.
+The Secretary shall establish procedures under which sponsors, requestors, or organizations nominated by sponsors or requestors to represent their interests in a proceeding may meet with appropriate officials of the Food and Drug Administration to obtain advice on the studies and other information necessary to support submissions under this section and other matters relevant to the regulation of nonprescription drugs and the development of new nonprescription drugs under this section.
 
 #### (i) Participation of multiple sponsors or requestors
 
@@ -682,7 +682,43 @@ In this section:
 
 (3) The term "requestor" refers to any person or group of persons marketing, manufacturing, processing, or developing a drug.
 
-(June 25, 1938, ch. 675, §505G, as added Pub. L. 116–136, div. A, title III, §3851(a), Mar. 27, 2020, 134 Stat. 435.)
+#### (r) Evidence and testing standards for active ingredients for topical administration
+
+#### (1) Evidence and testing standards for active ingredients for topical administration
+
+The Secretary shall—
+
+(A) in evaluating the generally recognized as safe and effective status of active ingredients used in nonprescription drugs intended for topical administration for purposes of subsection (a), utilize standards that allow for the use of real world evidence (as defined in section 355g(b) of this title), as appropriate, as part of a comprehensive evaluation of scientific evidence to demonstrate the safety and effectiveness of such active ingredients, to supplement evidence from traditional clinical trials, provided that such standards allow the Secretary to evaluate whether the benefits of such active ingredients outweigh the risks; and
+
+(B) apply subsection (b)(6)(C) to the regulation of active ingredients used in drugs intended for topical administration.
+
+#### (2) Non-animal testing methods for topical active ingredients
+
+#### (A) In general
+
+The Secretary shall consider the types of nonclinical tests described in paragraphs (1) through (4) of the first subsection (z) of section 355 of this title (as inserted by section 3209(a)(2) of the Health Extenders, Improving Access to Medicare, Medicaid, and CHIP, and Strengthening Public Health Act of 2022 (division FF of Public Law 117–328)), or any other alternative to animal testing that the Secretary determines appropriate, in the consideration of drugs intended for topical administration under this section.
+
+#### (B) Guidance
+
+Not later than 1 year after November 12, 2025, the Secretary shall issue new draft guidance on how sponsors can use nonclinical testing alternatives to animal testing, as appropriate, to meet safety and efficacy standards under this section for drugs intended for topical administration.
+
+#### (3) Clarification
+
+Nothing in this subsection shall be construed to alter, supersede, or limit the standards for making determinations of whether a drug is generally recognized as safe and effective under section 321(p) of this title or the standards set forth under section 355 of this title for determining the safety and effectiveness of drugs.
+
+(June 25, 1938, ch. 675, §505G, as added Pub. L. 116–136, div. A, title III, §3851(a), Mar. 27, 2020, 134 Stat. 435; amended Pub. L. 119–37, div. F, title V, §§6506(a), 6508, Nov. 12, 2025, 139 Stat. 644, 648.)
+
+  
+
+#### **Editorial Notes**
+
+#### Amendments
+
+**2025**—Subsec. (b)(2)(A)(iv)(III). Pub. L. 119–37, §6508(b), substituted "sponsors or requestors" for "requestors".
+
+Subsec. (h). Pub. L. 119–37, §6508(a), substituted "sponsors, requestors, or organizations nominated by sponsors or requestors to represent their interests in a proceeding" for "sponsors or requestors".
+
+Subsec. (r). Pub. L. 119–37, §6506(a), added subsec. (r).
 
   
 

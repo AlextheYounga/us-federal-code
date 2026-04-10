@@ -72,4 +72,6 @@ Sec.
 
 6160\. Expense allowance for Chairmen of Majority and Minority Policy Committees of Senate; method of payment; taxability.
 
+6161\. Senate Democratic Leadership Offices Funding and Authorities.
+
         

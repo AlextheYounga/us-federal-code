@@ -658,9 +658,9 @@ For the purposes of subparagraph (C)(ii), the term "rural health facility" means
 
 (i) A subsection (d) hospital (as defined in paragraph (1)(B) of section 1395ww(d) of this title) that—
 
-(I) is located in a rural area (as defined in paragraph (2)(D) of such section [1](#1397ee_1_target));
+(I) is located in a rural area (as defined in paragraph (2)(D) of such section [6](#1397ee_6_target));
 
-(II) is treated as being located in a rural area pursuant to paragraph (8)(E) of such section [1](#1397ee_1_target); or
+(II) is treated as being located in a rural area pursuant to paragraph (8)(E) of such section [6](#1397ee_6_target); or
 
 (III) is located in a rural census tract of a metropolitan statistical area (as determined under the most recent modification of the Goldsmith Modification, originally published in the Federal Register on February 27, 1992 (57 Fed. Reg. 6725)).
 
@@ -1004,4 +1004,4 @@ Pub. L. 111–3, title VI, §601(b)–(g), Feb. 4, 2009, 123 Stat. 96–98, as a
 
 [5 So in original. The word "the" probably should not appear.](#1397ee_5)
 
-[1 So in original. Probably should be "subsection".](#1397ee_1)
+[6 So in original. Probably should be "subsection".](#1397ee_6)

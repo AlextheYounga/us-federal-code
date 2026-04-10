@@ -81,3 +81,11 @@ Reporting under this section shall include best estimates for any reporting cate
 #### Codification
 
 Section was enacted as part of the Consolidated Appropriations Act, 2022, and not as part of the Federal Food, Drug, and Cosmetic Act which comprises this chapter.
+
+  
+
+#### **Statutory Notes and Related Subsidiaries**
+
+#### Report on Removal of All Illegal ENDS Products From the Market
+
+Pub. L. 119–37, div. B, title VII, §772(c), Nov. 12, 2025, 139 Stat. 556, provided that: "The Commissioner of Food and Drugs shall submit a semi-annual written report to the Committees on Appropriations of both Houses of Congress on the progress that the Center for Tobacco Products is making in removing all illegal ENDS products from the market: *Provided*, That the initial report shall be submitted not later than 180 days after the date of enactment of this Act \[Nov. 12, 2025\]."
