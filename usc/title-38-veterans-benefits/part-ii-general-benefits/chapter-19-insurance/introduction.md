@@ -156,6 +156,8 @@ Sec.
 
 1980A. Traumatic injury protection.
 
+1980B. Periodic review of automatic maximum coverage.
+
         
 
 #### SUBCHAPTER IV—GENERAL
@@ -181,6 +183,8 @@ Sec.
 #### **Editorial Notes**
 
 #### Amendments
+
+**2025**—Pub. L. 119–54, §2(b), Dec. 12, 2025, 139 Stat. 706, added item 1980B.
 
 **2022**—Pub. L. 117–313, §3(b)(2), Dec. 27, 2022, 136 Stat. 4400, substituted "Beneficiaries" for "Change of beneficiary" in item 1949.
 
