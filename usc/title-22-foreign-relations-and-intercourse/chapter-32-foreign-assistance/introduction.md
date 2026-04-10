@@ -602,6 +602,18 @@ Sec.
 
         
 
+#### Part X—Cyberspace, Digital Connectivity, and Related Technologies (CDT) Fund
+
+2349cc. Findings.
+
+2349cc–1. Authorization of assistance and funding for cyberspace, digital connectivity, and related technologies (CDT) capacity building activities.
+
+2349cc–2. Review of emergency assistance capacity.
+
+2349cc–3. Authorization of appropriations.
+
+        
+
 #### SUBCHAPTER III—GENERAL AND ADMINISTRATIVE PROVISIONS
 
 #### Part I—General Provisions
