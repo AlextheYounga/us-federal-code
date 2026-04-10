@@ -3454,6 +3454,8 @@ The language and organization of the rule are amended to make the rule more easi
 
 • any item specifically excluded by these rules or by local rule.
 
+  
+
 (g) Certificate of Compliance.
 
 (1) *Briefs and Papers That Require a Certificate.* A brief submitted under Rules 28.1(e)(2), 29(b)(4), or 32(a)(7)(B)—and a paper submitted under Rules 5(c)(1), 21(d)(1), 27(d)(2)(A), 27(d)(2)(C), 35(b)(2)(A), or 40(b)(1)—must include a certificate by the attorney, or an unrepresented party, that the document complies with the type-volume limitation. The person preparing the certificate may rely on the word or line count of the word-processing system used to prepare the document. The certificate must state the number of words—or the number of lines of monospaced type—in the document.
@@ -4584,8 +4586,6 @@ Signed on \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\[*insert date*\]
 
 ### APPENDIX
 
-#### Table
-
 ![](http://uscode.house.gov/images/uscprelim/28Aapp1.gif) ![](http://uscode.house.gov/images/uscprelim/28Aapp2.gif)
 
 (As added Apr. 28, 2016, eff. Dec. 1, 2016.)
@@ -4961,9 +4961,9 @@ This table shows the Equity Rules to which references are made in the notes to t
 | 80           | 6                                 |
 | 81           | 86                                |
 
-### **RULES OF CIVIL PROCEDURE FOR THE UNITED STATES DISTRICT COURTS [1](#Table_1_target)**
+### **RULES OF CIVIL PROCEDURE FOR THE UNITED STATES DISTRICT COURTS [1](#I_1_target)**
 
-[1 Title amended December 29, 1948, effective October 20, 1949.](#Table_1)
+[1 Title amended December 29, 1948, effective October 20, 1949.](#I_1)
 
 ### TITLE I. SCOPE OF RULES; FORM OF ACTION
 
