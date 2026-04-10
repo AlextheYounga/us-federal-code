@@ -454,7 +454,7 @@ Subsec. (k). Pub. L. 119–21, §70513(f)(1), redesignated subsec. (j), as redes
 
 Amendment by section 70512(f)(2) of Pub. L. 119–21 applicable to taxable years beginning after July 4, 2025, see section 70512(l)(1) of Pub. L. 119–21, set out in a note under section 45 of this title.
 
-Amendment by section 70513 of Pub. L. 119–21 applicable to taxable years beginning after July 4, 2025, except that amendment by section 70513(a) of Pub. L. 119–21 applicable to facilities the construction of which begins after the date which is 12 months after July 4, 2025, amendment by section 70513(d) of Pub. L. 119–21 applicable on or after June 16, 2025, and amendment by section 70513(f) of Pub. L. 119–21 applicable to property the construction of which begins after December 31, 2025, see section 70513(g)(1), (2), (4), (5) of Pub. L. 119–21, set out in a note under section 48 of this title.
+Amendment by section 70513 of Pub. L. 119–21 applicable to taxable years beginning after July 4, 2025, except that amendment by section 70513(a) of Pub. L. 119–21 applicable to facilities the construction of which begins after the date which is 12 months after July 4, 2025, amendment by section 70513(d) of Pub. L. 119–21 applicable on or after June 16, 2025, and amendment by section 70513(f) of Pub. L. 119–21 applicable to property the construction of which begins after Dec. 31, 2025, see section 70513(g)(1), (2), (4), (5) of Pub. L. 119–21, set out in a note under section 48 of this title.
 
 #### Effective Date
 

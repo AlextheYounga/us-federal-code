@@ -514,7 +514,7 @@ The term "active qualified trade or business" means, with respect to any taxpaye
 
 #### (3) Inflation adjustment
 
-In the case of any taxable year beginning after 2026, the $400 amount in paragraph (1)(B) and the $1,000 amount in paragraph (2)(A) shall each be increased by an amount equal to —
+In the case of any taxable year beginning after 2026, the $400 amount in paragraph (1)(B) and the $1,000 amount in paragraph (2)(A) shall each be increased by an amount equal to—
 
 (A) such dollar amount, multiplied by
 

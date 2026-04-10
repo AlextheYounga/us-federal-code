@@ -14,7 +14,7 @@ The term "net CFC tested income" means, with respect to any United States shareh
 
 (A) the aggregate of such shareholder's pro rata share of the tested income of each controlled foreign corporation with respect to which such shareholder is a United States shareholder for such taxable year of such United States shareholder, over
 
-(B) the aggregate of such shareholder's pro rata share of the tested loss of each controlled foreign corporation with respect to which such shareholder is a United States shareholder for such taxable year of such United States shareholder .
+(B) the aggregate of such shareholder's pro rata share of the tested loss of each controlled foreign corporation with respect to which such shareholder is a United States shareholder for such taxable year of such United States shareholder.
 
 #### (2) Tested income; tested loss
 

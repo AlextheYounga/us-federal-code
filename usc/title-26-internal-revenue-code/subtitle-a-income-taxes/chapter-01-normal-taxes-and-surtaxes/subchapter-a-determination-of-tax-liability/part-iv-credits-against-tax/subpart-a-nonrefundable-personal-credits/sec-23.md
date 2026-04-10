@@ -56,7 +56,7 @@ No credit shall be allowed under subsection (a) for any expense to the extent th
 
 #### (1) In general
 
-If the credit allowable under subsection (a) for any taxable year exceeds the limitation imposed by section 26(a) for such taxable year reduced by the sum of the credits allowable under this subpart (other than this section and section 25D), such excess shall be carried to the succeeding taxable year and added to the portion of the credit allowable under subsection (a) which is allowed under this subpart for such taxable year.
+If the portion of the credit allowable under subsection (a) which is allowed under this subpart for any taxable year exceeds the limitation imposed by section 26(a) for such taxable year reduced by the sum of the credits allowable under this subpart (other than this section and section 25D), such excess shall be carried to the succeeding taxable year and added to the portion of the credit allowable under subsection (a) which is allowed under this subpart for such taxable year.
 
 #### (2) Limitation
 
@@ -168,7 +168,7 @@ A prior section 23, added Pub. L. 95–618, title I, §101(a), Nov. 9, 1978, 92 
 
 **2025**—Subsec. (a)(4). Pub. L. 119–21, §70402(a), added par. (4).
 
-Subsec. (c)(1). Pub. L. 119–21, §70402(c), substituted "portion of the credit allowable under subsection (a) which is allowed under this subpart" for "credit allowable under subsection (a)".
+Subsec. (c)(1). Pub. L. 119–21, §70402(c), which directed substitution of "portion of the credit allowable under subsection (a) which is allowed under this subpart" for "credit allowable under subsection (a)", was executed by making the substitution both places appearing, to reflect the probable intent of Congress.
 
 Subsec. (d)(3)(A). Pub. L. 119–21, §70403(a)(1), inserted "or Indian tribal government" after "a State".
 
