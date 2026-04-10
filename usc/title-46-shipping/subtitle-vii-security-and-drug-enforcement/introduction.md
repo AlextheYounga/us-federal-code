@@ -14,6 +14,8 @@ Chapter Sec.
 
         
 
+#### **Editorial Notes**
+
 #### Amendments
 
 **2018**—Pub. L. 115–282, title IV, §401(b), Dec. 4, 2018, 132 Stat. 4263, added item for chapter 700.

@@ -26,6 +26,8 @@ Sec.
 
         
 
+#### **Editorial Notes**
+
 #### Amendments
 
 **2005**—Pub. L. 109–8, title VI, §602(b), Apr. 20, 2005, 119 Stat. 122, added item 589b.

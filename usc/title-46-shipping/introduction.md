@@ -22,6 +22,8 @@ VIII. MISCELLANEOUS 80101
 
         
 
+#### **Editorial Notes**
+
 #### Amendments
 
 **2006**—Pub. L. 109–304, §3, Oct. 6, 2006, 120 Stat. 1485, amended title analysis generally, adding item IV, substituting "50101" for "53101" in item V, adding item VI, substituting "SECURITY AND DRUG ENFORCEMENT" for "MISCELLANEOUS" in item VII, and adding item VIII.
@@ -1382,6 +1384,10 @@ Disposition Table
 | 12102 note (Pub. L. 105–277, §203(b)–(e))                             | 12113                                                         |
 | 12106 note (Pub. L. 105–383, §§502–504)                               | 12121                                                         |
 | 12119 note (Pub. L. 107–295, §403)                                    | 12138                                                         |
+
+  
+
+#### **Statutory Notes and Related Subsidiaries**
 
 #### Enacting Clauses
 

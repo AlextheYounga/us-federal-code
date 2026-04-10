@@ -20,6 +20,8 @@ Sec.
 
         
 
+#### **Editorial Notes**
+
 #### Amendments
 
 **2018**—Pub. L. 115–282, title VII, §711(b), Dec. 4, 2018, 132 Stat. 4298, substituted "Meetings" for "Record of meetings and votes" in item 303.

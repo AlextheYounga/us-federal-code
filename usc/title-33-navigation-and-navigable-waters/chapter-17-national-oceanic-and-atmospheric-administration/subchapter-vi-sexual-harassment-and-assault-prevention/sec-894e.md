@@ -20,4 +20,4 @@ Each report submitted under subsection (a) shall include, with respect to the pr
 
 In preparing and submitting a report under subsection (a), the Secretary shall ensure that no individual involved in an alleged sexual assault can be identified by the contents of the report.
 
-(Pub. L. 114–328, div. C, title XXXV, §3546, Dec. 23, 2016, 130 Stat. 2804.)
+(Pub. L. 114–328, div. C, title XXXV, §3548, formerly §3546, Dec. 23, 2016, 130 Stat. 2804, renumbered §3548, Pub. L. 116–259, title V, §504(b)(1), Dec. 23, 2020, 134 Stat. 1180.)
