@@ -12,6 +12,6 @@ Sec.
 
 8355\. Losses of livestock due to depredation by federally protected species.
 
-8356\. Depredation permits for black vultures and common ravens.
+8356\. Depredation permits for black vultures and common ravens; black vulture livestock protection program.
 
         

@@ -38,13 +38,13 @@ Sec.
 
         
 
-1118\. Pilot projects for performance goals.
-
-1119\. Pilot projects for performance budgeting.
+\[1118, 1119. Repealed.\]
 
 1120\. Federal Government and agency priority goals.
 
-1121\. Quarterly priority progress reviews and use of performance information.
+1121\. Progress reviews and use of performance information.. 2
+
+        
 
 1122\. Transparency of programs, priority goals, and results.
 
@@ -54,7 +54,7 @@ Sec.
 
 1125\. Elimination of unnecessary agency reporting.
 
-1126\. Program Management Improvement Officers and Program Management Policy Council. 2
+1126\. Program Management Improvement Officers and Program Management Policy Council. 3
 
         
 
@@ -64,6 +64,8 @@ Sec.
 
 #### Amendments
 
+**2024**—Pub. L. 118–190, §§2(a)(2), 6(c), Dec. 23, 2024, 138 Stat. 2654, 2656, added item 1121 and struck out former item 1121 "Quarterly priority progress reviews and use of performance information" and items 1118 "Pilot projects for performance goals" and 1119 "Pilot projects for performance budgeting".
+
 **2011**—Pub. L. 111–352, §13(b), (c), Jan. 4, 2011, 124 Stat. 3882, added items 1115, 1116, and 1120 to 1125, and struck out former items 1115 "Performance plans" and 1116 "Program performance reports".
 
 **1994**—Pub. L. 103–355, title II, §2454(c)(3)(B), Oct. 13, 1994, 108 Stat. 3326, struck out item 1114 "Budget information on consulting services".
@@ -72,4 +74,6 @@ Sec.
 
 [1 So in original. Does not conform to section catchline.](#CHAPTER11_1)
 
-[2 Editorially supplied. Section 1126 added by Pub. L. 114–264 and Pub. L. 114–328 without corresponding amendment of chapter analysis.](#CHAPTER11_2)
+[2 So in original.](#CHAPTER11_2)
+
+[3 Editorially supplied. Section 1126 added by Pub. L. 114–264 and Pub. L. 114–328 without corresponding amendment of chapter analysis.](#CHAPTER11_3)

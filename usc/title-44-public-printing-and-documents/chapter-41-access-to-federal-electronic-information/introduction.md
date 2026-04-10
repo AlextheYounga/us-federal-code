@@ -16,7 +16,7 @@ Sec.
 
 #### Access to Congressionally Mandated Reports
 
-Pub. L. 117–263, div. G, title LXXII, subtitle D, Dec. 23, 2022, 136 Stat. 3677, provided that:
+Pub. L. 117–263, div. G, title LXXII, subtitle D, Dec. 23, 2022, 136 Stat. 3677, as amended by Pub. L. 118–172, §2(c)(1), Dec. 23, 2024, 138 Stat. 2595, provided that:
 
 #### "SEC. 7241. SHORT TITLE.
 
@@ -156,9 +156,9 @@ Pub. L. 117–263, div. G, title LXXII, subtitle D, Dec. 23, 2022, 136 Stat. 367
 
 #### "SEC. 7244. FEDERAL AGENCY RESPONSIBILITIES.
 
-"(a) Submission of Electronic Copies of Reports.—Not earlier than 30 days or later than 60 days after the date on which a congressionally mandated report is submitted to either House of Congress or to any committee of Congress or subcommittee thereof, the head of the Federal agency submitting the congressionally mandated report shall submit to the Director the information required under subparagraphs (A) through (D) of section 5243(b)(1) \[7243(b)(1)\] with respect to the congressionally mandated report. Notwithstanding section 5246 \[7246\], nothing in this subtitle shall relieve a Federal agency of any other requirement to publish the congressionally mandated report on the online portal of the Federal agency or otherwise submit the congressionally mandated report to Congress or specific committees of Congress, or subcommittees thereof.
+"(a) Submission of Electronic Copies of Reports.—Not earlier than 30 days or later than 60 days after the date on which a congressionally mandated report is submitted to either House of Congress or to any committee of Congress or subcommittee thereof, the head of the Federal agency submitting the congressionally mandated report shall submit to the Director the information required under subparagraphs (A) through (D) of section 7243(b)(1) with respect to the congressionally mandated report. Notwithstanding section 7246, nothing in this subtitle shall relieve a Federal agency of any other requirement to publish the congressionally mandated report on the online portal of the Federal agency or otherwise submit the congressionally mandated report to Congress or specific committees of Congress, or subcommittees thereof.
 
-"(b) Guidance.—Not later than 180 days after the date of enactment of this Act \[Dec. 23, 2022\], the Director of the Office of Management and Budget, in consultation with the Director, shall issue guidance to agencies on the implementation of this subtitle.
+"(b) Guidance.—Not later than 180 days after the date of the enactment of this subsection \[Dec. 23, 2024\] and periodically thereafter as appropriate, the Director of the Office of Management and Budget, in consultation with the Director, shall issue guidance to agencies on the implementation of this subtitle as well as the requirements of section 1125(b) of title 31, United States Code.
 
 "(c) Structure of Submitted Report Data.—The head of each Federal agency shall ensure that each congressionally mandated report submitted to the Director complies with the guidance on the implementation of this subtitle issued by the Director of the Office of Management and Budget under subsection (b).
 

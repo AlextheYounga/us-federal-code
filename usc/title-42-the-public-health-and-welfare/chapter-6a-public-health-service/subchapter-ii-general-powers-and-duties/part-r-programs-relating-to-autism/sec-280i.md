@@ -12,13 +12,13 @@ In submitting epidemiological data to the Secretary pursuant to paragraph (1), a
 
 #### (3) Eligibility
 
-To be eligible to receive an award under paragraph (1), an entity shall be a public or nonprofit private entity (including a health department of a State or a political subdivision of a State, a university, any other educational institution, an Indian tribe, or a tribal organization), and submit to the Secretary an application at such time, in such manner, and containing such information as the Secretary may require.
+To be eligible to receive an award under paragraph (1), an entity shall be a public or nonprofit private entity (including a health department of a State or a political subdivision of a State, a university, any other educational institution, an Indian Tribe, or a Tribal organization), and submit to the Secretary an application at such time, in such manner, and containing such information as the Secretary may require.
 
 #### (b) Centers of excellence in autism spectrum disorder epidemiology
 
 #### (1) In general
 
-The Secretary, acting through the Director of the Centers for Disease Control and Prevention, shall, subject to the availability of appropriations, award grants or cooperative agreements for the establishment or support of regional centers of excellence in autism spectrum disorder and other developmental disabilities epidemiology for the purpose of collecting and analyzing information on the number, incidence, correlates, and causes of autism spectrum disorder and other developmental disabilities for children and adults.
+The Secretary, acting through the Director of the Centers for Disease Control and Prevention, shall, subject to the availability of appropriations, award grants or cooperative agreements for the establishment or support of regional centers of excellence in autism spectrum disorder and other developmental disabilities epidemiology for the purpose of collecting and analyzing information on the number, incidence, correlates, and causes of autism spectrum disorder and other developmental disabilities for children and adults across the lifespan.
 
 #### (2) Requirements
 
@@ -38,9 +38,9 @@ The Secretary shall coordinate the Federal response to requests for assistance f
 
 In this part:
 
-#### (1) Indian tribe; tribal organization
+#### (1) Indian Tribe; Tribal organization
 
-The terms "Indian tribe" and "tribal organization" have the meanings given such terms in section 1603 of title 25.
+The terms "Indian Tribe" and "Tribal organization" have the meanings given such terms in section 1603 of title 25.
 
 #### (2) Other developmental disabilities
 
@@ -52,9 +52,9 @@ The term "State" means each of the several States, the District of Columbia, the
 
 #### (e) Sunset
 
-This section shall not apply after December 20, 2024.
+This section shall not apply after September 30, 2029.
 
-(July 1, 1944, ch. 373, title III, §399AA, as added Pub. L. 109–416, §3(a), Dec. 19, 2006, 120 Stat. 2822; amended Pub. L. 112–32, §2(1), Sept. 30, 2011, 125 Stat. 361; Pub. L. 113–157, §3, Aug. 8, 2014, 128 Stat. 1831; Pub. L. 116–60, §3(a), Sept. 30, 2019, 133 Stat. 1111; Pub. L. 118–83, div. B, title II, §201(a), Sept. 26, 2024, 138 Stat. 1537.)
+(July 1, 1944, ch. 373, title III, §399AA, as added Pub. L. 109–416, §3(a), Dec. 19, 2006, 120 Stat. 2822; amended Pub. L. 112–32, §2(1), Sept. 30, 2011, 125 Stat. 361; Pub. L. 113–157, §3, Aug. 8, 2014, 128 Stat. 1831; Pub. L. 116–60, §3(a), Sept. 30, 2019, 133 Stat. 1111; Pub. L. 118–83, div. B, title II, §201(a), Sept. 26, 2024, 138 Stat. 1537; Pub. L. 118–180, §3(a), Dec. 23, 2024, 138 Stat. 2615.)
 
   
 
@@ -62,7 +62,15 @@ This section shall not apply after December 20, 2024.
 
 #### Amendments
 
-**2024**—Subsec. (e). Pub. L. 118–83 substituted "December 20, 2024" for "September 30, 2024".
+**2024**—Subsec. (a)(3). Pub. L. 118–180, §3(a)(1), substituted "an Indian Tribe, or a Tribal organization" for "an Indian tribe, or a tribal organization".
+
+Subsec. (b)(1). Pub. L. 118–180, §3(a)(2), inserted "across the lifespan" before period at end.
+
+Subsec. (d)(1). Pub. L. 118–180, §3(a)(3), substituted "Tribe; tribal" for "tribe; tribal" in heading of original Act which appears in heading as "Tribe; Tribal" and substituted "Tribe" for "tribe" and "Tribal" for "tribal" in text.
+
+Subsec. (e). Pub. L. 118–180, §3(a)(4), substituted "September 30, 2029" for "December 20, 2024".
+
+Pub. L. 118–83 substituted "December 20, 2024" for "September 30, 2024".
 
 **2019**—Subsec. (a)(1). Pub. L. 116–60, §3(a)(1), substituted "adults with autism spectrum disorder" for "adults on autism spectrum disorder".
 
@@ -89,6 +97,14 @@ Subsec. (e). Pub. L. 113–157, §3(4), substituted "2019" for "2014".
   
 
 #### **Statutory Notes and Related Subsidiaries**
+
+#### Technical Assistance To Improve Access to Communication Tools
+
+Pub. L. 118–180, §4, Dec. 23, 2024, 138 Stat. 2619, provided that:
+
+"(a) In General.—The Secretary of Health and Human Services (referred to in this section as the 'Secretary') may, at the request of a State, Indian Tribe, Tribal organization, locality, or territory, provide training and technical assistance to such jurisdiction on the manner in which Federal funding administered by the Secretary may be used to provide individuals with autism spectrum disorder and other developmental disabilities with access to evidence-based services, tools, and technologies that support communication needs.
+
+"(b) Annual Report.—The Secretary shall annually prepare and submit to the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Energy and Commerce of the House of Representatives a report summarizing any technical assistance provided by the Secretary in the preceding fiscal year under subsection (a) and any advancements in the development or evaluation of such evidence-based services, tools, and technologies."
 
 #### National Autism Spectrum Disorder Initiative
 
