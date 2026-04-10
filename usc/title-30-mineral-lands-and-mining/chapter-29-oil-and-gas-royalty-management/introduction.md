@@ -46,8 +46,6 @@ Sec.
 
 1726\. Alternatives for marginal properties.
 
-1727\. Royalties on all extracted methane.
-
         
 
 #### SUBCHAPTER II—STATES AND INDIAN TRIBES

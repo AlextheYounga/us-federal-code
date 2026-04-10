@@ -14,9 +14,7 @@ Sec.
 
 6416\. Certain taxes on sales and services.
 
-6417\. Elective payment of applicable credits.
-
-6418\. Transfer of certain credits.
+\[6417, 6418. Repealed.\]
 
 6419\. Excise tax on wagering.
 
@@ -55,8 +53,6 @@ Sec.
 #### **Editorial Notes**
 
 #### Amendments
-
-**2022**—Pub. L. 117–169, title I, §13801(e), Aug. 16, 2022, 136 Stat. 2013, added items 6417 and 6418.
 
 **2021**—Pub. L. 117–2, title IX, §§9501(b)(1)(B), 9601(c)(3)(B), Mar. 11, 2021, 135 Stat. 136, 143, added items 6428B and 6432.
 
