@@ -24,7 +24,7 @@ Sec.
 
 971i. Research on Atlantic highly migratory species.
 
-971j. Annual report.
+971j. Repealed.
 
 971k. Savings clause.
 

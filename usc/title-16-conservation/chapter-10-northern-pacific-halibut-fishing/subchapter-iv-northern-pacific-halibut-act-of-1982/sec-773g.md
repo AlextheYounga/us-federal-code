@@ -2,7 +2,7 @@
 
 #### (a) Offenses
 
-A person is guilty of any [1](#773g_1_target) offense if he commits an act prohibited by section 773e(a)(2), (3), (4), or (6) of this title; or section 773e(b) of this title.
+A person is guilty of any [1](#773g_1_target) offense if he commits an act prohibited by section 773e(a)(2), (3), (4), or (6) [2](#773g_2_target) of this title; or section 773e(b) [2](#773g_2_target) of this title.
 
 #### (b) Fines; imprisonment
 
@@ -14,8 +14,16 @@ There is Federal jurisdiction over any offense described in this section.
 
 (Pub. L. 97–176, §9, May 17, 1982, 96 Stat. 81; Pub. L. 109–479, title III, §301(c), Jan. 12, 2007, 120 Stat. 3623.)
 
+#### References in Text
+
+Subsec. (a) and pars. (2), (3), (4), and (6) of section 773e of this title, referred to in subsec. (a), was renumbered par. (1) and subpars. (B), (C), (D), and (F), respectively, of par. (1) of section 773e of this title by Pub. L. 114–81, title I, §110(1), (2), Nov. 5, 2015, 129 Stat. 659.
+
+Subsec. (b) of section 773e of this title, referred to in subsec. (a), was renumbered par. (2) of section 773e of this title by Pub. L. 114–81, title I, §110(2), Nov. 5, 2015, 129 Stat. 659.
+
 #### Amendments
 
 **2007**—Subsec. (b). Pub. L. 109–479 substituted "$200,000" for "$50,000" and "$400,000," for "$100,000,".
 
 [1 So in original. Probably should be "an".](#773g_1)
+
+[2See References in Text note below.](#773g_2)
