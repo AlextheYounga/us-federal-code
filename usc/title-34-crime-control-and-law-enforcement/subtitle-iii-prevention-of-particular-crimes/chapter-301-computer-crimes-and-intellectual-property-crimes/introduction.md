@@ -14,4 +14,10 @@ Sec.
 
 30106\. Annual reports.
 
+30107\. Local law enforcement grants for enforcement of cybercrimes.
+
+30108\. National Resource Center grant.
+
+30109\. National strategy, classification, and reporting on cybercrime.
+
         

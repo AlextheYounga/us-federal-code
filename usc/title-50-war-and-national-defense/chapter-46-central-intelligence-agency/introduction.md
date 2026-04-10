@@ -66,4 +66,10 @@ Sec.
 
 3526\. Improvement of education in science, technology, engineering, arts, and mathematics.
 
+3527\. Chaplain Corps and Chief of Chaplains.
+
+3528\. Compensation and professional standards for certain medical officers.
+
+3529\. Medical advisory board.
+
         

@@ -124,6 +124,6 @@
 
 Subsec. (i). Pub. L. 117–81 added subsec. (i) relating to transfer of authorizations among military services.
 
-Pub. L. 116–283, §501(a)(1), redesignated subsec. (h) as (i).
+Pub. L. 116–283, §501(a)(1), redesignated subsec. (h) as (i) relating to annual report.
 
 [1 So in original. Two subsecs. (i) have been enacted.](#526a_1)

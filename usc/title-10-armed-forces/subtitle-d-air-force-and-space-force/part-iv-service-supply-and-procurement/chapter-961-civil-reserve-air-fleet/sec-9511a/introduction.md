@@ -1,1 +1,1 @@
-### \[§9511a. Renumbered 9512\]
+### \[§9511a. Renumbered §9512\]

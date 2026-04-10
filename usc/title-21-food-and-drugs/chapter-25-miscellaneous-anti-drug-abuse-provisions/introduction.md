@@ -10,6 +10,8 @@ Sec.
 
 2003\. Authorization of appropriations.
 
+2004\. Information sharing.
+
         
 
 #### SUBCHAPTER II—NATIONAL METHAMPHETAMINE INFORMATION CLEARINGHOUSE
