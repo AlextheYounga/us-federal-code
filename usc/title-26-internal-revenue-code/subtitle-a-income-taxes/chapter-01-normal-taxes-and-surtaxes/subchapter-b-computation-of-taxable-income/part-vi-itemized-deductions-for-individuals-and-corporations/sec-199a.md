@@ -140,7 +140,7 @@ For purposes of this subsection—
 
 The term "qualified items of income, gain, deduction, and loss" means items of income, gain, deduction, and loss to the extent such items are—
 
-(i) effectively connected with the conduct of a trade or business within the United States (within the meaning of section 864(c), determined by substituting "qualified trade or business (within the meaning of section 199A)" for"nonresident alien individual or a foreign corporation" or for "a [1](#199A_1_target) foreign corporation" each place it appears), and
+(i) effectively connected with the conduct of a trade or business within the United States (within the meaning of section 864(c), determined by substituting "qualified trade or business (within the meaning of section 199A)" for "nonresident alien individual or a foreign corporation" or for "a [1](#199A_1_target) foreign corporation" each place it appears), and
 
 (ii) included or allowed in determining taxable income for the taxable year.
 
