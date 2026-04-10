@@ -758,7 +758,7 @@ Sec.
 
 1098g. Exemption from State disclosure requirements.
 
-1098h. .Procedure and requirements for requesting tax return information from the Internal Revenue Service.
+1098h. Procedure and requirements for requesting tax return information from the Internal Revenue Service.
 
         
 

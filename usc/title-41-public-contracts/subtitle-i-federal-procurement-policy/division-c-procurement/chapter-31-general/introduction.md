@@ -16,6 +16,8 @@ Sec.
 
         
 
+#### **Statutory Notes and Related Subsidiaries**
+
 #### Cost-Effectiveness Analysis of Equipment Rental
 
 Pub. L. 115–254, div. B, title V, §555, Oct. 5, 2018, 132 Stat. 3381, provided that:

@@ -24,6 +24,10 @@ Section 2000 authorized creation of interagency committees.
 
 Section 2001 prescribed extent of cultural program.
 
+  
+
+#### **Statutory Notes and Related Subsidiaries**
+
 #### Continuation of Certain Executive Orders, Agreements, Determination, Regulations, Contracts, Appointments, and Other Actions
 
 Continuation in full force and effect, and applicability to the appropriate provisions of the Mutual Educational and Cultural Exchange Act of 1961, set out as section 2451 et seq. of this title, until modified or superseded by appropriate authority, of all Executive orders, agreements, determinations, regulations, contracts, appointments, and other actions issued, concluded; or taken under authority of these sections, see section 111(b) of Pub. L. 87–256, set out as a note under section 2451 of this title.

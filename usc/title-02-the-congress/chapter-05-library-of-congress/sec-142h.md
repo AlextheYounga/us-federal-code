@@ -14,6 +14,10 @@ in the same manner as provided with respect to the Office of Technology Assessme
 
 (Pub. L. 101–163, title I, Nov. 21, 1989, 103 Stat. 1054.)
 
+  
+
+#### **Editorial Notes**
+
 #### Prior Provisions
 
 Provisions similar to those in this section were contained in the following prior appropriation act:

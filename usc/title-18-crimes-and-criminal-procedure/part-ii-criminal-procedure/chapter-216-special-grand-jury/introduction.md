@@ -12,9 +12,15 @@ Sec.
 
         
 
+#### **Editorial Notes**
+
 #### Amendments
 
 **1970**—Pub. L. 91–452, title I, §101(a), Oct. 15, 1970, 84 Stat. 923, added chapter 216 and items 3331 to 3334.
+
+  
+
+#### **Statutory Notes and Related Subsidiaries**
 
 #### National Commission on Individual Rights
 

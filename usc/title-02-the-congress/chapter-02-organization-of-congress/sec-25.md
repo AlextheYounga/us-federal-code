@@ -6,6 +6,10 @@ The Clerk of the House of Representatives of the Eightieth and each succeeding C
 
 (R.S. §30; Feb. 18, 1948, ch. 53, 62 Stat. 20.)
 
+  
+
+#### **Editorial Notes**
+
 #### Codification
 
 R.S. §30 derived from act June 1, 1789, ch. 1, §2, 1 Stat. 23.

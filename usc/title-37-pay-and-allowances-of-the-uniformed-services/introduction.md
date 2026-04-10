@@ -30,6 +30,8 @@ Chap. Sec.
 
         
 
+#### **Editorial Notes**
+
 #### Amendments
 
 **2013**—Pub. L. 112–239, div. A, title X, §1076(a)(7), Jan. 2, 2013, 126 Stat. 1948, made technical amendment to directory language of Pub. L. 112–81, §631(f)(2). See 2011 Amendment note below.
@@ -224,6 +226,10 @@ Table Showing Disposition of All Sections of Former Title 37
 | 421 (less (c), (d))                    | T. 10 §1074                                                                          |
 | 422                                    | T. 10 §1075                                                                          |
 | 423                                    | T. 10 §1083                                                                          |
+
+  
+
+#### **Statutory Notes and Related Subsidiaries**
 
 #### Enacting Clause
 

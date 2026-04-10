@@ -32,6 +32,8 @@ Sec.
 
         
 
+#### **Editorial Notes**
+
 #### Amendments
 
 **2018**—Pub. L. 115–254, div. B, title III, §§382(b), 384(b), Oct. 5, 2018, 132 Stat. 3320, 3323, added items 39B and 40A.

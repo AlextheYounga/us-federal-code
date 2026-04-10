@@ -983,6 +983,10 @@ This Table lists the sections of Title 39, Postal Service, as revised in 1970, a
 | 5604                     | 6435                                                                                                                                           |
 | 5605                     | 6405, 6408, 6413                                                                                                                               |
 
+  
+
+#### **Statutory Notes and Related Subsidiaries**
+
 #### Positive Law
 
 This title was enacted into law by Pub. L. 91–375, §2, Aug. 12, 1970, 84 Stat. 719, which provided that: "Title 39, United States Code, is revised and reenacted, and the sections thereof may be cited as 39 U.S.C. §\_\_".

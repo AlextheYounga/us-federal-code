@@ -16,6 +16,8 @@ Sec.
 
         
 
+#### **Editorial Notes**
+
 #### Amendments
 
 **2019**—Pub. L. 116–92, div. A, title X, §1055(c)(2), Dec. 20, 2019, 133 Stat. 1593, added item 3401 and struck out former item 3401 "Mailing privileges of members of Armed Forces of the United States and of friendly foreign nations".
