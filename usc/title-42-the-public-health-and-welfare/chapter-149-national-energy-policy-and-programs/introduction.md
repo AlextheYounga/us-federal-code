@@ -374,6 +374,8 @@ Sec.
 
 16182\. Definitions.
 
+16183\. Energy and water for sustainability.
+
         
 
 #### Part A—Energy Efficiency
@@ -391,6 +393,8 @@ Sec.
 16196\. Energy Efficiency Science Initiative.
 
 16197\. Advanced Energy Technology Transfer Centers.
+
+16198\. Smart energy and water efficiency pilot program.
 
         
 
@@ -420,6 +424,12 @@ Sec.
 
 16235\. Renewable energy in public buildings.
 
+16236\. Research and development into integrating renewable energy onto the electric grid.
+
+16237\. Wind energy research and development.
+
+16238\. Solar energy research and development.
+
         
 
 #### Part D—Agricultural Biomass Research and Development Programs
@@ -442,13 +452,13 @@ Sec.
 
 16271\. Nuclear energy.
 
-16272\. Nuclear energy research programs.
+16272\. Reactor concepts research, development, demonstration, and commercial application.
 
-16273\. Advanced fuel cycle initiative.
+16273\. Fuel cycle research, development, demonstration, and commercial application.
 
-16274\. University nuclear science and engineering support.
+16274\. Nuclear science and engineering support.
 
-16274a. Integrated University Program.
+16274a. University Nuclear Leadership Program.
 
 16275\. Department of Energy civilian nuclear infrastructure and facilities.
 
@@ -460,7 +470,15 @@ Sec.
 
 16279\. Budget plan.
 
+16279a. Advanced reactor demonstration program.
+
+16279b. International nuclear energy cooperation.
+
+16279c. Organization and administration of programs.
+
 16280\. Advanced Nuclear Energy Licensing Cost-Share Grant Program.
+
+16281\. Advanced nuclear fuel availability.
 
         
 
@@ -470,9 +488,9 @@ Sec.
 
 16291a. Property interests.
 
-16292\. Coal and related technologies program.
+16292\. Carbon capture technology program.
 
-16293\. Carbon capture and sequestration research, development, and demonstration program.
+16293\. Carbon storage validation and testing.
 
 16294\. Research and development for coal mining technologies.
 
@@ -481,6 +499,20 @@ Sec.
 16296\. Low-volume oil and gas reservoir research program.
 
 16297\. Complex Well Technology Testing Facility.
+
+16298\. Carbon utilization program. 1
+
+        
+
+16298a. Carbon utilization program. 1
+
+16298b. High efficiency turbines.
+
+16298c. National Energy Technology Laboratory reforms.
+
+16298d. Carbon removal.
+
+16298e. Carbon dioxide removal task force and report.
 
         
 
@@ -563,6 +595,8 @@ Sec.
 #### SUBCHAPTER X—DEPARTMENT OF ENERGY MANAGEMENT
 
 16391\. Improved technology transfer of energy technologies.
+
+16391a. Technology transfer reports and evaluation.
 
 16392\. Technology Infrastructure Program.
 
@@ -729,3 +763,5 @@ Sec.
 16539\. National Laboratory Jobs ACCESS Program.
 
         
+
+[1 So in original.](#CHAPTER149_1)

@@ -58,4 +58,6 @@ Sec.
 
 472\. Interstate shipment of poultry inspected by Federal and State agencies for certain small establishments.
 
+473\. Grants for improvements to meat and poultry facilities to allow for interstate shipment.
+
         
