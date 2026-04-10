@@ -60,16 +60,10 @@ The area described contains approximately 1,550 acres.
 
 The area known as Hassel Island in Saint Thomas Harbor consisting of approximately 135 acres, together with such adjoining lands, submerged lands, and waters as the Secretary of the Interior deems appropriate, but the boundaries shall not, in any event, extend beyond 100 yards from the mean high water mark of the island.
 
-Lands, submerged lands, and waters added to the Virgin Islands National Park pursuant to sections 398c to 398f of this title shall be subject to administration by the Secretary of the Interior in accordance with the provisions of sections 1, 2, 3, and 4 [1](#Ianalysis_1_target) of this title, as amended and supplemented.
+Lands, submerged lands, and waters added to the Virgin Islands National Park pursuant to sections 398c to 398f of this title shall be subject to administration by the Secretary of the Interior in accordance with the provisions of sections 1, 2, 3, and 4 of this title, as amended and supplemented.
 
 (Pub. L. 87–750, §1, Oct. 5, 1962, 76 Stat. 746; Pub. L. 95–348, §7(a), Aug. 18, 1978, 92 Stat. 493.)
-
-#### References in Text
-
-Sections 1, 2, 3, and 4 of this title, referred to in text, were repealed by Pub. L. 113–287, §7, Dec. 19, 2014, 128 Stat. 3272. For disposition of sections, see Disposition Table preceding section 100101 of Title 54, National Park Service and Related Programs.
 
 #### Amendments
 
 **1978**—Pub. L. 95–348 inserted provisions relating to boundaries of Hassel Island located in Saint Thomas Harbor and adjoining lands, submerged lands, and waters.
-
-[1 See References in Text note below.](#Ianalysis_1)

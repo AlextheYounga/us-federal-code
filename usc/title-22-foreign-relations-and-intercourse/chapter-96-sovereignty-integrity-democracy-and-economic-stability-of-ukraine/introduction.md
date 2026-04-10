@@ -18,6 +18,6 @@ Sec.
 
 8908\. Sanctions on persons in the Russian Federation complicit in or responsible for significant corruption.
 
-8909\. Repealed.
+8909\. Annual report on military and security developments involving the Russian Federation.
 
         

@@ -216,7 +216,9 @@ Sec.
 
 521i. Unaffected lands.
 
-522, 523. Omitted.
+522\. Omitted.
+
+523\. Rights-of-way through national forests for power and communications facilities.
 
 524\. Rights-of-way for dams, reservoirs, or water plants for municipal, mining, and milling purposes.
 
@@ -315,12 +317,6 @@ Sec.
 539n. Crystal Springs Watershed Special Resources Management Unit.
 
 539 o. Ancient Bristlecone Pine Forest.
-
-539p. Southeast Arizona land exchange and conservation.
-
-539q. Hermosa Creek watershed protection.
-
-539r. Rocky Mountain Front Conservation Management Area and wilderness additions.
 
         
 
