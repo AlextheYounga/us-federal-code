@@ -392,6 +392,8 @@ Sec.
 
 805\. Local assistance and Tribal consistency fund.
 
+806\. Rescission of funds declined by states, territories, or other governmental entities.
+
         
 
 #### SUBCHAPTER VII—ADMINISTRATION
@@ -1118,6 +1120,8 @@ Sec.
 
 1395cc–6. Opioid use disorder treatment demonstration program.
 
+1395cc–7. Extension of Acute Hospital Care at Home initiative.
+
 1395dd. Examination and treatment for emergency medical conditions and women in labor.
 
 1395ee. Practicing Physicians Advisory Council; Council for Technology and Innovation.
@@ -1313,6 +1317,8 @@ Sec.
 1396w–5. Addressing health care disparities.
 
 1396w–6. State option to provide qualifying community-based mobile crisis intervention services.
+
+1396w–7. Supporting access to a continuum of crisis response services under Medicaid and CHIP.
 
         
 
