@@ -1,5 +1,5 @@
-### §37. Salaries of Representatives, Delegates, and Resident Commissioners elected for unexpired terms
+### §37. Transferred
 
-The salaries of Representatives in Congress, Delegates from Territories, and Resident Commissioners, elected for unexpired terms, shall commence on the date of their election and not before.
+#### Codification
 
-(July 16, 1914, ch. 141, §1, 38 Stat. 458.)
+Section 37 was editorially reclassified as section 5304 of this title.

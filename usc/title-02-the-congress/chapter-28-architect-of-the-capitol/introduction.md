@@ -104,6 +104,10 @@ Sec.
 
 1852\. Withholding and remittance of State income tax.
 
+1853\. Exemption of officers and employees of Architect of Capitol from certain Federal pay provisions.
+
+1854\. Overtime compensation for certain employees of Architect of Capitol.
+
         
 
 #### SUBCHAPTER IV—APPROPRIATIONS AND EXPENDITURES
