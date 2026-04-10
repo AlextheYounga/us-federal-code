@@ -20,8 +20,6 @@ Sec.
 
 3357a. Statement of policy on Taiwan.
 
-3357b. Establishment of training, advising, and institutional capacity-building program for military forces of Taiwan.
-
         
 
 #### SUBCHAPTER II—COUNTERING PEOPLE'S REPUBLIC OF CHINA'S COERCION AND INFLUENCE CAMPAIGNS

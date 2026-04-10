@@ -14,8 +14,6 @@ Sec.
 
 213\. Application for passport; verification by oath of initial passport.
 
-213a. Authority to designate additional passport acceptance agents.
-
 214\. Fees for execution and issuance of passports; persons excused from payment.
 
 214a. Fees erroneously charged and paid; refund.
