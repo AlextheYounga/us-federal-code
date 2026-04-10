@@ -116,8 +116,6 @@ Sec.
 
 2152j–4. Definitions.
 
-2152k. Assistance to improve early childhood outcomes globally.
-
         
 
 #### Part II—Other Programs
@@ -314,10 +312,6 @@ Sec.
 
 2276\. "Central American countries" defined.
 
-2277\. Strategy to advance prosperity, combat corruption, strengthen democratic governance, and improve civilian security in El Salvador, Guatemala, and Honduras.
-
-2277a. Targeted sanctions to fight corruption in El Salvador, Guatemala, and Honduras.
-
         
 
 #### Part VII—Debt-for-Nature Exchanges
@@ -498,9 +492,7 @@ Sec.
 
 2346c. Administration of justice.
 
-2346d. People-to-People Partnership for Peace Fund.
-
-2346e to 2346i. Repealed.
+2346d to 2346i. Repealed.
 
         
 

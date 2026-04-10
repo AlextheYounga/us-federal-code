@@ -16,8 +16,6 @@ V. Transportation of Mail 5001
 
         
 
-#### **Editorial Notes**
-
 Table I  
 This Table lists the sections of former Title 39, The Postal Service, and indicates the sections of Title 39, as enacted in 1960, which covered similar and related subject matter.
 | *Title 39  Former Sections*                       | *Title 39  1960 Revision Sections*                         |

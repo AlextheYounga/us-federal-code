@@ -68,8 +68,6 @@ Sec.
 
 278h. Research program on security of computer systems.
 
-278h–1. Standards for artificial intelligence.
-
 278i. Reports to Congress.
 
 278j. Studies by National Research Council.

@@ -1,11 +1,5 @@
 ### **CHAPTER 281—CLAIMS AND DISPUTES**
 
-Sec.
+#### Amendments
 
-3861\. Research and development contracts: indemnification provisions.
-
-3862\. Requests for equitable adjustment or other relief: certification.
-
-3863\. Retention of amounts collected from contractor during the pendency of contract dispute.
-
-        
+**2018**—Pub. L. 115–232, div. A, title VIII, §801(a), Aug. 13, 2018, 132 Stat. 1828, added chapter heading.

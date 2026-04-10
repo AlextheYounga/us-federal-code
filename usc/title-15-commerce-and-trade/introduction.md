@@ -164,8 +164,6 @@ Chap. Sec.
 
 57\. Interstate Horseracing 3001
 
-57A. Horseracing Integrity and Safety 3051
-
 58\. Full Employment and Balanced Growth 3101
 
 59\. Retail Policies for Natural Gas Utilities 3201
@@ -195,8 +193,6 @@ Chap. Sec.
 71\. Petroleum Overcharge Distribution and Restitution 4501
 
 72\. Semiconductor Research 4601
-
-72A. Creating Helpful Incentives to Produce Semiconductors for America 4651
 
 73\. Export Enhancement 4701
 
@@ -293,9 +289,5 @@ Chap. Sec.
 116\. Coronavirus Economic Stabilization 9001
 
 117\. Identifying Outputs of Generative Adversarial Networks 9201
-
-118\. Sustainable Chemistry 9301
-
-119\. National Artificial Intelligence Initiative 9401
 
         

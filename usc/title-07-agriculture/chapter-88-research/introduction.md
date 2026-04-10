@@ -120,8 +120,6 @@ Sec.
 
 5936\. Farm and Ranch Stress Assistance Network.
 
-5936a. Support for farm stress programs.
-
 5937\. Natural products research program.
 
 5938\. Repealed.

@@ -218,8 +218,6 @@ Sec.
 
 2254b. Availability of funds appropriated for Agricultural Research Service for research related to tobacco or tobacco products; exception.
 
-2254c. Research.
-
 2255\. Membership in International Wheat Advisory Committee, International Sugar Council, etc.
 
 2255a. Financial assistance to national and international conferences.

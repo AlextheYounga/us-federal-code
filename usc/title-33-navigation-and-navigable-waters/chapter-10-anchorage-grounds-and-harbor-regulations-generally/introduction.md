@@ -2,7 +2,7 @@
 
 Sec.
 
-471\. Transferred.
+471\. Establishment by Secretary of Homeland Security of anchorage grounds and regulations generally.
 
 472\. Marking anchorage grounds by Commandant of the Coast Guard.
 

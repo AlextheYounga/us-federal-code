@@ -62,8 +62,4 @@ Sec.
 
 3524\. Support for the Associate Director of the Central Intelligence Agency for Military Affairs.
 
-3525\. Office of the Ombudsman for Analytic Objectivity.
-
-3526\. Improvement of education in science, technology, engineering, arts, and mathematics.
-
         

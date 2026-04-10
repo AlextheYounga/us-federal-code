@@ -154,7 +154,7 @@ Sec.
 
 11388\. Reports to Congress.
 
-11389\. Indian tribes and tribally designated housing entities.
+11389\. Repealed.
 
         
 

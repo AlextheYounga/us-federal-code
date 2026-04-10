@@ -10,10 +10,6 @@ Sec.
 
 104\. National biodefense strategy.
 
-105\. Biodefense analysis and budget submission.
-
-106\. Update of national biodefense implementation plan.
-
         
 
 #### SUBCHAPTER I—DEPARTMENT OF HOMELAND SECURITY
@@ -69,8 +65,6 @@ Sec.
 124 l. Transferred.
 
 124m. Classified Information Advisory Officer.
-
-124m–1. Departmental coordination on counter threats.
 
 124n. Protection of certain facilities and assets from unmanned aircraft.
 
@@ -154,8 +148,6 @@ Sec.
 
 195f. EMP and GMD mitigation research and development and threat assessment, response, and recovery.
 
-195g. Countering Unmanned Aircraft Systems Coordinator.
-
         
 
 #### SUBCHAPTER IV—BORDER, MARITIME, AND TRANSPORTATION SECURITY
@@ -186,7 +178,7 @@ Sec.
 
 215\. Definition.
 
-216\. Protection against potential synthetic opioid exposure.
+216\. Repealed.
 
 217\. Allocation of resources by the Secretary.
 
@@ -370,8 +362,6 @@ Sec.
 
 321q. Coordination of Department of Homeland Security efforts related to food, agriculture, and veterinary defense against terrorism.
 
-322\. Continuity of the economy plan.
-
         
 
 #### SUBCHAPTER VI—TREATMENT OF CHARITABLE TRUSTS FOR MEMBERS OF THE ARMED FORCES OF THE UNITED STATES AND OTHER GOVERNMENTAL ORGANIZATIONS
@@ -457,8 +447,6 @@ Sec.
 415\. Homeland Security Education Program.
 
 416\. Use of protective equipment or measures by employees.
-
-417\. Rotational cybersecurity research program.
 
         
 
@@ -860,8 +848,6 @@ Sec.
 
 652\. Cybersecurity and Infrastructure Security Agency.
 
-652a. Sector risk management agencies.
-
 653\. Cybersecurity Division.
 
 654\. Infrastructure Security Division.
@@ -885,20 +871,6 @@ Sec.
 663\. Federal intrusion detection and prevention system.
 
 664\. National asset database.
-
-665\. Duties and authorities relating to .gov internet domain.
-
-665a. Intelligence and cybersecurity diversity fellowship program.
-
-665b. Joint cyber planning office.
-
-665c. Cybersecurity State Coordinator.
-
-665d. Sector risk management agencies.
-
-665e. Cybersecurity Advisory Committee.
-
-665f. Cybersecurity education and training programs.
 
         
 

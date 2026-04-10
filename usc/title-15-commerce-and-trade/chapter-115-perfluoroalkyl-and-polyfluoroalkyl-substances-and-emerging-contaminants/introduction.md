@@ -46,6 +46,4 @@ Sec.
 
 8962\. PFAS research and development.
 
-8963\. Interagency body on research related to per- and polyfluoroalkyl substances.
-
         

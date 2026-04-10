@@ -14,13 +14,7 @@ Sec.
 
         
 
-1066\. Use of commissary stores and MWR facilities: protective services civilian employees.
-
-        
-
 #### Amendments
-
-**2021**—Pub. L. 116–283, div. A, title VI, §631(b), title X, §1081(a)(23), Jan. 1, 2021, 134 Stat. 3682, 3872, added items 1065 and 1066.
 
 **2018**—Pub. L. 115–232, div. A, title VI, §621(b)(2), Aug. 13, 2018, 132 Stat. 1799, added item 1065.
 
@@ -38,4 +32,4 @@ Sec.
 
 **1990**—Pub. L. 101–510, div. A, title III, §321(d), Nov. 5, 1990, 104 Stat. 1528, added items 1064 and 1065.
 
-[1 So in original. Does not conform to section catchline.](#CHAPTER54_1)
+[1 Section catchline amended by Pub. L. 116–92 without corresponding amendment of chapter analysis.](#CHAPTER54_1)

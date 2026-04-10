@@ -60,8 +60,6 @@ Sec.
 
 636 l. Semiannual report.
 
-636m. Loan forgiveness.
-
 637\. Additional powers.
 
 637a. Repealed.
@@ -81,8 +79,6 @@ Sec.
 639\. Reporting requirements and agency cooperation.
 
 639a. Review of loan program; submission of estimated needs for additional authorization.
-
-639b. Oversight.
 
 640\. Voluntary agreements among small-business concerns.
 
@@ -149,8 +145,6 @@ Sec.
 657e. Mentoring Networks.
 
 657f. Procurement program for small business concerns owned and controlled by service-disabled veterans.
-
-657f–1. Certification of small business concerns owned and controlled by veterans.
 
 657g. Participation in federally funded projects.
 
