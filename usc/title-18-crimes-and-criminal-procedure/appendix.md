@@ -2938,7 +2938,7 @@ Amendments of this rule embraced in the order of the United States Supreme Court
 
 (iii) a violation of the constitutional right to a speedy trial;
 
-(iv) selective or vindictive prosecution;
+(iv) selective or vindictive prosecution; and
 
 (v) an error in the grand-jury proceeding or preliminary hearing;
 
@@ -2991,8 +2991,6 @@ Amendments of this rule embraced in the order of the United States Supreme Court
 (f) Recording the Proceedings. All proceedings at a motion hearing, including any findings of fact and conclusions of law made orally by the court, must be recorded by a court reporter or a suitable recording device.
 
 (g) Defendant's Continued Custody or Release Status. If the court grants a motion to dismiss based on a defect in instituting the prosecution, in the indictment, or in the information, it may order the defendant to be released or detained under 18 U.S.C. §3142 for a specified time until a new indictment or information is filed. This rule does not affect any federal statutory period of limitations.
-
-  
 
 (h) Producing Statements at a Suppression Hearing. Rule 26.2 applies at a suppression hearing under Rule 12(b)(3)(C). At a suppression hearing, a law enforcement officer is considered a government witness.
 

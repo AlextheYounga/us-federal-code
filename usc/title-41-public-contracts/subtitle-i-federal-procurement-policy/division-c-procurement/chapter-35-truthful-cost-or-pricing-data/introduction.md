@@ -21,3 +21,7 @@ Sec.
 3509\. Notification of violations of Federal criminal law or overpayments.
 
         
+
+#### Senate Revision Amendment
+
+In chapter 35 heading, "OR" substituted for "AND" by S. Amdt. 4726 (111th Cong.). See 156 Cong. Rec. 18683 (2010).
