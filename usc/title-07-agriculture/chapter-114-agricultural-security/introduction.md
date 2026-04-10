@@ -8,13 +8,11 @@ Sec.
 
 #### SUBCHAPTER I—AGRICULTURAL SECURITY
 
-8911\. Repealed.
+8911\. Office of Homeland Security.
 
 8912\. Agricultural biosecurity communication center.
 
 8913\. Assistance to build local capacity in agricultural biosecurity planning, preparedness, and response.
-
-8914\. Agriculture and food defense.
 
         
 

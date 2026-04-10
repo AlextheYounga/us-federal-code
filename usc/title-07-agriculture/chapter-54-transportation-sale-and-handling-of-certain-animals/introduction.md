@@ -60,6 +60,4 @@ Sec.
 
 2159\. Authority to apply for injunctions.
 
-2160\. Prohibition on slaughter of dogs and cats for human consumption.
-
         

@@ -1,4 +1,4 @@
-### **CHAPTER 1—GENERAL**
+### **CHAPTER 1 [1](#CHAPTER1 _1_target)**—GENERAL
 
 #### SUBCHAPTER I—PURPOSE AND DEFINITIONS
 
@@ -39,3 +39,5 @@ Sec.
 #### Amendments
 
 **2011**—Pub. L. 111–350, §5(l)(1), Jan. 4, 2011, 124 Stat. 3850, substituted "division C (except sections 3302, 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41" for "Federal Property and Administrative Services Act of 1949" in item 111.
+
+[1 Another chapter 1 is set out in subtitle V of this title.](#CHAPTER1 _1)

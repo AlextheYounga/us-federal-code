@@ -34,8 +34,6 @@ Sec.
 
 3115a. Tribal forest assets protection.
 
-3115b. Tribal forest management demonstration project.
-
 3116\. Obligated service; breach of contract.
 
 3117\. Authorization of appropriations.

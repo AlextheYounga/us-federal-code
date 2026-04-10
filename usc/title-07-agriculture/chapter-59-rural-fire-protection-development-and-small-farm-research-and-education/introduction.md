@@ -34,6 +34,4 @@ Sec.
 
 2670\. Repealed.
 
-2671\. Establishment of technical assistance program.
-
         

@@ -44,9 +44,7 @@ Sec.
 
 6521\. Administration.
 
-6521a. Organic agricultural product imports interagency working group.
-
-6522\. Funding.
+6522\. Authorization of appropriations.
 
 6523\. National organic certification cost-share program.
 
