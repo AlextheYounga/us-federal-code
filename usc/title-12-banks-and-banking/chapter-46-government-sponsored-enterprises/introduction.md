@@ -74,7 +74,7 @@ Sec.
 
 4547\. Enterprise guarantee fees.
 
-4548\. Repealed.
+4548\. Regulations for use of credit scores.
 
         
 

@@ -112,6 +112,8 @@ Sec.
 
 1437z–9. Data exchange standards for improved interoperability.
 
+1437z–10. Small public housing agencies.
+
         
 
 #### SUBCHAPTER II—ASSISTED HOUSING FOR INDIANS AND ALASKA NATIVES

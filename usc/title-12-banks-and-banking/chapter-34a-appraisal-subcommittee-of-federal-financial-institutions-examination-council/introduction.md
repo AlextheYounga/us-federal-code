@@ -52,4 +52,6 @@ Sec.
 
 3355\. Broker price opinions.
 
+3356\. Exemption from appraisals of real estate located in rural areas.
+
         

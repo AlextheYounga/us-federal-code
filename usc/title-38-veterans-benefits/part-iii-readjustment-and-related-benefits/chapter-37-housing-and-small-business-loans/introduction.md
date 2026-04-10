@@ -22,6 +22,8 @@ Sec.
 
 3708\. Authority to buy down interest rates: pilot program.
 
+3709\. Refinancing of housing loans.
+
         
 
 #### SUBCHAPTER II—LOANS
@@ -119,6 +121,8 @@ Sec.
         
 
 #### Amendments
+
+**2018**—Pub. L. 115–174, title III, §309(a)(4), May 24, 2018, 132 Stat. 1350, added item 3709.
 
 **2006**—Pub. L. 109–233, title I, §§103(f)(4), 104(c), June 15, 2006, 120 Stat. 401, 402, substituted "DIRECT HOUSING LOANS FOR NATIVE AMERICAN VETERANS" for "NATIVE AMERICAN VETERAN HOUSING LOAN PILOT PROGRAM" in item for subchapter V, "Direct housing loans to Native American veterans; program authority" for "Pilot program" in item 3761, "Direct housing loans to Native American veterans; program administration" for "Direct housing loans to Native American veterans" in item 3762, and "Qualified non-Native American veterans" for "Definitions" in item 3764 and added item 3765.
 
