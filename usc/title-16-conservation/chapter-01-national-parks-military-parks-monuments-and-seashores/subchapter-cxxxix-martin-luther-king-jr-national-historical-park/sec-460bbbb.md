@@ -2,7 +2,7 @@
 
 (a) In order to protect and interpret for the benefit, inspiration, and education of present and future generations the places where Martin Luther King, Junior, was born, where he lived, worked, and worshipped, and where he is buried, there is hereby established the Martin Luther King, Jr. National Historical Park in the State of Georgia. The national historical park shall consist of that real property in the city of Atlanta, Georgia, within the boundary generally depicted on the map entitled "Martin Luther King, Jr. National Historical Park Proposed Boundary Revision", numbered 489/128,786 and dated June 2015, together with the property known as 234 Sunset Avenue, Northwest. The map referred to in this subsection shall be on file and available for public inspection in the local and Washington, District of Columbia offices of the National Park Service, Department of the Interior.
 
-(b) In furtherance of the purposes of this subchapter, there is hereby established the Martin Luther King, Junior, Preservation District, which shall consist of the area identified as "Preservation District" inthe map referred to in subsection (a) of this section.
+(b) In furtherance of the purposes of this subchapter, there is hereby established the Martin Luther King, Junior, Preservation District, which shall consist of the area identified as "Preservation District" in the map referred to in subsection (a) of this section.
 
 (Pub. L. 96–428, §1, Oct. 10, 1980, 94 Stat. 1839; Pub. L. 102–575, title XL, §4024(a), Oct. 30, 1992, 106 Stat. 4768; Pub. L. 115–108, §2(1)–(3), Jan. 8, 2018, 131 Stat. 2267.)
 
