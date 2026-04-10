@@ -176,4 +176,4 @@ Pub. L. 115–72, div. B, §1004(b), Oct. 26, 2017, 131 Stat. 1232, provided tha
 
 "(2) 2 percent of the fees collected under section 1930(a)(6) of such title shall be deposited in the general fund of the Treasury."
 
-[1 See Deposits of Fees Under Subsection (a)(6) for Certain Fiscal Years note below.](#589a_1)
+[1 See Deposits of Fees Under Section 1930(a)(6) of This Title for Certain Fiscal Years note below.](#589a_1)
