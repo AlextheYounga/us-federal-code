@@ -454,7 +454,13 @@ Sec.
 
 16276\. Security of nuclear facilities.
 
-16277\. Alternatives to industrial radioactive sources.
+16277\. High-performance computation and supportive research.
+
+16278\. Enabling nuclear energy innovation.
+
+16279\. Budget plan.
+
+16280\. Advanced Nuclear Energy Licensing Cost-Share Grant Program.
 
         
 
@@ -484,11 +490,11 @@ Sec.
 
 16312\. Fusion energy sciences program.
 
-16313\. Catalysis research program.
+16313\. Solar Fuels Research Initiative.
 
 16314\. Hydrogen.
 
-16315\. Solid state lighting.
+16315\. Electricity Storage Research Initiative.
 
 16316\. Advanced scientific computing research and development program.
 
@@ -500,7 +506,7 @@ Sec.
 
 16320\. Spallation Neutron Source.
 
-16321\. Rare Isotope Accelerator.
+16321\. Facility for Rare Isotope Beams.
 
 16322\. Office of Scientific and Technical Information.
 
@@ -534,7 +540,7 @@ Sec.
 
 16356\. Report on equal employment opportunity practices.
 
-16357\. Strategy and plan for science and energy facilities and infrastructure.
+16357\. Strategy for facilities and infrastructure.
 
 16358\. Strategic research portfolio analysis and coordination plan.
 
