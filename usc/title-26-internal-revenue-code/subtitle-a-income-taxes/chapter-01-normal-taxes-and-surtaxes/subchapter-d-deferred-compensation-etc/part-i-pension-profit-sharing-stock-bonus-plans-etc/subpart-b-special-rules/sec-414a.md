@@ -80,6 +80,14 @@ In the case of a plan maintained by more than 1 employer, subparagraphs (A) and 
 
   
 
+#### **Editorial Notes**
+
+#### References in Text
+
+The date of the enactment of this section, and such date of enactment, referred to in subsec. (c)(2), is the date of enactment of Pub. L. 117–328, which was approved Dec. 29, 2022.
+
+  
+
 #### **Statutory Notes and Related Subsidiaries**
 
 #### Effective Date
