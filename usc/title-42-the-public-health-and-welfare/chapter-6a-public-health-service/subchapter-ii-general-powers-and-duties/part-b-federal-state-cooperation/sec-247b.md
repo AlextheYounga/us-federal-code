@@ -93,7 +93,6 @@ The Secretary may provide technical assistance to States, State health authoriti
 (D) education, training, and clinical skills improvement activities in the prevention and control of such diseases for health professionals (including allied health personnel).
 
   
-  
 
 (2) The Secretary may make grants to States, political subdivisions of States, and other public and nonprofit private entities for—
 
