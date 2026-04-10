@@ -80,7 +80,7 @@ Pub. L. 93–508, title IV, §404(b), Dec. 3, 1974, 88 Stat. 1600, added item fo
 
 #### Continuation of Department of Veterans Affairs Educational Assistance Benefits for Certain Programs of Education During COVID–19 Emergency
 
-Pub. L. 116–315, title I, subtitle B, §§1101–1104, Jan. 5, 2021, 134 Stat. 4960, provided that:
+Pub. L. 116–315, title I, subtitle B, §§1101–1104, Jan. 5, 2021, 134 Stat. 4960, as amended by Pub. L. 117–76, §5(b)–(d), Dec. 21, 2021, 135 Stat. 1520, provided that:
 
 #### "SEC. 1101. DEFINITIONS.
 
@@ -118,7 +118,7 @@ Pub. L. 116–315, title I, subtitle B, §§1101–1104, Jan. 5, 2021, 134 Stat.
 
 "(d) Effect on Entitlement Period.—If the Secretary determines that an individual who received assistance under this section did not make progress toward the completion of the program of education in which the individual is enrolled during the period for which the individual received such assistance, any assistance provided pursuant to this section shall not be counted for purposes of determining the total amount of an individual's entitlement to educational assistance, housing stipends, or payments or subsistence allowances under chapters 30, 31, 32, and 35 of such title and chapter 1606 of title 10, United States Code.
 
-"(e) Applicability Period.—This section shall apply during the period beginning on March 1, 2020, and ending on December 21, 2021.
+"(e) Applicability Period.—This section shall apply during the period beginning on March 1, 2020, and ending on June 1, 2022.
 
 #### "SEC. 1103. EFFECTS OF CLOSURE OF EDUCATIONAL INSTITUTION AND MODIFICATION OF COURSES BY REASON OF COVID–19 EMERGENCY.
 
@@ -168,11 +168,11 @@ Pub. L. 116–315, title I, subtitle B, §§1101–1104, Jan. 5, 2021, 134 Stat.
 
 "(2) the effect of such closure on the individual's entitlement to educational assistance pursuant to this section.
 
-"(h) Applicability.—This section shall apply with respect to the closure of an educational institution, or the cancellation or modification of a course or program of education, that occurs during the period beginning on March 1, 2020, and ending on December 21, 2021.
+"(h) Applicability.—This section shall apply with respect to the closure of an educational institution, or the cancellation or modification of a course or program of education, that occurs during the period beginning on March 1, 2020, and ending on June 1, 2022.
 
 #### "SEC. 1104. PAYMENT OF EDUCATIONAL ASSISTANCE IN CASES OF WITHDRAWAL.
 
-"(a) In General.—In the case of any individual who withdraws from a program of education or training, other than a program by correspondence, in an educational institution under chapter 31, 34, or 35 of title 38, United States Code, for a covered reason during the period beginning on March 1, 2020, and ending on December 21, 2021, the Secretary of Veterans Affairs shall find mitigating circumstances for purposes of section 3680(a)(1)(C)(ii) of title 38, United States Code.
+"(a) In General.—In the case of any individual who withdraws from a program of education or training, other than a program by correspondence, in an educational institution under chapter 31, 34, or 35 of title 38, United States Code, for a covered reason during the period beginning on March 1, 2020, and ending on June 1, 2022, the Secretary of Veterans Affairs shall find mitigating circumstances for purposes of section 3680(a)(1)(C)(ii) of title 38, United States Code.
 
 "(b) Covered Reason.—In this section, the term 'covered reason' means any reason related to the COVID–19 emergency, including—
 
@@ -212,7 +212,7 @@ Pub. L. 116–315, title V, §5105, Jan. 5, 2021, 134 Stat. 5028, provided that:
 
 #### Continuation of Department of Veterans Affairs Educational Assistance Benefits for Certain Programs of Education Converted to Distance Learning by Reason of Emergencies and Health-Related Situations
 
-Pub. L. 116–128, §1, Mar. 21, 2020, 134 Stat. 221, as amended by Pub. L. 116–159, div. E, title II, §5202(b), Oct. 1, 2020, 134 Stat. 750; Pub. L. 116–315, title I, §1107(a), Jan. 5, 2021, 134 Stat. 4966, provided that:
+Pub. L. 116–128, §1, Mar. 21, 2020, 134 Stat. 221, as amended by Pub. L. 116–159, div. E, title II, §5202(b), Oct. 1, 2020, 134 Stat. 750; Pub. L. 116–315, title I, §1107(a), Jan. 5, 2021, 134 Stat. 4966; Pub. L. 117–76, §2(b), Dec. 21, 2021, 135 Stat. 1517, provided that:
 
 "(a) In General.—In the case of a program of education approved by a State approving agency, or the Secretary of Veterans Affairs when acting in the role of a State approving agency, that is converted from being offered on-site at an educational institution or a training establishment to being offered by distance learning by reason of an emergency or health-related situation, as determined by the Secretary, the Secretary may continue to provide educational assistance under the laws administered by the Secretary without regard to such conversion, including with respect to paying any—
 
@@ -220,7 +220,7 @@ Pub. L. 116–128, §1, Mar. 21, 2020, 134 Stat. 221, as amended by Pub. L. 116�
 
 "(2) payments or subsistence allowances under chapters 30, 31, 32, and 35 of such title and chapters 1606 and 1607 of title 10, United States Code.
 
-"(b) Applicability Period.—Subsection (a) shall apply during the period beginning on March 1, 2020, and ending on December 21, 2021.
+"(b) Applicability Period.—Subsection (a) shall apply during the period beginning on March 1, 2020, and ending on June 1, 2022.
 
 "(c) Definitions.—In this section:
 
