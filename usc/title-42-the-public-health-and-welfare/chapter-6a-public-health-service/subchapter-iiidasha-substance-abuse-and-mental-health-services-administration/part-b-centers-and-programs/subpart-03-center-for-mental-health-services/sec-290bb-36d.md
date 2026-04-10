@@ -24,7 +24,7 @@ In the event that the Internet website described in subsection (b)(2) contains i
 
 Nothing in this section shall be construed to prevent the Assistant Secretary from using any unobligated amounts otherwise made available to the Administration to maintain the Routing Service.
 
-(July 1, 1944, ch. 373, title V, §520E–4, as added Pub. L. 114–255, div. B, title IX, §9006, Dec. 13, 2016, 130 Stat. 1239; amended Pub. L. 117–215, title I, §103(b)(3)(A), Dec. 2, 2022, 136 Stat. 2263; Pub. L. 117–328, div. FF, title I, §1262(b)(3), Dec. 29, 2022, 136 Stat. 5682.)
+(July 1, 1944, ch. 373, title V, §520E–4, as added Pub. L. 114–255, div. B, title IX, §9006, Dec. 13, 2016, 130 Stat. 1239; amended Pub. L. 117–215, title I, §103(b)(3)(A), Dec. 2, 2022, 136 Stat. 2263; Pub. L. 117–328, div. FF, title I, §1262(b)(3), Dec. 29, 2022, 136 Stat. 5682; Pub. L. 119–26, §4(2)(B)(iv), July 16, 2025, 139 Stat. 417.)
 
   
 
@@ -32,6 +32,16 @@ Nothing in this section shall be construed to prevent the Assistant Secretary fr
 
 #### Amendments
 
-**2022**—Subsec. (c). Pub. L. 117–328, which directed substitution of "information on any practitioner who prescribes narcotic drugs in schedule III, IV, or V of section 812 of title 21 for the purpose of maintenance or detoxification treatment" for "information on any qualified practitioner that is certified to prescribe medication for opioid dependency under section 823(g)(2)(B) of title 21", was executed in introductory provisions by making the substitution for "information on any qualified practitioner that is certified to prescribe medication for opioid dependency under section 823(h)(2)(B) of title 21", to reflect the probable intent of Congress and the intervening amendment by Pub. L. 117–215. See Amendment note below.
+**2025**—Subsec. (c). Pub. L. 119–26, §4(2)(B)(iv), amended Pub. L. 117–328, §1262(b)(3). See 2022 Amendment note below.
+
+**2022**—Subsec. (c). Pub. L. 117–328, §1262(b)(3), as amended by Pub. L. 119–26, §4(2)(B)(iv), substituted "information on any practitioner who prescribes narcotic drugs in schedule III, IV, or V of section 812 of title 21 for the purpose of maintenance or detoxification treatment" for "information on any qualified practitioner that is certified to prescribe medication for opioid dependency under section 823(h)(2)(B) of title 21" in introductory provisions.
 
 Pub. L. 117–215 substituted "823(h)(2)(B)" for "823(g)(2)(B)" in introductory provisions.
+
+  
+
+#### **Statutory Notes and Related Subsidiaries**
+
+#### Effective Date of 2025 Amendment
+
+Pub. L. 119–26, §4, July 16, 2025, 139 Stat. 416, provided that the amendment made by section 4(2)(B)(iv) is effective as if included in the enactment of Pub. L. 117–328.

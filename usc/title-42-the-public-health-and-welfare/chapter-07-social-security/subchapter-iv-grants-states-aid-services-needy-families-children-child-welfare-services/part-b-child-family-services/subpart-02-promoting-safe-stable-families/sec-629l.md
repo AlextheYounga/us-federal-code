@@ -18,4 +18,4 @@ The Secretary shall—
 
 #### Effective Date
 
-Section effective Oct. 1, 2025, and applicable to payments under this part for calendar quarters beginning on or after such date, with delay permitted if either State legislation or tribal action is required to meet additional requirements, see section 117 of Pub. L. 118–258, set out as a note under section 622 of this title.
+Section effective Oct. 1, 2025, and applicable to payments under this part for calendar quarters beginning on or after such date, with delay permitted if either State legislation or tribal action is required to meet additional requirements, see section 117 of Pub. L. 118–258, set out as an Effective Date of 2025 Amendment note under section 622 of this title.

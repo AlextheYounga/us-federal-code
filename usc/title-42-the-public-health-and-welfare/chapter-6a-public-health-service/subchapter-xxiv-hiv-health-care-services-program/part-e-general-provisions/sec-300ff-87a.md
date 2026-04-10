@@ -68,7 +68,7 @@ Another prior section 2688 of act July 1, 1944, was classified to section 300ffâ
 
   
 
-#### **Editorial Notes**
+#### **Statutory Notes and Related Subsidiaries**
 
 #### Effective Date
 

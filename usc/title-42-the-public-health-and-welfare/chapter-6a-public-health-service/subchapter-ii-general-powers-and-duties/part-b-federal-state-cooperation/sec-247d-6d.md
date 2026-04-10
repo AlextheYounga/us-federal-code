@@ -460,7 +460,7 @@ The Public Readiness and Emergency Preparedness Act, referred to in subsec. (h),
 
 "(i) approved by the National Institute for Occupational Safety and Health under part 84 of title 42, Code of Federal Regulations (or successor regulations);
 
-"(ii) subject to the emergency use authorization issued by the Secretary on March 2, 2020, or subsequent emergency use authorizations, pursuant to section 564 of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 360bbb–3\] (authorizing emergency use of personal respiratory protective devices during the COVID–19 outbreak); and
+"(ii) subject to the emergency use authorization issued by the Secretary on March 2, 2020, or subsequent emergency use authorizations, pursuant to section 564 of the Federal Food, Drug, and Cosmetic Act (authorizing emergency use of personal respiratory protective devices during the COVID–19 outbreak); and
 
 "(iii) used during the period beginning on January 27, 2020, and ending on October 1, 2024, in response to the public health emergency declared on January 31, 2020, pursuant to section 247d of this title as a result of confirmed cases of 2019 Novel Coronavirus (2019-nCoV)."
 
