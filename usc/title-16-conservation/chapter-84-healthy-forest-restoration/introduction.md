@@ -36,7 +36,7 @@ Sec.
 
 #### SUBCHAPTER III—WATERSHED FORESTRY ASSISTANCE
 
-6541\. Findings and purposes.
+6541\. Omitted.
 
 6542\. Repealed.
 

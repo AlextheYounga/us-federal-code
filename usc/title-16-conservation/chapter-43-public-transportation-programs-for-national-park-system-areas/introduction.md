@@ -2,6 +2,6 @@
 
 Sec.
 
-2301 to 2306. Repealed, Transferred, or Omitted.
+2301 to 2306. Omitted, Transferred, or Repealed.
 
         
