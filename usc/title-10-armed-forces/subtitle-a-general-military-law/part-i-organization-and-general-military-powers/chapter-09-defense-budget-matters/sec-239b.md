@@ -4,8 +4,18 @@
 
 (b) Definitions.—In this section:
 
-(1) The term "budget" has the meaning given that term in section 231(f) of this title.
+(1) The term "budget" has the meaning given that term in section 231(f) [1](#239b_1_target) of this title.
 
-(2) The term "defense budget materials" has the meaning given that term in section 231(f) of this title.
+(2) The term "defense budget materials" has the meaning given that term in section 231(f) [1](#239b_1_target) of this title.
 
 (Added Pub. L. 115–232, div. A, title XVI, §1624(b)(1), Aug. 13, 2018, 132 Stat. 2120.)
+
+  
+
+#### **Editorial Notes**
+
+#### References in Text
+
+Section 231(f) of this title, referred to in subsec. (b), was redesignated as section 231(g) of this title by Pub. L. 117–263, div. A, title III, §352(a)(2), Dec. 23, 2022, 136 Stat. 2533, and subsequently was redesignated as section 231(h) of this title by Pub. L. 118–159, div. A, title X, §1021(1), Dec. 23, 2024, 138 Stat. 2052.
+
+[1 See References in Text note below.](#239b_1)

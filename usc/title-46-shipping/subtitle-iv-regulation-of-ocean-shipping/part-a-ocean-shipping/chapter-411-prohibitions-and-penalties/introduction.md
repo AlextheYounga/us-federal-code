@@ -16,9 +16,7 @@ Sec.
 
 41106\. Marine terminal operators.
 
-41107\. Monetary penalties. 1
-
-        
+41107\. Monetary penalties or refunds.
 
 41108\. Additional penalties.
 
@@ -32,8 +30,8 @@ Sec.
 
 #### Amendments
 
+**2024**—Pub. L. 118–159, div. C, title XXXV, §3535(i), Dec. 23, 2024, 138 Stat. 2315, substituted "Monetary penalties or refunds" for "Monetary penalties" in item 41107.
+
 **2022**—Pub. L. 117–146, §9(c), June 16, 2022, 136 Stat. 1277, added item 41110.
 
 **2018**—Pub. L. 115–282, title VII, §709(b)(2), Dec. 4, 2018, 132 Stat. 4296, added item 41105A.
-
-[1 Section catchline amended by Pub. L. 117–146 without corresponding amendment of chapter analysis.](#CHAPTER411_1)

@@ -54,6 +54,8 @@ Sec.
 
 8754\. Comprehensive strategy to promote Internet freedom and access to information in Iran.
 
+8754a. Strategy and grant program to promote internet freedom in Iran.
+
 8755\. Statement of policy on political prisoners.
 
 8756\. Secretary of State assistance for prisoners in Islamic Republic of Iran.

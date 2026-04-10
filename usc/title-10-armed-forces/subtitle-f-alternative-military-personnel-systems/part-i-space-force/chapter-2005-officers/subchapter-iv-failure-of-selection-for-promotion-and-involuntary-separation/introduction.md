@@ -2,11 +2,9 @@
 
 Sec.
 
-20251\. 1 Failure of selection for promotion.
+20251\. Failure of selection for promotion.
 
-        
-
-20251\. 1 Special selection boards; correction of errors.
+20252\. Special selection boards; correction of errors.
 
 20252a. Special selection review boards: reference.
 
@@ -22,6 +20,6 @@ Pub. L. 118–31, div. A, title XVII, §1716(c), Dec. 22, 2023, 137 Stat. 634, 6
 
 #### Amendments
 
-**2023**—Pub. L. 118–31, div. A, title XVII, §1716(c), Dec. 22, 2023, 137 Stat. 634, 649, 650, 653, added two items 20251 and items 20252a and 20253. Amendment was made pursuant to operation of section 102 of this title.
+**2024**—Pub. L. 118–159, div. A, title V, §521(v)(2), Dec. 23, 2024, 138 Stat. 1883, renumbered item 20251 "Special selection boards; correction of errors" as 20252.
 
-[1 So in original. Two sections 20251 have been enacted.](#I_1)
+**2023**—Pub. L. 118–31, div. A, title XVII, §1716(c), Dec. 22, 2023, 137 Stat. 634, 649, 650, 653, added two items 20251 and items 20252a and 20253. Amendment was made pursuant to operation of section 102 of this title.

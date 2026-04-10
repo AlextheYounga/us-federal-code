@@ -18,6 +18,14 @@ The Secretary of Defense shall ensure that a full audit is performed on the fina
 
 #### **Statutory Notes and Related Subsidiaries**
 
+#### Use of Technology Using Artificial Intelligence To Facilitate Audit of the Financial Statements of the Department of Defense for Fiscal Year 2025
+
+Pub. L. 118–159, div. A, title X, §1007, Dec. 23, 2024, 138 Stat. 2049, provided that:
+
+"(a) Use of AI Technology for Audits.—The Secretary of Defense, the Secretary of the Army, the Secretary of the Navy, and the Secretary of the Air Force shall encourage, to the greatest extent practicable, the use of technology that uses artificial intelligence or machine learning for the purpose of facilitating audits of the financial statements of the Department of Defense.
+
+"(b) Implementation of AI Technology for Audits.—The Director of the Chief Digital and Artificial Intelligence Office of the Department, in coordination with the Under Secretary of Defense for Research and Engineering and the Inspector General of the Department, shall oversee the adoption of artificial intelligence and machine learning technologies in support of financial management and enterprise business operations."
+
 #### Requirement for Unqualified Opinion on Department of Defense Financial Statements
 
 Pub. L. 118–31, div. A, title X, §1005, Dec. 22, 2023, 137 Stat. 379, provided that: "The Secretary of Defense shall ensure that the Department of Defense has received an unqualified opinion on the financial statements of the Department by not later than December 31, 2028."

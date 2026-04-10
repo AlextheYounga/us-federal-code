@@ -120,6 +120,8 @@ Sec.
 
 1091\. Personal services contracts.
 
+1091a. Identification in patient medical records of affiliation of certain non-Department of Defense health care providers.
+
 1092\. Studies and demonstration projects relating to delivery of health and medical care.
 
 1092a. Persons entering the armed forces: baseline health data.
@@ -197,6 +199,8 @@ Sec.
 #### **Editorial Notes**
 
 #### Amendments
+
+**2024**—Pub. L. 118–159, div. A, title VII, §711, Dec. 23, 2024, 138 Stat. 1947, added item 1091a. Amendment was made pursuant to operation of section 102 of this title.
 
 **2021**—Pub. L. 117–81, div. A, title VII, §§701(c)(2), 713(b), 714(a)(2), 716(c), Dec. 27, 2021, 135 Stat. 1779, 1784, 1786, 1789, added items 1073f, 1090a, 1090b, 1104a, and 1110 and struck out former items 1090a "Commanding officer and supervisor referrals of members for mental health evaluations" and 1110 "Anthrax vaccine immunization program; procedures for exemptions and monitoring reactions".
 

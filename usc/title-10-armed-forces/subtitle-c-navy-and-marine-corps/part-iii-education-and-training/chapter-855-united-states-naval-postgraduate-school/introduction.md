@@ -22,6 +22,8 @@ Sec.
 
 8550\. Grants for faculty research for scientific, literary, and educational purposes: acceptance, authorized grantees.
 
+8551\. Development and operation of the Naval Innovation Center at the Naval Postgraduate School.
+
         
 
 #### **Editorial Notes**
@@ -32,13 +34,15 @@ A prior chapter 855, consisting of sections 8721 to 8723, related to hospitaliza
 
 #### Amendments
 
+**2024**—Pub. L. 118–159, div. B, title XXVIII, §2872, Dec. 23, 2024, 138 Stat. 2281, added item 8551. Amendment was made pursuant to operation of section 102 of this title.
+
 **2022**—Pub. L. 117–263, div. A, title V, §554(a)(2)(B), Dec. 23, 2022, 136 Stat. 2594, substituted "Provost and Chief Academic Officer" for "Provost and Academic Dean" in item 8543.
 
 **2018**—Pub. L. 115–232, div. A, title VIII, §807(e)(3), (f)(1), Aug. 13, 2018, 132 Stat. 1837, 1838, redesignated chapter 605 of this title as this chapter and items 7041 to 7050 as 8541 to 8550, respectively.
 
 **2008**—Pub. L. 110–417, \[div. A\], title V, §543(e)(2), Oct. 14, 2008, 122 Stat. 4461, added item 7048 and struck out former item 7048 "Conferring of degrees on graduates".
 
-**2006**—Pub. L. 109–163, div. A, title V, §522(c)(2), Jan. 6, 2006, 119 Stat. 3242, added 7050.
+**2006**—Pub. L. 109–163, div. A, title V, §522(c)(2), Jan. 6, 2006, 119 Stat. 3242, added item 7050.
 
 **2004**—Pub. L. 108–375, div. A, title V, §557(c), Oct. 28, 2004, 118 Stat. 1916, substituted "President; assistants" for "Superintendent; assistants" in item 7042 and "Provost and Academic Dean" for "Academic Dean" in item 7043.
 

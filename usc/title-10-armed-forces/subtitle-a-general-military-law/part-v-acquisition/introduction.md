@@ -12,9 +12,7 @@ Chap. Sec.
 
 205\. Defense Acquisition System 3101
 
-207\. Budgeting and Appropriations Matters 1 3131
-
-        
+207\. Budgeting and Appropriations 3131
 
 209\. Operational Contract Support 3151
 
@@ -28,7 +26,7 @@ Chap. Sec.
 
 223\. Other Provisions Relating to Planning and Solicitation Generally 3241
 
-225\. Planning and Solicitation Relating to Particular Items or Services 1 3271
+225\. \[Reserved\] 3271
 
         
 
@@ -38,7 +36,7 @@ Chap. Sec.
 
 242\. Specific Types of Contracts 3321
 
-243\. Other Matters Relating to Awarding and Types of Contracts 1 3341
+243\. Other Matters Relating to Awarding of Contracts 3341
 
 244\. Undefinitized Contractual Actions 3371
 
@@ -64,7 +62,7 @@ Chap. Sec.
 
 271\. Truthful Cost or Pricing Data (Truth in Negotiations) 3701
 
-272\. Other Provisions Relating to Cost or Pricing Data 1 3721
+272\. \[Reserved\] 3721
 
 273\. Allowable Costs 3741
 
@@ -78,7 +76,7 @@ Chap. Sec.
 
 283\. \[Reserved\]
 
-287\. Other Contracting Programs 3961 2
+287\. Other Contracting Programs 3901
 
         
 
@@ -94,21 +92,35 @@ Chap. Sec.
 
         
 
-#### Subpart F—Major Systems, Major Defense Acquisition Programs, and Weapon Systems Development
+#### Subpart F—Major Systems, Major Defense Acquisition Programs, and Weapon Systems Development [1](#PARTV_1_target)
 
-321\. General Matters 4201 3
+321\. General Matters 4201
+
+322\. Major Systems and Major Defense Acquisition Programs Generally 4211
+
+323\. Life-Cycle and Sustainment 4321
+
+324\. Selected Acquisition Reports 4350
+
+325\. Cost Growth—Unit Cost Reports (Nunn-McCurdy) 4371
+
+326\. 2 Weapon Systems Development And 3 Related Matters 4401
 
         
 
-322\. Major Systems and Major Defense Acquisition Programs Generally 4211 3
+#### Subpart F—Major Systems, Major Defense Acquisition Programs, and Weapon Systems Development [1](#PARTV_1_target)
 
-323\. Life-Cycle And Sustainment 4321 3
+321\. General Matters
 
-324\. Program Status—Selected Acquisition Reports 1 4350 3
+322\. Major Systems and Major Defense Acquisition Programs Generally
 
-325\. Cost Growth—Unit Cost Reports (Nunn-McCurdy) 4371 3
+323\. Life-Cycle And Sustainment
 
-327\. Weapon Systems Development and Related Matters 4401 3
+324\. Program Status—Selected Acquisition Reports
+
+325\. Cost Growth—Unit Cost Reports (Nunn-McCurdy)
+
+327\. Weapon Systems Development and Related Matters
 
         
 
@@ -126,11 +138,11 @@ Chap. Sec.
 
 361\. Contract Administration 4601
 
-363\. Prohibitions and Penalties 1 4651
+363\. Prohibition and Penalties 4651
 
 365\. Contractor Workforce 4701
 
-367\. Other Administrative and Miscellaneous Provisions 1 4751
+367\. Other Administrative Matters 4751
 
         
 
@@ -140,7 +152,9 @@ Chap. Sec.
 
 382\. Policies and Planning 4811
 
-383\. Development, Application, & Support of Dual-Use Technologies 1 4831
+383\. Development, Application, and Support of Dual-use 4 Technologies 4831
+
+        
 
 384\. Manufacturing Technology 4841
 
@@ -163,6 +177,10 @@ Chap. Sec.
 Capitalization in subpart items in this analysis was editorially reformatted from the original to conform to their corresponding subpart headings.
 
 #### Amendments
+
+**2024**—Pub. L. 118–159, div. A, title XVII, §1701(a)(34)(F), Dec. 23, 2024, 138 Stat. 2205, which directed the insertion of new items for subpart F and chapters 321 to 326 after the item relating to chapter 307, was so executed, notwithstanding that items for subpart F and chapters 321 to 327 (which chapter items did not include designators indicating the first section of each chapter) had been added previously by Pub. L. 116–283, div. A, title XVIII, §1846(a), Jan. 1, 2021, 134 Stat. 4247. See 2021 Amendment note below.
+
+Pub. L. 118–159, div. A, title XVII, §1701(a)(34)(A)–(E), (G)–(I), Dec. 23, 2024, 138 Stat. 2205, added items for chapters 207, 225, 243, 272, 363, 367, and 383; struck out former items for chapters 207 "Budgeting and Appropriations Matters", 225 "Planning and Solicitation Relating to Particular Items or Services", 243 "Other Matters Relating to Awarding and Types of Contracts", 272 "Other Provisions Relating to Cost or Pricing Data", 363 "Prohibitions and Penalties", 367 "Other Administrative and Miscellaneous Provisions", and 383 "Development, Application, & Support of Dual-Use Technologies"; and substituted "3901" for "3961" in item for chapter 287.
 
 **2022**—Pub. L. 117–263, div. A, title VIII, §804(b), Dec. 23, 2022, 136 Stat. 2701, added item for chapter 253 and struck out former item for chapter 253 "\[Reserved\]".
 
@@ -1178,8 +1196,10 @@ Pub. L. 116–283, div. A, title XVIII, §1883, Jan. 1, 2021, 134 Stat. 4294, pr
 
 "(2) Title 10.—Except as otherwise provided in this title, in title 10, United States Code, each reference in the text of such title to a source section is amended by striking such reference and inserting a reference to the appropriate redesignated section."
 
-[1 So in original. Does not conform to chapter heading.](#PARTV_1)
+[1 See Amendment note below for Pub. L. 118–159, div. A, title XVII, §1701(a)(34)(F).](#PARTV_1)
 
-[2 So in original. Probably should be "3901".](#PARTV_2)
+[2 So in original. Probably should be "327".](#PARTV_2)
 
-[3 Editorially supplied.](#PARTV_3)
+[3 So in original. Probably should not be capitalized.](#PARTV_3)
+
+[4 So in original. Probably should be capitalized.](#PARTV_4)

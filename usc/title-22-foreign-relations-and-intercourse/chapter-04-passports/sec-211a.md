@@ -1,14 +1,16 @@
 ### §211a. Authority to grant, issue, and verify passports
 
-The Secretary of State may grant and issue passports, and cause passports to be granted, issued, and verified in foreign countries by diplomatic and consular officers of the United States, and by such other employees of the Department of State who are citizens of the United States as the Secretary of State may designate, and by the chief or other executive officer of the insular possessions of the United States, under such rules as the President shall designate and prescribe for and on behalf of the United States, and no other person shall grant, issue, or verify such passports. Unless authorized by law, a passport may not be designated as restricted for travel to or for use in any country other than a country with which the United States is at war, where armed hostilities are in progress, or where there is imminent danger to the public health or the physical safety of United States travellers.
+The Secretary of State may grant and issue passports, and cause passports to be granted, issued, and verified in foreign countries by diplomatic and consular officers of the United States, and by such other employees of the Department of State who are citizens of the United States as the Secretary of State may designate, and by the chief or other executive officer of the insular possessions of the United States, and through the use of Department of State electronic systems, under such rules as the President shall designate and prescribe for and on behalf of the United States, and no other entity shall grant, issue, or verify such passports. Unless authorized by law, a passport may not be designated as restricted for travel to or for use in any country other than a country with which the United States is at war, where armed hostilities are in progress, or where there is imminent danger to the public health or the physical safety of United States travellers.
 
-(July 3, 1926, ch. 772, §1, 44 Stat. 887; Pub. L. 95–426, title I, §124, Oct. 7, 1978, 92 Stat. 971; Pub. L. 103–236, title I, §127(a), Apr. 30, 1994, 108 Stat. 394; Pub. L. 103–415, §1(b), Oct. 25, 1994, 108 Stat. 4299.)
+(July 3, 1926, ch. 772, §1, 44 Stat. 887; Pub. L. 95–426, title I, §124, Oct. 7, 1978, 92 Stat. 971; Pub. L. 103–236, title I, §127(a), Apr. 30, 1994, 108 Stat. 394; Pub. L. 103–415, §1(b), Oct. 25, 1994, 108 Stat. 4299; Pub. L. 118–159, div. G, title LXXV, §7506, Dec. 23, 2024, 138 Stat. 2547.)
 
   
 
 #### **Editorial Notes**
 
 #### Amendments
+
+**2024**—Pub. L. 118–159 inserted "and through the use of Department of State electronic systems," after "the insular possessions of the United States," and substituted "entity" for "person".
 
 **1994**—Pub. L. 103–415, §1(b)(1), substituted "such other employees" for "such employees".
 
@@ -30,13 +32,97 @@ Pub. L. 118–31, div. F, title LXI, §6114(a), Dec. 22, 2023, 137 Stat. 968, pr
 
 Pub. L. 109–167, §1, Jan. 10, 2006, 119 Stat. 3578, provided that: "This Act \[amending section 214 of this title\] may be cited as the 'Passport Services Enhancement Act of 2005'."
 
+#### Passport System Reform and Backlog Prevention
+
+Pub. L. 118–159, div. G, title LXXV, §7508, Dec. 23, 2024, 138 Stat. 2548, provided that:
+
+"(a) Standards for Passport Issuance Process.—In administering and modernizing the passport issuance process, the Secretary \[of State\] shall evaluate the performance of such process against the following criteria:
+
+"(1) To maintain a service standard of processing a routine new or renewal adult passport application from document submission until mailing of final documents in an expeditious and reliable timeframe.
+
+"(2) To maintain low passport fees and surcharges.
+
+"(3) To ensure world-class technical, security, and cybersecurity standards for United States passports and the passport issuance process.
+
+"(4) To minimize typographical, clerical, or picture-based errors.
+
+"(5) To provide a streamlined customer experience for passport applicants.
+
+"(6) To provide reasonably convenient passport services to United States citizens and nationals living a significant distance from a passport agency, particularly residents in a significant population center more than a 5-hour drive from a passport agency.
+
+"(b) Enhanced Information Technology Solutions to Improve the Passport Issuance Process.—
+
+"(1) In general.—The Secretary shall seek to implement the information technology solutions described in paragraph (2) in accordance with the timelines described in such paragraph.
+
+"(2) Enhanced information technology solutions and timelines described.—The enhanced information technology solutions and timelines described in this paragraph are the following:
+
+"(A) Consistent with the Bureau's modernization plans and timelines, and subject to the availability of funds, the Secretary shall seek to enter into contracts or agreements as appropriate, for the establishment and maintenance of a mobile application to allow for applicant communication with the Department \[of State\], including document submission, application status tracking, virtual appointments, access to the notification of application errors, and allowing for passport holders to receive messages from the Department and communicate emergencies to the Department.
+
+"(B) The Secretary may provide each passport applicant with the option of whether to use the mobile application described in subparagraph (A) or another service of the Department.
+
+"(C) As a condition for awarding any contracts described in subparagraph (A), any awardees shall demonstrate they can begin tests on the solution within one year of the award of the contract and complete implementation, including bug fixes, cybersecurity audits, and customer service testing, not later than 2 years after the award of the contract.
+
+"(D) Consistent with existing law, the Secretary shall seek to expand the online passport renewal system, including to accept electronic document submission for first-time adult applications as applicable, in addition to adult renewal applications, in sufficient volume to be able to accommodate most applications by the date that is 4 years after the date of the enactment of this Act \[Dec. 23, 2024\].
+
+"(E) First-time applicants shall continue to verify their applications in-person subject to the requirements of section 1 of title IX of the Act of June 15, 1917 (22 U.S.C. 213).
+
+"(F) To meet the objectives described in subparagraphs (D) and (E), the Secretary may, to the maximum extent practicable, make use of commercially available technology solutions, including entering into contracts or agreements as appropriate for the expansion and maintenance of the online passport renewal system to accommodate the functionality described in such subparagraphs.
+
+"(G) In expanding the online passport renewal system pursuant to subparagraph (D), the following services should be included or otherwise accounted for:
+
+"(i) A user-friendly internet website or portal to facilitate internet-based submission of passport applications by adults.
+
+"(ii) To the extent possible, remote document verification tools and infrastructure to allow for a passport transaction to be completed entirely remotely.
+
+"(iii) To the extent possible, information technology infrastructure not already maintained by the Department.
+
+"(H)(i) The Secretary shall take all reasonable steps to implement additional rules-based tools to adjudicate passport renewals while maintaining human passport authorizing officers involved in the adjudication and issuance processes and should strongly consider commercially available technology solutions,
+
+"(ii) The tools described in clause (i) shall be fully operational within 4 years of the date of the enactment of this Act.
+
+"(iii) The Chief Information Officer shall ensure that the use of the tools do not make passport adjudication more vulnerable to cyberattack.
+
+"(iv) The Secretary shall ensure that the tools described in clause (i) are implemented consistent with the maintenance of standards appropriate to ensuring the integrity of the United States passport.
+
+"(I) In carrying out the requirements of this subsection, the Secretary shall consult with the Chief Information Officer of the Bureau of Consular Affairs, or other technical officer of the Department as appropriate, to ensure technical feasibility and specifications, cybersecurity requirements, compatibility with existing Department information technology infrastructure, and the feasibility of timelines from a technical standpoint.
+
+"(J) The Secretary shall ensure the scalability and long-term viability and upgradability of any information technology systems developed or procured pursuant to this subsection.
+
+"(3) Interim action plan.—
+
+"(A) In general.—Not later than one year after the date of the enactment of this Act \[Dec. 23, 2024\], the Assistant Secretary, in consultation with the Chief Information Officer, shall submit to the appropriate congressional committees \[Committee on Foreign Relations of the Senate and Committee on Foreign Affairs of the House of Representatives\] an action plan on how the Bureau plans to complete the modernization described in this subsection in conjunction with other related, ongoing steps to modernize the passport issuance process.
+
+"(B) Elements.—The action plan required by subparagraph (A) shall include the following elements:
+
+"(i) Progress made on implementing the information technology solutions described in paragraph (2) within specified timelines, and additional steps planned.
+
+"(ii) The expected cost and timeline for implementation of the information technology solutions described in paragraph (2).
+
+"(iii) An evaluation of the information technology solutions described in paragraph (2) to determine whether the full implementation of such solutions will require additional funding or authorities, including budget estimates and a description of such authorities, as appropriate.
+
+"(iv) Efforts to ensure world-class cybersecurity standards for protection of passport applicant data and the passport issuance process infrastructure, particularly such infrastructure involved in adjudication of passport applications.
+
+"(v) Other specific planned steps that the Bureau will take to achieve the criteria described in subsection (a).
+
+"(4) Final report.—Not later than 4 years after the date of the enactment of this Act, the Assistant Secretary, in consultation with the Chief Information Officer, shall submit to the appropriate congressional committees a report on the following:
+
+"(A) Progress on each information technology solution described in paragraph (2).
+
+"(B) Additional information technology solutions the Bureau intends to adopt.
+
+"(C) Changes in the cost for implementation of the steps described in the action plan, if applicable.
+
+"(5) Form.—The plans and report required by this subsection shall be submitted in an unclassified form and may include a classified annex, if necessary.
+
+"(c) Rule of Construction for Passport Issuance.—Nothing in this section may be construed as an offer to procure a service or services or as a guarantee of a contract for such services."
+
 #### Special Hiring Authority for Passport Services
 
 Pub. L. 118–31, div. F, title LXI, §6101, Dec. 22, 2023, 137 Stat. 965, provided that: "During the 3-year period beginning on the date of the enactment of this division \[Dec. 22, 2023\], the Secretary \[of State\], without regard to the provisions under sections 3309 through 3318 of title 5, United States Code, may directly appoint up to 80 candidates to positions in the competitive service (as defined in section 2102 of such title) at the Department \[of State\] in the Passport and Visa Examining Series 0967."
 
 #### Passport Travel Advisories
 
-Pub. L. 118–31, div. F, title LXI, §6103, Dec. 22, 2023, 137 Stat. 965, provided that: "Not later than 180 days after the date of the enactment of this division \[Dec. 22, 2023\], the Department \[of State\] should make prominent in United States regular passports, on the first three pages of the passport, the following information:
+Pub. L. 118–31, div. F, title LXI, §6103, Dec. 22, 2023, 137 Stat. 965, as amended by Pub. L. 118–159, div. G, title LXXVII, §7706(a), Dec. 23, 2024, 138 Stat. 2555, provided that: "Not later than 180 days after the date of the enactment of this division \[Dec. 22, 2023\], the Department \[of State\] shall make prominent in United States regular passports, on the first three pages of the passport, the following information:
 
 "(1) A prominent, clear advisory for all travelers to check travel.state.gov for updated travel warnings and advisories.
 

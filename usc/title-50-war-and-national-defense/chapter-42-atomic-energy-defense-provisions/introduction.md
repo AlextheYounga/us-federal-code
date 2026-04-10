@@ -58,9 +58,7 @@ Sec.
 
 2533\. Reports on critical difficulties at national security laboratories and nuclear weapons production facilities.
 
-2534, 2535. Repealed.
-
-2536\. Reports on life extension programs.
+2534 to 2536. Repealed.
 
 2537\. Selected Acquisition Reports and independent cost estimates and reviews of certain programs and facilities.
 
@@ -389,6 +387,8 @@ Sec.
 2813\. Pilot program relating to use of proceeds of disposal or utilization of certain Department of Energy assets.
 
 2814\. Department of Energy energy parks program.
+
+2815\. Authority to use passenger carriers for contractor commuting.
 
         
 

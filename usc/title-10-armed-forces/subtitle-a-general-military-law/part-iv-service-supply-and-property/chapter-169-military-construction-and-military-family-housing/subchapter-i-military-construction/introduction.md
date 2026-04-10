@@ -32,17 +32,23 @@ Sec.
 
 2815\. Military installation resilience projects.
 
-2815a. Stormwater management projects for installation and defense access road resilience and waterway and ecosystems conservation.
+2815a. Stormwater management, shoreline erosion control, and water resilience projects for installations and defense access roads.
 
 2816\. Consideration of energy security and energy resilience in life-cycle cost for military construction.
 
 2817\. Authority for certain construction projects in friendly foreign countries.
+
+2818\. Contracts for design and construction of facilities of Department of Defense.
+
+2819\. Strategy and assessment with respect to non-operational, underutilized, and other Department of Defense facilities: assessments of historical significance.
 
         
 
 #### **Editorial Notes**
 
 #### Amendments
+
+**2024**—Pub. L. 118–159, div. B, title XXVIII, §§2822(a), 2843, 2847(a)(1), Dec. 23, 2024, 138 Stat. 2254, 2263, 2264, substituted "Stormwater management, shoreline erosion control, and water resilience projects for installations and defense access roads" for "Stormwater management projects for installation and defense access road resilience and waterway and ecosystems conservation" in item 2815a and added items 2818 and 2819. Amendments were made pursuant to operation of section 102 of this title.
 
 **2023**—Pub. L. 118–31, div. B, title XXVIII, §2805, Dec. 22, 2023, 137 Stat. 744, added item 2817. Amendment was made pursuant to operation of section 102 of this title.
 

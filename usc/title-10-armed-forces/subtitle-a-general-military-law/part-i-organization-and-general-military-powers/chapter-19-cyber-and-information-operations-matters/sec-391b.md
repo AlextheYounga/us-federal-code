@@ -56,7 +56,7 @@
 
 (A) reviewing any materials required to be submitted to Congress under the covered statutory requirement prior to such submission; and
 
-(B) ensuring such submissions occur by the applicable deadline under the covered statutory requirement: [1](#391b_1_target) and
+(B) ensuring such submissions occur by the applicable deadline under the covered statutory requirement; and
 
   
 
@@ -132,7 +132,7 @@
 
 (D) Section 1559 of the National Defense Authorization Act for Fiscal Year 2023.
 
-(Added Pub. L. 118–31, div. A, title XV, §1502(a)(1), Dec. 22, 2023, 137 Stat. 533.)
+(Added Pub. L. 118–31, div. A, title XV, §1502(a)(1), Dec. 22, 2023, 137 Stat. 533; amended Pub. L. 118–159, div. A, title XVII, §1701(a)(7), Dec. 23, 2024, 138 Stat. 2203.)
 
   
 
@@ -144,4 +144,6 @@ Section 1647 of the National Defense Authorization Act for Fiscal Year 2016, ref
 
 Section 1559 of the National Defense Authorization Act for Fiscal Year 2023, referred to in subsecs. (h)(4) and (j)(3)(D), is section 1559 of Pub. L. 117–263, which is set out as a note under section 2224 of this title.
 
-[1 So in original. The colon probably should be a semicolon.](#391b_1)
+#### Amendments
+
+**2024**—Subsec. (e)(1)(B). Pub. L. 118–159 substituted semicolon for colon after "requirement".

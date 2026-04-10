@@ -164,6 +164,66 @@ Pub. L. 102–25, title VII, §701(e)(1), Apr. 6, 1991, 105 Stat. 114, added ite
 
 #### **Statutory Notes and Related Subsidiaries**
 
+#### Military Entrance Processing Command: Acceleration of Review of Medical Records
+
+Pub. L. 118–159, div. A, title V, §534(a), Dec. 23, 2024, 138 Stat. 1887, provided that:
+
+"(a) In General.—Not later than 120 days after the date of the enactment of this Act \[Dec. 23, 2024\], the Secretary of Defense shall implement a program to use health care providers, from any component of the Armed Forces under the jurisdiction of such Secretary, to support United States Military Entrance Processing Command (in this section, referred to as 'MEPCOM') and accelerate the review of medical records, as determined necessary by the Secretary."
+
+#### Reimbursement of Applicants to Certain Armed Forces for Certain Medical Costs Incurred During Military Entrance Processing
+
+Pub. L. 118–159, div. A, title V, §537, Dec. 23, 2024, 138 Stat. 1888, provided that:
+
+"(a) Authority.—The Secretary of Defense may reimburse an individual who applies to join a covered Armed Force for costs incurred by such individual for a medical appointment required for military entrance processing.
+
+"(b) Maximum Amount.—The maximum amount an individual may be reimbursed under this section is $100.
+
+"(c) Briefings.—Not later than 16 months after the date of the enactment of this Act \[Dec. 23, 2024\] and once each year thereafter for two years, the Secretary shall submit to the Committees on Armed Services of the Senate and House of Representatives a briefing on reimbursements under this section. Such a briefing shall include, with respect to the most recent one-year period after such date, the following elements:
+
+"(1) The number of individuals reimbursed.
+
+"(2) The total funds spent each on such reimbursements.
+
+"(3) The number of civilian employees hired by the Secretary to carry out this section.
+
+"(4) The effect, if any, of such reimbursements on—
+
+"(A) the time required to complete military entrance processing; and
+
+"(B) recruitment.
+
+"(5) Other information the Secretary determines appropriate.
+
+"(d) Sunset.—The authority to reimburse under this section shall terminate on the day that is three years after the date of the enactment of this Act \[Dec. 23, 2024\].
+
+"(e) Covered Armed Force Defined.—In this section, the term 'covered Armed Force' means the Army, Navy, Marine Corps, Air Force, or Space Force."
+
+#### Pilot Program on Delegation of Authority To Approve Reserve Component Recruits With Certain Medical Conditions
+
+Pub. L. 118–159, div. A, title VII, §740, Dec. 23, 2024, 138 Stat. 1962, provided that:
+
+"(a) Pilot Program.—Not later than 180 days after the date of the enactment of this Act \[Dec. 23, 2024\], the Secretary of Defense shall implement a pilot program to authorize each Secretary concerned (as defined in section 101(a) of title 10, United States Code) to delegate authority to the Commander of the United States Military Entrance Processing Command to approve a service medical waiver for an individual to be enlisted or appointed in a reserve component for a medical condition the Secretary concerned identifies under subsection (c).
+
+"(b) Medical Consultation Process.—If a Secretary concerned delegates authority to the Commander under the pilot program, the Secretary concerned shall establish a medical consultation process for the Commander to seek input from the Secretary concerned if a health care provider of the United States Military Entrance Processing Command determines that more specific medical guidance on fitness for duty is needed from the Secretary concerned before approving a service medical waiver for a medical condition described in subsection (c).
+
+"(c) Medical Conditions Identified.—If a Secretary concerned delegates authority to the Commander under the pilot program, the Secretary concerned shall identify not more than three preexisting disqualifying conditions under Department of Defense Instruction 6130.03 that regularly or automatically receive medical waivers under the policies of the Secretary concerned as of the date of the enactment of this Act.
+
+"(d) Duration.—The Secretary of Defense shall carry out the pilot program for a two-year period.
+
+"(e) Briefing; Report.—
+
+"(1) Briefing.—Not later than 90 days after the date on which the Secretary of Defense commences carrying out the pilot program, the Secretary shall provide to the Committees on Armed Services of the Senate and the House of Representatives a briefing describing the implementation of the pilot program, including a list of the medical conditions identified under subsection (c).
+
+"(2) Report.—Not later than 90 days after the date on which the Secretary concludes the pilot program, the Secretary shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report on the results of the pilot program, including—
+
+"(A) the number of service medical waivers issued, disaggregated by medical condition identified under subsection (c);
+
+"(B) a risk assessment of implementation of the pilot program;
+
+"(C) a comparison of the average number of days to review and adjudicate medical waivers before and during the pilot program; and
+
+"(D) a recommendation on whether to make the authority under the pilot program permanent."
+
 #### Requirement To Base Military Accessions and Promotions on Merit and Performance
 
 Pub. L. 118–31, div. A, title V, §529C, Dec. 22, 2023, 137 Stat. 257, provided that:
@@ -610,7 +670,7 @@ Pub. L. 116–283, div. A, title X, §1091, Jan. 1, 2021, 134 Stat. 3882, provid
 
 #### Policy on the Talent Management of Digital Expertise and Software Professionals
 
-Pub. L. 116–92, div. A, title II, §230, Dec. 20, 2019, 133 Stat. 1273, provided that:
+Pub. L. 116–92, div. A, title II, §230, Dec. 20, 2019, 133 Stat. 1273, as amended by Pub. L. 118–159, div. A, title II, §221(a), Dec. 23, 2024, 138 Stat. 1828, provided that:
 
 "(a) Policy.—
 
@@ -628,9 +688,25 @@ Pub. L. 116–92, div. A, title II, §230, Dec. 20, 2019, 133 Stat. 1273, provid
 
 "(c) Responsibility.—
 
-"(1) Appointment of officer.—Not later than 270 days after the date of enactment of this Act \[Dec. 20, 2019\], the Secretary of Defense may appoint a civilian official responsible for the development and implementation of the policy and implementation plan set forth in subsections (a) and (b), respectively. The official shall be known as the 'Chief Digital Engineering Recruitment and Management Officer of the Department of Defense'.
+"(1) Appointment of officer.—Not later than April 30, 2025, the Secretary of Defense shall appoint a civilian official responsible for the development and implementation of the policy and implementation plan set forth in subsections (a) and (b), respectively. The official shall be known as the "Chief Digital Engineering Recruitment and Management Officer of the Department of Defense".
 
-"(2) Expiration of appointment.—The appointment of the Officer under paragraph (1) shall expire on September 30, 2024."
+"(2) Additional responsibilities.—In addition to the responsibilities specified in paragraph (1), the Officer appointed under such paragraph shall—
+
+"(A) fully define and identify the artificial intelligence workforce of the Department of Defense, including by—
+
+"(i) clarifying the roles and responsibilities of the artificial intelligence workforce and the relationship between the artificial intelligence workforce and the overall Department of Defense innovation workforce and digital workforce;
+
+"(ii) coding artificial intelligence workforce roles in workforce data systems; and
+
+"(iii) developing a qualification program for artificial intelligence workforce roles; and
+
+"(B) update the Department of Defense Human Capital Operating Plan to be consistent with the Strategic Management Plan of the Department and the Annual Performance Plan of the Department relating to artificial intelligence workforce issues, including—
+
+"(i) addressing the human capital implementation actions planned to support the strategic goals and priorities identified in the Agency Strategic Plan and Annual Performance Plan; and
+
+"(ii) ensuring the use of consistent artificial intelligence terminology.
+
+"(3) Expiration of appointment.—The appointment of the Officer under paragraph (1) shall expire on September 30, 2030."
 
 #### Activities on Identification and Development of Enhanced Personal Protective Equipment Against Blast Injury
 

@@ -50,6 +50,48 @@ Sec.
 
 #### **Statutory Notes and Related Subsidiaries**
 
+#### Establishment of the Department of Defense Hackathon Program
+
+Pub. L. 118–159, div. A, title XV, §1503, Dec. 23, 2024, 138 Stat. 2132, provided that:
+
+"(a) In General.—Not later than 180 days after the date of the enactment of this Act \[Dec. 23, 2024\], the Chief Digital and Artificial Intelligence Officer of the Department of Defense, in coordination with the Chairman of the Joint Chiefs of Staff and the Chief Information Officer of the Department of Defense, shall establish a program (to be known as the 'Department of Defense Hackathon Program') under which the commanders of combatant commands and the Secretaries of the military departments shall carry out not fewer than four Hackathons each year.
+
+"(b) Program Management.—The Chief Digital and Artificial Intelligence Officer of the Department of Defense shall develop and implement standards for carrying out Hackathons, provide supporting technical infrastructure to the host of each Hackathon, and determine the hosts each year under subsection (c)(1).
+
+"(c) Hosts.—
+
+"(1)(A) Each year, two commanders of combatant commands shall each carry out a Hackathon and two Secretaries of military departments shall each carry out a Hackathon, as determined by the Chief Digital and Artificial Intelligence Officer of the Department of Defense in accordance with this subsection.
+
+"(B) The commanders of combatant commands and the Secretaries of military departments carrying out Hackathons pursuant to subparagraph (A) shall change each year.
+
+"(C) Each host of a Hackathon shall—
+
+"(i) provide to the participants invited to participate in such Hackathon a per diem allowance in accordance with section 5702 of title 5, United States Code, or section 452 of title 37, United States Code, as applicable; and
+
+"(ii) not later than 60 days after the completion of such Hackathon, make available to the Department of Defense a report on such Hackathon.
+
+"(2) Any commander of a combatant command or Secretary of a military department may carry out a Hackathon in addition to the Hackathons required under paragraph (1).
+
+"(d) Hackathon Objectives.—
+
+"(1) The host of each Hackathon shall establish objectives for the Hackathon that address a critical, technical challenge of the combatant command or military department of the host, as applicable, through the use of individuals with specialized and relevant skills, including data scientists, developers, software engineers, and other specialists as determined appropriate by the Chief Digital and Artificial Intelligence Officer of the Department of Defense or the host.
+
+"(2) In addition to the objectives established by the host of a Hackathon under paragraph (1), the objectives for each Hackathon shall include—
+
+"(A) fostering innovation across the Department of Defense, including in military departments and the combatant commands; and
+
+"(B) creating repeatable processes enabling the commanders of combatant commands and the Secretaries of the military departments to more rapidly identify and develop solutions to critical, technical challenges across the Department of Defense.
+
+"(e) Definitions.—In this section—
+
+"(1) the term 'Hackathon' means an event carried out under the Program at which employees across the Department of Defense meet to collaboratively attempt to develop functional software or hardware solutions during the event to solve a critical, technical challenge determined by the host;
+
+"(2) the term 'host', with respect to a Hackathon, means the commander of the combatant command or the Secretary of the military department carrying out the Hackathon;
+
+"(3) the term 'military department' has the meaning given such term in section 101(a) of title 10, United States Code; and
+
+"(4) the term 'Program' means the program established under subsection (a)."
+
 #### Alignment of Department of Defense Cyber International Strategy With National Defense Strategy and Department of Defense Cyber Strategy
 
 Pub. L. 117–263, div. A, title XV, §1506, Dec. 23, 2022, 136 Stat. 2882, provided that:

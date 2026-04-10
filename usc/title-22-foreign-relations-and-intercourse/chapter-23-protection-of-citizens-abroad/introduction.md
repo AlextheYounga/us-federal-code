@@ -22,6 +22,10 @@ Sec.
 
 1741c. Hostage Response Group.
 
+1741c–1. Report on strategies for reducing likelihood of United States nationals being unlawfully or wrongfully detained or taken hostage.
+
+1741c–2. Coordination with transportation authorities and industry on Department of State travel advisories.
+
 1741d. Authorization of imposition of sanctions.
 
 1741e. Definitions.

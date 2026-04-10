@@ -104,7 +104,7 @@
 
 (i) is constructed or used to transmit radio energy or that is constructed or used for the primary purpose of supporting antennas to transmit or receive radio energy (or both), and any antennas and other appurtenances mounted on the structure, from the time construction of the supporting structure begins until such time as the supporting structure is dismantled; and
 
-(ii) for which notification is required to be made to the Federal Aviation Administration pursuant to processes already established under this title; and
+(ii) for which notification is required to be made to the Federal Aviation Administration pursuant to processes already established by law; and
 
   
 
@@ -140,7 +140,7 @@
 
 (C) significantly impair or degrade the capability of the Department of Defense to conduct training, research, development, testing, and evaluation, and operations or to maintain military readiness.
 
-(Added Pub. L. 115–91, div. A, title III, §311(a), Dec. 12, 2017, 131 Stat. 1343; amended Pub. L. 116–92, div. A, title III, §§311, 312, 371, Dec. 20, 2019, 133 Stat. 1303, 1329; Pub. L. 116–283, div. A, title III, §311, Jan. 1, 2021, 134 Stat. 3513; Pub. L. 117–81, div. A, title III, §371(b), Dec. 27, 2021, 135 Stat. 1663; Pub. L. 118–31, div. A, title III, §§361, 362, Dec. 22, 2023, 137 Stat. 231.)
+(Added Pub. L. 115–91, div. A, title III, §311(a), Dec. 12, 2017, 131 Stat. 1343; amended Pub. L. 116–92, div. A, title III, §§311, 312, 371, Dec. 20, 2019, 133 Stat. 1303, 1329; Pub. L. 116–283, div. A, title III, §311, Jan. 1, 2021, 134 Stat. 3513; Pub. L. 117–81, div. A, title III, §371(b), Dec. 27, 2021, 135 Stat. 1663; Pub. L. 118–31, div. A, title III, §§361, 362, Dec. 22, 2023, 137 Stat. 231; Pub. L. 118–159, div. A, title III, §311, Dec. 23, 2024, 138 Stat. 1851.)
 
   
 
@@ -151,6 +151,8 @@
 The date of the enactment of the National Defense Authorization Act for Fiscal Year 2024, referred to in subsecs. (e)(1)(B)(ii) and (h)(2)(B)(i), is the date of enactment of Pub. L. 118–31, which was approved Dec. 22, 2023.
 
 #### Amendments
+
+**2024**—Subsec. (h)(2)(A)(ii). Pub. L. 118–159 substituted "by law" for "under this title".
 
 **2023**—Pub. L. 118–31, §362(b)(1), inserted "or antenna structure projects" after "energy projects" wherever appearing and inserted "or antenna structure project" after "energy project" wherever appearing except in subsecs. (e)(1) and (h)(2).
 

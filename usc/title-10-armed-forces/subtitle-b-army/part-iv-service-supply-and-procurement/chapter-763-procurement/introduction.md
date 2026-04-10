@@ -42,6 +42,40 @@ Sec.
 
 #### **Statutory Notes and Related Subsidiaries**
 
+#### Authority for Government-Owned, Government-Operated Facilities To Access Production Base Support Funds
+
+Pub. L. 118–159, div. A, title III, §335, Dec. 23, 2024, 138 Stat. 1856, provided that: "Not later than 180 days after the date of the enactment of this Act \[Dec. 23, 2024\], the Secretary of Defense shall prescribe regulations providing that Government-owned, Government-operated facilities are eligible to receive production base support funding from the Army."
+
+#### Anti-Lock Brake System and Electronic Stability Control Kit for Certain Army Vehicles
+
+Pub. L. 118–159, div. A, title III, §355, Dec. 23, 2024, 138 Stat. 1859, provided that:
+
+"(a) Requirement.—By not later than September 30, 2033, the Secretary of the Army shall ensure that all high-mobility multipurpose wheeled vehicles of the Army are equipped with an anti-lock brake system and electronic stability control kit.
+
+"(b) Plan.—Not later than 90 days after the date of the enactment of this Act \[Dec. 23, 2024\], the Secretary of the Army shall submit to the congressional defense committees \[Committee on Armed Services and Committee on Appropriations of the Senate and House of Representatives\] a plan to carry out subsection (a). Such plan shall include each of the following:
+
+"(1) A description of the steps required to increase production of anti-lock brake systems and electronic stability control kits and retrofit high-mobility multipurpose wheeled vehicles at Red River Army Depot, Texas, and its associated flyaway teams.
+
+"(2) An identification of any challenges to meeting the requirement under subsection (a) and a list of steps required to address those challenges.
+
+"(3) An estimated monthly rate of retrofits needed to meet the requirement under subsection (a).
+
+"(4) A funding plan for carrying out the steps referred to in paragraphs (1) and (2).
+
+"(5) An identification of any authorities or funding required for any secondary destination transportation necessary to carry out the plan.
+
+"(c) Annual Certification.—Not later than each of March 1, 2025, March 1, 2026, and March 1, 2027, the Secretary of the Army shall certify to the congressional defense committees that the budget of the Army will enable the Army to meet the requirement under subsection (a)."
+
+#### Designation of Program Executive Office for Acquisition of Open-Source Intelligence Tools for Army
+
+Pub. L. 118–159, div. A, title VIII, §840, Dec. 23, 2024, 138 Stat. 1990, provided that:
+
+"(a) In General.—The Secretary of the Army may designate an existing program executive office within the Army to be responsible for the acquisition of open-source intelligence tools for the Army.
+
+"(b) Responsibilities.—If the Secretary of the Army designates an existing program office under subsection (a), that office shall be responsible for the selection, procurement, and evaluation of open-source intelligence tools for the Army.
+
+"(c) Open-source Intelligence Tools Defined.—In this section, the term 'open-source intelligence tools' has the meaning given that term in section 430b(d) of title 10, United States Code."
+
 #### Pilot Program To Facilitate Access to Advanced Technology Developed by Small Businesses for Ground Vehicle Systems of the Army
 
 Pub. L. 118–31, div. A, title II, §232, Dec. 22, 2023, 137 Stat. 205, provided that:

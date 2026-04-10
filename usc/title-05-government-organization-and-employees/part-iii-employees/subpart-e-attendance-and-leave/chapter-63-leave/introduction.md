@@ -36,7 +36,7 @@ Sec.
 
 6322\. Leave for jury or witness service; official duty status for certain witness service.
 
-6323\. Military leave; Reserves and National Guardsmen.
+6323\. Military leave: Reserves, National Guard members, and certain members of the Space Force.
 
 6324\. Absence of certain police and firemen.
 
@@ -141,6 +141,8 @@ Sec.
 #### **Editorial Notes**
 
 #### Amendments
+
+**2024**—Pub. L. 118–159, div. A, title XI, §1114(b)(2), Dec. 23, 2024, 138 Stat. 2091, substituted "Military leave: Reserves, National Guard members, and certain members of the Space Force" for "Military leave; Reserves and National Guardsmen" in item 6323.
 
 **2021**—Pub. L. 117–81, div. A, title XI, §1111(b), Dec. 27, 2021, 135 Stat. 1953, which directed amendment of the table of sections for subchapter II of chapter 63 by adding item 6329d, was executed to the table of sections for this chapter, to reflect the probable intent of Congress.
 

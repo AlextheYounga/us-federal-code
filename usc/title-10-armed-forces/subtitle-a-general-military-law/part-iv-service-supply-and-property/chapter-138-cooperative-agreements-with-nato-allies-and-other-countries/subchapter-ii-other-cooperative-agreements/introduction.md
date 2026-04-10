@@ -36,13 +36,17 @@ Sec.
 
 2350q. Execution of projects under the North Atlantic Treaty Organization Security Investment Program.
 
-2350r. North Atlantic Treaty Organization Special Operations Headquarters.
+2350r. North Atlantic Treaty Organization Allied Special Operations Forces Command.
+
+2350s. Authority to contribute to innovation fund.
 
         
 
 #### **Editorial Notes**
 
 #### Amendments
+
+**2024**—Pub. L. 118–159, div. A, title X, §1051, title XIII, §1301(a)(1), Dec. 23, 2024, 138 Stat. 2061, 2110, added item 2350s and substituted "Allied Special Operations Forces Command" for "Special Operations Headquarters" in item 2350r. Amendments were made pursuant to operation of section 102 of this title.
 
 **2022**—Pub. L. 117–263, div. A, title XII, §§1244(b)(1), 1271(b), Dec. 23, 2022, 136 Stat. 2845, 2860, substituted "acquisition and logistics support" for "logistic support" in item 2350d and added item 2350r. Amendment to item 2350d was made pursuant to operation of section 102 of this title.
 

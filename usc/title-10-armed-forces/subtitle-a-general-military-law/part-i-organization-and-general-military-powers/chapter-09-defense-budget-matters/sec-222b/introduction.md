@@ -1,0 +1,3 @@
+### \[§222b. Repealed. Pub. L. 118–159, div. A, title XVI, §1649(b)(1), Dec. 23, 2024, 138 Stat. 2199\]
+
+Section, added and amended Pub. L. 115–232, div. A, title XVI, §1677(a), (b)(1), Aug. 13, 2018, 132 Stat. 2160, 2161; Pub. L. 116–92, div. A, title XVII, §1731(a)(13), Dec. 20, 2019, 133 Stat. 1813, related to annual report on the unfunded priorities of the Missile Defense Agency. See section 5513 of this title.

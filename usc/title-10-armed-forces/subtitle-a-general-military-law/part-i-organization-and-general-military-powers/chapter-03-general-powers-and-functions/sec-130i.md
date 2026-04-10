@@ -118,7 +118,7 @@
 
 (viii) production, storage, transportation, or decommissioning of high-yield explosive munitions, by the Department; or
 
-(ix) a Major Range and Test Facility Base (as defined in sections [1](#130i_1_target) 4173(i) of this title).
+(ix) a Major Range and Test Facility Base (as defined in section 4173 of this title).
 
   
 
@@ -128,7 +128,7 @@
 
 (6) The terms "unmanned aircraft" and "unmanned aircraft system" have the meanings given those terms in section 44801 of title 49.
 
-(Added Pub. L. 114–328, div. A, title XVI, §1697(a), Dec. 23, 2016, 130 Stat. 2639; amended Pub. L. 115–91, div. A, title XVI, §1692, Dec. 12, 2017, 131 Stat. 1788; Pub. L. 116–92, div. A, title XVI, §1694, title XVII, §1731(a)(6), Dec. 20, 2019, 133 Stat. 1791, 1812; Pub. L. 116–283, div. A, title X, §1081(a)(8), title XVIII, §1845(c)(4), Jan. 1, 2021, 134 Stat. 3871, 4247; Pub. L. 118–31, div. A, title XVI, §1681, Dec. 22, 2023, 137 Stat. 611.)
+(Added Pub. L. 114–328, div. A, title XVI, §1697(a), Dec. 23, 2016, 130 Stat. 2639; amended Pub. L. 115–91, div. A, title XVI, §1692, Dec. 12, 2017, 131 Stat. 1788; Pub. L. 116–92, div. A, title XVI, §1694, title XVII, §1731(a)(6), Dec. 20, 2019, 133 Stat. 1791, 1812; Pub. L. 116–283, div. A, title X, §1081(a)(8), title XVIII, §1845(c)(4), Jan. 1, 2021, 134 Stat. 3871, 4247; Pub. L. 118–31, div. A, title XVI, §1681, Dec. 22, 2023, 137 Stat. 611; Pub. L. 118–159, div. A, title XVII, §1701(a)(2), div. B, title XXVIII, §2871(c)(1), Dec. 23, 2024, 138 Stat. 2203, 2281.)
 
   
 
@@ -139,6 +139,10 @@
 The Presidential Protection Assistance Act of 1976, referred to in subsec. (j)(3)(C)(iv), is Pub. L. 94–524, Oct. 17, 1976, 90 Stat. 2475, which enacted and amended provisions set out as notes under section 3056 of Title 18, Crimes and Criminal Procedure. For complete classification of this Act to the Code, see Tables.
 
 #### Amendments
+
+**2024**—Subsec. (j)(3)(C)(ix). Pub. L. 118–159, §2871(c)(1), which directed substitution of "section 4173" for "sections 4173(i)", was executed by making the substitution for "section 4173(i)", to reflect the probable intent of Congress and the intervening amendment by Pub. L. 118–159, §1701(a)(2). See below.
+
+Pub. L. 118–159, §1701(a)(2), substituted "section" for "sections".
 
 **2023**—Subsec. (i). Pub. L. 118–31 substituted "2026" for "2023" in pars. (1) and (2).
 
@@ -167,6 +171,66 @@ Pub. L. 116–92, §1694(b)(2), substituted "in section 44801 of title 49" for "
 #### Effective Date of 2021 Amendment
 
 Amendment by section 1845(c)(4) of Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding section 3001 of this title.
+
+#### Counter Unmanned Aerial System Threat Library
+
+Pub. L. 118–159, div. A, title III, §353, Dec. 23, 2024, 138 Stat. 1858, provided that:
+
+"(a) In General.—Not later than 180 days after the date of the enactment of this Act \[Dec. 23, 2024\], the Secretary of the Army, through the Joint Counter-Small Unmanned Aircraft Systems Office, shall establish and maintain a threat library, or expand and maintain an existing threat library, to coordinate efforts across the Department of Defense to counter unmanned aircraft systems.
+
+"(b) Information To Be Included.—The threat library required under subsection (a) shall include—
+
+"(1) classified and unclassified information relating to known or suspected threats from unmanned aircraft systems;
+
+"(2) proposed solutions for countering such known threats; and
+
+"(3) a comprehensive listing of global incursions from unmanned aircraft systems at installations of the Department of Defense.
+
+"(c) Dissemination.—The Secretary of the Army, through the Joint Counter-Small Unmanned Aircraft Systems Office, shall establish a framework to share the information contained in the threat library required under subsection (a) with the military departments, the combatant commands, other Federal agencies, and relevant industries, as determined by the Secretary of the Army, in order to maintain technological superiority in aerial defense."
+
+#### Counter Unmanned Aerial Systems Task Force
+
+Pub. L. 118–159, div. A, title IX, §925, Dec. 23, 2024, 138 Stat. 2041, provided that:
+
+"(a) In General.—Not later than 30 days after the date of the enactment of this Act \[Dec. 23, 2024\], the Secretary of Defense shall establish, or designate from existing organizations and personnel of the Department of Defense, a counter unmanned aerial systems task force, to be known as the 'C-UAS Task Force'.
+
+"(b) Review of Memoranda and Directives.—
+
+"(1) In general.—Not later than 90 days after the date of the enactment of this Act, the Secretary of Defense and the Chairman of the Joint Chiefs of Staff, acting through the C-UAS Task Force, shall review and, if necessary, consolidate and update all Department of Defense memoranda and directives related to the countering of unmanned aircraft systems in United States airspace to provide clarity to and an expedited decision-making process for commanders with respect to effectively countering unmanned aircraft systems or unmanned aircraft incursions at military installations in the United States.
+
+"(2) Included memoranda and directives.—The memoranda and directives required to be reviewed and, if necessary, consolidated and updated under paragraph (1) include the following:
+
+"(A) The Counter-Small Unmanned Aircraft Systems Strategy of the Department of Defense, dated January 7, 2021.
+
+"(B) The Deputy Secretary of Defense Memorandum entitled 'Risk-based Assessment in Support of Counter-Unmanned Aircraft Activities to Protect DOD Facilities and Assets' and dated May 7, 2020.
+
+"(C) Deputy Secretary of Defense Policy Memorandum 16–003, entitled 'Interim Guidance for Countering Unmanned Aircraft' and dated August 18, 2016.
+
+"(D) Deputy Secretary of Defense Policy Memorandum 17–00X, entitled 'Supplemental Guidance for Countering Unmanned Aircraft' and dated July 5, 2017.
+
+"(E) Chairman of the Joint Chiefs of Staff Notice 3124, entitled 'Interim Guidance for Countering Unmanned Aircraft' and dated February 8, 2017.
+
+"(F) Other related general administrative notices of the Joint Staff.
+
+"(G) Any other associated memoranda or directives of the Department of Defense relating to unmanned aircraft systems, as the Secretary of Defense and the Chairman of the Joint Chiefs of Staff determine necessary.
+
+"(c) Issuance of Updated Guidance.—
+
+"(1) In general.—Not later than 120 days after the date of the enactment of this Act, the Secretary of Defense shall issue new memoranda, directives, and guidance related to authorities to counter unmanned aircraft systems.
+
+"(2) Dissemination to installation commanders.—The Secretary of Defense shall ensure that memoranda, directives, and guidance issued under paragraph (1), and any subsequent memoranda, directives and guidance, are included in pre-briefings for any officers that assume command of a military installation in the United States on or after July 1, 2025.
+
+"(3) Standard operating procedures for military installations.—
+
+"(A) In general.—Not later than 60 days after the issuance of the memoranda, directives, and guidance required by paragraph (1), each commander of a military installation shall issue operating procedures specific to their military installation for countering unmanned aircraft systems at the installation.
+
+"(B) Extension during changes in command.—If there is a change of command of a military installation during the 60-day period described in subparagraph (A), the incoming commander of the installation shall issue operating procedures specific to their military installation required by that subparagraph not later than 60 days after receiving the pre-briefing described in paragraph (2).
+
+"(d) Report on Existing Training Efforts.—Not later than 120 days after the date of the enactment of this Act, the Secretary of Defense shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report on the counter-unmanned aircraft systems training efforts of the Department of Defense in effect as of the date of the enactment of this Act. The report shall include—
+
+"(1) a description of any training that is commonly provided to members of the Armed Forces on countering threats posed by unmanned aircraft systems; and
+
+"(2) a summary of the training curriculum that is provided for installation commanders and deployed forces to counter unmanned aircraft systems."
 
 #### Assessment and Strategy for Fielding Capabilities To Counter Threats Posed by Unmanned Aerial System Swarms
 
@@ -213,5 +277,3 @@ Pub. L. 117–263, div. A, title I, §162, Dec. 23, 2022, 136 Stat. 2462, provid
 #### Coordination of Amendments by Pub. L. 116–92
 
 Amendments to this section by section 1731 of Pub. L. 116–92 to be treated as having been enacted immediately before amendments by other provisions of Pub. L. 116–92, see section 1731(f) of Pub. L. 116–92, set out as a Coordination of Certain Sections of an Act With Other Provisions of That Act note under section 101 of this title.
-
-[1 So in original. Probably should be "section".](#130i_1)

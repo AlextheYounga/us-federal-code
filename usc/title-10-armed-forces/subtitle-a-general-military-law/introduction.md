@@ -36,9 +36,7 @@ Chap. Sec.
 
 16\. Security Cooperation 301
 
-19\. Cyber Matters 1 391
-
-        
+19\. Cyber and Information Operations Matters 391
 
 20\. Humanitarian and Other Assistance 401
 
@@ -50,7 +48,7 @@ Chap. Sec.
 
 24\. Nuclear Posture 491
 
-25\. Electronic Warfare 2 500
+25\. Electromagnetic Warfare 500
 
         
 
@@ -286,7 +284,9 @@ Chap. Sec.
 
 242\. Specific Types of Contracts 3321
 
-243\. Other Matters Relating to Awarding and Types of Contracts 2 3341
+243\. Other Matters Relating to Awarding and Types of Contracts 1 3341
+
+        
 
 244\. Undefinitized Contractual Actions 3371
 
@@ -342,7 +342,7 @@ Chap. Sec.
 
         
 
-#### subpart f—major systems, major defense acquisition programs, and weapon systems development [3](#PARTVanalysis_3_target)
+#### subpart f—major systems, major defense acquisition programs, and weapon systems development
 
 321\. General Matters 4201
 
@@ -354,23 +354,7 @@ Chap. Sec.
 
 325\. Cost Growth-Unit Cost Reports (Nunn-McCurdy) 4371
 
-326\. 4 Weapon Systems Development And 5 Related Matters 4401
-
-        
-
-#### subpart f—major systems, major defense acquisition programs, and weapon systems development [3](#PARTVanalysis_3_target)
-
-321\. General Matters
-
-322\. Major Systems and Major Defense Acquisition Programs Generally
-
-323\. Life-Cycle And Sustainment
-
-324\. Program Status—Selected Acquisition Reports
-
-325\. Cost Growth—Unit Cost Reports (Nunn-McCurdy)
-
-327\. Weapon Systems Development and Related Matters
+327\. Weapon Systems Development and Related Matters 4401
 
         
 
@@ -388,11 +372,11 @@ Chap. Sec.
 
 361\. Contract Administration 4601
 
-363\. Prohibitions and Penalties 2 4651
+363\. Prohibition and Penalties 4651
 
 365\. Contractor Workforce 4701
 
-367\. Other Administrative and Miscellaneous Provisions 2 4751
+367\. Other Administrative Matters 4751
 
         
 
@@ -416,9 +400,19 @@ Chap. Sec.
 
         
 
+### **PART VI—ELEMENTS OF DEPARTMENT OF DEFENSE AND OTHER MATTERS**
+
+#### subpart a—elements
+
+551\. Missile Defense 5501
+
+        
+
 #### **Editorial Notes**
 
 #### Amendments
+
+**2024**—Pub. L. 118–159, div. A, title XVI, §1649(a), title XVII, §1701(a)(1), Dec. 23, 2024, 138 Stat. 2187, 2202, added items for chapters 19, 25, 327, 363, and 367 and part VI containing items for subpart A and chapter 551, struck out former items for chapters 19 "Cyber Matters", 25 "Electronic Warfare", 326 "Weapon Systems Development And Related Matters", 363 "Prohibitions and Penalties", and 367 "Other Administrative and Miscellaneous Provisions", and struck out second item for subpart F "major systems, major defense acquisition programs, and weapon systems development" including chapters 321 "General Matters", 322 "Major Systems and Major Defense Acquisition Programs Generally", 323 "Life-Cycle And Sustainment", 324 "Program Status—Selected Acquisition Reports", 325 "Cost Growth—Unit Cost Reports (Nunn-McCurdy)", and 327 "Weapon Systems Development and Related Matters". Amendment adding items for part VI, subpart A, and chapter 551 were made pursuant to operation of section 102 of this title.
 
 **2023**—Pub. L. 118–31, div. A, title XVIII, §1801(a)(1)(G), Dec. 22, 2023, 137 Stat. 683, which directed the insertion of new items for subpart F and chapters 321 to 326 after the item relating to chapter 307, was so executed, notwithstanding that items for subpart F and chapters 321 to 327 (which chapter items did not include designators indicating the first section of each chapter) had been added previously by Pub. L. 116–283, div. A, title XVIII, §1846(a), Jan. 1, 2021, 134 Stat. 4247. See 2021 Amendment note below.
 
@@ -432,7 +426,7 @@ Pub. L. 117–81, div. A, title XVII, §1701(i)(5)(A), (B)(ii), Dec. 27, 2021, 1
 
 Pub. L. 117–81, div. A, title XVII, §1701(g), Dec. 27, 2021, 135 Stat. 2140, substituted "3061", "3101", and "3131", for "3021", "3051", and "3101", respectively, in items for chapters 203, 205, and 207, added item for chapter 247 and struck out former item for chapter 247 "Acquisition of Commercial Items", substituted "3571" for "3551" in item for chapter 251, added items for chapters 257 and 258 and struck out former item for chapter 257 "Contracts for Long-Term Lease or Charter of Vessels, Aircraft, and Combat", and substituted "Provisions" for "Requirements" in item for subpart D of part V.
 
-Pub. L. 116–283, div. A, title XVIII, §§1841(a)(2), 1856(a), Jan. 1, 2021, 134 Stat. 4243, 4273, as amended by Pub. L. 117–81, div. A, title XVII, §1701(i)(9)(A), (u)(1), Dec. 27, 2021, 135 Stat. 2142, 2150, added items for subpart E and chapters 301 to 307 and item for Reserved chapter 343 and struck out former items for subpart E "special categories of contracting: major defense acquisition programs and major systems" including chapters 301 "Major Defense Acquisition Programs", 303 "Weapon Systems Development and Related Matters", and 305 "Other Matters Relating to Major Systems" and item for chapter 343 "Acquisition of Services".
+Pub. L. 116–283, div. A, title XVIII, §§1841(a)(2), 1856(a), Jan. 1, 2021, 134 Stat. 4243, 4273, as amended by Pub. L. 117–81, div. A, title XVII, §1701(i)(9)(A), (u)(1), Dec. 27, 2021, 135 Stat. 2142, 2150, added items for subpart E and chapters 301 to 307 and item for Reserved chapter 343 and struck out former item for subpart E "special categories of contracting: major defense acquisition programs and major systems" including chapters 301 "Major Defense Acquisition Programs", 303 "Weapon Systems Development and Related Matters", and 305 "Other Matters Relating to Major Systems" and former item for chapter 343 "Acquisition of Services".
 
 Pub. L. 116–283, div. A, title XVIII, §§1808(a)(4), 1811(a), 1816(a), 1821(a)(4), 1824(b), 1825(l), 1831(l), 1833(a)(2), 1846(a), 1851(d)(2), 1866(a), 1872(b)(2), 1873(f), 1880(b), 1881(b), 1882(a)(2), Jan. 1, 2021, 134 Stat. 4159, 4164, 4181, 4195, 4205, 4208, 4217, 4226, 4247, 4279, 4289, 4290, 4293, substituted "SERVICE, SUPPLY, AND PROPERTY" for "SERVICE, SUPPLY, AND PROCUREMENT" in heading of part IV and "Miscellaneous Provisions Relating to Property" for "Miscellaneous Procurement Provisions" in item for chapter 141, struck out items for chapters 137 "Procurement Generally", 139 "Research and Development", 140 "Procurement of Commercial Products and Commercial Services", 142 "Procurement Technical Assistance Cooperative Agreement Program", 144 "Major Defense Acquisition Programs", 144B "Weapon Systems Development and Related Matters", 148 "National Defense Technology and Industrial Base, Defense Reinvestment, and Defense Conversion", and 149 "Defense Acquisition System", added items for chapters 221 to 225, 241 to 244, 253, 257, 271, 272, and 275, item for subpart F and chapters 321 to 327, and items for chapters 341, 381 to 385, and 387 to 389 and struck out former items for chapters 221 "Planning and Solicitation Generally", 223 "Planning and Solicitation Relating to Particular Items or Services", 241 "Awarding of Contracts", 243 "Specific Types of Contracts", 253 "Emergency and Rapid Acquisitions", 271 "Truthful Cost or Pricing Data", 275 "Proprietary Contractor Data and Technical Data", and 285 "Small Business Programs", former item for subpart F "special categories of contracting: research, development, test, and evaluation" including chapters 321 "Research and Development Generally", 323 "Innovation", 325 "Department of Defense Laboratories", 327 "Research and Development Centers and Facilities", and 329 "Operational Test and Evaluation; Developmental Test and Evaluation", and former items for chapters 341 "Contracting for Performance of Civilian Commercial or Industrial Type Functions", 381 "Defense Industrial Base Generally", 383 "Loan Guarantee Programs", and 385 "Procurement Technical Assistance Cooperative Agreement Program".
 
@@ -566,12 +560,4 @@ Pub. L. 87–649, §3(2), Sept. 7, 1962, 76 Stat. 493, added item for chapter 40
 
 **1958**—Pub. L. 85–861, §§1(21), (26), (33), 33(a)(4)(B), Sept. 2, 1958, 72 Stat. 1443, 1450, 1455, 1564, substituted "General Service Requirements" for "Service Requirements for Reserves" in item for chapter 37, "971" for "\[No present sections\]" in item for chapter 49, "Medical and Dental Care" for "Voting by Members of Armed Forces" in item for chapter 55, and struck out "Care of the Dead" and substituted "1475" for "1481" in item for chapter 75.
 
-[1 Chapter heading amended by Pub. L. 116–92 without corresponding amendment of subtitle analysis.](#PARTIanalysis_1)
-
-[2 So in original. Does not conform to chapter heading.](#PARTIanalysis_2)
-
-[3 See Amendment note below for Pub. L. 118–31, div. A, title XVIII, §1801(a)(1)(G).](#PARTVanalysis_3)
-
-[4 So in original. Probably should be "327."](#PARTVanalysis_4)
-
-[5 So in original. Probably should not be capitalized.](#PARTVanalysis_5)
+[1 So in original. Does not conform to chapter heading.](#PARTVanalysis_1)

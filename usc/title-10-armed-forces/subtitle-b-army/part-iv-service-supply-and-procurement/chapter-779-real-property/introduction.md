@@ -54,7 +54,7 @@ Pub. L. 116–283, div. A, title III, §362, Jan. 1, 2021, 134 Stat. 3547, provi
 
 #### Department of the Army Pilot Program for Development and Use of Online Real Estate Inventory Tool
 
-Pub. L. 116–283, div. B, title XXVIII, §2866, Jan. 1, 2021, 134 Stat. 4361, provided that:
+Pub. L. 116–283, div. B, title XXVIII, §2866, Jan. 1, 2021, 134 Stat. 4361, as amended by Pub. L. 118–159, div. B, title XXVIII, §2873, Dec. 23, 2024, 138 Stat. 2283, provided that:
 
 "(a) Pilot Program Required.—
 
@@ -98,4 +98,4 @@ Pub. L. 116–283, div. B, title XXVIII, §2866, Jan. 1, 2021, 134 Stat. 4361, p
 
 "(5) The recommendations of the Secretary regarding whether the pilot program should be extended, expanded, or made permanent.
 
-"(h) Duration.—The authority of the Secretary of the Army to conduct the pilot program shall expire on September 30, 2025."
+"(h) Duration.—The authority of the Secretary of the Army to conduct the pilot program shall expire on September 30, 2026."

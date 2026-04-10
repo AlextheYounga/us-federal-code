@@ -858,23 +858,7 @@ Sec.
 
 #### SUBCHAPTER XVI—CHEMICAL FACILITY ANTI-TERRORISM STANDARDS
 
-621\. Definitions.
-
-622\. Chemical Facility Anti-Terrorism Standards Program.
-
-623\. Protection and sharing of information.
-
-624\. Civil enforcement.
-
-625\. Whistleblower protections.
-
-626\. Relationship to other laws.
-
-627\. CFATS regulations.
-
-628\. Small covered chemical facilities.
-
-629\. Outreach to chemical facilities of interest.
+621 to 629. Omitted.
 
         
 

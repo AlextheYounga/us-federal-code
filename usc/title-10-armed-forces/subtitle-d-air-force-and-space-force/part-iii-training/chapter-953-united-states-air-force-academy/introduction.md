@@ -32,7 +32,7 @@ Sec.
 
 9447\. Cadets; nominees: effect of redistricting of States.
 
-9448\. Cadets: agreement to serve as officer.
+9448\. Cadets: service obligation.
 
 9449\. Cadets: organization; service; instruction.
 
@@ -69,6 +69,8 @@ Sec.
 A prior chapter 953, consisting of sections 9831 to 9842, related to accountability and responsibility, prior to renumbering as chapter 983 of this title.
 
 #### Amendments
+
+**2024**—Pub. L. 118–159, div. A, title V, §557(c)(1), Dec. 23, 2024, 138 Stat. 1897, substituted "service obligation" for "agreement to serve as officer" in item 9448. Amendment was made pursuant to operation of section 102 of this title.
 
 **2021**—Pub. L. 117–81, div. A, title V, §553(c)(2), Dec. 27, 2021, 135 Stat. 1738, added item 9442a.
 
