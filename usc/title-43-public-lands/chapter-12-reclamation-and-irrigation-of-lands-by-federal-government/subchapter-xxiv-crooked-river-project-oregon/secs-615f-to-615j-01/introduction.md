@@ -10,7 +10,7 @@ Section 615g, act Aug. 6, 1956, ch. 980, §2, 70 Stat. 1058, related to allocati
 
 Section 615h, act Aug. 6, 1956, ch. 980, §3, 70 Stat. 1059, related to construction, operation, and maintenance of public recreation facilities in connection with this project.
 
-Section 615i, act Aug. 6, 1956, ch. 980, §4, 70 Stat. 1059, related to preservation and propagation of fish and wildlife in connection with this project.
+Section 615i, act Aug. 6, 1956, ch. 980, §4, 70 Stat. 1059; Pub. L. 113–244, §3, Dec. 18, 2014, 128 Stat. 2865, related to preservation and propagation of fish and wildlife in connection with this project.
 
 Section 615j, act Aug. 6, 1956, ch. 980, §5, 70 Stat. 1059, authorized appropriations for this project.
 
