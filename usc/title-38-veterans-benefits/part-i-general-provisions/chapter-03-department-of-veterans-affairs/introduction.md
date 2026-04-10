@@ -52,7 +52,11 @@ Sec.
 
 324\. Cost of War Toxic Exposures Fund.
 
+325\. Veterans Experience Office. 1
+
         
+
+  
 
 #### **Editorial Notes**
 
@@ -128,6 +132,8 @@ Section 246, added Pub. L. 95–202, title III, §310(b)(1), Nov. 23, 1977, 91 S
 
 #### Amendments
 
+**2025**—Pub. L. 119–33, §2(b)(2), Aug. 14, 2025, 139 Stat. 487, added item 325.
+
 **2022**—Pub. L. 117–168, §1(b)(2), title VIII, §805(a), Aug. 10, 2022, 136 Stat. 1759, 1804, added item 324.
 
 **2017**—Pub. L. 115–41, title I, §101(c), June 23, 2017, 131 Stat. 865, added item 323.
@@ -149,3 +155,5 @@ Section 246, added Pub. L. 95–202, title III, §310(b)(1), Nov. 23, 1977, 91 S
 **1992**—Pub. L. 102–405, title III, §302(c)(1), Oct. 9, 1992, 106 Stat. 1984, substituted "Under Secretary for Health" for "Chief Medical Director" in item 305 and "Under Secretary for Benefits" for "Chief Benefits Director" in item 306.
 
 **1991**—Pub. L. 102–218, §1(b), Dec. 11, 1991, 105 Stat. 1672, added item 317.
+
+[1 So in original. Does not conform to section catchline.](#CHAPTER3_1)
