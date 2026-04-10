@@ -56,4 +56,6 @@ Sec.
 
 4851\. Under Secretary of Commerce for Industry and Security.
 
+4852\. Assistant Secretaries of Commerce.
+
         

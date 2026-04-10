@@ -64,7 +64,7 @@ In the case of any amount in the revolving fund consisting of a payment received
 
 **2018**—Pub. L. 115–141, §151(1)(A), substituted "Revolving fund for sales shop and other services" for "Revolving fund for gift shop, decimal classification, photo duplication, and related services" in section catchline.
 
-Subsec. (a). Pub. L. 115–141, §151(1)(B), added par. (5).
+Subsec. (a)(5). Pub. L. 115–141, §151(1)(B), added par. (5).
 
 **2010**—Subsec. (e). Pub. L. 111–145 repealed Pub. L. 110–161, §1004(f)(1). See 2007 Amendment note below.
 

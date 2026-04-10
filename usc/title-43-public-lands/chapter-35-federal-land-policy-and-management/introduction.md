@@ -72,6 +72,8 @@ Sec.
 
 1742\. Search, rescue, and protection forces; emergency situations authorizing hiring.
 
+1742a. Good Samaritan Search and Recovery Act.
+
 1743\. Disclosure of financial interests by officers or employees.
 
 1744\. Recordation of mining claims.
@@ -91,6 +93,8 @@ Sec.
 1748a–2. Reporting requirements.
 
 1748b. Cohesive wildfire management strategy.
+
+1748b–1. Wildfire technology modernization.
 
 1748c. Bureau of Land Management Foundation.
 
