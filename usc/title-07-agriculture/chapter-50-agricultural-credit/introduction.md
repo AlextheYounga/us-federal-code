@@ -62,6 +62,8 @@ Sec.
 
 1936a. Use of rural development loans and grants for other purposes.
 
+1936b. Intermediary relending program.
+
         
 
 #### SUBCHAPTER II—OPERATING LOANS
@@ -133,6 +135,8 @@ Sec.
 1983b. Beginning farmer and rancher individual development accounts pilot program.
 
 1983c. Provision of information to borrowers.
+
+1983d. Farmer loan pilot projects.
 
 1984\. Taxation.
 
@@ -212,7 +216,7 @@ Sec.
 
 2008i. Short form certification of farm program borrower compliance.
 
-2008j. National Sheep Industry Improvement Center.
+2008j. Transferred.
 
 2008k. Making and servicing of loans by personnel of State, county, or area committees.
 
@@ -237,6 +241,8 @@ Sec.
 2008t. Grants for expansion of employment opportunities for individuals with disabilities in rural areas.
 
 2008u. Health care services.
+
+2008v. Strategic economic and community development.
 
         
 

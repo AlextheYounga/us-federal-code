@@ -32,6 +32,8 @@ Sec.
 
 3125a. National Agricultural Library.
 
+3125a–1. Agricultural and food law research, legal tools, and information.
+
 3125b. National Rural Information Center Clearinghouse.
 
 3125c. Repealed.
@@ -56,13 +58,15 @@ Sec.
 
 3151a. Veterinary medicine loan repayment.
 
+3151b. Veterinary services grant program.
+
 3152\. Grants and fellowships for food and agricultural sciences education.
 
 3153\. National Agricultural Science Award.
 
 3154\. Repealed.
 
-3155\. Policy research centers.
+3155\. Agricultural and food policy research centers.
 
 3156\. Education grants to Alaska Native serving institutions and Native Hawaiian serving institutions.
 
@@ -76,9 +80,7 @@ Sec.
 
 3173\. Research by Department of Agriculture.
 
-3174\. Human nutrition intervention and health promotion research program.
-
-3174a. Pilot research program to combine medical and agricultural research.
+3174, 3174a. Repealed.
 
 3175\. Nutrition education program.
 
@@ -112,7 +114,7 @@ Sec.
 
 3194\. Repealed.
 
-3195\. Continuing animal health and disease research programs.
+3195\. Continuing animal health and disease, food security, and stewardship research, education, and extension programs.
 
 3196\. Research on national and regional animal health or disease problems.
 
@@ -142,9 +144,9 @@ Sec.
 
 3222b–1. Grants to upgrade agriculture and food sciences facilities at the District of Columbia land-grant university.
 
-3222b–2. Grants to upgrade agriculture and food sciences facilities and equipment at insular area land-grant institutions.
+3222b–2. Grants to upgrade agriculture and food sciences facilities and equipment and support tropical and subtropical agricultural research at insular area land-grant colleges and universities.
 
-3222c. National research and training virtual centers.
+3222c. Repealed.
 
 3222d. Matching funds requirement for research and extension activities at eligible institutions.
 
@@ -190,7 +192,7 @@ Sec.
 
 3310\. Limitation on indirect costs for agricultural research, education, and extension programs.
 
-3310a. Research equipment grants.
+3310a. Repealed.
 
 3311\. Authorization of appropriations.
 
@@ -279,5 +281,11 @@ Sec.
 3362\. Distance education grants for insular areas.
 
 3363\. Resident instruction grants for insular areas.
+
+        
+
+#### SUBCHAPTER XV—GENERAL PROVISIONS
+
+3371\. Matching funds requirement.
 
         

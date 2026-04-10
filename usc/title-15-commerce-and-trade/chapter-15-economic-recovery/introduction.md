@@ -32,9 +32,7 @@ Sec.
 
 713a–13. Policies and procedures for minimum acquisition of stocks by Commodity Credit Corporation, encouragement of marketing through private trade channels and procurement of maximum returns in marketplace for producers and Corporation.
 
-713a–14. Dairy export incentive program.
-
-713b. Repealed.
+713a–14, 713b. Repealed.
 
 713c. Federal Surplus Commodities Corporation; continuance of existence; purchase and distribution of surplus agricultural commodities.
 

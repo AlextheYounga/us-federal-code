@@ -16,6 +16,8 @@ Sec.
 
 443c. Emergency plan for Indian safety and health.
 
+443d. Service of traditional foods in public facilities.
+
 444 to 449. Repealed.
 
         
@@ -311,6 +313,8 @@ Sec.
 487\. Spokane Indian Reservation; consolidations of land.
 
 488\. Loans to purchasers of highly fractioned land.
+
+488a. Removal of duplicative appraisals.
 
 489\. Title in trust to United States.
 
